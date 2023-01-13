@@ -7,7 +7,6 @@ import openai
 load_dotenv()
 
 OPENAI_KEY = os.getenv('OPENAI_KEY')
-ANSWER = ''
 
 def forms(root):
 
@@ -188,7 +187,6 @@ def app():
     root = tk.Tk()
     root.title('Poker OpenAI')
     root.geometry('550x800')
-    ANSWER = tk.StringVar('')
     forms(root)
     while True:
         root.mainloop()
