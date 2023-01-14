@@ -3,6 +3,7 @@ import tkinter as tk
 from dotenv import load_dotenv
 from tkinter import ttk
 import openai
+from PIL import ImageTk, Image
 
 load_dotenv()
 
@@ -140,6 +141,66 @@ def forms(root):
     ))
     send_btn.grid(row=14, column=1, sticky='NESW')
 
+    answer_label = tk.Text(root, width=42, height= 20)
+    answer_label.insert(tk.INSERT, 'hello')
+    answer_label.place(x=370, y=360)
+
+def detection(root):
+    window_pos = []
+    window_selected = tk.IntVar(0)
+
+    detection_label = tk.Label(root, text='tables')
+    detection_label.grid(row=0, column=4, padx=10, pady=10)
+
+    add_btn = tk.Button(root, text='add', command=lambda: add_win(
+        root,
+        window_pos,
+        window_selected))
+    add_btn.grid(row=1, column=4)
+
+    del_btn = tk.Button(root, text='del', command=lambda: del_win(
+        root,
+        window_pos,
+        window_selected.get()))
+    del_btn.grid(row=2, column=4)
+
+    select_btn = tk.Button(root, text='select', command=lambda: select_win(
+        root,
+        window_pos,
+        window_selected.get()))
+    select_btn.grid(row=3, column=4)
+
+def add_win(root, window_pos, window_selected):
+    if len(window_pos) >= 6:
+        return
+    if len(window_pos):
+        i = 0
+        for a, b in enumerate(sorted(window_pos, key = lambda x: x[1]), 1):
+            if a != b[1]:
+                break
+            i = a
+        i += 1
+    else:
+        i = 1
+    win_btn = tk.Radiobutton(root, text=str(i), variable=window_selected, value=i)
+    win_btn.grid(row=0, column=4+i)
+    window_pos.append((win_btn, i, 0, 0))
+    
+def del_win(root, window_pos, window_selected):
+    for i, win in enumerate(window_pos):
+        if win[1] == window_selected:
+            win[0].grid_forget()
+            window_pos.pop(i)
+
+def select_win(root, window_pos, window_selected):
+    image = Image.open('screen.png')
+    ratio = max(image.size[0] / 280, image.size[1] / 280)
+    image = image.resize((int(image.size[0] / ratio), int(image.size[1] / ratio)), Image.ANTIALIAS)
+    img = ImageTk.PhotoImage(image)
+    img_label = tk.Label(root, image=img)
+    img_label.image=img
+    img_label.place(x=440, y=42)
+
 def send(root, table_nb_player=None, position=None, nb_player=None, round=None, stack=None, pot=None, call=None, hand_v1=None, hand_s1=None, hand_v2=None, hand_s2=None, card_v1=None, card_s1=None, card_v2=None, card_s2=None, card_v3=None, card_s3=None, card_v4=None, card_s4=None, card_v5=None, card_s5=None):
     openai.api_key = OPENAI_KEY
 
@@ -163,11 +224,10 @@ def send(root, table_nb_player=None, position=None, nb_player=None, round=None, 
     your hand is {hand_v1} of {hand_s1} and {hand_v2} of {hand_s2}
     {board}
     what is the best move to do ?
-    answer with only bet, raise, re-raise, check, fold, call, and amout,
+    answer with only bet, raise, re-raise, check, fold, call, and amout
     next explain your move
     """
 
-    print(msg)
     response = openai.Completion.create(
         model="text-davinci-003",
         prompt=msg,
@@ -179,17 +239,27 @@ def send(root, table_nb_player=None, position=None, nb_player=None, round=None, 
     )
     answer = response['choices'][0]['text']
 
-    answer_label = tk.Text(root, width=60, height= 10)
-    answer_label.insert(tk.INSERT, answer)
-    answer_label.grid(row=15, column=0, padx=10, columnspan=5, rowspan=2)
+    text = ''
+    line = ''
+    words = answer.split()
+    for word in words:
+        if len(line + word) < 40:
+            line += word + ' '
+        else:
+            text += '\n'+line
+            line = word + ' '
+    text += '\n'+line
+    answer_label = tk.Text(root, width=42, height= 20)
+    answer_label.insert(tk.INSERT, text)
+    answer_label.place(x=370, y=360)
 
 def app():
     root = tk.Tk()
     root.title('Poker OpenAI')
-    root.geometry('550x800')
+    root.geometry('730x720')
     forms(root)
-    while True:
-        root.mainloop()
+    detection(root)
+    root.mainloop()
 
 if __name__ == '__main__':
     app()
