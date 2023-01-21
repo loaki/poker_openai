@@ -53,29 +53,6 @@ def get_hand_info(data, curr_hand, table_id):
             if line.split()[5] in parsing_fcts:
                 parsing_fcts[line.split()[5]](data, line)
 
-def parse_tournament(file, data, table_id, tournament_id):
-    data.tournament['id'] = tournament_id
-    list_files = os.listdir(HISTORY_PATH)
-    for file in list_files:
-        if tournament_id in file:
-            if '_summary' in file:
-                print(file)
-            else:
-                print(file)
-                with open(HISTORY_PATH+file) as f:
-                    for line in f:
-                        pass
-                        # print(line)
-
-def format_info(file, prev_hand_nb=0):
-    data = Log_data()
-    curr_hand, table_id, tournament_id = get_hand(file, prev_hand_nb)
-    if not tournament_id:
-        return None
-    get_hand_info(data, curr_hand, table_id)
-    parse_tournament(file, data, table_id, tournament_id)
-    return data
-
 def reverse_readline(filename, buf_size=8192):
     """A generator that returns the lines of a file in reverse order"""
     with open(filename) as fh:
@@ -154,6 +131,29 @@ def get_hand(file, prev_hand_nb=1):
             return curr_hand, table_id, tournament_id
     print(f'###parsing error\nfile: {file}\ntable id: {table_id}')
     return None, None, None
+
+def parse_tournament(file, data, table_id, tournament_id):
+    data.tournament['id'] = tournament_id
+    list_files = os.listdir(HISTORY_PATH)
+    for file in list_files:
+        if tournament_id in file:
+            if '_summary' in file:
+                print(file)
+            else:
+                print(file)
+                with open(HISTORY_PATH+file) as f:
+                    for line in f:
+                        pass
+                        # print(line)
+
+def format_info(file, prev_hand_nb=0):
+    data = Log_data()
+    curr_hand, table_id, tournament_id = get_hand(file, prev_hand_nb)
+    if not tournament_id:
+        return None
+    get_hand_info(data, curr_hand, table_id)
+    parse_tournament(file, data, table_id, tournament_id)
+    return data
 
 def print_data(data):
     print(
