@@ -27,6 +27,8 @@ def parse_action(data, line):
             data.players[login] = {}
             if 'SB' in line.split()[6]:
                 data.players[login]['position'] = 'SB'
+            elif 'BB' in line.split()[6]:
+                data.players[login]['position'] = 'BB'
             else:
                 data.players[login]['position'] = 'BTN'
                 if data.players[list(data.players)[-2]]['position'] == 'BTN':
