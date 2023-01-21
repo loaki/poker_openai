@@ -108,18 +108,18 @@ def get_hand(file, prev_hand_nb):
         # hand info completed
         elif (status == 1 or prev_hand_nb != 0) and re.search(r'.*inf \[table\].*hand.*', line):
             prev_hand_nb -= 1
-            table_id = line.split(".")[-1].split()[0][1:]
             if prev_hand_nb < 0:
+                table_id = line.split(".")[-1].split()[0][1:]
                 status = 2
         
-        # get tournament id
+        # get tournament id in switch case
         elif switch == True and re.search(r'.*inf \[network\].*TOURNAMENT:GET_TABLE_OK', line):
             match = re.search(r"\.t(\d+) ", line)
             if match:
                 tournament_id = match.group(1)
                 switch = False
         
-        # get tournament id in switch case
+        # get tournament id
         elif table_id and tournament_id == 0 and re.search(r'.*inf \[router\] Execution done: wam://table.*', line):
             if 'switching' in line:
                 switch = True
