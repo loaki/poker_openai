@@ -1,0 +1,395 @@
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600302415089500161-1-1669567985 - Holdem no limit (10/20) - 2022/11/27 16:53:05 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HMC Tibi (500)
+Seat 2: hemi46 (500)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+hemi46 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [7s 2c]
+*** PRE-FLOP *** 
+HMC Tibi raises 20 to 40
+hemi46 calls 30
+YL_ML_GL_42 folds
+*** FLOP *** [As 2h 9d]
+hemi46 checks
+HMC Tibi bets 25
+hemi46 calls 25
+*** TURN *** [As 2h 9d][Qd]
+hemi46 checks
+HMC Tibi checks
+*** RIVER *** [As 2h 9d Qd][6d]
+hemi46 checks
+HMC Tibi bets 113
+hemi46 folds
+HMC Tibi collected 263 from pot
+*** SUMMARY ***
+Total pot 263 | No rake
+Board: [As 2h 9d Qd 6d]
+Seat 1: HMC Tibi (button) won 263
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600302415089500161-2-1669568036 - Holdem no limit (10/20) - 2022/11/27 16:53:56 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #2 is the button
+Seat 1: HMC Tibi (585)
+Seat 2: hemi46 (435)
+Seat 3: YL_ML_GL_42 (480)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+HMC Tibi posts big blind 20
+Dealt to YL_ML_GL_42 [Jh 4h]
+*** PRE-FLOP *** 
+hemi46 folds
+YL_ML_GL_42 raises 40 to 60
+HMC Tibi folds
+YL_ML_GL_42 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: YL_ML_GL_42 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600302415089500161-3-1669568048 - Holdem no limit (10/20) - 2022/11/27 16:54:08 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #3 is the button
+Seat 1: HMC Tibi (565)
+Seat 2: hemi46 (435)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+HMC Tibi posts small blind 10
+hemi46 posts big blind 20
+Dealt to YL_ML_GL_42 [Js Jc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+HMC Tibi folds
+hemi46 folds
+YL_ML_GL_42 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 3: YL_ML_GL_42 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600302415089500161-4-1669568057 - Holdem no limit (10/20) - 2022/11/27 16:54:17 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HMC Tibi (555)
+Seat 2: hemi46 (415)
+Seat 3: YL_ML_GL_42 (530)
+*** ANTE/BLINDS ***
+hemi46 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Qs 7h]
+*** PRE-FLOP *** 
+HMC Tibi raises 20 to 40
+hemi46 folds
+YL_ML_GL_42 calls 20
+*** FLOP *** [8c Ac 5h]
+YL_ML_GL_42 checks
+HMC Tibi bets 23
+YL_ML_GL_42 folds
+HMC Tibi collected 113 from pot
+*** SUMMARY ***
+Total pot 113 | No rake
+Board: [8c Ac 5h]
+Seat 1: HMC Tibi (button) won 113
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2600302415089500161-5-1669568073 - Holdem no limit (15/30) - 2022/11/27 16:54:33 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #2 is the button
+Seat 1: HMC Tibi (605)
+Seat 2: hemi46 (405)
+Seat 3: YL_ML_GL_42 (490)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+HMC Tibi posts big blind 30
+Dealt to YL_ML_GL_42 [Tc Kd]
+*** PRE-FLOP *** 
+hemi46 folds
+YL_ML_GL_42 raises 60 to 90
+HMC Tibi folds
+YL_ML_GL_42 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: YL_ML_GL_42 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2600302415089500161-6-1669568092 - Holdem no limit (15/30) - 2022/11/27 16:54:52 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #3 is the button
+Seat 1: HMC Tibi (575)
+Seat 2: hemi46 (405)
+Seat 3: YL_ML_GL_42 (520)
+*** ANTE/BLINDS ***
+HMC Tibi posts small blind 15
+hemi46 posts big blind 30
+Dealt to YL_ML_GL_42 [7h Jc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+HMC Tibi raises 30 to 60
+hemi46 folds
+HMC Tibi collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: HMC Tibi (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2600302415089500161-7-1669568108 - Holdem no limit (15/30) - 2022/11/27 16:55:08 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HMC Tibi (605)
+Seat 2: hemi46 (375)
+Seat 3: YL_ML_GL_42 (520)
+*** ANTE/BLINDS ***
+hemi46 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Kd 4s]
+*** PRE-FLOP *** 
+HMC Tibi folds
+hemi46 raises 45 to 75
+YL_ML_GL_42 folds
+hemi46 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 2: hemi46 (small blind) won 105
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2600302415089500161-8-1669568123 - Holdem no limit (15/30) - 2022/11/27 16:55:23 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #2 is the button
+Seat 1: HMC Tibi (605)
+Seat 2: hemi46 (405)
+Seat 3: YL_ML_GL_42 (490)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+HMC Tibi posts big blind 30
+Dealt to YL_ML_GL_42 [3h 6c]
+*** PRE-FLOP *** 
+hemi46 folds
+YL_ML_GL_42 folds
+HMC Tibi collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: HMC Tibi (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2600302415089500161-9-1669568128 - Holdem no limit (15/30) - 2022/11/27 16:55:28 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #3 is the button
+Seat 1: HMC Tibi (620)
+Seat 2: hemi46 (405)
+Seat 3: YL_ML_GL_42 (475)
+*** ANTE/BLINDS ***
+HMC Tibi posts small blind 15
+hemi46 posts big blind 30
+Dealt to YL_ML_GL_42 [Kc Qh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 75 to 105
+HMC Tibi folds
+hemi46 folds
+YL_ML_GL_42 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 3: YL_ML_GL_42 (button) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2600302415089500161-10-1669568139 - Holdem no limit (15/30) - 2022/11/27 16:55:39 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HMC Tibi (605)
+Seat 2: hemi46 (375)
+Seat 3: YL_ML_GL_42 (520)
+*** ANTE/BLINDS ***
+hemi46 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [4h 2d]
+*** PRE-FLOP *** 
+HMC Tibi folds
+hemi46 raises 45 to 75
+YL_ML_GL_42 folds
+hemi46 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 2: hemi46 (small blind) won 105
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2600302415089500161-11-1669568151 - Holdem no limit (15/30) - 2022/11/27 16:55:51 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #2 is the button
+Seat 1: HMC Tibi (605)
+Seat 2: hemi46 (405)
+Seat 3: YL_ML_GL_42 (490)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+HMC Tibi posts big blind 30
+Dealt to YL_ML_GL_42 [6d 8d]
+*** PRE-FLOP *** 
+hemi46 folds
+YL_ML_GL_42 raises 60 to 90
+HMC Tibi calls 60
+*** FLOP *** [9c Ts 6s]
+YL_ML_GL_42 bets 180
+HMC Tibi raises 335 to 515 and is all-in
+YL_ML_GL_42 calls 220 and is all-in
+*** TURN *** [9c Ts 6s][9d]
+*** RIVER *** [9c Ts 6s 9d][Qh]
+*** SHOW DOWN ***
+HMC Tibi shows [8s Ks] (One pair : 9)
+YL_ML_GL_42 shows [6d 8d] (Two pairs : 9 and 6)
+YL_ML_GL_42 collected 980 from main pot
+HMC Tibi collected 115 from side pot 1
+*** SUMMARY ***
+Total pot 1095 | No rake
+Board: [9c Ts 6s 9d Qh]
+Seat 1: HMC Tibi (big blind) showed [8s Ks] and won 115 with One pair : 9
+Seat 3: YL_ML_GL_42 (small blind) showed [6d 8d] and won 980 with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2600302415089500161-12-1669568175 - Holdem no limit (20/40) - 2022/11/27 16:56:15 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #3 is the button
+Seat 1: HMC Tibi (115)
+Seat 2: hemi46 (405)
+Seat 3: YL_ML_GL_42 (980)
+*** ANTE/BLINDS ***
+HMC Tibi posts small blind 20
+hemi46 posts big blind 40
+Dealt to YL_ML_GL_42 [5d Kc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 100 to 140
+HMC Tibi folds
+hemi46 raises 265 to 405 and is all-in
+YL_ML_GL_42 calls 265
+*** FLOP *** [4c 9s 2c]
+*** TURN *** [4c 9s 2c][Th]
+*** RIVER *** [4c 9s 2c Th][2h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [5d Kc] (One pair : 2)
+hemi46 shows [Kh Ad] (One pair : 2)
+hemi46 collected 830 from pot
+*** SUMMARY ***
+Total pot 830 | No rake
+Board: [4c 9s 2c Th 2h]
+Seat 2: hemi46 (big blind) showed [Kh Ad] and won 830 with One pair : 2
+Seat 3: YL_ML_GL_42 (button) showed [5d Kc] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2600302415089500161-13-1669568203 - Holdem no limit (20/40) - 2022/11/27 16:56:43 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HMC Tibi (95)
+Seat 2: hemi46 (830)
+Seat 3: YL_ML_GL_42 (575)
+*** ANTE/BLINDS ***
+hemi46 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Ac Tc]
+*** PRE-FLOP *** 
+HMC Tibi folds
+hemi46 raises 60 to 100
+YL_ML_GL_42 raises 200 to 300
+hemi46 folds
+YL_ML_GL_42 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 3: YL_ML_GL_42 (big blind) won 400
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2600302415089500161-14-1669568219 - Holdem no limit (20/40) - 2022/11/27 16:56:59 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #2 is the button
+Seat 1: HMC Tibi (95)
+Seat 2: hemi46 (730)
+Seat 3: YL_ML_GL_42 (675)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+HMC Tibi posts big blind 40
+Dealt to YL_ML_GL_42 [6h Kc]
+*** PRE-FLOP *** 
+hemi46 folds
+YL_ML_GL_42 raises 80 to 120
+HMC Tibi calls 55 and is all-in
+*** FLOP *** [4h 4c Kh]
+*** TURN *** [4h 4c Kh][Td]
+*** RIVER *** [4h 4c Kh Td][9s]
+*** SHOW DOWN ***
+HMC Tibi shows [8s Jd] (One pair : 4)
+YL_ML_GL_42 shows [6h Kc] (Two pairs : Kings and 4)
+YL_ML_GL_42 collected 215 from pot
+*** SUMMARY ***
+Total pot 215 | No rake
+Board: [4h 4c Kh Td 9s]
+Seat 1: HMC Tibi (big blind) showed [8s Jd] and lost with One pair : 4
+Seat 3: YL_ML_GL_42 (small blind) showed [6h Kc] and won 215 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2600302415089500161-15-1669568241 - Holdem no limit (20/40) - 2022/11/27 16:57:21 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #2 is the button
+Seat 2: hemi46 (730)
+Seat 3: YL_ML_GL_42 (770)
+*** ANTE/BLINDS ***
+hemi46 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Jd Td]
+*** PRE-FLOP *** 
+hemi46 calls 20
+YL_ML_GL_42 raises 80 to 120
+hemi46 calls 80
+*** FLOP *** [5c Jh 7c]
+YL_ML_GL_42 checks
+hemi46 checks
+*** TURN *** [5c Jh 7c][Kh]
+YL_ML_GL_42 checks
+hemi46 checks
+*** RIVER *** [5c Jh 7c Kh][Qd]
+YL_ML_GL_42 bets 240
+hemi46 raises 370 to 610 and is all-in
+YL_ML_GL_42 calls 370
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Jd Td] (One pair : Jacks)
+hemi46 shows [Th 9s] (Straight King high)
+hemi46 collected 1460 from pot
+*** SUMMARY ***
+Total pot 1460 | No rake
+Board: [5c Jh 7c Kh Qd]
+Seat 2: hemi46 (small blind) (button) showed [Th 9s] and won 1460 with Straight King high
+Seat 3: YL_ML_GL_42 (big blind) showed [Jd Td] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 4 - HandId: #2600302415089500161-16-1669568270 - Holdem no limit (30/60) - 2022/11/27 16:57:50 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #3 is the button
+Seat 2: hemi46 (1460)
+Seat 3: YL_ML_GL_42 (40)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+hemi46 posts big blind 60
+Dealt to YL_ML_GL_42 [4h 3h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 10 and is all-in
+*** FLOP *** [5c 3d 4d]
+*** TURN *** [5c 3d 4d][8c]
+*** RIVER *** [5c 3d 4d 8c][Th]
+*** SHOW DOWN ***
+hemi46 shows [9c Kh] (High card : King)
+YL_ML_GL_42 shows [4h 3h] (Two pairs : 4 and 3)
+YL_ML_GL_42 collected 80 from main pot
+hemi46 collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [5c 3d 4d 8c Th]
+Seat 2: hemi46 (big blind) showed [9c Kh] and won 20 with High card : King
+Seat 3: YL_ML_GL_42 (small blind) (button) showed [4h 3h] and won 80 with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 4 - HandId: #2600302415089500161-17-1669568280 - Holdem no limit (30/60) - 2022/11/27 16:58:00 UTC
+Table: 'Expresso(605430085)#0' 3-max (real money) Seat #2 is the button
+Seat 2: hemi46 (1420)
+Seat 3: YL_ML_GL_42 (80)
+*** ANTE/BLINDS ***
+hemi46 posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [7d 3d]
+*** PRE-FLOP *** 
+hemi46 raises 60 to 120
+YL_ML_GL_42 calls 20 and is all-in
+*** FLOP *** [Jc Ts 9s]
+*** TURN *** [Jc Ts 9s][5d]
+*** RIVER *** [Jc Ts 9s 5d][9d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7d 3d] (One pair : 9)
+hemi46 shows [Kd 4s] (One pair : 9)
+hemi46 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Jc Ts 9s 5d 9d]
+Seat 2: hemi46 (small blind) (button) showed [Kd 4s] and won 200 with One pair : 9
+Seat 3: YL_ML_GL_42 (big blind) showed [7d 3d] and lost with One pair : 9
+
+

@@ -1,0 +1,2644 @@
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-1-1670268701 - Holdem no limit (25/100/200) - 2022/12/05 19:31:41 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #1 is the button
+Seat 1: zLagui (19975, 1.80€ bounty)
+Seat 2: Rob Bellamy (20000, 1.80€ bounty)
+Seat 3: Le3Riviere (20000, 1.80€ bounty)
+Seat 4: Soso56269 (19950, 1.80€ bounty)
+Seat 5: Michel1953 (19975, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (20000, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Le3Riviere posts ante 25
+Soso56269 posts ante 25
+zLagui posts ante 25
+Michel1953 posts ante 25
+YL_ML_GL_42 posts ante 25
+Le3Riviere posts small blind 100
+Soso56269 posts big blind 200
+Dealt to YL_ML_GL_42 [6s 7c]
+*** PRE-FLOP *** 
+Michel1953 folds
+YL_ML_GL_42 folds
+zLagui calls 200
+Le3Riviere raises 725 to 925
+Soso56269 calls 725
+zLagui calls 725
+*** FLOP *** [2c 3d Tc]
+Le3Riviere checks
+Soso56269 bets 2900
+zLagui raises 16125 to 19025 and is all-in
+Le3Riviere folds
+Soso56269 calls 16100 and is all-in
+*** TURN *** [2c 3d Tc][7h]
+*** RIVER *** [2c 3d Tc 7h][8s]
+*** SHOW DOWN ***
+zLagui shows [Kc Ts] (One pair : Tens)
+Soso56269 shows [Td Kd] (One pair : Tens)
+Soso56269 collected 20450 from main pot
+zLagui collected 20475 from side pot 1
+*** SUMMARY ***
+Total pot 40925 | No rake
+Board: [2c 3d Tc 7h 8s]
+Seat 1: zLagui (button) showed [Kc Ts] and won 20475 with One pair : Tens
+Seat 4: Soso56269 (big blind) showed [Td Kd] and won 20450 with One pair : Tens
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-2-1670268773 - Holdem no limit (25/100/200) - 2022/12/05 19:32:53 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #3 is the button
+Seat 1: zLagui (20475, 1.80€ bounty)
+Seat 2: Rob Bellamy (20000, 1.80€ bounty)
+Seat 3: Le3Riviere (19050, 1.80€ bounty)
+Seat 4: Soso56269 (20450, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (19975, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Soso56269 posts ante 25
+YL_ML_GL_42 posts ante 25
+zLagui posts ante 25
+Rob Bellamy posts ante 25
+Le3Riviere posts ante 25
+Soso56269 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [2c 7c]
+*** PRE-FLOP *** 
+zLagui folds
+Rob Bellamy folds
+Le3Riviere raises 625 to 825
+Soso56269 folds
+YL_ML_GL_42 folds
+Le3Riviere collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Seat 3: Le3Riviere (button) won 1250
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-3-1670268807 - Holdem no limit (25/100/200) - 2022/12/05 19:33:27 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #4 is the button
+Seat 1: zLagui (20450, 1.80€ bounty)
+Seat 2: Rob Bellamy (19975, 1.80€ bounty)
+Seat 3: Le3Riviere (19450, 1.80€ bounty)
+Seat 4: Soso56269 (20325, 1.80€ bounty)
+Seat 5: IllIIllIIllI (20000, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (19750, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+zLagui posts ante 25
+Rob Bellamy posts ante 25
+Le3Riviere posts ante 25
+Soso56269 posts ante 25
+YL_ML_GL_42 posts small blind 100
+zLagui posts big blind 200
+Dealt to YL_ML_GL_42 [2d 4c]
+*** PRE-FLOP *** 
+Rob Bellamy folds
+Le3Riviere raises 625 to 825
+Soso56269 folds
+YL_ML_GL_42 folds
+zLagui calls 625
+*** FLOP *** [8c 3d 7d]
+zLagui bets 1000
+Le3Riviere folds
+zLagui collected 2875 from pot
+*** SUMMARY ***
+Total pot 2875 | No rake
+Board: [8c 3d 7d]
+Seat 1: zLagui (big blind) won 2875
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-4-1670268844 - Holdem no limit (25/100/200) - 2022/12/05 19:34:04 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #6 is the button
+Seat 1: zLagui (21475, 1.80€ bounty)
+Seat 3: Le3Riviere (18600, 1.80€ bounty)
+Seat 4: Soso56269 (20300, 1.80€ bounty)
+Seat 5: IllIIllIIllI (20000, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (19625, 1.80€ bounty)
+*** ANTE/BLINDS ***
+zLagui posts ante 25
+Le3Riviere posts ante 25
+Soso56269 posts ante 25
+IllIIllIIllI posts ante 25
+YL_ML_GL_42 posts ante 25
+zLagui posts small blind 100
+Le3Riviere posts big blind 200
+Dealt to YL_ML_GL_42 [Ts 9s]
+*** PRE-FLOP *** 
+Soso56269 folds
+IllIIllIIllI folds
+YL_ML_GL_42 calls 200
+zLagui raises 800 to 1000
+Le3Riviere folds
+YL_ML_GL_42 raises 2325 to 3325
+zLagui raises 18125 to 21450 and is all-in
+YL_ML_GL_42 calls 16275 and is all-in
+*** FLOP *** [Qd 3c As]
+*** TURN *** [Qd 3c As][9h]
+*** RIVER *** [Qd 3c As 9h][Kd]
+*** SHOW DOWN ***
+zLagui shows [8c 8d] (One pair : 8)
+YL_ML_GL_42 shows [Ts 9s] (One pair : 9)
+YL_ML_GL_42 collected 39525 from main pot
+zLagui collected 1850 from side pot 1
+*** SUMMARY ***
+Total pot 41375 | No rake
+Board: [Qd 3c As 9h Kd]
+Seat 1: zLagui (small blind) showed [8c 8d] and won 1850 with One pair : 8
+Seat 6: YL_ML_GL_42 (button) showed [Ts 9s] and won 39525 with One pair : 9
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-5-1670268891 - Holdem no limit (25/100/200) - 2022/12/05 19:34:51 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #1 is the button
+Seat 1: zLagui (1850, 1.80€ bounty)
+Seat 2: JJnito (20000, 1.80€ bounty)
+Seat 3: Le3Riviere (18375, 1.80€ bounty)
+Seat 4: Soso56269 (20275, 1.80€ bounty)
+Seat 5: IllIIllIIllI (19975, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (39525, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Le3Riviere posts ante 25
+Soso56269 posts ante 25
+zLagui posts ante 25
+IllIIllIIllI posts ante 25
+YL_ML_GL_42 posts ante 25
+Le3Riviere posts small blind 100
+Soso56269 posts big blind 200
+Dealt to YL_ML_GL_42 [6d 6s]
+*** PRE-FLOP *** 
+IllIIllIIllI folds
+YL_ML_GL_42 raises 400 to 600
+zLagui folds
+Le3Riviere calls 500
+Soso56269 folds
+*** FLOP *** [Ts 7d Ad]
+Le3Riviere checks
+YL_ML_GL_42 checks
+*** TURN *** [Ts 7d Ad][Kd]
+Le3Riviere checks
+YL_ML_GL_42 checks
+*** RIVER *** [Ts 7d Ad Kd][5c]
+Le3Riviere checks
+YL_ML_GL_42 bets 991
+Le3Riviere raises 1933 to 2924
+YL_ML_GL_42 folds
+Le3Riviere collected 5440 from pot
+*** SUMMARY ***
+Total pot 5440 | No rake
+Board: [Ts 7d Ad Kd 5c]
+Seat 3: Le3Riviere (small blind) won 5440
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-6-1670268968 - Holdem no limit (25/100/200) - 2022/12/05 19:36:08 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #3 is the button
+Seat 1: zLagui (1825, 1.80€ bounty)
+Seat 2: JJnito (20000, 1.80€ bounty)
+Seat 3: Le3Riviere (20266, 1.80€ bounty)
+Seat 4: Soso56269 (20050, 1.80€ bounty)
+Seat 5: Adelit0 (20000, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (37909, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Soso56269 posts ante 25
+Adelit0 posts ante 25
+zLagui posts ante 25
+JJnito posts ante 25
+Le3Riviere posts ante 25
+YL_ML_GL_42 posts ante 25
+Soso56269 posts small blind 100
+Adelit0 posts big blind 200
+Dealt to YL_ML_GL_42 [8c 6c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+zLagui raises 1600 to 1800 and is all-in
+JJnito folds
+Le3Riviere calls 1800
+Soso56269 folds
+Adelit0 calls 1600
+*** FLOP *** [9h Jc Kh]
+Adelit0 checks
+Le3Riviere bets 5650
+Adelit0 calls 5650
+*** TURN *** [9h Jc Kh][Ts]
+Adelit0 checks
+Le3Riviere checks
+*** RIVER *** [9h Jc Kh Ts][Ac]
+Adelit0 bets 12525 and is all-in
+Le3Riviere folds
+*** SHOW DOWN ***
+zLagui shows [Ad 9s] (Two pairs : Aces and 9)
+Adelit0 shows [Qh 8d] (Straight Ace high)
+Adelit0 collected 29475 from pot
+*** SUMMARY ***
+Total pot 29475 | No rake
+Board: [9h Jc Kh Ts Ac]
+Seat 1: zLagui showed [Ad 9s] and lost with Two pairs : Aces and 9
+Seat 5: Adelit0 (big blind) showed [Qh 8d] and won 29475 with Straight Ace high
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-7-1670269028 - Holdem no limit (25/100/200) - 2022/12/05 19:37:08 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #4 is the button
+Seat 1: DIAMOND&RUST (20000, 1.80€ bounty)
+Seat 2: JJnito (19975, 1.80€ bounty)
+Seat 3: Le3Riviere (12791, 1.80€ bounty)
+Seat 4: Soso56269 (19925, 1.80€ bounty)
+Seat 5: Adelit0 (29475, 2.70€ bounty)
+Seat 6: YL_ML_GL_42 (37884, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 25
+YL_ML_GL_42 posts ante 25
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+Le3Riviere posts ante 25
+Soso56269 posts ante 25
+Adelit0 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Qs Kc]
+*** PRE-FLOP *** 
+DIAMOND&RUST raises 650 to 850
+JJnito calls 850
+Le3Riviere folds
+Soso56269 folds
+Adelit0 folds
+YL_ML_GL_42 calls 650
+*** FLOP *** [9s Ac 4d]
+YL_ML_GL_42 checks
+DIAMOND&RUST checks
+JJnito checks
+*** TURN *** [9s Ac 4d][9h]
+YL_ML_GL_42 checks
+DIAMOND&RUST checks
+JJnito checks
+*** RIVER *** [9s Ac 4d 9h][Jd]
+YL_ML_GL_42 checks
+DIAMOND&RUST checks
+JJnito checks
+*** SHOW DOWN ***
+DIAMOND&RUST shows [Ts 7c] (One pair : 9)
+JJnito shows [Qh Kh] (One pair : 9)
+YL_ML_GL_42 shows [Qs Kc] (One pair : 9)
+YL_ML_GL_42 collected 1400 from pot
+JJnito collected 1400 from pot
+*** SUMMARY ***
+Total pot 2800 | No rake
+Board: [9s Ac 4d 9h Jd]
+Seat 1: DIAMOND&RUST showed [Ts 7c] and lost with One pair : 9
+Seat 2: JJnito showed [Qh Kh] and won 1400 with One pair : 9
+Seat 6: YL_ML_GL_42 (big blind) showed [Qs Kc] and won 1400 with One pair : 9
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-8-1670269077 - Holdem no limit (25/100/200) - 2022/12/05 19:37:57 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #5 is the button
+Seat 1: DIAMOND&RUST (19125, 1.80€ bounty)
+Seat 2: JJnito (20500, 1.80€ bounty)
+Seat 3: Le3Riviere (12766, 1.80€ bounty)
+Seat 4: Soso56269 (19900, 1.80€ bounty)
+Seat 5: Adelit0 (29350, 2.70€ bounty)
+Seat 6: YL_ML_GL_42 (38409, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+Le3Riviere posts ante 25
+Soso56269 posts ante 25
+Adelit0 posts ante 25
+YL_ML_GL_42 posts small blind 100
+DIAMOND&RUST posts big blind 200
+Dealt to YL_ML_GL_42 [Qd Ac]
+*** PRE-FLOP *** 
+JJnito folds
+Le3Riviere raises 650 to 850
+Soso56269 folds
+Adelit0 folds
+YL_ML_GL_42 raises 1700 to 2550
+DIAMOND&RUST folds
+Le3Riviere calls 1700
+*** FLOP *** [9h 6c 3c]
+YL_ML_GL_42 checks
+Le3Riviere checks
+*** TURN *** [9h 6c 3c][Qs]
+YL_ML_GL_42 bets 1908
+Le3Riviere folds
+YL_ML_GL_42 collected 7358 from pot
+*** SUMMARY ***
+Total pot 7358 | No rake
+Board: [9h 6c 3c Qs]
+Seat 6: YL_ML_GL_42 (small blind) won 7358
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-9-1670269134 - Holdem no limit (25/100/200) - 2022/12/05 19:38:54 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #6 is the button
+Seat 1: DIAMOND&RUST (18900, 1.80€ bounty)
+Seat 2: JJnito (20475, 1.80€ bounty)
+Seat 3: Le3Riviere (10191, 1.80€ bounty)
+Seat 4: Soso56269 (19875, 1.80€ bounty)
+Seat 5: Adelit0 (29325, 2.70€ bounty)
+Seat 6: YL_ML_GL_42 (41284, 1.80€ bounty)
+*** ANTE/BLINDS ***
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+Le3Riviere posts ante 25
+Soso56269 posts ante 25
+Adelit0 posts ante 25
+YL_ML_GL_42 posts ante 25
+DIAMOND&RUST posts small blind 100
+JJnito posts big blind 200
+Dealt to YL_ML_GL_42 [8h 7h]
+*** PRE-FLOP *** 
+Le3Riviere calls 200
+Soso56269 folds
+Adelit0 raises 200 to 400
+YL_ML_GL_42 folds
+DIAMOND&RUST calls 300
+JJnito raises 1550 to 1950
+Le3Riviere calls 1750
+Adelit0 calls 1550
+DIAMOND&RUST folds
+*** FLOP *** [3c 8s 9c]
+JJnito bets 4160
+Le3Riviere raises 4056 to 8216 and is all-in
+Adelit0 calls 8216
+JJnito calls 4056
+*** TURN *** [3c 8s 9c][Th]
+JJnito bets 10284 and is all-in
+Adelit0 calls 10284
+*** RIVER *** [3c 8s 9c Th][8d]
+*** SHOW DOWN ***
+Le3Riviere shows [2c 5c] (One pair : 8)
+Adelit0 shows [6c Jc] (One pair : 8)
+JJnito shows [Kh Ks] (Two pairs : Kings and 8)
+JJnito collected 51616 from pot
+*** SUMMARY ***
+Total pot 51616 | No rake
+Board: [3c 8s 9c Th 8d]
+Seat 2: JJnito (big blind) showed [Kh Ks] and won 51616 with Two pairs : Kings and 8
+Seat 3: Le3Riviere showed [2c 5c] and lost with One pair : 8
+Seat 5: Adelit0 showed [6c Jc] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-10-1670269193 - Holdem no limit (25/100/200) - 2022/12/05 19:39:53 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #1 is the button
+Seat 1: DIAMOND&RUST (18475, 1.80€ bounty)
+Seat 2: JJnito (51616, 2.70€ bounty)
+Seat 3: NFLSHOOT (20000, 1.80€ bounty)
+Seat 4: Soso56269 (19850, 1.80€ bounty)
+Seat 5: Adelit0 (8850, 2.70€ bounty)
+Seat 6: YL_ML_GL_42 (41259, 1.80€ bounty)
+*** ANTE/BLINDS ***
+JJnito posts ante 25
+NFLSHOOT posts ante 25
+DIAMOND&RUST posts ante 25
+Soso56269 posts ante 25
+Adelit0 posts ante 25
+YL_ML_GL_42 posts ante 25
+JJnito posts small blind 100
+NFLSHOOT posts big blind 200
+Dealt to YL_ML_GL_42 [5d Js]
+*** PRE-FLOP *** 
+Soso56269 raises 300 to 500
+Adelit0 raises 1000 to 1500
+YL_ML_GL_42 folds
+DIAMOND&RUST folds
+JJnito folds
+NFLSHOOT calls 1300
+Soso56269 calls 1000
+*** FLOP *** [5c Ks Kh]
+NFLSHOOT checks
+Soso56269 checks
+Adelit0 bets 1800
+NFLSHOOT folds
+Soso56269 folds
+Adelit0 collected 6550 from pot
+*** SUMMARY ***
+Total pot 6550 | No rake
+Board: [5c Ks Kh]
+Seat 5: Adelit0 won 6550
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-11-1670269276 - Holdem no limit (25/100/200) - 2022/12/05 19:41:16 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #2 is the button
+Seat 1: DIAMOND&RUST (18450, 1.80€ bounty)
+Seat 2: JJnito (51491, 2.70€ bounty)
+Seat 3: NFLSHOOT (18475, 1.80€ bounty)
+Seat 4: Soso56269 (18325, 1.80€ bounty)
+Seat 5: Adelit0 (12075, 2.70€ bounty)
+Seat 6: YL_ML_GL_42 (41234, 1.80€ bounty)
+*** ANTE/BLINDS ***
+NFLSHOOT posts ante 25
+Soso56269 posts ante 25
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+Adelit0 posts ante 25
+YL_ML_GL_42 posts ante 25
+NFLSHOOT posts small blind 100
+Soso56269 posts big blind 200
+Dealt to YL_ML_GL_42 [7c 7d]
+*** PRE-FLOP *** 
+Adelit0 folds
+YL_ML_GL_42 raises 400 to 600
+DIAMOND&RUST raises 400 to 1000
+JJnito folds
+NFLSHOOT folds
+Soso56269 folds
+YL_ML_GL_42 calls 400
+*** FLOP *** [9c 4h 3s]
+YL_ML_GL_42 bets 1593
+DIAMOND&RUST folds
+YL_ML_GL_42 collected 4043 from pot
+*** SUMMARY ***
+Total pot 4043 | No rake
+Board: [9c 4h 3s]
+Seat 6: YL_ML_GL_42 won 4043
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-12-1670269305 - Holdem no limit (25/100/200) - 2022/12/05 19:41:45 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #3 is the button
+Seat 1: DIAMOND&RUST (17425, 1.80€ bounty)
+Seat 2: JJnito (51466, 2.70€ bounty)
+Seat 3: NFLSHOOT (18350, 1.80€ bounty)
+Seat 4: Soso56269 (18100, 1.80€ bounty)
+Seat 5: Adelit0 (12050, 2.70€ bounty)
+Seat 6: YL_ML_GL_42 (42659, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Soso56269 posts ante 25
+Adelit0 posts ante 25
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+NFLSHOOT posts ante 25
+YL_ML_GL_42 posts ante 25
+Soso56269 posts small blind 100
+Adelit0 posts big blind 200
+Dealt to YL_ML_GL_42 [5s 5d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 400 to 600
+DIAMOND&RUST folds
+JJnito folds
+NFLSHOOT calls 600
+Soso56269 folds
+Adelit0 calls 400
+*** FLOP *** [7c Th 3d]
+Adelit0 checks
+YL_ML_GL_42 checks
+NFLSHOOT checks
+*** TURN *** [7c Th 3d][7d]
+Adelit0 checks
+YL_ML_GL_42 checks
+NFLSHOOT bets 1333
+Adelit0 folds
+YL_ML_GL_42 folds
+NFLSHOOT collected 3383 from pot
+*** SUMMARY ***
+Total pot 3383 | No rake
+Board: [7c Th 3d 7d]
+Seat 3: NFLSHOOT (button) won 3383
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-13-1670269367 - Holdem no limit (25/100/200) - 2022/12/05 19:42:47 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #4 is the button
+Seat 1: DIAMOND&RUST (17400, 1.80€ bounty)
+Seat 2: JJnito (51441, 2.70€ bounty)
+Seat 3: NFLSHOOT (19775, 1.80€ bounty)
+Seat 4: Soso56269 (17975, 1.80€ bounty)
+Seat 5: Adelit0 (11425, 2.70€ bounty)
+Seat 6: YL_ML_GL_42 (42034, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 25
+YL_ML_GL_42 posts ante 25
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+NFLSHOOT posts ante 25
+Soso56269 posts ante 25
+Adelit0 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Kc 5d]
+*** PRE-FLOP *** 
+DIAMOND&RUST raises 650 to 850
+JJnito folds
+NFLSHOOT folds
+Soso56269 folds
+Adelit0 calls 750
+YL_ML_GL_42 folds
+*** FLOP *** [8h 5h Jh]
+Adelit0 checks
+DIAMOND&RUST bets 200
+Adelit0 raises 600 to 800
+DIAMOND&RUST calls 600
+*** TURN *** [8h 5h Jh][Ah]
+Adelit0 bets 2373
+DIAMOND&RUST folds
+Adelit0 collected 6023 from pot
+*** SUMMARY ***
+Total pot 6023 | No rake
+Board: [8h 5h Jh Ah]
+Seat 5: Adelit0 (small blind) won 6023
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-14-1670269412 - Holdem no limit (25/100/200) - 2022/12/05 19:43:32 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #5 is the button
+Seat 1: DIAMOND&RUST (15725, 1.80€ bounty)
+Seat 2: JJnito (51416, 2.70€ bounty)
+Seat 3: NFLSHOOT (19750, 1.80€ bounty)
+Seat 4: Soso56269 (17950, 1.80€ bounty)
+Seat 5: Adelit0 (13400, 2.70€ bounty)
+Seat 6: YL_ML_GL_42 (41809, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+NFLSHOOT posts ante 25
+Soso56269 posts ante 25
+Adelit0 posts ante 25
+YL_ML_GL_42 posts small blind 100
+DIAMOND&RUST posts big blind 200
+Dealt to YL_ML_GL_42 [Jh 2d]
+*** PRE-FLOP *** 
+JJnito folds
+NFLSHOOT folds
+Soso56269 folds
+Adelit0 raises 300 to 500
+YL_ML_GL_42 folds
+DIAMOND&RUST folds
+Adelit0 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 5: Adelit0 (button) won 950
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-15-1670269443 - Holdem no limit (25/100/200) - 2022/12/05 19:44:03 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #6 is the button
+Seat 1: DIAMOND&RUST (15500, 1.80€ bounty)
+Seat 2: JJnito (51391, 2.70€ bounty)
+Seat 3: NFLSHOOT (19725, 1.80€ bounty)
+Seat 4: Soso56269 (17925, 1.80€ bounty)
+Seat 5: Adelit0 (13825, 2.70€ bounty)
+Seat 6: YL_ML_GL_42 (41684, 1.80€ bounty)
+*** ANTE/BLINDS ***
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+NFLSHOOT posts ante 25
+Soso56269 posts ante 25
+Adelit0 posts ante 25
+YL_ML_GL_42 posts ante 25
+DIAMOND&RUST posts small blind 100
+JJnito posts big blind 200
+Dealt to YL_ML_GL_42 [Ks 6d]
+*** PRE-FLOP *** 
+NFLSHOOT folds
+Soso56269 folds
+Adelit0 raises 300 to 500
+YL_ML_GL_42 folds
+DIAMOND&RUST raises 1350 to 1850
+JJnito folds
+Adelit0 calls 1350
+*** FLOP *** [2h 5s 9d]
+DIAMOND&RUST bets 200
+Adelit0 calls 200
+*** TURN *** [2h 5s 9d][7c]
+DIAMOND&RUST bets 200
+Adelit0 raises 1568 to 1768
+DIAMOND&RUST calls 1568
+*** RIVER *** [2h 5s 9d 7c][8h]
+DIAMOND&RUST bets 11657 and is all-in
+Adelit0 calls 9982 and is all-in
+*** SHOW DOWN ***
+Adelit0 shows [5d 5c] (Trips of 5)
+DIAMOND&RUST shows [9s 9h] (Trips of 9)
+DIAMOND&RUST collected 29625 from pot
+*** SUMMARY ***
+Total pot 29625 | No rake
+Board: [2h 5s 9d 7c 8h]
+Seat 1: DIAMOND&RUST (small blind) showed [9s 9h] and won 29625 with Trips of 9
+Seat 5: Adelit0 showed [5d 5c] and lost with Trips of 5
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-16-1670269485 - Holdem no limit (25/100/200) - 2022/12/05 19:44:45 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #1 is the button
+Seat 1: DIAMOND&RUST (29625, 3.15€ bounty)
+Seat 2: JJnito (51166, 2.70€ bounty)
+Seat 3: NFLSHOOT (19700, 1.80€ bounty)
+Seat 4: Soso56269 (17900, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (41659, 1.80€ bounty)
+*** ANTE/BLINDS ***
+JJnito posts ante 25
+NFLSHOOT posts ante 25
+DIAMOND&RUST posts ante 25
+Soso56269 posts ante 25
+YL_ML_GL_42 posts ante 25
+JJnito posts small blind 100
+NFLSHOOT posts big blind 200
+Dealt to YL_ML_GL_42 [Ks 4c]
+*** PRE-FLOP *** 
+Soso56269 folds
+YL_ML_GL_42 folds
+DIAMOND&RUST raises 200 to 400
+JJnito calls 300
+NFLSHOOT calls 200
+*** FLOP *** [8h 6s Kd]
+JJnito checks
+NFLSHOOT bets 861
+DIAMOND&RUST calls 861
+JJnito calls 861
+*** TURN *** [8h 6s Kd][Qh]
+JJnito checks
+NFLSHOOT bets 1368
+DIAMOND&RUST raises 6644 to 8012
+JJnito folds
+NFLSHOOT calls 6644
+*** RIVER *** [8h 6s Kd Qh][5h]
+NFLSHOOT checks
+DIAMOND&RUST bets 19932
+NFLSHOOT folds
+DIAMOND&RUST collected 39864 from pot
+*** SUMMARY ***
+Total pot 39864 | No rake
+Board: [8h 6s Kd Qh 5h]
+Seat 1: DIAMOND&RUST (button) won 39864
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-17-1670269527 - Holdem no limit (25/100/200) - 2022/12/05 19:45:27 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #2 is the button
+Seat 1: DIAMOND&RUST (40259, 3.15€ bounty)
+Seat 2: JJnito (49880, 2.70€ bounty)
+Seat 3: NFLSHOOT (10402, 1.80€ bounty)
+Seat 4: Soso56269 (17875, 1.80€ bounty)
+Seat 5: RL_Scorpion (20000, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (41634, 1.80€ bounty)
+*** ANTE/BLINDS ***
+NFLSHOOT posts ante 25
+Soso56269 posts ante 25
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+RL_Scorpion posts ante 25
+YL_ML_GL_42 posts ante 25
+NFLSHOOT posts small blind 100
+Soso56269 posts big blind 200
+Dealt to YL_ML_GL_42 [Js 2s]
+*** PRE-FLOP *** 
+RL_Scorpion raises 250 to 450
+YL_ML_GL_42 folds
+DIAMOND&RUST calls 450
+JJnito folds
+NFLSHOOT raises 9927 to 10377 and is all-in
+Soso56269 folds
+RL_Scorpion raises 9598 to 19975 and is all-in
+DIAMOND&RUST folds
+*** FLOP *** [Ks 3c 5d]
+*** TURN *** [Ks 3c 5d][9s]
+*** RIVER *** [Ks 3c 5d 9s][5s]
+*** SHOW DOWN ***
+NFLSHOOT shows [6s Kh] (Two pairs : Kings and 5)
+RL_Scorpion shows [Td Th] (Two pairs : Tens and 5)
+RL_Scorpion collected 9598 from side pot 1
+NFLSHOOT collected 21554 from main pot
+*** SUMMARY ***
+Total pot 31152 | No rake
+Board: [Ks 3c 5d 9s 5s]
+Seat 3: NFLSHOOT (small blind) showed [6s Kh] and won 21554 with Two pairs : Kings and 5
+Seat 5: RL_Scorpion showed [Td Th] and won 9598 with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-18-1670269555 - Holdem no limit (25/100/200) - 2022/12/05 19:45:55 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #3 is the button
+Seat 1: DIAMOND&RUST (39784, 3.15€ bounty)
+Seat 2: JJnito (49855, 2.70€ bounty)
+Seat 3: NFLSHOOT (21554, 1.80€ bounty)
+Seat 4: Soso56269 (17650, 1.80€ bounty)
+Seat 5: RL_Scorpion (9598, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (41609, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Soso56269 posts ante 25
+RL_Scorpion posts ante 25
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+NFLSHOOT posts ante 25
+YL_ML_GL_42 posts ante 25
+Soso56269 posts small blind 100
+RL_Scorpion posts big blind 200
+Dealt to YL_ML_GL_42 [Tc Qs]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DIAMOND&RUST calls 200
+JJnito calls 200
+NFLSHOOT folds
+Soso56269 folds
+RL_Scorpion checks
+*** FLOP *** [9h 5d 2s]
+RL_Scorpion checks
+DIAMOND&RUST bets 200
+JJnito raises 743 to 943
+RL_Scorpion folds
+DIAMOND&RUST calls 743
+*** TURN *** [9h 5d 2s][Kh]
+DIAMOND&RUST checks
+JJnito bets 2736
+DIAMOND&RUST folds
+JJnito collected 5472 from pot
+*** SUMMARY ***
+Total pot 5472 | No rake
+Board: [9h 5d 2s Kh]
+Seat 2: JJnito won 5472
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-19-1670269602 - Holdem no limit (25/100/200) - 2022/12/05 19:46:42 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #4 is the button
+Seat 1: DIAMOND&RUST (38616, 3.15€ bounty)
+Seat 2: JJnito (51423, 2.70€ bounty)
+Seat 3: NFLSHOOT (21529, 1.80€ bounty)
+Seat 4: Soso56269 (17525, 1.80€ bounty)
+Seat 5: RL_Scorpion (9373, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (41584, 1.80€ bounty)
+*** ANTE/BLINDS ***
+RL_Scorpion posts ante 25
+YL_ML_GL_42 posts ante 25
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+NFLSHOOT posts ante 25
+Soso56269 posts ante 25
+RL_Scorpion posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [6c Ac]
+*** PRE-FLOP *** 
+DIAMOND&RUST folds
+JJnito folds
+NFLSHOOT folds
+Soso56269 folds
+RL_Scorpion raises 200 to 400
+YL_ML_GL_42 calls 200
+*** FLOP *** [4c 2h 9c]
+RL_Scorpion bets 333
+YL_ML_GL_42 raises 1226 to 1559
+RL_Scorpion folds
+YL_ML_GL_42 collected 2842 from pot
+*** SUMMARY ***
+Total pot 2842 | No rake
+Board: [4c 2h 9c]
+Seat 6: YL_ML_GL_42 (big blind) won 2842
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-20-1670269653 - Holdem no limit (25/100/200) - 2022/12/05 19:47:33 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #5 is the button
+Seat 1: DIAMOND&RUST (38591, 3.15€ bounty)
+Seat 2: JJnito (51398, 2.70€ bounty)
+Seat 3: NFLSHOOT (21504, 1.80€ bounty)
+Seat 4: Soso56269 (17500, 1.80€ bounty)
+Seat 5: RL_Scorpion (8615, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (42442, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+NFLSHOOT posts ante 25
+Soso56269 posts ante 25
+RL_Scorpion posts ante 25
+YL_ML_GL_42 posts small blind 100
+DIAMOND&RUST posts big blind 200
+Dealt to YL_ML_GL_42 [As Kd]
+*** PRE-FLOP *** 
+JJnito folds
+NFLSHOOT calls 200
+Soso56269 folds
+RL_Scorpion folds
+YL_ML_GL_42 raises 400 to 600
+DIAMOND&RUST folds
+NFLSHOOT calls 400
+*** FLOP *** [4c 3c Ad]
+YL_ML_GL_42 checks
+NFLSHOOT bets 1008
+YL_ML_GL_42 calls 1008
+*** TURN *** [4c 3c Ad][Qh]
+YL_ML_GL_42 checks
+NFLSHOOT bets 2318
+YL_ML_GL_42 calls 2318
+*** RIVER *** [4c 3c Ad Qh][Qc]
+YL_ML_GL_42 bets 6562
+NFLSHOOT calls 6562
+*** SHOW DOWN ***
+NFLSHOOT shows [Ah 2s] (Two pairs : Aces and Queens)
+YL_ML_GL_42 shows [As Kd] (Two pairs : Aces and Queens)
+YL_ML_GL_42 collected 21326 from pot
+*** SUMMARY ***
+Total pot 21326 | No rake
+Board: [4c 3c Ad Qh Qc]
+Seat 3: NFLSHOOT showed [Ah 2s] and lost with Two pairs : Aces and Queens
+Seat 6: YL_ML_GL_42 (small blind) showed [As Kd] and won 21326 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-21-1670269703 - Holdem no limit (25/100/200) - 2022/12/05 19:48:23 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #6 is the button
+Seat 1: DIAMOND&RUST (38366, 3.15€ bounty)
+Seat 2: JJnito (51373, 2.70€ bounty)
+Seat 3: NFLSHOOT (10991, 1.80€ bounty)
+Seat 4: Soso56269 (17475, 1.80€ bounty)
+Seat 5: RL_Scorpion (8590, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (53255, 1.80€ bounty)
+*** ANTE/BLINDS ***
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+NFLSHOOT posts ante 25
+Soso56269 posts ante 25
+RL_Scorpion posts ante 25
+YL_ML_GL_42 posts ante 25
+DIAMOND&RUST posts small blind 100
+JJnito posts big blind 200
+Dealt to YL_ML_GL_42 [Qd Ac]
+*** PRE-FLOP *** 
+NFLSHOOT raises 10766 to 10966 and is all-in
+Soso56269 folds
+RL_Scorpion folds
+YL_ML_GL_42 calls 10966
+DIAMOND&RUST folds
+JJnito folds
+*** FLOP *** [8d Jc 7h]
+*** TURN *** [8d Jc 7h][Td]
+*** RIVER *** [8d Jc 7h Td][5c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Qd Ac] (High card : Ace)
+NFLSHOOT shows [Js As] (One pair : Jacks)
+NFLSHOOT collected 22382 from pot
+*** SUMMARY ***
+Total pot 22382 | No rake
+Board: [8d Jc 7h Td 5c]
+Seat 3: NFLSHOOT showed [Js As] and won 22382 with One pair : Jacks
+Seat 6: YL_ML_GL_42 (button) showed [Qd Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-22-1670269725 - Holdem no limit (25/100/200) - 2022/12/05 19:48:45 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #1 is the button
+Seat 1: DIAMOND&RUST (38241, 3.15€ bounty)
+Seat 2: JJnito (51148, 2.70€ bounty)
+Seat 3: NFLSHOOT (22382, 1.80€ bounty)
+Seat 4: Soso56269 (17450, 1.80€ bounty)
+Seat 5: RL_Scorpion (8565, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (42264, 1.80€ bounty)
+*** ANTE/BLINDS ***
+JJnito posts ante 25
+NFLSHOOT posts ante 25
+DIAMOND&RUST posts ante 25
+Soso56269 posts ante 25
+RL_Scorpion posts ante 25
+YL_ML_GL_42 posts ante 25
+JJnito posts small blind 100
+NFLSHOOT posts big blind 200
+Dealt to YL_ML_GL_42 [Jd Qs]
+*** PRE-FLOP *** 
+Soso56269 folds
+RL_Scorpion folds
+YL_ML_GL_42 raises 400 to 600
+DIAMOND&RUST folds
+JJnito folds
+NFLSHOOT calls 400
+*** FLOP *** [7s 4d Qd]
+NFLSHOOT checks
+YL_ML_GL_42 bets 363
+NFLSHOOT calls 363
+*** TURN *** [7s 4d Qd][3s]
+NFLSHOOT checks
+YL_ML_GL_42 bets 544
+NFLSHOOT calls 544
+*** RIVER *** [7s 4d Qd 3s][3h]
+NFLSHOOT checks
+YL_ML_GL_42 bets 2122
+NFLSHOOT folds
+YL_ML_GL_42 collected 5386 from pot
+*** SUMMARY ***
+Total pot 5386 | No rake
+Board: [7s 4d Qd 3s 3h]
+Seat 6: YL_ML_GL_42 won 5386
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-23-1670269767 - Holdem no limit (25/100/200) - 2022/12/05 19:49:27 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #2 is the button
+Seat 1: DIAMOND&RUST (38216, 3.15€ bounty)
+Seat 2: JJnito (51023, 2.70€ bounty)
+Seat 3: NFLSHOOT (20850, 1.80€ bounty)
+Seat 4: Soso56269 (17425, 1.80€ bounty)
+Seat 5: RL_Scorpion (8540, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (43996, 1.80€ bounty)
+*** ANTE/BLINDS ***
+NFLSHOOT posts ante 25
+Soso56269 posts ante 25
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+RL_Scorpion posts ante 25
+YL_ML_GL_42 posts ante 25
+NFLSHOOT posts small blind 100
+Soso56269 posts big blind 200
+Dealt to YL_ML_GL_42 [Qh 6s]
+*** PRE-FLOP *** 
+RL_Scorpion folds
+YL_ML_GL_42 folds
+DIAMOND&RUST raises 200 to 400
+JJnito folds
+NFLSHOOT folds
+Soso56269 calls 200
+*** FLOP *** [Qs 4c Th]
+Soso56269 checks
+DIAMOND&RUST checks
+*** TURN *** [Qs 4c Th][6h]
+Soso56269 checks
+DIAMOND&RUST bets 200
+Soso56269 calls 200
+*** RIVER *** [Qs 4c Th 6h][Ah]
+Soso56269 checks
+DIAMOND&RUST bets 1450
+Soso56269 calls 1450
+*** SHOW DOWN ***
+Soso56269 shows [9s Ac] (One pair : Aces)
+DIAMOND&RUST shows [As 6c] (Two pairs : Aces and 6)
+DIAMOND&RUST collected 4350 from pot
+*** SUMMARY ***
+Total pot 4350 | No rake
+Board: [Qs 4c Th 6h Ah]
+Seat 1: DIAMOND&RUST showed [As 6c] and won 4350 with Two pairs : Aces and 6
+Seat 4: Soso56269 (big blind) showed [9s Ac] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-24-1670269807 - Holdem no limit (25/100/200) - 2022/12/05 19:50:07 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #3 is the button
+Seat 1: DIAMOND&RUST (40491, 3.15€ bounty)
+Seat 2: JJnito (50998, 2.70€ bounty)
+Seat 3: NFLSHOOT (20725, 1.80€ bounty)
+Seat 4: Soso56269 (15350, 1.80€ bounty)
+Seat 5: RL_Scorpion (8515, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (43971, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Soso56269 posts ante 25
+RL_Scorpion posts ante 25
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+NFLSHOOT posts ante 25
+YL_ML_GL_42 posts ante 25
+Soso56269 posts small blind 100
+RL_Scorpion posts big blind 200
+Dealt to YL_ML_GL_42 [Td 3h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DIAMOND&RUST calls 200
+JJnito folds
+NFLSHOOT raises 400 to 600
+Soso56269 folds
+RL_Scorpion calls 400
+DIAMOND&RUST calls 400
+*** FLOP *** [5s 7h 9s]
+RL_Scorpion checks
+DIAMOND&RUST checks
+NFLSHOOT bets 1333
+RL_Scorpion folds
+DIAMOND&RUST calls 1333
+*** TURN *** [5s 7h 9s][4s]
+DIAMOND&RUST checks
+NFLSHOOT bets 3065
+DIAMOND&RUST calls 3065
+*** RIVER *** [5s 7h 9s 4s][Tc]
+DIAMOND&RUST checks
+NFLSHOOT checks
+*** SHOW DOWN ***
+NFLSHOOT shows [9c Ah] (One pair : 9)
+DIAMOND&RUST shows [6h Ts] (One pair : Tens)
+DIAMOND&RUST collected 10846 from pot
+*** SUMMARY ***
+Total pot 10846 | No rake
+Board: [5s 7h 9s 4s Tc]
+Seat 1: DIAMOND&RUST showed [6h Ts] and won 10846 with One pair : Tens
+Seat 3: NFLSHOOT (button) showed [9c Ah] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2603157099462525165-25-1670269858 - Holdem no limit (25/100/200) - 2022/12/05 19:50:58 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #4 is the button
+Seat 1: DIAMOND&RUST (46314, 3.15€ bounty)
+Seat 2: JJnito (50973, 2.70€ bounty)
+Seat 3: NFLSHOOT (15702, 1.80€ bounty)
+Seat 4: Soso56269 (15225, 1.80€ bounty)
+Seat 5: RL_Scorpion (7890, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (43946, 1.80€ bounty)
+*** ANTE/BLINDS ***
+RL_Scorpion posts ante 25
+YL_ML_GL_42 posts ante 25
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+NFLSHOOT posts ante 25
+Soso56269 posts ante 25
+RL_Scorpion posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Ad Ks]
+*** PRE-FLOP *** 
+DIAMOND&RUST calls 200
+JJnito folds
+NFLSHOOT folds
+Soso56269 raises 400 to 600
+RL_Scorpion folds
+YL_ML_GL_42 raises 1650 to 2250
+DIAMOND&RUST folds
+Soso56269 calls 1650
+*** FLOP *** [Td 8c 9d]
+YL_ML_GL_42 checks
+Soso56269 bets 3218
+YL_ML_GL_42 folds
+Soso56269 collected 8168 from pot
+*** SUMMARY ***
+Total pot 8168 | No rake
+Board: [Td 8c 9d]
+Seat 4: Soso56269 (button) won 8168
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157099462525165-32-1670270464 - Holdem no limit (25/100/200) - 2022/12/05 20:01:04 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #5 is the button
+Seat 1: DIAMOND&RUST (58219, 4.05€ bounty)
+Seat 2: JJnito (49898, 2.70€ bounty)
+Seat 3: R4T4FLASH (20000, 1.80€ bounty)
+Seat 4: Soso56269 (15582, 1.80€ bounty)
+Seat 5: RL_Scorpion (15330, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (41021, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+DIAMOND&RUST posts ante 25
+JJnito posts ante 25
+R4T4FLASH posts ante 25
+Soso56269 posts ante 25
+RL_Scorpion posts ante 25
+YL_ML_GL_42 posts small blind 100
+DIAMOND&RUST posts big blind 200
+Dealt to YL_ML_GL_42 [Ad 8s]
+*** PRE-FLOP *** 
+JJnito folds
+R4T4FLASH folds
+Soso56269 folds
+RL_Scorpion calls 200
+YL_ML_GL_42 raises 400 to 600
+DIAMOND&RUST calls 400
+RL_Scorpion calls 400
+*** FLOP *** [Jc 7s 2h]
+YL_ML_GL_42 checks
+DIAMOND&RUST checks
+RL_Scorpion bets 300
+YL_ML_GL_42 folds
+DIAMOND&RUST folds
+RL_Scorpion collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | No rake
+Board: [Jc 7s 2h]
+Seat 5: RL_Scorpion (button) won 2250
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2603157099462525165-33-1670270620 - Holdem no limit (30/125/250) - 2022/12/05 20:03:40 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #6 is the button
+Seat 1: DIAMOND&RUST (57594, 4.05€ bounty)
+Seat 2: JJnito (49873, 2.70€ bounty)
+Seat 3: R4T4FLASH (19975, 1.80€ bounty)
+Seat 4: Soso56269 (15557, 1.80€ bounty)
+Seat 5: RL_Scorpion (16655, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (40396, 1.80€ bounty)
+*** ANTE/BLINDS ***
+DIAMOND&RUST posts ante 30
+JJnito posts ante 30
+R4T4FLASH posts ante 30
+Soso56269 posts ante 30
+RL_Scorpion posts ante 30
+YL_ML_GL_42 posts ante 30
+DIAMOND&RUST posts small blind 125
+JJnito posts big blind 250
+Dealt to YL_ML_GL_42 [7c Kc]
+*** PRE-FLOP *** 
+R4T4FLASH folds
+Soso56269 folds
+RL_Scorpion raises 250 to 500
+YL_ML_GL_42 folds
+DIAMOND&RUST calls 375
+JJnito folds
+*** FLOP *** [Qc 5h Ks]
+DIAMOND&RUST checks
+RL_Scorpion bets 500
+DIAMOND&RUST folds
+RL_Scorpion collected 1930 from pot
+*** SUMMARY ***
+Total pot 1930 | No rake
+Board: [Qc 5h Ks]
+Seat 5: RL_Scorpion won 1930
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2603157099462525165-34-1670270654 - Holdem no limit (30/125/250) - 2022/12/05 20:04:14 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #1 is the button
+Seat 1: DIAMOND&RUST (57064, 4.05€ bounty)
+Seat 2: JJnito (49593, 2.70€ bounty)
+Seat 3: R4T4FLASH (19945, 1.80€ bounty)
+Seat 4: Soso56269 (15527, 1.80€ bounty)
+Seat 5: RL_Scorpion (17555, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (40366, 1.80€ bounty)
+*** ANTE/BLINDS ***
+JJnito posts ante 30
+R4T4FLASH posts ante 30
+DIAMOND&RUST posts ante 30
+Soso56269 posts ante 30
+RL_Scorpion posts ante 30
+YL_ML_GL_42 posts ante 30
+JJnito posts small blind 125
+R4T4FLASH posts big blind 250
+Dealt to YL_ML_GL_42 [3s 5c]
+*** PRE-FLOP *** 
+Soso56269 folds
+RL_Scorpion raises 250 to 500
+YL_ML_GL_42 folds
+DIAMOND&RUST folds
+JJnito folds
+R4T4FLASH folds
+RL_Scorpion collected 1055 from pot
+*** SUMMARY ***
+Total pot 1055 | No rake
+Seat 5: RL_Scorpion won 1055
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2603157099462525165-35-1670270671 - Holdem no limit (30/125/250) - 2022/12/05 20:04:31 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #2 is the button
+Seat 1: DIAMOND&RUST (57034, 4.05€ bounty)
+Seat 2: JJnito (49438, 2.70€ bounty)
+Seat 3: R4T4FLASH (19665, 1.80€ bounty)
+Seat 4: Soso56269 (15497, 1.80€ bounty)
+Seat 5: RL_Scorpion (18080, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (40336, 1.80€ bounty)
+*** ANTE/BLINDS ***
+R4T4FLASH posts ante 30
+Soso56269 posts ante 30
+DIAMOND&RUST posts ante 30
+JJnito posts ante 30
+RL_Scorpion posts ante 30
+YL_ML_GL_42 posts ante 30
+R4T4FLASH posts small blind 125
+Soso56269 posts big blind 250
+Dealt to YL_ML_GL_42 [3c Ah]
+*** PRE-FLOP *** 
+RL_Scorpion raises 250 to 500
+YL_ML_GL_42 folds
+DIAMOND&RUST calls 500
+JJnito folds
+R4T4FLASH calls 375
+Soso56269 calls 250
+*** FLOP *** [7h 7d Ad]
+R4T4FLASH checks
+Soso56269 checks
+RL_Scorpion checks
+DIAMOND&RUST checks
+*** TURN *** [7h 7d Ad][8s]
+R4T4FLASH bets 375
+Soso56269 folds
+RL_Scorpion folds
+DIAMOND&RUST folds
+R4T4FLASH collected 2555 from pot
+*** SUMMARY ***
+Total pot 2555 | No rake
+Board: [7h 7d Ad 8s]
+Seat 3: R4T4FLASH (small blind) won 2555
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2603157099462525165-36-1670270747 - Holdem no limit (30/125/250) - 2022/12/05 20:05:47 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #3 is the button
+Seat 1: DIAMOND&RUST (56504, 4.05€ bounty)
+Seat 2: JJnito (49408, 2.70€ bounty)
+Seat 3: R4T4FLASH (21315, 1.80€ bounty)
+Seat 4: Soso56269 (14967, 1.80€ bounty)
+Seat 5: RL_Scorpion (17550, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (40306, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Soso56269 posts ante 30
+RL_Scorpion posts ante 30
+DIAMOND&RUST posts ante 30
+JJnito posts ante 30
+R4T4FLASH posts ante 30
+YL_ML_GL_42 posts ante 30
+Soso56269 posts small blind 125
+RL_Scorpion posts big blind 250
+Dealt to YL_ML_GL_42 [7s Jd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DIAMOND&RUST calls 250
+JJnito folds
+R4T4FLASH folds
+Soso56269 folds
+RL_Scorpion checks
+*** FLOP *** [2c Kh Qh]
+RL_Scorpion checks
+DIAMOND&RUST checks
+*** TURN *** [2c Kh Qh][As]
+RL_Scorpion checks
+DIAMOND&RUST checks
+*** RIVER *** [2c Kh Qh As][4h]
+RL_Scorpion checks
+DIAMOND&RUST checks
+*** SHOW DOWN ***
+DIAMOND&RUST shows [5h Tc] (High card : Ace)
+RL_Scorpion shows [8d 2s] (One pair : 2)
+RL_Scorpion collected 805 from pot
+*** SUMMARY ***
+Total pot 805 | No rake
+Board: [2c Kh Qh As 4h]
+Seat 1: DIAMOND&RUST showed [5h Tc] and lost with High card : Ace
+Seat 5: RL_Scorpion (big blind) showed [8d 2s] and won 805 with One pair : 2
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157099462525165-37-1670270797 - Holdem no limit (35/150/300) - 2022/12/05 20:06:37 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #4 is the button
+Seat 1: DIAMOND&RUST (56224, 4.05€ bounty)
+Seat 2: JJnito (49378, 2.70€ bounty)
+Seat 3: R4T4FLASH (21285, 1.80€ bounty)
+Seat 4: Soso56269 (14812, 1.80€ bounty)
+Seat 5: RL_Scorpion (18075, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (40276, 1.80€ bounty)
+*** ANTE/BLINDS ***
+RL_Scorpion posts ante 35
+YL_ML_GL_42 posts ante 35
+DIAMOND&RUST posts ante 35
+JJnito posts ante 35
+R4T4FLASH posts ante 35
+Soso56269 posts ante 35
+RL_Scorpion posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [7c 6h]
+*** PRE-FLOP *** 
+DIAMOND&RUST raises 300 to 600
+JJnito folds
+R4T4FLASH folds
+Soso56269 folds
+RL_Scorpion folds
+YL_ML_GL_42 folds
+DIAMOND&RUST collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 1: DIAMOND&RUST won 1260
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157099462525165-38-1670270821 - Holdem no limit (35/150/300) - 2022/12/05 20:07:01 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #5 is the button
+Seat 1: DIAMOND&RUST (56849, 4.05€ bounty)
+Seat 2: JJnito (49343, 2.70€ bounty)
+Seat 3: R4T4FLASH (21250, 1.80€ bounty)
+Seat 4: Soso56269 (14777, 1.80€ bounty)
+Seat 5: RL_Scorpion (17890, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (39941, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+DIAMOND&RUST posts ante 35
+JJnito posts ante 35
+R4T4FLASH posts ante 35
+Soso56269 posts ante 35
+RL_Scorpion posts ante 35
+YL_ML_GL_42 posts small blind 150
+DIAMOND&RUST posts big blind 300
+Dealt to YL_ML_GL_42 [Th 6h]
+*** PRE-FLOP *** 
+JJnito folds
+R4T4FLASH folds
+Soso56269 folds
+RL_Scorpion calls 300
+YL_ML_GL_42 calls 150
+DIAMOND&RUST checks
+*** FLOP *** [4s 9d As]
+YL_ML_GL_42 checks
+DIAMOND&RUST checks
+RL_Scorpion bets 389
+YL_ML_GL_42 folds
+DIAMOND&RUST folds
+RL_Scorpion collected 1499 from pot
+*** SUMMARY ***
+Total pot 1499 | No rake
+Board: [4s 9d As]
+Seat 5: RL_Scorpion (button) won 1499
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157099462525165-39-1670270861 - Holdem no limit (35/150/300) - 2022/12/05 20:07:41 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #6 is the button
+Seat 1: DIAMOND&RUST (56514, 4.05€ bounty)
+Seat 2: JJnito (49308, 2.70€ bounty)
+Seat 3: R4T4FLASH (21215, 1.80€ bounty)
+Seat 4: Soso56269 (14742, 1.80€ bounty)
+Seat 5: RL_Scorpion (18665, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (39606, 1.80€ bounty)
+*** ANTE/BLINDS ***
+DIAMOND&RUST posts ante 35
+JJnito posts ante 35
+R4T4FLASH posts ante 35
+Soso56269 posts ante 35
+RL_Scorpion posts ante 35
+YL_ML_GL_42 posts ante 35
+DIAMOND&RUST posts small blind 150
+JJnito posts big blind 300
+Dealt to YL_ML_GL_42 [4s Td]
+*** PRE-FLOP *** 
+R4T4FLASH folds
+Soso56269 folds
+RL_Scorpion folds
+YL_ML_GL_42 folds
+DIAMOND&RUST calls 150
+JJnito checks
+*** FLOP *** [3h Jc 2c]
+DIAMOND&RUST checks
+JJnito checks
+*** TURN *** [3h Jc 2c][Qd]
+DIAMOND&RUST checks
+JJnito checks
+*** RIVER *** [3h Jc 2c Qd][Qs]
+DIAMOND&RUST checks
+JJnito checks
+*** SHOW DOWN ***
+JJnito shows [9s 5s] (One pair : Queens)
+DIAMOND&RUST shows [9c 3s] (Two pairs : Queens and 3)
+DIAMOND&RUST collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [3h Jc 2c Qd Qs]
+Seat 1: DIAMOND&RUST (small blind) showed [9c 3s] and won 810 with Two pairs : Queens and 3
+Seat 2: JJnito (big blind) showed [9s 5s] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157099462525165-40-1670270896 - Holdem no limit (35/150/300) - 2022/12/05 20:08:16 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #1 is the button
+Seat 1: DIAMOND&RUST (56989, 4.05€ bounty)
+Seat 2: JJnito (48973, 2.70€ bounty)
+Seat 3: R4T4FLASH (21180, 1.80€ bounty)
+Seat 5: RL_Scorpion (18630, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (39571, 1.80€ bounty)
+*** ANTE/BLINDS ***
+JJnito posts ante 35
+R4T4FLASH posts ante 35
+DIAMOND&RUST posts ante 35
+RL_Scorpion posts ante 35
+YL_ML_GL_42 posts ante 35
+JJnito posts small blind 150
+R4T4FLASH posts big blind 300
+Dealt to YL_ML_GL_42 [Td 4s]
+*** PRE-FLOP *** 
+RL_Scorpion folds
+YL_ML_GL_42 folds
+DIAMOND&RUST calls 300
+JJnito folds
+R4T4FLASH raises 450 to 750
+DIAMOND&RUST calls 450
+*** FLOP *** [9d Ks 7s]
+R4T4FLASH bets 789
+DIAMOND&RUST folds
+R4T4FLASH collected 2614 from pot
+*** SUMMARY ***
+Total pot 2614 | No rake
+Board: [9d Ks 7s]
+Seat 3: R4T4FLASH (big blind) won 2614
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157099462525165-41-1670270963 - Holdem no limit (35/150/300) - 2022/12/05 20:09:23 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0236' 6-max (real money) Seat #2 is the button
+Seat 1: DIAMOND&RUST (56204, 4.05€ bounty)
+Seat 2: JJnito (48788, 2.70€ bounty)
+Seat 3: R4T4FLASH (22220, 1.80€ bounty)
+Seat 4: Diddy75 (20000, 1.80€ bounty)
+Seat 5: RL_Scorpion (18595, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (39536, 1.80€ bounty)
+*** ANTE/BLINDS ***
+R4T4FLASH posts ante 35
+Diddy75 posts ante 35
+DIAMOND&RUST posts ante 35
+JJnito posts ante 35
+RL_Scorpion posts ante 35
+YL_ML_GL_42 posts ante 35
+R4T4FLASH posts small blind 150
+Diddy75 posts big blind 300
+Dealt to YL_ML_GL_42 [3d Th]
+*** PRE-FLOP *** 
+RL_Scorpion folds
+YL_ML_GL_42 folds
+DIAMOND&RUST folds
+JJnito folds
+R4T4FLASH folds
+Diddy75 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 4: Diddy75 (big blind) won 660
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157099462525239-27-1670270982 - Holdem no limit (35/150/300) - 2022/12/05 20:09:42 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #2 is the button
+Seat 1: Mangefrics (40984, 2.70€ bounty)
+Seat 3: Hazbadeluxe (15080, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (39501, 1.80€ bounty)
+Seat 5: NURY-BEN (17246, 1.80€ bounty)
+Seat 6: RaZyy (63075, 3.60€ bounty)
+*** ANTE/BLINDS ***
+Hazbadeluxe posts ante 35
+YL_ML_GL_42 posts ante 35
+Mangefrics posts ante 35
+NURY-BEN posts ante 35
+RaZyy posts ante 35
+Hazbadeluxe posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [6h Ts]
+*** PRE-FLOP *** 
+NURY-BEN folds
+RaZyy folds
+Mangefrics folds
+Hazbadeluxe folds
+YL_ML_GL_42 collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | No rake
+Seat 4: YL_ML_GL_42 (big blind) won 625
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157099462525239-28-1670271020 - Holdem no limit (35/150/300) - 2022/12/05 20:10:20 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #3 is the button
+Seat 1: Mangefrics (40949, 2.70€ bounty)
+Seat 2: rs8white (20000, 1.80€ bounty)
+Seat 3: Hazbadeluxe (14895, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (39791, 1.80€ bounty)
+Seat 5: NURY-BEN (17211, 1.80€ bounty)
+Seat 6: RaZyy (63040, 3.60€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+NURY-BEN posts ante 35
+Mangefrics posts ante 35
+rs8white posts ante 35
+Hazbadeluxe posts ante 35
+RaZyy posts ante 35
+YL_ML_GL_42 posts small blind 150
+NURY-BEN posts big blind 300
+Dealt to YL_ML_GL_42 [9d 3s]
+*** PRE-FLOP *** 
+RaZyy folds
+Mangefrics folds
+rs8white raises 450 to 750
+Hazbadeluxe calls 750
+YL_ML_GL_42 folds
+NURY-BEN calls 450
+*** FLOP *** [Kh Jh 7h]
+NURY-BEN checks
+rs8white bets 1697
+Hazbadeluxe folds
+NURY-BEN folds
+rs8white collected 4307 from pot
+*** SUMMARY ***
+Total pot 4307 | No rake
+Board: [Kh Jh 7h]
+Seat 2: rs8white won 4307
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2603157099462525239-29-1670271105 - Holdem no limit (40/175/350) - 2022/12/05 20:11:45 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #4 is the button
+Seat 1: Mangefrics (40914, 2.70€ bounty)
+Seat 2: rs8white (21825, 1.80€ bounty)
+Seat 3: Hazbadeluxe (14110, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (39606, 1.80€ bounty)
+Seat 5: NURY-BEN (16426, 1.80€ bounty)
+Seat 6: RaZyy (63005, 3.60€ bounty)
+*** ANTE/BLINDS ***
+NURY-BEN posts ante 40
+RaZyy posts ante 40
+Mangefrics posts ante 40
+rs8white posts ante 40
+Hazbadeluxe posts ante 40
+YL_ML_GL_42 posts ante 40
+NURY-BEN posts small blind 175
+RaZyy posts big blind 350
+Dealt to YL_ML_GL_42 [8c Ks]
+*** PRE-FLOP *** 
+Mangefrics folds
+rs8white folds
+Hazbadeluxe folds
+YL_ML_GL_42 folds
+NURY-BEN folds
+RaZyy collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 6: RaZyy (big blind) won 765
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2603157099462525239-30-1670271184 - Holdem no limit (40/175/350) - 2022/12/05 20:13:04 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #5 is the button
+Seat 1: Mangefrics (40874, 2.70€ bounty)
+Seat 2: rs8white (21785, 1.80€ bounty)
+Seat 3: Hazbadeluxe (14070, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (39566, 1.80€ bounty)
+Seat 5: NURY-BEN (16211, 1.80€ bounty)
+Seat 6: RaZyy (63380, 3.60€ bounty)
+*** ANTE/BLINDS ***
+RaZyy posts ante 40
+Mangefrics posts ante 40
+rs8white posts ante 40
+Hazbadeluxe posts ante 40
+YL_ML_GL_42 posts ante 40
+NURY-BEN posts ante 40
+RaZyy posts small blind 175
+Mangefrics posts big blind 350
+Dealt to YL_ML_GL_42 [Td 9h]
+*** PRE-FLOP *** 
+rs8white folds
+Hazbadeluxe folds
+YL_ML_GL_42 folds
+NURY-BEN raises 525 to 875
+RaZyy calls 700
+Mangefrics folds
+*** FLOP *** [2s Kd 8h]
+RaZyy checks
+NURY-BEN bets 819
+RaZyy calls 819
+*** TURN *** [2s Kd 8h][6s]
+RaZyy checks
+NURY-BEN checks
+*** RIVER *** [2s Kd 8h 6s][5s]
+RaZyy checks
+NURY-BEN bets 2586
+RaZyy calls 2586
+*** SHOW DOWN ***
+NURY-BEN shows [Ks Qh] (One pair : Kings)
+RaZyy shows [Qc Kc] (One pair : Kings)
+RaZyy collected 4575 from pot
+NURY-BEN collected 4575 from pot
+*** SUMMARY ***
+Total pot 9150 | No rake
+Board: [2s Kd 8h 6s 5s]
+Seat 5: NURY-BEN (button) showed [Ks Qh] and won 4575 with One pair : Kings
+Seat 6: RaZyy (small blind) showed [Qc Kc] and won 4575 with One pair : Kings
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2603157099462525239-31-1670271291 - Holdem no limit (40/175/350) - 2022/12/05 20:14:51 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #6 is the button
+Seat 1: Mangefrics (40484, 2.70€ bounty)
+Seat 2: rs8white (21745, 1.80€ bounty)
+Seat 3: Hazbadeluxe (14030, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (39526, 1.80€ bounty)
+Seat 5: NURY-BEN (16466, 1.80€ bounty)
+Seat 6: RaZyy (63635, 3.60€ bounty)
+*** ANTE/BLINDS ***
+Mangefrics posts ante 40
+rs8white posts ante 40
+Hazbadeluxe posts ante 40
+YL_ML_GL_42 posts ante 40
+NURY-BEN posts ante 40
+RaZyy posts ante 40
+Mangefrics posts small blind 175
+rs8white posts big blind 350
+Dealt to YL_ML_GL_42 [6h 2s]
+*** PRE-FLOP *** 
+Hazbadeluxe folds
+YL_ML_GL_42 folds
+NURY-BEN raises 350 to 700
+RaZyy folds
+Mangefrics folds
+rs8white raises 1050 to 1750
+NURY-BEN calls 1050
+*** FLOP *** [5d Qs 9c]
+rs8white bets 2545
+NURY-BEN calls 2545
+*** TURN *** [5d Qs 9c][Qd]
+rs8white bets 3152
+NURY-BEN calls 3152
+*** RIVER *** [5d Qs 9c Qd][5c]
+rs8white bets 5358
+NURY-BEN folds
+rs8white collected 20667 from pot
+*** SUMMARY ***
+Total pot 20667 | No rake
+Board: [5d Qs 9c Qd 5c]
+Seat 2: rs8white (big blind) won 20667
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2603157099462525239-32-1670271376 - Holdem no limit (40/175/350) - 2022/12/05 20:16:16 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #1 is the button
+Seat 1: Mangefrics (40269, 2.70€ bounty)
+Seat 2: rs8white (29567, 1.80€ bounty)
+Seat 3: Hazbadeluxe (13990, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (39486, 1.80€ bounty)
+Seat 5: NURY-BEN (8979, 1.80€ bounty)
+Seat 6: RaZyy (63595, 3.60€ bounty)
+*** ANTE/BLINDS ***
+rs8white posts ante 40
+Hazbadeluxe posts ante 40
+Mangefrics posts ante 40
+YL_ML_GL_42 posts ante 40
+NURY-BEN posts ante 40
+RaZyy posts ante 40
+rs8white posts small blind 175
+Hazbadeluxe posts big blind 350
+Dealt to YL_ML_GL_42 [8h As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+NURY-BEN folds
+RaZyy folds
+Mangefrics folds
+rs8white folds
+Hazbadeluxe collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 3: Hazbadeluxe (big blind) won 765
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2603157099462525239-33-1670271424 - Holdem no limit (50/200/400) - 2022/12/05 20:17:04 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #2 is the button
+Seat 1: Mangefrics (40229, 2.70€ bounty)
+Seat 2: rs8white (29352, 1.80€ bounty)
+Seat 3: Hazbadeluxe (14365, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (39446, 1.80€ bounty)
+Seat 5: NURY-BEN (8939, 1.80€ bounty)
+Seat 6: RaZyy (63555, 3.60€ bounty)
+*** ANTE/BLINDS ***
+Hazbadeluxe posts ante 50
+YL_ML_GL_42 posts ante 50
+Mangefrics posts ante 50
+rs8white posts ante 50
+NURY-BEN posts ante 50
+RaZyy posts ante 50
+Hazbadeluxe posts small blind 200
+YL_ML_GL_42 posts big blind 400
+Dealt to YL_ML_GL_42 [3d Kc]
+*** PRE-FLOP *** 
+NURY-BEN folds
+RaZyy raises 600 to 1000
+Mangefrics folds
+rs8white folds
+Hazbadeluxe raises 600 to 1600
+YL_ML_GL_42 folds
+RaZyy calls 600
+*** FLOP *** [8c Jh 7c]
+Hazbadeluxe bets 1365
+RaZyy calls 1365
+*** TURN *** [8c Jh 7c][4s]
+Hazbadeluxe bets 4310
+RaZyy calls 4310
+*** RIVER *** [8c Jh 7c 4s][Td]
+Hazbadeluxe bets 7040 and is all-in
+RaZyy calls 7040
+*** SHOW DOWN ***
+RaZyy shows [Jd Qh] (One pair : Jacks)
+Hazbadeluxe shows [Ah As] (One pair : Aces)
+Hazbadeluxe collected 29330 from pot
+*** SUMMARY ***
+Total pot 29330 | No rake
+Board: [8c Jh 7c 4s Td]
+Seat 3: Hazbadeluxe (small blind) showed [Ah As] and won 29330 with One pair : Aces
+Seat 6: RaZyy showed [Jd Qh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2603157099462525239-34-1670271527 - Holdem no limit (50/200/400) - 2022/12/05 20:18:47 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #3 is the button
+Seat 1: Mangefrics (40179, 2.70€ bounty)
+Seat 2: rs8white (29302, 1.80€ bounty)
+Seat 3: Hazbadeluxe (29330, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (38996, 1.80€ bounty)
+Seat 5: NURY-BEN (8889, 1.80€ bounty)
+Seat 6: RaZyy (49190, 3.60€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 50
+NURY-BEN posts ante 50
+Mangefrics posts ante 50
+rs8white posts ante 50
+Hazbadeluxe posts ante 50
+RaZyy posts ante 50
+YL_ML_GL_42 posts small blind 200
+NURY-BEN posts big blind 400
+Dealt to YL_ML_GL_42 [8s 8c]
+*** PRE-FLOP *** 
+RaZyy raises 600 to 1000
+Mangefrics folds
+rs8white folds
+Hazbadeluxe folds
+YL_ML_GL_42 calls 800
+NURY-BEN folds
+*** FLOP *** [9c Jd 4s]
+YL_ML_GL_42 checks
+RaZyy bets 945
+YL_ML_GL_42 calls 945
+*** TURN *** [9c Jd 4s][Qh]
+YL_ML_GL_42 checks
+RaZyy checks
+*** RIVER *** [9c Jd 4s Qh][3h]
+YL_ML_GL_42 checks
+RaZyy checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [8s 8c] (One pair : 8)
+RaZyy shows [9h 7h] (One pair : 9)
+RaZyy collected 4590 from pot
+*** SUMMARY ***
+Total pot 4590 | No rake
+Board: [9c Jd 4s Qh 3h]
+Seat 4: YL_ML_GL_42 (small blind) showed [8s 8c] and lost with One pair : 8
+Seat 6: RaZyy showed [9h 7h] and won 4590 with One pair : 9
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2603157099462525239-35-1670271596 - Holdem no limit (50/200/400) - 2022/12/05 20:19:56 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #4 is the button
+Seat 1: Mangefrics (40129, 2.70€ bounty)
+Seat 2: rs8white (29252, 1.80€ bounty)
+Seat 3: Hazbadeluxe (29280, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (37001, 1.80€ bounty)
+Seat 5: NURY-BEN (8439, 1.80€ bounty)
+Seat 6: RaZyy (51785, 3.60€ bounty)
+*** ANTE/BLINDS ***
+NURY-BEN posts ante 50
+RaZyy posts ante 50
+Mangefrics posts ante 50
+rs8white posts ante 50
+Hazbadeluxe posts ante 50
+YL_ML_GL_42 posts ante 50
+NURY-BEN posts small blind 200
+RaZyy posts big blind 400
+Dealt to YL_ML_GL_42 [7h 4c]
+*** PRE-FLOP *** 
+Mangefrics folds
+rs8white folds
+Hazbadeluxe folds
+YL_ML_GL_42 folds
+NURY-BEN folds
+RaZyy collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 6: RaZyy (big blind) won 900
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2603157099462525239-36-1670271671 - Holdem no limit (50/200/400) - 2022/12/05 20:21:11 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #5 is the button
+Seat 1: Mangefrics (40079, 2.70€ bounty)
+Seat 2: rs8white (29202, 1.80€ bounty)
+Seat 3: Hazbadeluxe (29230, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (36951, 1.80€ bounty)
+Seat 5: NURY-BEN (8189, 1.80€ bounty)
+Seat 6: RaZyy (52235, 3.60€ bounty)
+*** ANTE/BLINDS ***
+RaZyy posts ante 50
+Mangefrics posts ante 50
+rs8white posts ante 50
+Hazbadeluxe posts ante 50
+YL_ML_GL_42 posts ante 50
+NURY-BEN posts ante 50
+RaZyy posts small blind 200
+Mangefrics posts big blind 400
+Dealt to YL_ML_GL_42 [Jh 6s]
+*** PRE-FLOP *** 
+rs8white raises 600 to 1000
+Hazbadeluxe calls 1000
+YL_ML_GL_42 folds
+NURY-BEN folds
+RaZyy folds
+Mangefrics calls 600
+*** FLOP *** [5h 4d 6c]
+Mangefrics bets 400
+rs8white raises 1245 to 1645
+Hazbadeluxe calls 1645
+Mangefrics calls 1245
+*** TURN *** [5h 4d 6c][Qc]
+Mangefrics checks
+rs8white bets 2952
+Hazbadeluxe calls 2952
+Mangefrics calls 2952
+*** RIVER *** [5h 4d 6c Qc][9d]
+Mangefrics checks
+rs8white bets 6052
+Hazbadeluxe raises 6354 to 12406
+Mangefrics folds
+rs8white calls 6354
+*** SHOW DOWN ***
+rs8white shows [7h Qh] (One pair : Queens)
+Hazbadeluxe shows [Qd 6d] (Two pairs : Queens and 6)
+Hazbadeluxe collected 42103 from pot
+*** SUMMARY ***
+Total pot 42103 | No rake
+Board: [5h 4d 6c Qc 9d]
+Seat 2: rs8white showed [7h Qh] and lost with One pair : Queens
+Seat 3: Hazbadeluxe showed [Qd 6d] and won 42103 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2603157099462525239-37-1670271763 - Holdem no limit (60/250/500) - 2022/12/05 20:22:43 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #6 is the button
+Seat 1: Mangefrics (34432, 2.70€ bounty)
+Seat 2: rs8white (11149, 1.80€ bounty)
+Seat 3: Hazbadeluxe (53280, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (36901, 1.80€ bounty)
+Seat 5: NURY-BEN (8139, 1.80€ bounty)
+Seat 6: RaZyy (51985, 3.60€ bounty)
+*** ANTE/BLINDS ***
+Mangefrics posts ante 60
+rs8white posts ante 60
+Hazbadeluxe posts ante 60
+YL_ML_GL_42 posts ante 60
+NURY-BEN posts ante 60
+RaZyy posts ante 60
+Mangefrics posts small blind 250
+rs8white posts big blind 500
+Dealt to YL_ML_GL_42 [6c Qd]
+*** PRE-FLOP *** 
+Hazbadeluxe folds
+YL_ML_GL_42 folds
+NURY-BEN folds
+RaZyy folds
+Mangefrics folds
+rs8white collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Seat 2: rs8white (big blind) won 1110
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2603157099462525239-38-1670271785 - Holdem no limit (60/250/500) - 2022/12/05 20:23:05 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #1 is the button
+Seat 1: Mangefrics (34122, 2.70€ bounty)
+Seat 2: rs8white (11699, 1.80€ bounty)
+Seat 3: Hazbadeluxe (53220, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (36841, 1.80€ bounty)
+Seat 5: NURY-BEN (8079, 1.80€ bounty)
+Seat 6: RaZyy (51925, 3.60€ bounty)
+*** ANTE/BLINDS ***
+rs8white posts ante 60
+Hazbadeluxe posts ante 60
+Mangefrics posts ante 60
+YL_ML_GL_42 posts ante 60
+NURY-BEN posts ante 60
+RaZyy posts ante 60
+rs8white posts small blind 250
+Hazbadeluxe posts big blind 500
+Dealt to YL_ML_GL_42 [4d Ah]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+NURY-BEN folds
+RaZyy folds
+Mangefrics calls 500
+rs8white calls 250
+Hazbadeluxe checks
+*** FLOP *** [As Qs Qh]
+rs8white bets 651
+Hazbadeluxe folds
+Mangefrics calls 651
+*** TURN *** [As Qs Qh][7h]
+rs8white bets 1107
+Mangefrics calls 1107
+*** RIVER *** [As Qs Qh 7h][Ad]
+rs8white bets 1882
+Mangefrics raises 9140 to 11022
+rs8white folds
+Mangefrics collected 18280 from pot
+*** SUMMARY ***
+Total pot 18280 | No rake
+Board: [As Qs Qh 7h Ad]
+Seat 1: Mangefrics (button) won 18280
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2603157099462525239-39-1670271858 - Holdem no limit (60/250/500) - 2022/12/05 20:24:18 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #2 is the button
+Seat 1: Mangefrics (39062, 2.70€ bounty)
+Seat 2: rs8white (7499, 1.80€ bounty)
+Seat 3: Hazbadeluxe (52660, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (36781, 1.80€ bounty)
+Seat 5: NURY-BEN (8019, 1.80€ bounty)
+Seat 6: RaZyy (51865, 3.60€ bounty)
+*** ANTE/BLINDS ***
+Hazbadeluxe posts ante 60
+YL_ML_GL_42 posts ante 60
+Mangefrics posts ante 60
+rs8white posts ante 60
+NURY-BEN posts ante 60
+RaZyy posts ante 60
+Hazbadeluxe posts small blind 250
+YL_ML_GL_42 posts big blind 500
+Dealt to YL_ML_GL_42 [6s 3h]
+*** PRE-FLOP *** 
+NURY-BEN folds
+RaZyy folds
+Mangefrics calls 500
+rs8white raises 1000 to 1500
+Hazbadeluxe raises 4360 to 5860
+YL_ML_GL_42 folds
+Mangefrics folds
+rs8white folds
+Hazbadeluxe collected 8720 from pot
+*** SUMMARY ***
+Total pot 8720 | No rake
+Seat 3: Hazbadeluxe (small blind) won 8720
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2603157099462525239-40-1670271934 - Holdem no limit (60/250/500) - 2022/12/05 20:25:34 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #3 is the button
+Seat 1: Mangefrics (38502, 2.70€ bounty)
+Seat 2: rs8white (5939, 1.80€ bounty)
+Seat 3: Hazbadeluxe (55460, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (36221, 1.80€ bounty)
+Seat 5: NURY-BEN (7959, 1.80€ bounty)
+Seat 6: RaZyy (51805, 3.60€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+NURY-BEN posts ante 60
+Mangefrics posts ante 60
+rs8white posts ante 60
+Hazbadeluxe posts ante 60
+RaZyy posts ante 60
+YL_ML_GL_42 posts small blind 250
+NURY-BEN posts big blind 500
+Dealt to YL_ML_GL_42 [4h Ac]
+*** PRE-FLOP *** 
+RaZyy raises 750 to 1250
+Mangefrics raises 750 to 2000
+rs8white folds
+Hazbadeluxe calls 2000
+YL_ML_GL_42 folds
+NURY-BEN raises 5899 to 7899 and is all-in
+RaZyy folds
+Mangefrics calls 5899
+Hazbadeluxe folds
+*** FLOP *** [8c 2d Kh]
+*** TURN *** [8c 2d Kh][7c]
+*** RIVER *** [8c 2d Kh 7c][7h]
+*** SHOW DOWN ***
+NURY-BEN shows [Qs As] (One pair : 7)
+Mangefrics shows [Kd Jh] (Two pairs : Kings and 7)
+Mangefrics collected 19658 from pot
+*** SUMMARY ***
+Total pot 19658 | No rake
+Board: [8c 2d Kh 7c 7h]
+Seat 1: Mangefrics showed [Kd Jh] and won 19658 with Two pairs : Kings and 7
+Seat 5: NURY-BEN (big blind) showed [Qs As] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2603157099462525239-41-1670271998 - Holdem no limit (70/300/600) - 2022/12/05 20:26:38 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #4 is the button
+Seat 1: Mangefrics (50201, 3.60€ bounty)
+Seat 2: rs8white (5879, 1.80€ bounty)
+Seat 3: Hazbadeluxe (53400, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (35911, 1.80€ bounty)
+Seat 6: RaZyy (50495, 3.60€ bounty)
+*** ANTE/BLINDS ***
+RaZyy posts ante 70
+Mangefrics posts ante 70
+rs8white posts ante 70
+Hazbadeluxe posts ante 70
+YL_ML_GL_42 posts ante 70
+RaZyy posts big blind 600
+Dealt to YL_ML_GL_42 [3d 6d]
+*** PRE-FLOP *** 
+Mangefrics calls 600
+rs8white folds
+Hazbadeluxe folds
+YL_ML_GL_42 folds
+RaZyy checks
+*** FLOP *** [7s 9c 5h]
+RaZyy checks
+Mangefrics checks
+*** TURN *** [7s 9c 5h][Qs]
+RaZyy checks
+Mangefrics bets 600
+RaZyy folds
+Mangefrics collected 2150 from pot
+*** SUMMARY ***
+Total pot 2150 | No rake
+Board: [7s 9c 5h Qs]
+Seat 1: Mangefrics won 2150
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2603157099462525239-42-1670272068 - Holdem no limit (70/300/600) - 2022/12/05 20:27:48 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #5 is the button
+Seat 1: Mangefrics (51081, 3.60€ bounty)
+Seat 2: rs8white (5809, 1.80€ bounty)
+Seat 3: Hazbadeluxe (53330, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (35841, 1.80€ bounty)
+Seat 5: Wampas (20000, 1.80€ bounty)
+Seat 6: RaZyy (49825, 3.60€ bounty)
+*** ANTE/BLINDS ***
+RaZyy posts ante 70
+Mangefrics posts ante 70
+rs8white posts ante 70
+Hazbadeluxe posts ante 70
+YL_ML_GL_42 posts ante 70
+RaZyy posts small blind 300
+Mangefrics posts big blind 600
+Dealt to YL_ML_GL_42 [7c 6c]
+*** PRE-FLOP *** 
+rs8white folds
+Hazbadeluxe raises 900 to 1500
+YL_ML_GL_42 folds
+RaZyy folds
+Mangefrics folds
+Hazbadeluxe collected 2750 from pot
+*** SUMMARY ***
+Total pot 2750 | No rake
+Seat 3: Hazbadeluxe won 2750
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2603157099462525239-43-1670272089 - Holdem no limit (70/300/600) - 2022/12/05 20:28:09 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #6 is the button
+Seat 1: Mangefrics (50411, 3.60€ bounty)
+Seat 2: rs8white (5739, 1.80€ bounty)
+Seat 3: Hazbadeluxe (54510, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (35771, 1.80€ bounty)
+Seat 5: Wampas (20000, 1.80€ bounty)
+Seat 6: RaZyy (49455, 3.60€ bounty)
+*** ANTE/BLINDS ***
+Mangefrics posts ante 70
+rs8white posts ante 70
+Hazbadeluxe posts ante 70
+YL_ML_GL_42 posts ante 70
+Wampas posts ante 70
+RaZyy posts ante 70
+Mangefrics posts small blind 300
+rs8white posts big blind 600
+Dealt to YL_ML_GL_42 [3h 5c]
+*** PRE-FLOP *** 
+Hazbadeluxe raises 900 to 1500
+YL_ML_GL_42 folds
+Wampas raises 18430 to 19930 and is all-in
+RaZyy folds
+Mangefrics calls 19630
+rs8white folds
+Hazbadeluxe folds
+*** FLOP *** [7h Ts 3d]
+*** TURN *** [7h Ts 3d][Th]
+*** RIVER *** [7h Ts 3d Th][4d]
+*** SHOW DOWN ***
+Mangefrics shows [9s 9c] (Two pairs : Tens and 9)
+Wampas shows [Ks Kd] (Two pairs : Kings and Tens)
+Wampas collected 42380 from pot
+*** SUMMARY ***
+Total pot 42380 | No rake
+Board: [7h Ts 3d Th 4d]
+Seat 1: Mangefrics (small blind) showed [9s 9c] and lost with Two pairs : Tens and 9
+Seat 5: Wampas showed [Ks Kd] and won 42380 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2603157099462525239-44-1670272131 - Holdem no limit (70/300/600) - 2022/12/05 20:28:51 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #1 is the button
+Seat 1: Mangefrics (30411, 3.60€ bounty)
+Seat 2: rs8white (5069, 1.80€ bounty)
+Seat 3: Hazbadeluxe (52940, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (35701, 1.80€ bounty)
+Seat 5: Wampas (42380, 1.80€ bounty)
+Seat 6: RaZyy (49385, 3.60€ bounty)
+*** ANTE/BLINDS ***
+rs8white posts ante 70
+Hazbadeluxe posts ante 70
+Mangefrics posts ante 70
+YL_ML_GL_42 posts ante 70
+Wampas posts ante 70
+RaZyy posts ante 70
+rs8white posts small blind 300
+Hazbadeluxe posts big blind 600
+Dealt to YL_ML_GL_42 [Ks 7c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Wampas folds
+RaZyy folds
+Mangefrics folds
+rs8white raises 4399 to 4999 and is all-in
+Hazbadeluxe calls 4399
+*** FLOP *** [2c 6c 3d]
+*** TURN *** [2c 6c 3d][8s]
+*** RIVER *** [2c 6c 3d 8s][Kh]
+*** SHOW DOWN ***
+rs8white shows [7s 8d] (One pair : 8)
+Hazbadeluxe shows [Kd Qh] (One pair : Kings)
+Hazbadeluxe collected 10418 from pot
+*** SUMMARY ***
+Total pot 10418 | No rake
+Board: [2c 6c 3d 8s Kh]
+Seat 2: rs8white (small blind) showed [7s 8d] and lost with One pair : 8
+Seat 3: Hazbadeluxe (big blind) showed [Kd Qh] and won 10418 with One pair : Kings
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2603157099462525239-45-1670272156 - Holdem no limit (70/300/600) - 2022/12/05 20:29:16 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #2 is the button
+Seat 1: Mangefrics (30341, 3.60€ bounty)
+Seat 3: Hazbadeluxe (58289, 2.70€ bounty)
+Seat 4: YL_ML_GL_42 (35631, 1.80€ bounty)
+Seat 5: Wampas (42310, 1.80€ bounty)
+Seat 6: RaZyy (49315, 3.60€ bounty)
+*** ANTE/BLINDS ***
+Hazbadeluxe posts ante 70
+YL_ML_GL_42 posts ante 70
+Mangefrics posts ante 70
+Wampas posts ante 70
+RaZyy posts ante 70
+Hazbadeluxe posts small blind 300
+YL_ML_GL_42 posts big blind 600
+Dealt to YL_ML_GL_42 [5s Js]
+*** PRE-FLOP *** 
+Wampas folds
+RaZyy folds
+Mangefrics folds
+Hazbadeluxe raises 900 to 1500
+YL_ML_GL_42 calls 900
+*** FLOP *** [Kh Qc Td]
+Hazbadeluxe checks
+YL_ML_GL_42 bets 2680
+Hazbadeluxe raises 2680 to 5360
+YL_ML_GL_42 calls 2680
+*** TURN *** [Kh Qc Td][7d]
+Hazbadeluxe bets 4925
+YL_ML_GL_42 folds
+Hazbadeluxe collected 18995 from pot
+*** SUMMARY ***
+Total pot 18995 | No rake
+Board: [Kh Qc Td 7d]
+Seat 3: Hazbadeluxe (small blind) won 18995
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2603157099462525239-46-1670272211 - Holdem no limit (70/300/600) - 2022/12/05 20:30:11 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #3 is the button
+Seat 1: Mangefrics (30271, 3.60€ bounty)
+Seat 2: ZipzAg (20000, 1.80€ bounty)
+Seat 3: Hazbadeluxe (65429, 2.70€ bounty)
+Seat 4: YL_ML_GL_42 (28701, 1.80€ bounty)
+Seat 5: Wampas (42240, 1.80€ bounty)
+Seat 6: RaZyy (49245, 3.60€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 70
+Wampas posts ante 70
+Mangefrics posts ante 70
+ZipzAg posts ante 70
+Hazbadeluxe posts ante 70
+RaZyy posts ante 70
+YL_ML_GL_42 posts small blind 300
+Wampas posts big blind 600
+Dealt to YL_ML_GL_42 [Qc 8s]
+*** PRE-FLOP *** 
+RaZyy folds
+Mangefrics folds
+ZipzAg folds
+Hazbadeluxe raises 900 to 1500
+YL_ML_GL_42 folds
+Wampas calls 900
+*** FLOP *** [6s 7s Qd]
+Wampas bets 2976
+Hazbadeluxe raises 2976 to 5952
+Wampas raises 34718 to 40670 and is all-in
+Hazbadeluxe calls 34718
+*** TURN *** [6s 7s Qd][Ts]
+*** RIVER *** [6s 7s Qd Ts][Ah]
+*** SHOW DOWN ***
+Wampas shows [Qh As] (Two pairs : Aces and Queens)
+Hazbadeluxe shows [Qs Ks] (Flush King high)
+Hazbadeluxe collected 85060 from pot
+*** SUMMARY ***
+Total pot 85060 | No rake
+Board: [6s 7s Qd Ts Ah]
+Seat 3: Hazbadeluxe (button) showed [Qs Ks] and won 85060 with Flush King high
+Seat 5: Wampas (big blind) showed [Qh As] and lost with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2603157099462525239-47-1670272305 - Holdem no limit (80/350/700) - 2022/12/05 20:31:45 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #4 is the button
+Seat 1: Mangefrics (30201, 3.60€ bounty)
+Seat 2: ZipzAg (19930, 1.80€ bounty)
+Seat 3: Hazbadeluxe (108249, 3.60€ bounty)
+Seat 4: YL_ML_GL_42 (28331, 1.80€ bounty)
+Seat 6: RaZyy (49175, 3.60€ bounty)
+*** ANTE/BLINDS ***
+RaZyy posts ante 80
+Mangefrics posts ante 80
+ZipzAg posts ante 80
+Hazbadeluxe posts ante 80
+YL_ML_GL_42 posts ante 80
+RaZyy posts big blind 700
+Dealt to YL_ML_GL_42 [7s Ad]
+*** PRE-FLOP *** 
+Mangefrics calls 700
+ZipzAg calls 700
+Hazbadeluxe calls 700
+YL_ML_GL_42 calls 700
+RaZyy checks
+*** FLOP *** [8s Js 7d]
+RaZyy checks
+Mangefrics bets 700
+ZipzAg raises 1400 to 2100
+Hazbadeluxe raises 1715 to 3815
+YL_ML_GL_42 folds
+RaZyy folds
+Mangefrics folds
+ZipzAg raises 15335 to 19150 and is all-in
+Hazbadeluxe calls 15335
+*** TURN *** [8s Js 7d][Kh]
+*** RIVER *** [8s Js 7d Kh][4c]
+*** SHOW DOWN ***
+ZipzAg shows [Qs 9s] (High card : King)
+Hazbadeluxe shows [Td 9h] (Straight Jack high)
+Hazbadeluxe collected 42900 from pot
+*** SUMMARY ***
+Total pot 42900 | No rake
+Board: [8s Js 7d Kh 4c]
+Seat 2: ZipzAg showed [Qs 9s] and lost with High card : King
+Seat 3: Hazbadeluxe showed [Td 9h] and won 42900 with Straight Jack high
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2603157099462525239-48-1670272425 - Holdem no limit (80/350/700) - 2022/12/05 20:33:45 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #5 is the button
+Seat 1: Mangefrics (28721, 3.60€ bounty)
+Seat 3: Hazbadeluxe (131219, 4.50€ bounty)
+Seat 4: YL_ML_GL_42 (27551, 1.80€ bounty)
+Seat 5: Xpujo (20000, 1.80€ bounty)
+Seat 6: RaZyy (48395, 3.60€ bounty)
+*** ANTE/BLINDS ***
+RaZyy posts ante 80
+Mangefrics posts ante 80
+Hazbadeluxe posts ante 80
+YL_ML_GL_42 posts ante 80
+RaZyy posts small blind 350
+Mangefrics posts big blind 700
+Dealt to YL_ML_GL_42 [Jc 8h]
+*** PRE-FLOP *** 
+Hazbadeluxe folds
+YL_ML_GL_42 folds
+RaZyy calls 350
+Mangefrics checks
+*** FLOP *** [8c 8d 4h]
+RaZyy checks
+Mangefrics checks
+*** TURN *** [8c 8d 4h][Td]
+RaZyy bets 1118
+Mangefrics calls 1118
+*** RIVER *** [8c 8d 4h Td][3d]
+RaZyy bets 3956
+Mangefrics folds
+RaZyy collected 7912 from pot
+*** SUMMARY ***
+Total pot 7912 | No rake
+Board: [8c 8d 4h Td 3d]
+Seat 6: RaZyy (small blind) won 7912
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2603157099462525239-49-1670272460 - Holdem no limit (80/350/700) - 2022/12/05 20:34:20 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #6 is the button
+Seat 1: Mangefrics (26823, 3.60€ bounty)
+Seat 3: Hazbadeluxe (131139, 4.50€ bounty)
+Seat 4: YL_ML_GL_42 (27471, 1.80€ bounty)
+Seat 5: Xpujo (20000, 1.80€ bounty)
+Seat 6: RaZyy (50453, 3.60€ bounty)
+*** ANTE/BLINDS ***
+Mangefrics posts ante 80
+Hazbadeluxe posts ante 80
+YL_ML_GL_42 posts ante 80
+Xpujo posts ante 80
+RaZyy posts ante 80
+Mangefrics posts small blind 350
+Hazbadeluxe posts big blind 700
+Dealt to YL_ML_GL_42 [Js 9h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Xpujo folds
+RaZyy folds
+Mangefrics folds
+Hazbadeluxe collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Seat 3: Hazbadeluxe (big blind) won 1450
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2603157099462525239-50-1670272477 - Holdem no limit (80/350/700) - 2022/12/05 20:34:37 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #1 is the button
+Seat 1: Mangefrics (26393, 3.60€ bounty)
+Seat 3: Hazbadeluxe (131809, 4.50€ bounty)
+Seat 4: YL_ML_GL_42 (27391, 1.80€ bounty)
+Seat 5: Xpujo (19920, 1.80€ bounty)
+Seat 6: RaZyy (50373, 3.60€ bounty)
+*** ANTE/BLINDS ***
+Hazbadeluxe posts ante 80
+YL_ML_GL_42 posts ante 80
+Mangefrics posts ante 80
+Xpujo posts ante 80
+RaZyy posts ante 80
+Hazbadeluxe posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [Qd 2s]
+*** PRE-FLOP *** 
+Xpujo folds
+RaZyy folds
+Mangefrics calls 700
+Hazbadeluxe folds
+YL_ML_GL_42 checks
+*** FLOP *** [3s 6c 3d]
+YL_ML_GL_42 checks
+Mangefrics checks
+*** TURN *** [3s 6c 3d][Ah]
+YL_ML_GL_42 checks
+Mangefrics bets 700
+YL_ML_GL_42 folds
+Mangefrics collected 2850 from pot
+*** SUMMARY ***
+Total pot 2850 | No rake
+Board: [3s 6c 3d Ah]
+Seat 1: Mangefrics (button) won 2850
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2603157099462525239-51-1670272533 - Holdem no limit (80/350/700) - 2022/12/05 20:35:33 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #3 is the button
+Seat 1: Mangefrics (27763, 3.60€ bounty)
+Seat 3: Hazbadeluxe (131379, 4.50€ bounty)
+Seat 4: YL_ML_GL_42 (26611, 1.80€ bounty)
+Seat 5: Xpujo (19840, 1.80€ bounty)
+Seat 6: RaZyy (50293, 3.60€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+Xpujo posts ante 80
+Mangefrics posts ante 80
+Hazbadeluxe posts ante 80
+RaZyy posts ante 80
+YL_ML_GL_42 posts small blind 350
+Xpujo posts big blind 700
+Dealt to YL_ML_GL_42 [As Qs]
+*** PRE-FLOP *** 
+RaZyy raises 1050 to 1750
+Mangefrics calls 1750
+Hazbadeluxe raises 3500 to 5250
+YL_ML_GL_42 raises 21281 to 26531 and is all-in
+Xpujo folds
+RaZyy raises 23682 to 50213 and is all-in
+Mangefrics calls 25933 and is all-in
+Hazbadeluxe folds
+*** FLOP *** [Tc Qc 3c]
+*** TURN *** [Tc Qc 3c][5c]
+*** RIVER *** [Tc Qc 3c 5c][2c]
+*** SHOW DOWN ***
+Mangefrics shows [9d 7d] (Flush Queen high)
+YL_ML_GL_42 shows [As Qs] (Flush Queen high)
+RaZyy shows [Kh Ah] (Flush Queen high)
+RaZyy collected 52330 from side pot 2
+YL_ML_GL_42 collected 28648 from main pot
+Mangefrics collected 29799 from side pot 1
+*** SUMMARY ***
+Total pot 110777 | No rake
+Board: [Tc Qc 3c 5c 2c]
+Seat 1: Mangefrics showed [9d 7d] and won 29799 with Flush Queen high
+Seat 4: YL_ML_GL_42 (small blind) showed [As Qs] and won 28648 with Flush Queen high
+Seat 6: RaZyy showed [Kh Ah] and won 52330 with Flush Queen high
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2603157099462525239-52-1670272589 - Holdem no limit (100/400/800) - 2022/12/05 20:36:29 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #4 is the button
+Seat 1: Mangefrics (29799, 3.60€ bounty)
+Seat 2: ESCROBAR3 (20000, 1.80€ bounty)
+Seat 3: Hazbadeluxe (126049, 4.50€ bounty)
+Seat 4: YL_ML_GL_42 (28648, 1.80€ bounty)
+Seat 5: Xpujo (19060, 1.80€ bounty)
+Seat 6: RaZyy (52330, 3.60€ bounty)
+*** ANTE/BLINDS ***
+Xpujo posts ante 100
+RaZyy posts ante 100
+Mangefrics posts ante 100
+ESCROBAR3 posts ante 100
+Hazbadeluxe posts ante 100
+YL_ML_GL_42 posts ante 100
+Xpujo posts small blind 400
+RaZyy posts big blind 800
+Dealt to YL_ML_GL_42 [7d 4c]
+*** PRE-FLOP *** 
+Mangefrics calls 800
+ESCROBAR3 folds
+Hazbadeluxe folds
+YL_ML_GL_42 folds
+Xpujo folds
+RaZyy checks
+*** FLOP *** [Js 7h 2c]
+RaZyy checks
+Mangefrics checks
+*** TURN *** [Js 7h 2c][3s]
+RaZyy checks
+Mangefrics checks
+*** RIVER *** [Js 7h 2c 3s][Td]
+RaZyy checks
+Mangefrics checks
+*** SHOW DOWN ***
+Mangefrics shows [Kh 8s] (High card : King)
+RaZyy shows [Qc 3c] (One pair : 3)
+RaZyy collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Board: [Js 7h 2c 3s Td]
+Seat 1: Mangefrics showed [Kh 8s] and lost with High card : King
+Seat 6: RaZyy (big blind) showed [Qc 3c] and won 2600 with One pair : 3
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2603157099462525239-53-1670272638 - Holdem no limit (100/400/800) - 2022/12/05 20:37:18 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #5 is the button
+Seat 1: Mangefrics (28899, 3.60€ bounty)
+Seat 2: ESCROBAR3 (19900, 1.80€ bounty)
+Seat 3: Hazbadeluxe (125949, 4.50€ bounty)
+Seat 4: YL_ML_GL_42 (28548, 1.80€ bounty)
+Seat 5: Xpujo (18560, 1.80€ bounty)
+Seat 6: RaZyy (54030, 3.60€ bounty)
+*** ANTE/BLINDS ***
+RaZyy posts ante 100
+Mangefrics posts ante 100
+ESCROBAR3 posts ante 100
+Hazbadeluxe posts ante 100
+YL_ML_GL_42 posts ante 100
+Xpujo posts ante 100
+RaZyy posts small blind 400
+Mangefrics posts big blind 800
+Dealt to YL_ML_GL_42 [3c Ah]
+*** PRE-FLOP *** 
+ESCROBAR3 folds
+Hazbadeluxe folds
+YL_ML_GL_42 folds
+Xpujo folds
+RaZyy calls 400
+Mangefrics checks
+*** FLOP *** [9c 4h Kh]
+RaZyy bets 800
+Mangefrics calls 800
+*** TURN *** [9c 4h Kh][7c]
+RaZyy bets 800
+Mangefrics raises 800 to 1600
+RaZyy calls 800
+*** RIVER *** [9c 4h Kh 7c][8d]
+RaZyy bets 3500
+Mangefrics folds
+RaZyy collected 10500 from pot
+*** SUMMARY ***
+Total pot 10500 | No rake
+Board: [9c 4h Kh 7c 8d]
+Seat 6: RaZyy (small blind) won 10500
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2603157099462525239-54-1670272695 - Holdem no limit (100/400/800) - 2022/12/05 20:38:15 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #6 is the button
+Seat 1: Mangefrics (25599, 3.60€ bounty)
+Seat 2: ESCROBAR3 (19800, 1.80€ bounty)
+Seat 3: Hazbadeluxe (125849, 4.50€ bounty)
+Seat 4: YL_ML_GL_42 (28448, 1.80€ bounty)
+Seat 5: Xpujo (18460, 1.80€ bounty)
+Seat 6: RaZyy (57730, 3.60€ bounty)
+*** ANTE/BLINDS ***
+Mangefrics posts ante 100
+ESCROBAR3 posts ante 100
+Hazbadeluxe posts ante 100
+YL_ML_GL_42 posts ante 100
+Xpujo posts ante 100
+RaZyy posts ante 100
+Mangefrics posts small blind 400
+ESCROBAR3 posts big blind 800
+Dealt to YL_ML_GL_42 [7h 7s]
+*** PRE-FLOP *** 
+Hazbadeluxe calls 800
+YL_ML_GL_42 raises 1600 to 2400
+Xpujo folds
+RaZyy folds
+Mangefrics raises 23099 to 25499 and is all-in
+ESCROBAR3 folds
+Hazbadeluxe folds
+YL_ML_GL_42 raises 2849 to 28348 and is all-in
+*** FLOP *** [2d 3d 5s]
+*** TURN *** [2d 3d 5s][As]
+*** RIVER *** [2d 3d 5s As][Jh]
+*** SHOW DOWN ***
+Mangefrics shows [8d 8s] (One pair : 8)
+YL_ML_GL_42 shows [7h 7s] (One pair : 7)
+YL_ML_GL_42 collected 2849 from side pot 1
+Mangefrics collected 53198 from main pot
+*** SUMMARY ***
+Total pot 56047 | No rake
+Board: [2d 3d 5s As Jh]
+Seat 1: Mangefrics (small blind) showed [8d 8s] and won 53198 with One pair : 8
+Seat 4: YL_ML_GL_42 showed [7h 7s] and won 2849 with One pair : 7
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2603157099462525239-55-1670272747 - Holdem no limit (100/400/800) - 2022/12/05 20:39:07 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #1 is the button
+Seat 1: Mangefrics (53198, 3.60€ bounty)
+Seat 2: ESCROBAR3 (18900, 1.80€ bounty)
+Seat 3: Hazbadeluxe (124949, 4.50€ bounty)
+Seat 4: YL_ML_GL_42 (2849, 1.80€ bounty)
+Seat 5: Xpujo (18360, 1.80€ bounty)
+Seat 6: RaZyy (57630, 3.60€ bounty)
+*** ANTE/BLINDS ***
+ESCROBAR3 posts ante 100
+Hazbadeluxe posts ante 100
+Mangefrics posts ante 100
+YL_ML_GL_42 posts ante 100
+Xpujo posts ante 100
+RaZyy posts ante 100
+ESCROBAR3 posts small blind 400
+Hazbadeluxe posts big blind 800
+Dealt to YL_ML_GL_42 [2s Kd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Xpujo raises 1000 to 1800
+RaZyy folds
+Mangefrics folds
+ESCROBAR3 folds
+Hazbadeluxe folds
+Xpujo collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 5: Xpujo won 3600
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2603157099462525239-56-1670272784 - Holdem no limit (100/400/800) - 2022/12/05 20:39:44 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #2 is the button
+Seat 1: Mangefrics (53098, 3.60€ bounty)
+Seat 2: ESCROBAR3 (18400, 1.80€ bounty)
+Seat 3: Hazbadeluxe (124049, 4.50€ bounty)
+Seat 4: YL_ML_GL_42 (2749, 1.80€ bounty)
+Seat 5: Xpujo (20060, 1.80€ bounty)
+Seat 6: RaZyy (57530, 3.60€ bounty)
+*** ANTE/BLINDS ***
+Hazbadeluxe posts ante 100
+YL_ML_GL_42 posts ante 100
+Mangefrics posts ante 100
+ESCROBAR3 posts ante 100
+Xpujo posts ante 100
+RaZyy posts ante 100
+Hazbadeluxe posts small blind 400
+YL_ML_GL_42 posts big blind 800
+Dealt to YL_ML_GL_42 [8c 7h]
+*** PRE-FLOP *** 
+Xpujo folds
+RaZyy folds
+Mangefrics folds
+ESCROBAR3 folds
+Hazbadeluxe calls 400
+YL_ML_GL_42 checks
+*** FLOP *** [Td Kc 5d]
+Hazbadeluxe checks
+YL_ML_GL_42 checks
+*** TURN *** [Td Kc 5d][Js]
+Hazbadeluxe bets 1430
+YL_ML_GL_42 folds
+Hazbadeluxe collected 3630 from pot
+*** SUMMARY ***
+Total pot 3630 | No rake
+Board: [Td Kc 5d Js]
+Seat 3: Hazbadeluxe (small blind) won 3630
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2603157099462525239-57-1670272828 - Holdem no limit (100/400/800) - 2022/12/05 20:40:28 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #3 is the button
+Seat 1: Mangefrics (52998, 3.60€ bounty)
+Seat 2: ESCROBAR3 (18300, 1.80€ bounty)
+Seat 3: Hazbadeluxe (125349, 4.50€ bounty)
+Seat 4: YL_ML_GL_42 (1849, 1.80€ bounty)
+Seat 5: Xpujo (19960, 1.80€ bounty)
+Seat 6: RaZyy (57430, 3.60€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 100
+Xpujo posts ante 100
+Mangefrics posts ante 100
+ESCROBAR3 posts ante 100
+Hazbadeluxe posts ante 100
+RaZyy posts ante 100
+YL_ML_GL_42 posts small blind 400
+Xpujo posts big blind 800
+Dealt to YL_ML_GL_42 [3c 7h]
+*** PRE-FLOP *** 
+RaZyy folds
+Mangefrics calls 800
+ESCROBAR3 folds
+Hazbadeluxe calls 800
+YL_ML_GL_42 folds
+Xpujo checks
+*** FLOP *** [Jh 5s 8d]
+Xpujo checks
+Mangefrics checks
+Hazbadeluxe bets 1190
+Xpujo calls 1190
+Mangefrics folds
+*** TURN *** [Jh 5s 8d][6s]
+Xpujo checks
+Hazbadeluxe checks
+*** RIVER *** [Jh 5s 8d 6s][Ac]
+Xpujo checks
+Hazbadeluxe checks
+*** SHOW DOWN ***
+Xpujo shows [5c 4h] (One pair : 5)
+Hazbadeluxe shows [Ah Ks] (One pair : Aces)
+Hazbadeluxe collected 5780 from pot
+*** SUMMARY ***
+Total pot 5780 | No rake
+Board: [Jh 5s 8d 6s Ac]
+Seat 3: Hazbadeluxe (button) showed [Ah Ks] and won 5780 with One pair : Aces
+Seat 5: Xpujo (big blind) showed [5c 4h] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2603157099462525239-58-1670272925 - Holdem no limit (120/500/1000) - 2022/12/05 20:42:05 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094743)#0310' 6-max (real money) Seat #4 is the button
+Seat 1: Mangefrics (52098, 3.60€ bounty)
+Seat 2: ESCROBAR3 (18200, 1.80€ bounty)
+Seat 3: Hazbadeluxe (129039, 4.50€ bounty)
+Seat 4: YL_ML_GL_42 (1349, 1.80€ bounty)
+Seat 5: Xpujo (17870, 1.80€ bounty)
+Seat 6: RaZyy (57330, 3.60€ bounty)
+*** ANTE/BLINDS ***
+Xpujo posts ante 120
+RaZyy posts ante 120
+Mangefrics posts ante 120
+ESCROBAR3 posts ante 120
+Hazbadeluxe posts ante 120
+YL_ML_GL_42 posts ante 120
+Xpujo posts small blind 500
+RaZyy posts big blind 1000
+Dealt to YL_ML_GL_42 [Kh 8h]
+*** PRE-FLOP *** 
+Mangefrics raises 2000 to 3000
+ESCROBAR3 folds
+Hazbadeluxe folds
+YL_ML_GL_42 calls 1229 and is all-in
+Xpujo folds
+RaZyy calls 2000
+*** FLOP *** [7h 2h As]
+RaZyy checks
+Mangefrics bets 2957
+RaZyy raises 6703 to 9660
+Mangefrics raises 39318 to 48978 and is all-in
+RaZyy calls 39318
+*** TURN *** [7h 2h As][6c]
+*** RIVER *** [7h 2h As 6c][4c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kh 8h] (High card : Ace)
+RaZyy shows [5h Ac] (One pair : Aces)
+Mangefrics shows [Qh Ah] (One pair : Aces)
+Mangefrics collected 106405 from pot
+*** SUMMARY ***
+Total pot 106405 | No rake
+Board: [7h 2h As 6c 4c]
+Seat 1: Mangefrics showed [Qh Ah] and won 106405 with One pair : Aces
+Seat 4: YL_ML_GL_42 (button) showed [Kh 8h] and lost with High card : Ace
+Seat 6: RaZyy (big blind) showed [5h Ac] and lost with One pair : Aces
+
+

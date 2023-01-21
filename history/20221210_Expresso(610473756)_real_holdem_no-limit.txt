@@ -1,0 +1,412 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2621964817086283777-1-1670706907 - Holdem no limit (10/20) - 2022/12/10 21:15:07 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Rolan_Satapy (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Barryblack38 (500)
+*** ANTE/BLINDS ***
+Barryblack38 posts small blind 10
+Rolan_Satapy posts big blind 20
+Dealt to YL_ML_GL_42 [Kd 4h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Barryblack38 folds
+Rolan_Satapy collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Rolan_Satapy (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2621964817086283777-2-1670706916 - Holdem no limit (10/20) - 2022/12/10 21:15:16 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rolan_Satapy (510)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Barryblack38 (490)
+*** ANTE/BLINDS ***
+Rolan_Satapy posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [6d Jc]
+*** PRE-FLOP *** 
+Barryblack38 folds
+Rolan_Satapy raises 30 to 50
+YL_ML_GL_42 calls 30
+*** FLOP *** [Ac Kc Jh]
+Rolan_Satapy bets 35
+YL_ML_GL_42 folds
+Rolan_Satapy collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [Ac Kc Jh]
+Seat 1: Rolan_Satapy (small blind) won 135
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2621964817086283777-3-1670706935 - Holdem no limit (10/20) - 2022/12/10 21:15:35 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Rolan_Satapy (560)
+Seat 2: YL_ML_GL_42 (450)
+Seat 3: Barryblack38 (490)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Barryblack38 posts big blind 20
+Dealt to YL_ML_GL_42 [8d 3c]
+*** PRE-FLOP *** 
+Rolan_Satapy raises 30 to 50
+YL_ML_GL_42 folds
+Barryblack38 calls 30
+*** FLOP *** [5c 4s 2h]
+Barryblack38 checks
+Rolan_Satapy bets 39
+Barryblack38 folds
+Rolan_Satapy collected 149 from pot
+*** SUMMARY ***
+Total pot 149 | No rake
+Board: [5c 4s 2h]
+Seat 1: Rolan_Satapy (button) won 149
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2621964817086283777-4-1670706948 - Holdem no limit (10/20) - 2022/12/10 21:15:48 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Rolan_Satapy (620)
+Seat 2: YL_ML_GL_42 (440)
+Seat 3: Barryblack38 (440)
+*** ANTE/BLINDS ***
+Barryblack38 posts small blind 10
+Rolan_Satapy posts big blind 20
+Dealt to YL_ML_GL_42 [6d 6s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 420 to 440 and is all-in
+Barryblack38 folds
+Rolan_Satapy folds
+YL_ML_GL_42 collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Seat 2: YL_ML_GL_42 (button) won 470
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2621964817086283777-5-1670706958 - Holdem no limit (10/20) - 2022/12/10 21:15:58 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rolan_Satapy (600)
+Seat 2: YL_ML_GL_42 (470)
+Seat 3: Barryblack38 (430)
+*** ANTE/BLINDS ***
+Rolan_Satapy posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Kd 6h]
+*** PRE-FLOP *** 
+Barryblack38 folds
+Rolan_Satapy raises 30 to 50
+YL_ML_GL_42 calls 30
+*** FLOP *** [8d Jh 4d]
+Rolan_Satapy bets 35
+YL_ML_GL_42 raises 385 to 420 and is all-in
+Rolan_Satapy folds
+YL_ML_GL_42 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Board: [8d Jh 4d]
+Seat 2: YL_ML_GL_42 (big blind) won 555
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2621964817086283777-6-1670706973 - Holdem no limit (10/20) - 2022/12/10 21:16:13 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Rolan_Satapy (515)
+Seat 2: YL_ML_GL_42 (555)
+Seat 3: Barryblack38 (430)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Barryblack38 posts big blind 20
+Dealt to YL_ML_GL_42 [Ah Qc]
+*** PRE-FLOP *** 
+Rolan_Satapy raises 30 to 50
+YL_ML_GL_42 raises 505 to 555 and is all-in
+Barryblack38 folds
+Rolan_Satapy calls 465 and is all-in
+*** FLOP *** [Qh Ad 6d]
+*** TURN *** [Qh Ad 6d][Kd]
+*** RIVER *** [Qh Ad 6d Kd][9c]
+*** SHOW DOWN ***
+Rolan_Satapy shows [Qd Ac] (Two pairs : Aces and Queens)
+YL_ML_GL_42 shows [Ah Qc] (Two pairs : Aces and Queens)
+YL_ML_GL_42 collected 565 from side pot 1
+Rolan_Satapy collected 525 from main pot
+*** SUMMARY ***
+Total pot 1090 | No rake
+Board: [Qh Ad 6d Kd 9c]
+Seat 1: Rolan_Satapy (button) showed [Qd Ac] and won 525 with Two pairs : Aces and Queens
+Seat 2: YL_ML_GL_42 (small blind) showed [Ah Qc] and won 565 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2621964817086283777-7-1670706988 - Holdem no limit (10/20) - 2022/12/10 21:16:28 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Rolan_Satapy (525)
+Seat 2: YL_ML_GL_42 (565)
+Seat 3: Barryblack38 (410)
+*** ANTE/BLINDS ***
+Barryblack38 posts small blind 10
+Rolan_Satapy posts big blind 20
+Dealt to YL_ML_GL_42 [Jc 7h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+Barryblack38 folds
+Rolan_Satapy folds
+YL_ML_GL_42 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 2: YL_ML_GL_42 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2621964817086283777-8-1670706996 - Holdem no limit (15/30) - 2022/12/10 21:16:36 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rolan_Satapy (505)
+Seat 2: YL_ML_GL_42 (595)
+Seat 3: Barryblack38 (400)
+*** ANTE/BLINDS ***
+Rolan_Satapy posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Qc 3s]
+*** PRE-FLOP *** 
+Barryblack38 folds
+Rolan_Satapy folds
+YL_ML_GL_42 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2621964817086283777-9-1670707006 - Holdem no limit (15/30) - 2022/12/10 21:16:46 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Rolan_Satapy (490)
+Seat 2: YL_ML_GL_42 (610)
+Seat 3: Barryblack38 (400)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Barryblack38 posts big blind 30
+Dealt to YL_ML_GL_42 [5c Kh]
+*** PRE-FLOP *** 
+Rolan_Satapy calls 30
+YL_ML_GL_42 calls 15
+Barryblack38 checks
+*** FLOP *** [Ks 9h Qc]
+YL_ML_GL_42 bets 45
+Barryblack38 folds
+Rolan_Satapy folds
+YL_ML_GL_42 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [Ks 9h Qc]
+Seat 2: YL_ML_GL_42 (small blind) won 135
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2621964817086283777-10-1670707037 - Holdem no limit (15/30) - 2022/12/10 21:17:17 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Rolan_Satapy (460)
+Seat 2: YL_ML_GL_42 (670)
+Seat 3: Barryblack38 (370)
+*** ANTE/BLINDS ***
+Barryblack38 posts small blind 15
+Rolan_Satapy posts big blind 30
+Dealt to YL_ML_GL_42 [Ac Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 75 to 105
+Barryblack38 folds
+Rolan_Satapy folds
+YL_ML_GL_42 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 2: YL_ML_GL_42 (button) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2621964817086283777-11-1670707046 - Holdem no limit (15/30) - 2022/12/10 21:17:26 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rolan_Satapy (430)
+Seat 2: YL_ML_GL_42 (715)
+Seat 3: Barryblack38 (355)
+*** ANTE/BLINDS ***
+Rolan_Satapy posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [4c 7d]
+*** PRE-FLOP *** 
+Barryblack38 folds
+Rolan_Satapy calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [Jc 9s Kd]
+Rolan_Satapy checks
+YL_ML_GL_42 checks
+*** TURN *** [Jc 9s Kd][7h]
+Rolan_Satapy checks
+YL_ML_GL_42 checks
+*** RIVER *** [Jc 9s Kd 7h][2h]
+Rolan_Satapy checks
+YL_ML_GL_42 bets 39
+Rolan_Satapy calls 39
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [4c 7d] (One pair : 7)
+Rolan_Satapy shows [9c 8h] (One pair : 9)
+Rolan_Satapy collected 138 from pot
+*** SUMMARY ***
+Total pot 138 | No rake
+Board: [Jc 9s Kd 7h 2h]
+Seat 1: Rolan_Satapy (small blind) showed [9c 8h] and won 138 with One pair : 9
+Seat 2: YL_ML_GL_42 (big blind) showed [4c 7d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2621964817086283777-12-1670707074 - Holdem no limit (15/30) - 2022/12/10 21:17:54 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Rolan_Satapy (499)
+Seat 2: YL_ML_GL_42 (646)
+Seat 3: Barryblack38 (355)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Barryblack38 posts big blind 30
+Dealt to YL_ML_GL_42 [Td 3s]
+*** PRE-FLOP *** 
+Rolan_Satapy folds
+YL_ML_GL_42 folds
+Barryblack38 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Barryblack38 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2621964817086283777-13-1670707081 - Holdem no limit (15/30) - 2022/12/10 21:18:01 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Rolan_Satapy (499)
+Seat 2: YL_ML_GL_42 (631)
+Seat 3: Barryblack38 (370)
+*** ANTE/BLINDS ***
+Barryblack38 posts small blind 15
+Rolan_Satapy posts big blind 30
+Dealt to YL_ML_GL_42 [7c 3c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 75 to 105
+Barryblack38 folds
+Rolan_Satapy folds
+YL_ML_GL_42 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 2: YL_ML_GL_42 (button) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2621964817086283777-14-1670707088 - Holdem no limit (20/40) - 2022/12/10 21:18:08 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rolan_Satapy (469)
+Seat 2: YL_ML_GL_42 (676)
+Seat 3: Barryblack38 (355)
+*** ANTE/BLINDS ***
+Rolan_Satapy posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [7s 3h]
+*** PRE-FLOP *** 
+Barryblack38 folds
+Rolan_Satapy folds
+YL_ML_GL_42 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2621964817086283777-15-1670707092 - Holdem no limit (20/40) - 2022/12/10 21:18:12 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Rolan_Satapy (449)
+Seat 2: YL_ML_GL_42 (696)
+Seat 3: Barryblack38 (355)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Barryblack38 posts big blind 40
+Dealt to YL_ML_GL_42 [6d 9c]
+*** PRE-FLOP *** 
+Rolan_Satapy folds
+YL_ML_GL_42 folds
+Barryblack38 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Barryblack38 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2621964817086283777-16-1670707096 - Holdem no limit (20/40) - 2022/12/10 21:18:16 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Rolan_Satapy (449)
+Seat 2: YL_ML_GL_42 (676)
+Seat 3: Barryblack38 (375)
+*** ANTE/BLINDS ***
+Barryblack38 posts small blind 20
+Rolan_Satapy posts big blind 40
+Dealt to YL_ML_GL_42 [4c 9d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Barryblack38 raises 80 to 120
+Rolan_Satapy folds
+Barryblack38 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 3: Barryblack38 (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2621964817086283777-17-1670707103 - Holdem no limit (20/40) - 2022/12/10 21:18:23 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rolan_Satapy (409)
+Seat 2: YL_ML_GL_42 (676)
+Seat 3: Barryblack38 (415)
+*** ANTE/BLINDS ***
+Rolan_Satapy posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Ah Kc]
+*** PRE-FLOP *** 
+Barryblack38 folds
+Rolan_Satapy raises 369 to 409 and is all-in
+YL_ML_GL_42 calls 369
+*** FLOP *** [3h 4c 3d]
+*** TURN *** [3h 4c 3d][Kh]
+*** RIVER *** [3h 4c 3d Kh][8c]
+*** SHOW DOWN ***
+Rolan_Satapy shows [9c Ac] (One pair : 3)
+YL_ML_GL_42 shows [Ah Kc] (Two pairs : Kings and 3)
+YL_ML_GL_42 collected 818 from pot
+*** SUMMARY ***
+Total pot 818 | No rake
+Board: [3h 4c 3d Kh 8c]
+Seat 1: Rolan_Satapy (small blind) showed [9c Ac] and lost with One pair : 3
+Seat 2: YL_ML_GL_42 (big blind) showed [Ah Kc] and won 818 with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2621964817086283777-18-1670707118 - Holdem no limit (20/40) - 2022/12/10 21:18:38 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #2 is the button
+Seat 2: YL_ML_GL_42 (1085)
+Seat 3: Barryblack38 (415)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Barryblack38 posts big blind 40
+Dealt to YL_ML_GL_42 [Th Jc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+Barryblack38 folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: YL_ML_GL_42 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2621964817086283777-19-1670707125 - Holdem no limit (20/40) - 2022/12/10 21:18:45 UTC
+Table: 'Expresso(610473756)#0' 3-max (real money) Seat #3 is the button
+Seat 2: YL_ML_GL_42 (1125)
+Seat 3: Barryblack38 (375)
+*** ANTE/BLINDS ***
+Barryblack38 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Th 7h]
+*** PRE-FLOP *** 
+Barryblack38 raises 335 to 375 and is all-in
+YL_ML_GL_42 calls 335
+*** FLOP *** [9c 5c 3s]
+*** TURN *** [9c 5c 3s][3c]
+*** RIVER *** [9c 5c 3s 3c][7c]
+*** SHOW DOWN ***
+Barryblack38 shows [Qs Js] (One pair : 3)
+YL_ML_GL_42 shows [Th 7h] (Two pairs : 7 and 3)
+YL_ML_GL_42 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [9c 5c 3s 3c 7c]
+Seat 2: YL_ML_GL_42 (big blind) showed [Th 7h] and won 750 with Two pairs : 7 and 3
+Seat 3: Barryblack38 (small blind) (button) showed [Qs Js] and lost with One pair : 3
+
+

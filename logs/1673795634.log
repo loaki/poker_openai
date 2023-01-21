@@ -1,0 +1,406 @@
+1673795634900 inf [app] Launch
+1673795634934 inf [scene] Bridge initialize
+1673795634943 inf [scene] Scene open
+1673795634949 inf [scene.1] Scene create
+1673795634962 inf [scene.1] Scene loading
+1673795634969 inf [app] Checking for update
+1673795635105 inf [app] Update for version 1.26.3 is not available (latest version: 1.26.3, downgrade is disallowed).
+1673795635686 inf [scene.1] Browser loaded
+1673795635693 inf [scene.1] Scene bridge loaded
+1673795635718 inf [tracker] Listening on port: 8000
+1673795638655 inf [api] < Service core/authentication/token/generate
+1673795638656 inf [network] > Http https://wapi.winamax.fr/core/authentication/token/generate post
+1673795638790 inf [network] > Http https://wapi.winamax.fr/core/authentication/token/generate ok
+1673795638791 inf [api] > Service core/authentication/token/generate
+1673795638792 inf [api] < Service poker/public/config/preauth {"client":"poker","application":"desktop","opid":"wam","device":"electron","ver":"1.26.3.1671552372","os":"win32","cid":"b94b276db79aabbcbfbe64cabbfea685"}
+1673795638793 inf [network] > Http https://api.winamax.fr/poker/public/config/preauth?client=poker&application=desktop&opid=wam&device=electron&ver=1.26.3.1671552372&os=win32&cid=b94b276db79aabbcbfbe64cabbfea685 get
+1673795638883 inf [network] > Http https://api.winamax.fr/poker/public/config/preauth?client=poker&application=desktop&opid=wam&device=electron&ver=1.26.3.1671552372&os=win32&cid=b94b276db79aabbcbfbe64cabbfea685 ok
+1673795638886 inf [api] > Service poker/public/config/preauth {"core":{"type":"wss","retry":{"count":3,"timeout":10000,"delay":2000,"random":1000},"hosts":["wapi.winamax.fr:443/poker/front/ws/websocket"],"enable":true,"zombie":{"duration":45000},"socket":{"sleep":10,"buffer":16384},"monitor":{"interrupted":true}},"features":{"vm":false,"playground":{"threshold":1000},"time":{"duration":10}},"serverstatus":{"status":"up","polling":300,"i18n":{"de_DE":{"title":"","info":"Alle Dienste sind verfügbar"},"fr_FR":{"title":"","info":"Tous les services sont fonctionnels"},"en_GB":{"title":"","info":"All services are operational."},"*":{"title":"","info":"All services are operational."},"en_US":{"title":"","info":"All services are operational."},"es_ES":{"title":"","info":"All services are operational."},"pt_PT":{"title":"","info":"All services are operational."}}},"auth":{"version":2,"timeout":6000,"refresh":{"count":3,"delay":2500}},"wspush":{"connection":{"interval":31000,"timeout":25000},"request":{"retry":{"count":0},"timeout":5000},"monitor":{"interrupted":true}},"updater":{"download":{"delay":120000}}}
+1673795638897 inf [network] Registering channel prefs
+1673795638897 inf [network] Enqueuing AUTH:SIGNIN
+1673795638898 inf [network] Creating socket wss://wapi.winamax.fr:443/poker/front/ws/websocket
+1673795638899 inf [network] Connection status: 1
+1673795638990 inf [network] Socket opened
+1673795638991 inf [network] Connection status: 2
+1673795638991 inf [network] Connection status: 3
+1673795638992 inf [network] < prefs AUTH:SIGNIN
+1673795639231 inf [network] > prefs AUTH:SIGNIN_OK
+1673795639232 inf [network] Connection status: 4
+1673795639239 inf [network] < prefs TIME:GET
+1673795639240 inf [network] < prefs GAMESTATS:JOIN
+1673795639267 inf [network] > prefs TIME:GET_OK
+1673795639276 inf [api] < Service poker/client/prefs
+1673795639277 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs post
+1673795639303 inf [network] > prefs NOTIFICATION:POST_INFO
+1673795639305 inf [network] > prefs GAMESTATS:JOIN_OK
+1673795639344 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs ok
+1673795639345 inf [api] > Service poker/client/prefs
+1673795639352 inf [router] Execute: wam://preload-ok
+1673795639353 inf [router] Navigate: wam://lobbies
+1673795639354 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/config.1624292306 get
+1673795639355 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/ressource.1624283658 get
+1673795639357 inf [router] Navigation done: wam://lobbies
+1673795639358 inf [router] Execution done: wam://preload-ok
+1673795639359 inf [network] Registering channel subscriptions
+1673795639360 inf [api] < Service operator/userdata
+1673795639360 inf [network] > Http https://wapi.winamax.fr/operator/userdata post
+1673795639362 inf [api] < Service operator/winamax-tv/public
+1673795639362 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public post
+1673795639364 inf [network] < prefs SRM:JOIN
+1673795639364 inf [network] < prefs NEWS:GET
+1673795639365 inf [network] < prefs DATA:GET
+1673795639365 inf [network] < prefs BUDDY:GET
+1673795639366 inf [network] < prefs BUDDYROOM:JOIN
+1673795639369 inf [network] < prefs TIME:GET
+1673795639370 inf [network] < prefs CASHIER:GET
+1673795639371 inf [network] < prefs CASHIER:LIST
+1673795639371 inf [network] < prefs CASHIER:GET
+1673795639372 inf [network] < prefs CASHIER:LIST
+1673795639373 inf [network] < subscriptions FILTERLIST:CREATE
+1673795639374 inf [network] < subscriptions FILTERLIST:CREATE
+1673795639374 inf [network] < subscriptions FILTERLIST:CREATE
+1673795639385 inf [network] > prefs SRM:JOIN_OK
+1673795639387 inf [network] > prefs TIME:GET_OK
+1673795639391 inf [network] > prefs BUDDYROOM:JOIN_OK
+1673795639392 inf [network] > prefs CASHIER:GET_OK
+1673795639393 inf [network] > prefs CASHIER:LIST_OK
+1673795639393 inf [network] > prefs CASHIER:GET_OK
+1673795639414 inf [network] > prefs CASHIER:LIST_OK
+1673795639417 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1673795639418 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1673795639419 inf [network] > subscriptions FILTERLIST:SET
+1673795639419 inf [network] > subscriptions FILTERLIST:SET
+1673795639420 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1673795639422 inf [network] > subscriptions FILTERLIST:SET
+1673795639425 inf [network] > prefs DATA:GET_ERR
+1673795639426 inf [network] > prefs NEWS:GET_OK
+1673795639427 inf [network] > prefs BUDDY:GET_OK
+1673795639428 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/ressource.1624283658 ok
+1673795639431 inf [network] < prefs BUDDYROOM:JOIN
+1673795639432 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/config.1624292306 ok
+1673795639439 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public ok
+1673795639439 inf [api] > Service operator/winamax-tv/public
+1673795639453 inf [network] Registering channel wam.general.t1
+1673795639454 inf [network] < wam.general.t1 CHATROOM:JOIN
+1673795639454 inf [network] > prefs BUDDYROOM:JOIN_OK
+1673795639476 inf [network] > wam.general.t1 CHATROOM:JOIN_OK
+1673795639522 inf [network] > Http https://wapi.winamax.fr/operator/userdata ok
+1673795639523 inf [api] > Service operator/userdata
+1673795641365 inf [api] < Service poker/client/prefs
+1673795641365 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs post
+1673795641429 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs ok
+1673795641429 inf [api] > Service poker/client/prefs
+1673795649368 inf [network] < prefs TIME:GET
+1673795649390 inf [network] > prefs TIME:GET_OK
+1673795653060 inf [router] Navigate: wam://my-status
+1673795653063 inf [network] < prefs OPTOKEN:GET
+1673795653108 inf [network] > prefs OPTOKEN:GET_OK
+1673795653110 inf [router] Open: https://www.winamax.fr/poker/redirect.php?service=mystatus&token=c3cd30f0150a3f2de6f5b14a46317f072794ad98&client=electron&ver=1.26.3&oid=b94b276db79aabbcbfbe64cabbfea685&os=win32&opid=wam&lang=en_US&store=winamax&store_id=main&embed=false&pokerClient=web
+1673795653111 inf [router] Navigation done: https://www.winamax.fr/poker/redirect.php?service=mystatus&token={$token}
+1673795656715 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795659379 inf [network] < prefs TIME:GET
+1673795659399 inf [network] > prefs TIME:GET_OK
+1673795667280 inf [router] Navigate: wam://options
+1673795667281 inf [router] Navigation done: wam://options
+1673795667628 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795669377 inf [network] < prefs TIME:GET
+1673795669394 inf [network] > prefs TIME:GET_OK
+1673795670982 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795673316 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795677608 inf [api] < Service poker/client/prefs
+1673795677609 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs post
+1673795677695 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs ok
+1673795677695 inf [api] > Service poker/client/prefs
+1673795679397 inf [network] < prefs TIME:GET
+1673795679415 inf [network] > prefs TIME:GET_OK
+1673795681399 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795682846 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795688426 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795689409 inf [network] < prefs TIME:GET
+1673795689426 inf [network] > prefs TIME:GET_OK
+1673795690506 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795699420 inf [network] < prefs TIME:GET
+1673795699439 inf [network] > prefs TIME:GET_OK
+1673795708381 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795709427 inf [network] < prefs TIME:GET
+1673795709446 inf [network] > prefs TIME:GET_OK
+1673795709482 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795718540 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795719437 inf [network] < prefs TIME:GET
+1673795719454 inf [network] > prefs TIME:GET_OK
+1673795725008 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795729434 inf [network] < prefs TIME:GET
+1673795729452 inf [network] > prefs TIME:GET_OK
+1673795739455 inf [network] < prefs TIME:GET
+1673795739472 inf [network] > prefs TIME:GET_OK
+1673795739769 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795742322 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795743391 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795743480 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795747841 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795749461 inf [network] < prefs TIME:GET
+1673795749479 inf [network] > prefs TIME:GET_OK
+1673795751101 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795759389 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795759467 inf [network] < prefs TIME:GET
+1673795759485 inf [network] > prefs TIME:GET_OK
+1673795769456 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795769457 inf [network] < prefs TIME:GET
+1673795769529 inf [network] > prefs TIME:GET_OK
+1673795772943 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795773020 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795779477 inf [network] < prefs TIME:GET
+1673795779496 inf [network] > prefs TIME:GET_OK
+1673795784128 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795789485 inf [network] < prefs TIME:GET
+1673795789502 inf [network] > prefs TIME:GET_OK
+1673795789927 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795796390 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795796940 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795798388 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795799486 inf [network] < prefs TIME:GET
+1673795799504 inf [network] > prefs TIME:GET_OK
+1673795800494 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795803469 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795808302 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795809495 inf [network] < prefs TIME:GET
+1673795809515 inf [network] > prefs TIME:GET_OK
+1673795813654 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795815162 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795817520 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795817522 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795818446 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795819503 inf [network] < prefs TIME:GET
+1673795819677 inf [network] > prefs TIME:GET_OK
+1673795821986 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795829507 inf [network] < prefs TIME:GET
+1673795829526 inf [network] > prefs TIME:GET_OK
+1673795831426 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795835350 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795839518 inf [network] < prefs TIME:GET
+1673795839541 inf [network] > prefs TIME:GET_OK
+1673795842793 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795845640 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795847320 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795848096 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795849533 inf [network] < prefs TIME:GET
+1673795849552 inf [network] > prefs TIME:GET_OK
+1673795851360 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795852349 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795854296 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795857137 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795858911 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795859537 inf [network] < prefs TIME:GET
+1673795859538 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795859770 inf [network] > prefs TIME:GET_OK
+1673795860011 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795860686 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795866420 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795869549 inf [network] < prefs TIME:GET
+1673795869567 inf [network] > prefs TIME:GET_OK
+1673795869775 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795869992 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795870971 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795877634 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795878391 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795879555 inf [network] < prefs TIME:GET
+1673795879574 inf [network] > prefs TIME:GET_OK
+1673795882147 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795885545 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795888500 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795889554 inf [network] < prefs TIME:GET
+1673795889573 inf [network] > prefs TIME:GET_OK
+1673795889751 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795893079 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795893830 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795894212 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795899574 inf [network] < prefs TIME:GET
+1673795899594 inf [network] > prefs TIME:GET_OK
+1673795899870 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795903921 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795908642 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795909560 inf [network] < prefs TIME:GET
+1673795909604 inf [network] > prefs TIME:GET_OK
+1673795914333 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795919531 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795919590 inf [network] < prefs TIME:GET
+1673795919608 inf [network] > prefs TIME:GET_OK
+1673795928043 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795929246 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795929595 inf [network] < prefs TIME:GET
+1673795929612 inf [network] > prefs TIME:GET_OK
+1673795939599 inf [network] < prefs TIME:GET
+1673795939617 inf [network] > prefs TIME:GET_OK
+1673795946367 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795949017 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795949610 inf [network] < prefs TIME:GET
+1673795949628 inf [network] > prefs TIME:GET_OK
+1673795951941 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795956544 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795958275 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795959618 inf [network] < prefs TIME:GET
+1673795959643 inf [network] > prefs TIME:GET_OK
+1673795961280 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795966013 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795966410 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795967398 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795969190 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795969609 inf [network] < prefs TIME:GET
+1673795969627 inf [network] > prefs TIME:GET_OK
+1673795979292 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795979631 inf [network] < prefs TIME:GET
+1673795979647 inf [network] > prefs TIME:GET_OK
+1673795979770 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795985011 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795986414 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795989635 inf [network] < prefs TIME:GET
+1673795989654 inf [network] > prefs TIME:GET_OK
+1673795992022 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795993523 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795995224 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795997688 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673795999640 inf [network] < prefs TIME:GET
+1673795999665 inf [network] > prefs TIME:GET_OK
+1673796000341 inf [network] > prefs NOTIFICATION:POST_INFO
+1673796000659 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796007612 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796008741 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796009653 inf [network] < prefs TIME:GET
+1673796009671 inf [network] > prefs TIME:GET_OK
+1673796014952 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796018615 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796019664 inf [network] < prefs TIME:GET
+1673796019682 inf [network] > prefs TIME:GET_OK
+1673796022921 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796023667 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796029677 inf [network] < prefs TIME:GET
+1673796029695 inf [network] > prefs TIME:GET_OK
+1673796030968 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796033317 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796039685 inf [network] < prefs TIME:GET
+1673796039702 inf [network] > prefs TIME:GET_OK
+1673796042684 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796045553 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796046806 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796049695 inf [network] < prefs TIME:GET
+1673796049711 inf [network] > prefs TIME:GET_OK
+1673796051343 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796059557 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796059710 inf [network] < prefs TIME:GET
+1673796059736 inf [network] > prefs TIME:GET_OK
+1673796063656 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796067036 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796069715 inf [network] < prefs TIME:GET
+1673796069733 inf [network] > prefs TIME:GET_OK
+1673796074078 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796077727 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796079724 inf [network] < prefs TIME:GET
+1673796079741 inf [network] > prefs TIME:GET_OK
+1673796082877 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796089454 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796089731 inf [network] < prefs TIME:GET
+1673796089749 inf [network] > prefs TIME:GET_OK
+1673796095455 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796099724 inf [network] < prefs TIME:GET
+1673796099956 inf [network] > prefs TIME:GET_OK
+1673796102766 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796109060 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796109752 inf [network] < prefs TIME:GET
+1673796109771 inf [network] > prefs TIME:GET_OK
+1673796114735 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796116023 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796119757 inf [network] < prefs TIME:GET
+1673796119774 inf [network] > prefs TIME:GET_OK
+1673796129774 inf [network] < prefs TIME:GET
+1673796129793 inf [network] > prefs TIME:GET_OK
+1673796132788 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796132916 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796133486 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796134348 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796134738 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796135188 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796139776 inf [network] < prefs TIME:GET
+1673796139793 inf [network] > prefs TIME:GET_OK
+1673796140715 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796141176 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796149780 inf [network] < prefs TIME:GET
+1673796149797 inf [network] > prefs TIME:GET_OK
+1673796149823 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796159786 inf [network] < prefs TIME:GET
+1673796159803 inf [network] > prefs TIME:GET_OK
+1673796161576 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796166790 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796169790 inf [network] < prefs TIME:GET
+1673796169810 inf [network] > prefs TIME:GET_OK
+1673796173595 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796173996 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796179783 inf [network] < prefs TIME:GET
+1673796179809 inf [network] > prefs TIME:GET_OK
+1673796184515 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796189801 inf [network] < prefs TIME:GET
+1673796189819 inf [network] > prefs TIME:GET_OK
+1673796199643 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796199812 inf [network] < prefs TIME:GET
+1673796199831 inf [network] > prefs TIME:GET_OK
+1673796206186 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796209811 inf [network] < prefs TIME:GET
+1673796209828 inf [network] > prefs TIME:GET_OK
+1673796219813 inf [network] < prefs TIME:GET
+1673796219832 inf [network] > prefs TIME:GET_OK
+1673796229829 inf [network] < prefs TIME:GET
+1673796229848 inf [network] > prefs TIME:GET_OK
+1673796233180 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796239358 inf [api] < Service operator/userdata
+1673796239359 inf [network] > Http https://wapi.winamax.fr/operator/userdata post
+1673796239360 inf [network] < prefs CASHIER:GET
+1673796239361 inf [network] < prefs CASHIER:LIST
+1673796239361 inf [network] < prefs CASHIER:GET
+1673796239361 inf [network] < prefs CASHIER:LIST
+1673796239386 inf [network] > prefs CASHIER:GET_OK
+1673796239387 inf [network] > prefs CASHIER:LIST_OK
+1673796239387 inf [network] > prefs CASHIER:GET_OK
+1673796239820 inf [network] < prefs TIME:GET
+1673796239823 inf [network] > prefs CASHIER:LIST_OK
+1673796240061 inf [network] > prefs TIME:GET_OK
+1673796240689 inf [network] > Http https://wapi.winamax.fr/operator/userdata ok
+1673796240697 inf [api] > Service operator/userdata
+1673796249837 inf [network] < prefs TIME:GET
+1673796249854 inf [network] > prefs TIME:GET_OK
+1673796259839 inf [network] < prefs TIME:GET
+1673796259857 inf [network] > prefs TIME:GET_OK
+1673796265333 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673796269841 inf [network] < prefs TIME:GET
+1673796269858 inf [network] > prefs TIME:GET_OK
+1673796279854 inf [network] < prefs TIME:GET
+1673796279873 inf [network] > prefs TIME:GET_OK
+1673796289859 inf [network] < prefs TIME:GET
+1673796289878 inf [network] > prefs TIME:GET_OK
+1673796299861 inf [network] < prefs TIME:GET
+1673796299880 inf [network] > prefs TIME:GET_OK
+1673796309869 inf [network] < prefs TIME:GET
+1673796310018 inf [network] > prefs TIME:GET_OK
+1673796319874 inf [network] < prefs TIME:GET
+1673796319892 inf [network] > prefs TIME:GET_OK
+1673796322237 inf [network] Socket closed
+1673796322240 inf [api] < Service poker/public/client/error {"type":"warn","data":{"description":"Connection interrupted","callstack":["at Object.B.warn (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:10250)","at mu.Ma (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:1708957)","at mu.pa (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:1682207)","at P.<anonymous> (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:181368)","at P.emit (node:events:390:28)","at P.emitClose (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:1001702)","at TLSSocket.q (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:1005702)","at TLSSocket.emit (node:events:402:35)","at node:net:687:12"],"locals":{"status":4,"connectedTimestamp":1673795638,"duration":684,"socket":{"isWebSocket":true,"protocol":"","url":"wss://wapi.winamax.fr:443/poker/front/ws/websocket","binaryType":"nodebuffer","bufferedAmount":0,"readyState":3,"close":{"code":1000}}}},"client":"poker","application":"desktop","opid":"wam","device":"electron","ver":"1.26.3.1671552372","os":"win32","cid":"b94b276db79aabbcbfbe64cabbfea685","ts":1673796322,"process":"main","osver":"10.0.19042","login":"YL_ML_GL_42"}
+1673796322241 inf [network] > Http https://api.winamax.fr/poker/public/client/error post
+1673796322242 inf [network] Connection status: 5
+1673796322243 inf [network] Scheduling attempt 1/3
+1673796322304 inf [network] > Http https://api.winamax.fr/poker/public/client/error ok
+1673796322306 inf [api] > Service poker/public/client/error {}
+1673796322806 inf [network] Creating socket wss://wapi.winamax.fr:443/poker/front/ws/websocket
+1673796322806 inf [network] Connection status: 1
+1673796323563 inf [network] Socket opened
+1673796323563 inf [network] Connection status: 2
+1673796323574 inf [network] Connection status: 3
+1673796323575 inf [network] < prefs AUTH:SIGNIN
+1673796323728 inf [network] > prefs AUTH:SIGNIN_ERR
+1673796323729 inf [network] Connection status: 6
+1673796323778 inf [network] Socket closed
+1673796500574 inf [router] Execute: wam://logout
+1673796500576 inf [network] Disconnecting
+1673796500577 inf [network] Connection status: 7
+1673796500577 inf [network] Connection status: 8
+1673796500581 inf [router] Execution done: wam://logout
+1673796502458 inf [app] Exit
+1673796502459 inf [tracker] Closed

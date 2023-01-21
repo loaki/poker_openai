@@ -1,0 +1,139 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2597074137281200129-1-1669391736 - Holdem no limit (10/20) - 2022/11/25 15:55:36 UTC
+Table: 'Expresso(604678443)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Khal78 (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: loupppp (500)
+*** ANTE/BLINDS ***
+loupppp posts small blind 10
+Khal78 posts big blind 20
+Dealt to YL_ML_GL_42 [9c Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+loupppp folds
+Khal78 folds
+YL_ML_GL_42 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 2: YL_ML_GL_42 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2597074137281200129-2-1669391766 - Holdem no limit (10/20) - 2022/11/25 15:56:06 UTC
+Table: 'Expresso(604678443)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Khal78 (480)
+Seat 2: YL_ML_GL_42 (530)
+Seat 3: loupppp (490)
+*** ANTE/BLINDS ***
+Khal78 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [7c 3h]
+*** PRE-FLOP *** 
+loupppp calls 20
+Khal78 calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [Tc 4d 6s]
+Khal78 bets 21
+YL_ML_GL_42 folds
+loupppp folds
+Khal78 collected 81 from pot
+*** SUMMARY ***
+Total pot 81 | No rake
+Board: [Tc 4d 6s]
+Seat 1: Khal78 (small blind) won 81
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2597074137281200129-3-1669391786 - Holdem no limit (10/20) - 2022/11/25 15:56:26 UTC
+Table: 'Expresso(604678443)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Khal78 (520)
+Seat 2: YL_ML_GL_42 (510)
+Seat 3: loupppp (470)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+loupppp posts big blind 20
+Dealt to YL_ML_GL_42 [3s Ah]
+*** PRE-FLOP *** 
+Khal78 calls 20
+YL_ML_GL_42 raises 60 to 80
+loupppp calls 60
+Khal78 calls 60
+*** FLOP *** [Ad Jh Kc]
+YL_ML_GL_42 checks
+loupppp bets 240
+Khal78 raises 200 to 440 and is all-in
+YL_ML_GL_42 calls 430 and is all-in
+loupppp folds
+*** TURN *** [Ad Jh Kc][Qh]
+*** RIVER *** [Ad Jh Kc Qh][2d]
+*** SHOW DOWN ***
+Khal78 shows [6s As] (One pair : Aces)
+YL_ML_GL_42 shows [3s Ah] (One pair : Aces)
+YL_ML_GL_42 collected 670 from main pot
+Khal78 collected 680 from side pot 1
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [Ad Jh Kc Qh 2d]
+Seat 1: Khal78 (button) showed [6s As] and won 680 with One pair : Aces
+Seat 2: YL_ML_GL_42 (small blind) showed [3s Ah] and won 670 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2597074137281200129-4-1669391820 - Holdem no limit (10/20) - 2022/11/25 15:57:00 UTC
+Table: 'Expresso(604678443)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Khal78 (680)
+Seat 2: YL_ML_GL_42 (670)
+Seat 3: loupppp (150)
+*** ANTE/BLINDS ***
+loupppp posts small blind 10
+Khal78 posts big blind 20
+Dealt to YL_ML_GL_42 [Qc Ad]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 40 to 60
+loupppp raises 90 to 150 and is all-in
+Khal78 raises 530 to 680 and is all-in
+YL_ML_GL_42 calls 610 and is all-in
+*** FLOP *** [4s Qh 5d]
+*** TURN *** [4s Qh 5d][Ks]
+*** RIVER *** [4s Qh 5d Ks][9d]
+*** SHOW DOWN ***
+Khal78 shows [Ac 8d] (High card : Ace)
+YL_ML_GL_42 shows [Qc Ad] (One pair : Queens)
+loupppp shows [2s Kc] (One pair : Kings)
+loupppp collected 450 from main pot
+YL_ML_GL_42 collected 1040 from side pot 1
+Khal78 collected 10 from side pot 2
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [4s Qh 5d Ks 9d]
+Seat 1: Khal78 (big blind) showed [Ac 8d] and won 10 with High card : Ace
+Seat 2: YL_ML_GL_42 (button) showed [Qc Ad] and won 1040 with One pair : Queens
+Seat 3: loupppp (small blind) showed [2s Kc] and won 450 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #2597074137281200129-5-1669391841 - Holdem no limit (15/30) - 2022/11/25 15:57:21 UTC
+Table: 'Expresso(604678443)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Khal78 (10)
+Seat 2: YL_ML_GL_42 (1040)
+Seat 3: loupppp (450)
+*** ANTE/BLINDS ***
+Khal78 posts small blind 10 and is all-in
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Ks Js]
+*** PRE-FLOP *** 
+loupppp calls 30
+YL_ML_GL_42 raises 70 to 100
+loupppp raises 350 to 450 and is all-in
+YL_ML_GL_42 calls 350
+*** FLOP *** [Qh 8s Ts]
+*** TURN *** [Qh 8s Ts][Kh]
+*** RIVER *** [Qh 8s Ts Kh][7d]
+*** SHOW DOWN ***
+Khal78 shows [3s Jh] (High card : King)
+loupppp shows [As 9c] (High card : Ace)
+YL_ML_GL_42 shows [Ks Js] (One pair : Kings)
+YL_ML_GL_42 collected 910 from pot
+*** SUMMARY ***
+Total pot 910 | No rake
+Board: [Qh 8s Ts Kh 7d]
+Seat 1: Khal78 (small blind) showed [3s Jh] and lost with High card : King
+Seat 2: YL_ML_GL_42 (big blind) showed [Ks Js] and won 910 with One pair : Kings
+Seat 3: loupppp (button) showed [As 9c] and lost with High card : Ace
+
+

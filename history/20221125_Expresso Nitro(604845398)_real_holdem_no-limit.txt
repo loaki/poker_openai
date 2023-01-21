@@ -1,0 +1,65 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2597791203546103809-1-1669417969 - Holdem no limit (10/20) - 2022/11/25 23:12:49 UTC
+Table: 'Expresso Nitro(604845398)#0' 3-max (real money) Seat #3 is the button
+Seat 1: NAD-40 (300)
+Seat 2: YL_ML_GL_42 (300)
+Seat 3: SetUp77 (300)
+*** ANTE/BLINDS ***
+NAD-40 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [2d 3c]
+*** PRE-FLOP *** 
+SetUp77 folds
+NAD-40 calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [8h As Tc]
+NAD-40 checks
+YL_ML_GL_42 checks
+*** TURN *** [8h As Tc][Jc]
+NAD-40 checks
+YL_ML_GL_42 checks
+*** RIVER *** [8h As Tc Jc][6h]
+NAD-40 checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+NAD-40 shows [3d 2c] (High card : Ace)
+YL_ML_GL_42 shows [2d 3c] (High card : Ace)
+YL_ML_GL_42 collected 20 from pot
+NAD-40 collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [8h As Tc Jc 6h]
+Seat 1: NAD-40 (small blind) showed [3d 2c] and won 20 with High card : Ace
+Seat 2: YL_ML_GL_42 (big blind) showed [2d 3c] and won 20 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2597791203546103809-2-1669417985 - Holdem no limit (10/20) - 2022/11/25 23:13:05 UTC
+Table: 'Expresso Nitro(604845398)#0' 3-max (real money) Seat #1 is the button
+Seat 1: NAD-40 (300)
+Seat 2: YL_ML_GL_42 (300)
+Seat 3: SetUp77 (300)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+SetUp77 posts big blind 20
+Dealt to YL_ML_GL_42 [Kh 3h]
+*** PRE-FLOP *** 
+NAD-40 calls 20
+YL_ML_GL_42 calls 10
+SetUp77 checks
+*** FLOP *** [6h 7c 9h]
+YL_ML_GL_42 bets 48
+SetUp77 folds
+NAD-40 raises 232 to 280 and is all-in
+YL_ML_GL_42 calls 232 and is all-in
+*** TURN *** [6h 7c 9h][4c]
+*** RIVER *** [6h 7c 9h 4c][Ad]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kh 3h] (High card : Ace)
+NAD-40 shows [8s 9c] (One pair : 9)
+NAD-40 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [6h 7c 9h 4c Ad]
+Seat 1: NAD-40 (button) showed [8s 9c] and won 620 with One pair : 9
+Seat 2: YL_ML_GL_42 (small blind) showed [Kh 3h] and lost with High card : Ace
+
+

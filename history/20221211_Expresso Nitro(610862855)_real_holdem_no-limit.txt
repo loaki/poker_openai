@@ -1,0 +1,109 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2623635984566190081-1-1670795309 - Holdem no limit (10/20) - 2022/12/11 21:48:29 UTC
+Table: 'Expresso Nitro(610862855)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (300)
+Seat 2: javieloo (300)
+Seat 3: Morganeloic3 (300)
+*** ANTE/BLINDS ***
+javieloo posts small blind 10
+Morganeloic3 posts big blind 20
+Dealt to YL_ML_GL_42 [5s 4s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+javieloo raises 20 to 40
+Morganeloic3 calls 20
+*** FLOP *** [6s Jd 3d]
+javieloo checks
+Morganeloic3 checks
+*** TURN *** [6s Jd 3d][6h]
+javieloo checks
+Morganeloic3 bets 28
+javieloo calls 28
+*** RIVER *** [6s Jd 3d 6h][Qs]
+javieloo checks
+Morganeloic3 bets 68
+javieloo raises 164 to 232 and is all-in
+Morganeloic3 folds
+javieloo collected 436 from pot
+*** SUMMARY ***
+Total pot 436 | No rake
+Board: [6s Jd 3d 6h Qs]
+Seat 2: javieloo (small blind) won 436
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2623635984566190081-2-1670795335 - Holdem no limit (10/20) - 2022/12/11 21:48:55 UTC
+Table: 'Expresso Nitro(610862855)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (300)
+Seat 2: javieloo (436)
+Seat 3: Morganeloic3 (164)
+*** ANTE/BLINDS ***
+Morganeloic3 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [6d 2d]
+*** PRE-FLOP *** 
+javieloo folds
+Morganeloic3 raises 144 to 164 and is all-in
+YL_ML_GL_42 calls 144
+*** FLOP *** [9h 3s 6h]
+*** TURN *** [9h 3s 6h][Kd]
+*** RIVER *** [9h 3s 6h Kd][5c]
+*** SHOW DOWN ***
+Morganeloic3 shows [Qd Ah] (High card : Ace)
+YL_ML_GL_42 shows [6d 2d] (One pair : 6)
+YL_ML_GL_42 collected 328 from pot
+*** SUMMARY ***
+Total pot 328 | No rake
+Board: [9h 3s 6h Kd 5c]
+Seat 1: YL_ML_GL_42 (big blind) showed [6d 2d] and won 328 with One pair : 6
+Seat 3: Morganeloic3 (small blind) showed [Qd Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2623635984566190081-3-1670795354 - Holdem no limit (10/20) - 2022/12/11 21:49:14 UTC
+Table: 'Expresso Nitro(610862855)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (464)
+Seat 2: javieloo (436)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+javieloo posts big blind 20
+Dealt to YL_ML_GL_42 [Qd Jc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 444 to 464 and is all-in
+javieloo calls 416 and is all-in
+*** FLOP *** [9h Kc 6h]
+*** TURN *** [9h Kc 6h][2d]
+*** RIVER *** [9h Kc 6h 2d][5s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Qd Jc] (High card : King)
+javieloo shows [9s 7d] (One pair : 9)
+javieloo collected 872 from main pot
+YL_ML_GL_42 collected 28 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9h Kc 6h 2d 5s]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [Qd Jc] and won 28 with High card : King
+Seat 2: javieloo (big blind) showed [9s 7d] and won 872 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #2623635984566190081-4-1670795366 - Holdem no limit (15/30) - 2022/12/11 21:49:26 UTC
+Table: 'Expresso Nitro(610862855)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (28)
+Seat 2: javieloo (872)
+*** ANTE/BLINDS ***
+javieloo posts small blind 15
+YL_ML_GL_42 posts big blind 28 and is all-in
+Dealt to YL_ML_GL_42 [Js 5s]
+*** PRE-FLOP *** 
+javieloo raises 844 to 872 and is all-in
+*** FLOP *** [7s 9d 8h]
+*** TURN *** [7s 9d 8h][5h]
+*** RIVER *** [7s 9d 8h 5h][4s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Js 5s] (One pair : 5)
+javieloo shows [Ts Jh] (Straight Jack high)
+javieloo collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7s 9d 8h 5h 4s]
+Seat 1: YL_ML_GL_42 (big blind) showed [Js 5s] and lost with One pair : 5
+Seat 2: javieloo (small blind) (button) showed [Ts Jh] and won 900 with Straight Jack high
+
+

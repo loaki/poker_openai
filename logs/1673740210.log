@@ -1,0 +1,133 @@
+1673740210565 inf [app] Launch
+1673740210632 inf [scene] Bridge initialize
+1673740210641 inf [scene] Scene open
+1673740210649 inf [scene.1] Scene create
+1673740210662 inf [scene.1] Scene loading
+1673740210668 inf [app] Checking for update
+1673740210845 inf [app] Update for version 1.26.3 is not available (latest version: 1.26.3, downgrade is disallowed).
+1673740211524 inf [scene.1] Browser loaded
+1673740211532 inf [scene.1] Scene bridge loaded
+1673740211563 inf [tracker] Listening on port: 8003
+1673740213390 inf [api] < Service core/authentication/token/generate
+1673740213391 inf [network] > Http https://wapi.winamax.fr/core/authentication/token/generate post
+1673740213485 inf [network] > Http https://wapi.winamax.fr/core/authentication/token/generate ok
+1673740213487 inf [api] > Service core/authentication/token/generate
+1673740213488 inf [api] < Service poker/public/config/preauth {"client":"poker","application":"desktop","opid":"wam","device":"electron","ver":"1.26.3.1671552372","os":"win32","cid":"b94b276db79aabbcbfbe64cabbfea685"}
+1673740213489 inf [network] > Http https://api.winamax.fr/poker/public/config/preauth?client=poker&application=desktop&opid=wam&device=electron&ver=1.26.3.1671552372&os=win32&cid=b94b276db79aabbcbfbe64cabbfea685 get
+1673740213609 inf [network] > Http https://api.winamax.fr/poker/public/config/preauth?client=poker&application=desktop&opid=wam&device=electron&ver=1.26.3.1671552372&os=win32&cid=b94b276db79aabbcbfbe64cabbfea685 ok
+1673740213611 inf [api] > Service poker/public/config/preauth {"core":{"type":"wss","retry":{"count":3,"timeout":10000,"delay":2000,"random":1000},"hosts":["wapi.winamax.fr:443/poker/front/ws/websocket"],"enable":true,"zombie":{"duration":45000},"socket":{"sleep":10,"buffer":16384},"monitor":{"interrupted":true}},"features":{"vm":false,"playground":{"threshold":1000},"time":{"duration":10}},"serverstatus":{"status":"up","polling":300,"i18n":{"de_DE":{"title":"","info":"Alle Dienste sind verfügbar"},"fr_FR":{"title":"","info":"Tous les services sont fonctionnels"},"en_GB":{"title":"","info":"All services are operational."},"*":{"title":"","info":"All services are operational."},"en_US":{"title":"","info":"All services are operational."},"es_ES":{"title":"","info":"All services are operational."},"pt_PT":{"title":"","info":"All services are operational."}}},"auth":{"version":2,"timeout":6000,"refresh":{"count":3,"delay":2500}},"wspush":{"connection":{"interval":31000,"timeout":25000},"request":{"retry":{"count":0},"timeout":5000},"monitor":{"interrupted":true}},"updater":{"download":{"delay":120000}}}
+1673740213614 inf [network] Registering channel prefs
+1673740213615 inf [network] Enqueuing AUTH:SIGNIN
+1673740213616 inf [network] Creating socket wss://wapi.winamax.fr:443/poker/front/ws/websocket
+1673740213617 inf [network] Connection status: 1
+1673740213689 inf [network] Socket opened
+1673740213690 inf [network] Connection status: 2
+1673740213690 inf [network] Connection status: 3
+1673740213691 inf [network] < prefs AUTH:SIGNIN
+1673740213888 inf [network] > prefs AUTH:SIGNIN_OK
+1673740213889 inf [network] Connection status: 4
+1673740213908 inf [network] < prefs TIME:GET
+1673740213909 inf [network] < prefs GAMESTATS:JOIN
+1673740213924 inf [network] > prefs TIME:GET_OK
+1673740213935 inf [api] < Service poker/client/prefs
+1673740213936 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs post
+1673740213968 inf [network] > prefs NOTIFICATION:POST_INFO
+1673740213975 inf [network] > prefs GAMESTATS:JOIN_OK
+1673740214018 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs ok
+1673740214020 inf [api] > Service poker/client/prefs
+1673740214034 inf [router] Execute: wam://preload-ok
+1673740214035 inf [router] Navigate: wam://lobbies
+1673740214037 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/config.1624292306 get
+1673740214038 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/ressource.1624283658 get
+1673740214040 inf [router] Navigation done: wam://lobbies
+1673740214041 inf [router] Execution done: wam://preload-ok
+1673740214042 inf [network] Registering channel subscriptions
+1673740214042 inf [api] < Service operator/userdata
+1673740214043 inf [network] > Http https://wapi.winamax.fr/operator/userdata post
+1673740214045 inf [api] < Service operator/winamax-tv/public
+1673740214045 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public post
+1673740214046 inf [network] < prefs SRM:JOIN
+1673740214047 inf [network] < prefs NEWS:GET
+1673740214047 inf [network] < prefs DATA:GET
+1673740214048 inf [network] < prefs BUDDY:GET
+1673740214048 inf [network] < prefs BUDDYROOM:JOIN
+1673740214050 inf [network] < prefs TIME:GET
+1673740214051 inf [network] < prefs CASHIER:GET
+1673740214051 inf [network] < prefs CASHIER:LIST
+1673740214052 inf [network] < prefs CASHIER:GET
+1673740214052 inf [network] < prefs CASHIER:LIST
+1673740214054 inf [network] < subscriptions FILTERLIST:CREATE
+1673740214055 inf [network] < subscriptions FILTERLIST:CREATE
+1673740214055 inf [network] < subscriptions FILTERLIST:CREATE
+1673740214065 inf [network] > prefs SRM:JOIN_OK
+1673740214066 inf [network] > prefs TIME:GET_OK
+1673740214069 inf [network] > prefs BUDDYROOM:JOIN_OK
+1673740214073 inf [network] > prefs CASHIER:GET_OK
+1673740214074 inf [network] > prefs CASHIER:LIST_OK
+1673740214080 inf [network] > prefs CASHIER:GET_OK
+1673740214097 inf [network] > prefs CASHIER:LIST_OK
+1673740214097 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1673740214098 inf [network] > subscriptions FILTERLIST:SET
+1673740214099 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1673740214100 inf [network] > subscriptions FILTERLIST:SET
+1673740214104 inf [network] > prefs BUDDY:GET_OK
+1673740214105 inf [network] > prefs NEWS:GET_OK
+1673740214106 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/ressource.1624283658 ok
+1673740214109 inf [network] < prefs BUDDYROOM:JOIN
+1673740214117 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/config.1624292306 ok
+1673740214124 inf [network] > prefs DATA:GET_ERR
+1673740214139 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public ok
+1673740214140 inf [api] > Service operator/winamax-tv/public
+1673740214169 inf [network] Registering channel wam.general.t1
+1673740214170 inf [network] < wam.general.t1 CHATROOM:JOIN
+1673740214172 inf [network] > prefs BUDDYROOM:JOIN_OK
+1673740214187 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1673740214189 inf [network] > subscriptions FILTERLIST:SET
+1673740214191 inf [network] > wam.general.t1 CHATROOM:JOIN_OK
+1673740214243 inf [network] > Http https://wapi.winamax.fr/operator/userdata ok
+1673740214244 inf [api] > Service operator/userdata
+1673740216038 inf [api] < Service poker/client/prefs
+1673740216039 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs post
+1673740216188 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs ok
+1673740216188 inf [api] > Service poker/client/prefs
+1673740216200 inf [router] Navigate: wam://lobby-expresso
+1673740216201 inf [router] Navigation done: wam://lobby-expresso
+1673740217816 inf [router] Navigate: wam://expresso-more
+1673740217817 inf [network] < prefs OPTOKEN:GET
+1673740217867 inf [network] > prefs OPTOKEN:GET_OK
+1673740217868 inf [router] Open: https://www.winamax.fr/poker/redirect.php?service=expresso&token=9ef14e18edf15046debbd396562101a8dc6e625d&client=electron&ver=1.26.3&oid=b94b276db79aabbcbfbe64cabbfea685&os=win32&opid=wam&lang=en_US&store=winamax&store_id=main&embed=false&pokerClient=web
+1673740217868 inf [router] Navigation done: https://www.winamax.fr/poker/redirect.php?service=expresso&token={$token}
+1673740223715 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673740223716 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673740224056 inf [network] < prefs TIME:GET
+1673740224079 inf [network] > prefs TIME:GET_OK
+1673740234061 inf [network] < prefs TIME:GET
+1673740234296 inf [network] > prefs TIME:GET_OK
+1673740244064 inf [network] < prefs TIME:GET
+1673740254073 inf [network] < prefs TIME:GET
+1673740263266 inf [network] Socket closed
+1673740263277 inf [api] < Service poker/public/client/error {"type":"warn","data":{"description":"Connection interrupted","callstack":["at Object.B.warn (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:10250)","at mu.Ma (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:1708957)","at mu.pa (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:1682207)","at P.<anonymous> (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:181368)","at P.emit (node:events:390:28)","at P.emitClose (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:1001702)","at e.exports.$ (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:1005077)","at e.exports.emit (node:events:390:28)","at finish (node:internal/streams/writable:750:10)"],"locals":{"status":4,"connectedTimestamp":1673740213,"duration":50,"socket":{"isWebSocket":true,"protocol":"","url":"wss://wapi.winamax.fr:443/poker/front/ws/websocket","binaryType":"nodebuffer","bufferedAmount":0,"readyState":3,"close":{"code":1006}}}},"client":"poker","application":"desktop","opid":"wam","device":"electron","ver":"1.26.3.1671552372","os":"win32","cid":"b94b276db79aabbcbfbe64cabbfea685","ts":1673740263,"process":"main","osver":"10.0.19042","login":"YL_ML_GL_42"}
+1673740263278 inf [network] > Http https://api.winamax.fr/poker/public/client/error post
+1673740263281 inf [network] Connection status: 5
+1673740263284 inf [network] Scheduling attempt 1/3
+1673740263288 inf [api] > Service poker/public/client/error failed
+1673740264027 inf [network] Creating socket wss://wapi.winamax.fr:443/poker/front/ws/websocket
+1673740264028 inf [network] Connection status: 1
+1673740264032 err Socket error
+1673740264033 inf [network] Socket closed
+1673740264034 inf [network] Connection status: 5
+1673740264034 inf [network] Scheduling attempt 2/3
+1673740266308 inf [network] Creating socket wss://wapi.winamax.fr:443/poker/front/ws/websocket
+1673740266309 inf [network] Connection status: 1
+1673740266317 err Socket error
+1673740266317 inf [network] Socket closed
+1673740266317 inf [network] Connection status: 5
+1673740266317 inf [network] Scheduling attempt 3/3
+1673740270701 inf [network] Creating socket wss://wapi.winamax.fr:443/poker/front/ws/websocket
+1673740270702 inf [network] Connection status: 1
+1673740270704 err Socket error
+1673740270704 inf [network] Socket closed
+1673740270705 inf [api] < Service poker/public/client/error {"type":"warn","data":{"description":"Connection failed","callstack":["at Object.B.warn (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:10250)","at mu.Ma (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:1708438)","at mu.pa (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:1682207)","at mu.fa (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:1683147)","at P.<anonymous> (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:180973)","at P.emit (node:events:390:28)","at L (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:1003920)","at ClientRequest.<anonymous> (C:Users\\YaminLEGZOULI\\AppData\\Local\\Programs\\winamax\\resources\\app\\build\\main.js:2:998748)","at ClientRequest.emit (node:events:390:28)"],"locals":{"status":1,"attemptCount":3,"socket":{"isWebSocket":true,"protocol":"","url":"wss://wapi.winamax.fr:443/poker/front/ws/websocket","binaryType":"nodebuffer","bufferedAmount":0,"readyState":2,"close":{"wasClean":false,"code":-2,"reason":"Error before opened"}}}},"client":"poker","application":"desktop","opid":"wam","device":"electron","ver":"1.26.3.1671552372","os":"win32","cid":"b94b276db79aabbcbfbe64cabbfea685","ts":1673740270,"process":"main","osver":"10.0.19042","login":"YL_ML_GL_42"}
+1673740270706 inf [network] > Http https://api.winamax.fr/poker/public/client/error post
+1673740270710 inf [network] Connection status: 6
+1673740270713 inf [api] > Service poker/public/client/error failed

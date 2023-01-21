@@ -1,0 +1,252 @@
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2588500287341723649-1-1668947133 - Holdem no limit (10/20) - 2022/11/20 12:25:33 UTC
+Table: 'Expresso(602682188)#0' 3-max (real money) Seat #1 is the button
+Seat 1: the gamer13 (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: pmonpere (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+pmonpere posts big blind 20
+Dealt to YL_ML_GL_42 [Kh Th]
+*** PRE-FLOP *** 
+the gamer13 folds
+YL_ML_GL_42 raises 30 to 50
+pmonpere raises 450 to 500 and is all-in
+YL_ML_GL_42 calls 450 and is all-in
+*** FLOP *** [3s Td 3h]
+*** TURN *** [3s Td 3h][Qd]
+*** RIVER *** [3s Td 3h Qd][Ts]
+*** SHOW DOWN ***
+pmonpere shows [4s 4c] (Two pairs : Tens and 4)
+YL_ML_GL_42 shows [Kh Th] (Full of Tens and 3)
+YL_ML_GL_42 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [3s Td 3h Qd Ts]
+Seat 2: YL_ML_GL_42 (small blind) showed [Kh Th] and won 1000 with Full of Tens and 3
+Seat 3: pmonpere (big blind) showed [4s 4c] and lost with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2588500287341723649-2-1668947152 - Holdem no limit (10/20) - 2022/11/20 12:25:52 UTC
+Table: 'Expresso(602682188)#0' 3-max (real money) Seat #1 is the button
+Seat 1: the gamer13 (500)
+Seat 2: YL_ML_GL_42 (1000)
+*** ANTE/BLINDS ***
+the gamer13 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Kc 2h]
+*** PRE-FLOP *** 
+the gamer13 calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [Ks 6c Td]
+YL_ML_GL_42 bets 26
+the gamer13 raises 34 to 60
+YL_ML_GL_42 calls 34
+*** TURN *** [Ks 6c Td][Th]
+YL_ML_GL_42 checks
+the gamer13 checks
+*** RIVER *** [Ks 6c Td Th][Jd]
+YL_ML_GL_42 bets 80
+the gamer13 folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Ks 6c Td Th Jd]
+Seat 2: YL_ML_GL_42 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2588500287341723649-3-1668947200 - Holdem no limit (10/20) - 2022/11/20 12:26:40 UTC
+Table: 'Expresso(602682188)#0' 3-max (real money) Seat #2 is the button
+Seat 1: the gamer13 (420)
+Seat 2: YL_ML_GL_42 (1080)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+the gamer13 posts big blind 20
+Dealt to YL_ML_GL_42 [Ah Ks]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 20 to 40
+the gamer13 calls 20
+*** FLOP *** [Td Kd 3h]
+the gamer13 checks
+YL_ML_GL_42 bets 20
+the gamer13 raises 80 to 100
+YL_ML_GL_42 raises 940 to 1040 and is all-in
+the gamer13 calls 280 and is all-in
+*** TURN *** [Td Kd 3h][Qd]
+*** RIVER *** [Td Kd 3h Qd][6d]
+*** SHOW DOWN ***
+the gamer13 shows [Qh Kc] (Two pairs : Kings and Queens)
+YL_ML_GL_42 shows [Ah Ks] (One pair : Kings)
+YL_ML_GL_42 collected 660 from side pot 1
+the gamer13 collected 840 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Td Kd 3h Qd 6d]
+Seat 1: the gamer13 (big blind) showed [Qh Kc] and won 840 with Two pairs : Kings and Queens
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [Ah Ks] and won 660 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2588500287341723649-4-1668947226 - Holdem no limit (15/30) - 2022/11/20 12:27:06 UTC
+Table: 'Expresso(602682188)#0' 3-max (real money) Seat #1 is the button
+Seat 1: the gamer13 (840)
+Seat 2: YL_ML_GL_42 (660)
+*** ANTE/BLINDS ***
+the gamer13 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Jh 9c]
+*** PRE-FLOP *** 
+the gamer13 calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [Ks 8h 7d]
+YL_ML_GL_42 checks
+the gamer13 checks
+*** TURN *** [Ks 8h 7d][Qh]
+YL_ML_GL_42 checks
+the gamer13 checks
+*** RIVER *** [Ks 8h 7d Qh][4h]
+YL_ML_GL_42 checks
+the gamer13 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Jh 9c] (High card : King)
+the gamer13 shows [4c As] (One pair : 4)
+the gamer13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ks 8h 7d Qh 4h]
+Seat 1: the gamer13 (small blind) (button) showed [4c As] and won 60 with One pair : 4
+Seat 2: YL_ML_GL_42 (big blind) showed [Jh 9c] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2588500287341723649-5-1668947267 - Holdem no limit (15/30) - 2022/11/20 12:27:47 UTC
+Table: 'Expresso(602682188)#0' 3-max (real money) Seat #2 is the button
+Seat 1: the gamer13 (870)
+Seat 2: YL_ML_GL_42 (630)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+the gamer13 posts big blind 30
+Dealt to YL_ML_GL_42 [8s 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+the gamer13 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: the gamer13 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2588500287341723649-6-1668947272 - Holdem no limit (15/30) - 2022/11/20 12:27:52 UTC
+Table: 'Expresso(602682188)#0' 3-max (real money) Seat #1 is the button
+Seat 1: the gamer13 (885)
+Seat 2: YL_ML_GL_42 (615)
+*** ANTE/BLINDS ***
+the gamer13 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [5s Kd]
+*** PRE-FLOP *** 
+the gamer13 calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [Qc Ah 7d]
+YL_ML_GL_42 checks
+the gamer13 bets 30
+YL_ML_GL_42 folds
+the gamer13 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Qc Ah 7d]
+Seat 1: the gamer13 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2588500287341723649-7-1668947286 - Holdem no limit (15/30) - 2022/11/20 12:28:06 UTC
+Table: 'Expresso(602682188)#0' 3-max (real money) Seat #2 is the button
+Seat 1: the gamer13 (915)
+Seat 2: YL_ML_GL_42 (585)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+the gamer13 posts big blind 30
+Dealt to YL_ML_GL_42 [Jd Jc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 15
+the gamer13 raises 885 to 915 and is all-in
+YL_ML_GL_42 calls 555 and is all-in
+*** FLOP *** [Jh 4h 8s]
+*** TURN *** [Jh 4h 8s][6d]
+*** RIVER *** [Jh 4h 8s 6d][5c]
+*** SHOW DOWN ***
+the gamer13 shows [5h Ad] (One pair : 5)
+YL_ML_GL_42 shows [Jd Jc] (Trips of Jacks)
+YL_ML_GL_42 collected 1170 from main pot
+the gamer13 collected 330 from side pot 1
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Jh 4h 8s 6d 5c]
+Seat 1: the gamer13 (big blind) showed [5h Ad] and won 330 with One pair : 5
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [Jd Jc] and won 1170 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2588500287341723649-8-1668947304 - Holdem no limit (15/30) - 2022/11/20 12:28:24 UTC
+Table: 'Expresso(602682188)#0' 3-max (real money) Seat #1 is the button
+Seat 1: the gamer13 (330)
+Seat 2: YL_ML_GL_42 (1170)
+*** ANTE/BLINDS ***
+the gamer13 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [6s 9d]
+*** PRE-FLOP *** 
+the gamer13 calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [4h As 9c]
+YL_ML_GL_42 checks
+the gamer13 bets 30
+YL_ML_GL_42 calls 30
+*** TURN *** [4h As 9c][Jd]
+YL_ML_GL_42 checks
+the gamer13 bets 60
+YL_ML_GL_42 raises 1050 to 1110 and is all-in
+the gamer13 folds
+YL_ML_GL_42 collected 1290 from pot
+*** SUMMARY ***
+Total pot 1290 | No rake
+Board: [4h As 9c Jd]
+Seat 2: YL_ML_GL_42 (big blind) won 1290
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 3 - HandId: #2588500287341723649-9-1668947337 - Holdem no limit (20/40) - 2022/11/20 12:28:57 UTC
+Table: 'Expresso(602682188)#0' 3-max (real money) Seat #2 is the button
+Seat 1: the gamer13 (210)
+Seat 2: YL_ML_GL_42 (1290)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+the gamer13 posts big blind 40
+Dealt to YL_ML_GL_42 [Ad 3h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 40 to 80
+the gamer13 folds
+YL_ML_GL_42 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: YL_ML_GL_42 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 3 - HandId: #2588500287341723649-10-1668947345 - Holdem no limit (20/40) - 2022/11/20 12:29:05 UTC
+Table: 'Expresso(602682188)#0' 3-max (real money) Seat #1 is the button
+Seat 1: the gamer13 (170)
+Seat 2: YL_ML_GL_42 (1330)
+*** ANTE/BLINDS ***
+the gamer13 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Jd As]
+*** PRE-FLOP *** 
+the gamer13 raises 130 to 170 and is all-in
+YL_ML_GL_42 calls 130
+*** FLOP *** [5d 2c Qc]
+*** TURN *** [5d 2c Qc][6d]
+*** RIVER *** [5d 2c Qc 6d][7s]
+*** SHOW DOWN ***
+the gamer13 shows [Ad 8d] (High card : Ace)
+YL_ML_GL_42 shows [Jd As] (High card : Ace)
+YL_ML_GL_42 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [5d 2c Qc 6d 7s]
+Seat 1: the gamer13 (small blind) (button) showed [Ad 8d] and lost with High card : Ace
+Seat 2: YL_ML_GL_42 (big blind) showed [Jd As] and won 340 with High card : Ace
+
+

@@ -1,0 +1,27 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2594517665372438529-1-1669240072 - Holdem no limit (10/20) - 2022/11/23 21:47:52 UTC
+Table: 'Expresso(604083218)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: Babalzax (500)
+Seat 3: Bidou1977 (500)
+*** ANTE/BLINDS ***
+Babalzax posts small blind 10
+Bidou1977 posts big blind 20
+Dealt to YL_ML_GL_42 [7c 7h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 480 to 500 and is all-in
+Babalzax folds
+Bidou1977 calls 480 and is all-in
+*** FLOP *** [Qs 3s Tc]
+*** TURN *** [Qs 3s Tc][Ad]
+*** RIVER *** [Qs 3s Tc Ad][5d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7c 7h] (One pair : 7)
+Bidou1977 shows [Qh Qd] (Trips of Queens)
+Bidou1977 collected 1010 from pot
+*** SUMMARY ***
+Total pot 1010 | No rake
+Board: [Qs 3s Tc Ad 5d]
+Seat 1: YL_ML_GL_42 (button) showed [7c 7h] and lost with One pair : 7
+Seat 3: Bidou1977 (big blind) showed [Qh Qd] and won 1010 with Trips of Queens
+
+

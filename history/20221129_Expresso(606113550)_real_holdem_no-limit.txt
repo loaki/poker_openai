@@ -1,0 +1,372 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2603237874912460801-1-1669723936 - Holdem no limit (10/20) - 2022/11/29 12:12:16 UTC
+Table: 'Expresso(606113550)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: SHIPY83 (500)
+Seat 3: CV_Zeus25 (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+SHIPY83 posts big blind 20
+Dealt to YL_ML_GL_42 [Jc Ks]
+*** PRE-FLOP *** 
+CV_Zeus25 raises 20 to 40
+YL_ML_GL_42 raises 100 to 140
+SHIPY83 folds
+CV_Zeus25 folds
+YL_ML_GL_42 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 1: YL_ML_GL_42 (small blind) won 200
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2603237874912460801-2-1669723950 - Holdem no limit (10/20) - 2022/11/29 12:12:30 UTC
+Table: 'Expresso(606113550)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (560)
+Seat 2: SHIPY83 (480)
+Seat 3: CV_Zeus25 (460)
+*** ANTE/BLINDS ***
+SHIPY83 posts small blind 10
+CV_Zeus25 posts big blind 20
+Dealt to YL_ML_GL_42 [Qs Qh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 30 to 50
+SHIPY83 calls 40
+CV_Zeus25 folds
+*** FLOP *** [3d 9c 2d]
+SHIPY83 checks
+YL_ML_GL_42 bets 30
+SHIPY83 calls 30
+*** TURN *** [3d 9c 2d][Ts]
+SHIPY83 checks
+YL_ML_GL_42 bets 45
+SHIPY83 calls 45
+*** RIVER *** [3d 9c 2d Ts][Ks]
+SHIPY83 checks
+YL_ML_GL_42 bets 176
+SHIPY83 calls 176
+*** SHOW DOWN ***
+SHIPY83 shows [6c 9h] (One pair : 9)
+YL_ML_GL_42 shows [Qs Qh] (One pair : Queens)
+YL_ML_GL_42 collected 622 from pot
+*** SUMMARY ***
+Total pot 622 | No rake
+Board: [3d 9c 2d Ts Ks]
+Seat 1: YL_ML_GL_42 (button) showed [Qs Qh] and won 622 with One pair : Queens
+Seat 2: SHIPY83 (small blind) showed [6c 9h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2603237874912460801-3-1669723985 - Holdem no limit (10/20) - 2022/11/29 12:13:05 UTC
+Table: 'Expresso(606113550)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (881)
+Seat 2: SHIPY83 (179)
+Seat 3: CV_Zeus25 (440)
+*** ANTE/BLINDS ***
+CV_Zeus25 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [8c 6s]
+*** PRE-FLOP *** 
+SHIPY83 folds
+CV_Zeus25 folds
+YL_ML_GL_42 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2603237874912460801-4-1669723992 - Holdem no limit (10/20) - 2022/11/29 12:13:12 UTC
+Table: 'Expresso(606113550)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (891)
+Seat 2: SHIPY83 (179)
+Seat 3: CV_Zeus25 (430)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+SHIPY83 posts big blind 20
+Dealt to YL_ML_GL_42 [3s Qs]
+*** PRE-FLOP *** 
+CV_Zeus25 calls 20
+YL_ML_GL_42 calls 10
+SHIPY83 checks
+*** FLOP *** [Qd 4h Jh]
+YL_ML_GL_42 bets 48
+SHIPY83 calls 48
+CV_Zeus25 folds
+*** TURN *** [Qd 4h Jh][8c]
+YL_ML_GL_42 bets 101
+SHIPY83 calls 101
+*** RIVER *** [Qd 4h Jh 8c][Ks]
+YL_ML_GL_42 bets 233
+SHIPY83 calls 10 and is all-in
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [3s Qs] (One pair : Queens)
+SHIPY83 shows [5h Qc] (One pair : Queens)
+SHIPY83 collected 189 from main pot
+YL_ML_GL_42 collected 412 from side pot 1
+*** SUMMARY ***
+Total pot 601 | No rake
+Board: [Qd 4h Jh 8c Ks]
+Seat 1: YL_ML_GL_42 (small blind) showed [3s Qs] and won 412 with One pair : Queens
+Seat 2: SHIPY83 (big blind) showed [5h Qc] and won 189 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2603237874912460801-5-1669724029 - Holdem no limit (15/30) - 2022/11/29 12:13:49 UTC
+Table: 'Expresso(606113550)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (901)
+Seat 2: SHIPY83 (189)
+Seat 3: CV_Zeus25 (410)
+*** ANTE/BLINDS ***
+SHIPY83 posts small blind 15
+CV_Zeus25 posts big blind 30
+Dealt to YL_ML_GL_42 [8d Td]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+SHIPY83 folds
+CV_Zeus25 folds
+YL_ML_GL_42 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 1: YL_ML_GL_42 (button) won 135
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2603237874912460801-6-1669724039 - Holdem no limit (15/30) - 2022/11/29 12:13:59 UTC
+Table: 'Expresso(606113550)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (946)
+Seat 2: SHIPY83 (174)
+Seat 3: CV_Zeus25 (380)
+*** ANTE/BLINDS ***
+CV_Zeus25 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [5d Kd]
+*** PRE-FLOP *** 
+SHIPY83 calls 30
+CV_Zeus25 calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [5c Th 6h]
+CV_Zeus25 checks
+YL_ML_GL_42 checks
+SHIPY83 checks
+*** TURN *** [5c Th 6h][8h]
+CV_Zeus25 checks
+YL_ML_GL_42 checks
+SHIPY83 checks
+*** RIVER *** [5c Th 6h 8h][2c]
+CV_Zeus25 bets 30
+YL_ML_GL_42 calls 30
+SHIPY83 calls 30
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [5d Kd] (One pair : 5)
+CV_Zeus25 shows [Js 2s] (One pair : 2)
+SHIPY83 shows [9d Td] (One pair : Tens)
+SHIPY83 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [5c Th 6h 8h 2c]
+Seat 1: YL_ML_GL_42 (big blind) showed [5d Kd] and lost with One pair : 5
+Seat 2: SHIPY83 (button) showed [9d Td] and won 180 with One pair : Tens
+Seat 3: CV_Zeus25 (small blind) showed [Js 2s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2603237874912460801-7-1669724067 - Holdem no limit (15/30) - 2022/11/29 12:14:27 UTC
+Table: 'Expresso(606113550)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (886)
+Seat 2: SHIPY83 (294)
+Seat 3: CV_Zeus25 (320)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+SHIPY83 posts big blind 30
+Dealt to YL_ML_GL_42 [Tc 6c]
+*** PRE-FLOP *** 
+CV_Zeus25 raises 290 to 320 and is all-in
+YL_ML_GL_42 folds
+SHIPY83 folds
+CV_Zeus25 collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | No rake
+Seat 3: CV_Zeus25 (button) won 365
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2603237874912460801-8-1669724091 - Holdem no limit (15/30) - 2022/11/29 12:14:51 UTC
+Table: 'Expresso(606113550)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (871)
+Seat 2: SHIPY83 (264)
+Seat 3: CV_Zeus25 (365)
+*** ANTE/BLINDS ***
+SHIPY83 posts small blind 15
+CV_Zeus25 posts big blind 30
+Dealt to YL_ML_GL_42 [5s 3d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+SHIPY83 calls 15
+CV_Zeus25 checks
+*** FLOP *** [Qd Qs 4c]
+SHIPY83 checks
+CV_Zeus25 checks
+*** TURN *** [Qd Qs 4c][Ah]
+SHIPY83 checks
+CV_Zeus25 bets 30
+SHIPY83 calls 30
+*** RIVER *** [Qd Qs 4c Ah][7s]
+SHIPY83 checks
+CV_Zeus25 checks
+*** SHOW DOWN ***
+CV_Zeus25 shows [8h 9c] (One pair : Queens)
+SHIPY83 shows [Td Js] (One pair : Queens)
+SHIPY83 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qd Qs 4c Ah 7s]
+Seat 2: SHIPY83 (small blind) showed [Td Js] and won 120 with One pair : Queens
+Seat 3: CV_Zeus25 (big blind) showed [8h 9c] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #2603237874912460801-9-1669724135 - Holdem no limit (20/40) - 2022/11/29 12:15:35 UTC
+Table: 'Expresso(606113550)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (871)
+Seat 2: SHIPY83 (324)
+Seat 3: CV_Zeus25 (305)
+*** ANTE/BLINDS ***
+CV_Zeus25 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Ks 7d]
+*** PRE-FLOP *** 
+SHIPY83 calls 40
+CV_Zeus25 folds
+YL_ML_GL_42 checks
+*** FLOP *** [8c Jh Qs]
+YL_ML_GL_42 checks
+SHIPY83 checks
+*** TURN *** [8c Jh Qs][2s]
+YL_ML_GL_42 checks
+SHIPY83 checks
+*** RIVER *** [8c Jh Qs 2s][6d]
+YL_ML_GL_42 checks
+SHIPY83 bets 40
+YL_ML_GL_42 calls 40
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ks 7d] (High card : King)
+SHIPY83 shows [3h 6h] (One pair : 6)
+SHIPY83 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [8c Jh Qs 2s 6d]
+Seat 1: YL_ML_GL_42 (big blind) showed [Ks 7d] and lost with High card : King
+Seat 2: SHIPY83 (button) showed [3h 6h] and won 180 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #2603237874912460801-10-1669724163 - Holdem no limit (20/40) - 2022/11/29 12:16:03 UTC
+Table: 'Expresso(606113550)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (791)
+Seat 2: SHIPY83 (424)
+Seat 3: CV_Zeus25 (285)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+SHIPY83 posts big blind 40
+Dealt to YL_ML_GL_42 [5s Kh]
+*** PRE-FLOP *** 
+CV_Zeus25 folds
+YL_ML_GL_42 raises 80 to 120
+SHIPY83 calls 80
+*** FLOP *** [7h 8h Jc]
+YL_ML_GL_42 checks
+SHIPY83 checks
+*** TURN *** [7h 8h Jc][Tc]
+YL_ML_GL_42 checks
+SHIPY83 checks
+*** RIVER *** [7h 8h Jc Tc][Qd]
+YL_ML_GL_42 checks
+SHIPY83 checks
+*** SHOW DOWN ***
+SHIPY83 shows [3c 2c] (High card : Queen)
+YL_ML_GL_42 shows [5s Kh] (High card : King)
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [7h 8h Jc Tc Qd]
+Seat 1: YL_ML_GL_42 (small blind) showed [5s Kh] and won 240 with High card : King
+Seat 2: SHIPY83 (big blind) showed [3c 2c] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #2603237874912460801-11-1669724223 - Holdem no limit (30/60) - 2022/11/29 12:17:03 UTC
+Table: 'Expresso(606113550)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (911)
+Seat 2: SHIPY83 (304)
+Seat 3: CV_Zeus25 (285)
+*** ANTE/BLINDS ***
+SHIPY83 posts small blind 30
+CV_Zeus25 posts big blind 60
+Dealt to YL_ML_GL_42 [9h 3s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+SHIPY83 calls 30
+CV_Zeus25 checks
+*** FLOP *** [4c 9c 6c]
+SHIPY83 checks
+CV_Zeus25 checks
+*** TURN *** [4c 9c 6c][Ts]
+SHIPY83 checks
+CV_Zeus25 checks
+*** RIVER *** [4c 9c 6c Ts][8d]
+SHIPY83 checks
+CV_Zeus25 bets 60
+SHIPY83 folds
+CV_Zeus25 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [4c 9c 6c Ts 8d]
+Seat 3: CV_Zeus25 (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #2603237874912460801-12-1669724267 - Holdem no limit (30/60) - 2022/11/29 12:17:47 UTC
+Table: 'Expresso(606113550)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (911)
+Seat 2: SHIPY83 (244)
+Seat 3: CV_Zeus25 (345)
+*** ANTE/BLINDS ***
+CV_Zeus25 posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [Ts Kd]
+*** PRE-FLOP *** 
+SHIPY83 raises 60 to 120
+CV_Zeus25 folds
+YL_ML_GL_42 raises 270 to 390
+SHIPY83 calls 124 and is all-in
+*** FLOP *** [Kh Jc Kc]
+*** TURN *** [Kh Jc Kc][6h]
+*** RIVER *** [Kh Jc Kc 6h][9h]
+*** SHOW DOWN ***
+SHIPY83 shows [Ac As] (Two pairs : Aces and Kings)
+YL_ML_GL_42 shows [Ts Kd] (Trips of Kings)
+YL_ML_GL_42 collected 664 from pot
+*** SUMMARY ***
+Total pot 664 | No rake
+Board: [Kh Jc Kc 6h 9h]
+Seat 1: YL_ML_GL_42 (big blind) showed [Ts Kd] and won 664 with Trips of Kings
+Seat 2: SHIPY83 (button) showed [Ac As] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #2603237874912460801-13-1669724290 - Holdem no limit (30/60) - 2022/11/29 12:18:10 UTC
+Table: 'Expresso(606113550)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1185)
+Seat 3: CV_Zeus25 (315)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+CV_Zeus25 posts big blind 60
+Dealt to YL_ML_GL_42 [7d Td]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 120 to 180
+CV_Zeus25 calls 120
+*** FLOP *** [2d Ts 3c]
+CV_Zeus25 bets 60
+YL_ML_GL_42 raises 945 to 1005 and is all-in
+CV_Zeus25 calls 75 and is all-in
+*** TURN *** [2d Ts 3c][6h]
+*** RIVER *** [2d Ts 3c 6h][2s]
+*** SHOW DOWN ***
+CV_Zeus25 shows [Jh Qc] (One pair : 2)
+YL_ML_GL_42 shows [7d Td] (Two pairs : Tens and 2)
+YL_ML_GL_42 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [2d Ts 3c 6h 2s]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [7d Td] and won 1500 with Two pairs : Tens and 2
+Seat 3: CV_Zeus25 (big blind) showed [Jh Qc] and lost with One pair : 2
+
+

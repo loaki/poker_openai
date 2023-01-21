@@ -1,0 +1,2101 @@
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-1-1668886228 - Holdem no limit (25/100/200) - 2022/11/19 19:30:28 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #6 is the button
+Seat 1: donjofan2012 (20000, 2.25€ bounty)
+Seat 2: paysesprtoi (20000, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (20000, 2.25€ bounty)
+Seat 4: cyrvanc (20000, 2.25€ bounty)
+Seat 5: moshe08 (20000, 2.25€ bounty)
+Seat 6: Jonathan9742 (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+donjofan2012 posts ante 25
+paysesprtoi posts ante 25
+YL_ML_GL_42 posts ante 25
+cyrvanc posts ante 25
+moshe08 posts ante 25
+Jonathan9742 posts ante 25
+donjofan2012 posts small blind 100
+paysesprtoi posts big blind 200
+Dealt to YL_ML_GL_42 [6s 8h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+cyrvanc raises 400 to 600
+moshe08 folds
+Jonathan9742 folds
+donjofan2012 folds
+paysesprtoi calls 400
+*** FLOP *** [4c 2d 9c]
+paysesprtoi checks
+cyrvanc checks
+*** TURN *** [4c 2d 9c][Qh]
+paysesprtoi checks
+cyrvanc bets 508
+paysesprtoi folds
+cyrvanc collected 1958 from pot
+*** SUMMARY ***
+Total pot 1958 | No rake
+Board: [4c 2d 9c Qh]
+Seat 4: cyrvanc won 1958
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-2-1668886287 - Holdem no limit (25/100/200) - 2022/11/19 19:31:27 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #1 is the button
+Seat 1: donjofan2012 (19875, 2.25€ bounty)
+Seat 2: paysesprtoi (19375, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (19975, 2.25€ bounty)
+Seat 4: cyrvanc (20825, 2.25€ bounty)
+Seat 5: moshe08 (19975, 2.25€ bounty)
+Seat 6: Jonathan9742 (19975, 2.25€ bounty)
+*** ANTE/BLINDS ***
+paysesprtoi posts ante 25
+YL_ML_GL_42 posts ante 25
+donjofan2012 posts ante 25
+cyrvanc posts ante 25
+moshe08 posts ante 25
+Jonathan9742 posts ante 25
+paysesprtoi posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [5d Ah]
+*** PRE-FLOP *** 
+cyrvanc folds
+moshe08 folds
+Jonathan9742 folds
+donjofan2012 raises 300 to 500
+paysesprtoi calls 400
+YL_ML_GL_42 calls 300
+*** FLOP *** [2d Th 8c]
+paysesprtoi checks
+YL_ML_GL_42 checks
+donjofan2012 bets 1073
+paysesprtoi calls 1073
+YL_ML_GL_42 folds
+*** TURN *** [2d Th 8c][Qc]
+paysesprtoi checks
+donjofan2012 bets 2467
+paysesprtoi calls 2467
+*** RIVER *** [2d Th 8c Qc][2h]
+paysesprtoi checks
+donjofan2012 bets 15810 and is all-in
+paysesprtoi folds
+donjofan2012 collected 24540 from pot
+*** SUMMARY ***
+Total pot 24540 | No rake
+Board: [2d Th 8c Qc 2h]
+Seat 1: donjofan2012 (button) won 24540
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-3-1668886340 - Holdem no limit (25/100/200) - 2022/11/19 19:32:20 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #2 is the button
+Seat 1: donjofan2012 (24540, 2.25€ bounty)
+Seat 2: paysesprtoi (15310, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (19450, 2.25€ bounty)
+Seat 4: cyrvanc (20800, 2.25€ bounty)
+Seat 5: moshe08 (19950, 2.25€ bounty)
+Seat 6: Jonathan9742 (19950, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+cyrvanc posts ante 25
+donjofan2012 posts ante 25
+paysesprtoi posts ante 25
+moshe08 posts ante 25
+Jonathan9742 posts ante 25
+YL_ML_GL_42 posts small blind 100
+cyrvanc posts big blind 200
+Dealt to YL_ML_GL_42 [Js 5s]
+*** PRE-FLOP *** 
+moshe08 folds
+Jonathan9742 calls 200
+donjofan2012 calls 200
+paysesprtoi raises 400 to 600
+YL_ML_GL_42 folds
+cyrvanc folds
+Jonathan9742 calls 400
+donjofan2012 calls 400
+*** FLOP *** [Kc Qd 4c]
+Jonathan9742 checks
+donjofan2012 checks
+paysesprtoi bets 1463
+Jonathan9742 calls 1463
+donjofan2012 calls 1463
+*** TURN *** [Kc Qd 4c][4h]
+Jonathan9742 checks
+donjofan2012 checks
+paysesprtoi checks
+*** RIVER *** [Kc Qd 4c 4h][6h]
+Jonathan9742 bets 2324
+donjofan2012 folds
+paysesprtoi calls 2324
+*** SHOW DOWN ***
+paysesprtoi shows [9h Kd] (Two pairs : Kings and 4)
+Jonathan9742 shows [Ks Jc] (Two pairs : Kings and 4)
+Jonathan9742 collected 5644 from pot
+paysesprtoi collected 5643 from pot
+*** SUMMARY ***
+Total pot 11287 | No rake
+Board: [Kc Qd 4c 4h 6h]
+Seat 2: paysesprtoi (button) showed [9h Kd] and won 5643 with Two pairs : Kings and 4
+Seat 6: Jonathan9742 showed [Ks Jc] and won 5644 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-4-1668886416 - Holdem no limit (25/100/200) - 2022/11/19 19:33:36 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #3 is the button
+Seat 1: donjofan2012 (22452, 2.25€ bounty)
+Seat 2: paysesprtoi (16541, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (19325, 2.25€ bounty)
+Seat 4: cyrvanc (20575, 2.25€ bounty)
+Seat 5: moshe08 (19925, 2.25€ bounty)
+Seat 6: Flor34500 (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+cyrvanc posts ante 25
+moshe08 posts ante 25
+donjofan2012 posts ante 25
+paysesprtoi posts ante 25
+YL_ML_GL_42 posts ante 25
+Flor34500 posts ante 25
+cyrvanc posts small blind 100
+moshe08 posts big blind 200
+Dealt to YL_ML_GL_42 [4s 4d]
+*** PRE-FLOP *** 
+Flor34500 calls 200
+donjofan2012 calls 200
+paysesprtoi calls 200
+YL_ML_GL_42 calls 200
+cyrvanc folds
+moshe08 checks
+*** FLOP *** [As 6s Td]
+moshe08 checks
+Flor34500 checks
+donjofan2012 bets 438
+paysesprtoi calls 438
+YL_ML_GL_42 folds
+moshe08 folds
+Flor34500 folds
+*** TURN *** [As 6s Td][4h]
+donjofan2012 bets 1382
+paysesprtoi calls 1382
+*** RIVER *** [As 6s Td 4h][Ah]
+donjofan2012 checks
+paysesprtoi checks
+*** SHOW DOWN ***
+paysesprtoi shows [6h 8s] (Two pairs : Aces and 6)
+donjofan2012 shows [Tc Ks] (Two pairs : Aces and Tens)
+donjofan2012 collected 4890 from pot
+*** SUMMARY ***
+Total pot 4890 | No rake
+Board: [As 6s Td 4h Ah]
+Seat 1: donjofan2012 showed [Tc Ks] and won 4890 with Two pairs : Aces and Tens
+Seat 2: paysesprtoi showed [6h 8s] and lost with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-5-1668886522 - Holdem no limit (25/100/200) - 2022/11/19 19:35:22 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #4 is the button
+Seat 1: donjofan2012 (25297, 2.25€ bounty)
+Seat 2: paysesprtoi (14496, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (19100, 2.25€ bounty)
+Seat 4: cyrvanc (20450, 2.25€ bounty)
+Seat 5: moshe08 (19700, 2.25€ bounty)
+Seat 6: Flor34500 (19775, 2.25€ bounty)
+*** ANTE/BLINDS ***
+moshe08 posts ante 25
+Flor34500 posts ante 25
+donjofan2012 posts ante 25
+paysesprtoi posts ante 25
+YL_ML_GL_42 posts ante 25
+cyrvanc posts ante 25
+moshe08 posts small blind 100
+Flor34500 posts big blind 200
+Dealt to YL_ML_GL_42 [Qs Jc]
+*** PRE-FLOP *** 
+donjofan2012 raises 400 to 600
+paysesprtoi raises 1650 to 2250
+YL_ML_GL_42 folds
+cyrvanc folds
+moshe08 folds
+Flor34500 folds
+donjofan2012 calls 1650
+*** FLOP *** [9d 3h 4h]
+donjofan2012 checks
+paysesprtoi bets 3960
+donjofan2012 raises 19062 to 23022 and is all-in
+paysesprtoi calls 8261 and is all-in
+*** TURN *** [9d 3h 4h][Ah]
+*** RIVER *** [9d 3h 4h Ah][5h]
+*** SHOW DOWN ***
+donjofan2012 shows [7h Th] (Flush Ace high)
+paysesprtoi shows [Qh Kd] (Flush Ace high)
+paysesprtoi collected 29392 from main pot
+donjofan2012 collected 10801 from side pot 1
+*** SUMMARY ***
+Total pot 40193 | No rake
+Board: [9d 3h 4h Ah 5h]
+Seat 1: donjofan2012 showed [7h Th] and won 10801 with Flush Ace high
+Seat 2: paysesprtoi showed [Qh Kd] and won 29392 with Flush Ace high
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-6-1668886583 - Holdem no limit (25/100/200) - 2022/11/19 19:36:23 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #5 is the button
+Seat 1: donjofan2012 (10801, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (19075, 2.25€ bounty)
+Seat 4: cyrvanc (20425, 2.25€ bounty)
+Seat 5: moshe08 (19575, 2.25€ bounty)
+Seat 6: Flor34500 (19550, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Flor34500 posts ante 25
+donjofan2012 posts ante 25
+YL_ML_GL_42 posts ante 25
+cyrvanc posts ante 25
+moshe08 posts ante 25
+Flor34500 posts small blind 100
+donjofan2012 posts big blind 200
+Dealt to YL_ML_GL_42 [4s As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 250 to 450
+cyrvanc folds
+moshe08 folds
+Flor34500 folds
+donjofan2012 calls 250
+*** FLOP *** [5s Ad Jc]
+donjofan2012 checks
+YL_ML_GL_42 bets 731
+donjofan2012 folds
+YL_ML_GL_42 collected 1856 from pot
+*** SUMMARY ***
+Total pot 1856 | No rake
+Board: [5s Ad Jc]
+Seat 3: YL_ML_GL_42 won 1856
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-7-1668886646 - Holdem no limit (25/100/200) - 2022/11/19 19:37:26 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #6 is the button
+Seat 1: donjofan2012 (10326, 2.25€ bounty)
+Seat 2: Poupee45260 (20000, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (19725, 2.25€ bounty)
+Seat 4: cyrvanc (20400, 2.25€ bounty)
+Seat 5: moshe08 (19550, 2.25€ bounty)
+Seat 6: Flor34500 (19425, 2.25€ bounty)
+*** ANTE/BLINDS ***
+donjofan2012 posts ante 25
+Poupee45260 posts ante 25
+YL_ML_GL_42 posts ante 25
+cyrvanc posts ante 25
+moshe08 posts ante 25
+Flor34500 posts ante 25
+donjofan2012 posts small blind 100
+Poupee45260 posts big blind 200
+Dealt to YL_ML_GL_42 [9d Qc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+cyrvanc folds
+moshe08 folds
+Flor34500 raises 400 to 600
+donjofan2012 raises 9701 to 10301 and is all-in
+Poupee45260 folds
+Flor34500 calls 9701
+*** FLOP *** [Qs 5s 4s]
+*** TURN *** [Qs 5s 4s][Tc]
+*** RIVER *** [Qs 5s 4s Tc][Ks]
+*** SHOW DOWN ***
+Flor34500 shows [2d 2c] (One pair : 2)
+donjofan2012 shows [Jh 6s] (Flush King high)
+donjofan2012 collected 20952 from pot
+*** SUMMARY ***
+Total pot 20952 | No rake
+Board: [Qs 5s 4s Tc Ks]
+Seat 1: donjofan2012 (small blind) showed [Jh 6s] and won 20952 with Flush King high
+Seat 6: Flor34500 (button) showed [2d 2c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-8-1668886704 - Holdem no limit (25/100/200) - 2022/11/19 19:38:24 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #1 is the button
+Seat 1: donjofan2012 (20952, 2.25€ bounty)
+Seat 2: Poupee45260 (19775, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (19700, 2.25€ bounty)
+Seat 5: moshe08 (19525, 2.25€ bounty)
+Seat 6: Flor34500 (9099, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Poupee45260 posts ante 25
+YL_ML_GL_42 posts ante 25
+donjofan2012 posts ante 25
+moshe08 posts ante 25
+Flor34500 posts ante 25
+Poupee45260 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [9h Kd]
+*** PRE-FLOP *** 
+moshe08 calls 200
+Flor34500 calls 200
+donjofan2012 raises 20727 to 20927 and is all-in
+Poupee45260 folds
+YL_ML_GL_42 folds
+moshe08 folds
+Flor34500 folds
+donjofan2012 collected 21752 from pot
+*** SUMMARY ***
+Total pot 21752 | No rake
+Seat 1: donjofan2012 (button) won 21752
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-9-1668886739 - Holdem no limit (25/100/200) - 2022/11/19 19:38:59 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #2 is the button
+Seat 1: donjofan2012 (21752, 2.25€ bounty)
+Seat 2: Poupee45260 (19650, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (19475, 2.25€ bounty)
+Seat 4: fab283452 (20000, 2.25€ bounty)
+Seat 5: moshe08 (19300, 2.25€ bounty)
+Seat 6: Flor34500 (8874, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+fab283452 posts ante 25
+donjofan2012 posts ante 25
+Poupee45260 posts ante 25
+moshe08 posts ante 25
+Flor34500 posts ante 25
+YL_ML_GL_42 posts small blind 100
+fab283452 posts big blind 200
+Dealt to YL_ML_GL_42 [4h Kc]
+*** PRE-FLOP *** 
+moshe08 folds
+Flor34500 folds
+donjofan2012 raises 300 to 500
+Poupee45260 calls 500
+YL_ML_GL_42 folds
+fab283452 folds
+*** FLOP *** [Jh 7h 8d]
+donjofan2012 bets 943
+Poupee45260 calls 943
+*** TURN *** [Jh 7h 8d][Kh]
+donjofan2012 bets 2168
+Poupee45260 folds
+donjofan2012 collected 5504 from pot
+*** SUMMARY ***
+Total pot 5504 | No rake
+Board: [Jh 7h 8d Kh]
+Seat 1: donjofan2012 won 5504
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-10-1668886796 - Holdem no limit (25/100/200) - 2022/11/19 19:39:56 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #3 is the button
+Seat 1: donjofan2012 (23620, 2.25€ bounty)
+Seat 2: Poupee45260 (18182, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (19350, 2.25€ bounty)
+Seat 4: fab283452 (19775, 2.25€ bounty)
+Seat 5: moshe08 (19275, 2.25€ bounty)
+Seat 6: viking1748 (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+fab283452 posts ante 25
+moshe08 posts ante 25
+donjofan2012 posts ante 25
+Poupee45260 posts ante 25
+YL_ML_GL_42 posts ante 25
+viking1748 posts ante 25
+fab283452 posts small blind 100
+moshe08 posts big blind 200
+Dealt to YL_ML_GL_42 [2h Qh]
+*** PRE-FLOP *** 
+viking1748 folds
+donjofan2012 raises 300 to 500
+Poupee45260 folds
+YL_ML_GL_42 folds
+fab283452 folds
+moshe08 calls 300
+*** FLOP *** [9s Ac 4h]
+moshe08 checks
+donjofan2012 bets 813
+moshe08 folds
+donjofan2012 collected 2063 from pot
+*** SUMMARY ***
+Total pot 2063 | No rake
+Board: [9s Ac 4h]
+Seat 1: donjofan2012 won 2063
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-11-1668886873 - Holdem no limit (25/100/200) - 2022/11/19 19:41:13 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #4 is the button
+Seat 1: donjofan2012 (24345, 2.25€ bounty)
+Seat 2: Poupee45260 (18157, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (19325, 2.25€ bounty)
+Seat 4: fab283452 (19650, 2.25€ bounty)
+Seat 5: moshe08 (18750, 2.25€ bounty)
+Seat 6: viking1748 (19975, 2.25€ bounty)
+*** ANTE/BLINDS ***
+moshe08 posts ante 25
+viking1748 posts ante 25
+donjofan2012 posts ante 25
+Poupee45260 posts ante 25
+YL_ML_GL_42 posts ante 25
+fab283452 posts ante 25
+moshe08 posts small blind 100
+viking1748 posts big blind 200
+Dealt to YL_ML_GL_42 [8d 3h]
+*** PRE-FLOP *** 
+donjofan2012 folds
+Poupee45260 folds
+YL_ML_GL_42 folds
+fab283452 folds
+moshe08 calls 100
+viking1748 checks
+*** FLOP *** [7c Qs 9c]
+moshe08 checks
+viking1748 bets 358
+moshe08 folds
+viking1748 collected 908 from pot
+*** SUMMARY ***
+Total pot 908 | No rake
+Board: [7c Qs 9c]
+Seat 6: viking1748 (big blind) won 908
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-12-1668886950 - Holdem no limit (25/100/200) - 2022/11/19 19:42:30 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #5 is the button
+Seat 1: donjofan2012 (24320, 2.25€ bounty)
+Seat 2: Poupee45260 (18132, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (19300, 2.25€ bounty)
+Seat 4: fab283452 (19625, 2.25€ bounty)
+Seat 5: moshe08 (18525, 2.25€ bounty)
+Seat 6: viking1748 (20300, 2.25€ bounty)
+*** ANTE/BLINDS ***
+viking1748 posts ante 25
+donjofan2012 posts ante 25
+Poupee45260 posts ante 25
+YL_ML_GL_42 posts ante 25
+fab283452 posts ante 25
+moshe08 posts ante 25
+viking1748 posts small blind 100
+donjofan2012 posts big blind 200
+Dealt to YL_ML_GL_42 [Qh Qs]
+*** PRE-FLOP *** 
+Poupee45260 folds
+YL_ML_GL_42 raises 300 to 500
+fab283452 calls 500
+moshe08 folds
+viking1748 folds
+donjofan2012 raises 1750 to 2250
+YL_ML_GL_42 raises 17025 to 19275 and is all-in
+fab283452 folds
+donjofan2012 folds
+YL_ML_GL_42 collected 22275 from pot
+*** SUMMARY ***
+Total pot 22275 | No rake
+Seat 3: YL_ML_GL_42 won 22275
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-13-1668887081 - Holdem no limit (25/100/200) - 2022/11/19 19:44:41 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #6 is the button
+Seat 1: donjofan2012 (22045, 2.25€ bounty)
+Seat 2: Poupee45260 (18107, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (22275, 2.25€ bounty)
+Seat 4: fab283452 (19100, 2.25€ bounty)
+Seat 5: moshe08 (18500, 2.25€ bounty)
+Seat 6: viking1748 (20175, 2.25€ bounty)
+*** ANTE/BLINDS ***
+donjofan2012 posts ante 25
+Poupee45260 posts ante 25
+YL_ML_GL_42 posts ante 25
+fab283452 posts ante 25
+moshe08 posts ante 25
+viking1748 posts ante 25
+donjofan2012 posts small blind 100
+Poupee45260 posts big blind 200
+Dealt to YL_ML_GL_42 [8s Jc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+fab283452 calls 200
+moshe08 folds
+viking1748 raises 200 to 400
+donjofan2012 calls 300
+Poupee45260 folds
+fab283452 calls 200
+*** FLOP *** [4s Ah Kh]
+donjofan2012 checks
+fab283452 checks
+viking1748 bets 543
+donjofan2012 calls 543
+fab283452 calls 543
+*** TURN *** [4s Ah Kh][7h]
+donjofan2012 bets 2066
+fab283452 calls 2066
+viking1748 folds
+*** RIVER *** [4s Ah Kh 7h][4h]
+donjofan2012 bets 19011 and is all-in
+fab283452 folds
+donjofan2012 collected 26322 from pot
+*** SUMMARY ***
+Total pot 26322 | No rake
+Board: [4s Ah Kh 7h 4h]
+Seat 1: donjofan2012 (small blind) won 26322
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-14-1668887204 - Holdem no limit (25/100/200) - 2022/11/19 19:46:44 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #1 is the button
+Seat 1: donjofan2012 (26322, 2.25€ bounty)
+Seat 2: Poupee45260 (17882, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (22250, 2.25€ bounty)
+Seat 4: fab283452 (16066, 2.25€ bounty)
+Seat 5: moshe08 (18475, 2.25€ bounty)
+Seat 6: viking1748 (19207, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Poupee45260 posts ante 25
+YL_ML_GL_42 posts ante 25
+donjofan2012 posts ante 25
+fab283452 posts ante 25
+moshe08 posts ante 25
+viking1748 posts ante 25
+Poupee45260 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [9s Kh]
+*** PRE-FLOP *** 
+fab283452 calls 200
+moshe08 folds
+viking1748 calls 200
+donjofan2012 raises 26097 to 26297 and is all-in
+Poupee45260 folds
+YL_ML_GL_42 folds
+fab283452 calls 15841 and is all-in
+viking1748 folds
+*** FLOP *** [2c 3d 7d]
+*** TURN *** [2c 3d 7d][6h]
+*** RIVER *** [2c 3d 7d 6h][As]
+*** SHOW DOWN ***
+fab283452 shows [5s Qs] (High card : Ace)
+donjofan2012 shows [Kc Qh] (High card : Ace)
+donjofan2012 collected 42988 from pot
+*** SUMMARY ***
+Total pot 42988 | No rake
+Board: [2c 3d 7d 6h As]
+Seat 1: donjofan2012 (button) showed [Kc Qh] and won 42988 with High card : Ace
+Seat 4: fab283452 showed [5s Qs] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-15-1668887253 - Holdem no limit (25/100/200) - 2022/11/19 19:47:33 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #2 is the button
+Seat 1: donjofan2012 (42988, 3.37€ bounty)
+Seat 2: Poupee45260 (17757, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (22025, 2.25€ bounty)
+Seat 4: Laya21 (20000, 2.25€ bounty)
+Seat 5: moshe08 (18450, 2.25€ bounty)
+Seat 6: viking1748 (18982, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Laya21 posts ante 25
+donjofan2012 posts ante 25
+Poupee45260 posts ante 25
+moshe08 posts ante 25
+viking1748 posts ante 25
+YL_ML_GL_42 posts small blind 100
+Laya21 posts big blind 200
+Dealt to YL_ML_GL_42 [9h 6s]
+*** PRE-FLOP *** 
+moshe08 folds
+viking1748 calls 200
+donjofan2012 raises 850 to 1050
+Poupee45260 folds
+YL_ML_GL_42 folds
+Laya21 folds
+viking1748 calls 850
+*** FLOP *** [Jh As 8s]
+viking1748 checks
+donjofan2012 bets 1658
+viking1748 folds
+donjofan2012 collected 4208 from pot
+*** SUMMARY ***
+Total pot 4208 | No rake
+Board: [Jh As 8s]
+Seat 1: donjofan2012 won 4208
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-16-1668887289 - Holdem no limit (25/100/200) - 2022/11/19 19:48:09 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #3 is the button
+Seat 1: donjofan2012 (44463, 3.37€ bounty)
+Seat 2: Poupee45260 (17732, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (21900, 2.25€ bounty)
+Seat 4: Laya21 (19775, 2.25€ bounty)
+Seat 5: moshe08 (18425, 2.25€ bounty)
+Seat 6: viking1748 (17907, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Laya21 posts ante 25
+moshe08 posts ante 25
+donjofan2012 posts ante 25
+Poupee45260 posts ante 25
+YL_ML_GL_42 posts ante 25
+viking1748 posts ante 25
+Laya21 posts small blind 100
+moshe08 posts big blind 200
+Dealt to YL_ML_GL_42 [Qc Td]
+*** PRE-FLOP *** 
+viking1748 raises 300 to 500
+donjofan2012 calls 500
+Poupee45260 folds
+YL_ML_GL_42 folds
+Laya21 calls 400
+moshe08 folds
+*** FLOP *** [5d Qd Kd]
+Laya21 bets 648
+viking1748 calls 648
+donjofan2012 folds
+*** TURN *** [5d Qd Kd][6d]
+Laya21 bets 1101
+viking1748 calls 1101
+*** RIVER *** [5d Qd Kd 6d][9d]
+Laya21 bets 1872
+viking1748 calls 1872
+*** SHOW DOWN ***
+viking1748 shows [Kh Jh] (Flush King high)
+Laya21 shows [8s 7d] (Flush King high)
+Laya21 collected 9092 from pot
+*** SUMMARY ***
+Total pot 9092 | No rake
+Board: [5d Qd Kd 6d 9d]
+Seat 4: Laya21 (small blind) showed [8s 7d] and won 9092 with Flush King high
+Seat 6: viking1748 showed [Kh Jh] and lost with Flush King high
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-17-1668887345 - Holdem no limit (25/100/200) - 2022/11/19 19:49:05 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #4 is the button
+Seat 1: donjofan2012 (43938, 3.37€ bounty)
+Seat 2: Poupee45260 (17707, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (21875, 2.25€ bounty)
+Seat 4: Laya21 (24721, 2.25€ bounty)
+Seat 5: moshe08 (18200, 2.25€ bounty)
+Seat 6: viking1748 (13761, 2.25€ bounty)
+*** ANTE/BLINDS ***
+moshe08 posts ante 25
+viking1748 posts ante 25
+donjofan2012 posts ante 25
+Poupee45260 posts ante 25
+YL_ML_GL_42 posts ante 25
+Laya21 posts ante 25
+moshe08 posts small blind 100
+viking1748 posts big blind 200
+Dealt to YL_ML_GL_42 [4d Td]
+*** PRE-FLOP *** 
+donjofan2012 folds
+Poupee45260 folds
+YL_ML_GL_42 folds
+Laya21 calls 200
+moshe08 raises 750 to 950
+viking1748 calls 750
+Laya21 calls 750
+*** FLOP *** [3c 4s 8d]
+moshe08 checks
+viking1748 bets 3000
+Laya21 folds
+moshe08 folds
+viking1748 collected 6000 from pot
+*** SUMMARY ***
+Total pot 6000 | No rake
+Board: [3c 4s 8d]
+Seat 6: viking1748 (big blind) won 6000
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-18-1668887387 - Holdem no limit (25/100/200) - 2022/11/19 19:49:47 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #5 is the button
+Seat 1: donjofan2012 (43913, 3.37€ bounty)
+Seat 2: Poupee45260 (17682, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (21850, 2.25€ bounty)
+Seat 4: Laya21 (23746, 2.25€ bounty)
+Seat 5: moshe08 (17225, 2.25€ bounty)
+Seat 6: viking1748 (15786, 2.25€ bounty)
+*** ANTE/BLINDS ***
+viking1748 posts ante 25
+donjofan2012 posts ante 25
+Poupee45260 posts ante 25
+YL_ML_GL_42 posts ante 25
+Laya21 posts ante 25
+moshe08 posts ante 25
+viking1748 posts small blind 100
+donjofan2012 posts big blind 200
+Dealt to YL_ML_GL_42 [6s Ks]
+*** PRE-FLOP *** 
+Poupee45260 calls 200
+YL_ML_GL_42 calls 200
+Laya21 raises 400 to 600
+moshe08 folds
+viking1748 calls 500
+donjofan2012 calls 400
+Poupee45260 calls 400
+YL_ML_GL_42 calls 400
+*** FLOP *** [3c Ts Ah]
+viking1748 bets 200
+donjofan2012 calls 200
+Poupee45260 calls 200
+YL_ML_GL_42 folds
+Laya21 raises 1253 to 1453
+viking1748 calls 1253
+donjofan2012 calls 1253
+Poupee45260 folds
+*** TURN *** [3c Ts Ah][4c]
+viking1748 checks
+donjofan2012 checks
+Laya21 bets 21668 and is all-in
+viking1748 folds
+donjofan2012 folds
+Laya21 collected 29377 from pot
+*** SUMMARY ***
+Total pot 29377 | No rake
+Board: [3c Ts Ah 4c]
+Seat 4: Laya21 won 29377
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-19-1668887481 - Holdem no limit (25/100/200) - 2022/11/19 19:51:21 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #6 is the button
+Seat 1: donjofan2012 (41835, 3.37€ bounty)
+Seat 2: Poupee45260 (16857, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (21225, 2.25€ bounty)
+Seat 4: Laya21 (29377, 2.25€ bounty)
+Seat 5: moshe08 (17200, 2.25€ bounty)
+Seat 6: viking1748 (13708, 2.25€ bounty)
+*** ANTE/BLINDS ***
+donjofan2012 posts ante 25
+Poupee45260 posts ante 25
+YL_ML_GL_42 posts ante 25
+Laya21 posts ante 25
+moshe08 posts ante 25
+viking1748 posts ante 25
+donjofan2012 posts small blind 100
+Poupee45260 posts big blind 200
+Dealt to YL_ML_GL_42 [Jc Ks]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 200 to 400
+Laya21 folds
+moshe08 calls 400
+viking1748 folds
+donjofan2012 folds
+Poupee45260 folds
+*** FLOP *** [4c 6s 6d]
+YL_ML_GL_42 checks
+moshe08 checks
+*** TURN *** [4c 6s 6d][Kc]
+YL_ML_GL_42 bets 625
+moshe08 folds
+YL_ML_GL_42 collected 1875 from pot
+*** SUMMARY ***
+Total pot 1875 | No rake
+Board: [4c 6s 6d Kc]
+Seat 3: YL_ML_GL_42 won 1875
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-20-1668887517 - Holdem no limit (25/100/200) - 2022/11/19 19:51:57 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #1 is the button
+Seat 1: donjofan2012 (41710, 3.37€ bounty)
+Seat 2: Poupee45260 (16632, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (22050, 2.25€ bounty)
+Seat 4: Laya21 (29352, 2.25€ bounty)
+Seat 5: moshe08 (16775, 2.25€ bounty)
+Seat 6: viking1748 (13683, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Poupee45260 posts ante 25
+YL_ML_GL_42 posts ante 25
+donjofan2012 posts ante 25
+Laya21 posts ante 25
+moshe08 posts ante 25
+viking1748 posts ante 25
+Poupee45260 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [5s 2d]
+*** PRE-FLOP *** 
+Laya21 calls 200
+moshe08 folds
+viking1748 calls 200
+donjofan2012 raises 41485 to 41685 and is all-in
+Poupee45260 folds
+YL_ML_GL_42 folds
+Laya21 folds
+viking1748 folds
+donjofan2012 collected 42535 from pot
+*** SUMMARY ***
+Total pot 42535 | No rake
+Seat 1: donjofan2012 (button) won 42535
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-21-1668887534 - Holdem no limit (25/100/200) - 2022/11/19 19:52:14 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #2 is the button
+Seat 1: donjofan2012 (42535, 3.37€ bounty)
+Seat 2: Poupee45260 (16507, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (21825, 2.25€ bounty)
+Seat 4: Laya21 (29127, 2.25€ bounty)
+Seat 5: moshe08 (16750, 2.25€ bounty)
+Seat 6: viking1748 (13458, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Laya21 posts ante 25
+donjofan2012 posts ante 25
+Poupee45260 posts ante 25
+moshe08 posts ante 25
+viking1748 posts ante 25
+YL_ML_GL_42 posts small blind 100
+Laya21 posts big blind 200
+Dealt to YL_ML_GL_42 [8h 3s]
+*** PRE-FLOP *** 
+moshe08 calls 200
+viking1748 calls 200
+donjofan2012 folds
+Poupee45260 raises 300 to 500
+YL_ML_GL_42 folds
+Laya21 calls 300
+moshe08 calls 300
+viking1748 calls 300
+*** FLOP *** [Qh 4s Js]
+Laya21 checks
+moshe08 bets 1463
+viking1748 folds
+Poupee45260 raises 14519 to 15982 and is all-in
+Laya21 raises 12620 to 28602 and is all-in
+moshe08 calls 14762 and is all-in
+*** TURN *** [Qh 4s Js][Jh]
+*** RIVER *** [Qh 4s Js Jh][6c]
+*** SHOW DOWN ***
+Poupee45260 shows [Qd Ah] (Two pairs : Queens and Jacks)
+Laya21 shows [4c Qc] (Two pairs : Queens and Jacks)
+moshe08 shows [Ts Qs] (Two pairs : Queens and Jacks)
+moshe08 collected 486 from side pot 1
+Laya21 collected 12377 from side pot 2
+Poupee45260 collected 50196 from main pot
+*** SUMMARY ***
+Total pot 63059 | No rake
+Board: [Qh 4s Js Jh 6c]
+Seat 2: Poupee45260 (button) showed [Qd Ah] and won 50196 with Two pairs : Queens and Jacks
+Seat 4: Laya21 (big blind) showed [4c Qc] and won 12377 with Two pairs : Queens and Jacks
+Seat 5: moshe08 showed [Ts Qs] and won 486 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-22-1668887618 - Holdem no limit (25/100/200) - 2022/11/19 19:53:38 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #3 is the button
+Seat 1: donjofan2012 (42510, 3.37€ bounty)
+Seat 2: Poupee45260 (50196, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (21700, 2.25€ bounty)
+Seat 4: Laya21 (12377, 2.25€ bounty)
+Seat 5: moshe08 (486, 2.25€ bounty)
+Seat 6: viking1748 (12933, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Laya21 posts ante 25
+moshe08 posts ante 25
+donjofan2012 posts ante 25
+Poupee45260 posts ante 25
+YL_ML_GL_42 posts ante 25
+viking1748 posts ante 25
+Laya21 posts small blind 100
+moshe08 posts big blind 200
+Dealt to YL_ML_GL_42 [5h Th]
+*** PRE-FLOP *** 
+viking1748 raises 300 to 500
+donjofan2012 calls 500
+Poupee45260 calls 500
+YL_ML_GL_42 folds
+Laya21 folds
+moshe08 calls 261 and is all-in
+*** FLOP *** [3h Js 6d]
+viking1748 bets 1437
+donjofan2012 raises 40548 to 41985 and is all-in
+Poupee45260 folds
+viking1748 calls 10971 and is all-in
+*** TURN *** [3h Js 6d][4s]
+*** RIVER *** [3h Js 6d 4s][Kc]
+*** SHOW DOWN ***
+donjofan2012 shows [5c Jc] (One pair : Jacks)
+moshe08 shows [5d 2s] (Straight 6 high)
+viking1748 shows [7h Jh] (One pair : Jacks)
+viking1748 collected 24933 from side pot 1
+moshe08 collected 2094 from main pot
+donjofan2012 collected 29577 from side pot 2
+*** SUMMARY ***
+Total pot 56604 | No rake
+Board: [3h Js 6d 4s Kc]
+Seat 1: donjofan2012 showed [5c Jc] and won 29577 with One pair : Jacks
+Seat 5: moshe08 (big blind) showed [5d 2s] and won 2094 with Straight 6 high
+Seat 6: viking1748 showed [7h Jh] and won 24933 with One pair : Jacks
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-23-1668887668 - Holdem no limit (25/100/200) - 2022/11/19 19:54:28 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #4 is the button
+Seat 1: donjofan2012 (29577, 3.37€ bounty)
+Seat 2: Poupee45260 (49671, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (21675, 2.25€ bounty)
+Seat 4: Laya21 (12252, 2.25€ bounty)
+Seat 5: moshe08 (2094, 2.25€ bounty)
+Seat 6: viking1748 (24933, 2.25€ bounty)
+*** ANTE/BLINDS ***
+moshe08 posts ante 25
+viking1748 posts ante 25
+donjofan2012 posts ante 25
+Poupee45260 posts ante 25
+YL_ML_GL_42 posts ante 25
+Laya21 posts ante 25
+moshe08 posts small blind 100
+viking1748 posts big blind 200
+Dealt to YL_ML_GL_42 [2c 9c]
+*** PRE-FLOP *** 
+donjofan2012 raises 29352 to 29552 and is all-in
+Poupee45260 folds
+YL_ML_GL_42 folds
+Laya21 folds
+moshe08 folds
+viking1748 folds
+donjofan2012 collected 30002 from pot
+*** SUMMARY ***
+Total pot 30002 | No rake
+Seat 1: donjofan2012 won 30002
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-24-1668887678 - Holdem no limit (25/100/200) - 2022/11/19 19:54:38 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #5 is the button
+Seat 1: donjofan2012 (30002, 3.37€ bounty)
+Seat 2: Poupee45260 (49646, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (21650, 2.25€ bounty)
+Seat 4: Laya21 (12227, 2.25€ bounty)
+Seat 5: moshe08 (1969, 2.25€ bounty)
+Seat 6: viking1748 (24708, 2.25€ bounty)
+*** ANTE/BLINDS ***
+viking1748 posts ante 25
+donjofan2012 posts ante 25
+Poupee45260 posts ante 25
+YL_ML_GL_42 posts ante 25
+Laya21 posts ante 25
+moshe08 posts ante 25
+viking1748 posts small blind 100
+donjofan2012 posts big blind 200
+Dealt to YL_ML_GL_42 [5s 4h]
+*** PRE-FLOP *** 
+Poupee45260 folds
+YL_ML_GL_42 folds
+Laya21 folds
+moshe08 folds
+viking1748 calls 100
+donjofan2012 raises 29777 to 29977 and is all-in
+viking1748 folds
+donjofan2012 collected 30327 from pot
+*** SUMMARY ***
+Total pot 30327 | No rake
+Seat 1: donjofan2012 (big blind) won 30327
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545594234069581876-25-1668888063 - Holdem no limit (25/100/200) - 2022/11/19 20:01:03 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #6 is the button
+Seat 1: donjofan2012 (30327, 3.37€ bounty)
+Seat 2: Poupee45260 (49621, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (21625, 2.25€ bounty)
+Seat 4: Laya21 (12202, 2.25€ bounty)
+Seat 5: moshe08 (1944, 2.25€ bounty)
+Seat 6: viking1748 (24483, 2.25€ bounty)
+*** ANTE/BLINDS ***
+donjofan2012 posts ante 25
+Poupee45260 posts ante 25
+YL_ML_GL_42 posts ante 25
+Laya21 posts ante 25
+moshe08 posts ante 25
+viking1748 posts ante 25
+donjofan2012 posts small blind 100
+Poupee45260 posts big blind 200
+Dealt to YL_ML_GL_42 [Qc 2c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Laya21 folds
+moshe08 raises 1719 to 1919 and is all-in
+viking1748 folds
+donjofan2012 raises 28383 to 30302 and is all-in
+Poupee45260 folds
+*** FLOP *** [Tc 8c 4h]
+*** TURN *** [Tc 8c 4h][Ac]
+*** RIVER *** [Tc 8c 4h Ac][Kd]
+*** SHOW DOWN ***
+moshe08 shows [Jh 8h] (One pair : 8)
+donjofan2012 shows [9s Th] (One pair : Tens)
+donjofan2012 collected 32571 from pot
+*** SUMMARY ***
+Total pot 32571 | No rake
+Board: [Tc 8c 4h Ac Kd]
+Seat 1: donjofan2012 (small blind) showed [9s Th] and won 32571 with One pair : Tens
+Seat 5: moshe08 showed [Jh 8h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2545594234069581876-26-1668888120 - Holdem no limit (30/125/250) - 2022/11/19 20:02:00 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #1 is the button
+Seat 1: donjofan2012 (32571, 4.49€ bounty)
+Seat 2: Poupee45260 (49396, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (21600, 2.25€ bounty)
+Seat 4: Laya21 (12177, 2.25€ bounty)
+Seat 6: viking1748 (24458, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Poupee45260 posts ante 30
+YL_ML_GL_42 posts ante 30
+donjofan2012 posts ante 30
+Laya21 posts ante 30
+viking1748 posts ante 30
+Poupee45260 posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [5c 4h]
+*** PRE-FLOP *** 
+Laya21 folds
+viking1748 raises 250 to 500
+donjofan2012 calls 500
+Poupee45260 calls 375
+YL_ML_GL_42 folds
+*** FLOP *** [Tc 7c Kc]
+Poupee45260 checks
+viking1748 bets 665
+donjofan2012 calls 665
+Poupee45260 folds
+*** TURN *** [Tc 7c Kc][Th]
+viking1748 bets 1131
+donjofan2012 calls 1131
+*** RIVER *** [Tc 7c Kc Th][Ad]
+viking1748 bets 1922
+donjofan2012 folds
+viking1748 collected 7414 from pot
+*** SUMMARY ***
+Total pot 7414 | No rake
+Board: [Tc 7c Kc Th Ad]
+Seat 6: viking1748 won 7414
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2545594234069581876-27-1668888161 - Holdem no limit (30/125/250) - 2022/11/19 20:02:41 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #2 is the button
+Seat 1: donjofan2012 (30245, 4.49€ bounty)
+Seat 2: Poupee45260 (48866, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (21320, 2.25€ bounty)
+Seat 4: Laya21 (12147, 2.25€ bounty)
+Seat 5: SooriukenGG (20000, 2.25€ bounty)
+Seat 6: viking1748 (27624, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 30
+Laya21 posts ante 30
+donjofan2012 posts ante 30
+Poupee45260 posts ante 30
+SooriukenGG posts ante 30
+viking1748 posts ante 30
+YL_ML_GL_42 posts small blind 125
+Laya21 posts big blind 250
+Dealt to YL_ML_GL_42 [7s 9s]
+*** PRE-FLOP *** 
+SooriukenGG folds
+viking1748 raises 250 to 500
+donjofan2012 folds
+Poupee45260 calls 500
+YL_ML_GL_42 folds
+Laya21 calls 250
+*** FLOP *** [3d Kd As]
+Laya21 checks
+viking1748 bets 632
+Poupee45260 calls 632
+Laya21 raises 10985 to 11617 and is all-in
+viking1748 calls 10985
+Poupee45260 calls 10985
+*** TURN *** [3d Kd As][2d]
+viking1748 checks
+Poupee45260 bets 36719 and is all-in
+viking1748 calls 15477 and is all-in
+*** RIVER *** [3d Kd As 2d][6h]
+*** SHOW DOWN ***
+Laya21 shows [Qd Ac] (One pair : Aces)
+viking1748 shows [4c Ah] (One pair : Aces)
+Poupee45260 shows [Jd 9d] (Flush King high)
+Poupee45260 collected 88852 from pot
+*** SUMMARY ***
+Total pot 88852 | No rake
+Board: [3d Kd As 2d 6h]
+Seat 2: Poupee45260 (button) showed [Jd 9d] and won 88852 with Flush King high
+Seat 4: Laya21 (big blind) showed [Qd Ac] and lost with One pair : Aces
+Seat 6: viking1748 showed [4c Ah] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2545594234069581876-28-1668888224 - Holdem no limit (30/125/250) - 2022/11/19 20:03:44 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #3 is the button
+Seat 1: donjofan2012 (30215, 4.49€ bounty)
+Seat 2: Poupee45260 (88852, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (21165, 2.25€ bounty)
+Seat 5: SooriukenGG (19970, 2.25€ bounty)
+Seat 6: Noctem (19276, 2.25€ bounty)
+*** ANTE/BLINDS ***
+SooriukenGG posts ante 30
+donjofan2012 posts ante 30
+Poupee45260 posts ante 30
+YL_ML_GL_42 posts ante 30
+Noctem posts ante 30
+SooriukenGG posts big blind 250
+Dealt to YL_ML_GL_42 [Qc 3h]
+*** PRE-FLOP *** 
+Noctem folds
+donjofan2012 raises 29935 to 30185 and is all-in
+Poupee45260 folds
+YL_ML_GL_42 folds
+SooriukenGG calls 19690 and is all-in
+*** FLOP *** [2c 4d Kh]
+*** TURN *** [2c 4d Kh][Jh]
+*** RIVER *** [2c 4d Kh Jh][9d]
+*** SHOW DOWN ***
+SooriukenGG shows [Td Ad] (High card : Ace)
+donjofan2012 shows [4c 6c] (One pair : 4)
+donjofan2012 collected 50275 from pot
+*** SUMMARY ***
+Total pot 50275 | No rake
+Board: [2c 4d Kh Jh 9d]
+Seat 1: donjofan2012 showed [4c 6c] and won 50275 with One pair : 4
+Seat 5: SooriukenGG (big blind) showed [Td Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2545594234069581876-29-1668888249 - Holdem no limit (30/125/250) - 2022/11/19 20:04:09 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #4 is the button
+Seat 1: donjofan2012 (50275, 5.61€ bounty)
+Seat 2: Poupee45260 (88822, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (21135, 2.25€ bounty)
+Seat 4: Sassoune (20000, 2.25€ bounty)
+Seat 6: Noctem (19246, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Noctem posts ante 30
+donjofan2012 posts ante 30
+Poupee45260 posts ante 30
+YL_ML_GL_42 posts ante 30
+Noctem posts big blind 250
+Dealt to YL_ML_GL_42 [Kd Jc]
+*** PRE-FLOP *** 
+donjofan2012 calls 250
+Poupee45260 folds
+YL_ML_GL_42 raises 313 to 563
+Noctem calls 313
+donjofan2012 calls 313
+*** FLOP *** [9d Qd Jd]
+Noctem checks
+donjofan2012 checks
+YL_ML_GL_42 bets 1176
+Noctem calls 1176
+donjofan2012 folds
+*** TURN *** [9d Qd Jd][9h]
+Noctem checks
+YL_ML_GL_42 bets 2705
+Noctem raises 5274 to 7979
+YL_ML_GL_42 raises 11387 to 19366 and is all-in
+Noctem calls 9498 and is all-in
+*** RIVER *** [9d Qd Jd 9h][Qs]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kd Jc] (Two pairs : Queens and Jacks)
+Noctem shows [Ad 6d] (Flush Ace high)
+Noctem collected 39115 from main pot
+YL_ML_GL_42 collected 1889 from side pot 1
+*** SUMMARY ***
+Total pot 41004 | No rake
+Board: [9d Qd Jd 9h Qs]
+Seat 3: YL_ML_GL_42 showed [Kd Jc] and won 1889 with Two pairs : Queens and Jacks
+Seat 6: Noctem (big blind) showed [Ad 6d] and won 39115 with Flush Ace high
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2545594234069581876-30-1668888387 - Holdem no limit (35/150/300) - 2022/11/19 20:06:27 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #5 is the button
+Seat 1: donjofan2012 (49682, 5.61€ bounty)
+Seat 2: Poupee45260 (88792, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (1889, 2.25€ bounty)
+Seat 4: Sassoune (20000, 2.25€ bounty)
+Seat 5: GABIN08 (20000, 2.25€ bounty)
+Seat 6: Noctem (39115, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Noctem posts ante 35
+donjofan2012 posts ante 35
+Poupee45260 posts ante 35
+YL_ML_GL_42 posts ante 35
+Sassoune posts ante 35
+Noctem posts small blind 150
+donjofan2012 posts big blind 300
+Dealt to YL_ML_GL_42 [6h 3s]
+*** PRE-FLOP *** 
+Poupee45260 folds
+YL_ML_GL_42 folds
+Sassoune folds
+Noctem raises 600 to 900
+donjofan2012 calls 600
+*** FLOP *** [Kd Js 9s]
+Noctem checks
+donjofan2012 bets 1284
+Noctem raises 1284 to 2568
+donjofan2012 calls 1284
+*** TURN *** [Kd Js 9s][2s]
+Noctem bets 4622
+donjofan2012 calls 4622
+*** RIVER *** [Kd Js 9s 2s][7d]
+Noctem bets 10631
+donjofan2012 calls 10631
+*** SHOW DOWN ***
+donjofan2012 shows [Kh Qd] (One pair : Kings)
+Noctem shows [9d 9c] (Trips of 9)
+Noctem collected 37617 from pot
+*** SUMMARY ***
+Total pot 37617 | No rake
+Board: [Kd Js 9s 2s 7d]
+Seat 1: donjofan2012 (big blind) showed [Kh Qd] and lost with One pair : Kings
+Seat 6: Noctem (small blind) showed [9d 9c] and won 37617 with Trips of 9
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2545594234069581876-31-1668888467 - Holdem no limit (35/150/300) - 2022/11/19 20:07:47 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #6 is the button
+Seat 1: donjofan2012 (30926, 5.61€ bounty)
+Seat 2: Poupee45260 (88757, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (1854, 2.25€ bounty)
+Seat 4: Sassoune (19965, 2.25€ bounty)
+Seat 5: GABIN08 (20000, 2.25€ bounty)
+Seat 6: Noctem (57976, 2.25€ bounty)
+*** ANTE/BLINDS ***
+donjofan2012 posts ante 35
+Poupee45260 posts ante 35
+YL_ML_GL_42 posts ante 35
+Sassoune posts ante 35
+GABIN08 posts ante 35
+Noctem posts ante 35
+donjofan2012 posts small blind 150
+Poupee45260 posts big blind 300
+Dealt to YL_ML_GL_42 [Jc Jd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 1519 to 1819 and is all-in
+Sassoune folds
+GABIN08 folds
+Noctem folds
+donjofan2012 raises 29072 to 30891 and is all-in
+Poupee45260 folds
+*** FLOP *** [7d 2d Tc]
+*** TURN *** [7d 2d Tc][5s]
+*** RIVER *** [7d 2d Tc 5s][2c]
+*** SHOW DOWN ***
+donjofan2012 shows [Kd Td] (Two pairs : Tens and 2)
+YL_ML_GL_42 shows [Jc Jd] (Two pairs : Jacks and 2)
+YL_ML_GL_42 collected 4148 from main pot
+donjofan2012 collected 29072 from side pot 1
+*** SUMMARY ***
+Total pot 33220 | No rake
+Board: [7d 2d Tc 5s 2c]
+Seat 1: donjofan2012 (small blind) showed [Kd Td] and won 29072 with Two pairs : Tens and 2
+Seat 3: YL_ML_GL_42 showed [Jc Jd] and won 4148 with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2545594234069581876-32-1668888514 - Holdem no limit (35/150/300) - 2022/11/19 20:08:34 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #1 is the button
+Seat 1: donjofan2012 (29072, 5.61€ bounty)
+Seat 2: Poupee45260 (88422, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (4148, 2.25€ bounty)
+Seat 4: Sassoune (19930, 2.25€ bounty)
+Seat 5: GABIN08 (19965, 2.25€ bounty)
+Seat 6: Noctem (57941, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Poupee45260 posts ante 35
+YL_ML_GL_42 posts ante 35
+donjofan2012 posts ante 35
+Sassoune posts ante 35
+GABIN08 posts ante 35
+Noctem posts ante 35
+Poupee45260 posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [8h 3h]
+*** PRE-FLOP *** 
+Sassoune raises 300 to 600
+GABIN08 folds
+Noctem folds
+donjofan2012 calls 600
+Poupee45260 raises 900 to 1500
+YL_ML_GL_42 folds
+Sassoune raises 900 to 2400
+donjofan2012 calls 1800
+Poupee45260 calls 900
+*** FLOP *** [Qd 9s Kh]
+Poupee45260 checks
+Sassoune bets 2699
+donjofan2012 calls 2699
+Poupee45260 raises 83288 to 85987 and is all-in
+Sassoune calls 14796 and is all-in
+donjofan2012 calls 23938 and is all-in
+*** TURN *** [Qd 9s Kh][Jc]
+*** RIVER *** [Qd 9s Kh Jc][7h]
+*** SHOW DOWN ***
+donjofan2012 shows [Ts Qc] (Straight King high)
+Poupee45260 shows [Ac Kd] (One pair : Kings)
+Sassoune shows [Th Jd] (Straight King high)
+Sassoune collected 30098 from main pot
+Poupee45260 collected 59350 from side pot 2
+donjofan2012 collected 48381 from side pot 1
+*** SUMMARY ***
+Total pot 137829 | No rake
+Board: [Qd 9s Kh Jc 7h]
+Seat 1: donjofan2012 (button) showed [Ts Qc] and won 48381 with Straight King high
+Seat 2: Poupee45260 (small blind) showed [Ac Kd] and won 59350 with One pair : Kings
+Seat 4: Sassoune showed [Th Jd] and won 30098 with Straight King high
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2545594234069581876-33-1668888704 - Holdem no limit (40/175/350) - 2022/11/19 20:11:44 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #2 is the button
+Seat 1: donjofan2012 (48381, 5.61€ bounty)
+Seat 2: Poupee45260 (59350, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (3813, 2.25€ bounty)
+Seat 4: Sassoune (30098, 2.25€ bounty)
+Seat 5: GABIN08 (19930, 2.25€ bounty)
+Seat 6: Noctem (57906, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 40
+Sassoune posts ante 40
+donjofan2012 posts ante 40
+Poupee45260 posts ante 40
+GABIN08 posts ante 40
+Noctem posts ante 40
+YL_ML_GL_42 posts small blind 175
+Sassoune posts big blind 350
+Dealt to YL_ML_GL_42 [4h Ac]
+*** PRE-FLOP *** 
+GABIN08 folds
+Noctem folds
+donjofan2012 raises 525 to 875
+Poupee45260 folds
+YL_ML_GL_42 raises 2898 to 3773 and is all-in
+Sassoune folds
+donjofan2012 calls 2898
+*** FLOP *** [Kh 8h 8s]
+*** TURN *** [Kh 8h 8s][Ah]
+*** RIVER *** [Kh 8h 8s Ah][Th]
+*** SHOW DOWN ***
+donjofan2012 shows [Ad 6d] (Two pairs : Aces and 8)
+YL_ML_GL_42 shows [4h Ac] (Flush Ace high)
+YL_ML_GL_42 collected 8136 from pot
+*** SUMMARY ***
+Total pot 8136 | No rake
+Board: [Kh 8h 8s Ah Th]
+Seat 1: donjofan2012 showed [Ad 6d] and lost with Two pairs : Aces and 8
+Seat 3: YL_ML_GL_42 (small blind) showed [4h Ac] and won 8136 with Flush Ace high
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2545594234069581876-34-1668888757 - Holdem no limit (40/175/350) - 2022/11/19 20:12:37 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #3 is the button
+Seat 1: donjofan2012 (44568, 5.61€ bounty)
+Seat 2: Poupee45260 (59310, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (8136, 2.25€ bounty)
+Seat 4: Sassoune (29708, 2.25€ bounty)
+Seat 5: GABIN08 (19890, 2.25€ bounty)
+Seat 6: Noctem (57866, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Sassoune posts ante 40
+GABIN08 posts ante 40
+donjofan2012 posts ante 40
+Poupee45260 posts ante 40
+YL_ML_GL_42 posts ante 40
+Noctem posts ante 40
+Sassoune posts small blind 175
+GABIN08 posts big blind 350
+Dealt to YL_ML_GL_42 [9c Jh]
+*** PRE-FLOP *** 
+Noctem folds
+donjofan2012 folds
+Poupee45260 folds
+YL_ML_GL_42 folds
+Sassoune folds
+GABIN08 collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 5: GABIN08 (big blind) won 765
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2545594234069581876-35-1668888825 - Holdem no limit (40/175/350) - 2022/11/19 20:13:45 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #4 is the button
+Seat 1: donjofan2012 (44528, 5.61€ bounty)
+Seat 2: Poupee45260 (59270, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (8096, 2.25€ bounty)
+Seat 4: Sassoune (29493, 2.25€ bounty)
+Seat 5: GABIN08 (20265, 2.25€ bounty)
+Seat 6: Noctem (57826, 2.25€ bounty)
+*** ANTE/BLINDS ***
+GABIN08 posts ante 40
+Noctem posts ante 40
+donjofan2012 posts ante 40
+Poupee45260 posts ante 40
+YL_ML_GL_42 posts ante 40
+Sassoune posts ante 40
+GABIN08 posts small blind 175
+Noctem posts big blind 350
+Dealt to YL_ML_GL_42 [8c 7h]
+*** PRE-FLOP *** 
+donjofan2012 folds
+Poupee45260 folds
+YL_ML_GL_42 folds
+Sassoune folds
+GABIN08 folds
+Noctem collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 6: Noctem (big blind) won 765
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2545594234069581876-36-1668888847 - Holdem no limit (40/175/350) - 2022/11/19 20:14:07 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #5 is the button
+Seat 1: donjofan2012 (44488, 5.61€ bounty)
+Seat 2: Poupee45260 (59230, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (8056, 2.25€ bounty)
+Seat 4: Sassoune (29453, 2.25€ bounty)
+Seat 5: GABIN08 (20050, 2.25€ bounty)
+Seat 6: Noctem (58201, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Noctem posts ante 40
+donjofan2012 posts ante 40
+Poupee45260 posts ante 40
+YL_ML_GL_42 posts ante 40
+Sassoune posts ante 40
+GABIN08 posts ante 40
+Noctem posts small blind 175
+donjofan2012 posts big blind 350
+Dealt to YL_ML_GL_42 [9s 2c]
+*** PRE-FLOP *** 
+Poupee45260 folds
+YL_ML_GL_42 folds
+Sassoune raises 350 to 700
+GABIN08 folds
+Noctem folds
+donjofan2012 calls 350
+*** FLOP *** [Ks 6c 5c]
+donjofan2012 checks
+Sassoune bets 1180
+donjofan2012 calls 1180
+*** TURN *** [Ks 6c 5c][9d]
+donjofan2012 checks
+Sassoune bets 2714
+donjofan2012 calls 2714
+*** RIVER *** [Ks 6c 5c 9d][4c]
+donjofan2012 checks
+Sassoune bets 6242
+donjofan2012 calls 6242
+*** SHOW DOWN ***
+donjofan2012 shows [6d 8h] (One pair : 6)
+Sassoune shows [8c Kc] (Flush King high)
+Sassoune collected 22087 from pot
+*** SUMMARY ***
+Total pot 22087 | No rake
+Board: [Ks 6c 5c 9d 4c]
+Seat 1: donjofan2012 (big blind) showed [6d 8h] and lost with One pair : 6
+Seat 4: Sassoune showed [8c Kc] and won 22087 with Flush King high
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2545594234069581876-38-1668889090 - Holdem no limit (50/200/400) - 2022/11/19 20:18:10 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #1 is the button
+Seat 1: donjofan2012 (13602, 5.61€ bounty)
+Seat 2: Poupee45260 (58740, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (7966, 2.25€ bounty)
+Seat 4: Sassoune (40614, 2.25€ bounty)
+Seat 5: GABIN08 (42320, 2.25€ bounty)
+Seat 6: Noctem (56236, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Poupee45260 posts ante 50
+YL_ML_GL_42 posts ante 50
+donjofan2012 posts ante 50
+Sassoune posts ante 50
+GABIN08 posts ante 50
+Noctem posts ante 50
+Poupee45260 posts small blind 200
+YL_ML_GL_42 posts big blind 400
+Dealt to YL_ML_GL_42 [4s Td]
+*** PRE-FLOP *** 
+Sassoune raises 400 to 800
+GABIN08 folds
+Noctem calls 800
+donjofan2012 raises 12752 to 13552 and is all-in
+Poupee45260 folds
+YL_ML_GL_42 folds
+Sassoune calls 12752
+Noctem raises 42634 to 56186 and is all-in
+Sassoune calls 27012 and is all-in
+*** FLOP *** [Jc Qs 2s]
+*** TURN *** [Jc Qs 2s][6s]
+*** RIVER *** [Jc Qs 2s 6s][Ks]
+*** SHOW DOWN ***
+donjofan2012 shows [Ad 4h] (High card : Ace)
+Sassoune shows [9h Th] (Straight King high)
+Noctem shows [8d 8c] (One pair : 8)
+Noctem collected 15622 from side pot 1
+Sassoune collected 95580 from main pot
+*** SUMMARY ***
+Total pot 111202 | No rake
+Board: [Jc Qs 2s 6s Ks]
+Seat 1: donjofan2012 (button) showed [Ad 4h] and lost with High card : Ace
+Seat 4: Sassoune showed [9h Th] and won 95580 with Straight King high
+Seat 6: Noctem showed [8d 8c] and won 15622 with One pair : 8
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2545594234069581876-39-1668889209 - Holdem no limit (50/200/400) - 2022/11/19 20:20:09 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #2 is the button
+Seat 1: Gandalf_13_ (20000, 2.25€ bounty)
+Seat 2: Poupee45260 (58490, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (7516, 2.25€ bounty)
+Seat 4: Sassoune (95580, 5.05€ bounty)
+Seat 5: GABIN08 (42270, 2.25€ bounty)
+Seat 6: Noctem (15622, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 50
+Sassoune posts ante 50
+Gandalf_13_ posts ante 50
+Poupee45260 posts ante 50
+GABIN08 posts ante 50
+Noctem posts ante 50
+YL_ML_GL_42 posts small blind 200
+Sassoune posts big blind 400
+Dealt to YL_ML_GL_42 [Qs Ks]
+*** PRE-FLOP *** 
+GABIN08 folds
+Noctem folds
+Gandalf_13_ folds
+Poupee45260 raises 800 to 1200
+YL_ML_GL_42 raises 6266 to 7466 and is all-in
+Sassoune raises 16432 to 23898
+Poupee45260 raises 34542 to 58440 and is all-in
+Sassoune folds
+*** FLOP *** [Qd 2h Js]
+*** TURN *** [Qd 2h Js][Qh]
+*** RIVER *** [Qd 2h Js Qh][Jh]
+*** SHOW DOWN ***
+Poupee45260 shows [Kc Kh] (Two pairs : Kings and Queens)
+YL_ML_GL_42 shows [Qs Ks] (Full of Queens and Jacks)
+YL_ML_GL_42 collected 22698 from main pot
+Poupee45260 collected 67406 from side pot 1
+*** SUMMARY ***
+Total pot 90104 | No rake
+Board: [Qd 2h Js Qh Jh]
+Seat 2: Poupee45260 (button) showed [Kc Kh] and won 67406 with Two pairs : Kings and Queens
+Seat 3: YL_ML_GL_42 (small blind) showed [Qs Ks] and won 22698 with Full of Queens and Jacks
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2545594234069581876-40-1668889259 - Holdem no limit (50/200/400) - 2022/11/19 20:20:59 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #3 is the button
+Seat 1: Gandalf_13_ (19950, 2.25€ bounty)
+Seat 2: Poupee45260 (67406, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (22698, 2.25€ bounty)
+Seat 4: Sassoune (71632, 5.05€ bounty)
+Seat 5: GABIN08 (42220, 2.25€ bounty)
+Seat 6: Noctem (15572, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Sassoune posts ante 50
+GABIN08 posts ante 50
+Gandalf_13_ posts ante 50
+Poupee45260 posts ante 50
+YL_ML_GL_42 posts ante 50
+Noctem posts ante 50
+Sassoune posts small blind 200
+GABIN08 posts big blind 400
+Dealt to YL_ML_GL_42 [7c 2c]
+*** PRE-FLOP *** 
+Noctem folds
+Gandalf_13_ folds
+Poupee45260 folds
+YL_ML_GL_42 folds
+Sassoune folds
+GABIN08 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 5: GABIN08 (big blind) won 900
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2545594234069581876-41-1668889278 - Holdem no limit (50/200/400) - 2022/11/19 20:21:18 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #4 is the button
+Seat 1: Gandalf_13_ (19900, 2.25€ bounty)
+Seat 2: Poupee45260 (67356, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (22648, 2.25€ bounty)
+Seat 4: Sassoune (71382, 5.05€ bounty)
+Seat 5: GABIN08 (42670, 2.25€ bounty)
+Seat 6: Noctem (15522, 2.25€ bounty)
+*** ANTE/BLINDS ***
+GABIN08 posts ante 50
+Noctem posts ante 50
+Gandalf_13_ posts ante 50
+Poupee45260 posts ante 50
+YL_ML_GL_42 posts ante 50
+Sassoune posts ante 50
+GABIN08 posts small blind 200
+Noctem posts big blind 400
+Dealt to YL_ML_GL_42 [5d Th]
+*** PRE-FLOP *** 
+Gandalf_13_ calls 400
+Poupee45260 folds
+YL_ML_GL_42 folds
+Sassoune folds
+GABIN08 calls 200
+Noctem checks
+*** FLOP *** [Ad 4s Jc]
+GABIN08 bets 525
+Noctem folds
+Gandalf_13_ folds
+GABIN08 collected 2025 from pot
+*** SUMMARY ***
+Total pot 2025 | No rake
+Board: [Ad 4s Jc]
+Seat 5: GABIN08 (small blind) won 2025
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2545594234069581876-42-1668889314 - Holdem no limit (60/250/500) - 2022/11/19 20:21:54 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #5 is the button
+Seat 1: Gandalf_13_ (19450, 2.25€ bounty)
+Seat 2: Poupee45260 (67306, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (22598, 2.25€ bounty)
+Seat 4: Sassoune (71332, 5.05€ bounty)
+Seat 5: GABIN08 (43720, 2.25€ bounty)
+Seat 6: Noctem (15072, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Noctem posts ante 60
+Gandalf_13_ posts ante 60
+Poupee45260 posts ante 60
+YL_ML_GL_42 posts ante 60
+Sassoune posts ante 60
+GABIN08 posts ante 60
+Noctem posts small blind 250
+Gandalf_13_ posts big blind 500
+Dealt to YL_ML_GL_42 [4h 3c]
+*** PRE-FLOP *** 
+Poupee45260 folds
+YL_ML_GL_42 folds
+Sassoune folds
+GABIN08 folds
+Noctem folds
+Gandalf_13_ collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Seat 1: Gandalf_13_ (big blind) won 1110
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2545594234069581876-43-1668889336 - Holdem no limit (60/250/500) - 2022/11/19 20:22:16 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #6 is the button
+Seat 1: Gandalf_13_ (20000, 2.25€ bounty)
+Seat 2: Poupee45260 (67246, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (22538, 2.25€ bounty)
+Seat 4: Sassoune (71272, 5.05€ bounty)
+Seat 5: GABIN08 (43660, 2.25€ bounty)
+Seat 6: Noctem (14762, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Gandalf_13_ posts ante 60
+Poupee45260 posts ante 60
+YL_ML_GL_42 posts ante 60
+Sassoune posts ante 60
+GABIN08 posts ante 60
+Noctem posts ante 60
+Gandalf_13_ posts small blind 250
+Poupee45260 posts big blind 500
+Dealt to YL_ML_GL_42 [9h Ks]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Sassoune folds
+GABIN08 folds
+Noctem calls 500
+Gandalf_13_ raises 19440 to 19940 and is all-in
+Poupee45260 folds
+Noctem folds
+Gandalf_13_ collected 21300 from pot
+*** SUMMARY ***
+Total pot 21300 | No rake
+Seat 1: Gandalf_13_ (small blind) won 21300
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2545594234069581876-44-1668889406 - Holdem no limit (60/250/500) - 2022/11/19 20:23:26 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #1 is the button
+Seat 1: Gandalf_13_ (21300, 2.25€ bounty)
+Seat 2: Poupee45260 (66686, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (22478, 2.25€ bounty)
+Seat 4: Sassoune (71212, 5.05€ bounty)
+Seat 5: GABIN08 (43600, 2.25€ bounty)
+Seat 6: Noctem (14202, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Poupee45260 posts ante 60
+YL_ML_GL_42 posts ante 60
+Gandalf_13_ posts ante 60
+Sassoune posts ante 60
+GABIN08 posts ante 60
+Noctem posts ante 60
+Poupee45260 posts small blind 250
+YL_ML_GL_42 posts big blind 500
+Dealt to YL_ML_GL_42 [5c 9c]
+*** PRE-FLOP *** 
+Sassoune folds
+GABIN08 folds
+Noctem folds
+Gandalf_13_ folds
+Poupee45260 folds
+YL_ML_GL_42 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Seat 3: YL_ML_GL_42 (big blind) won 1110
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2545594234069581876-45-1668889429 - Holdem no limit (60/250/500) - 2022/11/19 20:23:49 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #2 is the button
+Seat 1: Gandalf_13_ (21240, 2.25€ bounty)
+Seat 2: Poupee45260 (66376, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (23028, 2.25€ bounty)
+Seat 4: Sassoune (71152, 5.05€ bounty)
+Seat 5: GABIN08 (43540, 2.25€ bounty)
+Seat 6: Noctem (14142, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+Sassoune posts ante 60
+Gandalf_13_ posts ante 60
+Poupee45260 posts ante 60
+GABIN08 posts ante 60
+Noctem posts ante 60
+YL_ML_GL_42 posts small blind 250
+Sassoune posts big blind 500
+Dealt to YL_ML_GL_42 [Qd 4s]
+*** PRE-FLOP *** 
+GABIN08 folds
+Noctem raises 500 to 1000
+Gandalf_13_ folds
+Poupee45260 calls 1000
+YL_ML_GL_42 folds
+Sassoune raises 3610 to 4610
+Noctem folds
+Poupee45260 calls 3610
+*** FLOP *** [9c 7d Td]
+Sassoune bets 5250
+Poupee45260 calls 5250
+*** TURN *** [9c 7d Td][Th]
+Sassoune checks
+Poupee45260 bets 7465
+Sassoune raises 36260 to 43725
+Poupee45260 folds
+Sassoune collected 72520 from pot
+*** SUMMARY ***
+Total pot 72520 | No rake
+Board: [9c 7d Td Th]
+Seat 4: Sassoune (big blind) won 72520
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2545594234069581876-46-1668889589 - Holdem no limit (70/300/600) - 2022/11/19 20:26:29 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #3 is the button
+Seat 1: Gandalf_13_ (21180, 2.25€ bounty)
+Seat 2: Poupee45260 (48991, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (22718, 2.25€ bounty)
+Seat 4: Sassoune (90027, 5.05€ bounty)
+Seat 5: GABIN08 (43480, 2.25€ bounty)
+Seat 6: Noctem (13082, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Sassoune posts ante 70
+GABIN08 posts ante 70
+Gandalf_13_ posts ante 70
+Poupee45260 posts ante 70
+YL_ML_GL_42 posts ante 70
+Noctem posts ante 70
+Sassoune posts small blind 300
+GABIN08 posts big blind 600
+Dealt to YL_ML_GL_42 [4s 7d]
+*** PRE-FLOP *** 
+Noctem raises 1200 to 1800
+Gandalf_13_ raises 19310 to 21110 and is all-in
+Poupee45260 folds
+YL_ML_GL_42 folds
+Sassoune folds
+GABIN08 folds
+Noctem calls 11212 and is all-in
+*** FLOP *** [Ts 3h 4d]
+*** TURN *** [Ts 3h 4d][8h]
+*** RIVER *** [Ts 3h 4d 8h][Qh]
+*** SHOW DOWN ***
+Noctem shows [6d 6c] (One pair : 6)
+Gandalf_13_ shows [9s 9c] (One pair : 9)
+Gandalf_13_ collected 35442 from pot
+*** SUMMARY ***
+Total pot 35442 | No rake
+Board: [Ts 3h 4d 8h Qh]
+Seat 1: Gandalf_13_ showed [9s 9c] and won 35442 with One pair : 9
+Seat 6: Noctem showed [6d 6c] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2545594234069581876-47-1668889652 - Holdem no limit (70/300/600) - 2022/11/19 20:27:32 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #4 is the button
+Seat 1: Gandalf_13_ (35442, 3.37€ bounty)
+Seat 2: Poupee45260 (48921, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (22648, 2.25€ bounty)
+Seat 4: Sassoune (89657, 5.05€ bounty)
+Seat 5: GABIN08 (42810, 2.25€ bounty)
+*** ANTE/BLINDS ***
+GABIN08 posts ante 70
+Gandalf_13_ posts ante 70
+Poupee45260 posts ante 70
+YL_ML_GL_42 posts ante 70
+Sassoune posts ante 70
+GABIN08 posts small blind 300
+Gandalf_13_ posts big blind 600
+Dealt to YL_ML_GL_42 [5s Jh]
+*** PRE-FLOP *** 
+Poupee45260 folds
+YL_ML_GL_42 folds
+Sassoune folds
+GABIN08 folds
+Gandalf_13_ collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Seat 1: Gandalf_13_ (big blind) won 1250
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2545594234069581876-48-1668889665 - Holdem no limit (70/300/600) - 2022/11/19 20:27:45 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #5 is the button
+Seat 1: Gandalf_13_ (36022, 3.37€ bounty)
+Seat 2: Poupee45260 (48851, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (22578, 2.25€ bounty)
+Seat 4: Sassoune (89587, 5.05€ bounty)
+Seat 5: GABIN08 (42440, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Gandalf_13_ posts ante 70
+Poupee45260 posts ante 70
+YL_ML_GL_42 posts ante 70
+Sassoune posts ante 70
+GABIN08 posts ante 70
+Gandalf_13_ posts small blind 300
+Poupee45260 posts big blind 600
+Dealt to YL_ML_GL_42 [9c Ks]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Sassoune folds
+GABIN08 folds
+Gandalf_13_ folds
+Poupee45260 collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Seat 2: Poupee45260 (big blind) won 1250
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2545594234069581876-49-1668889704 - Holdem no limit (70/300/600) - 2022/11/19 20:28:24 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #1 is the button
+Seat 1: Gandalf_13_ (35652, 3.37€ bounty)
+Seat 2: Poupee45260 (49431, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (22508, 2.25€ bounty)
+Seat 4: Sassoune (89517, 5.05€ bounty)
+Seat 5: GABIN08 (42370, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Poupee45260 posts ante 70
+YL_ML_GL_42 posts ante 70
+Gandalf_13_ posts ante 70
+Sassoune posts ante 70
+GABIN08 posts ante 70
+Poupee45260 posts small blind 300
+YL_ML_GL_42 posts big blind 600
+Dealt to YL_ML_GL_42 [8s Tc]
+*** PRE-FLOP *** 
+Sassoune raises 600 to 1200
+GABIN08 folds
+Gandalf_13_ folds
+Poupee45260 calls 900
+YL_ML_GL_42 calls 600
+*** FLOP *** [3c 2c 5s]
+Poupee45260 checks
+YL_ML_GL_42 checks
+Sassoune checks
+*** TURN *** [3c 2c 5s][9h]
+Poupee45260 checks
+YL_ML_GL_42 checks
+Sassoune bets 1383
+Poupee45260 calls 1383
+YL_ML_GL_42 folds
+*** RIVER *** [3c 2c 5s 9h][7h]
+Poupee45260 checks
+Sassoune checks
+*** SHOW DOWN ***
+Poupee45260 shows [8c Kc] (High card : King)
+Sassoune shows [6d 7d] (One pair : 7)
+Sassoune collected 6716 from pot
+*** SUMMARY ***
+Total pot 6716 | No rake
+Board: [3c 2c 5s 9h 7h]
+Seat 2: Poupee45260 (small blind) showed [8c Kc] and lost with High card : King
+Seat 4: Sassoune showed [6d 7d] and won 6716 with One pair : 7
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2545594234069581876-50-1668889830 - Holdem no limit (70/300/600) - 2022/11/19 20:30:30 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #2 is the button
+Seat 1: Gandalf_13_ (35582, 3.37€ bounty)
+Seat 2: Poupee45260 (46778, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (21238, 2.25€ bounty)
+Seat 4: Sassoune (93580, 5.05€ bounty)
+Seat 5: GABIN08 (42300, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 70
+Sassoune posts ante 70
+Gandalf_13_ posts ante 70
+Poupee45260 posts ante 70
+GABIN08 posts ante 70
+YL_ML_GL_42 posts small blind 300
+Sassoune posts big blind 600
+Dealt to YL_ML_GL_42 [4s 4h]
+*** PRE-FLOP *** 
+GABIN08 folds
+Gandalf_13_ folds
+Poupee45260 folds
+YL_ML_GL_42 raises 900 to 1500
+Sassoune folds
+YL_ML_GL_42 collected 2450 from pot
+*** SUMMARY ***
+Total pot 2450 | No rake
+Seat 3: YL_ML_GL_42 (small blind) won 2450
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2545594234069581876-51-1668889856 - Holdem no limit (70/300/600) - 2022/11/19 20:30:56 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #3 is the button
+Seat 1: Gandalf_13_ (35512, 3.37€ bounty)
+Seat 2: Poupee45260 (46708, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (22118, 2.25€ bounty)
+Seat 4: Sassoune (92910, 5.05€ bounty)
+Seat 5: GABIN08 (42230, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Sassoune posts ante 70
+GABIN08 posts ante 70
+Gandalf_13_ posts ante 70
+Poupee45260 posts ante 70
+YL_ML_GL_42 posts ante 70
+Sassoune posts small blind 300
+GABIN08 posts big blind 600
+Dealt to YL_ML_GL_42 [7s 5s]
+*** PRE-FLOP *** 
+Gandalf_13_ folds
+Poupee45260 folds
+YL_ML_GL_42 raises 900 to 1500
+Sassoune folds
+GABIN08 raises 40660 to 42160 and is all-in
+YL_ML_GL_42 folds
+GABIN08 collected 44310 from pot
+*** SUMMARY ***
+Total pot 44310 | No rake
+Seat 5: GABIN08 (big blind) won 44310
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2545594234069581876-52-1668889889 - Holdem no limit (80/350/700) - 2022/11/19 20:31:29 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #4 is the button
+Seat 1: Gandalf_13_ (35442, 3.37€ bounty)
+Seat 2: Poupee45260 (46638, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (20548, 2.25€ bounty)
+Seat 4: Sassoune (92540, 5.05€ bounty)
+Seat 5: GABIN08 (44310, 2.25€ bounty)
+*** ANTE/BLINDS ***
+GABIN08 posts ante 80
+Gandalf_13_ posts ante 80
+Poupee45260 posts ante 80
+YL_ML_GL_42 posts ante 80
+Sassoune posts ante 80
+GABIN08 posts small blind 350
+Gandalf_13_ posts big blind 700
+Dealt to YL_ML_GL_42 [4s Kh]
+*** PRE-FLOP *** 
+Poupee45260 folds
+YL_ML_GL_42 folds
+Sassoune folds
+GABIN08 folds
+Gandalf_13_ collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Seat 1: Gandalf_13_ (big blind) won 1450
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2545594234069581876-53-1668889914 - Holdem no limit (80/350/700) - 2022/11/19 20:31:54 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #5 is the button
+Seat 1: Gandalf_13_ (36112, 3.37€ bounty)
+Seat 2: Poupee45260 (46558, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (20468, 2.25€ bounty)
+Seat 4: Sassoune (92460, 5.05€ bounty)
+Seat 5: GABIN08 (43880, 2.25€ bounty)
+Seat 6: sharkkilou (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Gandalf_13_ posts ante 80
+Poupee45260 posts ante 80
+YL_ML_GL_42 posts ante 80
+Sassoune posts ante 80
+GABIN08 posts ante 80
+Gandalf_13_ posts small blind 350
+Poupee45260 posts big blind 700
+Dealt to YL_ML_GL_42 [3c 4d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Sassoune folds
+GABIN08 calls 700
+Gandalf_13_ folds
+Poupee45260 checks
+*** FLOP *** [3s Qh 9h]
+Poupee45260 checks
+GABIN08 checks
+*** TURN *** [3s Qh 9h][Ts]
+Poupee45260 checks
+GABIN08 checks
+*** RIVER *** [3s Qh 9h Ts][Ac]
+Poupee45260 checks
+GABIN08 bets 1075
+Poupee45260 folds
+GABIN08 collected 3225 from pot
+*** SUMMARY ***
+Total pot 3225 | No rake
+Board: [3s Qh 9h Ts Ac]
+Seat 5: GABIN08 (button) won 3225
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2545594234069581876-54-1668889957 - Holdem no limit (80/350/700) - 2022/11/19 20:32:37 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #1 is the button
+Seat 1: Gandalf_13_ (35682, 3.37€ bounty)
+Seat 2: Poupee45260 (45778, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (20388, 2.25€ bounty)
+Seat 4: Sassoune (92380, 5.05€ bounty)
+Seat 5: GABIN08 (45250, 2.25€ bounty)
+Seat 6: sharkkilou (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Poupee45260 posts ante 80
+YL_ML_GL_42 posts ante 80
+Gandalf_13_ posts ante 80
+Sassoune posts ante 80
+GABIN08 posts ante 80
+sharkkilou posts ante 80
+Poupee45260 posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [Ks Ah]
+*** PRE-FLOP *** 
+Sassoune raises 700 to 1400
+GABIN08 calls 1400
+sharkkilou raises 18520 to 19920 and is all-in
+Gandalf_13_ folds
+Poupee45260 folds
+YL_ML_GL_42 raises 388 to 20308 and is all-in
+Sassoune calls 18908
+GABIN08 folds
+*** FLOP *** [Ts 8d 4h]
+*** TURN *** [Ts 8d 4h][3c]
+*** RIVER *** [Ts 8d 4h 3c][7d]
+*** SHOW DOWN ***
+Sassoune shows [Ad 5d] (High card : Ace)
+YL_ML_GL_42 shows [Ks Ah] (High card : Ace)
+sharkkilou shows [Jd Js] (One pair : Jacks)
+sharkkilou collected 61990 from main pot
+YL_ML_GL_42 collected 776 from side pot 1
+*** SUMMARY ***
+Total pot 62766 | No rake
+Board: [Ts 8d 4h 3c 7d]
+Seat 3: YL_ML_GL_42 (big blind) showed [Ks Ah] and won 776 with High card : Ace
+Seat 4: Sassoune showed [Ad 5d] and lost with High card : Ace
+Seat 6: sharkkilou showed [Jd Js] and won 61990 with One pair : Jacks
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2545594234069581876-55-1668890049 - Holdem no limit (80/350/700) - 2022/11/19 20:34:09 UTC
+Table: 'POUR LA DARONNE(592692344)#0051' 6-max (real money) Seat #2 is the button
+Seat 1: Gandalf_13_ (35602, 3.37€ bounty)
+Seat 2: Poupee45260 (45348, 4.49€ bounty)
+Seat 3: YL_ML_GL_42 (776, 2.25€ bounty)
+Seat 4: Sassoune (71992, 5.05€ bounty)
+Seat 5: GABIN08 (43770, 2.25€ bounty)
+Seat 6: sharkkilou (61990, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+Sassoune posts ante 80
+Gandalf_13_ posts ante 80
+Poupee45260 posts ante 80
+GABIN08 posts ante 80
+sharkkilou posts ante 80
+YL_ML_GL_42 posts small blind 350
+Sassoune posts big blind 700
+Dealt to YL_ML_GL_42 [8s Js]
+*** PRE-FLOP *** 
+GABIN08 folds
+sharkkilou calls 700
+Gandalf_13_ folds
+Poupee45260 raises 1400 to 2100
+YL_ML_GL_42 calls 346 and is all-in
+Sassoune folds
+sharkkilou calls 1400
+*** FLOP *** [9s 2s 2d]
+sharkkilou checks
+Poupee45260 bets 2127
+sharkkilou folds
+*** TURN *** [9s 2s 2d][Ad]
+*** RIVER *** [9s 2s 2d Ad][7c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [8s Js] (One pair : 2)
+Poupee45260 shows [Qc As] (Two pairs : Aces and 2)
+Poupee45260 collected 8203 from pot
+*** SUMMARY ***
+Total pot 8203 | No rake
+Board: [9s 2s 2d Ad 7c]
+Seat 2: Poupee45260 (button) showed [Qc As] and won 8203 with Two pairs : Aces and 2
+Seat 3: YL_ML_GL_42 (small blind) showed [8s Js] and lost with One pair : 2
+
+

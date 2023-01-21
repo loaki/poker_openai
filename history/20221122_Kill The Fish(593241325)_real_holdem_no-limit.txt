@@ -1,0 +1,368 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 39 - HandId: #2547952089510707232-4-1669135683 - Holdem no limit (25/100/200) - 2022/11/22 16:48:03 UTC
+Table: 'Kill The Fish(593241325)#031' 6-max (real money) Seat #5 is the button
+Seat 1: Jgobibi (2625, 0.11€ bounty)
+Seat 2: DUCHE80 (19287, 0.11€ bounty)
+Seat 3: Winakrasse (25611, 0.11€ bounty)
+Seat 4: YL_ML_GL_42 (20000, 0.11€ bounty)
+Seat 5: Teuflacoste (19625, 0.11€ bounty)
+Seat 6: jejelili (25248, 0.11€ bounty)
+*** ANTE/BLINDS ***
+jejelili posts ante 25
+Jgobibi posts ante 25
+DUCHE80 posts ante 25
+Winakrasse posts ante 25
+YL_ML_GL_42 posts ante 25
+Teuflacoste posts ante 25
+jejelili posts small blind 100
+Jgobibi posts big blind 200
+Dealt to YL_ML_GL_42 [6d 4c]
+*** PRE-FLOP *** 
+DUCHE80 calls 200
+Winakrasse calls 200
+YL_ML_GL_42 folds
+Teuflacoste calls 200
+jejelili calls 100
+Jgobibi checks
+*** FLOP *** [4d 3s Td]
+jejelili checks
+Jgobibi checks
+DUCHE80 checks
+Winakrasse checks
+Teuflacoste bets 1150
+jejelili folds
+Jgobibi folds
+DUCHE80 folds
+Winakrasse folds
+Teuflacoste collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Board: [4d 3s Td]
+Seat 5: Teuflacoste (button) won 2300
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 39 - HandId: #2547952089510707232-5-1669135739 - Holdem no limit (25/100/200) - 2022/11/22 16:48:59 UTC
+Table: 'Kill The Fish(593241325)#031' 6-max (real money) Seat #6 is the button
+Seat 1: Jgobibi (2400, 0.11€ bounty)
+Seat 2: DUCHE80 (19062, 0.11€ bounty)
+Seat 3: Winakrasse (25386, 0.11€ bounty)
+Seat 4: YL_ML_GL_42 (19975, 0.11€ bounty)
+Seat 5: Teuflacoste (20550, 0.11€ bounty)
+Seat 6: jejelili (25023, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Jgobibi posts ante 25
+DUCHE80 posts ante 25
+Winakrasse posts ante 25
+YL_ML_GL_42 posts ante 25
+Teuflacoste posts ante 25
+jejelili posts ante 25
+Jgobibi posts small blind 100
+DUCHE80 posts big blind 200
+Dealt to YL_ML_GL_42 [6c 5h]
+*** PRE-FLOP *** 
+Winakrasse raises 4666 to 4866
+YL_ML_GL_42 folds
+Teuflacoste folds
+jejelili folds
+Jgobibi folds
+DUCHE80 folds
+Winakrasse collected 5316 from pot
+*** SUMMARY ***
+Total pot 5316 | No rake
+Seat 3: Winakrasse won 5316
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 39 - HandId: #2547952089510707232-6-1669135771 - Holdem no limit (25/100/200) - 2022/11/22 16:49:31 UTC
+Table: 'Kill The Fish(593241325)#031' 6-max (real money) Seat #1 is the button
+Seat 1: Jgobibi (2275, 0.11€ bounty)
+Seat 2: DUCHE80 (18837, 0.11€ bounty)
+Seat 3: Winakrasse (25811, 0.11€ bounty)
+Seat 4: YL_ML_GL_42 (19950, 0.11€ bounty)
+Seat 5: Teuflacoste (20525, 0.11€ bounty)
+Seat 6: jejelili (24998, 0.11€ bounty)
+*** ANTE/BLINDS ***
+DUCHE80 posts ante 25
+Winakrasse posts ante 25
+Jgobibi posts ante 25
+YL_ML_GL_42 posts ante 25
+Teuflacoste posts ante 25
+jejelili posts ante 25
+DUCHE80 posts small blind 100
+Winakrasse posts big blind 200
+Dealt to YL_ML_GL_42 [Js 5c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Teuflacoste calls 200
+jejelili folds
+Jgobibi folds
+DUCHE80 calls 100
+Winakrasse checks
+*** FLOP *** [8s Ah 4s]
+DUCHE80 bets 200
+Winakrasse calls 200
+Teuflacoste calls 200
+*** TURN *** [8s Ah 4s][8h]
+DUCHE80 bets 200
+Winakrasse raises 483 to 683
+Teuflacoste calls 683
+DUCHE80 calls 483
+*** RIVER *** [8s Ah 4s 8h][Jd]
+DUCHE80 checks
+Winakrasse bets 24703 and is all-in
+Teuflacoste calls 19417 and is all-in
+DUCHE80 folds
+*** SHOW DOWN ***
+Teuflacoste shows [3d Ac] (Two pairs : Aces and 8)
+Winakrasse shows [8c 9h] (Trips of 8)
+Winakrasse collected 47519 from pot
+*** SUMMARY ***
+Total pot 47519 | No rake
+Board: [8s Ah 4s 8h Jd]
+Seat 3: Winakrasse (big blind) showed [8c 9h] and won 47519 with Trips of 8
+Seat 5: Teuflacoste showed [3d Ac] and lost with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 39 - HandId: #2547952089510707232-7-1669135817 - Holdem no limit (25/100/200) - 2022/11/22 16:50:17 UTC
+Table: 'Kill The Fish(593241325)#031' 6-max (real money) Seat #2 is the button
+Seat 1: Jgobibi (2250, 0.11€ bounty)
+Seat 2: DUCHE80 (17729, 0.11€ bounty)
+Seat 3: Winakrasse (47519, 0.16€ bounty)
+Seat 4: YL_ML_GL_42 (19925, 0.11€ bounty)
+Seat 6: jejelili (24973, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Winakrasse posts ante 25
+YL_ML_GL_42 posts ante 25
+Jgobibi posts ante 25
+DUCHE80 posts ante 25
+jejelili posts ante 25
+Winakrasse posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [2h As]
+*** PRE-FLOP *** 
+jejelili folds
+Jgobibi folds
+DUCHE80 folds
+Winakrasse calls 100
+YL_ML_GL_42 checks
+*** FLOP *** [8d Jc 7s]
+Winakrasse checks
+YL_ML_GL_42 checks
+*** TURN *** [8d Jc 7s][Ah]
+Winakrasse checks
+YL_ML_GL_42 checks
+*** RIVER *** [8d Jc 7s Ah][8h]
+Winakrasse checks
+YL_ML_GL_42 bets 420
+Winakrasse folds
+YL_ML_GL_42 collected 945 from pot
+*** SUMMARY ***
+Total pot 945 | No rake
+Board: [8d Jc 7s Ah 8h]
+Seat 4: YL_ML_GL_42 (big blind) won 945
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 39 - HandId: #2547952089510707232-8-1669135846 - Holdem no limit (25/100/200) - 2022/11/22 16:50:46 UTC
+Table: 'Kill The Fish(593241325)#031' 6-max (real money) Seat #3 is the button
+Seat 1: Jgobibi (2225, 0.11€ bounty)
+Seat 2: DUCHE80 (17704, 0.11€ bounty)
+Seat 3: Winakrasse (47294, 0.16€ bounty)
+Seat 4: YL_ML_GL_42 (20225, 0.11€ bounty)
+Seat 5: tibbi (20000, 0.11€ bounty)
+Seat 6: jejelili (24948, 0.11€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+tibbi posts ante 25
+Jgobibi posts ante 25
+DUCHE80 posts ante 25
+Winakrasse posts ante 25
+jejelili posts ante 25
+YL_ML_GL_42 posts small blind 100
+tibbi posts big blind 200
+Dealt to YL_ML_GL_42 [7d Ks]
+*** PRE-FLOP *** 
+jejelili folds
+Jgobibi folds
+DUCHE80 calls 200
+Winakrasse calls 200
+YL_ML_GL_42 calls 100
+tibbi checks
+*** FLOP *** [Ah Jc 3s]
+YL_ML_GL_42 checks
+tibbi checks
+DUCHE80 bets 950
+Winakrasse calls 950
+YL_ML_GL_42 folds
+tibbi folds
+*** TURN *** [Ah Jc 3s][7h]
+DUCHE80 bets 16529 and is all-in
+Winakrasse folds
+DUCHE80 collected 19379 from pot
+*** SUMMARY ***
+Total pot 19379 | No rake
+Board: [Ah Jc 3s 7h]
+Seat 2: DUCHE80 won 19379
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 39 - HandId: #2547952089510707232-9-1669135913 - Holdem no limit (25/100/200) - 2022/11/22 16:51:53 UTC
+Table: 'Kill The Fish(593241325)#031' 6-max (real money) Seat #4 is the button
+Seat 1: Jgobibi (2200, 0.11€ bounty)
+Seat 2: DUCHE80 (19379, 0.11€ bounty)
+Seat 3: Winakrasse (46119, 0.16€ bounty)
+Seat 4: YL_ML_GL_42 (20000, 0.11€ bounty)
+Seat 5: tibbi (19775, 0.11€ bounty)
+Seat 6: jejelili (24923, 0.11€ bounty)
+*** ANTE/BLINDS ***
+tibbi posts ante 25
+jejelili posts ante 25
+Jgobibi posts ante 25
+DUCHE80 posts ante 25
+Winakrasse posts ante 25
+YL_ML_GL_42 posts ante 25
+tibbi posts small blind 100
+jejelili posts big blind 200
+Dealt to YL_ML_GL_42 [8d 2s]
+*** PRE-FLOP *** 
+Jgobibi folds
+DUCHE80 calls 200
+Winakrasse raises 850 to 1050
+YL_ML_GL_42 folds
+tibbi folds
+jejelili folds
+DUCHE80 folds
+Winakrasse collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 3: Winakrasse won 1700
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 39 - HandId: #2547952089510707232-10-1669135942 - Holdem no limit (25/100/200) - 2022/11/22 16:52:22 UTC
+Table: 'Kill The Fish(593241325)#031' 6-max (real money) Seat #5 is the button
+Seat 1: Jgobibi (2175, 0.11€ bounty)
+Seat 2: DUCHE80 (19154, 0.11€ bounty)
+Seat 3: Winakrasse (46744, 0.16€ bounty)
+Seat 4: YL_ML_GL_42 (19975, 0.11€ bounty)
+Seat 5: tibbi (19650, 0.11€ bounty)
+Seat 6: jejelili (24698, 0.11€ bounty)
+*** ANTE/BLINDS ***
+jejelili posts ante 25
+Jgobibi posts ante 25
+DUCHE80 posts ante 25
+Winakrasse posts ante 25
+YL_ML_GL_42 posts ante 25
+tibbi posts ante 25
+jejelili posts small blind 100
+Jgobibi posts big blind 200
+Dealt to YL_ML_GL_42 [7d Ah]
+*** PRE-FLOP *** 
+DUCHE80 calls 200
+Winakrasse raises 400 to 600
+YL_ML_GL_42 raises 1850 to 2450
+tibbi folds
+jejelili folds
+Jgobibi folds
+DUCHE80 calls 2250
+Winakrasse folds
+*** FLOP *** [4c 5d 5h]
+DUCHE80 checks
+YL_ML_GL_42 checks
+*** TURN *** [4c 5d 5h][As]
+DUCHE80 checks
+YL_ML_GL_42 bets 2975
+DUCHE80 raises 13704 to 16679 and is all-in
+YL_ML_GL_42 calls 13704
+*** RIVER *** [4c 5d 5h As][8h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7d Ah] (Two pairs : Aces and 5)
+DUCHE80 shows [5c 5s] (Quads of 5)
+DUCHE80 collected 39308 from pot
+*** SUMMARY ***
+Total pot 39308 | No rake
+Board: [4c 5d 5h As 8h]
+Seat 2: DUCHE80 showed [5c 5s] and won 39308 with Quads of 5
+Seat 4: YL_ML_GL_42 showed [7d Ah] and lost with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 39 - HandId: #2547952089510707232-11-1669135992 - Holdem no limit (25/100/200) - 2022/11/22 16:53:12 UTC
+Table: 'Kill The Fish(593241325)#031' 6-max (real money) Seat #6 is the button
+Seat 1: Jgobibi (1950, 0.11€ bounty)
+Seat 2: DUCHE80 (39308, 0.11€ bounty)
+Seat 3: Winakrasse (46119, 0.16€ bounty)
+Seat 4: YL_ML_GL_42 (821, 0.11€ bounty)
+Seat 5: tibbi (19625, 0.11€ bounty)
+Seat 6: jejelili (24573, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Jgobibi posts ante 25
+DUCHE80 posts ante 25
+Winakrasse posts ante 25
+YL_ML_GL_42 posts ante 25
+tibbi posts ante 25
+jejelili posts ante 25
+Jgobibi posts small blind 100
+DUCHE80 posts big blind 200
+Dealt to YL_ML_GL_42 [Kh 4c]
+*** PRE-FLOP *** 
+Winakrasse calls 200
+YL_ML_GL_42 folds
+tibbi raises 400 to 600
+jejelili folds
+Jgobibi folds
+DUCHE80 calls 400
+Winakrasse folds
+*** FLOP *** [Qc Jh 2c]
+DUCHE80 checks
+tibbi bets 578
+DUCHE80 folds
+tibbi collected 2228 from pot
+*** SUMMARY ***
+Total pot 2228 | No rake
+Board: [Qc Jh 2c]
+Seat 5: tibbi won 2228
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 39 - HandId: #2547952089510707232-13-1669136094 - Holdem no limit (25/100/200) - 2022/11/22 16:54:54 UTC
+Table: 'Kill The Fish(593241325)#031' 6-max (real money) Seat #2 is the button
+Seat 1: Jgobibi (1800, 0.11€ bounty)
+Seat 2: DUCHE80 (39608, 0.11€ bounty)
+Seat 3: Winakrasse (45669, 0.16€ bounty)
+Seat 4: YL_ML_GL_42 (771, 0.11€ bounty)
+Seat 5: tibbi (20625, 0.11€ bounty)
+Seat 6: jejelili (23923, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Winakrasse posts ante 25
+YL_ML_GL_42 posts ante 25
+Jgobibi posts ante 25
+DUCHE80 posts ante 25
+tibbi posts ante 25
+jejelili posts ante 25
+Winakrasse posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Kd 6s]
+*** PRE-FLOP *** 
+tibbi raises 400 to 600
+jejelili calls 600
+Jgobibi folds
+DUCHE80 folds
+Winakrasse calls 500
+YL_ML_GL_42 raises 146 to 746 and is all-in
+tibbi calls 146
+jejelili calls 146
+Winakrasse calls 146
+*** FLOP *** [4c 2d 5s]
+Winakrasse bets 44898 and is all-in
+tibbi calls 19854 and is all-in
+jejelili folds
+*** TURN *** [4c 2d 5s][4s]
+*** RIVER *** [4c 2d 5s 4s][Qs]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kd 6s] (One pair : 4)
+Winakrasse shows [4d 9c] (Trips of 4)
+tibbi shows [As 9s] (Flush Ace high)
+tibbi collected 42842 from main pot
+Winakrasse collected 25044 from side pot 1
+*** SUMMARY ***
+Total pot 67886 | No rake
+Board: [4c 2d 5s 4s Qs]
+Seat 3: Winakrasse (small blind) showed [4d 9c] and won 25044 with Trips of 4
+Seat 4: YL_ML_GL_42 (big blind) showed [Kd 6s] and lost with One pair : 4
+Seat 5: tibbi showed [As 9s] and won 42842 with Flush Ace high
+
+

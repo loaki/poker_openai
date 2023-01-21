@@ -1,0 +1,200 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2592226480708648961-1-1669131524 - Holdem no limit (10/20) - 2022/11/22 15:38:44 UTC
+Table: 'Expresso(603549760)#0' 3-max (real money) Seat #2 is the button
+Seat 1: lefouduvar (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Manu82700 (500)
+*** ANTE/BLINDS ***
+Manu82700 posts small blind 10
+lefouduvar posts big blind 20
+Dealt to YL_ML_GL_42 [8d 3c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Manu82700 calls 10
+lefouduvar checks
+*** FLOP *** [Kd Jd Th]
+Manu82700 checks
+lefouduvar checks
+*** TURN *** [Kd Jd Th][Js]
+Manu82700 checks
+lefouduvar checks
+*** RIVER *** [Kd Jd Th Js][8h]
+Manu82700 checks
+lefouduvar checks
+*** SHOW DOWN ***
+Manu82700 shows [4h Qd] (One pair : Jacks)
+lefouduvar shows [5d Tc] (Two pairs : Jacks and Tens)
+lefouduvar collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Kd Jd Th Js 8h]
+Seat 1: lefouduvar (big blind) showed [5d Tc] and won 40 with Two pairs : Jacks and Tens
+Seat 3: Manu82700 (small blind) showed [4h Qd] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2592226480708648961-2-1669131543 - Holdem no limit (10/20) - 2022/11/22 15:39:03 UTC
+Table: 'Expresso(603549760)#0' 3-max (real money) Seat #3 is the button
+Seat 1: lefouduvar (520)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Manu82700 (480)
+*** ANTE/BLINDS ***
+lefouduvar posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [4s 9c]
+*** PRE-FLOP *** 
+Manu82700 calls 20
+lefouduvar folds
+YL_ML_GL_42 checks
+*** FLOP *** [5c Qs Ah]
+YL_ML_GL_42 checks
+Manu82700 checks
+*** TURN *** [5c Qs Ah][6c]
+YL_ML_GL_42 checks
+Manu82700 checks
+*** RIVER *** [5c Qs Ah 6c][8h]
+YL_ML_GL_42 checks
+Manu82700 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [4s 9c] (High card : Ace)
+Manu82700 shows [7d 5d] (One pair : 5)
+Manu82700 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [5c Qs Ah 6c 8h]
+Seat 2: YL_ML_GL_42 (big blind) showed [4s 9c] and lost with High card : Ace
+Seat 3: Manu82700 (button) showed [7d 5d] and won 50 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2592226480708648961-3-1669131562 - Holdem no limit (10/20) - 2022/11/22 15:39:22 UTC
+Table: 'Expresso(603549760)#0' 3-max (real money) Seat #1 is the button
+Seat 1: lefouduvar (510)
+Seat 2: YL_ML_GL_42 (480)
+Seat 3: Manu82700 (510)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Manu82700 posts big blind 20
+Dealt to YL_ML_GL_42 [Kc 4h]
+*** PRE-FLOP *** 
+lefouduvar folds
+YL_ML_GL_42 raises 40 to 60
+Manu82700 calls 40
+*** FLOP *** [Kd 9d 3s]
+YL_ML_GL_42 bets 78
+Manu82700 folds
+YL_ML_GL_42 collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [Kd 9d 3s]
+Seat 2: YL_ML_GL_42 (small blind) won 198
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2592226480708648961-4-1669131579 - Holdem no limit (10/20) - 2022/11/22 15:39:39 UTC
+Table: 'Expresso(603549760)#0' 3-max (real money) Seat #2 is the button
+Seat 1: lefouduvar (510)
+Seat 2: YL_ML_GL_42 (540)
+Seat 3: Manu82700 (450)
+*** ANTE/BLINDS ***
+Manu82700 posts small blind 10
+lefouduvar posts big blind 20
+Dealt to YL_ML_GL_42 [Ts Kc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 40 to 60
+Manu82700 folds
+lefouduvar raises 450 to 510 and is all-in
+YL_ML_GL_42 calls 450
+*** FLOP *** [9h Qs 7h]
+*** TURN *** [9h Qs 7h][Ks]
+*** RIVER *** [9h Qs 7h Ks][3s]
+*** SHOW DOWN ***
+lefouduvar shows [Ah 4d] (High card : Ace)
+YL_ML_GL_42 shows [Ts Kc] (One pair : Kings)
+YL_ML_GL_42 collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Board: [9h Qs 7h Ks 3s]
+Seat 1: lefouduvar (big blind) showed [Ah 4d] and lost with High card : Ace
+Seat 2: YL_ML_GL_42 (button) showed [Ts Kc] and won 1030 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2592226480708648961-5-1669131604 - Holdem no limit (10/20) - 2022/11/22 15:40:04 UTC
+Table: 'Expresso(603549760)#0' 3-max (real money) Seat #2 is the button
+Seat 2: YL_ML_GL_42 (1060)
+Seat 3: Manu82700 (440)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Manu82700 posts big blind 20
+Dealt to YL_ML_GL_42 [Kd 7h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 40 to 60
+Manu82700 calls 40
+*** FLOP *** [Kc Ts 6h]
+Manu82700 checks
+YL_ML_GL_42 bets 96
+Manu82700 calls 96
+*** TURN *** [Kc Ts 6h][6d]
+Manu82700 checks
+YL_ML_GL_42 bets 250
+Manu82700 calls 250
+*** RIVER *** [Kc Ts 6h 6d][Jd]
+Manu82700 bets 34 and is all-in
+YL_ML_GL_42 calls 34
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kd 7h] (Two pairs : Kings and 6)
+Manu82700 shows [9h Qh] (Straight King high)
+Manu82700 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [Kc Ts 6h 6d Jd]
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [Kd 7h] and lost with Two pairs : Kings and 6
+Seat 3: Manu82700 (big blind) showed [9h Qh] and won 880 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2592226480708648961-6-1669131639 - Holdem no limit (15/30) - 2022/11/22 15:40:39 UTC
+Table: 'Expresso(603549760)#0' 3-max (real money) Seat #3 is the button
+Seat 2: YL_ML_GL_42 (620)
+Seat 3: Manu82700 (880)
+*** ANTE/BLINDS ***
+Manu82700 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Ks Ad]
+*** PRE-FLOP *** 
+Manu82700 calls 15
+YL_ML_GL_42 raises 590 to 620 and is all-in
+Manu82700 folds
+YL_ML_GL_42 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 650
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2592226480708648961-7-1669131648 - Holdem no limit (15/30) - 2022/11/22 15:40:48 UTC
+Table: 'Expresso(603549760)#0' 3-max (real money) Seat #2 is the button
+Seat 2: YL_ML_GL_42 (650)
+Seat 3: Manu82700 (850)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Manu82700 posts big blind 30
+Dealt to YL_ML_GL_42 [Qs 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+Manu82700 calls 60
+*** FLOP *** [9s 7s Kh]
+Manu82700 checks
+YL_ML_GL_42 checks
+*** TURN *** [9s 7s Kh][3s]
+Manu82700 checks
+YL_ML_GL_42 checks
+*** RIVER *** [9s 7s Kh 3s][Qh]
+Manu82700 bets 180
+YL_ML_GL_42 raises 380 to 560 and is all-in
+Manu82700 calls 380
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Qs 4c] (One pair : Queens)
+Manu82700 shows [9c Qd] (Two pairs : Queens and 9)
+Manu82700 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Board: [9s 7s Kh 3s Qh]
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [Qs 4c] and lost with One pair : Queens
+Seat 3: Manu82700 (big blind) showed [9c Qd] and won 1300 with Two pairs : Queens and 9
+
+

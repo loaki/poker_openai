@@ -1,0 +1,104 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2629091842867593217-1-1671114232 - Holdem no limit (10/20) - 2022/12/15 14:23:52 UTC
+Table: 'Expresso(612133146)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Alexp91450 (500)
+Seat 2: delphinou44 (500)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+delphinou44 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [5h 2h]
+*** PRE-FLOP *** 
+Alexp91450 calls 20
+delphinou44 calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [Td 8h Tc]
+delphinou44 checks
+YL_ML_GL_42 checks
+Alexp91450 checks
+*** TURN *** [Td 8h Tc][3h]
+delphinou44 checks
+YL_ML_GL_42 checks
+Alexp91450 checks
+*** RIVER *** [Td 8h Tc 3h][3s]
+delphinou44 checks
+YL_ML_GL_42 checks
+Alexp91450 checks
+*** SHOW DOWN ***
+delphinou44 shows [9c 2c] (Two pairs : Tens and 3)
+YL_ML_GL_42 shows [5h 2h] (Two pairs : Tens and 3)
+Alexp91450 shows [6d Jh] (Two pairs : Tens and 3)
+Alexp91450 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Td 8h Tc 3h 3s]
+Seat 1: Alexp91450 (button) showed [6d Jh] and won 60 with Two pairs : Tens and 3
+Seat 2: delphinou44 (small blind) showed [9c 2c] and lost with Two pairs : Tens and 3
+Seat 3: YL_ML_GL_42 (big blind) showed [5h 2h] and lost with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2629091842867593217-2-1671114259 - Holdem no limit (10/20) - 2022/12/15 14:24:19 UTC
+Table: 'Expresso(612133146)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Alexp91450 (540)
+Seat 2: delphinou44 (480)
+Seat 3: YL_ML_GL_42 (480)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Alexp91450 posts big blind 20
+Dealt to YL_ML_GL_42 [5h 7c]
+*** PRE-FLOP *** 
+delphinou44 calls 20
+YL_ML_GL_42 folds
+Alexp91450 checks
+*** FLOP *** [Jd 2s Qh]
+Alexp91450 bets 20
+delphinou44 calls 20
+*** TURN *** [Jd 2s Qh][Th]
+Alexp91450 bets 20
+delphinou44 calls 20
+*** RIVER *** [Jd 2s Qh Th][Kd]
+Alexp91450 checks
+delphinou44 checks
+*** SHOW DOWN ***
+delphinou44 shows [Qc Jh] (Two pairs : Queens and Jacks)
+Alexp91450 shows [As 2c] (Straight Ace high)
+Alexp91450 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [Jd 2s Qh Th Kd]
+Seat 1: Alexp91450 (big blind) showed [As 2c] and won 130 with Straight Ace high
+Seat 2: delphinou44 (button) showed [Qc Jh] and lost with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2629091842867593217-3-1671114288 - Holdem no limit (10/20) - 2022/12/15 14:24:48 UTC
+Table: 'Expresso(612133146)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Alexp91450 (610)
+Seat 2: delphinou44 (420)
+Seat 3: YL_ML_GL_42 (470)
+*** ANTE/BLINDS ***
+Alexp91450 posts small blind 10
+delphinou44 posts big blind 20
+Dealt to YL_ML_GL_42 [8s Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+Alexp91450 calls 60
+delphinou44 folds
+*** FLOP *** [3h 3d 7d]
+Alexp91450 checks
+YL_ML_GL_42 bets 160
+Alexp91450 calls 160
+*** TURN *** [3h 3d 7d][6c]
+Alexp91450 checks
+YL_ML_GL_42 bets 240 and is all-in
+Alexp91450 raises 140 to 380 and is all-in
+*** RIVER *** [3h 3d 7d 6c][3c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [8s Ts] (Trips of 3)
+Alexp91450 shows [Qc 8h] (Trips of 3)
+Alexp91450 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | No rake
+Board: [3h 3d 7d 6c 3c]
+Seat 1: Alexp91450 (small blind) showed [Qc 8h] and won 1100 with Trips of 3
+Seat 3: YL_ML_GL_42 (button) showed [8s Ts] and lost with Trips of 3
+
+

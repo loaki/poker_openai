@@ -1,0 +1,124 @@
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600297694920441857-1-1669567826 - Holdem no limit (10/20) - 2022/11/27 16:50:26 UTC
+Table: 'Expresso(605428986)#0' 3-max (real money) Seat #1 is the button
+Seat 1: t4m4ngo (500)
+Seat 2: sanctions (500)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+sanctions posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [5c 3c]
+*** PRE-FLOP *** 
+t4m4ngo raises 20 to 40
+sanctions folds
+YL_ML_GL_42 calls 20
+*** FLOP *** [Jd 9h Js]
+YL_ML_GL_42 checks
+t4m4ngo bets 32
+YL_ML_GL_42 folds
+t4m4ngo collected 122 from pot
+*** SUMMARY ***
+Total pot 122 | No rake
+Board: [Jd 9h Js]
+Seat 1: t4m4ngo (button) won 122
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600297694920441857-2-1669567842 - Holdem no limit (10/20) - 2022/11/27 16:50:42 UTC
+Table: 'Expresso(605428986)#0' 3-max (real money) Seat #2 is the button
+Seat 1: t4m4ngo (550)
+Seat 2: sanctions (490)
+Seat 3: YL_ML_GL_42 (460)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+t4m4ngo posts big blind 20
+Dealt to YL_ML_GL_42 [5c Ac]
+*** PRE-FLOP *** 
+sanctions raises 20 to 40
+YL_ML_GL_42 raises 100 to 140
+t4m4ngo folds
+sanctions folds
+YL_ML_GL_42 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 3: YL_ML_GL_42 (small blind) won 200
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600297694920441857-3-1669567854 - Holdem no limit (10/20) - 2022/11/27 16:50:54 UTC
+Table: 'Expresso(605428986)#0' 3-max (real money) Seat #3 is the button
+Seat 1: t4m4ngo (530)
+Seat 2: sanctions (450)
+Seat 3: YL_ML_GL_42 (520)
+*** ANTE/BLINDS ***
+t4m4ngo posts small blind 10
+sanctions posts big blind 20
+Dealt to YL_ML_GL_42 [9c 3c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+t4m4ngo calls 10
+sanctions checks
+*** FLOP *** [Kh 4c 7c]
+t4m4ngo bets 20
+sanctions calls 20
+*** TURN *** [Kh 4c 7c][5c]
+t4m4ngo checks
+sanctions bets 40
+t4m4ngo folds
+sanctions collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Kh 4c 7c 5c]
+Seat 2: sanctions (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600297694920441857-4-1669567911 - Holdem no limit (10/20) - 2022/11/27 16:51:51 UTC
+Table: 'Expresso(605428986)#0' 3-max (real money) Seat #1 is the button
+Seat 1: t4m4ngo (490)
+Seat 2: sanctions (490)
+Seat 3: YL_ML_GL_42 (520)
+*** ANTE/BLINDS ***
+sanctions posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [2s Qc]
+*** PRE-FLOP *** 
+t4m4ngo folds
+sanctions raises 20 to 40
+YL_ML_GL_42 calls 20
+*** FLOP *** [4h Ac 8d]
+sanctions bets 28
+YL_ML_GL_42 folds
+sanctions collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [4h Ac 8d]
+Seat 2: sanctions (small blind) won 108
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2600297694920441857-5-1669567943 - Holdem no limit (15/30) - 2022/11/27 16:52:23 UTC
+Table: 'Expresso(605428986)#0' 3-max (real money) Seat #2 is the button
+Seat 1: t4m4ngo (490)
+Seat 2: sanctions (530)
+Seat 3: YL_ML_GL_42 (480)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+t4m4ngo posts big blind 30
+Dealt to YL_ML_GL_42 [2s Qs]
+*** PRE-FLOP *** 
+sanctions raises 30 to 60
+YL_ML_GL_42 raises 150 to 210
+t4m4ngo folds
+sanctions calls 150
+*** FLOP *** [5h Ts Kc]
+YL_ML_GL_42 bets 270 and is all-in
+sanctions raises 50 to 320 and is all-in
+*** TURN *** [5h Ts Kc][4c]
+*** RIVER *** [5h Ts Kc 4c][2d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [2s Qs] (One pair : 2)
+sanctions shows [Qc Td] (One pair : Tens)
+sanctions collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [5h Ts Kc 4c 2d]
+Seat 2: sanctions (button) showed [Qc Td] and won 1040 with One pair : Tens
+Seat 3: YL_ML_GL_42 (small blind) showed [2s Qs] and lost with One pair : 2
+
+

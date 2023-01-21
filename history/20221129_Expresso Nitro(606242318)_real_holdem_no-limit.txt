@@ -1,0 +1,226 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2603790929261232129-1-1669747285 - Holdem no limit (10/20) - 2022/11/29 18:41:25 UTC
+Table: 'Expresso Nitro(606242318)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (300)
+Seat 2: bingo2b (300)
+Seat 3: BingoFish7 (300)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+bingo2b posts big blind 20
+Dealt to YL_ML_GL_42 [9s 5d]
+*** PRE-FLOP *** 
+BingoFish7 folds
+YL_ML_GL_42 folds
+bingo2b collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: bingo2b (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2603790929261232129-2-1669747292 - Holdem no limit (10/20) - 2022/11/29 18:41:32 UTC
+Table: 'Expresso Nitro(606242318)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (290)
+Seat 2: bingo2b (310)
+Seat 3: BingoFish7 (300)
+*** ANTE/BLINDS ***
+bingo2b posts small blind 10
+BingoFish7 posts big blind 20
+Dealt to YL_ML_GL_42 [As 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+bingo2b calls 60
+BingoFish7 folds
+*** FLOP *** [3d 5s 6s]
+bingo2b checks
+YL_ML_GL_42 bets 104
+bingo2b raises 136 to 240 and is all-in
+YL_ML_GL_42 calls 116 and is all-in
+*** TURN *** [3d 5s 6s][6d]
+*** RIVER *** [3d 5s 6s 6d][Js]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [As 8s] (Flush Ace high)
+bingo2b shows [7c Tc] (One pair : 6)
+bingo2b collected 20 from side pot 1
+YL_ML_GL_42 collected 600 from main pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [3d 5s 6s 6d Js]
+Seat 1: YL_ML_GL_42 (button) showed [As 8s] and won 600 with Flush Ace high
+Seat 2: bingo2b (small blind) showed [7c Tc] and won 20 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2603790929261232129-3-1669747318 - Holdem no limit (10/20) - 2022/11/29 18:41:58 UTC
+Table: 'Expresso Nitro(606242318)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (600)
+Seat 2: bingo2b (20)
+Seat 3: BingoFish7 (280)
+*** ANTE/BLINDS ***
+BingoFish7 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Qh 5s]
+*** PRE-FLOP *** 
+bingo2b calls 20 and is all-in
+BingoFish7 calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [Ks Qd 5c]
+BingoFish7 checks
+YL_ML_GL_42 bets 21
+BingoFish7 folds
+*** TURN *** [Ks Qd 5c][7d]
+*** RIVER *** [Ks Qd 5c 7d][Kh]
+*** SHOW DOWN ***
+bingo2b shows [Js 4d] (One pair : Kings)
+YL_ML_GL_42 shows [Qh 5s] (Two pairs : Kings and Queens)
+YL_ML_GL_42 collected 81 from pot
+*** SUMMARY ***
+Total pot 81 | No rake
+Board: [Ks Qd 5c 7d Kh]
+Seat 1: YL_ML_GL_42 (big blind) showed [Qh 5s] and won 81 with Two pairs : Kings and Queens
+Seat 2: bingo2b (button) showed [Js 4d] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2603790929261232129-4-1669747351 - Holdem no limit (15/30) - 2022/11/29 18:42:31 UTC
+Table: 'Expresso Nitro(606242318)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (640)
+Seat 3: BingoFish7 (260)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+BingoFish7 posts big blind 30
+Dealt to YL_ML_GL_42 [3c 9s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+BingoFish7 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: BingoFish7 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2603790929261232129-5-1669747358 - Holdem no limit (15/30) - 2022/11/29 18:42:38 UTC
+Table: 'Expresso Nitro(606242318)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (625)
+Seat 3: BingoFish7 (275)
+*** ANTE/BLINDS ***
+BingoFish7 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [5d 3c]
+*** PRE-FLOP *** 
+BingoFish7 raises 245 to 275 and is all-in
+YL_ML_GL_42 folds
+BingoFish7 collected 305 from pot
+*** SUMMARY ***
+Total pot 305 | No rake
+Seat 3: BingoFish7 (small blind) (button) won 305
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2603790929261232129-6-1669747365 - Holdem no limit (15/30) - 2022/11/29 18:42:45 UTC
+Table: 'Expresso Nitro(606242318)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (595)
+Seat 3: BingoFish7 (305)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+BingoFish7 posts big blind 30
+Dealt to YL_ML_GL_42 [Ac Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 45 to 75
+BingoFish7 calls 45
+*** FLOP *** [Kd 6d 3c]
+BingoFish7 checks
+YL_ML_GL_42 checks
+*** TURN *** [Kd 6d 3c][4d]
+BingoFish7 checks
+YL_ML_GL_42 checks
+*** RIVER *** [Kd 6d 3c 4d][9d]
+BingoFish7 bets 75
+YL_ML_GL_42 folds
+BingoFish7 collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [Kd 6d 3c 4d 9d]
+Seat 3: BingoFish7 (big blind) won 225
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2603790929261232129-7-1669747404 - Holdem no limit (20/40) - 2022/11/29 18:43:24 UTC
+Table: 'Expresso Nitro(606242318)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (520)
+Seat 3: BingoFish7 (380)
+*** ANTE/BLINDS ***
+BingoFish7 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [5c Ah]
+*** PRE-FLOP *** 
+BingoFish7 calls 20
+YL_ML_GL_42 raises 80 to 120
+BingoFish7 folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2603790929261232129-8-1669747414 - Holdem no limit (20/40) - 2022/11/29 18:43:34 UTC
+Table: 'Expresso Nitro(606242318)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (560)
+Seat 3: BingoFish7 (340)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+BingoFish7 posts big blind 40
+Dealt to YL_ML_GL_42 [9c Ac]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+BingoFish7 raises 220 to 340 and is all-in
+YL_ML_GL_42 calls 220
+*** FLOP *** [8c Js 2c]
+*** TURN *** [8c Js 2c][Qh]
+*** RIVER *** [8c Js 2c Qh][5s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9c Ac] (High card : Ace)
+BingoFish7 shows [5d Kh] (One pair : 5)
+BingoFish7 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [8c Js 2c Qh 5s]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [9c Ac] and lost with High card : Ace
+Seat 3: BingoFish7 (big blind) showed [5d Kh] and won 680 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2603790929261232129-9-1669747432 - Holdem no limit (20/40) - 2022/11/29 18:43:52 UTC
+Table: 'Expresso Nitro(606242318)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (220)
+Seat 3: BingoFish7 (680)
+*** ANTE/BLINDS ***
+BingoFish7 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [5d 4d]
+*** PRE-FLOP *** 
+BingoFish7 raises 640 to 680 and is all-in
+YL_ML_GL_42 folds
+BingoFish7 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 3: BingoFish7 (small blind) (button) won 720
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2603790929261232129-10-1669747441 - Holdem no limit (20/40) - 2022/11/29 18:44:01 UTC
+Table: 'Expresso Nitro(606242318)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (180)
+Seat 3: BingoFish7 (720)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+BingoFish7 posts big blind 40
+Dealt to YL_ML_GL_42 [Ac 8h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 140 to 180 and is all-in
+BingoFish7 raises 540 to 720 and is all-in
+*** FLOP *** [Ks 6c 9d]
+*** TURN *** [Ks 6c 9d][2c]
+*** RIVER *** [Ks 6c 9d 2c][Th]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ac 8h] (High card : Ace)
+BingoFish7 shows [Ad Kh] (One pair : Kings)
+BingoFish7 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ks 6c 9d 2c Th]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [Ac 8h] and lost with High card : Ace
+Seat 3: BingoFish7 (big blind) showed [Ad Kh] and won 900 with One pair : Kings
+
+

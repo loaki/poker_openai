@@ -1,0 +1,322 @@
+1669130348514 inf [app] Launch
+1669130348588 inf [scene] Bridge initialize
+1669130348598 inf [scene] Scene open
+1669130348604 inf [scene] Scene create
+1669130348619 inf [scene] Scene loading
+1669130348624 inf [app] Checking for update
+1669130348918 inf [app] Update for version 1.23.1 is not available (latest version: 1.23.1, downgrade is disallowed).
+1669130349438 inf [scene] Browser loaded
+1669130349442 inf [scene] Bridge loaded
+1669130349454 inf [tracker] Listening on port: 8003
+1669130351203 inf [api] < Service core/authentication/token/generate
+1669130351203 inf [network] > Http https://wapi.winamax.fr/core/authentication/token/generate post
+1669130351421 inf [network] > Http https://wapi.winamax.fr/core/authentication/token/generate ok
+1669130351422 inf [api] > Service core/authentication/token/generate
+1669130351423 inf [api] < Service poker/public/config/preauth {"client":"poker","application":"desktop","opid":"wam","device":"electron","ver":"1.23.1.1668699491","os":"win32","cid":"b94b276db79aabbcbfbe64cabbfea685"}
+1669130351424 inf [network] > Http https://api.winamax.fr/poker/public/config/preauth?client=poker&application=desktop&opid=wam&device=electron&ver=1.23.1.1668699491&os=win32&cid=b94b276db79aabbcbfbe64cabbfea685 get
+1669130351657 inf [network] > Http https://api.winamax.fr/poker/public/config/preauth?client=poker&application=desktop&opid=wam&device=electron&ver=1.23.1.1668699491&os=win32&cid=b94b276db79aabbcbfbe64cabbfea685 ok
+1669130351659 inf [api] > Service poker/public/config/preauth {"core":{"type":"wss","retry":{"count":3,"timeout":10000,"delay":2000,"random":1000},"hosts":["wapi.winamax.fr:443/poker/front/ws/websocket"],"enable":true,"zombie":{"duration":45000},"socket":{"sleep":10,"buffer":16384}},"features":{"vm":false,"playground":{"threshold":1000}},"serverstatus":{"status":"up","polling":300,"i18n":{"de_DE":{"title":"","info":"Alle Dienste sind verfügbar"},"fr_FR":{"title":"","info":"Tous les services sont fonctionnels"},"en_GB":{"title":"","info":"All services are operational."},"*":{"title":"","info":"All services are operational."},"en_US":{"title":"","info":"All services are operational."},"es_ES":{"title":"","info":"All services are operational."},"pt_PT":{"title":"","info":"All services are operational."}}},"auth":{"version":2,"timeout":6000,"refresh":{"count":3,"delay":2500}}}
+1669130351674 inf [network] Registering channel prefs
+1669130351674 inf [network] Enqueuing AUTH:SIGNIN
+1669130351675 inf [network] Creating socket wss://wapi.winamax.fr:443/poker/front/ws/websocket
+1669130351676 inf [network] Connection status: 1
+1669130351889 inf [network] Socket opened
+1669130351889 inf [network] Connection status: 2
+1669130351890 inf [network] Connection status: 3
+1669130351891 inf [network] < prefs AUTH:SIGNIN
+1669130352203 inf [network] > prefs AUTH:SIGNIN_OK
+1669130352204 inf [network] Connection status: 4
+1669130352207 inf [network] > prefs NOTIFICATION:POST_INFO
+1669130352207 inf [network] < prefs TIME:GET
+1669130352208 inf [network] < prefs GAMESTATS:JOIN
+1669130352276 inf [network] > prefs TIME:GET_OK
+1669130352283 inf [api] < Service poker/client/prefs
+1669130352283 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs post
+1669130352316 inf [network] > prefs GAMESTATS:JOIN_OK
+1669130352494 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs ok
+1669130352495 inf [api] > Service poker/client/prefs
+1669130352503 inf [router] Execute: wam://preload-ok
+1669130352504 inf [router] Navigate: wam://lobbies
+1669130352507 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/config.1624292306 get
+1669130352508 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/ressource.1624283658 get
+1669130352510 inf [router] Navigation done: wam://lobbies
+1669130352511 inf [router] Execution done: wam://preload-ok
+1669130352512 inf [network] Registering channel subscriptions
+1669130352513 inf [api] < Service operator/userdata
+1669130352513 inf [network] > Http https://wapi.winamax.fr/operator/userdata post
+1669130352515 inf [api] < Service operator/winamax-tv/public
+1669130352516 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public post
+1669130352517 inf [network] < prefs SRM:JOIN
+1669130352518 inf [network] < prefs NEWS:GET
+1669130352518 inf [network] < prefs DATA:GET
+1669130352519 inf [network] < prefs BUDDY:GET
+1669130352519 inf [network] < prefs BUDDYROOM:JOIN
+1669130352521 inf [network] < prefs TIME:GET
+1669130352521 inf [network] < prefs CASHIER:GET
+1669130352522 inf [network] < prefs CASHIER:LIST
+1669130352522 inf [network] < prefs CASHIER:GET
+1669130352523 inf [network] < prefs CASHIER:LIST
+1669130352524 inf [network] < subscriptions FILTERLIST:CREATE
+1669130352525 inf [network] < subscriptions FILTERLIST:CREATE
+1669130352525 inf [network] < subscriptions FILTERLIST:CREATE
+1669130352610 inf [network] > prefs TIME:GET_OK
+1669130352612 inf [network] > prefs SRM:JOIN_OK
+1669130352614 inf [network] > prefs CASHIER:GET_OK
+1669130352615 inf [network] > prefs BUDDYROOM:JOIN_OK
+1669130352617 inf [network] > prefs CASHIER:LIST_OK
+1669130352617 inf [network] > prefs CASHIER:GET_OK
+1669130352620 inf [network] > prefs CASHIER:LIST_OK
+1669130352621 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1669130352622 inf [network] > subscriptions FILTERLIST:SET
+1669130352624 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1669130352625 inf [network] > subscriptions FILTERLIST:SET
+1669130352628 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1669130352629 inf [network] > subscriptions FILTERLIST:SET
+1669130352630 inf [network] > prefs NEWS:GET_OK
+1669130352631 inf [network] > prefs DATA:GET_ERR
+1669130352633 inf [network] > prefs BUDDY:GET_OK
+1669130352634 inf [network] < prefs BUDDYROOM:JOIN
+1669130352647 inf [network] Registering channel wam.general.t1
+1669130352647 inf [network] < wam.general.t1 CHATROOM:JOIN
+1669130352793 inf [network] > prefs BUDDYROOM:JOIN_OK
+1669130352812 inf [network] > wam.general.t1 CHATROOM:JOIN_OK
+1669130353035 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/ressource.1624283658 ok
+1669130353119 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/config.1624292306 ok
+1669130353287 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public ok
+1669130353288 inf [api] > Service operator/winamax-tv/public
+1669130353395 inf [network] > Http https://wapi.winamax.fr/operator/userdata ok
+1669130353471 inf [api] > Service operator/userdata
+1669130354509 inf [api] < Service poker/client/prefs
+1669130354510 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs post
+1669130354688 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs ok
+1669130354689 inf [api] > Service poker/client/prefs
+1669130361474 inf [router] Navigate: wam://lobby-mtt
+1669130361475 inf [router] Navigation done: wam://lobby-mtt
+1669130361511 inf [network] Registering channel lo
+1669130361512 inf [router] Execute: wam://lobby-preview?rk=&type=
+1669130361512 inf [router] Execution done: wam://lobby-preview?rk=&type=
+1669130361519 inf [network] < lo FILTERLIST:CREATE
+1669130361599 inf [network] > lo FILTERLIST:CREATE_OK
+1669130361663 inf [network] > lo FILTERLIST:SET
+1669130361675 inf [router] Execute: wam://lobby-preview?rk=tt6.ttmgr.tt6_9.t593239205&type=tournament
+1669130361677 inf [router] Execution done: wam://lobby-preview?rk=tt6.ttmgr.tt6_9.t593239205&type=tournament
+1669130361677 inf [network] Registering channel tt6.ttmgr.tt6_9.t593239205
+1669130361707 inf [network] < tt6.ttmgr.tt6_9.t593239205 TOURNAMENT:JOIN
+1669130361791 inf [network] > tt6.ttmgr.tt6_9.t593239205 TOURNAMENT:JOIN_OK
+1669130361793 inf [network] > tt6.ttmgr.tt6_9.t593239205 CHATROOM:JOIN_OK
+1669130364676 inf [network] < lo FILTERLIST:CHANGE
+1669130364760 inf [network] > lo FILTERLIST:CHANGE_OK
+1669130364813 inf [network] > lo FILTERLIST:SET
+1669130365175 inf [network] < lo FILTERLIST:CHANGE
+1669130365246 inf [network] > lo FILTERLIST:CHANGE_OK
+1669130365353 inf [network] > lo FILTERLIST:SET
+1669130365358 inf [network] > tt6.ttmgr.tt6_9.t593239205 TOURNAMENT:STATUS
+1669130367524 inf [network] > tt6.ttmgr.tt6_9.t593239205 TOURNAMENT:STATUS
+1669130367639 inf [network] < lo FILTERLIST:CHANGE
+1669130367708 inf [network] > lo FILTERLIST:CHANGE_OK
+1669130367788 inf [network] > lo FILTERLIST:SET
+1669130369936 inf [network] > lo FILTERLIST:UPDATE
+1669130370034 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669130370378 inf [router] Execute: wam://lobby-preview?rk=tt6.ttmgr.tt6_8.t593240472&type=tournament
+1669130370379 inf [router] Execution done: wam://lobby-preview?rk=tt6.ttmgr.tt6_8.t593240472&type=tournament
+1669130370380 inf [network] < tt6.ttmgr.tt6_9.t593239205 TOURNAMENT:LEAVE
+1669130370381 inf [network] Leaving channel tt6.ttmgr.tt6_9.t593239205
+1669130370381 inf [network] Registering channel tt6.ttmgr.tt6_8.t593240472
+1669130370385 inf [network] < tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:JOIN
+1669130370470 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:JOIN_OK
+1669130370471 inf [network] > tt6.ttmgr.tt6_8.t593240472 CHATROOM:JOIN_OK
+1669130372321 inf [router] Navigate: wam://tournament?ttrk=tt6.ttmgr.tt6_8.t593240472&name=SAMOURAI
+1669130372322 inf [router] Navigation done: wam://tournament?ttrk=tt6.ttmgr.tt6_8.t593240472&name=SAMOURAI
+1669130372362 inf [network] < tt6.ttmgr.tt6_8.t593240472 FILTERLIST:CREATE
+1669130372435 inf [network] > tt6.ttmgr.tt6_8.t593240472 FILTERLIST:CREATE_OK
+1669130372492 inf [network] > tt6.ttmgr.tt6_8.t593240472 FILTERLIST:SET
+1669130374399 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:STATUS
+1669130374400 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:PAYOUTS
+1669130374637 inf [network] < lo FILTERLIST:CHANGE
+1669130374715 inf [network] > lo FILTERLIST:CHANGE_OK
+1669130374794 inf [network] > lo FILTERLIST:SET
+1669130375163 inf [network] < lo FILTERLIST:CHANGE
+1669130375245 inf [network] > lo FILTERLIST:CHANGE_OK
+1669130375309 inf [network] > lo FILTERLIST:SET
+1669130376032 inf [network] < lo FILTERLIST:CHANGE
+1669130376090 inf [network] > lo FILTERLIST:CHANGE_OK
+1669130376148 inf [network] > lo FILTERLIST:SET
+1669130376827 inf [network] < lo FILTERLIST:CHANGE
+1669130376916 inf [network] > lo FILTERLIST:CHANGE_OK
+1669130376992 inf [network] > lo FILTERLIST:SET
+1669130377395 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:STATUS
+1669130377677 inf [network] > tt6.ttmgr.tt6_8.t593240472 FILTERLIST:UPDATE
+1669130378000 inf [network] < lo FILTERLIST:CHANGE
+1669130378077 inf [network] > lo FILTERLIST:CHANGE_OK
+1669130378110 inf [network] > lo FILTERLIST:SET
+1669130378660 inf [network] < lo FILTERLIST:CHANGE
+1669130378727 inf [network] > lo FILTERLIST:CHANGE_OK
+1669130378762 inf [network] > lo FILTERLIST:SET
+1669130381986 inf [network] < lo FILTERLIST:CHANGE
+1669130382079 inf [network] > lo FILTERLIST:CHANGE_OK
+1669130382184 inf [network] > lo FILTERLIST:SET
+1669130383658 inf [network] < tt6.ttmgr.tt6_8.t593240472 FILTERLIST:DELETE
+1669130383714 inf [network] > tt6.ttmgr.tt6_8.t593240472 FILTERLIST:DELETE_OK
+1669130383829 inf [network] < lo FILTERLIST:CHANGE
+1669130383915 inf [network] > lo FILTERLIST:CHANGE_OK
+1669130384015 inf [network] > lo FILTERLIST:SET
+1669130384876 inf [network] < lo FILTERLIST:CHANGE
+1669130384958 inf [network] > lo FILTERLIST:CHANGE_OK
+1669130385146 inf [network] > lo FILTERLIST:SET
+1669130385178 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:STATUS
+1669130385193 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:PAYOUTS
+1669130386009 inf [router] Execute: wam://lobby-preview?rk=tt6.ttmgr.tt6_8.t593240476&type=tournament
+1669130386010 inf [router] Execution done: wam://lobby-preview?rk=tt6.ttmgr.tt6_8.t593240476&type=tournament
+1669130386011 inf [network] Registering channel tt6.ttmgr.tt6_8.t593240476
+1669130386016 inf [network] < tt6.ttmgr.tt6_8.t593240476 TOURNAMENT:JOIN
+1669130386123 inf [network] > tt6.ttmgr.tt6_8.t593240476 TOURNAMENT:JOIN_OK
+1669130386124 inf [network] > tt6.ttmgr.tt6_8.t593240476 CHATROOM:JOIN_OK
+1669130387243 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:STATUS
+1669130387353 inf [router] Navigate: wam://tournament?ttrk=tt6.ttmgr.tt6_8.t593240476&name=GUERILLA
+1669130387354 inf [router] Navigation done: wam://tournament?ttrk=tt6.ttmgr.tt6_8.t593240476&name=GUERILLA
+1669130387387 inf [network] < tt6.ttmgr.tt6_8.t593240476 FILTERLIST:CREATE
+1669130387455 inf [network] > tt6.ttmgr.tt6_8.t593240476 FILTERLIST:CREATE_OK
+1669130387499 inf [network] > tt6.ttmgr.tt6_8.t593240476 FILTERLIST:SET
+1669130389088 inf [network] < tt6.ttmgr.tt6_8.t593240472 FILTERLIST:CREATE
+1669130389145 inf [network] > tt6.ttmgr.tt6_8.t593240472 FILTERLIST:CREATE_OK
+1669130389367 inf [network] > tt6.ttmgr.tt6_8.t593240472 FILTERLIST:SET
+1669130391648 inf [network] < lo FILTERLIST:CHANGE
+1669130391743 inf [network] > lo FILTERLIST:CHANGE_OK
+1669130391826 inf [network] > lo FILTERLIST:SET
+1669130392036 inf [network] < lo FILTERLIST:CHANGE
+1669130392116 inf [network] > lo FILTERLIST:CHANGE_OK
+1669130392217 inf [network] > lo FILTERLIST:SET
+1669130395954 inf [router] Execute: wam://lobby-preview?rk=tt2.ttmgr.tt2_9.t593241730&type=tournament
+1669130395954 inf [router] Execution done: wam://lobby-preview?rk=tt2.ttmgr.tt2_9.t593241730&type=tournament
+1669130395955 inf [network] Registering channel tt2.ttmgr.tt2_9.t593241730
+1669130395959 inf [network] < tt2.ttmgr.tt2_9.t593241730 TOURNAMENT:JOIN
+1669130396093 inf [network] > tt2.ttmgr.tt2_9.t593241730 TOURNAMENT:JOIN_OK
+1669130396094 inf [network] > tt2.ttmgr.tt2_9.t593241730 CHATROOM:JOIN_OK
+1669130397114 inf [router] Navigate: wam://tournament?ttrk=tt2.ttmgr.tt2_9.t593241730&name=MYSTERY%20KO
+1669130397115 inf [router] Navigation done: wam://tournament?ttrk=tt2.ttmgr.tt2_9.t593241730&name=MYSTERY%20KO
+1669130397145 inf [network] < tt2.ttmgr.tt2_9.t593241730 FILTERLIST:CREATE
+1669130397217 inf [network] > tt2.ttmgr.tt2_9.t593241730 FILTERLIST:CREATE_OK
+1669130397252 inf [network] > tt2.ttmgr.tt2_9.t593241730 FILTERLIST:SET
+1669130399105 inf [network] < tt6.ttmgr.tt6_8.t593240476 FILTERLIST:DELETE
+1669130399154 inf [network] > tt6.ttmgr.tt6_8.t593240476 FILTERLIST:DELETE_OK
+1669130400334 inf [network] < tt6.ttmgr.tt6_8.t593240472 FILTERLIST:DELETE
+1669130400376 inf [network] > tt6.ttmgr.tt6_8.t593240472 FILTERLIST:DELETE_OK
+1669130402518 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:STATUS
+1669130402519 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:PAYOUTS
+1669130404602 inf [router] Navigate: wam://contacts?tab=buddies
+1669130404603 inf [router] Navigation done: wam://contacts?tab=buddies
+1669130404762 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:STATUS
+1669130405437 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:PAYOUTS
+1669130406120 inf [network] < prefs FILTERLIST:FIND
+1669130406121 inf [network] < prefs FILTERLIST:FIND
+1669130406121 inf [network] < prefs FILTERLIST:FIND
+1669130406122 inf [network] < prefs FILTERLIST:FIND
+1669130406122 inf [network] < prefs FILTERLIST:FIND
+1669130406122 inf [network] < prefs FILTERLIST:FIND
+1669130406183 inf [network] > prefs FILTERLIST:FIND_OK
+1669130406186 inf [network] > prefs FILTERLIST:FIND_OK
+1669130406187 inf [network] > prefs FILTERLIST:FIND_OK
+1669130406187 inf [network] > prefs FILTERLIST:FIND_OK
+1669130406188 inf [network] > prefs FILTERLIST:FIND_OK
+1669130406190 inf [network] > prefs FILTERLIST:FIND_OK
+1669130407318 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:STATUS
+1669130407692 inf [network] < prefs FILTERLIST:FIND
+1669130407693 inf [network] < prefs FILTERLIST:FIND
+1669130407693 inf [network] < prefs FILTERLIST:FIND
+1669130407758 inf [network] > prefs FILTERLIST:FIND_OK
+1669130407759 inf [network] > prefs FILTERLIST:FIND_OK
+1669130407762 inf [network] > prefs FILTERLIST:FIND_OK
+1669130407921 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:PAYOUTS
+1669130409212 inf [router] Navigate: wam://tournament?ttrk=tt.ttmgr.tt_1.t593241773&name=MYSTERY%20KO
+1669130409213 inf [router] Navigation done: wam://tournament?ttrk=tt.ttmgr.tt_1.t593241773&name=MYSTERY%20KO
+1669130409214 inf [network] Registering channel tt.ttmgr.tt_1.t593241773
+1669130409217 inf [network] < tt.ttmgr.tt_1.t593241773 TOURNAMENT:JOIN
+1669130409299 inf [network] > tt.ttmgr.tt_1.t593241773 TOURNAMENT:JOIN_OK
+1669130409300 inf [network] > tt.ttmgr.tt_1.t593241773 CHATROOM:JOIN_OK
+1669130409302 inf [network] > tt.ttmgr.tt_1.t593241773 TOURNAMENT:STATUS
+1669130409318 inf [network] < tt.ttmgr.tt_1.t593241773 FILTERLIST:CREATE
+1669130409424 inf [network] > tt.ttmgr.tt_1.t593241773 FILTERLIST:CREATE_OK
+1669130409429 inf [network] > tt.ttmgr.tt_1.t593241773 FILTERLIST:SET
+1669130409951 inf [network] > lo FILTERLIST:SET
+1669130410083 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:STATUS
+1669130410279 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:PAYOUTS
+1669130411932 inf [network] < tt.ttmgr.tt_1.t593241773 FILTERLIST:FIND
+1669130412000 inf [network] > tt.ttmgr.tt_1.t593241773 FILTERLIST:FIND_OK
+1669130412037 inf [network] > tt.ttmgr.tt_1.t593241773 TOURNAMENT:STATUS
+1669130412086 inf [network] < tt.ttmgr.tt_1.t593241773 FILTERLIST:FIND
+1669130412143 inf [network] > tt.ttmgr.tt_1.t593241773 FILTERLIST:FIND_OK
+1669130412227 inf [network] < tt.ttmgr.tt_1.t593241773 FILTERLIST:FIND
+1669130412316 inf [network] > tt.ttmgr.tt_1.t593241773 FILTERLIST:FIND_OK
+1669130412530 inf [network] < prefs TIME:GET
+1669130412596 inf [network] > prefs TIME:GET_OK
+1669130413107 inf [network] > tt.ttmgr.tt_1.t593241773 FILTERLIST:SET
+1669130414027 inf [network] < tt.ttmgr.tt_1.t593241773 FILTERLIST:GET
+1669130414098 inf [network] > tt.ttmgr.tt_1.t593241773 FILTERLIST:GET_OK
+1669130414288 inf [network] > tt.ttmgr.tt_1.t593241773 TOURNAMENT:STATUS
+1669130414342 inf [network] < tt.ttmgr.tt_1.t593241773 FILTERLIST:CHANGE
+1669130414422 inf [network] > tt.ttmgr.tt_1.t593241773 FILTERLIST:CHANGE_OK
+1669130414647 inf [network] < tt2.ttmgr.tt2_9.t593241730 FILTERLIST:DELETE
+1669130414661 inf [network] > tt.ttmgr.tt_1.t593241773 FILTERLIST:SET
+1669130414667 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669130414691 inf [network] > tt2.ttmgr.tt2_9.t593241730 FILTERLIST:DELETE_OK
+1669130416282 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:STATUS
+1669130416290 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:PAYOUTS
+1669130417172 inf [network] < lo FILTERLIST:DELETE
+1669130417173 inf [router] Execute: wam://lobby-preview?rk=&type=
+1669130417173 inf [router] Execution done: wam://lobby-preview?rk=&type=
+1669130417226 inf [network] > lo FILTERLIST:DELETE_OK
+1669130417533 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669130417674 inf [router] Navigate: wam://table?tblrk=tt.tamgr.tt_1.t63017&ttrk=tt.ttmgr.tt_1.t593241773&label=MYSTERY%20KO
+1669130417679 inf [scene] Scene open
+1669130417679 inf [scene] Scene create
+1669130417686 inf [scene] Scene loading
+1669130417689 inf [router] Navigation done: wam://table?tblrk=tt.tamgr.tt_1.t63017&ttrk=tt.ttmgr.tt_1.t593241773&label=MYSTERY%20KO
+1669130417691 inf [network] Registering channel tt.tamgr.tt_1.t63017
+1669130417691 inf [router] Execute: wam://playground-layout?id=1&focus=2
+1669130417692 inf [router] Execution done: wam://playground-layout?id=1&focus=2
+1669130417696 inf [network] < tt.tamgr.tt_1.t63017 TABLE:JOIN
+1669130417771 inf [network] > tt.tamgr.tt_1.t63017 TABLE:JOIN_OK
+1669130417772 inf [table] 1 tt.tamgr.tt_1.t63017 hand 2547954013656055822-108-1669130413
+1669130417773 inf [table] 1 tt.tamgr.tt_1.t63017 round pre-flop pot="840" totalPot="5040"
+1669130417774 inf [network] > tt.tamgr.tt_1.t63017 CHATROOM:JOIN_OK
+1669130418235 inf [scene] Browser loaded
+1669130418237 inf [scene] Bridge loaded
+1669130418487 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:STATUS
+1669130423203 inf [network] > tt.ttmgr.tt_1.t593241773 FILTERLIST:SET
+1669130425160 inf [network] > tt.tamgr.tt_1.t63017 TABLE:ACTION_INFO
+1669130425166 inf [table] 1 tt.tamgr.tt_1.t63017 action fold login="Somarduchet"
+1669130426200 inf [network] > tt.tamgr.tt_1.t63017 TABLE:ACTION_INFO
+1669130426201 inf [table] 1 tt.tamgr.tt_1.t63017 action fold login="wohevent" amount="600"
+1669130427480 inf [network] > tt.ttmgr.tt_1.t593241773 TOURNAMENT:STATUS
+1669130430129 inf [network] > tt.ttmgr.tt_1.t593241773 TOURNAMENT:STATUS
+1669130430405 inf [network] > tt.tamgr.tt_1.t63017 TABLE:ACTION_INFO
+1669130430406 inf [network] > tt.tamgr.tt_1.t63017 TABLE:STATUS
+1669130430407 inf [table] 1 tt.tamgr.tt_1.t63017 action call login="GuilleGagne" amount="2400"
+1669130430421 inf [table] 1 tt.tamgr.tt_1.t63017 round flop board="3c,3d,Th" pot="6240" totalPot="0"
+1669130430607 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:STATUS
+1669130430619 inf [network] > tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:PAYOUTS
+1669130431642 inf [network] < prefs CLIENT:PING_OK
+1669130431643 inf [network] > prefs CLIENT:PING
+1669130432643 inf [router] Execute: wam://tournament-close?ttid=2
+1669130432644 inf [router] Execution done: wam://tournament-close?ttid=2
+1669130432644 inf [router] Execute: wam://tournament-close?ttid=3
+1669130432645 inf [router] Execution done: wam://tournament-close?ttid=3
+1669130432645 inf [router] Execute: wam://tournament-close?ttid=4
+1669130432646 inf [router] Execution done: wam://tournament-close?ttid=4
+1669130432646 inf [router] Execute: wam://tournament-close?ttid=5
+1669130432646 inf [router] Execution done: wam://tournament-close?ttid=5
+1669130432647 inf [network] < tt6.ttmgr.tt6_8.t593240472 TOURNAMENT:LEAVE
+1669130432647 inf [network] Leaving channel tt6.ttmgr.tt6_8.t593240472
+1669130432648 inf [network] < tt6.ttmgr.tt6_8.t593240476 TOURNAMENT:LEAVE
+1669130432648 inf [network] Leaving channel tt6.ttmgr.tt6_8.t593240476
+1669130432648 inf [network] < tt2.ttmgr.tt2_9.t593241730 TOURNAMENT:LEAVE
+1669130432649 inf [network] Leaving channel tt2.ttmgr.tt2_9.t593241730
+1669130432664 inf [tracker] Closed
+1669130432667 inf [network] Registering channel subscriptions
+1669130432670 inf [network] Registering channel tt.ttmgr.tt_1.t593241773
+1669130432671 inf [network] Leaving channel tt.ttmgr.tt_1.t593241773
+1669130432671 inf [network] Registering channel tt.ttmgr.tt_1.t593241773
+1669130432672 inf [network] Registering channel tt.tamgr.tt_1.t63017
+1669130432673 inf [network] Leaving channel tt.tamgr.tt_1.t63017
+1669130432689 inf [router] Execute: wam://playground-close?id=1&scene=2
+1669130432691 inf [router] Execution done: wam://playground-close?id=1&scene=2

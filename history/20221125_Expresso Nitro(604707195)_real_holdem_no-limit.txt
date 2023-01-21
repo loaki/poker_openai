@@ -1,0 +1,144 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2597197626180894721-1-1669396693 - Holdem no limit (10/20) - 2022/11/25 17:18:13 UTC
+Table: 'Expresso Nitro(604707195)#0' 3-max (real money) Seat #2 is the button
+Seat 1: HKPMatt (300)
+Seat 2: YL_ML_GL_42 (300)
+Seat 3: jhonnycb (300)
+*** ANTE/BLINDS ***
+jhonnycb posts small blind 10
+HKPMatt posts big blind 20
+Dealt to YL_ML_GL_42 [Qc Qh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 280 to 300 and is all-in
+jhonnycb folds
+HKPMatt folds
+YL_ML_GL_42 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: YL_ML_GL_42 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2597197626180894721-2-1669396706 - Holdem no limit (10/20) - 2022/11/25 17:18:26 UTC
+Table: 'Expresso Nitro(604707195)#0' 3-max (real money) Seat #3 is the button
+Seat 1: HKPMatt (280)
+Seat 2: YL_ML_GL_42 (330)
+Seat 3: jhonnycb (290)
+*** ANTE/BLINDS ***
+HKPMatt posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [7d 5d]
+*** PRE-FLOP *** 
+jhonnycb folds
+HKPMatt raises 260 to 280 and is all-in
+YL_ML_GL_42 folds
+HKPMatt collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: HKPMatt (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2597197626180894721-3-1669396735 - Holdem no limit (10/20) - 2022/11/25 17:18:55 UTC
+Table: 'Expresso Nitro(604707195)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HKPMatt (300)
+Seat 2: YL_ML_GL_42 (310)
+Seat 3: jhonnycb (290)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+jhonnycb posts big blind 20
+Dealt to YL_ML_GL_42 [2d 4c]
+*** PRE-FLOP *** 
+HKPMatt folds
+YL_ML_GL_42 folds
+jhonnycb collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: jhonnycb (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #2597197626180894721-4-1669396756 - Holdem no limit (15/30) - 2022/11/25 17:19:16 UTC
+Table: 'Expresso Nitro(604707195)#0' 3-max (real money) Seat #2 is the button
+Seat 1: HKPMatt (300)
+Seat 2: YL_ML_GL_42 (300)
+Seat 3: jhonnycb (300)
+*** ANTE/BLINDS ***
+jhonnycb posts small blind 15
+HKPMatt posts big blind 30
+Dealt to YL_ML_GL_42 [Tc 9c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 75 to 105
+jhonnycb raises 195 to 300 and is all-in
+HKPMatt folds
+YL_ML_GL_42 calls 195 and is all-in
+*** FLOP *** [Ts 5s Qc]
+*** TURN *** [Ts 5s Qc][Ks]
+*** RIVER *** [Ts 5s Qc Ks][Jc]
+*** SHOW DOWN ***
+jhonnycb shows [2h 2c] (One pair : 2)
+YL_ML_GL_42 shows [Tc 9c] (Straight King high)
+YL_ML_GL_42 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Ts 5s Qc Ks Jc]
+Seat 2: YL_ML_GL_42 (button) showed [Tc 9c] and won 630 with Straight King high
+Seat 3: jhonnycb (small blind) showed [2h 2c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #2597197626180894721-5-1669396777 - Holdem no limit (15/30) - 2022/11/25 17:19:37 UTC
+Table: 'Expresso Nitro(604707195)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HKPMatt (270)
+Seat 2: YL_ML_GL_42 (630)
+*** ANTE/BLINDS ***
+HKPMatt posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Jc 3s]
+*** PRE-FLOP *** 
+HKPMatt raises 240 to 270 and is all-in
+YL_ML_GL_42 folds
+HKPMatt collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: HKPMatt (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #2597197626180894721-6-1669396782 - Holdem no limit (15/30) - 2022/11/25 17:19:42 UTC
+Table: 'Expresso Nitro(604707195)#0' 3-max (real money) Seat #2 is the button
+Seat 1: HKPMatt (300)
+Seat 2: YL_ML_GL_42 (600)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+HKPMatt posts big blind 30
+Dealt to YL_ML_GL_42 [9c 5s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+HKPMatt collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: HKPMatt (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #2597197626180894721-7-1669396786 - Holdem no limit (15/30) - 2022/11/25 17:19:46 UTC
+Table: 'Expresso Nitro(604707195)#0' 3-max (real money) Seat #1 is the button
+Seat 1: HKPMatt (315)
+Seat 2: YL_ML_GL_42 (585)
+*** ANTE/BLINDS ***
+HKPMatt posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Ts Ac]
+*** PRE-FLOP *** 
+HKPMatt calls 15
+YL_ML_GL_42 raises 60 to 90
+HKPMatt raises 225 to 315 and is all-in
+YL_ML_GL_42 calls 225
+*** FLOP *** [Jc 9s Ks]
+*** TURN *** [Jc 9s Ks][7h]
+*** RIVER *** [Jc 9s Ks 7h][Kd]
+*** SHOW DOWN ***
+HKPMatt shows [Qh 3h] (One pair : Kings)
+YL_ML_GL_42 shows [Ts Ac] (One pair : Kings)
+YL_ML_GL_42 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Jc 9s Ks 7h Kd]
+Seat 1: HKPMatt (small blind) (button) showed [Qh 3h] and lost with One pair : Kings
+Seat 2: YL_ML_GL_42 (big blind) showed [Ts Ac] and won 630 with One pair : Kings
+
+

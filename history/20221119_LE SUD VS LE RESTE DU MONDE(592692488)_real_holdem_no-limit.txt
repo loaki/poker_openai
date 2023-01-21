@@ -1,0 +1,1185 @@
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-1-1668886226 - Holdem no limit (25/100/200) - 2022/11/19 19:30:26 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: CryptoHolder (20000, 0.90€ bounty)
+Seat 2: Ololw (20000, 0.90€ bounty)
+Seat 3: 72Aragorn72 (20000, 0.90€ bounty)
+Seat 4: DucBellic95 (20000, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (20000, 0.90€ bounty)
+Seat 6: CdriKpiALLIN (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+CdriKpiALLIN posts ante 25
+DucBellic95 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [4h 9h]
+*** PRE-FLOP *** 
+CdriKpiALLIN folds
+CryptoHolder raises 200 to 400
+Ololw folds
+72Aragorn72 calls 400
+DucBellic95 calls 300
+YL_ML_GL_42 calls 200
+*** FLOP *** [Kd As 8s]
+DucBellic95 checks
+YL_ML_GL_42 checks
+CryptoHolder checks
+72Aragorn72 checks
+*** TURN *** [Kd As 8s][9d]
+DucBellic95 checks
+YL_ML_GL_42 checks
+CryptoHolder bets 1138
+72Aragorn72 folds
+DucBellic95 folds
+YL_ML_GL_42 folds
+CryptoHolder collected 2888 from pot
+*** SUMMARY ***
+Total pot 2888 | No rake
+Board: [Kd As 8s 9d]
+Seat 1: CryptoHolder won 2888
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-2-1668886312 - Holdem no limit (25/100/200) - 2022/11/19 19:31:52 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: CryptoHolder (21325, 0.90€ bounty)
+Seat 2: Ololw (19975, 0.90€ bounty)
+Seat 3: 72Aragorn72 (19575, 0.90€ bounty)
+Seat 4: DucBellic95 (19575, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (19575, 0.90€ bounty)
+Seat 6: CdriKpiALLIN (19975, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+CdriKpiALLIN posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts small blind 100
+CdriKpiALLIN posts big blind 200
+Dealt to YL_ML_GL_42 [Jd Kc]
+*** PRE-FLOP *** 
+CryptoHolder calls 200
+Ololw folds
+72Aragorn72 folds
+DucBellic95 folds
+YL_ML_GL_42 raises 750 to 950
+CdriKpiALLIN folds
+CryptoHolder calls 750
+*** FLOP *** [4h Ks 9c]
+YL_ML_GL_42 bets 1125
+CryptoHolder calls 1125
+*** TURN *** [4h Ks 9c][2h]
+YL_ML_GL_42 bets 2250
+CryptoHolder folds
+YL_ML_GL_42 collected 6750 from pot
+*** SUMMARY ***
+Total pot 6750 | No rake
+Board: [4h Ks 9c 2h]
+Seat 5: YL_ML_GL_42 (small blind) won 6750
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-3-1668886385 - Holdem no limit (25/100/200) - 2022/11/19 19:33:05 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: CryptoHolder (19225, 0.90€ bounty)
+Seat 2: Ololw (19950, 0.90€ bounty)
+Seat 3: 72Aragorn72 (19550, 0.90€ bounty)
+Seat 4: DucBellic95 (19550, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (21975, 0.90€ bounty)
+Seat 6: CdriKpiALLIN (19750, 0.90€ bounty)
+*** ANTE/BLINDS ***
+CdriKpiALLIN posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+CdriKpiALLIN posts small blind 100
+CryptoHolder posts big blind 200
+Dealt to YL_ML_GL_42 [Jc 6h]
+*** PRE-FLOP *** 
+Ololw folds
+72Aragorn72 folds
+DucBellic95 calls 200
+YL_ML_GL_42 folds
+CdriKpiALLIN folds
+CryptoHolder checks
+*** FLOP *** [Jd 5c 3c]
+CryptoHolder checks
+DucBellic95 checks
+*** TURN *** [Jd 5c 3c][9s]
+CryptoHolder bets 200
+DucBellic95 folds
+CryptoHolder collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Board: [Jd 5c 3c 9s]
+Seat 1: CryptoHolder (big blind) won 850
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-4-1668886434 - Holdem no limit (25/100/200) - 2022/11/19 19:33:54 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: CryptoHolder (19650, 0.90€ bounty)
+Seat 2: Ololw (19925, 0.90€ bounty)
+Seat 3: 72Aragorn72 (19525, 0.90€ bounty)
+Seat 4: DucBellic95 (19325, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (21950, 0.90€ bounty)
+Seat 6: CdriKpiALLIN (19625, 0.90€ bounty)
+*** ANTE/BLINDS ***
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+CdriKpiALLIN posts ante 25
+CryptoHolder posts small blind 100
+Ololw posts big blind 200
+Dealt to YL_ML_GL_42 [6h 2s]
+*** PRE-FLOP *** 
+72Aragorn72 folds
+DucBellic95 calls 200
+YL_ML_GL_42 folds
+CdriKpiALLIN folds
+CryptoHolder calls 100
+Ololw checks
+*** FLOP *** [As 9h Kd]
+CryptoHolder checks
+Ololw checks
+DucBellic95 checks
+*** TURN *** [As 9h Kd][Jh]
+CryptoHolder bets 200
+Ololw folds
+DucBellic95 calls 200
+*** RIVER *** [As 9h Kd Jh][Qh]
+CryptoHolder bets 200
+DucBellic95 calls 200
+*** SHOW DOWN ***
+DucBellic95 shows [8h 8c] (One pair : 8)
+CryptoHolder shows [6d Qc] (One pair : Queens)
+CryptoHolder collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [As 9h Kd Jh Qh]
+Seat 1: CryptoHolder (small blind) showed [6d Qc] and won 1550 with One pair : Queens
+Seat 4: DucBellic95 showed [8h 8c] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-5-1668886491 - Holdem no limit (25/100/200) - 2022/11/19 19:34:51 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: CryptoHolder (20575, 0.90€ bounty)
+Seat 2: Ololw (19700, 0.90€ bounty)
+Seat 3: 72Aragorn72 (19500, 0.90€ bounty)
+Seat 4: DucBellic95 (18700, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (21925, 0.90€ bounty)
+Seat 6: CdriKpiALLIN (19600, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+CryptoHolder posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+CdriKpiALLIN posts ante 25
+Ololw posts small blind 100
+72Aragorn72 posts big blind 200
+Dealt to YL_ML_GL_42 [Jd 3s]
+*** PRE-FLOP *** 
+DucBellic95 calls 200
+YL_ML_GL_42 folds
+CdriKpiALLIN folds
+CryptoHolder calls 200
+Ololw folds
+72Aragorn72 checks
+*** FLOP *** [Th 9h Jh]
+72Aragorn72 checks
+DucBellic95 checks
+CryptoHolder checks
+*** TURN *** [Th 9h Jh][4h]
+72Aragorn72 checks
+DucBellic95 checks
+CryptoHolder checks
+*** RIVER *** [Th 9h Jh 4h][Qs]
+72Aragorn72 checks
+DucBellic95 bets 200
+CryptoHolder calls 200
+72Aragorn72 calls 200
+*** SHOW DOWN ***
+72Aragorn72 shows [Js Ts] (Two pairs : Jacks and Tens)
+DucBellic95 shows [7d 8d] (Straight Queen high)
+CryptoHolder shows [Kc 7c] (Straight King high)
+CryptoHolder collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Board: [Th 9h Jh 4h Qs]
+Seat 1: CryptoHolder (button) showed [Kc 7c] and won 1450 with Straight King high
+Seat 3: 72Aragorn72 (big blind) showed [Js Ts] and lost with Two pairs : Jacks and Tens
+Seat 4: DucBellic95 showed [7d 8d] and lost with Straight Queen high
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-6-1668886556 - Holdem no limit (25/100/200) - 2022/11/19 19:35:56 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: CryptoHolder (21600, 0.90€ bounty)
+Seat 2: Ololw (19575, 0.90€ bounty)
+Seat 3: 72Aragorn72 (19075, 0.90€ bounty)
+Seat 4: DucBellic95 (18275, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (21900, 0.90€ bounty)
+Seat 6: CdriKpiALLIN (19575, 0.90€ bounty)
+*** ANTE/BLINDS ***
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+YL_ML_GL_42 posts ante 25
+CdriKpiALLIN posts ante 25
+72Aragorn72 posts small blind 100
+DucBellic95 posts big blind 200
+Dealt to YL_ML_GL_42 [Jh 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+CdriKpiALLIN raises 300 to 500
+CryptoHolder folds
+Ololw folds
+72Aragorn72 folds
+DucBellic95 calls 300
+*** FLOP *** [Jd Kd 2s]
+DucBellic95 checks
+CdriKpiALLIN bets 438
+DucBellic95 calls 438
+*** TURN *** [Jd Kd 2s][Qd]
+DucBellic95 checks
+CdriKpiALLIN checks
+*** RIVER *** [Jd Kd 2s Qd][Ks]
+DucBellic95 checks
+CdriKpiALLIN checks
+*** SHOW DOWN ***
+CdriKpiALLIN shows [8c 8d] (Two pairs : Kings and 8)
+DucBellic95 shows [Tc Qh] (Two pairs : Kings and Queens)
+DucBellic95 collected 2126 from pot
+*** SUMMARY ***
+Total pot 2126 | No rake
+Board: [Jd Kd 2s Qd Ks]
+Seat 4: DucBellic95 (big blind) showed [Tc Qh] and won 2126 with Two pairs : Kings and Queens
+Seat 6: CdriKpiALLIN showed [8c 8d] and lost with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-7-1668886603 - Holdem no limit (25/100/200) - 2022/11/19 19:36:43 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: CryptoHolder (21575, 0.90€ bounty)
+Seat 2: Ololw (19550, 0.90€ bounty)
+Seat 3: 72Aragorn72 (18950, 0.90€ bounty)
+Seat 4: DucBellic95 (19438, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (21875, 0.90€ bounty)
+*** ANTE/BLINDS ***
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+DucBellic95 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Kh 7c]
+*** PRE-FLOP *** 
+CryptoHolder folds
+Ololw folds
+72Aragorn72 folds
+DucBellic95 calls 100
+YL_ML_GL_42 checks
+*** FLOP *** [8c 9d 5s]
+DucBellic95 checks
+YL_ML_GL_42 checks
+*** TURN *** [8c 9d 5s][Tc]
+DucBellic95 checks
+YL_ML_GL_42 checks
+*** RIVER *** [8c 9d 5s Tc][9h]
+DucBellic95 bets 200
+YL_ML_GL_42 folds
+DucBellic95 collected 725 from pot
+*** SUMMARY ***
+Total pot 725 | No rake
+Board: [8c 9d 5s Tc 9h]
+Seat 4: DucBellic95 (small blind) won 725
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-8-1668886662 - Holdem no limit (25/100/200) - 2022/11/19 19:37:42 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: CryptoHolder (21550, 0.90€ bounty)
+Seat 2: Ololw (19525, 0.90€ bounty)
+Seat 3: 72Aragorn72 (18925, 0.90€ bounty)
+Seat 4: DucBellic95 (19738, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (21650, 0.90€ bounty)
+Seat 6: RETEGIIKER (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts small blind 100
+RETEGIIKER posts big blind 200
+Dealt to YL_ML_GL_42 [Kd 7h]
+*** PRE-FLOP *** 
+CryptoHolder raises 200 to 400
+Ololw folds
+72Aragorn72 folds
+DucBellic95 folds
+YL_ML_GL_42 folds
+RETEGIIKER folds
+CryptoHolder collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 1: CryptoHolder won 850
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-9-1668886710 - Holdem no limit (25/100/200) - 2022/11/19 19:38:30 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: CryptoHolder (21975, 0.90€ bounty)
+Seat 2: Ololw (19500, 0.90€ bounty)
+Seat 3: 72Aragorn72 (18900, 0.90€ bounty)
+Seat 4: DucBellic95 (19713, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (21525, 0.90€ bounty)
+Seat 6: RETEGIIKER (19775, 0.90€ bounty)
+*** ANTE/BLINDS ***
+RETEGIIKER posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts small blind 100
+CryptoHolder posts big blind 200
+Dealt to YL_ML_GL_42 [8s Jc]
+*** PRE-FLOP *** 
+Ololw folds
+72Aragorn72 raises 400 to 600
+DucBellic95 folds
+YL_ML_GL_42 folds
+RETEGIIKER folds
+CryptoHolder calls 400
+*** FLOP *** [Qh Ah Kd]
+CryptoHolder checks
+72Aragorn72 bets 508
+CryptoHolder calls 508
+*** TURN *** [Qh Ah Kd][6c]
+CryptoHolder checks
+72Aragorn72 bets 1233
+CryptoHolder raises 19609 to 20842 and is all-in
+72Aragorn72 calls 16534 and is all-in
+*** RIVER *** [Qh Ah Kd 6c][9c]
+*** SHOW DOWN ***
+CryptoHolder shows [8h Kh] (One pair : Kings)
+72Aragorn72 shows [Kc Ad] (Two pairs : Aces and Kings)
+72Aragorn72 collected 38000 from main pot
+CryptoHolder collected 3075 from side pot 1
+*** SUMMARY ***
+Total pot 41075 | No rake
+Board: [Qh Ah Kd 6c 9c]
+Seat 1: CryptoHolder (big blind) showed [8h Kh] and won 3075 with One pair : Kings
+Seat 3: 72Aragorn72 showed [Kc Ad] and won 38000 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-10-1668886768 - Holdem no limit (25/100/200) - 2022/11/19 19:39:28 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: CryptoHolder (3075, 0.90€ bounty)
+Seat 2: Ololw (19475, 0.90€ bounty)
+Seat 3: 72Aragorn72 (38000, 0.90€ bounty)
+Seat 4: DucBellic95 (19688, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (21500, 0.90€ bounty)
+Seat 6: RETEGIIKER (19650, 0.90€ bounty)
+*** ANTE/BLINDS ***
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+CryptoHolder posts small blind 100
+Ololw posts big blind 200
+Dealt to YL_ML_GL_42 [6d 7h]
+*** PRE-FLOP *** 
+72Aragorn72 folds
+DucBellic95 calls 200
+YL_ML_GL_42 folds
+RETEGIIKER folds
+CryptoHolder raises 2850 to 3050 and is all-in
+Ololw folds
+DucBellic95 folds
+CryptoHolder collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 1: CryptoHolder (small blind) won 3600
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-11-1668886789 - Holdem no limit (25/100/200) - 2022/11/19 19:39:49 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: CryptoHolder (3600, 0.90€ bounty)
+Seat 2: Ololw (19250, 0.90€ bounty)
+Seat 3: 72Aragorn72 (37975, 0.90€ bounty)
+Seat 4: DucBellic95 (19463, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (21475, 0.90€ bounty)
+Seat 6: RETEGIIKER (19625, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+CryptoHolder posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+Ololw posts small blind 100
+72Aragorn72 posts big blind 200
+Dealt to YL_ML_GL_42 [3d Ts]
+*** PRE-FLOP *** 
+DucBellic95 calls 200
+YL_ML_GL_42 folds
+RETEGIIKER folds
+CryptoHolder folds
+Ololw folds
+72Aragorn72 checks
+*** FLOP *** [5c Ah Th]
+72Aragorn72 checks
+DucBellic95 bets 200
+72Aragorn72 folds
+DucBellic95 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Board: [5c Ah Th]
+Seat 4: DucBellic95 won 850
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-12-1668886815 - Holdem no limit (25/100/200) - 2022/11/19 19:40:15 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: CryptoHolder (3575, 0.90€ bounty)
+Seat 2: Ololw (19125, 0.90€ bounty)
+Seat 3: 72Aragorn72 (37750, 0.90€ bounty)
+Seat 4: DucBellic95 (19888, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (21450, 0.90€ bounty)
+Seat 6: RETEGIIKER (19600, 0.90€ bounty)
+*** ANTE/BLINDS ***
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+72Aragorn72 posts small blind 100
+DucBellic95 posts big blind 200
+Dealt to YL_ML_GL_42 [Jd 4s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+RETEGIIKER folds
+CryptoHolder raises 3350 to 3550 and is all-in
+Ololw calls 3550
+72Aragorn72 folds
+DucBellic95 folds
+*** FLOP *** [9c Ad Jh]
+*** TURN *** [9c Ad Jh][Ah]
+*** RIVER *** [9c Ad Jh Ah][5s]
+*** SHOW DOWN ***
+Ololw shows [6h 7h] (One pair : Aces)
+CryptoHolder shows [Qc Th] (One pair : Aces)
+CryptoHolder collected 7550 from pot
+*** SUMMARY ***
+Total pot 7550 | No rake
+Board: [9c Ad Jh Ah 5s]
+Seat 1: CryptoHolder showed [Qc Th] and won 7550 with One pair : Aces
+Seat 2: Ololw (button) showed [6h 7h] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-13-1668886868 - Holdem no limit (25/100/200) - 2022/11/19 19:41:08 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: CryptoHolder (7550, 0.90€ bounty)
+Seat 2: Ololw (15550, 0.90€ bounty)
+Seat 3: 72Aragorn72 (37625, 0.90€ bounty)
+Seat 4: DucBellic95 (19663, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (21425, 0.90€ bounty)
+Seat 6: RETEGIIKER (19575, 0.90€ bounty)
+*** ANTE/BLINDS ***
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+RETEGIIKER posts ante 25
+DucBellic95 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [9c Tc]
+*** PRE-FLOP *** 
+RETEGIIKER folds
+CryptoHolder calls 200
+Ololw folds
+72Aragorn72 calls 200
+DucBellic95 folds
+YL_ML_GL_42 checks
+*** FLOP *** [Ts 7d Kd]
+YL_ML_GL_42 bets 425
+CryptoHolder calls 425
+72Aragorn72 calls 425
+*** TURN *** [Ts 7d Kd][8h]
+YL_ML_GL_42 bets 1063
+CryptoHolder calls 1063
+72Aragorn72 calls 1063
+*** RIVER *** [Ts 7d Kd 8h][5d]
+YL_ML_GL_42 checks
+CryptoHolder checks
+72Aragorn72 checks
+*** SHOW DOWN ***
+CryptoHolder shows [Kc 3h] (One pair : Kings)
+YL_ML_GL_42 shows [9c Tc] (One pair : Tens)
+72Aragorn72 shows [9d Ks] (One pair : Kings)
+72Aragorn72 collected 5314 from pot
+*** SUMMARY ***
+Total pot 5314 | No rake
+Board: [Ts 7d Kd 8h 5d]
+Seat 1: CryptoHolder showed [Kc 3h] and lost with One pair : Kings
+Seat 3: 72Aragorn72 (button) showed [9d Ks] and won 5314 with One pair : Kings
+Seat 5: YL_ML_GL_42 (big blind) showed [9c Tc] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-14-1668886951 - Holdem no limit (25/100/200) - 2022/11/19 19:42:31 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: CryptoHolder (5837, 0.90€ bounty)
+Seat 2: Ololw (15525, 0.90€ bounty)
+Seat 3: 72Aragorn72 (41226, 0.90€ bounty)
+Seat 4: DucBellic95 (19538, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (19712, 0.90€ bounty)
+Seat 6: RETEGIIKER (19550, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts small blind 100
+RETEGIIKER posts big blind 200
+Dealt to YL_ML_GL_42 [Ad 9s]
+*** PRE-FLOP *** 
+CryptoHolder raises 5612 to 5812 and is all-in
+Ololw folds
+72Aragorn72 folds
+DucBellic95 folds
+YL_ML_GL_42 folds
+RETEGIIKER folds
+CryptoHolder collected 6262 from pot
+*** SUMMARY ***
+Total pot 6262 | No rake
+Seat 1: CryptoHolder won 6262
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-15-1668886980 - Holdem no limit (25/100/200) - 2022/11/19 19:43:00 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: CryptoHolder (6262, 0.90€ bounty)
+Seat 2: Ololw (15500, 0.90€ bounty)
+Seat 3: 72Aragorn72 (41201, 0.90€ bounty)
+Seat 4: DucBellic95 (19513, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (19587, 0.90€ bounty)
+Seat 6: RETEGIIKER (19325, 0.90€ bounty)
+*** ANTE/BLINDS ***
+RETEGIIKER posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts small blind 100
+CryptoHolder posts big blind 200
+Dealt to YL_ML_GL_42 [5h 6h]
+*** PRE-FLOP *** 
+Ololw raises 300 to 500
+72Aragorn72 raises 1000 to 1500
+DucBellic95 folds
+YL_ML_GL_42 folds
+RETEGIIKER folds
+CryptoHolder folds
+Ololw folds
+72Aragorn72 collected 2450 from pot
+*** SUMMARY ***
+Total pot 2450 | No rake
+Seat 3: 72Aragorn72 won 2450
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-16-1668887008 - Holdem no limit (25/100/200) - 2022/11/19 19:43:28 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: CryptoHolder (6037, 0.90€ bounty)
+Seat 2: Ololw (14975, 0.90€ bounty)
+Seat 3: 72Aragorn72 (42126, 0.90€ bounty)
+Seat 4: DucBellic95 (19488, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (19562, 0.90€ bounty)
+Seat 6: RETEGIIKER (19200, 0.90€ bounty)
+*** ANTE/BLINDS ***
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+CryptoHolder posts small blind 100
+Ololw posts big blind 200
+Dealt to YL_ML_GL_42 [7h 8c]
+*** PRE-FLOP *** 
+72Aragorn72 raises 200 to 400
+DucBellic95 folds
+YL_ML_GL_42 folds
+RETEGIIKER calls 400
+CryptoHolder folds
+Ololw folds
+*** FLOP *** [Ts Kh Ad]
+72Aragorn72 bets 313
+RETEGIIKER calls 313
+*** TURN *** [Ts Kh Ad][8s]
+72Aragorn72 checks
+RETEGIIKER bets 1251
+72Aragorn72 folds
+RETEGIIKER collected 3127 from pot
+*** SUMMARY ***
+Total pot 3127 | No rake
+Board: [Ts Kh Ad 8s]
+Seat 6: RETEGIIKER (button) won 3127
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-17-1668887064 - Holdem no limit (25/100/200) - 2022/11/19 19:44:24 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: CryptoHolder (5912, 0.90€ bounty)
+Seat 2: Ololw (14750, 0.90€ bounty)
+Seat 3: 72Aragorn72 (41388, 0.90€ bounty)
+Seat 4: DucBellic95 (19463, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (19537, 0.90€ bounty)
+Seat 6: RETEGIIKER (20338, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+CryptoHolder posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+Ololw posts small blind 100
+72Aragorn72 posts big blind 200
+Dealt to YL_ML_GL_42 [2h 3d]
+*** PRE-FLOP *** 
+DucBellic95 calls 200
+YL_ML_GL_42 folds
+RETEGIIKER folds
+CryptoHolder folds
+Ololw calls 100
+72Aragorn72 checks
+*** FLOP *** [6h 8s 7s]
+Ololw checks
+72Aragorn72 checks
+DucBellic95 checks
+*** TURN *** [6h 8s 7s][Qs]
+Ololw checks
+72Aragorn72 checks
+DucBellic95 checks
+*** RIVER *** [6h 8s 7s Qs][5h]
+Ololw bets 400
+72Aragorn72 folds
+DucBellic95 folds
+Ololw collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | No rake
+Board: [6h 8s 7s Qs 5h]
+Seat 2: Ololw (small blind) won 1150
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-18-1668887122 - Holdem no limit (25/100/200) - 2022/11/19 19:45:22 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: CryptoHolder (5887, 0.90€ bounty)
+Seat 2: Ololw (15275, 0.90€ bounty)
+Seat 3: 72Aragorn72 (41163, 0.90€ bounty)
+Seat 4: DucBellic95 (19238, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (19512, 0.90€ bounty)
+Seat 6: RETEGIIKER (20313, 0.90€ bounty)
+*** ANTE/BLINDS ***
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+72Aragorn72 posts small blind 100
+DucBellic95 posts big blind 200
+Dealt to YL_ML_GL_42 [4d 2c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+RETEGIIKER folds
+CryptoHolder calls 200
+Ololw folds
+72Aragorn72 folds
+DucBellic95 checks
+*** FLOP *** [Ac Kd 7c]
+DucBellic95 checks
+CryptoHolder bets 200
+DucBellic95 folds
+CryptoHolder collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Board: [Ac Kd 7c]
+Seat 1: CryptoHolder won 850
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-19-1668887153 - Holdem no limit (25/100/200) - 2022/11/19 19:45:53 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: CryptoHolder (6312, 0.90€ bounty)
+Seat 2: Ololw (15250, 0.90€ bounty)
+Seat 3: 72Aragorn72 (41038, 0.90€ bounty)
+Seat 4: DucBellic95 (19013, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (19487, 0.90€ bounty)
+Seat 6: RETEGIIKER (20288, 0.90€ bounty)
+*** ANTE/BLINDS ***
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+RETEGIIKER posts ante 25
+DucBellic95 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [8h 3h]
+*** PRE-FLOP *** 
+RETEGIIKER folds
+CryptoHolder calls 200
+Ololw folds
+72Aragorn72 folds
+DucBellic95 calls 100
+YL_ML_GL_42 checks
+*** FLOP *** [2h 9s Jh]
+DucBellic95 checks
+YL_ML_GL_42 bets 488
+CryptoHolder calls 488
+DucBellic95 folds
+*** TURN *** [2h 9s Jh][Qc]
+YL_ML_GL_42 bets 863
+CryptoHolder calls 863
+*** RIVER *** [2h 9s Jh Qc][9d]
+YL_ML_GL_42 checks
+CryptoHolder checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [8h 3h] (One pair : 9)
+CryptoHolder shows [Kd Ah] (One pair : 9)
+CryptoHolder collected 3452 from pot
+*** SUMMARY ***
+Total pot 3452 | No rake
+Board: [2h 9s Jh Qc 9d]
+Seat 1: CryptoHolder showed [Kd Ah] and won 3452 with One pair : 9
+Seat 5: YL_ML_GL_42 (big blind) showed [8h 3h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-20-1668887237 - Holdem no limit (25/100/200) - 2022/11/19 19:47:17 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: CryptoHolder (8188, 0.90€ bounty)
+Seat 2: Ololw (15225, 0.90€ bounty)
+Seat 3: 72Aragorn72 (41013, 0.90€ bounty)
+Seat 4: DucBellic95 (18788, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (17911, 0.90€ bounty)
+Seat 6: RETEGIIKER (20263, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts small blind 100
+RETEGIIKER posts big blind 200
+Dealt to YL_ML_GL_42 [Qs Ad]
+*** PRE-FLOP *** 
+CryptoHolder calls 200
+Ololw folds
+72Aragorn72 folds
+DucBellic95 folds
+YL_ML_GL_42 raises 400 to 600
+RETEGIIKER folds
+CryptoHolder calls 400
+*** FLOP *** [4d 9s As]
+YL_ML_GL_42 bets 1008
+CryptoHolder folds
+YL_ML_GL_42 collected 2558 from pot
+*** SUMMARY ***
+Total pot 2558 | No rake
+Board: [4d 9s As]
+Seat 5: YL_ML_GL_42 (small blind) won 2558
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-21-1668887280 - Holdem no limit (25/100/200) - 2022/11/19 19:48:00 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: CryptoHolder (7563, 0.90€ bounty)
+Seat 2: Ololw (15200, 0.90€ bounty)
+Seat 3: 72Aragorn72 (40988, 0.90€ bounty)
+Seat 4: DucBellic95 (18763, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (18836, 0.90€ bounty)
+Seat 6: RETEGIIKER (20038, 0.90€ bounty)
+*** ANTE/BLINDS ***
+RETEGIIKER posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts small blind 100
+CryptoHolder posts big blind 200
+Dealt to YL_ML_GL_42 [Qd 3c]
+*** PRE-FLOP *** 
+Ololw folds
+72Aragorn72 raises 300 to 500
+DucBellic95 calls 500
+YL_ML_GL_42 folds
+RETEGIIKER folds
+CryptoHolder folds
+*** FLOP *** [6c 8d Qc]
+72Aragorn72 checks
+DucBellic95 checks
+*** TURN *** [6c 8d Qc][9d]
+72Aragorn72 checks
+DucBellic95 checks
+*** RIVER *** [6c 8d Qc 9d][Kc]
+72Aragorn72 checks
+DucBellic95 checks
+*** SHOW DOWN ***
+DucBellic95 shows [Ah 2h] (High card : Ace)
+72Aragorn72 shows [Jh As] (High card : Ace)
+72Aragorn72 collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Board: [6c 8d Qc 9d Kc]
+Seat 3: 72Aragorn72 showed [Jh As] and won 1450 with High card : Ace
+Seat 4: DucBellic95 showed [Ah 2h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-22-1668887353 - Holdem no limit (25/100/200) - 2022/11/19 19:49:13 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: CryptoHolder (7338, 0.90€ bounty)
+Seat 2: Ololw (15175, 0.90€ bounty)
+Seat 3: 72Aragorn72 (41913, 0.90€ bounty)
+Seat 4: DucBellic95 (18238, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (18811, 0.90€ bounty)
+Seat 6: RETEGIIKER (19913, 0.90€ bounty)
+*** ANTE/BLINDS ***
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+CryptoHolder posts small blind 100
+Ololw posts big blind 200
+Dealt to YL_ML_GL_42 [6s 6c]
+*** PRE-FLOP *** 
+72Aragorn72 folds
+DucBellic95 calls 200
+YL_ML_GL_42 raises 200 to 400
+RETEGIIKER folds
+CryptoHolder calls 300
+Ololw calls 200
+DucBellic95 calls 200
+*** FLOP *** [As 4c Qs]
+CryptoHolder checks
+Ololw checks
+DucBellic95 checks
+YL_ML_GL_42 checks
+*** TURN *** [As 4c Qs][Js]
+CryptoHolder checks
+Ololw checks
+DucBellic95 checks
+YL_ML_GL_42 checks
+*** RIVER *** [As 4c Qs Js][7c]
+CryptoHolder bets 200
+Ololw folds
+DucBellic95 raises 200 to 400
+YL_ML_GL_42 folds
+CryptoHolder calls 200
+*** SHOW DOWN ***
+CryptoHolder shows [8d 7d] (One pair : 7)
+DucBellic95 shows [7s Ks] (Flush Ace high)
+DucBellic95 collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Board: [As 4c Qs Js 7c]
+Seat 1: CryptoHolder (small blind) showed [8d 7d] and lost with One pair : 7
+Seat 4: DucBellic95 showed [7s Ks] and won 2550 with Flush Ace high
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-23-1668887436 - Holdem no limit (25/100/200) - 2022/11/19 19:50:36 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: CryptoHolder (6513, 0.90€ bounty)
+Seat 2: Ololw (14750, 0.90€ bounty)
+Seat 3: 72Aragorn72 (41888, 0.90€ bounty)
+Seat 4: DucBellic95 (19963, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (18386, 0.90€ bounty)
+Seat 6: RETEGIIKER (19888, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+CryptoHolder posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+Ololw posts small blind 100
+72Aragorn72 posts big blind 200
+Dealt to YL_ML_GL_42 [9d 7h]
+*** PRE-FLOP *** 
+DucBellic95 folds
+YL_ML_GL_42 folds
+RETEGIIKER folds
+CryptoHolder calls 200
+Ololw folds
+72Aragorn72 checks
+*** FLOP *** [8d Jh 5d]
+72Aragorn72 checks
+CryptoHolder checks
+*** TURN *** [8d Jh 5d][9h]
+72Aragorn72 checks
+CryptoHolder checks
+*** RIVER *** [8d Jh 5d 9h][2c]
+72Aragorn72 checks
+CryptoHolder checks
+*** SHOW DOWN ***
+CryptoHolder shows [Kd 4c] (High card : King)
+72Aragorn72 shows [8s Qd] (One pair : 8)
+72Aragorn72 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [8d Jh 5d 9h 2c]
+Seat 1: CryptoHolder (button) showed [Kd 4c] and lost with High card : King
+Seat 3: 72Aragorn72 (big blind) showed [8s Qd] and won 650 with One pair : 8
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-24-1668887478 - Holdem no limit (25/100/200) - 2022/11/19 19:51:18 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: CryptoHolder (6288, 0.90€ bounty)
+Seat 2: Ololw (14625, 0.90€ bounty)
+Seat 3: 72Aragorn72 (42313, 0.90€ bounty)
+Seat 4: DucBellic95 (19938, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (18361, 0.90€ bounty)
+Seat 6: RETEGIIKER (19863, 0.90€ bounty)
+*** ANTE/BLINDS ***
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+72Aragorn72 posts small blind 100
+DucBellic95 posts big blind 200
+Dealt to YL_ML_GL_42 [3h 6s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+RETEGIIKER raises 300 to 500
+CryptoHolder folds
+Ololw calls 500
+72Aragorn72 folds
+DucBellic95 calls 300
+*** FLOP *** [5d Js Qc]
+DucBellic95 checks
+RETEGIIKER bets 1138
+Ololw folds
+DucBellic95 folds
+RETEGIIKER collected 2888 from pot
+*** SUMMARY ***
+Total pot 2888 | No rake
+Board: [5d Js Qc]
+Seat 6: RETEGIIKER won 2888
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-25-1668887504 - Holdem no limit (25/100/200) - 2022/11/19 19:51:44 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: CryptoHolder (6263, 0.90€ bounty)
+Seat 2: Ololw (14100, 0.90€ bounty)
+Seat 3: 72Aragorn72 (42188, 0.90€ bounty)
+Seat 4: DucBellic95 (19413, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (18336, 0.90€ bounty)
+Seat 6: RETEGIIKER (21088, 0.90€ bounty)
+*** ANTE/BLINDS ***
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+RETEGIIKER posts ante 25
+DucBellic95 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Td 9c]
+*** PRE-FLOP *** 
+RETEGIIKER folds
+CryptoHolder raises 6038 to 6238 and is all-in
+Ololw folds
+72Aragorn72 folds
+DucBellic95 folds
+YL_ML_GL_42 folds
+CryptoHolder collected 6688 from pot
+*** SUMMARY ***
+Total pot 6688 | No rake
+Seat 1: CryptoHolder won 6688
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-26-1668887520 - Holdem no limit (25/100/200) - 2022/11/19 19:52:00 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: CryptoHolder (6688, 0.90€ bounty)
+Seat 2: Ololw (14075, 0.90€ bounty)
+Seat 3: 72Aragorn72 (42163, 0.90€ bounty)
+Seat 4: DucBellic95 (19288, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (18111, 0.90€ bounty)
+Seat 6: RETEGIIKER (21063, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts small blind 100
+RETEGIIKER posts big blind 200
+Dealt to YL_ML_GL_42 [Jh Jc]
+*** PRE-FLOP *** 
+CryptoHolder folds
+Ololw folds
+72Aragorn72 folds
+DucBellic95 calls 200
+YL_ML_GL_42 raises 750 to 950
+RETEGIIKER folds
+DucBellic95 calls 750
+*** FLOP *** [Ad 2h 8c]
+YL_ML_GL_42 checks
+DucBellic95 checks
+*** TURN *** [Ad 2h 8c][9s]
+YL_ML_GL_42 checks
+DucBellic95 checks
+*** RIVER *** [Ad 2h 8c 9s][7s]
+YL_ML_GL_42 checks
+DucBellic95 checks
+*** SHOW DOWN ***
+DucBellic95 shows [6s Kh] (High card : Ace)
+YL_ML_GL_42 shows [Jh Jc] (One pair : Jacks)
+YL_ML_GL_42 collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | No rake
+Board: [Ad 2h 8c 9s 7s]
+Seat 4: DucBellic95 (button) showed [6s Kh] and lost with High card : Ace
+Seat 5: YL_ML_GL_42 (small blind) showed [Jh Jc] and won 2250 with One pair : Jacks
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-27-1668887631 - Holdem no limit (25/100/200) - 2022/11/19 19:53:51 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: CryptoHolder (6663, 0.90€ bounty)
+Seat 2: Ololw (14050, 0.90€ bounty)
+Seat 3: 72Aragorn72 (42138, 0.90€ bounty)
+Seat 4: DucBellic95 (18313, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (19386, 0.90€ bounty)
+Seat 6: RETEGIIKER (20838, 0.90€ bounty)
+*** ANTE/BLINDS ***
+RETEGIIKER posts ante 25
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts small blind 100
+CryptoHolder posts big blind 200
+Dealt to YL_ML_GL_42 [Ad 2d]
+*** PRE-FLOP *** 
+Ololw folds
+72Aragorn72 folds
+DucBellic95 folds
+YL_ML_GL_42 raises 200 to 400
+RETEGIIKER calls 300
+CryptoHolder folds
+*** FLOP *** [5d Ks Jc]
+RETEGIIKER bets 403
+YL_ML_GL_42 folds
+RETEGIIKER collected 1553 from pot
+*** SUMMARY ***
+Total pot 1553 | No rake
+Board: [5d Ks Jc]
+Seat 6: RETEGIIKER (small blind) won 1553
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-28-1668887676 - Holdem no limit (25/100/200) - 2022/11/19 19:54:36 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: CryptoHolder (6438, 0.90€ bounty)
+Seat 2: Ololw (14025, 0.90€ bounty)
+Seat 3: 72Aragorn72 (42113, 0.90€ bounty)
+Seat 4: DucBellic95 (18288, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (18961, 0.90€ bounty)
+Seat 6: RETEGIIKER (21563, 0.90€ bounty)
+*** ANTE/BLINDS ***
+CryptoHolder posts ante 25
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+CryptoHolder posts small blind 100
+Ololw posts big blind 200
+Dealt to YL_ML_GL_42 [2c 3c]
+*** PRE-FLOP *** 
+72Aragorn72 folds
+DucBellic95 calls 200
+YL_ML_GL_42 folds
+RETEGIIKER folds
+CryptoHolder folds
+Ololw checks
+*** FLOP *** [Ks Td Th]
+Ololw checks
+DucBellic95 checks
+*** TURN *** [Ks Td Th][2s]
+Ololw bets 200
+DucBellic95 raises 238 to 438
+Ololw calls 238
+*** RIVER *** [Ks Td Th 2s][8s]
+Ololw checks
+DucBellic95 bets 534
+Ololw calls 534
+*** SHOW DOWN ***
+Ololw shows [6h 6c] (Two pairs : Tens and 6)
+DucBellic95 shows [Tc 9s] (Trips of Tens)
+DucBellic95 collected 2594 from pot
+*** SUMMARY ***
+Total pot 2594 | No rake
+Board: [Ks Td Th 2s 8s]
+Seat 2: Ololw (big blind) showed [6h 6c] and lost with Two pairs : Tens and 6
+Seat 4: DucBellic95 showed [Tc 9s] and won 2594 with Trips of Tens
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2545594852544872472-29-1668888063 - Holdem no limit (25/100/200) - 2022/11/19 20:01:03 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(592692488)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: CryptoHolder (6313, 0.90€ bounty)
+Seat 2: Ololw (12828, 0.90€ bounty)
+Seat 3: 72Aragorn72 (42088, 0.90€ bounty)
+Seat 4: DucBellic95 (19685, 0.90€ bounty)
+Seat 5: YL_ML_GL_42 (18936, 0.90€ bounty)
+Seat 6: RETEGIIKER (21538, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Ololw posts ante 25
+72Aragorn72 posts ante 25
+CryptoHolder posts ante 25
+DucBellic95 posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+Ololw posts small blind 100
+72Aragorn72 posts big blind 200
+Dealt to YL_ML_GL_42 [Ac Jd]
+*** PRE-FLOP *** 
+DucBellic95 calls 200
+YL_ML_GL_42 raises 400 to 600
+RETEGIIKER folds
+CryptoHolder folds
+Ololw folds
+72Aragorn72 raises 1300 to 1900
+DucBellic95 calls 1700
+YL_ML_GL_42 raises 17011 to 18911 and is all-in
+72Aragorn72 raises 23152 to 42063 and is all-in
+DucBellic95 folds
+*** FLOP *** [3h Ts 6c]
+*** TURN *** [3h Ts 6c][2d]
+*** RIVER *** [3h Ts 6c 2d][Jh]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ac Jd] (One pair : Jacks)
+72Aragorn72 shows [Kh Kd] (One pair : Kings)
+72Aragorn72 collected 63124 from pot
+*** SUMMARY ***
+Total pot 63124 | No rake
+Board: [3h Ts 6c 2d Jh]
+Seat 3: 72Aragorn72 (big blind) showed [Kh Kd] and won 63124 with One pair : Kings
+Seat 5: YL_ML_GL_42 showed [Ac Jd] and lost with One pair : Jacks
+
+

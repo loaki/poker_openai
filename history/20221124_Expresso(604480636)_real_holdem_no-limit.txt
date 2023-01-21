@@ -1,0 +1,359 @@
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2596224562685280257-1-1669330605 - Holdem no limit (10/20) - 2022/11/24 22:56:45 UTC
+Table: 'Expresso(604480636)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Auroredu56 (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Zelpat57 (500)
+*** ANTE/BLINDS ***
+Auroredu56 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Ah Th]
+*** PRE-FLOP *** 
+Zelpat57 folds
+Auroredu56 calls 10
+YL_ML_GL_42 raises 480 to 500 and is all-in
+Auroredu56 folds
+YL_ML_GL_42 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 520
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2596224562685280257-2-1669330619 - Holdem no limit (10/20) - 2022/11/24 22:56:59 UTC
+Table: 'Expresso(604480636)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Auroredu56 (480)
+Seat 2: YL_ML_GL_42 (520)
+Seat 3: Zelpat57 (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Zelpat57 posts big blind 20
+Dealt to YL_ML_GL_42 [2h 6d]
+*** PRE-FLOP *** 
+Auroredu56 calls 20
+YL_ML_GL_42 folds
+Zelpat57 checks
+*** FLOP *** [7h 8s 2d]
+Zelpat57 bets 20
+Auroredu56 raises 20 to 40
+Zelpat57 calls 20
+*** TURN *** [7h 8s 2d][Js]
+Zelpat57 checks
+Auroredu56 checks
+*** RIVER *** [7h 8s 2d Js][3d]
+Zelpat57 bets 130
+Auroredu56 calls 130
+*** SHOW DOWN ***
+Zelpat57 shows [5d 7c] (One pair : 7)
+Auroredu56 shows [Kc 8h] (One pair : 8)
+Auroredu56 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [7h 8s 2d Js 3d]
+Seat 1: Auroredu56 (button) showed [Kc 8h] and won 390 with One pair : 8
+Seat 3: Zelpat57 (big blind) showed [5d 7c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2596224562685280257-3-1669330644 - Holdem no limit (10/20) - 2022/11/24 22:57:24 UTC
+Table: 'Expresso(604480636)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Auroredu56 (680)
+Seat 2: YL_ML_GL_42 (510)
+Seat 3: Zelpat57 (310)
+*** ANTE/BLINDS ***
+Zelpat57 posts small blind 10
+Auroredu56 posts big blind 20
+Dealt to YL_ML_GL_42 [8h 3c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Zelpat57 raises 20 to 40
+Auroredu56 calls 20
+*** FLOP *** [9s 6s 4s]
+Zelpat57 bets 270 and is all-in
+Auroredu56 folds
+Zelpat57 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [9s 6s 4s]
+Seat 3: Zelpat57 (small blind) won 350
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2596224562685280257-4-1669330659 - Holdem no limit (10/20) - 2022/11/24 22:57:39 UTC
+Table: 'Expresso(604480636)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Auroredu56 (640)
+Seat 2: YL_ML_GL_42 (510)
+Seat 3: Zelpat57 (350)
+*** ANTE/BLINDS ***
+Auroredu56 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [3c 4h]
+*** PRE-FLOP *** 
+Zelpat57 folds
+Auroredu56 calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [Ts Th Td]
+Auroredu56 checks
+YL_ML_GL_42 checks
+*** TURN *** [Ts Th Td][2s]
+Auroredu56 checks
+YL_ML_GL_42 checks
+*** RIVER *** [Ts Th Td 2s][4c]
+Auroredu56 checks
+YL_ML_GL_42 bets 490 and is all-in
+Auroredu56 folds
+YL_ML_GL_42 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [Ts Th Td 2s 4c]
+Seat 2: YL_ML_GL_42 (big blind) won 530
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2596224562685280257-5-1669330681 - Holdem no limit (10/20) - 2022/11/24 22:58:01 UTC
+Table: 'Expresso(604480636)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Auroredu56 (620)
+Seat 2: YL_ML_GL_42 (530)
+Seat 3: Zelpat57 (350)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Zelpat57 posts big blind 20
+Dealt to YL_ML_GL_42 [Ts 6d]
+*** PRE-FLOP *** 
+Auroredu56 raises 20 to 40
+YL_ML_GL_42 folds
+Zelpat57 raises 310 to 350 and is all-in
+Auroredu56 calls 310
+*** FLOP *** [2c 3d Qd]
+*** TURN *** [2c 3d Qd][7h]
+*** RIVER *** [2c 3d Qd 7h][Td]
+*** SHOW DOWN ***
+Auroredu56 shows [Ad Jc] (High card : Ace)
+Zelpat57 shows [Jh As] (High card : Ace)
+Zelpat57 collected 355 from pot
+Auroredu56 collected 355 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Board: [2c 3d Qd 7h Td]
+Seat 1: Auroredu56 (button) showed [Ad Jc] and won 355 with High card : Ace
+Seat 3: Zelpat57 (big blind) showed [Jh As] and won 355 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2596224562685280257-6-1669330697 - Holdem no limit (15/30) - 2022/11/24 22:58:17 UTC
+Table: 'Expresso(604480636)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Auroredu56 (625)
+Seat 2: YL_ML_GL_42 (520)
+Seat 3: Zelpat57 (355)
+*** ANTE/BLINDS ***
+Zelpat57 posts small blind 15
+Auroredu56 posts big blind 30
+Dealt to YL_ML_GL_42 [Qd 7c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Zelpat57 raises 325 to 355 and is all-in
+Auroredu56 folds
+Zelpat57 collected 385 from pot
+*** SUMMARY ***
+Total pot 385 | No rake
+Seat 3: Zelpat57 (small blind) won 385
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2596224562685280257-7-1669330706 - Holdem no limit (15/30) - 2022/11/24 22:58:26 UTC
+Table: 'Expresso(604480636)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Auroredu56 (595)
+Seat 2: YL_ML_GL_42 (520)
+Seat 3: Zelpat57 (385)
+*** ANTE/BLINDS ***
+Auroredu56 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [7d Qc]
+*** PRE-FLOP *** 
+Zelpat57 folds
+Auroredu56 calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [9c Th Ts]
+Auroredu56 bets 30
+YL_ML_GL_42 folds
+Auroredu56 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [9c Th Ts]
+Seat 1: Auroredu56 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2596224562685280257-8-1669330719 - Holdem no limit (15/30) - 2022/11/24 22:58:39 UTC
+Table: 'Expresso(604480636)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Auroredu56 (625)
+Seat 2: YL_ML_GL_42 (490)
+Seat 3: Zelpat57 (385)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Zelpat57 posts big blind 30
+Dealt to YL_ML_GL_42 [3s 5s]
+*** PRE-FLOP *** 
+Auroredu56 calls 30
+YL_ML_GL_42 calls 15
+Zelpat57 checks
+*** FLOP *** [As Qd Jd]
+YL_ML_GL_42 checks
+Zelpat57 checks
+Auroredu56 bets 30
+YL_ML_GL_42 folds
+Zelpat57 calls 30
+*** TURN *** [As Qd Jd][5d]
+Zelpat57 checks
+Auroredu56 bets 30
+Zelpat57 raises 210 to 240
+Auroredu56 calls 210
+*** RIVER *** [As Qd Jd 5d][7h]
+Zelpat57 bets 85 and is all-in
+Auroredu56 calls 85
+*** SHOW DOWN ***
+Zelpat57 shows [9d Jc] (One pair : Jacks)
+Auroredu56 shows [6d Ac] (One pair : Aces)
+Auroredu56 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [As Qd Jd 5d 7h]
+Seat 1: Auroredu56 (button) showed [6d Ac] and won 800 with One pair : Aces
+Seat 3: Zelpat57 (big blind) showed [9d Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2596224562685280257-9-1669330750 - Holdem no limit (15/30) - 2022/11/24 22:59:10 UTC
+Table: 'Expresso(604480636)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Auroredu56 (1040)
+Seat 2: YL_ML_GL_42 (460)
+*** ANTE/BLINDS ***
+Auroredu56 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Qh Kc]
+*** PRE-FLOP *** 
+Auroredu56 calls 15
+YL_ML_GL_42 raises 60 to 90
+Auroredu56 calls 60
+*** FLOP *** [3h 2d 7c]
+YL_ML_GL_42 bets 144
+Auroredu56 folds
+YL_ML_GL_42 collected 324 from pot
+*** SUMMARY ***
+Total pot 324 | No rake
+Board: [3h 2d 7c]
+Seat 2: YL_ML_GL_42 (big blind) won 324
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2596224562685280257-10-1669330762 - Holdem no limit (15/30) - 2022/11/24 22:59:22 UTC
+Table: 'Expresso(604480636)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Auroredu56 (950)
+Seat 2: YL_ML_GL_42 (550)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Auroredu56 posts big blind 30
+Dealt to YL_ML_GL_42 [7s Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+Auroredu56 calls 60
+*** FLOP *** [Jc 7d Ts]
+Auroredu56 checks
+YL_ML_GL_42 bets 144
+Auroredu56 folds
+YL_ML_GL_42 collected 324 from pot
+*** SUMMARY ***
+Total pot 324 | No rake
+Board: [Jc 7d Ts]
+Seat 2: YL_ML_GL_42 (small blind) (button) won 324
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2596224562685280257-11-1669330772 - Holdem no limit (15/30) - 2022/11/24 22:59:32 UTC
+Table: 'Expresso(604480636)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Auroredu56 (860)
+Seat 2: YL_ML_GL_42 (640)
+*** ANTE/BLINDS ***
+Auroredu56 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [4s 6d]
+*** PRE-FLOP *** 
+Auroredu56 folds
+YL_ML_GL_42 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2596224562685280257-12-1669330776 - Holdem no limit (15/30) - 2022/11/24 22:59:36 UTC
+Table: 'Expresso(604480636)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Auroredu56 (845)
+Seat 2: YL_ML_GL_42 (655)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Auroredu56 posts big blind 30
+Dealt to YL_ML_GL_42 [Kh Kd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 15
+Auroredu56 checks
+*** FLOP *** [5c 6d Ks]
+Auroredu56 checks
+YL_ML_GL_42 checks
+*** TURN *** [5c 6d Ks][Td]
+Auroredu56 checks
+YL_ML_GL_42 checks
+*** RIVER *** [5c 6d Ks Td][Qc]
+Auroredu56 checks
+YL_ML_GL_42 bets 60
+Auroredu56 calls 60
+*** SHOW DOWN ***
+Auroredu56 shows [Js 4c] (High card : King)
+YL_ML_GL_42 shows [Kh Kd] (Trips of Kings)
+YL_ML_GL_42 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [5c 6d Ks Td Qc]
+Seat 1: Auroredu56 (big blind) showed [Js 4c] and lost with High card : King
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [Kh Kd] and won 180 with Trips of Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2596224562685280257-13-1669330801 - Holdem no limit (20/40) - 2022/11/24 23:00:01 UTC
+Table: 'Expresso(604480636)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Auroredu56 (755)
+Seat 2: YL_ML_GL_42 (745)
+*** ANTE/BLINDS ***
+Auroredu56 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [As Tc]
+*** PRE-FLOP *** 
+Auroredu56 calls 20
+YL_ML_GL_42 raises 80 to 120
+Auroredu56 calls 80
+*** FLOP *** [Kc 7c 8h]
+YL_ML_GL_42 bets 192
+Auroredu56 folds
+YL_ML_GL_42 collected 432 from pot
+*** SUMMARY ***
+Total pot 432 | No rake
+Board: [Kc 7c 8h]
+Seat 2: YL_ML_GL_42 (big blind) won 432
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2596224562685280257-14-1669330816 - Holdem no limit (20/40) - 2022/11/24 23:00:16 UTC
+Table: 'Expresso(604480636)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Auroredu56 (635)
+Seat 2: YL_ML_GL_42 (865)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Auroredu56 posts big blind 40
+Dealt to YL_ML_GL_42 [6c 9h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 20
+Auroredu56 raises 40 to 80
+YL_ML_GL_42 calls 40
+*** FLOP *** [Kh 7c Th]
+Auroredu56 bets 40
+YL_ML_GL_42 raises 745 to 785 and is all-in
+Auroredu56 calls 515 and is all-in
+*** TURN *** [Kh 7c Th][Jd]
+*** RIVER *** [Kh 7c Th Jd][8d]
+*** SHOW DOWN ***
+Auroredu56 shows [Jh Ah] (One pair : Jacks)
+YL_ML_GL_42 shows [6c 9h] (Straight Jack high)
+YL_ML_GL_42 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Kh 7c Th Jd 8d]
+Seat 1: Auroredu56 (big blind) showed [Jh Ah] and lost with One pair : Jacks
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [6c 9h] and won 1500 with Straight Jack high
+
+

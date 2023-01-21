@@ -1,0 +1,140 @@
+Winamax Poker - Tournament "Expresso W.SERIES" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2608781651194413057-1-1670004330 - Holdem no limit (10/20) - 2022/12/02 18:05:30 UTC
+Table: 'Expresso W.SERIES(607404311)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: chuknoris (500)
+Seat 3: trustipopo (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+chuknoris posts big blind 20
+Dealt to YL_ML_GL_42 [Jc 8s]
+*** PRE-FLOP *** 
+trustipopo calls 20
+YL_ML_GL_42 calls 10
+chuknoris checks
+*** FLOP *** [9h 6s 4h]
+YL_ML_GL_42 checks
+chuknoris bets 60
+trustipopo folds
+YL_ML_GL_42 folds
+chuknoris collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9h 6s 4h]
+Seat 2: chuknoris (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso W.SERIES" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2608781651194413057-2-1670004348 - Holdem no limit (10/20) - 2022/12/02 18:05:48 UTC
+Table: 'Expresso W.SERIES(607404311)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (480)
+Seat 2: chuknoris (540)
+Seat 3: trustipopo (480)
+*** ANTE/BLINDS ***
+chuknoris posts small blind 10
+trustipopo posts big blind 20
+Dealt to YL_ML_GL_42 [Ks 7h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+chuknoris folds
+trustipopo raises 50 to 120
+YL_ML_GL_42 raises 360 to 480 and is all-in
+trustipopo calls 360 and is all-in
+*** FLOP *** [7d 2d 2h]
+*** TURN *** [7d 2d 2h][Tc]
+*** RIVER *** [7d 2d 2h Tc][9s]
+*** SHOW DOWN ***
+trustipopo shows [Jh Ac] (One pair : 2)
+YL_ML_GL_42 shows [Ks 7h] (Two pairs : 7 and 2)
+YL_ML_GL_42 collected 970 from pot
+*** SUMMARY ***
+Total pot 970 | No rake
+Board: [7d 2d 2h Tc 9s]
+Seat 1: YL_ML_GL_42 (button) showed [Ks 7h] and won 970 with Two pairs : 7 and 2
+Seat 3: trustipopo (big blind) showed [Jh Ac] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso W.SERIES" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2608781651194413057-3-1670004366 - Holdem no limit (10/20) - 2022/12/02 18:06:06 UTC
+Table: 'Expresso W.SERIES(607404311)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (970)
+Seat 2: chuknoris (530)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+chuknoris posts big blind 20
+Dealt to YL_ML_GL_42 [7d Qc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 40 to 60
+chuknoris calls 40
+*** FLOP *** [Ac 7s 5h]
+chuknoris checks
+YL_ML_GL_42 bets 120
+chuknoris calls 120
+*** TURN *** [Ac 7s 5h][3h]
+chuknoris checks
+YL_ML_GL_42 checks
+*** RIVER *** [Ac 7s 5h 3h][8s]
+chuknoris checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+chuknoris shows [2d 5d] (One pair : 5)
+YL_ML_GL_42 shows [7d Qc] (One pair : 7)
+YL_ML_GL_42 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ac 7s 5h 3h 8s]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [7d Qc] and won 360 with One pair : 7
+Seat 2: chuknoris (big blind) showed [2d 5d] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso W.SERIES" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2608781651194413057-4-1670004401 - Holdem no limit (10/20) - 2022/12/02 18:06:41 UTC
+Table: 'Expresso W.SERIES(607404311)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1150)
+Seat 2: chuknoris (350)
+*** ANTE/BLINDS ***
+chuknoris posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Ad Kd]
+*** PRE-FLOP *** 
+chuknoris calls 10
+YL_ML_GL_42 raises 40 to 60
+chuknoris calls 40
+*** FLOP *** [7s Ac 4c]
+YL_ML_GL_42 checks
+chuknoris checks
+*** TURN *** [7s Ac 4c][8h]
+YL_ML_GL_42 checks
+chuknoris checks
+*** RIVER *** [7s Ac 4c 8h][7d]
+YL_ML_GL_42 bets 120
+chuknoris folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [7s Ac 4c 8h 7d]
+Seat 1: YL_ML_GL_42 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso W.SERIES" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #2608781651194413057-5-1670004421 - Holdem no limit (15/30) - 2022/12/02 18:07:01 UTC
+Table: 'Expresso W.SERIES(607404311)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1210)
+Seat 2: chuknoris (290)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+chuknoris posts big blind 30
+Dealt to YL_ML_GL_42 [Qc 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+chuknoris raises 200 to 290 and is all-in
+YL_ML_GL_42 calls 200
+*** FLOP *** [6h 8c 4s]
+*** TURN *** [6h 8c 4s][3d]
+*** RIVER *** [6h 8c 4s 3d][8d]
+*** SHOW DOWN ***
+chuknoris shows [Th Jc] (One pair : 8)
+YL_ML_GL_42 shows [Qc 4c] (Two pairs : 8 and 4)
+YL_ML_GL_42 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [6h 8c 4s 3d 8d]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [Qc 4c] and won 580 with Two pairs : 8 and 4
+Seat 2: chuknoris (big blind) showed [Th Jc] and lost with One pair : 8
+
+

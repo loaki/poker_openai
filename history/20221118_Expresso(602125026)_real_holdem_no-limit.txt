@@ -1,0 +1,197 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2586107294773149697-1-1668807060 - Holdem no limit (10/20) - 2022/11/18 21:31:00 UTC
+Table: 'Expresso(602125026)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loko k (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Tkotm (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Tkotm posts big blind 20
+Dealt to YL_ML_GL_42 [9d 4d]
+*** PRE-FLOP *** 
+Loko k folds
+YL_ML_GL_42 raises 40 to 60
+Tkotm folds
+YL_ML_GL_42 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 2: YL_ML_GL_42 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2586107294773149697-2-1668807073 - Holdem no limit (10/20) - 2022/11/18 21:31:13 UTC
+Table: 'Expresso(602125026)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loko k (500)
+Seat 2: YL_ML_GL_42 (520)
+Seat 3: Tkotm (480)
+*** ANTE/BLINDS ***
+Tkotm posts small blind 10
+Loko k posts big blind 20
+Dealt to YL_ML_GL_42 [Kc 3d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Tkotm raises 30 to 50
+Loko k calls 30
+*** FLOP *** [6c 7c 3s]
+Tkotm bets 50
+Loko k calls 50
+*** TURN *** [6c 7c 3s][7d]
+Tkotm bets 120
+Loko k calls 120
+*** RIVER *** [6c 7c 3s 7d][Th]
+Tkotm bets 260 and is all-in
+Loko k calls 260
+*** SHOW DOWN ***
+Tkotm shows [Qs 6s] (Two pairs : 7 and 6)
+Loko k shows [Tc 5c] (Two pairs : Tens and 7)
+Loko k collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [6c 7c 3s 7d Th]
+Seat 1: Loko k (big blind) showed [Tc 5c] and won 960 with Two pairs : Tens and 7
+Seat 3: Tkotm (small blind) showed [Qs 6s] and lost with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2586107294773149697-3-1668807105 - Holdem no limit (10/20) - 2022/11/18 21:31:45 UTC
+Table: 'Expresso(602125026)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loko k (980)
+Seat 2: YL_ML_GL_42 (520)
+*** ANTE/BLINDS ***
+Loko k posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [5c 4s]
+*** PRE-FLOP *** 
+Loko k raises 20 to 40
+YL_ML_GL_42 folds
+Loko k collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Loko k (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2586107294773149697-4-1668807112 - Holdem no limit (10/20) - 2022/11/18 21:31:52 UTC
+Table: 'Expresso(602125026)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loko k (1000)
+Seat 2: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Loko k posts big blind 20
+Dealt to YL_ML_GL_42 [9h 7c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Loko k collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Loko k (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2586107294773149697-5-1668807116 - Holdem no limit (10/20) - 2022/11/18 21:31:56 UTC
+Table: 'Expresso(602125026)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loko k (1010)
+Seat 2: YL_ML_GL_42 (490)
+*** ANTE/BLINDS ***
+Loko k posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [7c 9s]
+*** PRE-FLOP *** 
+Loko k calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [Ad 4h Ac]
+YL_ML_GL_42 checks
+Loko k bets 40
+YL_ML_GL_42 folds
+Loko k collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ad 4h Ac]
+Seat 1: Loko k (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2586107294773149697-6-1668807126 - Holdem no limit (10/20) - 2022/11/18 21:32:06 UTC
+Table: 'Expresso(602125026)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loko k (1030)
+Seat 2: YL_ML_GL_42 (470)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Loko k posts big blind 20
+Dealt to YL_ML_GL_42 [Ts 7c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 40 to 60
+Loko k calls 40
+*** FLOP *** [9h 9d 2d]
+Loko k checks
+YL_ML_GL_42 bets 96
+Loko k folds
+YL_ML_GL_42 collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | No rake
+Board: [9h 9d 2d]
+Seat 2: YL_ML_GL_42 (small blind) (button) won 216
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2586107294773149697-7-1668807138 - Holdem no limit (10/20) - 2022/11/18 21:32:18 UTC
+Table: 'Expresso(602125026)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loko k (970)
+Seat 2: YL_ML_GL_42 (530)
+*** ANTE/BLINDS ***
+Loko k posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [7d 5h]
+*** PRE-FLOP *** 
+Loko k calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [6d Jh 4h]
+YL_ML_GL_42 bets 32
+Loko k raises 56 to 88
+YL_ML_GL_42 raises 422 to 510 and is all-in
+Loko k folds
+YL_ML_GL_42 collected 638 from pot
+*** SUMMARY ***
+Total pot 638 | No rake
+Board: [6d Jh 4h]
+Seat 2: YL_ML_GL_42 (big blind) won 638
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2586107294773149697-8-1668807156 - Holdem no limit (15/30) - 2022/11/18 21:32:36 UTC
+Table: 'Expresso(602125026)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Loko k (862)
+Seat 2: YL_ML_GL_42 (638)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Loko k posts big blind 30
+Dealt to YL_ML_GL_42 [2s 8h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Loko k collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Loko k (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2586107294773149697-9-1668807160 - Holdem no limit (15/30) - 2022/11/18 21:32:40 UTC
+Table: 'Expresso(602125026)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loko k (877)
+Seat 2: YL_ML_GL_42 (623)
+*** ANTE/BLINDS ***
+Loko k posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [9c 7c]
+*** PRE-FLOP *** 
+Loko k calls 15
+YL_ML_GL_42 raises 60 to 90
+Loko k calls 60
+*** FLOP *** [Th Js 2h]
+YL_ML_GL_42 bets 180
+Loko k raises 607 to 787 and is all-in
+YL_ML_GL_42 calls 353 and is all-in
+*** TURN *** [Th Js 2h][Kh]
+*** RIVER *** [Th Js 2h Kh][6c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9c 7c] (High card : King)
+Loko k shows [Ts 9h] (One pair : Tens)
+Loko k collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Th Js 2h Kh 6c]
+Seat 1: Loko k (small blind) (button) showed [Ts 9h] and won 1500 with One pair : Tens
+Seat 2: YL_ML_GL_42 (big blind) showed [9c 7c] and lost with High card : King
+
+

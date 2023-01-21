@@ -1,0 +1,86 @@
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2598747422179983361-1-1669482670 - Holdem no limit (10/20) - 2022/11/26 17:11:10 UTC
+Table: 'Expresso(605068035)#0' 3-max (real money) Seat #3 is the button
+Seat 1: bebenot34 (500)
+Seat 2: DealerIsLOCO (500)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+bebenot34 posts small blind 10
+DealerIsLOCO posts big blind 20
+Dealt to YL_ML_GL_42 [9d Ks]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+bebenot34 folds
+DealerIsLOCO raises 430 to 500 and is all-in
+YL_ML_GL_42 folds
+DealerIsLOCO collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Seat 2: DealerIsLOCO (big blind) won 580
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2598747422179983361-2-1669482694 - Holdem no limit (10/20) - 2022/11/26 17:11:34 UTC
+Table: 'Expresso(605068035)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bebenot34 (490)
+Seat 2: DealerIsLOCO (580)
+Seat 3: YL_ML_GL_42 (430)
+*** ANTE/BLINDS ***
+DealerIsLOCO posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [3c Ad]
+*** PRE-FLOP *** 
+bebenot34 calls 20
+DealerIsLOCO folds
+YL_ML_GL_42 raises 50 to 70
+bebenot34 folds
+YL_ML_GL_42 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 3: YL_ML_GL_42 (big blind) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2598747422179983361-3-1669482704 - Holdem no limit (10/20) - 2022/11/26 17:11:44 UTC
+Table: 'Expresso(605068035)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bebenot34 (470)
+Seat 2: DealerIsLOCO (570)
+Seat 3: YL_ML_GL_42 (460)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+bebenot34 posts big blind 20
+Dealt to YL_ML_GL_42 [8s 3h]
+*** PRE-FLOP *** 
+DealerIsLOCO folds
+YL_ML_GL_42 folds
+bebenot34 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: bebenot34 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2598747422179983361-4-1669482710 - Holdem no limit (10/20) - 2022/11/26 17:11:50 UTC
+Table: 'Expresso(605068035)#0' 3-max (real money) Seat #3 is the button
+Seat 1: bebenot34 (480)
+Seat 2: DealerIsLOCO (570)
+Seat 3: YL_ML_GL_42 (450)
+*** ANTE/BLINDS ***
+bebenot34 posts small blind 10
+DealerIsLOCO posts big blind 20
+Dealt to YL_ML_GL_42 [Ah 2d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+bebenot34 raises 410 to 480 and is all-in
+DealerIsLOCO folds
+YL_ML_GL_42 calls 380 and is all-in
+*** FLOP *** [9h 5c 4c]
+*** TURN *** [9h 5c 4c][6c]
+*** RIVER *** [9h 5c 4c 6c][Qd]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ah 2d] (High card : Ace)
+bebenot34 shows [Ad Qc] (One pair : Queens)
+bebenot34 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Board: [9h 5c 4c 6c Qd]
+Seat 1: bebenot34 (small blind) showed [Ad Qc] and won 950 with One pair : Queens
+Seat 3: YL_ML_GL_42 (button) showed [Ah 2d] and lost with High card : Ace
+
+

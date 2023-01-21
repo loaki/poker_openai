@@ -1,0 +1,470 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2598714389586509825-1-1669481423 - Holdem no limit (10/20) - 2022/11/26 16:50:23 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: finrod tiwel (500)
+Seat 3: Sirtrezze (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+finrod tiwel posts big blind 20
+Dealt to YL_ML_GL_42 [Ac 6c]
+*** PRE-FLOP *** 
+Sirtrezze raises 30 to 50
+YL_ML_GL_42 raises 120 to 170
+finrod tiwel folds
+Sirtrezze folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: YL_ML_GL_42 (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2598714389586509825-2-1669481433 - Holdem no limit (10/20) - 2022/11/26 16:50:33 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (570)
+Seat 2: finrod tiwel (480)
+Seat 3: Sirtrezze (450)
+*** ANTE/BLINDS ***
+finrod tiwel posts small blind 10
+Sirtrezze posts big blind 20
+Dealt to YL_ML_GL_42 [As 2c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+finrod tiwel calls 60
+Sirtrezze folds
+*** FLOP *** [6s 3d 7h]
+finrod tiwel bets 410 and is all-in
+YL_ML_GL_42 folds
+finrod tiwel collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [6s 3d 7h]
+Seat 2: finrod tiwel (small blind) won 570
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2598714389586509825-3-1669481448 - Holdem no limit (10/20) - 2022/11/26 16:50:48 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: finrod tiwel (570)
+Seat 3: Sirtrezze (430)
+*** ANTE/BLINDS ***
+Sirtrezze posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Qc 3h]
+*** PRE-FLOP *** 
+finrod tiwel calls 20
+Sirtrezze raises 410 to 430 and is all-in
+YL_ML_GL_42 folds
+finrod tiwel folds
+Sirtrezze collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Seat 3: Sirtrezze (small blind) won 470
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2598714389586509825-4-1669481465 - Holdem no limit (10/20) - 2022/11/26 16:51:05 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (480)
+Seat 2: finrod tiwel (550)
+Seat 3: Sirtrezze (470)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+finrod tiwel posts big blind 20
+Dealt to YL_ML_GL_42 [Th Ad]
+*** PRE-FLOP *** 
+Sirtrezze raises 20 to 40
+YL_ML_GL_42 raises 100 to 140
+finrod tiwel folds
+Sirtrezze folds
+YL_ML_GL_42 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 1: YL_ML_GL_42 (small blind) won 200
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2598714389586509825-5-1669481477 - Holdem no limit (10/20) - 2022/11/26 16:51:17 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (540)
+Seat 2: finrod tiwel (530)
+Seat 3: Sirtrezze (430)
+*** ANTE/BLINDS ***
+finrod tiwel posts small blind 10
+Sirtrezze posts big blind 20
+Dealt to YL_ML_GL_42 [5s Ks]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+finrod tiwel folds
+Sirtrezze folds
+YL_ML_GL_42 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 1: YL_ML_GL_42 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2598714389586509825-6-1669481487 - Holdem no limit (10/20) - 2022/11/26 16:51:27 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (570)
+Seat 2: finrod tiwel (520)
+Seat 3: Sirtrezze (410)
+*** ANTE/BLINDS ***
+Sirtrezze posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [4s Kd]
+*** PRE-FLOP *** 
+finrod tiwel calls 20
+Sirtrezze folds
+YL_ML_GL_42 checks
+*** FLOP *** [Kc 9h Js]
+YL_ML_GL_42 bets 50
+finrod tiwel folds
+YL_ML_GL_42 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Kc 9h Js]
+Seat 1: YL_ML_GL_42 (big blind) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2598714389586509825-7-1669481507 - Holdem no limit (10/20) - 2022/11/26 16:51:47 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (600)
+Seat 2: finrod tiwel (500)
+Seat 3: Sirtrezze (400)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+finrod tiwel posts big blind 20
+Dealt to YL_ML_GL_42 [Qc Qd]
+*** PRE-FLOP *** 
+Sirtrezze raises 30 to 50
+YL_ML_GL_42 raises 120 to 170
+finrod tiwel folds
+Sirtrezze raises 230 to 400 and is all-in
+YL_ML_GL_42 calls 230
+*** FLOP *** [3c Kh 9h]
+*** TURN *** [3c Kh 9h][4d]
+*** RIVER *** [3c Kh 9h 4d][Ah]
+*** SHOW DOWN ***
+Sirtrezze shows [9c Td] (One pair : 9)
+YL_ML_GL_42 shows [Qc Qd] (One pair : Queens)
+YL_ML_GL_42 collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Board: [3c Kh 9h 4d Ah]
+Seat 1: YL_ML_GL_42 (small blind) showed [Qc Qd] and won 820 with One pair : Queens
+Seat 3: Sirtrezze (button) showed [9c Td] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2598714389586509825-8-1669481531 - Holdem no limit (15/30) - 2022/11/26 16:52:11 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1020)
+Seat 2: finrod tiwel (480)
+*** ANTE/BLINDS ***
+finrod tiwel posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [7d 8s]
+*** PRE-FLOP *** 
+finrod tiwel calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [5d Js 2h]
+YL_ML_GL_42 checks
+finrod tiwel bets 30
+YL_ML_GL_42 calls 30
+*** TURN *** [5d Js 2h][4s]
+YL_ML_GL_42 checks
+finrod tiwel bets 30
+YL_ML_GL_42 calls 30
+*** RIVER *** [5d Js 2h 4s][Td]
+YL_ML_GL_42 checks
+finrod tiwel bets 390 and is all-in
+YL_ML_GL_42 folds
+finrod tiwel collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [5d Js 2h 4s Td]
+Seat 2: finrod tiwel (small blind) (button) won 570
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2598714389586509825-9-1669481575 - Holdem no limit (15/30) - 2022/11/26 16:52:55 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (930)
+Seat 2: finrod tiwel (570)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+finrod tiwel posts big blind 30
+Dealt to YL_ML_GL_42 [Th 6h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+finrod tiwel calls 60
+*** FLOP *** [5h Ts 8d]
+finrod tiwel checks
+YL_ML_GL_42 bets 180
+finrod tiwel raises 300 to 480 and is all-in
+YL_ML_GL_42 calls 300
+*** TURN *** [5h Ts 8d][Ac]
+*** RIVER *** [5h Ts 8d Ac][Qs]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Th 6h] (One pair : Tens)
+finrod tiwel shows [Tc 4c] (One pair : Tens)
+finrod tiwel collected 570 from pot
+YL_ML_GL_42 collected 570 from pot
+*** SUMMARY ***
+Total pot 1140 | No rake
+Board: [5h Ts 8d Ac Qs]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [Th 6h] and won 570 with One pair : Tens
+Seat 2: finrod tiwel (big blind) showed [Tc 4c] and won 570 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2598714389586509825-10-1669481605 - Holdem no limit (20/40) - 2022/11/26 16:53:25 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (930)
+Seat 2: finrod tiwel (570)
+*** ANTE/BLINDS ***
+finrod tiwel posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [3s 2d]
+*** PRE-FLOP *** 
+finrod tiwel calls 20
+YL_ML_GL_42 checks
+*** FLOP *** [Kc 2h 4c]
+YL_ML_GL_42 bets 80
+finrod tiwel folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Kc 2h 4c]
+Seat 1: YL_ML_GL_42 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2598714389586509825-11-1669481615 - Holdem no limit (20/40) - 2022/11/26 16:53:35 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (970)
+Seat 2: finrod tiwel (530)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+finrod tiwel posts big blind 40
+Dealt to YL_ML_GL_42 [Tc Kh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+finrod tiwel folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2598714389586509825-12-1669481622 - Holdem no limit (20/40) - 2022/11/26 16:53:42 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1010)
+Seat 2: finrod tiwel (490)
+*** ANTE/BLINDS ***
+finrod tiwel posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [4d 9d]
+*** PRE-FLOP *** 
+finrod tiwel calls 20
+YL_ML_GL_42 checks
+*** FLOP *** [5s 7d Qc]
+YL_ML_GL_42 checks
+finrod tiwel checks
+*** TURN *** [5s 7d Qc][9c]
+YL_ML_GL_42 bets 80
+finrod tiwel calls 80
+*** RIVER *** [5s 7d Qc 9c][7s]
+YL_ML_GL_42 bets 192
+finrod tiwel folds
+YL_ML_GL_42 collected 432 from pot
+*** SUMMARY ***
+Total pot 432 | No rake
+Board: [5s 7d Qc 9c 7s]
+Seat 1: YL_ML_GL_42 (big blind) won 432
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2598714389586509825-13-1669481639 - Holdem no limit (20/40) - 2022/11/26 16:53:59 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1130)
+Seat 2: finrod tiwel (370)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+finrod tiwel posts big blind 40
+Dealt to YL_ML_GL_42 [5h 8d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+finrod tiwel collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: finrod tiwel (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2598714389586509825-14-1669481643 - Holdem no limit (20/40) - 2022/11/26 16:54:03 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1110)
+Seat 2: finrod tiwel (390)
+*** ANTE/BLINDS ***
+finrod tiwel posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Jh 7d]
+*** PRE-FLOP *** 
+finrod tiwel calls 20
+YL_ML_GL_42 checks
+*** FLOP *** [Ac 5d 3h]
+YL_ML_GL_42 checks
+finrod tiwel checks
+*** TURN *** [Ac 5d 3h][5h]
+YL_ML_GL_42 checks
+finrod tiwel checks
+*** RIVER *** [Ac 5d 3h 5h][Kd]
+YL_ML_GL_42 bets 80
+finrod tiwel folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Ac 5d 3h 5h Kd]
+Seat 1: YL_ML_GL_42 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2598714389586509825-15-1669481671 - Holdem no limit (20/40) - 2022/11/26 16:54:31 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1150)
+Seat 2: finrod tiwel (350)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+finrod tiwel posts big blind 40
+Dealt to YL_ML_GL_42 [9c Td]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+finrod tiwel raises 230 to 350 and is all-in
+YL_ML_GL_42 calls 230
+*** FLOP *** [8c 3h Ts]
+*** TURN *** [8c 3h Ts][7c]
+*** RIVER *** [8c 3h Ts 7c][Qs]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9c Td] (One pair : Tens)
+finrod tiwel shows [9s Qh] (One pair : Queens)
+finrod tiwel collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [8c 3h Ts 7c Qs]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [9c Td] and lost with One pair : Tens
+Seat 2: finrod tiwel (big blind) showed [9s Qh] and won 700 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2598714389586509825-16-1669481691 - Holdem no limit (30/60) - 2022/11/26 16:54:51 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (800)
+Seat 2: finrod tiwel (700)
+*** ANTE/BLINDS ***
+finrod tiwel posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [9c 2h]
+*** PRE-FLOP *** 
+finrod tiwel calls 30
+YL_ML_GL_42 checks
+*** FLOP *** [Js Td 7h]
+YL_ML_GL_42 checks
+finrod tiwel checks
+*** TURN *** [Js Td 7h][4h]
+YL_ML_GL_42 checks
+finrod tiwel checks
+*** RIVER *** [Js Td 7h 4h][3c]
+YL_ML_GL_42 checks
+finrod tiwel checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9c 2h] (High card : Jack)
+finrod tiwel shows [6d As] (High card : Ace)
+finrod tiwel collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Js Td 7h 4h 3c]
+Seat 1: YL_ML_GL_42 (big blind) showed [9c 2h] and lost with High card : Jack
+Seat 2: finrod tiwel (small blind) (button) showed [6d As] and won 120 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2598714389586509825-17-1669481710 - Holdem no limit (30/60) - 2022/11/26 16:55:10 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (740)
+Seat 2: finrod tiwel (760)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+finrod tiwel posts big blind 60
+Dealt to YL_ML_GL_42 [Kd 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 120 to 180
+finrod tiwel folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2598714389586509825-18-1669481716 - Holdem no limit (30/60) - 2022/11/26 16:55:16 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (800)
+Seat 2: finrod tiwel (700)
+*** ANTE/BLINDS ***
+finrod tiwel posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [3h Kd]
+*** PRE-FLOP *** 
+finrod tiwel calls 30
+YL_ML_GL_42 checks
+*** FLOP *** [8d Ts 4s]
+YL_ML_GL_42 checks
+finrod tiwel checks
+*** TURN *** [8d Ts 4s][Jc]
+YL_ML_GL_42 checks
+finrod tiwel bets 60
+YL_ML_GL_42 calls 60
+*** RIVER *** [8d Ts 4s Jc][2h]
+YL_ML_GL_42 checks
+finrod tiwel checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [3h Kd] (High card : King)
+finrod tiwel shows [Jd 3s] (One pair : Jacks)
+finrod tiwel collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8d Ts 4s Jc 2h]
+Seat 1: YL_ML_GL_42 (big blind) showed [3h Kd] and lost with High card : King
+Seat 2: finrod tiwel (small blind) (button) showed [Jd 3s] and won 240 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2598714389586509825-19-1669481734 - Holdem no limit (30/60) - 2022/11/26 16:55:34 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (680)
+Seat 2: finrod tiwel (820)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+finrod tiwel posts big blind 60
+Dealt to YL_ML_GL_42 [4c 8h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+finrod tiwel collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: finrod tiwel (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2598714389586509825-20-1669481738 - Holdem no limit (30/60) - 2022/11/26 16:55:38 UTC
+Table: 'Expresso(605060344)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (650)
+Seat 2: finrod tiwel (850)
+*** ANTE/BLINDS ***
+finrod tiwel posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [7h 8h]
+*** PRE-FLOP *** 
+finrod tiwel raises 60 to 120
+YL_ML_GL_42 raises 530 to 650 and is all-in
+finrod tiwel calls 530
+*** FLOP *** [2c 3s 5d]
+*** TURN *** [2c 3s 5d][Kd]
+*** RIVER *** [2c 3s 5d Kd][5c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7h 8h] (One pair : 5)
+finrod tiwel shows [9c Kc] (Two pairs : Kings and 5)
+finrod tiwel collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Board: [2c 3s 5d Kd 5c]
+Seat 1: YL_ML_GL_42 (big blind) showed [7h 8h] and lost with One pair : 5
+Seat 2: finrod tiwel (small blind) (button) showed [9c Kc] and won 1300 with Two pairs : Kings and 5
+
+

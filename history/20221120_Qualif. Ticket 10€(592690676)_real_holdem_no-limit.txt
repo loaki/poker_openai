@@ -1,0 +1,224 @@
+Winamax Poker - Tournament "Qualif. Ticket 10€" buyIn: 1.80€ + 0.20€ level: 41 - HandId: #2545587070064132103-1-1668962386 - Holdem no limit (6/25/50) - 2022/11/20 16:39:46 UTC
+Table: 'Qualif. Ticket 10€(592690676)#006' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (3000)
+Seat 4: MKultrAA (2666)
+Seat 5: LoveSTATION (2725)
+*** ANTE/BLINDS ***
+MKultrAA posts ante 6
+LoveSTATION posts ante 6
+YL_ML_GL_42 posts ante 6
+MKultrAA posts small blind 25
+LoveSTATION posts big blind 50
+Dealt to YL_ML_GL_42 [4c 9d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+MKultrAA folds
+LoveSTATION collected 93 from pot
+*** SUMMARY ***
+Total pot 93 | No rake
+Seat 5: LoveSTATION (big blind) won 93
+
+
+Winamax Poker - Tournament "Qualif. Ticket 10€" buyIn: 1.80€ + 0.20€ level: 41 - HandId: #2545587070064132103-2-1668962394 - Holdem no limit (6/25/50) - 2022/11/20 16:39:54 UTC
+Table: 'Qualif. Ticket 10€(592690676)#006' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (2994)
+Seat 4: MKultrAA (2635)
+Seat 5: LoveSTATION (2762)
+*** ANTE/BLINDS ***
+LoveSTATION posts ante 6
+YL_ML_GL_42 posts ante 6
+MKultrAA posts ante 6
+LoveSTATION posts small blind 25
+YL_ML_GL_42 posts big blind 50
+Dealt to YL_ML_GL_42 [6c 9h]
+*** PRE-FLOP *** 
+MKultrAA folds
+LoveSTATION raises 125 to 175
+YL_ML_GL_42 folds
+LoveSTATION collected 243 from pot
+*** SUMMARY ***
+Total pot 243 | No rake
+Seat 5: LoveSTATION (small blind) won 243
+
+
+Winamax Poker - Tournament "Qualif. Ticket 10€" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545587070064132103-3-1668962409 - Holdem no limit (7/30/60) - 2022/11/20 16:40:09 UTC
+Table: 'Qualif. Ticket 10€(592690676)#006' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (2938)
+Seat 3: ReuzeP (4521)
+Seat 4: MKultrAA (2629)
+Seat 5: LoveSTATION (2824)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 7
+ReuzeP posts ante 7
+MKultrAA posts ante 7
+LoveSTATION posts ante 7
+YL_ML_GL_42 posts small blind 30
+ReuzeP posts big blind 60
+Dealt to YL_ML_GL_42 [4s 3h]
+*** PRE-FLOP *** 
+MKultrAA raises 60 to 120
+LoveSTATION folds
+YL_ML_GL_42 folds
+ReuzeP folds
+MKultrAA collected 238 from pot
+*** SUMMARY ***
+Total pot 238 | No rake
+Seat 4: MKultrAA won 238
+
+
+Winamax Poker - Tournament "Qualif. Ticket 10€" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545587070064132103-4-1668962450 - Holdem no limit (7/30/60) - 2022/11/20 16:40:50 UTC
+Table: 'Qualif. Ticket 10€(592690676)#006' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (2901)
+Seat 3: ReuzeP (4454)
+Seat 4: MKultrAA (2740)
+Seat 5: LoveSTATION (2817)
+*** ANTE/BLINDS ***
+ReuzeP posts ante 7
+MKultrAA posts ante 7
+YL_ML_GL_42 posts ante 7
+LoveSTATION posts ante 7
+ReuzeP posts small blind 30
+MKultrAA posts big blind 60
+Dealt to YL_ML_GL_42 [Jd Qd]
+*** PRE-FLOP *** 
+LoveSTATION raises 60 to 120
+YL_ML_GL_42 calls 120
+ReuzeP folds
+MKultrAA folds
+*** FLOP *** [4h 9s Ks]
+LoveSTATION checks
+YL_ML_GL_42 bets 233
+LoveSTATION folds
+YL_ML_GL_42 collected 591 from pot
+*** SUMMARY ***
+Total pot 591 | No rake
+Board: [4h 9s Ks]
+Seat 1: YL_ML_GL_42 (button) won 591
+
+
+Winamax Poker - Tournament "Qualif. Ticket 10€" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545587070064132103-5-1668962514 - Holdem no limit (7/30/60) - 2022/11/20 16:41:54 UTC
+Table: 'Qualif. Ticket 10€(592690676)#006' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (3132)
+Seat 3: ReuzeP (4417)
+Seat 4: MKultrAA (2673)
+Seat 5: LoveSTATION (2690)
+*** ANTE/BLINDS ***
+MKultrAA posts ante 7
+LoveSTATION posts ante 7
+YL_ML_GL_42 posts ante 7
+ReuzeP posts ante 7
+MKultrAA posts small blind 30
+LoveSTATION posts big blind 60
+Dealt to YL_ML_GL_42 [Kc Ad]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 178 to 238
+ReuzeP folds
+MKultrAA folds
+LoveSTATION calls 178
+*** FLOP *** [5s 3d 8h]
+LoveSTATION checks
+YL_ML_GL_42 bets 347
+LoveSTATION calls 347
+*** TURN *** [5s 3d 8h][6h]
+LoveSTATION checks
+YL_ML_GL_42 bets 982
+LoveSTATION raises 1116 to 2098 and is all-in
+YL_ML_GL_42 calls 1116
+*** RIVER *** [5s 3d 8h 6h][7s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kc Ad] (High card : Ace)
+LoveSTATION shows [9s 8s] (Straight 9 high)
+LoveSTATION collected 5424 from pot
+*** SUMMARY ***
+Total pot 5424 | No rake
+Board: [5s 3d 8h 6h 7s]
+Seat 1: YL_ML_GL_42 showed [Kc Ad] and lost with High card : Ace
+Seat 5: LoveSTATION (big blind) showed [9s 8s] and won 5424 with Straight 9 high
+
+
+Winamax Poker - Tournament "Qualif. Ticket 10€" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545587070064132103-6-1668962583 - Holdem no limit (7/30/60) - 2022/11/20 16:43:03 UTC
+Table: 'Qualif. Ticket 10€(592690676)#006' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (442)
+Seat 3: ReuzeP (4410)
+Seat 4: MKultrAA (2636)
+Seat 5: LoveSTATION (5424)
+*** ANTE/BLINDS ***
+LoveSTATION posts ante 7
+YL_ML_GL_42 posts ante 7
+ReuzeP posts ante 7
+MKultrAA posts ante 7
+LoveSTATION posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [Qs 4d]
+*** PRE-FLOP *** 
+ReuzeP folds
+MKultrAA folds
+LoveSTATION folds
+YL_ML_GL_42 collected 118 from pot
+*** SUMMARY ***
+Total pot 118 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 118
+
+
+Winamax Poker - Tournament "Qualif. Ticket 10€" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545587070064132103-7-1668962608 - Holdem no limit (7/30/60) - 2022/11/20 16:43:28 UTC
+Table: 'Qualif. Ticket 10€(592690676)#006' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (493)
+Seat 3: ReuzeP (4403)
+Seat 4: MKultrAA (2629)
+Seat 5: LoveSTATION (5387)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 7
+ReuzeP posts ante 7
+MKultrAA posts ante 7
+LoveSTATION posts ante 7
+YL_ML_GL_42 posts small blind 30
+ReuzeP posts big blind 60
+Dealt to YL_ML_GL_42 [Jh 5c]
+*** PRE-FLOP *** 
+MKultrAA folds
+LoveSTATION raises 90 to 150
+YL_ML_GL_42 folds
+ReuzeP folds
+LoveSTATION collected 268 from pot
+*** SUMMARY ***
+Total pot 268 | No rake
+Seat 5: LoveSTATION (button) won 268
+
+
+Winamax Poker - Tournament "Qualif. Ticket 10€" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545587070064132103-8-1668962632 - Holdem no limit (7/30/60) - 2022/11/20 16:43:52 UTC
+Table: 'Qualif. Ticket 10€(592690676)#006' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (456)
+Seat 3: ReuzeP (4336)
+Seat 4: MKultrAA (2622)
+Seat 5: LoveSTATION (5498)
+*** ANTE/BLINDS ***
+ReuzeP posts ante 7
+MKultrAA posts ante 7
+YL_ML_GL_42 posts ante 7
+LoveSTATION posts ante 7
+ReuzeP posts small blind 30
+MKultrAA posts big blind 60
+Dealt to YL_ML_GL_42 [Td 9d]
+*** PRE-FLOP *** 
+LoveSTATION raises 60 to 120
+YL_ML_GL_42 raises 329 to 449 and is all-in
+ReuzeP raises 1123 to 1572
+MKultrAA raises 1043 to 2615 and is all-in
+LoveSTATION folds
+ReuzeP calls 1043
+*** FLOP *** [5h 3h Ac]
+*** TURN *** [5h 3h Ac][2d]
+*** RIVER *** [5h 3h Ac 2d][Qh]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Td 9d] (High card : Ace)
+MKultrAA shows [Ts Th] (One pair : Tens)
+ReuzeP shows [Ks Ah] (One pair : Aces)
+ReuzeP collected 5827 from pot
+*** SUMMARY ***
+Total pot 5827 | No rake
+Board: [5h 3h Ac 2d Qh]
+Seat 1: YL_ML_GL_42 (button) showed [Td 9d] and lost with High card : Ace
+Seat 3: ReuzeP (small blind) showed [Ks Ah] and won 5827 with One pair : Aces
+Seat 4: MKultrAA (big blind) showed [Ts Th] and lost with One pair : Tens
+
+

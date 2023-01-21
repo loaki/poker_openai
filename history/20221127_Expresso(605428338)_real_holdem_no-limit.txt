@@ -1,0 +1,75 @@
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600294911781634049-1-1669567725 - Holdem no limit (10/20) - 2022/11/27 16:48:45 UTC
+Table: 'Expresso(605428338)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kazu81 (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: 7 to 1 (500)
+*** ANTE/BLINDS ***
+7 to 1 posts small blind 10
+Kazu81 posts big blind 20
+Dealt to YL_ML_GL_42 [4h 3h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+7 to 1 calls 10
+Kazu81 raises 40 to 60
+7 to 1 folds
+Kazu81 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: Kazu81 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600294911781634049-2-1669567739 - Holdem no limit (10/20) - 2022/11/27 16:48:59 UTC
+Table: 'Expresso(605428338)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kazu81 (520)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: 7 to 1 (480)
+*** ANTE/BLINDS ***
+Kazu81 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [3c 9s]
+*** PRE-FLOP *** 
+7 to 1 raises 20 to 40
+Kazu81 folds
+YL_ML_GL_42 calls 20
+*** FLOP *** [8d 7h Ah]
+YL_ML_GL_42 checks
+7 to 1 bets 30
+YL_ML_GL_42 folds
+7 to 1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8d 7h Ah]
+Seat 3: 7 to 1 (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600294911781634049-3-1669567764 - Holdem no limit (10/20) - 2022/11/27 16:49:24 UTC
+Table: 'Expresso(605428338)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kazu81 (510)
+Seat 2: YL_ML_GL_42 (460)
+Seat 3: 7 to 1 (530)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+7 to 1 posts big blind 20
+Dealt to YL_ML_GL_42 [Tc Ts]
+*** PRE-FLOP *** 
+Kazu81 folds
+YL_ML_GL_42 calls 10
+7 to 1 checks
+*** FLOP *** [Js 2c 2s]
+YL_ML_GL_42 bets 32
+7 to 1 calls 32
+*** TURN *** [Js 2c 2s][Qh]
+YL_ML_GL_42 bets 408 and is all-in
+7 to 1 calls 408
+*** RIVER *** [Js 2c 2s Qh][7d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Tc Ts] (Two pairs : Tens and 2)
+7 to 1 shows [2h 3c] (Trips of 2)
+7 to 1 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | No rake
+Board: [Js 2c 2s Qh 7d]
+Seat 2: YL_ML_GL_42 (small blind) showed [Tc Ts] and lost with Two pairs : Tens and 2
+Seat 3: 7 to 1 (big blind) showed [2h 3c] and won 920 with Trips of 2
+
+

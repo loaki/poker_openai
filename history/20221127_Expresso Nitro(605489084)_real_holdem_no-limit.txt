@@ -1,0 +1,249 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2600555813864996865-1-1669577113 - Holdem no limit (10/20) - 2022/11/27 19:25:13 UTC
+Table: 'Expresso Nitro(605489084)#0' 3-max (real money) Seat #2 is the button
+Seat 1: WWG1WGA Q (300)
+Seat 2: MrsGekko (300)
+Seat 3: YL_ML_GL_42 (300)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+WWG1WGA Q posts big blind 20
+Dealt to YL_ML_GL_42 [5c Tc]
+*** PRE-FLOP *** 
+MrsGekko folds
+YL_ML_GL_42 raises 40 to 60
+WWG1WGA Q calls 40
+*** FLOP *** [Ac 3c Kh]
+YL_ML_GL_42 bets 96
+WWG1WGA Q folds
+YL_ML_GL_42 collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | No rake
+Board: [Ac 3c Kh]
+Seat 3: YL_ML_GL_42 (small blind) won 216
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2600555813864996865-2-1669577139 - Holdem no limit (10/20) - 2022/11/27 19:25:39 UTC
+Table: 'Expresso Nitro(605489084)#0' 3-max (real money) Seat #3 is the button
+Seat 1: WWG1WGA Q (240)
+Seat 2: MrsGekko (300)
+Seat 3: YL_ML_GL_42 (360)
+*** ANTE/BLINDS ***
+WWG1WGA Q posts small blind 10
+MrsGekko posts big blind 20
+Dealt to YL_ML_GL_42 [Td 3s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+WWG1WGA Q calls 10
+MrsGekko checks
+*** FLOP *** [4s 3h 7c]
+WWG1WGA Q checks
+MrsGekko checks
+*** TURN *** [4s 3h 7c][9d]
+WWG1WGA Q checks
+MrsGekko checks
+*** RIVER *** [4s 3h 7c 9d][7s]
+WWG1WGA Q checks
+MrsGekko checks
+*** SHOW DOWN ***
+WWG1WGA Q shows [Jd 6d] (One pair : 7)
+MrsGekko shows [Qd 6s] (One pair : 7)
+MrsGekko collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [4s 3h 7c 9d 7s]
+Seat 1: WWG1WGA Q (small blind) showed [Jd 6d] and lost with One pair : 7
+Seat 2: MrsGekko (big blind) showed [Qd 6s] and won 40 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2600555813864996865-3-1669577163 - Holdem no limit (10/20) - 2022/11/27 19:26:03 UTC
+Table: 'Expresso Nitro(605489084)#0' 3-max (real money) Seat #1 is the button
+Seat 1: WWG1WGA Q (220)
+Seat 2: MrsGekko (320)
+Seat 3: YL_ML_GL_42 (360)
+*** ANTE/BLINDS ***
+MrsGekko posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Ac Kh]
+*** PRE-FLOP *** 
+WWG1WGA Q calls 20
+MrsGekko folds
+YL_ML_GL_42 raises 340 to 360 and is all-in
+WWG1WGA Q folds
+YL_ML_GL_42 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 3: YL_ML_GL_42 (big blind) won 390
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2600555813864996865-4-1669577185 - Holdem no limit (15/30) - 2022/11/27 19:26:25 UTC
+Table: 'Expresso Nitro(605489084)#0' 3-max (real money) Seat #2 is the button
+Seat 1: WWG1WGA Q (200)
+Seat 2: MrsGekko (310)
+Seat 3: YL_ML_GL_42 (390)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+WWG1WGA Q posts big blind 30
+Dealt to YL_ML_GL_42 [3d 2d]
+*** PRE-FLOP *** 
+MrsGekko folds
+YL_ML_GL_42 folds
+WWG1WGA Q collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: WWG1WGA Q (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2600555813864996865-5-1669577190 - Holdem no limit (15/30) - 2022/11/27 19:26:30 UTC
+Table: 'Expresso Nitro(605489084)#0' 3-max (real money) Seat #3 is the button
+Seat 1: WWG1WGA Q (215)
+Seat 2: MrsGekko (310)
+Seat 3: YL_ML_GL_42 (375)
+*** ANTE/BLINDS ***
+WWG1WGA Q posts small blind 15
+MrsGekko posts big blind 30
+Dealt to YL_ML_GL_42 [Kc 4h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 75 to 105
+WWG1WGA Q folds
+MrsGekko folds
+YL_ML_GL_42 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 3: YL_ML_GL_42 (button) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2600555813864996865-6-1669577201 - Holdem no limit (15/30) - 2022/11/27 19:26:41 UTC
+Table: 'Expresso Nitro(605489084)#0' 3-max (real money) Seat #1 is the button
+Seat 1: WWG1WGA Q (200)
+Seat 2: MrsGekko (280)
+Seat 3: YL_ML_GL_42 (420)
+*** ANTE/BLINDS ***
+MrsGekko posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [8s 7c]
+*** PRE-FLOP *** 
+WWG1WGA Q folds
+MrsGekko folds
+YL_ML_GL_42 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: YL_ML_GL_42 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2600555813864996865-7-1669577207 - Holdem no limit (15/30) - 2022/11/27 19:26:47 UTC
+Table: 'Expresso Nitro(605489084)#0' 3-max (real money) Seat #2 is the button
+Seat 1: WWG1WGA Q (200)
+Seat 2: MrsGekko (265)
+Seat 3: YL_ML_GL_42 (435)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+WWG1WGA Q posts big blind 30
+Dealt to YL_ML_GL_42 [9d Jd]
+*** PRE-FLOP *** 
+MrsGekko folds
+YL_ML_GL_42 raises 60 to 90
+WWG1WGA Q calls 60
+*** FLOP *** [3s 8s 4d]
+YL_ML_GL_42 bets 180
+WWG1WGA Q calls 110 and is all-in
+*** TURN *** [3s 8s 4d][2d]
+*** RIVER *** [3s 8s 4d 2d][7h]
+*** SHOW DOWN ***
+WWG1WGA Q shows [8c Ts] (One pair : 8)
+YL_ML_GL_42 shows [9d Jd] (High card : Jack)
+YL_ML_GL_42 collected 70 from side pot 1
+WWG1WGA Q collected 400 from main pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [3s 8s 4d 2d 7h]
+Seat 1: WWG1WGA Q (big blind) showed [8c Ts] and won 400 with One pair : 8
+Seat 3: YL_ML_GL_42 (small blind) showed [9d Jd] and won 70 with High card : Jack
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2600555813864996865-8-1669577227 - Holdem no limit (15/30) - 2022/11/27 19:27:07 UTC
+Table: 'Expresso Nitro(605489084)#0' 3-max (real money) Seat #3 is the button
+Seat 1: WWG1WGA Q (400)
+Seat 2: MrsGekko (265)
+Seat 3: YL_ML_GL_42 (235)
+*** ANTE/BLINDS ***
+WWG1WGA Q posts small blind 15
+MrsGekko posts big blind 30
+Dealt to YL_ML_GL_42 [Jh Ad]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 205 to 235 and is all-in
+WWG1WGA Q folds
+MrsGekko folds
+YL_ML_GL_42 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 3: YL_ML_GL_42 (button) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #2600555813864996865-9-1669577236 - Holdem no limit (20/40) - 2022/11/27 19:27:16 UTC
+Table: 'Expresso Nitro(605489084)#0' 3-max (real money) Seat #1 is the button
+Seat 1: WWG1WGA Q (385)
+Seat 2: MrsGekko (235)
+Seat 3: YL_ML_GL_42 (280)
+*** ANTE/BLINDS ***
+MrsGekko posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Ts 7d]
+*** PRE-FLOP *** 
+WWG1WGA Q calls 40
+MrsGekko folds
+YL_ML_GL_42 checks
+*** FLOP *** [Qd 4c 3c]
+YL_ML_GL_42 checks
+WWG1WGA Q bets 100
+YL_ML_GL_42 folds
+WWG1WGA Q collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Qd 4c 3c]
+Seat 1: WWG1WGA Q (button) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #2600555813864996865-10-1669577251 - Holdem no limit (20/40) - 2022/11/27 19:27:31 UTC
+Table: 'Expresso Nitro(605489084)#0' 3-max (real money) Seat #2 is the button
+Seat 1: WWG1WGA Q (445)
+Seat 2: MrsGekko (215)
+Seat 3: YL_ML_GL_42 (240)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+WWG1WGA Q posts big blind 40
+Dealt to YL_ML_GL_42 [3d Kc]
+*** PRE-FLOP *** 
+MrsGekko folds
+YL_ML_GL_42 folds
+WWG1WGA Q collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: WWG1WGA Q (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #2600555813864996865-11-1669577258 - Holdem no limit (20/40) - 2022/11/27 19:27:38 UTC
+Table: 'Expresso Nitro(605489084)#0' 3-max (real money) Seat #3 is the button
+Seat 1: WWG1WGA Q (465)
+Seat 2: MrsGekko (215)
+Seat 3: YL_ML_GL_42 (220)
+*** ANTE/BLINDS ***
+WWG1WGA Q posts small blind 20
+MrsGekko posts big blind 40
+Dealt to YL_ML_GL_42 [Ad 5h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 180 to 220 and is all-in
+WWG1WGA Q calls 200
+MrsGekko folds
+*** FLOP *** [6h 3s 5s]
+*** TURN *** [6h 3s 5s][4d]
+*** RIVER *** [6h 3s 5s 4d][Kd]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ad 5h] (One pair : 5)
+WWG1WGA Q shows [7s 7h] (Straight 7 high)
+WWG1WGA Q collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [6h 3s 5s 4d Kd]
+Seat 1: WWG1WGA Q (small blind) showed [7s 7h] and won 480 with Straight 7 high
+Seat 3: YL_ML_GL_42 (button) showed [Ad 5h] and lost with One pair : 5
+
+

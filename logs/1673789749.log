@@ -1,0 +1,122 @@
+1673789749261 inf [app] Launch
+1673789749301 inf [scene] Bridge initialize
+1673789749311 inf [scene] Scene open
+1673789749318 inf [scene.1] Scene create
+1673789749332 inf [scene.1] Scene loading
+1673789749338 inf [app] Checking for update
+1673789749462 inf [app] Update for version 1.26.3 is not available (latest version: 1.26.3, downgrade is disallowed).
+1673789750130 inf [scene.1] Browser loaded
+1673789750137 inf [scene.1] Scene bridge loaded
+1673789750164 inf [tracker] Listening on port: 8000
+1673789752022 inf [api] < Service core/authentication/token/generate
+1673789752023 inf [network] > Http https://wapi.winamax.fr/core/authentication/token/generate post
+1673789752104 inf [network] > Http https://wapi.winamax.fr/core/authentication/token/generate ok
+1673789752105 inf [api] > Service core/authentication/token/generate
+1673789752106 inf [api] < Service poker/public/config/preauth {"client":"poker","application":"desktop","opid":"wam","device":"electron","ver":"1.26.3.1671552372","os":"win32","cid":"b94b276db79aabbcbfbe64cabbfea685"}
+1673789752107 inf [network] > Http https://api.winamax.fr/poker/public/config/preauth?client=poker&application=desktop&opid=wam&device=electron&ver=1.26.3.1671552372&os=win32&cid=b94b276db79aabbcbfbe64cabbfea685 get
+1673789752170 inf [network] > Http https://api.winamax.fr/poker/public/config/preauth?client=poker&application=desktop&opid=wam&device=electron&ver=1.26.3.1671552372&os=win32&cid=b94b276db79aabbcbfbe64cabbfea685 ok
+1673789752173 inf [api] > Service poker/public/config/preauth {"core":{"type":"wss","retry":{"count":3,"timeout":10000,"delay":2000,"random":1000},"hosts":["wapi.winamax.fr:443/poker/front/ws/websocket"],"enable":true,"zombie":{"duration":45000},"socket":{"sleep":10,"buffer":16384},"monitor":{"interrupted":true}},"features":{"vm":false,"playground":{"threshold":1000},"time":{"duration":10}},"serverstatus":{"status":"up","polling":300,"i18n":{"de_DE":{"title":"","info":"Alle Dienste sind verfügbar"},"fr_FR":{"title":"","info":"Tous les services sont fonctionnels"},"en_GB":{"title":"","info":"All services are operational."},"*":{"title":"","info":"All services are operational."},"en_US":{"title":"","info":"All services are operational."},"es_ES":{"title":"","info":"All services are operational."},"pt_PT":{"title":"","info":"All services are operational."}}},"auth":{"version":2,"timeout":6000,"refresh":{"count":3,"delay":2500}},"wspush":{"connection":{"interval":31000,"timeout":25000},"request":{"retry":{"count":0},"timeout":5000},"monitor":{"interrupted":true}},"updater":{"download":{"delay":120000}}}
+1673789752190 inf [network] Registering channel prefs
+1673789752191 inf [network] Enqueuing AUTH:SIGNIN
+1673789752192 inf [network] Creating socket wss://wapi.winamax.fr:443/poker/front/ws/websocket
+1673789752193 inf [network] Connection status: 1
+1673789752265 inf [network] Socket opened
+1673789752266 inf [network] Connection status: 2
+1673789752268 inf [network] Connection status: 3
+1673789752269 inf [network] < prefs AUTH:SIGNIN
+1673789752460 inf [network] > prefs AUTH:SIGNIN_OK
+1673789752461 inf [network] Connection status: 4
+1673789752469 inf [network] < prefs TIME:GET
+1673789752470 inf [network] < prefs GAMESTATS:JOIN
+1673789752486 inf [network] > prefs TIME:GET_OK
+1673789752494 inf [api] < Service poker/client/prefs
+1673789752494 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs post
+1673789752530 inf [network] > prefs NOTIFICATION:POST_INFO
+1673789752535 inf [network] > prefs GAMESTATS:JOIN_OK
+1673789752576 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs ok
+1673789752576 inf [api] > Service poker/client/prefs
+1673789752583 inf [router] Execute: wam://preload-ok
+1673789752584 inf [router] Navigate: wam://lobbies
+1673789752586 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/config.1624292306 get
+1673789752587 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/ressource.1624283658 get
+1673789752589 inf [router] Navigation done: wam://lobbies
+1673789752590 inf [router] Execution done: wam://preload-ok
+1673789752591 inf [network] Registering channel subscriptions
+1673789752591 inf [api] < Service operator/userdata
+1673789752592 inf [network] > Http https://wapi.winamax.fr/operator/userdata post
+1673789752593 inf [api] < Service operator/winamax-tv/public
+1673789752594 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public post
+1673789752595 inf [network] < prefs SRM:JOIN
+1673789752595 inf [network] < prefs NEWS:GET
+1673789752596 inf [network] < prefs DATA:GET
+1673789752596 inf [network] < prefs BUDDY:GET
+1673789752597 inf [network] < prefs BUDDYROOM:JOIN
+1673789752600 inf [network] < prefs TIME:GET
+1673789752601 inf [network] < prefs CASHIER:GET
+1673789752601 inf [network] < prefs CASHIER:LIST
+1673789752602 inf [network] < prefs CASHIER:GET
+1673789752602 inf [network] < prefs CASHIER:LIST
+1673789752604 inf [network] < subscriptions FILTERLIST:CREATE
+1673789752604 inf [network] < subscriptions FILTERLIST:CREATE
+1673789752605 inf [network] < subscriptions FILTERLIST:CREATE
+1673789752618 inf [network] > prefs SRM:JOIN_OK
+1673789752620 inf [network] > prefs TIME:GET_OK
+1673789752622 inf [network] > prefs BUDDYROOM:JOIN_OK
+1673789752624 inf [network] > prefs CASHIER:GET_OK
+1673789752625 inf [network] > prefs CASHIER:LIST_OK
+1673789752626 inf [network] > prefs CASHIER:GET_OK
+1673789752641 inf [network] > prefs CASHIER:LIST_OK
+1673789752642 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1673789752642 inf [network] > subscriptions FILTERLIST:SET
+1673789752643 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1673789752643 inf [network] > subscriptions FILTERLIST:SET
+1673789752644 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1673789752644 inf [network] > subscriptions FILTERLIST:SET
+1673789752649 inf [network] > prefs NEWS:GET_OK
+1673789752650 inf [network] > prefs DATA:GET_ERR
+1673789752653 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public ok
+1673789752653 inf [api] > Service operator/winamax-tv/public
+1673789752661 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/ressource.1624283658 ok
+1673789752664 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/config.1624292306 ok
+1673789752686 inf [network] > prefs BUDDY:GET_OK
+1673789752701 inf [network] < prefs BUDDYROOM:JOIN
+1673789752717 inf [network] Registering channel wam.general.t1
+1673789752718 inf [network] < wam.general.t1 CHATROOM:JOIN
+1673789752723 inf [network] > prefs BUDDYROOM:JOIN_OK
+1673789752741 inf [network] > wam.general.t1 CHATROOM:JOIN_OK
+1673789752757 inf [network] > Http https://wapi.winamax.fr/operator/userdata ok
+1673789752758 inf [api] > Service operator/userdata
+1673789754590 inf [api] < Service poker/client/prefs
+1673789754590 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs post
+1673789754652 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs ok
+1673789754652 inf [api] > Service poker/client/prefs
+1673789755403 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1673789762609 inf [network] < prefs TIME:GET
+1673789762632 inf [network] > prefs TIME:GET_OK
+1673789765956 inf [network] < prefs FILTERLIST:CREATE
+1673789765993 inf [network] > prefs FILTERLIST:CREATE_OK
+1673789765994 inf [network] > prefs FILTERLIST:SET
+1673789766384 inf [network] > prefs FILTERLIST:SET
+1673789770673 inf [router] Navigate: wam://popup?type=tournament-register&ttrk=tt3.ttmgr.tt3_3.t622959566&id=lobby-home
+1673789770675 inf [router] Navigation done: wam://popup?type=tournament-register&ttrk=tt3.ttmgr.tt3_3.t622959566&id=lobby-home
+1673789770675 inf [network] Registering channel tt3.ttmgr.tt3_3.t622959566
+1673789770679 inf [network] < tt3.ttmgr.tt3_3.t622959566 TOURNAMENT:JOIN
+1673789770703 inf [network] > tt3.ttmgr.tt3_3.t622959566 TOURNAMENT:JOIN_OK
+1673789770704 inf [network] > tt3.ttmgr.tt3_3.t622959566 CHATROOM:JOIN_OK
+1673789772171 inf [router] Execute: wam://srm?action=subscribe&template=sng&context=lo&withTicket=true&password=&ttrk=tt3.ttmgr.tt3_3.t622959566
+1673789772173 inf [network] < prefs SRM:ADD_RULE
+1673789772195 inf [network] > prefs SRM:ADD_RULE_OK
+1673789772196 inf [router] Execution done: wam://srm?action=subscribe&template=sng&context=lo&withTicket=true&password=&ttrk=tt3.ttmgr.tt3_3.t622959566
+1673789772619 inf [network] < prefs TIME:GET
+1673789772636 inf [network] > prefs TIME:GET_OK
+1673789776375 inf [network] > prefs FILTERLIST:SET
+1673789782631 inf [network] < prefs TIME:GET
+1673789782651 inf [network] > prefs TIME:GET_OK
+1673789786377 inf [network] > prefs FILTERLIST:SET
+1673789792640 inf [network] < prefs TIME:GET
+1673789792656 inf [network] > prefs TIME:GET_OK
+1673789795591 inf [app] Exit
+1673789795594 inf [tracker] Closed
+1673789795596 inf [network] Registering channel prefs
+1673789795596 inf [network] Registering channel tt3.ttmgr.tt3_3.t622959566
+1673789795597 inf [network] Leaving channel tt3.ttmgr.tt3_3.t622959566

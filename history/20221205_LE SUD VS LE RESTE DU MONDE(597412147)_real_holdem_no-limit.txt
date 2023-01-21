@@ -1,0 +1,230 @@
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2565865633598144560-4-1670268775 - Holdem no limit (25/100/200) - 2022/12/05 19:32:55 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(597412147)#0047' 6-max (real money) Seat #4 is the button
+Seat 1: Monsieur X. (19425, 0.90€ bounty)
+Seat 2: Clabert (40475, 0.90€ bounty)
+Seat 3: pm4tt (20400, 0.90€ bounty)
+Seat 4: Ich.KinkoHyo (19625, 0.90€ bounty)
+Seat 5: Artistapeke (150, 0.90€ bounty)
+Seat 6: YL_ML_GL_42 (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Artistapeke posts ante 25
+YL_ML_GL_42 posts ante 25
+Monsieur X. posts ante 25
+Clabert posts ante 25
+pm4tt posts ante 25
+Ich.KinkoHyo posts ante 25
+Artistapeke posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [9h 3h]
+*** PRE-FLOP *** 
+Monsieur X. raises 300 to 500
+Clabert folds
+pm4tt folds
+Ich.KinkoHyo folds
+Artistapeke calls 25 and is all-in
+YL_ML_GL_42 folds
+*** FLOP *** [2c 3d 4s]
+*** TURN *** [2c 3d 4s][Qh]
+*** RIVER *** [2c 3d 4s Qh][7c]
+*** SHOW DOWN ***
+Artistapeke shows [Tc Th] (One pair : Tens)
+Monsieur X. shows [Jc Jd] (One pair : Jacks)
+Monsieur X. collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | No rake
+Board: [2c 3d 4s Qh 7c]
+Seat 1: Monsieur X. showed [Jc Jd] and won 975 with One pair : Jacks
+Seat 5: Artistapeke (small blind) showed [Tc Th] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2565865633598144560-5-1670268816 - Holdem no limit (25/100/200) - 2022/12/05 19:33:36 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(597412147)#0047' 6-max (real money) Seat #5 is the button
+Seat 1: Monsieur X. (19875, 1.35€ bounty)
+Seat 2: Clabert (40450, 0.90€ bounty)
+Seat 3: pm4tt (20375, 0.90€ bounty)
+Seat 4: Ich.KinkoHyo (19600, 0.90€ bounty)
+Seat 6: YL_ML_GL_42 (19775, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Monsieur X. posts ante 25
+Clabert posts ante 25
+pm4tt posts ante 25
+Ich.KinkoHyo posts ante 25
+YL_ML_GL_42 posts small blind 100
+Monsieur X. posts big blind 200
+Dealt to YL_ML_GL_42 [Kd 4c]
+*** PRE-FLOP *** 
+Clabert folds
+pm4tt folds
+Ich.KinkoHyo folds
+YL_ML_GL_42 folds
+Monsieur X. collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 1: Monsieur X. (big blind) won 425
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2565865633598144560-6-1670268833 - Holdem no limit (25/100/200) - 2022/12/05 19:33:53 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(597412147)#0047' 6-max (real money) Seat #6 is the button
+Seat 1: Monsieur X. (20075, 1.35€ bounty)
+Seat 2: Clabert (40425, 0.90€ bounty)
+Seat 3: pm4tt (20350, 0.90€ bounty)
+Seat 4: Ich.KinkoHyo (19575, 0.90€ bounty)
+Seat 5: Bouddha006 (20000, 0.90€ bounty)
+Seat 6: YL_ML_GL_42 (19650, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Monsieur X. posts ante 25
+Clabert posts ante 25
+pm4tt posts ante 25
+Ich.KinkoHyo posts ante 25
+Bouddha006 posts ante 25
+YL_ML_GL_42 posts ante 25
+Monsieur X. posts small blind 100
+Clabert posts big blind 200
+Dealt to YL_ML_GL_42 [Th 9h]
+*** PRE-FLOP *** 
+pm4tt folds
+Ich.KinkoHyo folds
+Bouddha006 calls 200
+YL_ML_GL_42 calls 200
+Monsieur X. calls 100
+Clabert checks
+*** FLOP *** [Tc As Kd]
+Monsieur X. checks
+Clabert checks
+Bouddha006 bets 333
+YL_ML_GL_42 folds
+Monsieur X. folds
+Clabert folds
+Bouddha006 collected 1283 from pot
+*** SUMMARY ***
+Total pot 1283 | No rake
+Board: [Tc As Kd]
+Seat 5: Bouddha006 won 1283
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2565865633598144560-7-1670268959 - Holdem no limit (25/100/200) - 2022/12/05 19:35:59 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(597412147)#0047' 6-max (real money) Seat #1 is the button
+Seat 1: Monsieur X. (19850, 1.35€ bounty)
+Seat 2: Clabert (40200, 0.90€ bounty)
+Seat 3: pm4tt (20325, 0.90€ bounty)
+Seat 4: Ich.KinkoHyo (19550, 0.90€ bounty)
+Seat 5: Bouddha006 (20725, 0.90€ bounty)
+Seat 6: YL_ML_GL_42 (19425, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Clabert posts ante 25
+pm4tt posts ante 25
+Monsieur X. posts ante 25
+Ich.KinkoHyo posts ante 25
+Bouddha006 posts ante 25
+YL_ML_GL_42 posts ante 25
+Clabert posts small blind 100
+pm4tt posts big blind 200
+Dealt to YL_ML_GL_42 [As 2h]
+*** PRE-FLOP *** 
+Ich.KinkoHyo folds
+Bouddha006 calls 200
+YL_ML_GL_42 folds
+Monsieur X. folds
+Clabert folds
+pm4tt checks
+*** FLOP *** [8d Tc 7s]
+pm4tt checks
+Bouddha006 bets 650
+pm4tt calls 650
+*** TURN *** [8d Tc 7s][Jd]
+pm4tt checks
+Bouddha006 bets 1268
+pm4tt raises 2530 to 3798
+Bouddha006 calls 2530
+*** RIVER *** [8d Tc 7s Jd][Kc]
+pm4tt bets 6300
+Bouddha006 folds
+pm4tt collected 15846 from pot
+*** SUMMARY ***
+Total pot 15846 | No rake
+Board: [8d Tc 7s Jd Kc]
+Seat 3: pm4tt (big blind) won 15846
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2565865633598144560-8-1670269064 - Holdem no limit (25/100/200) - 2022/12/05 19:37:44 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(597412147)#0047' 6-max (real money) Seat #2 is the button
+Seat 1: Monsieur X. (19825, 1.35€ bounty)
+Seat 2: Clabert (40075, 0.90€ bounty)
+Seat 3: pm4tt (25198, 0.90€ bounty)
+Seat 4: Ich.KinkoHyo (19525, 0.90€ bounty)
+Seat 5: Bouddha006 (16052, 0.90€ bounty)
+Seat 6: YL_ML_GL_42 (19400, 0.90€ bounty)
+*** ANTE/BLINDS ***
+pm4tt posts ante 25
+Ich.KinkoHyo posts ante 25
+Monsieur X. posts ante 25
+Clabert posts ante 25
+Bouddha006 posts ante 25
+YL_ML_GL_42 posts ante 25
+pm4tt posts small blind 100
+Ich.KinkoHyo posts big blind 200
+Dealt to YL_ML_GL_42 [5s Jh]
+*** PRE-FLOP *** 
+Bouddha006 raises 15827 to 16027 and is all-in
+YL_ML_GL_42 folds
+Monsieur X. folds
+Clabert raises 24023 to 40050 and is all-in
+pm4tt folds
+Ich.KinkoHyo folds
+*** FLOP *** [2c 5d 8d]
+*** TURN *** [2c 5d 8d][8s]
+*** RIVER *** [2c 5d 8d 8s][Jd]
+*** SHOW DOWN ***
+Clabert shows [Ad Kc] (One pair : 8)
+Bouddha006 shows [Td 8c] (Trips of 8)
+Bouddha006 collected 32504 from main pot
+Clabert collected 24023 from side pot 1
+*** SUMMARY ***
+Total pot 56527 | No rake
+Board: [2c 5d 8d 8s Jd]
+Seat 2: Clabert (button) showed [Ad Kc] and won 24023 with One pair : 8
+Seat 5: Bouddha006 showed [Td 8c] and won 32504 with Trips of 8
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2565865633598144560-9-1670269101 - Holdem no limit (25/100/200) - 2022/12/05 19:38:21 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(597412147)#0047' 6-max (real money) Seat #3 is the button
+Seat 1: Monsieur X. (19800, 1.35€ bounty)
+Seat 2: Clabert (24023, 0.90€ bounty)
+Seat 3: pm4tt (25073, 0.90€ bounty)
+Seat 4: Ich.KinkoHyo (19300, 0.90€ bounty)
+Seat 5: Bouddha006 (32504, 0.90€ bounty)
+Seat 6: YL_ML_GL_42 (19375, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Ich.KinkoHyo posts ante 25
+Bouddha006 posts ante 25
+Monsieur X. posts ante 25
+Clabert posts ante 25
+pm4tt posts ante 25
+YL_ML_GL_42 posts ante 25
+Ich.KinkoHyo posts small blind 100
+Bouddha006 posts big blind 200
+Dealt to YL_ML_GL_42 [Ad 8d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 400 to 600
+Monsieur X. folds
+Clabert raises 1200 to 1800
+pm4tt folds
+Ich.KinkoHyo folds
+Bouddha006 folds
+YL_ML_GL_42 raises 17550 to 19350 and is all-in
+Clabert calls 17550
+*** FLOP *** [2s 3c 4c]
+*** TURN *** [2s 3c 4c][6h]
+*** RIVER *** [2s 3c 4c 6h][Tc]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ad 8d] (High card : Ace)
+Clabert shows [Qd As] (High card : Ace)
+Clabert collected 39150 from pot
+*** SUMMARY ***
+Total pot 39150 | No rake
+Board: [2s 3c 4c 6h Tc]
+Seat 2: Clabert showed [Qd As] and won 39150 with High card : Ace
+Seat 6: YL_ML_GL_42 showed [Ad 8d] and lost with High card : Ace
+
+

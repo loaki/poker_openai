@@ -1,0 +1,895 @@
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 38 - HandId: #2571034051213263223-1-1667930549 - Holdem no limit (40/175/350) - 2022/11/08 18:02:29 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #6 is the button
+Seat 1: futur_richou (41670, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (37918, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (14148, 3.37€ bounty)
+Seat 5: YL_ML_GL_42 (20000, 2.25€ bounty)
+Seat 6: 1J0URLES10K (27683, 2.25€ bounty)
+*** ANTE/BLINDS ***
+futur_richou posts ante 40
+EFFEIL___EAU posts ante 40
+Cpt. RayHolt posts ante 40
+YL_ML_GL_42 posts ante 40
+1J0URLES10K posts ante 40
+futur_richou posts small blind 175
+EFFEIL___EAU posts big blind 350
+Dealt to YL_ML_GL_42 [Qc 5c]
+*** PRE-FLOP *** 
+Cpt. RayHolt folds
+YL_ML_GL_42 folds
+1J0URLES10K folds
+futur_richou calls 175
+EFFEIL___EAU checks
+*** FLOP *** [9c Ac 8h]
+futur_richou bets 350
+EFFEIL___EAU calls 350
+*** TURN *** [9c Ac 8h][Th]
+futur_richou bets 1280
+EFFEIL___EAU calls 1280
+*** RIVER *** [9c Ac 8h Th][7s]
+futur_richou checks
+EFFEIL___EAU bets 2100
+futur_richou folds
+EFFEIL___EAU collected 6260 from pot
+*** SUMMARY ***
+Total pot 6260 | No rake
+Board: [9c Ac 8h Th 7s]
+Seat 2: EFFEIL___EAU (big blind) won 6260
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 38 - HandId: #2571034051213263223-2-1667930673 - Holdem no limit (40/175/350) - 2022/11/08 18:04:33 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #1 is the button
+Seat 1: futur_richou (39650, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (40058, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (14108, 3.37€ bounty)
+Seat 4: Bou-bOuchka (20000, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19960, 2.25€ bounty)
+Seat 6: 1J0URLES10K (27643, 2.25€ bounty)
+*** ANTE/BLINDS ***
+EFFEIL___EAU posts ante 40
+Cpt. RayHolt posts ante 40
+futur_richou posts ante 40
+Bou-bOuchka posts ante 40
+YL_ML_GL_42 posts ante 40
+1J0URLES10K posts ante 40
+EFFEIL___EAU posts small blind 175
+Cpt. RayHolt posts big blind 350
+Dealt to YL_ML_GL_42 [7s 5d]
+*** PRE-FLOP *** 
+Bou-bOuchka folds
+YL_ML_GL_42 folds
+1J0URLES10K raises 595 to 945
+futur_richou folds
+EFFEIL___EAU folds
+Cpt. RayHolt folds
+1J0URLES10K collected 1710 from pot
+*** SUMMARY ***
+Total pot 1710 | No rake
+Seat 6: 1J0URLES10K won 1710
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 38 - HandId: #2571034051213263223-3-1667930754 - Holdem no limit (40/175/350) - 2022/11/08 18:05:54 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #2 is the button
+Seat 1: futur_richou (39610, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (39843, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (13718, 3.37€ bounty)
+Seat 4: Bou-bOuchka (19960, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19920, 2.25€ bounty)
+Seat 6: 1J0URLES10K (28368, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Cpt. RayHolt posts ante 40
+Bou-bOuchka posts ante 40
+futur_richou posts ante 40
+EFFEIL___EAU posts ante 40
+YL_ML_GL_42 posts ante 40
+1J0URLES10K posts ante 40
+Cpt. RayHolt posts small blind 175
+Bou-bOuchka posts big blind 350
+Dealt to YL_ML_GL_42 [3h Jd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+1J0URLES10K folds
+futur_richou folds
+EFFEIL___EAU raises 350 to 700
+Cpt. RayHolt folds
+Bou-bOuchka folds
+EFFEIL___EAU collected 1465 from pot
+*** SUMMARY ***
+Total pot 1465 | No rake
+Seat 2: EFFEIL___EAU (button) won 1465
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 38 - HandId: #2571034051213263223-4-1667930792 - Holdem no limit (40/175/350) - 2022/11/08 18:06:32 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #3 is the button
+Seat 1: futur_richou (39570, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (40568, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (13503, 3.37€ bounty)
+Seat 4: Bou-bOuchka (19570, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19880, 2.25€ bounty)
+Seat 6: 1J0URLES10K (28328, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Bou-bOuchka posts ante 40
+YL_ML_GL_42 posts ante 40
+futur_richou posts ante 40
+EFFEIL___EAU posts ante 40
+Cpt. RayHolt posts ante 40
+1J0URLES10K posts ante 40
+Bou-bOuchka posts small blind 175
+YL_ML_GL_42 posts big blind 350
+Dealt to YL_ML_GL_42 [6h Qh]
+*** PRE-FLOP *** 
+1J0URLES10K folds
+futur_richou folds
+EFFEIL___EAU folds
+Cpt. RayHolt folds
+Bou-bOuchka calls 175
+YL_ML_GL_42 raises 940 to 1290
+Bou-bOuchka folds
+YL_ML_GL_42 collected 1880 from pot
+*** SUMMARY ***
+Total pot 1880 | No rake
+Seat 5: YL_ML_GL_42 (big blind) won 1880
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 38 - HandId: #2571034051213263223-5-1667930837 - Holdem no limit (40/175/350) - 2022/11/08 18:07:17 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #4 is the button
+Seat 1: futur_richou (39530, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (40528, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (13463, 3.37€ bounty)
+Seat 4: Bou-bOuchka (19180, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (20430, 2.25€ bounty)
+Seat 6: 1J0URLES10K (28288, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 40
+1J0URLES10K posts ante 40
+futur_richou posts ante 40
+EFFEIL___EAU posts ante 40
+Cpt. RayHolt posts ante 40
+Bou-bOuchka posts ante 40
+YL_ML_GL_42 posts small blind 175
+1J0URLES10K posts big blind 350
+Dealt to YL_ML_GL_42 [6h Qc]
+*** PRE-FLOP *** 
+futur_richou folds
+EFFEIL___EAU folds
+Cpt. RayHolt raises 350 to 700
+Bou-bOuchka calls 700
+YL_ML_GL_42 folds
+1J0URLES10K folds
+*** FLOP *** [8s 9c Jc]
+Cpt. RayHolt checks
+Bou-bOuchka checks
+*** TURN *** [8s 9c Jc][6s]
+Cpt. RayHolt checks
+Bou-bOuchka checks
+*** RIVER *** [8s 9c Jc 6s][7s]
+Cpt. RayHolt checks
+Bou-bOuchka bets 1083
+Cpt. RayHolt folds
+Bou-bOuchka collected 3248 from pot
+*** SUMMARY ***
+Total pot 3248 | No rake
+Board: [8s 9c Jc 6s 7s]
+Seat 4: Bou-bOuchka (button) won 3248
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 38 - HandId: #2571034051213263223-6-1667930908 - Holdem no limit (40/175/350) - 2022/11/08 18:08:28 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #5 is the button
+Seat 1: futur_richou (39490, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (40488, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (12723, 3.37€ bounty)
+Seat 4: Bou-bOuchka (20605, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (20215, 2.25€ bounty)
+Seat 6: 1J0URLES10K (27898, 2.25€ bounty)
+*** ANTE/BLINDS ***
+1J0URLES10K posts ante 40
+futur_richou posts ante 40
+EFFEIL___EAU posts ante 40
+Cpt. RayHolt posts ante 40
+Bou-bOuchka posts ante 40
+YL_ML_GL_42 posts ante 40
+1J0URLES10K posts small blind 175
+futur_richou posts big blind 350
+Dealt to YL_ML_GL_42 [8c 8s]
+*** PRE-FLOP *** 
+EFFEIL___EAU folds
+Cpt. RayHolt folds
+Bou-bOuchka folds
+YL_ML_GL_42 raises 700 to 1050
+1J0URLES10K calls 875
+futur_richou folds
+*** FLOP *** [5c 8h 3d]
+1J0URLES10K checks
+YL_ML_GL_42 checks
+*** TURN *** [5c 8h 3d][3s]
+1J0URLES10K bets 2058
+YL_ML_GL_42 calls 2058
+*** RIVER *** [5c 8h 3d 3s][5h]
+1J0URLES10K bets 24750 and is all-in
+YL_ML_GL_42 calls 17067 and is all-in
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [8c 8s] (Full of 8 and 5)
+1J0URLES10K shows [9d 7d] (Two pairs : 5 and 3)
+1J0URLES10K collected 7683 from side pot 1
+YL_ML_GL_42 collected 40940 from main pot
+*** SUMMARY ***
+Total pot 48623 | No rake
+Board: [5c 8h 3d 3s 5h]
+Seat 5: YL_ML_GL_42 (button) showed [8c 8s] and won 40940 with Full of 8 and 5
+Seat 6: 1J0URLES10K (small blind) showed [9d 7d] and won 7683 with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 38 - HandId: #2571034051213263223-7-1667931003 - Holdem no limit (40/175/350) - 2022/11/08 18:10:03 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #6 is the button
+Seat 1: futur_richou (39100, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (40448, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (12683, 3.37€ bounty)
+Seat 4: Bou-bOuchka (20565, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (40940, 2.25€ bounty)
+Seat 6: 1J0URLES10K (7683, 2.25€ bounty)
+*** ANTE/BLINDS ***
+futur_richou posts ante 40
+EFFEIL___EAU posts ante 40
+Cpt. RayHolt posts ante 40
+Bou-bOuchka posts ante 40
+YL_ML_GL_42 posts ante 40
+1J0URLES10K posts ante 40
+futur_richou posts small blind 175
+EFFEIL___EAU posts big blind 350
+Dealt to YL_ML_GL_42 [8d Ts]
+*** PRE-FLOP *** 
+Cpt. RayHolt folds
+Bou-bOuchka folds
+YL_ML_GL_42 folds
+1J0URLES10K raises 7293 to 7643 and is all-in
+futur_richou folds
+EFFEIL___EAU folds
+1J0URLES10K collected 8408 from pot
+*** SUMMARY ***
+Total pot 8408 | No rake
+Seat 6: 1J0URLES10K (button) won 8408
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2571034051213263223-8-1667931027 - Holdem no limit (50/200/400) - 2022/11/08 18:10:27 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #1 is the button
+Seat 1: futur_richou (38885, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (40058, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (12643, 3.37€ bounty)
+Seat 4: Bou-bOuchka (20525, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (40900, 2.25€ bounty)
+Seat 6: 1J0URLES10K (8408, 2.25€ bounty)
+*** ANTE/BLINDS ***
+EFFEIL___EAU posts ante 50
+Cpt. RayHolt posts ante 50
+futur_richou posts ante 50
+Bou-bOuchka posts ante 50
+YL_ML_GL_42 posts ante 50
+1J0URLES10K posts ante 50
+EFFEIL___EAU posts small blind 200
+Cpt. RayHolt posts big blind 400
+Dealt to YL_ML_GL_42 [Kc Qs]
+*** PRE-FLOP *** 
+Bou-bOuchka folds
+YL_ML_GL_42 raises 400 to 800
+1J0URLES10K folds
+futur_richou raises 2000 to 2800
+EFFEIL___EAU folds
+Cpt. RayHolt folds
+YL_ML_GL_42 calls 2000
+*** FLOP *** [Ad 5s 4d]
+YL_ML_GL_42 checks
+futur_richou bets 2275
+YL_ML_GL_42 folds
+futur_richou collected 8775 from pot
+*** SUMMARY ***
+Total pot 8775 | No rake
+Board: [Ad 5s 4d]
+Seat 1: futur_richou (button) won 8775
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2571034051213263223-9-1667931103 - Holdem no limit (50/200/400) - 2022/11/08 18:11:43 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #2 is the button
+Seat 1: futur_richou (42535, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (39808, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (12193, 3.37€ bounty)
+Seat 4: Bou-bOuchka (20475, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (38050, 2.25€ bounty)
+Seat 6: 1J0URLES10K (8358, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Cpt. RayHolt posts ante 50
+Bou-bOuchka posts ante 50
+futur_richou posts ante 50
+EFFEIL___EAU posts ante 50
+YL_ML_GL_42 posts ante 50
+1J0URLES10K posts ante 50
+Cpt. RayHolt posts small blind 200
+Bou-bOuchka posts big blind 400
+Dealt to YL_ML_GL_42 [Kh 6s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+1J0URLES10K folds
+futur_richou raises 600 to 1000
+EFFEIL___EAU folds
+Cpt. RayHolt folds
+Bou-bOuchka folds
+futur_richou collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 1: futur_richou won 1900
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2571034051213263223-10-1667931121 - Holdem no limit (50/200/400) - 2022/11/08 18:12:01 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #3 is the button
+Seat 1: futur_richou (43385, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (39758, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (11943, 3.37€ bounty)
+Seat 4: Bou-bOuchka (20025, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (38000, 2.25€ bounty)
+Seat 6: 1J0URLES10K (8308, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Bou-bOuchka posts ante 50
+YL_ML_GL_42 posts ante 50
+futur_richou posts ante 50
+EFFEIL___EAU posts ante 50
+Cpt. RayHolt posts ante 50
+1J0URLES10K posts ante 50
+Bou-bOuchka posts small blind 200
+YL_ML_GL_42 posts big blind 400
+Dealt to YL_ML_GL_42 [Ah 4h]
+*** PRE-FLOP *** 
+1J0URLES10K raises 7858 to 8258 and is all-in
+futur_richou folds
+EFFEIL___EAU raises 31450 to 39708 and is all-in
+Cpt. RayHolt folds
+Bou-bOuchka folds
+YL_ML_GL_42 folds
+*** FLOP *** [5c 7c 6c]
+*** TURN *** [5c 7c 6c][2d]
+*** RIVER *** [5c 7c 6c 2d][5h]
+*** SHOW DOWN ***
+EFFEIL___EAU shows [Ac Td] (One pair : 5)
+1J0URLES10K shows [5d 7s] (Full of 5 and 7)
+1J0URLES10K collected 17416 from main pot
+EFFEIL___EAU collected 31450 from side pot 1
+*** SUMMARY ***
+Total pot 48866 | No rake
+Board: [5c 7c 6c 2d 5h]
+Seat 2: EFFEIL___EAU showed [Ac Td] and won 31450 with One pair : 5
+Seat 6: 1J0URLES10K showed [5d 7s] and won 17416 with Full of 5 and 7
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2571034051213263223-11-1667931167 - Holdem no limit (50/200/400) - 2022/11/08 18:12:47 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #4 is the button
+Seat 1: futur_richou (43335, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (31450, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (11893, 3.37€ bounty)
+Seat 4: Bou-bOuchka (19775, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (37550, 2.25€ bounty)
+Seat 6: 1J0URLES10K (17416, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 50
+1J0URLES10K posts ante 50
+futur_richou posts ante 50
+EFFEIL___EAU posts ante 50
+Cpt. RayHolt posts ante 50
+Bou-bOuchka posts ante 50
+YL_ML_GL_42 posts small blind 200
+1J0URLES10K posts big blind 400
+Dealt to YL_ML_GL_42 [Jh Ad]
+*** PRE-FLOP *** 
+futur_richou folds
+EFFEIL___EAU folds
+Cpt. RayHolt folds
+Bou-bOuchka folds
+YL_ML_GL_42 folds
+1J0URLES10K collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 6: 1J0URLES10K (big blind) won 900
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2571034051213263223-12-1667931194 - Holdem no limit (50/200/400) - 2022/11/08 18:13:14 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #5 is the button
+Seat 1: futur_richou (43285, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (31400, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (11843, 3.37€ bounty)
+Seat 4: Bou-bOuchka (19725, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (37300, 2.25€ bounty)
+Seat 6: 1J0URLES10K (17866, 2.25€ bounty)
+*** ANTE/BLINDS ***
+1J0URLES10K posts ante 50
+futur_richou posts ante 50
+EFFEIL___EAU posts ante 50
+Cpt. RayHolt posts ante 50
+Bou-bOuchka posts ante 50
+YL_ML_GL_42 posts ante 50
+1J0URLES10K posts small blind 200
+futur_richou posts big blind 400
+Dealt to YL_ML_GL_42 [Ac 9d]
+*** PRE-FLOP *** 
+EFFEIL___EAU folds
+Cpt. RayHolt folds
+Bou-bOuchka raises 700 to 1100
+YL_ML_GL_42 calls 1100
+1J0URLES10K folds
+futur_richou folds
+*** FLOP *** [3c 4s 2c]
+Bou-bOuchka bets 1550
+YL_ML_GL_42 raises 4650 to 6200
+Bou-bOuchka raises 12375 to 18575 and is all-in
+YL_ML_GL_42 calls 12375
+*** TURN *** [3c 4s 2c][6d]
+*** RIVER *** [3c 4s 2c 6d][Qc]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ac 9d] (High card : Ace)
+Bou-bOuchka shows [Ts Th] (One pair : Tens)
+Bou-bOuchka collected 40250 from pot
+*** SUMMARY ***
+Total pot 40250 | No rake
+Board: [3c 4s 2c 6d Qc]
+Seat 4: Bou-bOuchka showed [Ts Th] and won 40250 with One pair : Tens
+Seat 5: YL_ML_GL_42 (button) showed [Ac 9d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2571034051213263223-13-1667931239 - Holdem no limit (50/200/400) - 2022/11/08 18:13:59 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #6 is the button
+Seat 1: futur_richou (42835, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (31350, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (11793, 3.37€ bounty)
+Seat 4: Bou-bOuchka (40250, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17575, 2.25€ bounty)
+Seat 6: 1J0URLES10K (17616, 2.25€ bounty)
+*** ANTE/BLINDS ***
+futur_richou posts ante 50
+EFFEIL___EAU posts ante 50
+Cpt. RayHolt posts ante 50
+Bou-bOuchka posts ante 50
+YL_ML_GL_42 posts ante 50
+1J0URLES10K posts ante 50
+futur_richou posts small blind 200
+EFFEIL___EAU posts big blind 400
+Dealt to YL_ML_GL_42 [2s 3h]
+*** PRE-FLOP *** 
+Cpt. RayHolt raises 400 to 800
+Bou-bOuchka folds
+YL_ML_GL_42 folds
+1J0URLES10K folds
+futur_richou folds
+EFFEIL___EAU calls 400
+*** FLOP *** [5c 9c 5d]
+EFFEIL___EAU checks
+Cpt. RayHolt checks
+*** TURN *** [5c 9c 5d][9s]
+EFFEIL___EAU checks
+Cpt. RayHolt checks
+*** RIVER *** [5c 9c 5d 9s][9h]
+EFFEIL___EAU checks
+Cpt. RayHolt checks
+*** SHOW DOWN ***
+EFFEIL___EAU shows [Ah 2c] (Full of 9 and 5)
+Cpt. RayHolt shows [Js Qs] (Full of 9 and 5)
+Cpt. RayHolt collected 1050 from pot
+EFFEIL___EAU collected 1050 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Board: [5c 9c 5d 9s 9h]
+Seat 2: EFFEIL___EAU (big blind) showed [Ah 2c] and won 1050 with Full of 9 and 5
+Seat 3: Cpt. RayHolt showed [Js Qs] and won 1050 with Full of 9 and 5
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2571034051213263223-14-1667931298 - Holdem no limit (50/200/400) - 2022/11/08 18:14:58 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #1 is the button
+Seat 1: futur_richou (42585, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (31550, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (11993, 3.37€ bounty)
+Seat 4: Bou-bOuchka (40200, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17525, 2.25€ bounty)
+Seat 6: 1J0URLES10K (17566, 2.25€ bounty)
+*** ANTE/BLINDS ***
+EFFEIL___EAU posts ante 50
+Cpt. RayHolt posts ante 50
+futur_richou posts ante 50
+Bou-bOuchka posts ante 50
+YL_ML_GL_42 posts ante 50
+1J0URLES10K posts ante 50
+EFFEIL___EAU posts small blind 200
+Cpt. RayHolt posts big blind 400
+Dealt to YL_ML_GL_42 [Kd 6d]
+*** PRE-FLOP *** 
+Bou-bOuchka folds
+YL_ML_GL_42 folds
+1J0URLES10K raises 492 to 892
+futur_richou folds
+EFFEIL___EAU folds
+Cpt. RayHolt raises 11051 to 11943 and is all-in
+1J0URLES10K raises 5573 to 17516 and is all-in
+*** FLOP *** [4c As 8s]
+*** TURN *** [4c As 8s][6c]
+*** RIVER *** [4c As 8s 6c][Qd]
+*** SHOW DOWN ***
+Cpt. RayHolt shows [Qs Jc] (One pair : Queens)
+1J0URLES10K shows [2d 2c] (One pair : 2)
+1J0URLES10K collected 5573 from side pot 1
+Cpt. RayHolt collected 24386 from main pot
+*** SUMMARY ***
+Total pot 29959 | No rake
+Board: [4c As 8s 6c Qd]
+Seat 3: Cpt. RayHolt (big blind) showed [Qs Jc] and won 24386 with One pair : Queens
+Seat 6: 1J0URLES10K showed [2d 2c] and won 5573 with One pair : 2
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2571034051213263223-15-1667931344 - Holdem no limit (50/200/400) - 2022/11/08 18:15:44 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #2 is the button
+Seat 1: futur_richou (42535, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (31300, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (24386, 3.37€ bounty)
+Seat 4: Bou-bOuchka (40150, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17475, 2.25€ bounty)
+Seat 6: 1J0URLES10K (5573, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Cpt. RayHolt posts ante 50
+Bou-bOuchka posts ante 50
+futur_richou posts ante 50
+EFFEIL___EAU posts ante 50
+YL_ML_GL_42 posts ante 50
+1J0URLES10K posts ante 50
+Cpt. RayHolt posts small blind 200
+Bou-bOuchka posts big blind 400
+Dealt to YL_ML_GL_42 [Td 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+1J0URLES10K raises 4800 to 5200
+futur_richou folds
+EFFEIL___EAU folds
+Cpt. RayHolt folds
+Bou-bOuchka folds
+1J0URLES10K collected 6100 from pot
+*** SUMMARY ***
+Total pot 6100 | No rake
+Seat 6: 1J0URLES10K won 6100
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2571034051213263223-16-1667931379 - Holdem no limit (50/200/400) - 2022/11/08 18:16:19 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #3 is the button
+Seat 1: futur_richou (42485, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (31250, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (24136, 3.37€ bounty)
+Seat 4: Bou-bOuchka (39700, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17425, 2.25€ bounty)
+Seat 6: 1J0URLES10K (6423, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Bou-bOuchka posts ante 50
+YL_ML_GL_42 posts ante 50
+futur_richou posts ante 50
+EFFEIL___EAU posts ante 50
+Cpt. RayHolt posts ante 50
+1J0URLES10K posts ante 50
+Bou-bOuchka posts small blind 200
+YL_ML_GL_42 posts big blind 400
+Dealt to YL_ML_GL_42 [2h Ad]
+*** PRE-FLOP *** 
+1J0URLES10K raises 5600 to 6000
+futur_richou folds
+EFFEIL___EAU folds
+Cpt. RayHolt folds
+Bou-bOuchka folds
+YL_ML_GL_42 raises 11375 to 17375 and is all-in
+1J0URLES10K calls 373 and is all-in
+*** FLOP *** [Qd 3s 7h]
+*** TURN *** [Qd 3s 7h][Kd]
+*** RIVER *** [Qd 3s 7h Kd][3h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [2h Ad] (One pair : 3)
+1J0URLES10K shows [6c Ah] (One pair : 3)
+1J0URLES10K collected 6623 from main pot
+YL_ML_GL_42 collected 17625 from side pot 1
+*** SUMMARY ***
+Total pot 24248 | No rake
+Board: [Qd 3s 7h Kd 3h]
+Seat 5: YL_ML_GL_42 (big blind) showed [2h Ad] and won 17625 with One pair : 3
+Seat 6: 1J0URLES10K showed [6c Ah] and won 6623 with One pair : 3
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2571034051213263223-17-1667931409 - Holdem no limit (50/200/400) - 2022/11/08 18:16:49 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #4 is the button
+Seat 1: futur_richou (42435, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (31200, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (24086, 3.37€ bounty)
+Seat 4: Bou-bOuchka (39450, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17625, 2.25€ bounty)
+Seat 6: 1J0URLES10K (6623, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 50
+1J0URLES10K posts ante 50
+futur_richou posts ante 50
+EFFEIL___EAU posts ante 50
+Cpt. RayHolt posts ante 50
+Bou-bOuchka posts ante 50
+YL_ML_GL_42 posts small blind 200
+1J0URLES10K posts big blind 400
+Dealt to YL_ML_GL_42 [3h 5h]
+*** PRE-FLOP *** 
+futur_richou folds
+EFFEIL___EAU raises 400 to 800
+Cpt. RayHolt calls 800
+Bou-bOuchka calls 800
+YL_ML_GL_42 folds
+1J0URLES10K folds
+*** FLOP *** [Tc Kd 3c]
+EFFEIL___EAU checks
+Cpt. RayHolt bets 1155
+Bou-bOuchka folds
+EFFEIL___EAU calls 1155
+*** TURN *** [Tc Kd 3c][8h]
+EFFEIL___EAU checks
+Cpt. RayHolt checks
+*** RIVER *** [Tc Kd 3c 8h][5d]
+EFFEIL___EAU checks
+Cpt. RayHolt checks
+*** SHOW DOWN ***
+EFFEIL___EAU shows [9h 9s] (One pair : 9)
+Cpt. RayHolt shows [Jc Ts] (One pair : Tens)
+Cpt. RayHolt collected 5610 from pot
+*** SUMMARY ***
+Total pot 5610 | No rake
+Board: [Tc Kd 3c 8h 5d]
+Seat 2: EFFEIL___EAU showed [9h 9s] and lost with One pair : 9
+Seat 3: Cpt. RayHolt showed [Jc Ts] and won 5610 with One pair : Tens
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2571034051213263223-18-1667931468 - Holdem no limit (50/200/400) - 2022/11/08 18:17:48 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #5 is the button
+Seat 1: futur_richou (42385, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (29195, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (27691, 3.37€ bounty)
+Seat 4: Bou-bOuchka (38600, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17375, 2.25€ bounty)
+Seat 6: 1J0URLES10K (6173, 2.25€ bounty)
+*** ANTE/BLINDS ***
+1J0URLES10K posts ante 50
+futur_richou posts ante 50
+EFFEIL___EAU posts ante 50
+Cpt. RayHolt posts ante 50
+Bou-bOuchka posts ante 50
+YL_ML_GL_42 posts ante 50
+1J0URLES10K posts small blind 200
+futur_richou posts big blind 400
+Dealt to YL_ML_GL_42 [Qd 6h]
+*** PRE-FLOP *** 
+EFFEIL___EAU folds
+Cpt. RayHolt raises 400 to 800
+Bou-bOuchka folds
+YL_ML_GL_42 folds
+1J0URLES10K calls 600
+futur_richou calls 400
+*** FLOP *** [Td Qs 5s]
+1J0URLES10K checks
+futur_richou checks
+Cpt. RayHolt checks
+*** TURN *** [Td Qs 5s][7d]
+1J0URLES10K bets 5323 and is all-in
+futur_richou folds
+Cpt. RayHolt folds
+1J0URLES10K shows [4c As] (High card : Ace)
+1J0URLES10K collected 8023 from pot
+*** SUMMARY ***
+Total pot 8023 | No rake
+Board: [Td Qs 5s 7d]
+Seat 6: 1J0URLES10K (small blind) showed [4c As] and won 8023 with High card : Ace
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2571034051213263223-19-1667931548 - Holdem no limit (60/250/500) - 2022/11/08 18:19:08 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #6 is the button
+Seat 1: futur_richou (41535, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (29145, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (26841, 3.37€ bounty)
+Seat 4: Bou-bOuchka (38550, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17325, 2.25€ bounty)
+Seat 6: 1J0URLES10K (8023, 2.25€ bounty)
+*** ANTE/BLINDS ***
+futur_richou posts ante 60
+EFFEIL___EAU posts ante 60
+Cpt. RayHolt posts ante 60
+Bou-bOuchka posts ante 60
+YL_ML_GL_42 posts ante 60
+1J0URLES10K posts ante 60
+futur_richou posts small blind 250
+EFFEIL___EAU posts big blind 500
+Dealt to YL_ML_GL_42 [6d 9d]
+*** PRE-FLOP *** 
+Cpt. RayHolt folds
+Bou-bOuchka folds
+YL_ML_GL_42 folds
+1J0URLES10K folds
+futur_richou calls 250
+EFFEIL___EAU checks
+*** FLOP *** [Qd 9h Jd]
+futur_richou bets 500
+EFFEIL___EAU folds
+futur_richou collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [Qd 9h Jd]
+Seat 1: futur_richou (small blind) won 1860
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2571034051213263223-20-1667931608 - Holdem no limit (60/250/500) - 2022/11/08 18:20:08 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #1 is the button
+Seat 1: futur_richou (42335, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (28585, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (26781, 3.37€ bounty)
+Seat 4: Bou-bOuchka (38490, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17265, 2.25€ bounty)
+Seat 6: 1J0URLES10K (7963, 2.25€ bounty)
+*** ANTE/BLINDS ***
+EFFEIL___EAU posts ante 60
+Cpt. RayHolt posts ante 60
+futur_richou posts ante 60
+Bou-bOuchka posts ante 60
+YL_ML_GL_42 posts ante 60
+1J0URLES10K posts ante 60
+EFFEIL___EAU posts small blind 250
+Cpt. RayHolt posts big blind 500
+Dealt to YL_ML_GL_42 [Jc 8d]
+*** PRE-FLOP *** 
+Bou-bOuchka folds
+YL_ML_GL_42 folds
+1J0URLES10K folds
+futur_richou raises 550 to 1050
+EFFEIL___EAU raises 2950 to 4000
+Cpt. RayHolt folds
+futur_richou folds
+EFFEIL___EAU collected 5910 from pot
+*** SUMMARY ***
+Total pot 5910 | No rake
+Seat 2: EFFEIL___EAU (small blind) won 5910
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2571034051213263223-21-1667931712 - Holdem no limit (60/250/500) - 2022/11/08 18:21:52 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #2 is the button
+Seat 1: futur_richou (41225, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (30435, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (26221, 3.37€ bounty)
+Seat 4: Bou-bOuchka (38430, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17205, 2.25€ bounty)
+Seat 6: 1J0URLES10K (7903, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Cpt. RayHolt posts ante 60
+Bou-bOuchka posts ante 60
+futur_richou posts ante 60
+EFFEIL___EAU posts ante 60
+YL_ML_GL_42 posts ante 60
+1J0URLES10K posts ante 60
+Cpt. RayHolt posts small blind 250
+Bou-bOuchka posts big blind 500
+Dealt to YL_ML_GL_42 [3d 5d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+1J0URLES10K folds
+futur_richou folds
+EFFEIL___EAU folds
+Cpt. RayHolt calls 250
+Bou-bOuchka checks
+*** FLOP *** [3h 4s 2d]
+Cpt. RayHolt bets 500
+Bou-bOuchka folds
+Cpt. RayHolt collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [3h 4s 2d]
+Seat 3: Cpt. RayHolt (small blind) won 1860
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2571034051213263223-22-1667931765 - Holdem no limit (60/250/500) - 2022/11/08 18:22:45 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #3 is the button
+Seat 1: futur_richou (41165, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (30375, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (27021, 3.37€ bounty)
+Seat 4: Bou-bOuchka (37870, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17145, 2.25€ bounty)
+Seat 6: 1J0URLES10K (7843, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Bou-bOuchka posts ante 60
+YL_ML_GL_42 posts ante 60
+futur_richou posts ante 60
+EFFEIL___EAU posts ante 60
+Cpt. RayHolt posts ante 60
+1J0URLES10K posts ante 60
+Bou-bOuchka posts small blind 250
+YL_ML_GL_42 posts big blind 500
+Dealt to YL_ML_GL_42 [2c Kh]
+*** PRE-FLOP *** 
+1J0URLES10K folds
+futur_richou folds
+EFFEIL___EAU raises 500 to 1000
+Cpt. RayHolt folds
+Bou-bOuchka folds
+YL_ML_GL_42 folds
+EFFEIL___EAU collected 2110 from pot
+*** SUMMARY ***
+Total pot 2110 | No rake
+Seat 2: EFFEIL___EAU won 2110
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2571034051213263223-23-1667931801 - Holdem no limit (60/250/500) - 2022/11/08 18:23:21 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #4 is the button
+Seat 1: futur_richou (41105, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (31425, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (26961, 3.37€ bounty)
+Seat 4: Bou-bOuchka (37560, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (16585, 2.25€ bounty)
+Seat 6: 1J0URLES10K (7783, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+1J0URLES10K posts ante 60
+futur_richou posts ante 60
+EFFEIL___EAU posts ante 60
+Cpt. RayHolt posts ante 60
+Bou-bOuchka posts ante 60
+YL_ML_GL_42 posts small blind 250
+1J0URLES10K posts big blind 500
+Dealt to YL_ML_GL_42 [5c 9s]
+*** PRE-FLOP *** 
+futur_richou folds
+EFFEIL___EAU raises 500 to 1000
+Cpt. RayHolt calls 1000
+Bou-bOuchka folds
+YL_ML_GL_42 folds
+1J0URLES10K calls 500
+*** FLOP *** [Td 5d 3h]
+1J0URLES10K bets 6723 and is all-in
+EFFEIL___EAU calls 6723
+Cpt. RayHolt folds
+*** TURN *** [Td 5d 3h][7c]
+*** RIVER *** [Td 5d 3h 7c][Kd]
+*** SHOW DOWN ***
+EFFEIL___EAU shows [Th Qd] (One pair : Tens)
+1J0URLES10K shows [7d 3d] (Flush King high)
+1J0URLES10K collected 17056 from pot
+*** SUMMARY ***
+Total pot 17056 | No rake
+Board: [Td 5d 3h 7c Kd]
+Seat 2: EFFEIL___EAU showed [Th Qd] and lost with One pair : Tens
+Seat 6: 1J0URLES10K (big blind) showed [7d 3d] and won 17056 with Flush King high
+
+
+Winamax Poker - Tournament "W POKUS Event 34" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2571034051213263223-24-1667931848 - Holdem no limit (60/250/500) - 2022/11/08 18:24:08 UTC
+Table: 'W POKUS Event 34(598615513)#0374' 6-max (real money) Seat #5 is the button
+Seat 1: futur_richou (41045, 2.25€ bounty)
+Seat 2: EFFEIL___EAU (23642, 2.25€ bounty)
+Seat 3: Cpt. RayHolt (25901, 3.37€ bounty)
+Seat 4: Bou-bOuchka (37500, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (16275, 2.25€ bounty)
+Seat 6: 1J0URLES10K (17056, 2.25€ bounty)
+*** ANTE/BLINDS ***
+1J0URLES10K posts ante 60
+futur_richou posts ante 60
+EFFEIL___EAU posts ante 60
+Cpt. RayHolt posts ante 60
+Bou-bOuchka posts ante 60
+YL_ML_GL_42 posts ante 60
+1J0URLES10K posts small blind 250
+futur_richou posts big blind 500
+Dealt to YL_ML_GL_42 [3s As]
+*** PRE-FLOP *** 
+EFFEIL___EAU raises 500 to 1000
+Cpt. RayHolt folds
+Bou-bOuchka folds
+YL_ML_GL_42 raises 15215 to 16215 and is all-in
+1J0URLES10K raises 781 to 16996 and is all-in
+futur_richou folds
+EFFEIL___EAU folds
+*** FLOP *** [3h 4d 9h]
+*** TURN *** [3h 4d 9h][8d]
+*** RIVER *** [3h 4d 9h 8d][Kc]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [3s As] (One pair : 3)
+1J0URLES10K shows [7s 7d] (One pair : 7)
+1J0URLES10K collected 35071 from pot
+*** SUMMARY ***
+Total pot 35071 | No rake
+Board: [3h 4d 9h 8d Kc]
+Seat 5: YL_ML_GL_42 (button) showed [3s As] and lost with One pair : 3
+Seat 6: 1J0URLES10K (small blind) showed [7s 7d] and won 35071 with One pair : 7
+
+

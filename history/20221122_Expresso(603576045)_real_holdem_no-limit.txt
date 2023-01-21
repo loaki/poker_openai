@@ -1,0 +1,270 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2592339373924024321-1-1669135958 - Holdem no limit (10/20) - 2022/11/22 16:52:38 UTC
+Table: 'Expresso(603576045)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: Orange.Jack (500)
+Seat 3: WARZINE (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Orange.Jack posts big blind 20
+Dealt to YL_ML_GL_42 [5s 5h]
+*** PRE-FLOP *** 
+WARZINE folds
+YL_ML_GL_42 raises 480 to 500 and is all-in
+Orange.Jack folds
+YL_ML_GL_42 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 1: YL_ML_GL_42 (small blind) won 520
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2592339373924024321-2-1669135965 - Holdem no limit (10/20) - 2022/11/22 16:52:45 UTC
+Table: 'Expresso(603576045)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (520)
+Seat 2: Orange.Jack (480)
+Seat 3: WARZINE (500)
+*** ANTE/BLINDS ***
+Orange.Jack posts small blind 10
+WARZINE posts big blind 20
+Dealt to YL_ML_GL_42 [7s 6h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Orange.Jack calls 10
+WARZINE checks
+*** FLOP *** [Td Ad 4s]
+Orange.Jack checks
+WARZINE checks
+*** TURN *** [Td Ad 4s][Kd]
+Orange.Jack bets 26
+WARZINE folds
+Orange.Jack collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Td Ad 4s Kd]
+Seat 2: Orange.Jack (small blind) won 66
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2592339373924024321-3-1669135982 - Holdem no limit (10/20) - 2022/11/22 16:53:02 UTC
+Table: 'Expresso(603576045)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (520)
+Seat 2: Orange.Jack (500)
+Seat 3: WARZINE (480)
+*** ANTE/BLINDS ***
+WARZINE posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [7h 2s]
+*** PRE-FLOP *** 
+Orange.Jack folds
+WARZINE calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [4c Kc 9c]
+WARZINE checks
+YL_ML_GL_42 checks
+*** TURN *** [4c Kc 9c][Ts]
+WARZINE checks
+YL_ML_GL_42 checks
+*** RIVER *** [4c Kc 9c Ts][9d]
+WARZINE checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7h 2s] (One pair : 9)
+WARZINE shows [6c Ah] (One pair : 9)
+WARZINE collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [4c Kc 9c Ts 9d]
+Seat 1: YL_ML_GL_42 (big blind) showed [7h 2s] and lost with One pair : 9
+Seat 3: WARZINE (small blind) showed [6c Ah] and won 40 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2592339373924024321-4-1669136011 - Holdem no limit (10/20) - 2022/11/22 16:53:31 UTC
+Table: 'Expresso(603576045)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: Orange.Jack (500)
+Seat 3: WARZINE (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Orange.Jack posts big blind 20
+Dealt to YL_ML_GL_42 [Th Kc]
+*** PRE-FLOP *** 
+WARZINE folds
+YL_ML_GL_42 raises 20 to 40
+Orange.Jack calls 20
+*** FLOP *** [Ad 2s 7d]
+YL_ML_GL_42 checks
+Orange.Jack checks
+*** TURN *** [Ad 2s 7d][3c]
+YL_ML_GL_42 checks
+Orange.Jack checks
+*** RIVER *** [Ad 2s 7d 3c][Ts]
+YL_ML_GL_42 checks
+Orange.Jack checks
+*** SHOW DOWN ***
+Orange.Jack shows [7h Qc] (One pair : 7)
+YL_ML_GL_42 shows [Th Kc] (One pair : Tens)
+YL_ML_GL_42 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ad 2s 7d 3c Ts]
+Seat 1: YL_ML_GL_42 (small blind) showed [Th Kc] and won 80 with One pair : Tens
+Seat 2: Orange.Jack (big blind) showed [7h Qc] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2592339373924024321-8-1669136129 - Holdem no limit (15/30) - 2022/11/22 16:55:29 UTC
+Table: 'Expresso(603576045)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (390)
+Seat 2: Orange.Jack (655)
+Seat 3: WARZINE (455)
+*** ANTE/BLINDS ***
+Orange.Jack posts small blind 15
+WARZINE posts big blind 30
+Dealt to YL_ML_GL_42 [Jc 6c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Orange.Jack calls 15
+WARZINE checks
+*** FLOP *** [As 7c Ac]
+Orange.Jack checks
+WARZINE checks
+*** TURN *** [As 7c Ac][3c]
+Orange.Jack bets 30
+WARZINE calls 30
+*** RIVER *** [As 7c Ac 3c][2c]
+Orange.Jack bets 78
+WARZINE folds
+Orange.Jack collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [As 7c Ac 3c 2c]
+Seat 2: Orange.Jack (small blind) won 198
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #2592339373924024321-9-1669136164 - Holdem no limit (20/40) - 2022/11/22 16:56:04 UTC
+Table: 'Expresso(603576045)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (390)
+Seat 2: Orange.Jack (715)
+Seat 3: WARZINE (395)
+*** ANTE/BLINDS ***
+WARZINE posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [4h 2d]
+*** PRE-FLOP *** 
+Orange.Jack folds
+WARZINE folds
+YL_ML_GL_42 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #2592339373924024321-10-1669136170 - Holdem no limit (20/40) - 2022/11/22 16:56:10 UTC
+Table: 'Expresso(603576045)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (410)
+Seat 2: Orange.Jack (715)
+Seat 3: WARZINE (375)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Orange.Jack posts big blind 40
+Dealt to YL_ML_GL_42 [6c 2h]
+*** PRE-FLOP *** 
+WARZINE calls 40
+YL_ML_GL_42 folds
+Orange.Jack checks
+*** FLOP *** [5s Ks Ad]
+Orange.Jack checks
+WARZINE checks
+*** TURN *** [5s Ks Ad][4s]
+Orange.Jack bets 65
+WARZINE folds
+Orange.Jack collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [5s Ks Ad 4s]
+Seat 2: Orange.Jack (big blind) won 165
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #2592339373924024321-11-1669136204 - Holdem no limit (20/40) - 2022/11/22 16:56:44 UTC
+Table: 'Expresso(603576045)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (390)
+Seat 2: Orange.Jack (775)
+Seat 3: WARZINE (335)
+*** ANTE/BLINDS ***
+Orange.Jack posts small blind 20
+WARZINE posts big blind 40
+Dealt to YL_ML_GL_42 [9h Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 100 to 140
+Orange.Jack folds
+WARZINE raises 195 to 335 and is all-in
+YL_ML_GL_42 calls 195
+*** FLOP *** [Jc 9c 4s]
+*** TURN *** [Jc 9c 4s][2h]
+*** RIVER *** [Jc 9c 4s 2h][Ks]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9h Tc] (One pair : 9)
+WARZINE shows [Jh Ac] (One pair : Jacks)
+WARZINE collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [Jc 9c 4s 2h Ks]
+Seat 1: YL_ML_GL_42 (button) showed [9h Tc] and lost with One pair : 9
+Seat 3: WARZINE (big blind) showed [Jh Ac] and won 690 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #2592339373924024321-12-1669136227 - Holdem no limit (30/60) - 2022/11/22 16:57:07 UTC
+Table: 'Expresso(603576045)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (55)
+Seat 2: Orange.Jack (755)
+Seat 3: WARZINE (690)
+*** ANTE/BLINDS ***
+WARZINE posts small blind 30
+YL_ML_GL_42 posts big blind 55 and is all-in
+Dealt to YL_ML_GL_42 [Qs 7c]
+*** PRE-FLOP *** 
+Orange.Jack calls 60
+WARZINE folds
+*** FLOP *** [6d Qc Jh]
+*** TURN *** [6d Qc Jh][7d]
+*** RIVER *** [6d Qc Jh 7d][Td]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Qs 7c] (Two pairs : Queens and 7)
+Orange.Jack shows [2s Jc] (One pair : Jacks)
+Orange.Jack collected 5 from side pot 1
+YL_ML_GL_42 collected 140 from main pot
+*** SUMMARY ***
+Total pot 145 | No rake
+Board: [6d Qc Jh 7d Td]
+Seat 1: YL_ML_GL_42 (big blind) showed [Qs 7c] and won 140 with Two pairs : Queens and 7
+Seat 2: Orange.Jack (button) showed [2s Jc] and won 5 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #2592339373924024321-13-1669136241 - Holdem no limit (30/60) - 2022/11/22 16:57:21 UTC
+Table: 'Expresso(603576045)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (140)
+Seat 2: Orange.Jack (700)
+Seat 3: WARZINE (660)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+Orange.Jack posts big blind 60
+Dealt to YL_ML_GL_42 [Th 6c]
+*** PRE-FLOP *** 
+WARZINE calls 60
+YL_ML_GL_42 raises 80 to 140 and is all-in
+Orange.Jack calls 80
+WARZINE calls 80
+*** FLOP *** [Ah 6h 2s]
+Orange.Jack checks
+WARZINE bets 520 and is all-in
+Orange.Jack folds
+*** TURN *** [Ah 6h 2s][8c]
+*** RIVER *** [Ah 6h 2s 8c][Qd]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Th 6c] (One pair : 6)
+WARZINE shows [Ac 3c] (One pair : Aces)
+WARZINE collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | No rake
+Board: [Ah 6h 2s 8c Qd]
+Seat 1: YL_ML_GL_42 (small blind) showed [Th 6c] and lost with One pair : 6
+Seat 3: WARZINE (button) showed [Ac 3c] and won 940 with One pair : Aces
+
+

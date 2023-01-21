@@ -1,0 +1,2055 @@
+1669294999421 inf [app] Launch
+1669294999502 inf [scene] Bridge initialize
+1669294999512 inf [scene] Scene open
+1669294999520 inf [scene] Scene create
+1669294999535 inf [scene] Scene loading
+1669294999541 inf [app] Checking for update
+1669294999964 inf [app] Update for version 1.23.1 is not available (latest version: 1.23.1, downgrade is disallowed).
+1669295000083 inf [scene] Browser loaded
+1669295000086 inf [scene] Bridge loaded
+1669295000099 inf [tracker] Listening on port: 8003
+1669295002208 inf [api] < Service core/authentication/token/generate
+1669295002209 inf [network] > Http https://wapi.winamax.fr/core/authentication/token/generate post
+1669295002388 inf [network] > Http https://wapi.winamax.fr/core/authentication/token/generate ok
+1669295002389 inf [api] > Service core/authentication/token/generate
+1669295002390 inf [api] < Service poker/public/config/preauth {"client":"poker","application":"desktop","opid":"wam","device":"electron","ver":"1.23.1.1668699491","os":"win32","cid":"b94b276db79aabbcbfbe64cabbfea685"}
+1669295002391 inf [network] > Http https://api.winamax.fr/poker/public/config/preauth?client=poker&application=desktop&opid=wam&device=electron&ver=1.23.1.1668699491&os=win32&cid=b94b276db79aabbcbfbe64cabbfea685 get
+1669295002587 inf [network] > Http https://api.winamax.fr/poker/public/config/preauth?client=poker&application=desktop&opid=wam&device=electron&ver=1.23.1.1668699491&os=win32&cid=b94b276db79aabbcbfbe64cabbfea685 ok
+1669295002590 inf [api] > Service poker/public/config/preauth {"core":{"type":"wss","retry":{"count":3,"timeout":10000,"delay":2000,"random":1000},"hosts":["wapi.winamax.fr:443/poker/front/ws/websocket"],"enable":true,"zombie":{"duration":45000},"socket":{"sleep":10,"buffer":16384}},"features":{"vm":false,"playground":{"threshold":1000}},"serverstatus":{"status":"up","polling":300,"i18n":{"de_DE":{"title":"","info":"Alle Dienste sind verfügbar"},"fr_FR":{"title":"","info":"Tous les services sont fonctionnels"},"en_GB":{"title":"","info":"All services are operational."},"*":{"title":"","info":"All services are operational."},"en_US":{"title":"","info":"All services are operational."},"es_ES":{"title":"","info":"All services are operational."},"pt_PT":{"title":"","info":"All services are operational."}}},"auth":{"version":2,"timeout":6000,"refresh":{"count":3,"delay":2500}}}
+1669295002593 inf [network] Registering channel prefs
+1669295002594 inf [network] Enqueuing AUTH:SIGNIN
+1669295002596 inf [network] Creating socket wss://wapi.winamax.fr:443/poker/front/ws/websocket
+1669295002597 inf [network] Connection status: 1
+1669295002721 inf [network] Socket opened
+1669295002722 inf [network] Connection status: 2
+1669295002722 inf [network] Connection status: 3
+1669295002723 inf [network] < prefs AUTH:SIGNIN
+1669295002947 inf [network] > prefs AUTH:SIGNIN_OK
+1669295002948 inf [network] Connection status: 4
+1669295002962 inf [network] < prefs TIME:GET
+1669295002963 inf [network] < prefs GAMESTATS:JOIN
+1669295002967 inf [network] > prefs NOTIFICATION:POST_INFO
+1669295003009 inf [network] > prefs TIME:GET_OK
+1669295003017 inf [api] < Service poker/client/prefs
+1669295003017 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs post
+1669295003073 inf [network] > prefs GAMESTATS:JOIN_OK
+1669295003234 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs ok
+1669295003235 inf [api] > Service poker/client/prefs
+1669295003241 inf [router] Execute: wam://preload-ok
+1669295003243 inf [router] Navigate: wam://lobbies
+1669295003245 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/config.1624292306 get
+1669295003246 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/ressource.1624283658 get
+1669295003247 inf [router] Navigation done: wam://lobbies
+1669295003248 inf [router] Execution done: wam://preload-ok
+1669295003249 inf [network] Registering channel subscriptions
+1669295003250 inf [api] < Service operator/userdata
+1669295003251 inf [network] > Http https://wapi.winamax.fr/operator/userdata post
+1669295003252 inf [api] < Service operator/winamax-tv/public
+1669295003252 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public post
+1669295003254 inf [network] < prefs SRM:JOIN
+1669295003254 inf [network] < prefs NEWS:GET
+1669295003255 inf [network] < prefs DATA:GET
+1669295003255 inf [network] < prefs BUDDY:GET
+1669295003256 inf [network] < prefs BUDDYROOM:JOIN
+1669295003258 inf [network] < prefs TIME:GET
+1669295003258 inf [network] < prefs CASHIER:GET
+1669295003259 inf [network] < prefs CASHIER:LIST
+1669295003259 inf [network] < prefs CASHIER:GET
+1669295003260 inf [network] < prefs CASHIER:LIST
+1669295003261 inf [network] < subscriptions FILTERLIST:CREATE
+1669295003261 inf [network] < subscriptions FILTERLIST:CREATE
+1669295003261 inf [network] < subscriptions FILTERLIST:CREATE
+1669295003296 inf [network] > prefs TIME:GET_OK
+1669295003298 inf [network] > prefs SRM:JOIN_OK
+1669295003299 inf [network] > prefs BUDDYROOM:JOIN_OK
+1669295003316 inf [network] > prefs CASHIER:GET_OK
+1669295003322 inf [network] > prefs CASHIER:LIST_OK
+1669295003322 inf [network] > prefs CASHIER:GET_OK
+1669295003325 inf [network] > prefs CASHIER:LIST_OK
+1669295003326 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1669295003327 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1669295003328 inf [network] > subscriptions FILTERLIST:SET
+1669295003328 inf [network] > subscriptions FILTERLIST:SET
+1669295003328 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1669295003329 inf [network] > subscriptions FILTERLIST:SET
+1669295003331 inf [network] > prefs NEWS:GET_OK
+1669295003333 inf [network] > prefs DATA:GET_ERR
+1669295003365 inf [network] Registering channel wam.general.t1
+1669295003366 inf [network] < wam.general.t1 CHATROOM:JOIN
+1669295003373 inf [network] > prefs BUDDY:GET_OK
+1669295003381 inf [network] < prefs BUDDYROOM:JOIN
+1669295003398 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/config.1624292306 ok
+1669295003399 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/ressource.1624283658 ok
+1669295003424 inf [network] > wam.general.t1 CHATROOM:JOIN_OK
+1669295003425 inf [network] > prefs BUDDYROOM:JOIN_OK
+1669295003445 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public ok
+1669295003446 inf [api] > Service operator/winamax-tv/public
+1669295003479 inf [network] > Http https://wapi.winamax.fr/operator/userdata ok
+1669295003480 inf [api] > Service operator/userdata
+1669295005241 inf [api] < Service poker/client/prefs
+1669295005242 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs post
+1669295005408 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs ok
+1669295005409 inf [api] > Service poker/client/prefs
+1669295007904 inf [router] Navigate: wam://lobby-mtt
+1669295007905 inf [router] Navigation done: wam://lobby-mtt
+1669295007939 inf [network] Registering channel lo
+1669295007940 inf [router] Execute: wam://lobby-preview?rk=&type=
+1669295007940 inf [router] Execution done: wam://lobby-preview?rk=&type=
+1669295007970 inf [network] < lo FILTERLIST:CREATE
+1669295008027 inf [network] > lo FILTERLIST:CREATE_OK
+1669295008044 inf [network] > lo FILTERLIST:SET
+1669295008048 inf [router] Execute: wam://lobby-preview?rk=tt6.ttmgr.tt6_8.t593813404&type=tournament
+1669295008050 inf [router] Execution done: wam://lobby-preview?rk=tt6.ttmgr.tt6_8.t593813404&type=tournament
+1669295008050 inf [network] Registering channel tt6.ttmgr.tt6_8.t593813404
+1669295008080 inf [network] < tt6.ttmgr.tt6_8.t593813404 TOURNAMENT:JOIN
+1669295008161 inf [network] > tt6.ttmgr.tt6_8.t593813404 TOURNAMENT:JOIN_OK
+1669295008163 inf [network] > tt6.ttmgr.tt6_8.t593813404 CHATROOM:JOIN_OK
+1669295009370 inf [network] > lo FILTERLIST:UPDATE
+1669295011930 inf [network] < lo FILTERLIST:CHANGE
+1669295011995 inf [network] > lo FILTERLIST:CHANGE_OK
+1669295012011 inf [network] > lo FILTERLIST:SET
+1669295016091 inf [router] Execute: wam://lobby-preview?rk=tt7.ttmgr.tt7_9.t593811165&type=tournament
+1669295016093 inf [router] Execution done: wam://lobby-preview?rk=tt7.ttmgr.tt7_9.t593811165&type=tournament
+1669295016093 inf [network] < tt6.ttmgr.tt6_8.t593813404 TOURNAMENT:LEAVE
+1669295016094 inf [network] Leaving channel tt6.ttmgr.tt6_8.t593813404
+1669295016095 inf [network] Registering channel tt7.ttmgr.tt7_9.t593811165
+1669295016106 inf [network] < tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:JOIN
+1669295016140 inf [network] > tt6.ttmgr.tt6_8.t593813404 TOURNAMENT:LEAVE_OK
+1669295016167 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:JOIN_OK
+1669295016168 inf [network] > tt7.ttmgr.tt7_9.t593811165 CHATROOM:JOIN_OK
+1669295017497 inf [router] Navigate: wam://tournament?ttrk=tt7.ttmgr.tt7_9.t593811165&name=DESPERADO
+1669295017498 inf [router] Navigation done: wam://tournament?ttrk=tt7.ttmgr.tt7_9.t593811165&name=DESPERADO
+1669295017549 inf [network] < tt7.ttmgr.tt7_9.t593811165 FILTERLIST:CREATE
+1669295017624 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:CREATE_OK
+1669295017631 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295019331 inf [network] > lo FILTERLIST:UPDATE
+1669295022405 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295022405 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295024476 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295024657 inf [network] < lo FILTERLIST:CHANGE
+1669295024736 inf [network] > lo FILTERLIST:CHANGE_OK
+1669295024746 inf [network] > lo FILTERLIST:SET
+1669295025335 inf [network] < lo FILTERLIST:CHANGE
+1669295025392 inf [network] > lo FILTERLIST:CHANGE_OK
+1669295025418 inf [network] > lo FILTERLIST:SET
+1669295025572 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295025840 inf [network] < lo FILTERLIST:CHANGE
+1669295025929 inf [network] > lo FILTERLIST:CHANGE_OK
+1669295025959 inf [network] > lo FILTERLIST:SET
+1669295026152 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295026637 inf [network] < lo FILTERLIST:CHANGE
+1669295026686 inf [network] > lo FILTERLIST:CHANGE_OK
+1669295026706 inf [network] > lo FILTERLIST:SET
+1669295027157 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295027240 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295029354 inf [network] > lo FILTERLIST:UPDATE
+1669295029450 inf [network] < lo FILTERLIST:CHANGE
+1669295029515 inf [network] > lo FILTERLIST:CHANGE_OK
+1669295029540 inf [network] > lo FILTERLIST:SET
+1669295029651 inf [network] < lo FILTERLIST:CHANGE
+1669295029713 inf [network] > lo FILTERLIST:CHANGE_OK
+1669295029726 inf [network] > lo FILTERLIST:SET
+1669295029760 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295030073 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295031096 inf [network] < lo FILTERLIST:CHANGE
+1669295031155 inf [network] > lo FILTERLIST:CHANGE_OK
+1669295031170 inf [network] > lo FILTERLIST:SET
+1669295032415 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295032416 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295032671 inf [network] < lo FILTERLIST:CHANGE
+1669295032720 inf [network] > lo FILTERLIST:CHANGE_OK
+1669295032738 inf [network] > lo FILTERLIST:SET
+1669295033670 inf [network] < tt7.ttmgr.tt7_9.t593811165 FILTERLIST:DELETE
+1669295033754 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:DELETE_OK
+1669295034876 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295035673 inf [router] Navigate: wam://refill-real
+1669295035676 inf [network] < prefs OPTOKEN:GET
+1669295035755 inf [network] > prefs OPTOKEN:GET_OK
+1669295035755 inf [router] Open: https://www.winamax.fr/poker/redirect.php?service=deposit&token=d6226045cbe6d4a738d3c15e3e650f81bf7236cb&client=electron&ver=1.23.1&oid=b94b276db79aabbcbfbe64cabbfea685&os=win32&opid=wam&lang=en_US&store=winamax&store_id=main&embed=false&pokerClient=web
+1669295035755 inf [router] Navigation done: https://www.winamax.fr/poker/redirect.php?service=deposit&token={$token}
+1669295035795 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295037036 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295039187 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295039409 inf [network] > lo FILTERLIST:UPDATE
+1669295043277 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295043277 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295045597 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295047758 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295048247 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295049544 inf [network] > lo FILTERLIST:SET
+1669295050488 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295050488 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295052578 inf [network] < prefs CLIENT:PING_OK
+1669295052579 inf [network] > prefs CLIENT:PING
+1669295052691 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295052797 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295055115 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295055116 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295058576 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295058578 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295059357 inf [network] > lo FILTERLIST:UPDATE
+1669295060728 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295061099 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295063249 inf [network] < prefs TIME:GET
+1669295063292 inf [network] > prefs TIME:GET_OK
+1669295064314 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295064315 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295066725 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295068956 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295069366 inf [network] > lo FILTERLIST:UPDATE
+1669295069561 inf [network] > prefs NOTIFICATION:POST_INFO
+1669295075037 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295075038 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295077127 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295079113 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295079236 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295079390 inf [network] > lo FILTERLIST:UPDATE
+1669295080289 inf [router] Execute: wam://tournament-registration?ttrk=tt7.ttmgr.tt7_9.t593811165&channel=lobby-MTT&registrationMode=
+1669295080290 inf [router] Execution done: wam://tournament-registration?ttrk=tt7.ttmgr.tt7_9.t593811165&channel=lobby-MTT&registrationMode=
+1669295081356 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295081418 inf [network] < tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:SUBSCRIBE
+1669295081507 inf [network] > prefs NOTIFICATION:POST_INFO
+1669295081508 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:SUBSCRIBE_OK
+1669295081510 inf [network] < tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:GET_TABLE
+1669295081510 inf [network] < tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:CONFIGURE
+1669295081511 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:GET_TABLE_OK
+1669295081537 inf [router] Execute: wam://tournament-registration-close?ttid=2
+1669295081537 inf [router] Execution done: wam://tournament-registration-close?ttid=2
+1669295081544 inf [network] > prefs NOTIFICATION:POST_INFO
+1669295081560 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:GET_TABLE_OK
+1669295081604 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:CONFIGURE_OK
+1669295081609 inf [network] < tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:CONFIGURE
+1669295081673 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:CONFIGURE_OK
+1669295081732 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295084174 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295084720 inf [network] > subscriptions FILTERLIST:UPDATE
+1669295084730 inf [network] < subscriptions FILTERLIST:CHANGE
+1669295084793 inf [network] > subscriptions FILTERLIST:CHANGE_OK
+1669295084794 inf [network] > subscriptions FILTERLIST:SET
+1669295084808 inf [router] Execute: wam://table-open?rid=&tblrk=tt7.tamgr.tt7_92.t31163&ttrk=tt7.ttmgr.tt7_9.t593811165&gfsid=
+1669295084812 inf [scene] Scene open
+1669295084813 inf [scene] Scene create
+1669295084819 inf [scene] Scene loading
+1669295084823 inf [router] Execution done: wam://table-open?rid=&tblrk=tt7.tamgr.tt7_92.t31163&ttrk=tt7.ttmgr.tt7_9.t593811165&gfsid=
+1669295084829 inf [network] Registering channel tt7.tamgr.tt7_92.t31163
+1669295084834 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:JOIN
+1669295084893 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:JOIN_OK
+1669295084895 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-3-1669295069
+1669295084895 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="125" totalPot="2025"
+1669295084896 inf [network] > tt7.tamgr.tt7_92.t31163 CHATROOM:JOIN_OK
+1669295085276 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295085364 inf [scene] Browser loaded
+1669295085366 inf [scene] Bridge loaded
+1669295085395 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295085397 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295085398 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="RunGoodRange" amount="600"
+1669295085399 inf [table] 1 tt7.tamgr.tt7_92.t31163 round flop board="6c,Qd,5s" pot="2225" totalPot="0"
+1669295086353 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295087713 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295087714 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="RunGoodRange"
+1669295088160 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295089045 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295089398 inf [network] > lo FILTERLIST:UPDATE
+1669295089961 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295089976 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="PabLuxe" amount="779"
+1669295090522 inf [router] Navigate: wam://table?tblid=1&scene=2
+1669295090524 inf [router] Navigation done: wam://table?tblid=1&scene=2
+1669295091037 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295092156 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295092157 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="zazacouloulo"
+1669295098254 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295098254 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="RunGoodRange"
+1669295098255 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295098256 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669295098260 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="PabLuxe" mucks
+1669295098260 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="PabLuxe" amount="3004"
+1669295099438 inf [network] > lo FILTERLIST:UPDATE
+1669295100318 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295100319 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295100320 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295100322 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295100323 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295100324 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-4-1669295100
+1669295100324 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="Jluttges1" amount="125"
+1669295100325 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="YL_ML_GL_42" amount="225"
+1669295100326 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="RunGoodRange" amount="25"
+1669295100326 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="PabLuxe" amount="25"
+1669295100327 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="zazacouloulo" amount="25"
+1669295100329 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295100330 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295100330 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295100330 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295100331 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="coyote 78" amount="25"
+1669295100332 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" 5h,Tc
+1669295100349 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="150" totalPot="450"
+1669295102555 inf [network] < prefs CLIENT:PING_OK
+1669295102556 inf [network] > prefs CLIENT:PING
+1669295107437 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295107437 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295107438 inf [table] 1 tt7.tamgr.tt7_92.t31163 action raise login="RunGoodRange" amount="440"
+1669295108437 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295108438 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295108803 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:PREACTION
+1669295108862 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_OK
+1669295108994 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295108995 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295108995 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="PabLuxe"
+1669295109443 inf [network] > lo FILTERLIST:UPDATE
+1669295110561 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295110562 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295111276 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295111277 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="zazacouloulo" amount="440"
+1669295112411 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295112411 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295112412 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="coyote 78"
+1669295117036 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295117277 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295117278 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295117278 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295117279 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295117279 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="Jluttges1" amount="100"
+1669295117280 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="YL_ML_GL_42" amount="200"
+1669295117281 inf [table] 1 tt7.tamgr.tt7_92.t31163 round flop board="3d,3h,Kd" pot="1330" totalPot="0"
+1669295119196 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295119453 inf [network] > lo FILTERLIST:UPDATE
+1669295120914 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295121297 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295122573 inf [network] < prefs CLIENT:PING_OK
+1669295122574 inf [network] > prefs CLIENT:PING
+1669295123194 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295123248 inf [network] < prefs TIME:GET
+1669295123291 inf [network] > prefs TIME:GET_OK
+1669295124077 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295125196 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295125916 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295125922 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="RunGoodRange" amount="333"
+1669295126198 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295128089 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295128089 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295128090 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="zazacouloulo" amount="333"
+1669295128096 inf [table] 1 tt7.tamgr.tt7_92.t31163 round turn board="3d,3h,Kd,8c" pot="1996" totalPot="0"
+1669295129477 inf [network] > lo FILTERLIST:UPDATE
+1669295136957 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295137836 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295138519 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295138530 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="RunGoodRange" amount="998"
+1669295139123 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295139518 inf [network] > lo FILTERLIST:UPDATE
+1669295140156 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295140553 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295140561 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295140562 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295140562 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="zazacouloulo" amount="998"
+1669295140566 inf [table] 1 tt7.tamgr.tt7_92.t31163 round river board="3d,3h,Kd,8c,5c" pot="3992" totalPot="0"
+1669295141837 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295142539 inf [network] < prefs CLIENT:PING_OK
+1669295142540 inf [network] > prefs CLIENT:PING
+1669295144119 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295145276 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295146806 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295148116 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295149117 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295149460 inf [network] > lo FILTERLIST:UPDATE
+1669295150557 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295151914 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295153116 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295156161 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295156162 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="RunGoodRange" amount="3194"
+1669295157570 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295159510 inf [network] > lo FILTERLIST:UPDATE
+1669295159717 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295162556 inf [network] < prefs CLIENT:PING_OK
+1669295162557 inf [network] > prefs CLIENT:PING
+1669295163996 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295163997 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="zazacouloulo"
+1669295164234 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295164234 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295166472 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295166756 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295167024 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295167024 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669295167025 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669295167026 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="RunGoodRange" mucks
+1669295167026 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="RunGoodRange" amount="7186"
+1669295169119 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295169120 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295169121 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295169121 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295169122 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295169122 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295169123 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295169123 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295169123 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295169124 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-5-1669295168
+1669295169124 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="YL_ML_GL_42" amount="125"
+1669295169125 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="RunGoodRange" amount="225"
+1669295169126 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="PabLuxe" amount="25"
+1669295169126 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="zazacouloulo" amount="25"
+1669295169127 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="coyote 78" amount="25"
+1669295169127 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="Jluttges1" amount="25"
+1669295169128 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" 7s,Qh
+1669295169128 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="150" totalPot="450"
+1669295169524 inf [network] > lo FILTERLIST:UPDATE
+1669295170074 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295170074 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295172001 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295172002 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295172002 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="PabLuxe"
+1669295172005 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="zazacouloulo" amount="200"
+1669295172034 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295172495 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295172997 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295172998 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295173000 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="coyote 78"
+1669295174154 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295176240 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295177114 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295177115 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295177116 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="Jluttges1"
+1669295179357 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295179358 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295179517 inf [network] > lo FILTERLIST:UPDATE
+1669295181361 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295182554 inf [network] < prefs CLIENT:PING_OK
+1669295182554 inf [network] > prefs CLIENT:PING
+1669295183272 inf [network] < prefs TIME:GET
+1669295183273 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295183313 inf [network] > prefs TIME:GET_OK
+1669295183932 inf [router] Navigate: wam://table?tblid=1&scene=2
+1669295183933 inf [router] Navigation done: wam://table?tblid=1&scene=2
+1669295184036 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295184094 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295184094 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295184096 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="YL_ML_GL_42" amount="200"
+1669295184158 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295185876 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295186796 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295188883 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295189550 inf [network] > lo FILTERLIST:UPDATE
+1669295190566 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295190567 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295190567 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295190568 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295190568 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="RunGoodRange" amount="200"
+1669295190573 inf [table] 1 tt7.tamgr.tt7_92.t31163 round flop board="7h,4s,3d" pot="750" totalPot="0"
+1669295192497 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295193518 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295195202 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295196499 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295196598 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295196599 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295196600 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="YL_ML_GL_42" amount="600"
+1669295197864 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295197865 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295199605 inf [network] > lo FILTERLIST:UPDATE
+1669295200161 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295204493 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SITIN_INFO
+1669295205518 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295205519 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295208237 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295209613 inf [network] > lo FILTERLIST:UPDATE
+1669295209837 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295209842 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="RunGoodRange"
+1669295210477 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295212074 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295212538 inf [network] < prefs CLIENT:PING_OK
+1669295212538 inf [network] > prefs CLIENT:PING
+1669295213206 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295213758 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295213759 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="zazacouloulo" amount="600"
+1669295213768 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295213768 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295213769 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295213772 inf [table] 1 tt7.tamgr.tt7_92.t31163 round turn board="7h,4s,3d,6h" pot="1950" totalPot="0"
+1669295214409 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295215437 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295219337 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295219411 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295219412 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295219418 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="YL_ML_GL_42" amount="1560"
+1669295219609 inf [network] > lo FILTERLIST:UPDATE
+1669295221198 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295221199 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="zazacouloulo" amount="1560"
+1669295221199 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295221200 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295221200 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295221201 inf [table] 1 tt7.tamgr.tt7_92.t31163 round river board="7h,4s,3d,6h,4c" pot="5070" totalPot="0"
+1669295225276 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295225277 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295227717 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295228165 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295229690 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295229694 inf [network] > lo FILTERLIST:SET
+1669295229742 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295229743 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295229744 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="YL_ML_GL_42"
+1669295229907 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295230245 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295233356 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295233357 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295233358 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="zazacouloulo"
+1669295235358 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295236420 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295236421 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669295236421 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669295236422 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="YL_ML_GL_42" cards="7s,Qh" board="7h,4s,3d,6h,4c"
+1669295236422 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="zazacouloulo" cards="8h,7c" board="7h,4s,3d,6h,4c"
+1669295236423 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="YL_ML_GL_42" amount="5070"
+1669295237919 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295237920 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295238421 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CHAT_INFO
+1669295238422 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295239610 inf [network] > lo FILTERLIST:UPDATE
+1669295240121 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295240558 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295240559 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295240559 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295240560 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-6-1669295240
+1669295240560 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="RunGoodRange" amount="125"
+1669295240561 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="PabLuxe" amount="225"
+1669295240561 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="coyote 78" amount="25"
+1669295240566 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295240567 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295240567 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295240567 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295240568 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295240568 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="Jluttges1" amount="25"
+1669295240569 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="YL_ML_GL_42" amount="25"
+1669295240569 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" Th,9h
+1669295240570 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="125" totalPot="425"
+1669295242159 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295242557 inf [network] < prefs CLIENT:PING_OK
+1669295242557 inf [network] > prefs CLIENT:PING
+1669295243260 inf [network] < prefs TIME:GET
+1669295243294 inf [network] > prefs TIME:GET_OK
+1669295249684 inf [network] > lo FILTERLIST:UPDATE
+1669295249957 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295253936 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295253936 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295253937 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295256162 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295258250 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295258250 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295258251 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295258251 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="coyote 78"
+1669295258268 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="Jluttges1"
+1669295259198 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295259199 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295259718 inf [network] > lo FILTERLIST:UPDATE
+1669295261274 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295262558 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295262559 inf [network] < prefs CLIENT:PING_OK
+1669295262559 inf [network] > prefs CLIENT:PING
+1669295263844 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295265042 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295265931 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295265984 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295265985 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295265987 inf [table] 1 tt7.tamgr.tt7_92.t31163 action raise login="YL_ML_GL_42" amount="500"
+1669295268036 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295268047 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="RunGoodRange" amount="100"
+1669295269678 inf [network] > lo FILTERLIST:UPDATE
+1669295272448 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295272449 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295272449 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295272450 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="500"
+1669295272451 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295272452 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295272452 inf [table] 1 tt7.tamgr.tt7_92.t31163 round flop board="5h,Js,8h" pot="1225" totalPot="0"
+1669295273997 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295274407 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295276169 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295276879 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295276919 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295276920 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295276921 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="PabLuxe"
+1669295279689 inf [network] > lo FILTERLIST:UPDATE
+1669295279721 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295279721 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295280194 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295280253 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295280254 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295280255 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="YL_ML_GL_42" amount="980"
+1669295281765 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295282163 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295286889 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295289079 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295289080 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295289742 inf [network] > lo FILTERLIST:SET
+1669295289746 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295289747 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295289748 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="980"
+1669295289750 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295289750 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295289751 inf [table] 1 tt7.tamgr.tt7_92.t31163 round turn board="5h,Js,8h,Qc" pot="3185" totalPot="0"
+1669295291198 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295292158 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295292159 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295292167 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="PabLuxe"
+1669295292557 inf [network] < prefs CLIENT:PING_OK
+1669295292557 inf [network] > prefs CLIENT:PING
+1669295293678 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295296082 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295296107 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295298203 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295298754 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295298827 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295298827 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295298832 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="YL_ML_GL_42" amount="2070"
+1669295299340 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295299742 inf [network] > lo FILTERLIST:UPDATE
+1669295301036 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295303282 inf [network] < prefs TIME:GET
+1669295303339 inf [network] > prefs TIME:GET_OK
+1669295303433 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295303434 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295304157 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295304158 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS_INFO
+1669295304159 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="PabLuxe"
+1669295304170 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS
+1669295304236 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295304236 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669295304237 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669295304237 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS_OK
+1669295304238 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="YL_ML_GL_42" mucks
+1669295304239 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="YL_ML_GL_42" amount="5255"
+1669295305826 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295306357 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295306357 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295306358 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-7-1669295306
+1669295306358 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="PabLuxe" amount="125"
+1669295306359 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="grenade7" amount="225"
+1669295306360 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295306360 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295306361 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295306361 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295306361 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295306362 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295306363 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295306363 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="RunGoodRange" amount="25"
+1669295306363 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="coyote 78" amount="25"
+1669295306364 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="Jluttges1" amount="25"
+1669295306364 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="YL_ML_GL_42" amount="25"
+1669295306365 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" 5c,Qh
+1669295306366 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="150" totalPot="450"
+1669295309279 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295309279 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295309280 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="coyote 78"
+1669295309679 inf [network] > lo FILTERLIST:UPDATE
+1669295311434 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295311435 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295311436 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="Jluttges1"
+1669295317618 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295317667 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295317667 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295317683 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="YL_ML_GL_42"
+1669295319437 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295319445 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="RunGoodRange"
+1669295319722 inf [network] > lo FILTERLIST:UPDATE
+1669295320878 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295320879 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295321282 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295321296 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="200"
+1669295323116 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295324398 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295324398 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295324399 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="grenade7" amount="200"
+1669295324400 inf [table] 1 tt7.tamgr.tt7_92.t31163 round flop board="8d,9s,2h" pot="550" totalPot="0"
+1669295325599 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295326087 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295328155 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295329515 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295329517 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="PabLuxe"
+1669295329728 inf [network] > lo FILTERLIST:UPDATE
+1669295329957 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295330525 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295331757 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295331761 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="grenade7" amount="550"
+1669295332557 inf [network] < prefs CLIENT:PING_OK
+1669295332557 inf [network] > prefs CLIENT:PING
+1669295333734 inf [network] < tt7.ttmgr.tt7_9.t593811165 FILTERLIST:CREATE
+1669295333790 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:CREATE_OK
+1669295333820 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295333838 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295333839 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295333839 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="550"
+1669295333840 inf [table] 1 tt7.tamgr.tt7_92.t31163 round turn board="8d,9s,2h,Qc" pot="1650" totalPot="0"
+1669295334816 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295335662 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295335662 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295337256 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295337257 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="PabLuxe"
+1669295337749 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295337952 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295339634 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295339635 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295339635 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="grenade7"
+1669295339640 inf [table] 1 tt7.tamgr.tt7_92.t31163 round river board="8d,9s,2h,Qc,Tc" pot="1650" totalPot="0"
+1669295339720 inf [network] > lo FILTERLIST:UPDATE
+1669295340041 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295342000 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295342001 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="PabLuxe" amount="1650"
+1669295344096 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295344096 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295344097 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="grenade7"
+1669295344100 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669295344100 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669295344101 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="PabLuxe" mucks
+1669295344101 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="PabLuxe" amount="3300"
+1669295344981 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295345388 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295345390 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295346238 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295346239 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295346239 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295346240 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295346240 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295346240 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295346241 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295346241 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-8-1669295346
+1669295346242 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="grenade7" amount="125"
+1669295346242 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="coyote 78" amount="225"
+1669295346243 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="RunGoodRange" amount="25"
+1669295346243 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="PabLuxe" amount="25"
+1669295346244 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="Jluttges1" amount="25"
+1669295346250 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="YL_ML_GL_42" amount="25"
+1669295346251 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" 7h,Qd
+1669295346252 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295346253 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295346253 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="150" totalPot="450"
+1669295347648 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295347884 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295347884 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295347885 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="Jluttges1"
+1669295349767 inf [network] > lo FILTERLIST:UPDATE
+1669295350077 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295350158 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295352554 inf [network] < prefs CLIENT:PING_OK
+1669295352555 inf [network] > prefs CLIENT:PING
+1669295353733 inf [network] < lo FILTERLIST:DELETE
+1669295353733 inf [router] Execute: wam://lobby-preview?rk=&type=
+1669295353734 inf [router] Execution done: wam://lobby-preview?rk=&type=
+1669295353795 inf [network] > lo FILTERLIST:DELETE_OK
+1669295353977 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295354857 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295356158 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295359147 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295359196 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295359196 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295359197 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295359198 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="YL_ML_GL_42"
+1669295359198 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="RunGoodRange"
+1669295363119 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295363292 inf [network] < prefs TIME:GET
+1669295363452 inf [network] > prefs TIME:GET_OK
+1669295364706 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295364715 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="200"
+1669295364867 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295365868 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295368159 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295370079 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295370395 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295371280 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295371297 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="grenade7" amount="200"
+1669295372635 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295374864 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295376239 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295377845 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295378395 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295381035 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295381036 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295382583 inf [network] < prefs CLIENT:PING_OK
+1669295382584 inf [network] > prefs CLIENT:PING
+1669295383198 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295383199 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295384884 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295387526 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295388806 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295388807 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295389917 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295390958 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295391251 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CHAT_INFO
+1669295391252 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295392406 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295393118 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295394952 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295398637 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295402556 inf [network] < prefs CLIENT:PING_OK
+1669295402556 inf [network] > prefs CLIENT:PING
+1669295403438 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295404239 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295404929 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295405838 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295406958 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295407904 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295408242 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295409126 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295410079 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295411120 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295411594 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295412161 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295414681 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295414956 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295415035 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295416722 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295419118 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295419119 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295421380 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295421381 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295421382 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="coyote 78" amount="200"
+1669295421386 inf [table] 1 tt7.tamgr.tt7_92.t31163 round flop board="Tc,3h,2h" pot="750" totalPot="0"
+1669295421814 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295421847 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295422607 inf [network] < prefs CLIENT:PING_OK
+1669295422607 inf [network] > prefs CLIENT:PING
+1669295423025 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295423293 inf [network] < prefs TIME:GET
+1669295423334 inf [network] > prefs TIME:GET_OK
+1669295424942 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295425764 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295427354 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295427355 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="grenade7" amount="750"
+1669295427998 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295428405 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295428406 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="coyote 78"
+1669295429999 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295430000 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295430000 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="750"
+1669295430001 inf [table] 1 tt7.tamgr.tt7_92.t31163 round turn board="Tc,3h,2h,7s" pot="2250" totalPot="0"
+1669295434155 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295434156 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295434357 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295434953 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295436398 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295437446 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295437450 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="grenade7" amount="18250"
+1669295442565 inf [network] < prefs CLIENT:PING_OK
+1669295442566 inf [network] > prefs CLIENT:PING
+1669295444963 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295445754 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295448161 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295450074 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295451118 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295451119 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295451286 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295451286 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295451287 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="18250"
+1669295452877 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295452878 inf [table] 1 tt7.tamgr.tt7_92.t31163 round river board="Tc,3h,2h,7s,Jd" pot="38750" totalPot="0"
+1669295453918 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295454396 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669295454397 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669295454407 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="grenade7" cards="9h,2c" board="Tc,3h,2h,7s,Jd"
+1669295454407 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="PabLuxe" cards="Th,Js" board="Tc,3h,2h,7s,Jd"
+1669295454408 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="PabLuxe" amount="38750"
+1669295454980 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295456397 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295456398 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295456399 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CHAT_INFO
+1669295456399 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CHAT_INFO
+1669295456515 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295456516 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295458494 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295458495 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295458495 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295458496 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295458496 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-9-1669295458
+1669295458497 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="coyote 78" amount="125"
+1669295458497 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="Jluttges1" amount="225"
+1669295458498 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295458498 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295458499 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295458499 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295458500 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="RunGoodRange" amount="25"
+1669295458500 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="PabLuxe" amount="25"
+1669295458501 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="YL_ML_GL_42" amount="25"
+1669295458501 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" Ah,5h
+1669295458502 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="125" totalPot="425"
+1669295459114 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295459517 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295461192 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295462237 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295462554 inf [network] < prefs CLIENT:PING_OK
+1669295462554 inf [network] > prefs CLIENT:PING
+1669295463996 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295464479 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295465028 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295466237 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295467038 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295467842 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295467904 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295467904 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295467905 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295467906 inf [table] 1 tt7.tamgr.tt7_92.t31163 action raise login="YL_ML_GL_42" amount="600"
+1669295467906 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="RunGoodRange"
+1669295471838 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295471839 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295473994 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295473995 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="PabLuxe"
+1669295474089 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295475004 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295475004 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295475019 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="coyote 78" amount="100"
+1669295475843 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295476955 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295478082 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295478083 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS_INFO
+1669295478085 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="Jluttges1" amount="200"
+1669295478090 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS
+1669295478144 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295478145 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669295478146 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="YL_ML_GL_42" mucks
+1669295478146 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="YL_ML_GL_42" amount="1025"
+1669295478147 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669295478148 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS_OK
+1669295480236 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295480236 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-10-1669295480
+1669295480237 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="Jluttges1" amount="125"
+1669295480238 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295480238 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295480239 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295480239 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295480239 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295480240 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295480240 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295480241 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295480241 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="YL_ML_GL_42" amount="225"
+1669295480242 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="RunGoodRange" amount="25"
+1669295480242 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="PabLuxe" amount="25"
+1669295480243 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="BotteSecrete" amount="25"
+1669295480243 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="coyote 78" amount="25"
+1669295480244 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" 3h,6c
+1669295480244 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="150" totalPot="450"
+1669295481594 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295482220 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295482221 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295482485 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295483286 inf [network] < prefs TIME:GET
+1669295483433 inf [network] > prefs TIME:GET_OK
+1669295483594 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295483595 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295483596 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="RunGoodRange"
+1669295484807 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295485026 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295487118 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295487434 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295489675 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295489835 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295490477 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295493970 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295495044 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295495399 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295496125 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295497570 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295498163 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295502557 inf [network] < prefs CLIENT:PING_OK
+1669295502557 inf [network] > prefs CLIENT:PING
+1669295503677 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CHAT_INFO
+1669295503679 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295503755 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295505054 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295506159 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295507196 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295508637 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295510730 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295510730 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295510731 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="PabLuxe"
+1669295511194 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295515060 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295517964 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295517965 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295520157 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295522530 inf [network] < prefs CLIENT:PING_OK
+1669295522531 inf [network] > prefs CLIENT:PING
+1669295523041 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295523041 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="BotteSecrete"
+1669295524078 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295524080 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295524080 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="coyote 78"
+1669295525065 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295526794 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295526795 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295526796 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="Jluttges1" amount="200"
+1669295530413 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295530414 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295532495 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295532583 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295532646 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295532647 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295532648 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="YL_ML_GL_42" amount="200"
+1669295532649 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295532649 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295532650 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295532652 inf [table] 1 tt7.tamgr.tt7_92.t31163 round flop board="9d,Tc,5c" pot="550" totalPot="0"
+1669295533271 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295535129 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295535130 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295535678 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295537837 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295539595 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295539596 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295539596 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="Jluttges1"
+1669295539994 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295540194 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295541042 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295541121 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295541122 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295541123 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="YL_ML_GL_42"
+1669295541123 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295541124 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295541124 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295541125 inf [table] 1 tt7.tamgr.tt7_92.t31163 round turn board="9d,Tc,5c,6s" pot="550" totalPot="0"
+1669295542238 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295542372 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295543287 inf [network] < prefs TIME:GET
+1669295543333 inf [network] > prefs TIME:GET_OK
+1669295544994 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295545074 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295545106 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295546955 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295546955 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295546956 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="Jluttges1"
+1669295548010 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295548083 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295548084 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295548085 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295548085 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295548085 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295548086 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="YL_ML_GL_42"
+1669295548086 inf [table] 1 tt7.tamgr.tt7_92.t31163 round river board="9d,Tc,5c,6s,4h" pot="550" totalPot="0"
+1669295550478 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295550479 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295550479 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="Jluttges1"
+1669295553419 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295553519 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295553520 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295553520 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="YL_ML_GL_42" amount="550"
+1669295554558 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295555197 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295556642 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295561919 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295562714 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295562715 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS_INFO
+1669295562715 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="Jluttges1"
+1669295562747 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS
+1669295562800 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295562815 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669295562815 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669295562816 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS_OK
+1669295562817 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="YL_ML_GL_42" mucks
+1669295562817 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="YL_ML_GL_42" amount="1100"
+1669295564117 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295564834 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295564835 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295564835 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-11-1669295564
+1669295564835 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="YL_ML_GL_42" amount="125"
+1669295564839 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="RunGoodRange" amount="225"
+1669295564840 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295564841 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295564841 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295564841 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295564842 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295564842 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295564843 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295564843 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="PabLuxe" amount="25"
+1669295564844 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="BotteSecrete" amount="25"
+1669295564844 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="coyote 78" amount="25"
+1669295564845 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="Jluttges1" amount="25"
+1669295564845 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" Jh,Ad
+1669295564846 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="150" totalPot="450"
+1669295565140 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295567845 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295567845 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295567845 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="200"
+1669295570877 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295570882 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295573045 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295575117 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295575172 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295576882 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295576883 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="BotteSecrete"
+1669295577926 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295577927 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295577927 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295577927 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="coyote 78"
+1669295577928 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="Jluttges1"
+1669295582557 inf [network] < prefs CLIENT:PING_OK
+1669295582557 inf [network] > prefs CLIENT:PING
+1669295583882 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295584478 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295585266 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295586158 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295587978 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295588040 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295588041 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295588042 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="YL_ML_GL_42" amount="200"
+1669295589841 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295589842 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="RunGoodRange" amount="200"
+1669295589843 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295589843 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295589844 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295589858 inf [table] 1 tt7.tamgr.tt7_92.t31163 round flop board="5d,3s,Js" pot="750" totalPot="0"
+1669295593122 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295593435 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295593477 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295593477 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295593478 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="YL_ML_GL_42" amount="600"
+1669295594479 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295595230 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295595755 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295596161 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295596176 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="RunGoodRange"
+1669295596794 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295597837 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295599200 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295600075 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295602482 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295602482 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS_INFO
+1669295602483 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="PabLuxe"
+1669295602501 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS
+1669295602570 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295602571 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669295602572 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669295602572 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS_OK
+1669295602573 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="YL_ML_GL_42" mucks
+1669295602573 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="YL_ML_GL_42" amount="1350"
+1669295603198 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295603252 inf [api] < Service operator/userdata
+1669295603253 inf [network] > Http https://wapi.winamax.fr/operator/userdata post
+1669295603254 inf [network] < prefs CASHIER:GET
+1669295603254 inf [network] < prefs CASHIER:LIST
+1669295603255 inf [network] < prefs CASHIER:GET
+1669295603255 inf [network] < prefs CASHIER:LIST
+1669295603295 inf [network] < prefs TIME:GET
+1669295603296 inf [network] > prefs CASHIER:GET_OK
+1669295603303 inf [network] > prefs CASHIER:LIST_OK
+1669295603307 inf [network] > prefs CASHIER:GET_OK
+1669295603313 inf [network] > prefs CASHIER:LIST_OK
+1669295603335 inf [network] > prefs TIME:GET_OK
+1669295603729 inf [network] > Http https://wapi.winamax.fr/operator/userdata ok
+1669295603730 inf [api] > Service operator/userdata
+1669295603916 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295604397 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295604596 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295604598 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-12-1669295604
+1669295604598 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="RunGoodRange" amount="125"
+1669295604603 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295604603 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295604604 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295604604 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295604604 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295604605 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295604605 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295604606 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295604606 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="PabLuxe" amount="225"
+1669295604607 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="BotteSecrete" amount="25"
+1669295604607 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="coyote 78" amount="25"
+1669295604608 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="Jluttges1" amount="25"
+1669295604608 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="YL_ML_GL_42" amount="25"
+1669295604608 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" 7d,9s
+1669295604609 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="150" totalPot="450"
+1669295605213 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295606193 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295606722 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295606723 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="BotteSecrete"
+1669295607837 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295607837 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295607838 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295607838 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="coyote 78"
+1669295607842 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="Jluttges1"
+1669295609763 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295609764 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295611755 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295612077 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295612155 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295614677 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295615228 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295616083 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295616145 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295616146 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295616146 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="YL_ML_GL_42"
+1669295617677 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295617678 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295619919 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295620162 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295625361 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295628635 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295628794 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295628794 inf [table] 1 tt7.tamgr.tt7_92.t31163 action raise login="RunGoodRange" amount="700"
+1669295631202 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295632557 inf [network] < prefs CLIENT:PING_OK
+1669295632557 inf [network] > prefs CLIENT:PING
+1669295632955 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295633919 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295635198 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295635245 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295641544 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295641545 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295642264 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295642265 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295642273 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="700"
+1669295642273 inf [table] 1 tt7.tamgr.tt7_92.t31163 round flop board="3c,7c,8s" pot="1550" totalPot="0"
+1669295643598 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295645319 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295647114 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295647118 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="RunGoodRange" amount="543"
+1669295648157 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295648797 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295650371 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295650372 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295650372 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="543"
+1669295650388 inf [table] 1 tt7.tamgr.tt7_92.t31163 round turn board="3c,7c,8s,Kc" pot="2636" totalPot="0"
+1669295651035 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295652554 inf [network] < prefs CLIENT:PING_OK
+1669295652555 inf [network] > prefs CLIENT:PING
+1669295655316 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295656077 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295656798 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295656926 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295656927 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="RunGoodRange" amount="1713"
+1669295658889 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295658890 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295658891 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="1713"
+1669295658892 inf [table] 1 tt7.tamgr.tt7_92.t31163 round river board="3c,7c,8s,Kc,2d" pot="6062" totalPot="0"
+1669295658925 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295660718 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295660927 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295663313 inf [network] < prefs TIME:GET
+1669295663379 inf [network] > prefs TIME:GET_OK
+1669295664886 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295665287 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295667115 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295669968 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295671697 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295672791 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295673778 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295673788 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="RunGoodRange" amount="3940"
+1669295674502 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295675387 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295675387 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295675388 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="3940"
+1669295675402 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295675403 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669295675404 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669295675417 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="RunGoodRange" cards="Kh,As" board="3c,7c,8s,Kc,2d"
+1669295675417 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="PabLuxe" cards="Ad,Ks" board="3c,7c,8s,Kc,2d"
+1669295675418 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="RunGoodRange" amount="6971"
+1669295675418 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="PabLuxe" amount="6971"
+1669295675475 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295675779 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295677271 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295677272 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295677272 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-13-1669295676
+1669295677273 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="PabLuxe" amount="125"
+1669295677273 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="BotteSecrete" amount="225"
+1669295677344 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295677345 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295677345 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295677345 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295677346 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295677347 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295677347 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295677347 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="RunGoodRange" amount="25"
+1669295677348 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="coyote 78" amount="25"
+1669295677349 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="Jluttges1" amount="25"
+1669295677349 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="YL_ML_GL_42" amount="25"
+1669295677350 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" 8h,7h
+1669295677350 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="150" totalPot="450"
+1669295677363 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295678337 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295678337 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="coyote 78"
+1669295678338 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295678365 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295679255 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295679256 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295679256 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="Jluttges1"
+1669295679363 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295679507 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295680221 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295681067 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295682122 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295682968 inf [network] < prefs CLIENT:PING_OK
+1669295682968 inf [network] > prefs CLIENT:PING
+1669295685035 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295685036 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295686601 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295687490 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295691498 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295693838 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295693839 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295695362 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295695363 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295696019 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295696232 inf [network] < prefs CLIENT:PING_OK
+1669295696232 inf [network] > prefs CLIENT:PING
+1669295697010 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295697439 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295697440 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295697441 inf [table] 1 tt7.tamgr.tt7_92.t31163 action raise login="YL_ML_GL_42" amount="600"
+1669295697580 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295698128 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295700172 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295700173 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295701354 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295701636 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295701637 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="RunGoodRange" amount="600"
+1669295702474 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295704675 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295704759 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295705372 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295707085 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295707194 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295709198 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295709834 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295712564 inf [network] < prefs CLIENT:PING_OK
+1669295712564 inf [network] > prefs CLIENT:PING
+1669295712588 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295714634 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295715198 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295715342 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295718899 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295719397 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295719497 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295719677 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295719677 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="600"
+1669295721195 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295722485 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295722890 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295722891 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295722891 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295722892 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295722892 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="BotteSecrete" amount="200"
+1669295722900 inf [table] 1 tt7.tamgr.tt7_92.t31163 round flop board="3c,Qs,5s" pot="2150" totalPot="0"
+1669295723304 inf [network] < prefs TIME:GET
+1669295723352 inf [network] > prefs TIME:GET_OK
+1669295723915 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295724607 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295725410 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295726189 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295726796 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295728557 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295728968 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295728968 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295728969 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="PabLuxe"
+1669295729597 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295731035 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295731517 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295733117 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295733594 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295733655 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295733656 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295733666 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="YL_ML_GL_42"
+1669295735384 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295735922 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295739755 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295739755 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295739756 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="RunGoodRange"
+1669295739757 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295739757 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295739758 inf [table] 1 tt7.tamgr.tt7_92.t31163 round turn board="3c,Qs,5s,Qh" pot="2150" totalPot="0"
+1669295740802 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295742076 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295742077 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295742087 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="PabLuxe"
+1669295742155 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295742963 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295742964 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295743314 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295743374 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295743375 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295743376 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="YL_ML_GL_42"
+1669295745118 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295745118 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295745378 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295746474 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295746475 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295746475 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="RunGoodRange" amount="1075"
+1669295750689 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:PREACTION
+1669295750753 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_OK
+1669295752714 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295752715 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295752715 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295752716 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="PabLuxe"
+1669295752716 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="YL_ML_GL_42"
+1669295755279 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295755279 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669295755280 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669295755291 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="RunGoodRange" mucks
+1669295755291 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="RunGoodRange" amount="3225"
+1669295755414 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295757370 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295757370 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295757371 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295757371 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295757372 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295757372 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295757372 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295757373 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295757373 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295757373 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-14-1669295757
+1669295757374 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="BotteSecrete" amount="125"
+1669295757374 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="coyote 78" amount="225"
+1669295757375 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="RunGoodRange" amount="25"
+1669295757375 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="PabLuxe" amount="25"
+1669295757375 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="Jluttges1" amount="25"
+1669295757376 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="YL_ML_GL_42" amount="25"
+1669295757376 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" 3h,9c
+1669295757390 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="150" totalPot="450"
+1669295761839 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295761840 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295762591 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295762592 inf [network] < prefs CLIENT:PING_OK
+1669295762592 inf [network] > prefs CLIENT:PING
+1669295763318 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295763319 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="Jluttges1"
+1669295763320 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295764078 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295764958 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295765476 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295766155 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295767011 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295767054 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295767055 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295767056 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="YL_ML_GL_42"
+1669295772990 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295772990 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295772995 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="RunGoodRange"
+1669295774410 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295775465 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295775497 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295775497 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295775507 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="200"
+1669295775697 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295776894 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295777445 inf [network] < prefs DATA:GET
+1669295777574 inf [network] > prefs DATA:GET_OK
+1669295780622 inf [network] < prefs DATA:GET
+1669295780695 inf [network] > prefs DATA:GET_OK
+1669295782802 inf [network] < prefs DATA:GET
+1669295782887 inf [network] > prefs DATA:GET_OK
+1669295783321 inf [network] < prefs TIME:GET
+1669295783364 inf [network] > prefs TIME:GET_OK
+1669295785503 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295785926 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295785938 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="BotteSecrete" amount="100"
+1669295786140 inf [network] < prefs DATA:GET
+1669295786254 inf [network] > prefs DATA:GET_OK
+1669295786528 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295786901 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295786902 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295786903 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="coyote 78" amount="200"
+1669295786903 inf [table] 1 tt7.tamgr.tt7_92.t31163 round flop board="3d,As,2s" pot="650" totalPot="0"
+1669295787926 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295787928 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="coyote 78"
+1669295789468 inf [network] < prefs DATA:GET
+1669295789573 inf [network] > prefs DATA:GET_OK
+1669295791207 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295791207 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295791208 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="PabLuxe"
+1669295791208 inf [table] 1 tt7.tamgr.tt7_92.t31163 round turn board="3d,As,2s,8c" pot="650" totalPot="0"
+1669295792206 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295792207 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="coyote 78"
+1669295794683 inf [network] < prefs DATA:GET
+1669295794809 inf [network] > prefs DATA:GET_OK
+1669295795499 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295797208 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295797208 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295797209 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="PabLuxe"
+1669295797209 inf [table] 1 tt7.tamgr.tt7_92.t31163 round river board="3d,As,2s,8c,5c" pot="650" totalPot="0"
+1669295797741 inf [network] < prefs DATA:GET
+1669295797854 inf [network] > prefs DATA:GET_OK
+1669295798282 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295798283 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="coyote 78"
+1669295800729 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295800729 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295800730 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="PabLuxe"
+1669295801092 inf [network] < prefs DATA:GET
+1669295801183 inf [network] > prefs DATA:GET_OK
+1669295801770 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295803777 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295803778 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669295803778 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669295803779 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="coyote 78" cards="Jc,Qc" board="3d,As,2s,8c,5c"
+1669295803780 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="PabLuxe" cards="Qs,6h" board="3d,As,2s,8c,5c"
+1669295803780 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="coyote 78" amount="650"
+1669295804249 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295805475 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295807129 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295807130 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295807850 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295807851 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-15-1669295807
+1669295807851 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="coyote 78" amount="125"
+1669295807852 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295807852 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295807852 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295807853 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295807853 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295807854 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295807854 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295807855 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295807855 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="Jluttges1" amount="225"
+1669295807856 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="RunGoodRange" amount="25"
+1669295807856 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="PabLuxe" amount="25"
+1669295807857 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="BotteSecrete" amount="25"
+1669295807857 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="YL_ML_GL_42" amount="25"
+1669295807857 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" Ks,4c
+1669295807858 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="150" totalPot="450"
+1669295809529 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295810006 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295811686 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295812093 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295812567 inf [network] < prefs CLIENT:PING_OK
+1669295812567 inf [network] > prefs CLIENT:PING
+1669295813627 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295813681 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295813682 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295813683 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295813683 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="YL_ML_GL_42"
+1669295813700 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="RunGoodRange"
+1669295813813 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295815370 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295815371 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="PabLuxe"
+1669295815483 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295816579 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295816580 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295819009 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295823608 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295823613 inf [table] 1 tt7.tamgr.tt7_92.t31163 action raise login="BotteSecrete" amount="400"
+1669295824653 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295824657 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="coyote 78" amount="100"
+1669295825549 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295827449 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295827450 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295827450 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="Jluttges1" amount="400"
+1669295827462 inf [table] 1 tt7.tamgr.tt7_92.t31163 round flop board="4h,3d,3c" pot="1050" totalPot="0"
+1669295831049 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295831050 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295831537 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295831538 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="Jluttges1"
+1669295832569 inf [network] < prefs CLIENT:PING_OK
+1669295832570 inf [network] > prefs CLIENT:PING
+1669295833131 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295835537 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:UPDATE
+1669295840086 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295840087 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295842166 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295842167 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295843327 inf [network] < prefs TIME:GET
+1669295843390 inf [network] > prefs TIME:GET_OK
+1669295844568 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295845535 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295846089 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295846090 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295846091 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="BotteSecrete"
+1669295846092 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295846092 inf [table] 1 tt7.tamgr.tt7_92.t31163 round turn board="4h,3d,3c,Kc" pot="1050" totalPot="0"
+1669295847049 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295848166 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295849207 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295849411 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295849419 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="Jluttges1"
+1669295850169 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295851847 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295852646 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295854168 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295855153 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295855543 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295856330 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295858571 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295858571 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="BotteSecrete" amount="525"
+1669295858966 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295859775 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295861206 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295862578 inf [network] < prefs CLIENT:PING_OK
+1669295862578 inf [network] > prefs CLIENT:PING
+1669295865574 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295868893 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295868893 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295868894 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="Jluttges1"
+1669295868895 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669295868895 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669295868896 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="BotteSecrete" mucks
+1669295868896 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="BotteSecrete" amount="1575"
+1669295870974 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295870974 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295870975 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295870975 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295870975 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295870976 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295870976 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-16-1669295870
+1669295870976 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="Jluttges1" amount="125"
+1669295870977 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="YL_ML_GL_42" amount="225"
+1669295870977 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="RunGoodRange" amount="25"
+1669295870978 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="PabLuxe" amount="25"
+1669295870978 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295870979 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295870979 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295870979 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="BotteSecrete" amount="25"
+1669295870980 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="coyote 78" amount="25"
+1669295870980 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" 2s,9c
+1669295870981 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="150" totalPot="450"
+1669295873609 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295873609 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295873610 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="RunGoodRange"
+1669295875573 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295876337 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295876338 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295878916 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295881360 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295881360 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295881361 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295881361 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="PabLuxe"
+1669295882089 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295882566 inf [network] < prefs CLIENT:PING_OK
+1669295882566 inf [network] > prefs CLIENT:PING
+1669295883778 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295884258 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295885693 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295886264 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295886265 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295888251 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295888252 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295890811 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295890898 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295891380 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295891381 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="BotteSecrete"
+1669295892371 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295892371 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295892372 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="coyote 78"
+1669295893131 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295893132 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295894861 inf [network] < prefs DATA:GET
+1669295894966 inf [network] > prefs DATA:GET_OK
+1669295894974 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295894975 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS_INFO
+1669295894976 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="Jluttges1" amount="100"
+1669295894989 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS
+1669295895051 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295895052 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669295895053 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="YL_ML_GL_42" mucks
+1669295895053 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="YL_ML_GL_42" amount="450"
+1669295895054 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669295895054 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS_OK
+1669295895730 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295897091 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295897092 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-17-1669295896
+1669295897092 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="YL_ML_GL_42" amount="125"
+1669295897102 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295897102 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295897103 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295897103 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295897103 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295897104 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295897104 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295897104 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295897105 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="RunGoodRange" amount="225"
+1669295897105 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="PabLuxe" amount="25"
+1669295897106 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="BotteSecrete" amount="25"
+1669295897106 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="coyote 78" amount="25"
+1669295897107 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="Jluttges1" amount="25"
+1669295897107 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" 6s,4c
+1669295897107 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="150" totalPot="450"
+1669295899581 inf [network] < prefs DATA:GET
+1669295899776 inf [network] > prefs DATA:GET_OK
+1669295900407 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295900407 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295900408 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295900409 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="200"
+1669295903244 inf [api] < Service operator/winamax-tv/public
+1669295903245 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public post
+1669295903322 inf [network] < prefs TIME:GET
+1669295903402 inf [network] > prefs TIME:GET_OK
+1669295903486 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public ok
+1669295903487 inf [api] > Service operator/winamax-tv/public
+1669295904305 inf [network] < prefs DATA:GET
+1669295904470 inf [network] > prefs DATA:GET_OK
+1669295905624 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295907689 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295910885 inf [network] < prefs DATA:GET
+1669295911006 inf [network] > prefs DATA:GET_OK
+1669295911286 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295911287 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="BotteSecrete"
+1669295912255 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295912255 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="coyote 78"
+1669295912256 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295912256 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295912257 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="Jluttges1"
+1669295914006 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295915211 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295915218 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295915287 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295915287 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295915289 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="YL_ML_GL_42" amount="100"
+1669295915573 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:UPDATE
+1669295916121 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295916532 inf [network] < prefs DATA:GET
+1669295916645 inf [network] > prefs DATA:GET_OK
+1669295918263 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295918517 inf [network] < prefs DATA:GET
+1669295918614 inf [network] > prefs DATA:GET_OK
+1669295919056 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295920411 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295921138 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295922476 inf [network] < prefs DATA:GET
+1669295922550 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295922686 inf [network] > prefs DATA:GET_OK
+1669295922888 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295922889 inf [table] 1 tt7.tamgr.tt7_92.t31163 action raise login="RunGoodRange" amount="700"
+1669295924044 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295924605 inf [network] < prefs DATA:GET
+1669295924704 inf [network] > prefs DATA:GET_OK
+1669295925785 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295926732 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295926733 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295926931 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295926931 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295926932 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="700"
+1669295926948 inf [table] 1 tt7.tamgr.tt7_92.t31163 round flop board="Kc,4h,9d" pot="1650" totalPot="0"
+1669295927717 inf [network] < prefs DATA:GET
+1669295927813 inf [network] > prefs DATA:GET_OK
+1669295929183 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295929184 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295933606 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295933607 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="RunGoodRange"
+1669295935654 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295939401 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295939402 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295939402 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="PabLuxe"
+1669295939403 inf [table] 1 tt7.tamgr.tt7_92.t31163 round turn board="Kc,4h,9d,Tc" pot="1650" totalPot="0"
+1669295942012 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295942013 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295942568 inf [network] < prefs CLIENT:PING_OK
+1669295942569 inf [network] > prefs CLIENT:PING
+1669295944170 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295944793 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295945698 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295945805 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295946729 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295946730 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="RunGoodRange" amount="1073"
+1669295947058 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295951128 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295951129 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295953209 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295954493 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295954495 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="PabLuxe"
+1669295955721 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295956166 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669295956167 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669295956168 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669295956168 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="RunGoodRange" mucks
+1669295956169 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="RunGoodRange" amount="2723"
+1669295958092 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295958093 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295958093 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295958094 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295958094 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295958094 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669295958095 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295958095 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295958095 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295958096 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-18-1669295957
+1669295958096 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="RunGoodRange" amount="125"
+1669295958097 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="PabLuxe" amount="225"
+1669295958097 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="BotteSecrete" amount="25"
+1669295958097 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="coyote 78" amount="25"
+1669295958098 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="Jluttges1" amount="25"
+1669295958098 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="YL_ML_GL_42" amount="25"
+1669295958099 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" Ks,Ad
+1669295958100 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="150" totalPot="450"
+1669295958608 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295961025 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295961641 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295961846 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295961847 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="BotteSecrete"
+1669295962569 inf [network] < prefs CLIENT:PING_OK
+1669295962569 inf [network] > prefs CLIENT:PING
+1669295962889 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295962889 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295962890 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="coyote 78"
+1669295963207 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295963337 inf [network] < prefs TIME:GET
+1669295963408 inf [network] > prefs TIME:GET_OK
+1669295965699 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295966009 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295968170 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295968205 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295969526 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295969527 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669295969527 inf [table] 1 tt7.tamgr.tt7_92.t31163 action raise login="Jluttges1" amount="420"
+1669295973767 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295975491 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669295975636 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669295975636 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295975637 inf [table] 1 tt7.tamgr.tt7_92.t31163 action raise login="YL_ML_GL_42" amount="1260"
+1669295975727 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295976090 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295976537 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295978290 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295980338 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295980339 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="RunGoodRange" amount="100"
+1669295983047 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295983048 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295985048 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295985049 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="PabLuxe" amount="1260"
+1669295985127 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295985128 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295985716 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295987740 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669295987932 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295989614 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295992582 inf [network] < prefs CLIENT:PING_OK
+1669295992583 inf [network] > prefs CLIENT:PING
+1669295995458 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669295995733 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669295996090 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669295996090 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669295996091 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669295996091 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669295996092 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="Jluttges1" amount="1260"
+1669295996092 inf [table] 1 tt7.tamgr.tt7_92.t31163 round flop board="8h,9h,7s" pot="4030" totalPot="0"
+1669295996166 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669295998927 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296003376 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296003380 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="PabLuxe"
+1669296003381 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669296004494 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296004496 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296005749 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669296006971 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296007213 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296007213 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669296007225 inf [table] 1 tt7.tamgr.tt7_92.t31163 action check login="Jluttges1"
+1669296012179 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296012179 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296012568 inf [network] < prefs CLIENT:PING_OK
+1669296012569 inf [network] > prefs CLIENT:PING
+1669296012626 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669296012677 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669296012678 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296012681 inf [table] 1 tt7.tamgr.tt7_92.t31163 action bet login="YL_ML_GL_42" amount="3224"
+1669296014735 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296015787 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669296016530 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296016530 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="PabLuxe"
+1669296016611 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296017218 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296019770 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296019847 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296022171 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296022172 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296023346 inf [network] < prefs TIME:GET
+1669296023413 inf [network] > prefs TIME:GET_OK
+1669296024181 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669296024182 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296025783 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669296029620 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296031853 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296032168 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296032168 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669296032169 inf [table] 1 tt7.tamgr.tt7_92.t31163 action raise login="Jluttges1" amount="7400"
+1669296034169 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296035784 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669296037171 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669296037206 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296037239 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669296037240 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296037241 inf [table] 1 tt7.tamgr.tt7_92.t31163 action raise login="YL_ML_GL_42" amount="23455"
+1669296038370 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296038371 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669296038371 inf [table] 1 tt7.tamgr.tt7_92.t31163 action call login="Jluttges1" amount="16430"
+1669296038818 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296039699 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296039931 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669296039932 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669296039935 inf [table] 1 tt7.tamgr.tt7_92.t31163 round turn board="8h,9h,7s,Ah" pot="43915" totalPot="0"
+1669296041449 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669296041450 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669296041455 inf [table] 1 tt7.tamgr.tt7_92.t31163 round river board="8h,9h,7s,Ah,4c" pot="43915" totalPot="0"
+1669296042931 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669296042931 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669296042932 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="Jluttges1" cards="9c,8c" board="8h,9h,7s,Ah,4c"
+1669296042932 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="YL_ML_GL_42" cards="Ks,Ad" board="8h,9h,7s,Ah,4c"
+1669296042932 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="Jluttges1" amount="36890"
+1669296042932 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="YL_ML_GL_42" amount="7025"
+1669296043216 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296044930 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669296044930 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669296044931 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-19-1669296044
+1669296044931 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="PabLuxe" amount="125"
+1669296044935 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="BotteSecrete" amount="225"
+1669296044941 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669296044941 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669296044942 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669296044942 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669296044942 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669296044943 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669296044943 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669296044944 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="RunGoodRange" amount="25"
+1669296044944 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="coyote 78" amount="25"
+1669296044945 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="Jluttges1" amount="25"
+1669296044945 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="YL_ML_GL_42" amount="25"
+1669296044945 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" As,7d
+1669296044946 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="150" totalPot="450"
+1669296045300 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296045813 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669296046014 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296046015 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669296046016 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="coyote 78"
+1669296046729 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296047375 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296049367 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669296049460 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296049460 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669296049461 inf [table] 1 tt7.tamgr.tt7_92.t31163 action raise login="Jluttges1" amount="420"
+1669296051756 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669296051829 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669296051829 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296051837 inf [table] 1 tt7.tamgr.tt7_92.t31163 action raise login="YL_ML_GL_42" amount="7000"
+1669296053290 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296053291 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="RunGoodRange"
+1669296054848 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296054848 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296055815 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669296056166 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296056167 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="PabLuxe" amount="100"
+1669296057207 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296060491 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296062406 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669296062506 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296062567 inf [network] < prefs CLIENT:PING_OK
+1669296062568 inf [network] > prefs CLIENT:PING
+1669296063051 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296065917 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669296066917 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296066924 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="BotteSecrete" amount="200"
+1669296068141 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296068141 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296069611 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669296070167 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296070367 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296072731 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296072926 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296073729 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296073730 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS_INFO
+1669296073731 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="Jluttges1" amount="420"
+1669296073743 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS
+1669296073793 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWDOWN_INFO
+1669296073793 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669296073794 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669296073794 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:SHOWCARDS_OK
+1669296073795 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="YL_ML_GL_42" mucks
+1669296073795 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="YL_ML_GL_42" amount="7870"
+1669296075131 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296075860 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669296075880 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669296075880 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669296075881 inf [table] 1 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-20-1669296075
+1669296075881 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+SB login="BotteSecrete" amount="155"
+1669296075882 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN+BB login="coyote 78" amount="280"
+1669296075885 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669296075886 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669296075886 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669296075886 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:POST_INFO
+1669296075887 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669296075887 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669296075887 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:PREACTION_LIST
+1669296075888 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="RunGoodRange" amount="30"
+1669296075888 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="PabLuxe" amount="30"
+1669296075889 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="Jluttges1" amount="30"
+1669296075889 inf [table] 1 tt7.tamgr.tt7_92.t31163 action AN login="YL_ML_GL_42" amount="30"
+1669296075890 inf [table] 1 tt7.tamgr.tt7_92.t31163 cards login="YL_ML_GL_42" 9h,Jd
+1669296075890 inf [table] 1 tt7.tamgr.tt7_92.t31163 round pre-flop pot="180" totalPot="555"
+1669296075952 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669296077212 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296077213 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTIONSET
+1669296077213 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="Jluttges1"
+1669296078489 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296080846 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296081006 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296081963 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:ACTION
+1669296082024 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_OK
+1669296082025 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296082026 inf [table] 1 tt7.tamgr.tt7_92.t31163 action raise login="YL_ML_GL_42" amount="7840"
+1669296083212 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296083356 inf [network] < prefs TIME:GET
+1669296083403 inf [network] > prefs TIME:GET_OK
+1669296084417 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296085369 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296085381 inf [table] 1 tt7.tamgr.tt7_92.t31163 action raise login="RunGoodRange" amount="22651"
+1669296085860 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669296086055 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296086727 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669296086727 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296086731 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="PabLuxe"
+1669296092866 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296092867 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296093582 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296093584 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="BotteSecrete" amount="125"
+1669296094607 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:ACTION_INFO
+1669296094608 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669296094609 inf [table] 1 tt7.tamgr.tt7_92.t31163 action fold login="coyote 78" amount="250"
+1669296095131 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296095857 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669296096099 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669296096099 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669296096111 inf [table] 1 tt7.tamgr.tt7_92.t31163 round flop board="Ah,4h,7s" pot="31046" totalPot="0"
+1669296096970 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296097287 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296097618 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669296097618 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669296097633 inf [table] 1 tt7.tamgr.tt7_92.t31163 round turn board="Ah,4h,7s,Kd" pot="31046" totalPot="0"
+1669296099131 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CARDS
+1669296099132 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669296099135 inf [table] 1 tt7.tamgr.tt7_92.t31163 round river board="Ah,4h,7s,Kd,Ks" pot="31046" totalPot="0"
+1669296099137 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296099937 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296100667 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:RESULT
+1669296100668 inf [network] > tt7.tamgr.tt7_92.t31163 TRACKER:GET_INFO
+1669296100669 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="YL_ML_GL_42" cards="9h,Jd" board="Ah,4h,7s,Kd,Ks"
+1669296100669 inf [table] 1 tt7.tamgr.tt7_92.t31163 showdown login="RunGoodRange" cards="Ad,Kh" board="Ah,4h,7s,Kd,Ks"
+1669296100669 inf [table] 1 tt7.tamgr.tt7_92.t31163 gain login="RunGoodRange" amount="31046"
+1669296101701 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296102169 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296102571 inf [network] < prefs CLIENT:PING_OK
+1669296102572 inf [network] > prefs CLIENT:PING
+1669296102612 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669296102613 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CHAT_INFO
+1669296102624 inf [network] > tt7.ttmgr.tt7_9.t593811165 TRACKER:GET_INFO
+1669296102624 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:CHAT_INFO
+1669296102625 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:RESULT
+1669296102647 inf [network] > prefs NOTIFICATION:POST_INFO
+1669296102656 inf [network] > prefs GAMESTATS:INFO
+1669296104057 inf [router] Execute: wam://playground-close?id=1
+1669296104061 inf [router] Execution done: wam://playground-close?id=1
+1669296104061 inf [router] Execute: wam://table-close?tblid=1
+1669296104062 inf [router] Execution done: wam://table-close?tblid=1
+1669296104063 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:LEAVE
+1669296104063 inf [network] Leaving channel tt7.tamgr.tt7_92.t31163
+1669296104064 inf [router] Execute: wam://playground-close?id=1&scene=2
+1669296104064 inf [router] Execution done: wam://playground-close?id=1&scene=2
+1669296104155 inf [network] Leaving channel tt7.tamgr.tt7_92.t31163
+1669296104155 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:LEAVE_OK
+1669296104566 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296105155 inf [router] Navigate: wam://popup?type=tournament-reentry&ttid=2
+1669296105157 inf [router] Navigation done: wam://popup?type=tournament-reentry&ttid=2
+1669296105171 inf [network] Registering channel tt7.tamgr.tt7_92.t31163
+1669296105202 inf [network] < tt7.tamgr.tt7_92.t31163 TABLE:JOIN
+1669296105258 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:JOIN_OK
+1669296105259 inf [table] 2 tt7.tamgr.tt7_92.t31163 hand 2550399533674659902-21-1669296104
+1669296105259 inf [table] 2 tt7.tamgr.tt7_92.t31163 round pre-flop pot="150" totalPot="525"
+1669296105260 inf [network] > tt7.tamgr.tt7_92.t31163 CHATROOM:JOIN_OK
+1669296105850 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296105851 inf [network] > tt7.tamgr.tt7_92.t31163 TABLE:STATUS
+1669296105892 inf [network] > tt7.ttmgr.tt7_9.t593811165 FILTERLIST:SET
+1669296106166 inf [network] > subscriptions FILTERLIST:UPDATE
+1669296107211 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:STATUS
+1669296108009 inf [network] > tt7.ttmgr.tt7_9.t593811165 TOURNAMENT:PAYOUTS
+1669296108741 inf [router] Execute: wam://tournament-close?ttid=2
+1669296108742 inf [router] Execution done: wam://tournament-close?ttid=2
+1669296108760 inf [tracker] Closed
+1669296108762 inf [network] Registering channel subscriptions
+1669296108763 inf [network] Registering channel tt7.ttmgr.tt7_9.t593811165
+1669296108763 inf [network] Leaving channel tt7.ttmgr.tt7_9.t593811165
+1669296108764 inf [network] Registering channel tt7.ttmgr.tt7_9.t593811165
+1669296108764 inf [network] Registering channel tt7.tamgr.tt7_92.t31163
+1669296108764 inf [network] Leaving channel tt7.tamgr.tt7_92.t31163

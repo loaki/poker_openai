@@ -1,0 +1,153 @@
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2592431470907752449-1-1669139154 - Holdem no limit (10/20) - 2022/11/22 17:45:54 UTC
+Table: 'Expresso(603597488)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Lucasteph21 (500)
+Seat 2: nkd-shuffle (500)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+nkd-shuffle posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Js 5c]
+*** PRE-FLOP *** 
+Lucasteph21 calls 20
+nkd-shuffle raises 40 to 60
+YL_ML_GL_42 folds
+Lucasteph21 calls 40
+*** FLOP *** [3c 2h Qs]
+nkd-shuffle bets 49
+Lucasteph21 folds
+nkd-shuffle collected 189 from pot
+*** SUMMARY ***
+Total pot 189 | No rake
+Board: [3c 2h Qs]
+Seat 2: nkd-shuffle (small blind) won 189
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2592431470907752449-2-1669139187 - Holdem no limit (10/20) - 2022/11/22 17:46:27 UTC
+Table: 'Expresso(603597488)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Lucasteph21 (440)
+Seat 2: nkd-shuffle (580)
+Seat 3: YL_ML_GL_42 (480)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Lucasteph21 posts big blind 20
+Dealt to YL_ML_GL_42 [4d Ks]
+*** PRE-FLOP *** 
+nkd-shuffle raises 30 to 50
+YL_ML_GL_42 raises 430 to 480 and is all-in
+Lucasteph21 folds
+nkd-shuffle calls 430
+*** FLOP *** [2h Kc Kd]
+*** TURN *** [2h Kc Kd][7c]
+*** RIVER *** [2h Kc Kd 7c][2c]
+*** SHOW DOWN ***
+nkd-shuffle shows [4c Qc] (Flush King high)
+YL_ML_GL_42 shows [4d Ks] (Full of Kings and 2)
+YL_ML_GL_42 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | No rake
+Board: [2h Kc Kd 7c 2c]
+Seat 2: nkd-shuffle (button) showed [4c Qc] and lost with Flush King high
+Seat 3: YL_ML_GL_42 (small blind) showed [4d Ks] and won 980 with Full of Kings and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2592431470907752449-3-1669139229 - Holdem no limit (10/20) - 2022/11/22 17:47:09 UTC
+Table: 'Expresso(603597488)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Lucasteph21 (420)
+Seat 2: nkd-shuffle (100)
+Seat 3: YL_ML_GL_42 (980)
+*** ANTE/BLINDS ***
+Lucasteph21 posts small blind 10
+nkd-shuffle posts big blind 20
+Dealt to YL_ML_GL_42 [3c As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 960 to 980 and is all-in
+Lucasteph21 calls 410 and is all-in
+nkd-shuffle calls 80 and is all-in
+*** FLOP *** [9h 6c 4h]
+*** TURN *** [9h 6c 4h][Qh]
+*** RIVER *** [9h 6c 4h Qh][4s]
+*** SHOW DOWN ***
+nkd-shuffle shows [2d Kc] (One pair : 4)
+Lucasteph21 shows [Kd Ac] (One pair : 4)
+YL_ML_GL_42 shows [3c As] (One pair : 4)
+YL_ML_GL_42 collected 560 from side pot 1
+Lucasteph21 collected 940 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [9h 6c 4h Qh 4s]
+Seat 1: Lucasteph21 (small blind) showed [Kd Ac] and won 940 with One pair : 4
+Seat 2: nkd-shuffle (big blind) showed [2d Kc] and lost with One pair : 4
+Seat 3: YL_ML_GL_42 (button) showed [3c As] and won 560 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2592431470907752449-4-1669139249 - Holdem no limit (15/30) - 2022/11/22 17:47:29 UTC
+Table: 'Expresso(603597488)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Lucasteph21 (940)
+Seat 3: YL_ML_GL_42 (560)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Lucasteph21 posts big blind 30
+Dealt to YL_ML_GL_42 [Ah 5c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 530 to 560 and is all-in
+Lucasteph21 calls 530
+*** FLOP *** [2h 2d Td]
+*** TURN *** [2h 2d Td][3c]
+*** RIVER *** [2h 2d Td 3c][2s]
+*** SHOW DOWN ***
+Lucasteph21 shows [Jd Kc] (Trips of 2)
+YL_ML_GL_42 shows [Ah 5c] (Trips of 2)
+YL_ML_GL_42 collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | No rake
+Board: [2h 2d Td 3c 2s]
+Seat 1: Lucasteph21 (big blind) showed [Jd Kc] and lost with Trips of 2
+Seat 3: YL_ML_GL_42 (small blind) (button) showed [Ah 5c] and won 1120 with Trips of 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2592431470907752449-5-1669139267 - Holdem no limit (15/30) - 2022/11/22 17:47:47 UTC
+Table: 'Expresso(603597488)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Lucasteph21 (380)
+Seat 3: YL_ML_GL_42 (1120)
+*** ANTE/BLINDS ***
+Lucasteph21 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [2c Qc]
+*** PRE-FLOP *** 
+Lucasteph21 calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [Qs 9d As]
+YL_ML_GL_42 bets 60
+Lucasteph21 folds
+YL_ML_GL_42 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qs 9d As]
+Seat 3: YL_ML_GL_42 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2592431470907752449-6-1669139280 - Holdem no limit (15/30) - 2022/11/22 17:48:00 UTC
+Table: 'Expresso(603597488)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Lucasteph21 (350)
+Seat 3: YL_ML_GL_42 (1150)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Lucasteph21 posts big blind 30
+Dealt to YL_ML_GL_42 [9c Ad]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 1120 to 1150 and is all-in
+Lucasteph21 calls 320 and is all-in
+*** FLOP *** [8s 5s 3h]
+*** TURN *** [8s 5s 3h][4h]
+*** RIVER *** [8s 5s 3h 4h][5c]
+*** SHOW DOWN ***
+Lucasteph21 shows [Js 6s] (One pair : 5)
+YL_ML_GL_42 shows [9c Ad] (One pair : 5)
+YL_ML_GL_42 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [8s 5s 3h 4h 5c]
+Seat 1: Lucasteph21 (big blind) showed [Js 6s] and lost with One pair : 5
+Seat 3: YL_ML_GL_42 (small blind) (button) showed [9c Ad] and won 1500 with One pair : 5
+
+

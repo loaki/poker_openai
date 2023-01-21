@@ -1,0 +1,485 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2608506167697080321-1-1669993942 - Holdem no limit (10/20) - 2022/12/02 15:12:22 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #3 is the button
+Seat 1: prude_Poux90 (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Refio.0.9 (500)
+*** ANTE/BLINDS ***
+prude_Poux90 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Kd 9s]
+*** PRE-FLOP *** 
+Refio.0.9 calls 20
+prude_Poux90 calls 10
+YL_ML_GL_42 raises 60 to 80
+Refio.0.9 calls 60
+prude_Poux90 calls 60
+*** FLOP *** [2h Qs 8d]
+prude_Poux90 bets 20
+YL_ML_GL_42 calls 20
+Refio.0.9 calls 20
+*** TURN *** [2h Qs 8d][Qd]
+prude_Poux90 bets 40
+YL_ML_GL_42 folds
+Refio.0.9 calls 40
+*** RIVER *** [2h Qs 8d Qd][3h]
+prude_Poux90 bets 50
+Refio.0.9 calls 50
+*** SHOW DOWN ***
+prude_Poux90 shows [2c Ah] (Two pairs : Queens and 2)
+Refio.0.9 shows [8s 9h] (Two pairs : Queens and 8)
+Refio.0.9 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [2h Qs 8d Qd 3h]
+Seat 1: prude_Poux90 (small blind) showed [2c Ah] and lost with Two pairs : Queens and 2
+Seat 3: Refio.0.9 (button) showed [8s 9h] and won 480 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2608506167697080321-2-1669993985 - Holdem no limit (10/20) - 2022/12/02 15:13:05 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: prude_Poux90 (310)
+Seat 2: YL_ML_GL_42 (400)
+Seat 3: Refio.0.9 (790)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Refio.0.9 posts big blind 20
+Dealt to YL_ML_GL_42 [Qd 4d]
+*** PRE-FLOP *** 
+prude_Poux90 calls 20
+YL_ML_GL_42 calls 10
+Refio.0.9 checks
+*** FLOP *** [3d 6c Th]
+YL_ML_GL_42 checks
+Refio.0.9 checks
+prude_Poux90 checks
+*** TURN *** [3d 6c Th][9c]
+YL_ML_GL_42 checks
+Refio.0.9 checks
+prude_Poux90 checks
+*** RIVER *** [3d 6c Th 9c][4c]
+YL_ML_GL_42 checks
+Refio.0.9 checks
+prude_Poux90 checks
+*** SHOW DOWN ***
+prude_Poux90 shows [8s Js] (High card : Jack)
+Refio.0.9 shows [5h 3c] (One pair : 3)
+YL_ML_GL_42 shows [Qd 4d] (One pair : 4)
+YL_ML_GL_42 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3d 6c Th 9c 4c]
+Seat 1: prude_Poux90 (button) showed [8s Js] and lost with High card : Jack
+Seat 2: YL_ML_GL_42 (small blind) showed [Qd 4d] and won 60 with One pair : 4
+Seat 3: Refio.0.9 (big blind) showed [5h 3c] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2608506167697080321-3-1669994018 - Holdem no limit (10/20) - 2022/12/02 15:13:38 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: prude_Poux90 (290)
+Seat 2: YL_ML_GL_42 (440)
+Seat 3: Refio.0.9 (770)
+*** ANTE/BLINDS ***
+Refio.0.9 posts small blind 10
+prude_Poux90 posts big blind 20
+Dealt to YL_ML_GL_42 [3h As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+Refio.0.9 calls 60
+prude_Poux90 calls 50
+*** FLOP *** [7h 8h 5h]
+Refio.0.9 checks
+prude_Poux90 bets 220 and is all-in
+YL_ML_GL_42 calls 220
+Refio.0.9 folds
+*** TURN *** [7h 8h 5h][9d]
+*** RIVER *** [7h 8h 5h 9d][9s]
+*** SHOW DOWN ***
+prude_Poux90 shows [Ad 2d] (One pair : 9)
+YL_ML_GL_42 shows [3h As] (One pair : 9)
+YL_ML_GL_42 collected 325 from pot
+prude_Poux90 collected 325 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [7h 8h 5h 9d 9s]
+Seat 1: prude_Poux90 (big blind) showed [Ad 2d] and won 325 with One pair : 9
+Seat 2: YL_ML_GL_42 (button) showed [3h As] and won 325 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2608506167697080321-4-1669994037 - Holdem no limit (15/30) - 2022/12/02 15:13:57 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #3 is the button
+Seat 1: prude_Poux90 (325)
+Seat 2: YL_ML_GL_42 (475)
+Seat 3: Refio.0.9 (700)
+*** ANTE/BLINDS ***
+prude_Poux90 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [5d 5h]
+*** PRE-FLOP *** 
+Refio.0.9 calls 30
+prude_Poux90 calls 15
+YL_ML_GL_42 raises 445 to 475 and is all-in
+Refio.0.9 folds
+prude_Poux90 folds
+YL_ML_GL_42 collected 535 from pot
+*** SUMMARY ***
+Total pot 535 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 535
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2608506167697080321-5-1669994048 - Holdem no limit (15/30) - 2022/12/02 15:14:08 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: prude_Poux90 (295)
+Seat 2: YL_ML_GL_42 (535)
+Seat 3: Refio.0.9 (670)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Refio.0.9 posts big blind 30
+Dealt to YL_ML_GL_42 [6d Ks]
+*** PRE-FLOP *** 
+prude_Poux90 folds
+YL_ML_GL_42 calls 15
+Refio.0.9 checks
+*** FLOP *** [Ah 6s 3d]
+YL_ML_GL_42 bets 60
+Refio.0.9 calls 60
+*** TURN *** [Ah 6s 3d][7h]
+YL_ML_GL_42 checks
+Refio.0.9 checks
+*** RIVER *** [Ah 6s 3d 7h][Qs]
+YL_ML_GL_42 checks
+Refio.0.9 checks
+*** SHOW DOWN ***
+Refio.0.9 shows [2h 2s] (One pair : 2)
+YL_ML_GL_42 shows [6d Ks] (One pair : 6)
+YL_ML_GL_42 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ah 6s 3d 7h Qs]
+Seat 2: YL_ML_GL_42 (small blind) showed [6d Ks] and won 180 with One pair : 6
+Seat 3: Refio.0.9 (big blind) showed [2h 2s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2608506167697080321-6-1669994077 - Holdem no limit (15/30) - 2022/12/02 15:14:37 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: prude_Poux90 (295)
+Seat 2: YL_ML_GL_42 (625)
+Seat 3: Refio.0.9 (580)
+*** ANTE/BLINDS ***
+Refio.0.9 posts small blind 15
+prude_Poux90 posts big blind 30
+Dealt to YL_ML_GL_42 [Qs 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 75 to 105
+Refio.0.9 folds
+prude_Poux90 folds
+YL_ML_GL_42 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 2: YL_ML_GL_42 (button) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2608506167697080321-7-1669994084 - Holdem no limit (15/30) - 2022/12/02 15:14:44 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #3 is the button
+Seat 1: prude_Poux90 (265)
+Seat 2: YL_ML_GL_42 (670)
+Seat 3: Refio.0.9 (565)
+*** ANTE/BLINDS ***
+prude_Poux90 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [9d Ac]
+*** PRE-FLOP *** 
+Refio.0.9 calls 30
+prude_Poux90 folds
+YL_ML_GL_42 raises 75 to 105
+Refio.0.9 calls 75
+*** FLOP *** [Jc As 5s]
+YL_ML_GL_42 bets 180
+Refio.0.9 calls 180
+*** TURN *** [Jc As 5s][7h]
+YL_ML_GL_42 bets 385 and is all-in
+Refio.0.9 calls 280 and is all-in
+*** RIVER *** [Jc As 5s 7h][3s]
+*** SHOW DOWN ***
+Refio.0.9 shows [6c 6h] (One pair : 6)
+YL_ML_GL_42 shows [9d Ac] (One pair : Aces)
+YL_ML_GL_42 collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Board: [Jc As 5s 7h 3s]
+Seat 2: YL_ML_GL_42 (big blind) showed [9d Ac] and won 1250 with One pair : Aces
+Seat 3: Refio.0.9 (button) showed [6c 6h] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2608506167697080321-8-1669994106 - Holdem no limit (15/30) - 2022/12/02 15:15:06 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: prude_Poux90 (250)
+Seat 2: YL_ML_GL_42 (1250)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+prude_Poux90 posts big blind 30
+Dealt to YL_ML_GL_42 [2c 9s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+prude_Poux90 calls 60
+*** FLOP *** [4c 4d 3s]
+prude_Poux90 checks
+YL_ML_GL_42 checks
+*** TURN *** [4c 4d 3s][Td]
+prude_Poux90 bets 45
+YL_ML_GL_42 folds
+prude_Poux90 collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [4c 4d 3s Td]
+Seat 1: prude_Poux90 (big blind) won 225
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2608506167697080321-9-1669994123 - Holdem no limit (20/40) - 2022/12/02 15:15:23 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: prude_Poux90 (340)
+Seat 2: YL_ML_GL_42 (1160)
+*** ANTE/BLINDS ***
+prude_Poux90 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Jd 9s]
+*** PRE-FLOP *** 
+prude_Poux90 folds
+YL_ML_GL_42 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2608506167697080321-10-1669994129 - Holdem no limit (20/40) - 2022/12/02 15:15:29 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: prude_Poux90 (320)
+Seat 2: YL_ML_GL_42 (1180)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+prude_Poux90 posts big blind 40
+Dealt to YL_ML_GL_42 [9s Qs]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+prude_Poux90 calls 80
+*** FLOP *** [Kh 7s Jc]
+prude_Poux90 checks
+YL_ML_GL_42 bets 240
+prude_Poux90 calls 200 and is all-in
+*** TURN *** [Kh 7s Jc][7c]
+*** RIVER *** [Kh 7s Jc 7c][8c]
+*** SHOW DOWN ***
+prude_Poux90 shows [6h 6c] (Two pairs : 7 and 6)
+YL_ML_GL_42 shows [9s Qs] (One pair : 7)
+YL_ML_GL_42 collected 40 from side pot 1
+prude_Poux90 collected 640 from main pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [Kh 7s Jc 7c 8c]
+Seat 1: prude_Poux90 (big blind) showed [6h 6c] and won 640 with Two pairs : 7 and 6
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [9s Qs] and won 40 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2608506167697080321-11-1669994160 - Holdem no limit (20/40) - 2022/12/02 15:16:00 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: prude_Poux90 (640)
+Seat 2: YL_ML_GL_42 (860)
+*** ANTE/BLINDS ***
+prude_Poux90 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Kh Qh]
+*** PRE-FLOP *** 
+prude_Poux90 calls 20
+YL_ML_GL_42 raises 80 to 120
+prude_Poux90 calls 80
+*** FLOP *** [Kd As 9h]
+YL_ML_GL_42 bets 740 and is all-in
+prude_Poux90 folds
+YL_ML_GL_42 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | No rake
+Board: [Kd As 9h]
+Seat 2: YL_ML_GL_42 (big blind) won 980
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2608506167697080321-12-1669994178 - Holdem no limit (20/40) - 2022/12/02 15:16:18 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: prude_Poux90 (520)
+Seat 2: YL_ML_GL_42 (980)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+prude_Poux90 posts big blind 40
+Dealt to YL_ML_GL_42 [7d Qs]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+prude_Poux90 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: prude_Poux90 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2608506167697080321-13-1669994183 - Holdem no limit (20/40) - 2022/12/02 15:16:23 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: prude_Poux90 (540)
+Seat 2: YL_ML_GL_42 (960)
+*** ANTE/BLINDS ***
+prude_Poux90 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Qh 6c]
+*** PRE-FLOP *** 
+prude_Poux90 calls 20
+YL_ML_GL_42 checks
+*** FLOP *** [6s 8h 2d]
+YL_ML_GL_42 bets 80
+prude_Poux90 calls 80
+*** TURN *** [6s 8h 2d][Th]
+YL_ML_GL_42 bets 40
+prude_Poux90 folds
+YL_ML_GL_42 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [6s 8h 2d Th]
+Seat 2: YL_ML_GL_42 (big blind) won 280
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2608506167697080321-14-1669994199 - Holdem no limit (20/40) - 2022/12/02 15:16:39 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: prude_Poux90 (420)
+Seat 2: YL_ML_GL_42 (1080)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+prude_Poux90 posts big blind 40
+Dealt to YL_ML_GL_42 [Jd Jc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 20
+prude_Poux90 checks
+*** FLOP *** [7h 9s 4h]
+prude_Poux90 checks
+YL_ML_GL_42 checks
+*** TURN *** [7h 9s 4h][Qs]
+prude_Poux90 checks
+YL_ML_GL_42 bets 80
+prude_Poux90 folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [7h 9s 4h Qs]
+Seat 2: YL_ML_GL_42 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2608506167697080321-15-1669994213 - Holdem no limit (30/60) - 2022/12/02 15:16:53 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: prude_Poux90 (380)
+Seat 2: YL_ML_GL_42 (1120)
+*** ANTE/BLINDS ***
+prude_Poux90 posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [6s 8s]
+*** PRE-FLOP *** 
+prude_Poux90 folds
+YL_ML_GL_42 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2608506167697080321-16-1669994217 - Holdem no limit (30/60) - 2022/12/02 15:16:57 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: prude_Poux90 (350)
+Seat 2: YL_ML_GL_42 (1150)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+prude_Poux90 posts big blind 60
+Dealt to YL_ML_GL_42 [5s 9h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 120 to 180
+prude_Poux90 calls 120
+*** FLOP *** [3c Tc 7d]
+prude_Poux90 bets 170 and is all-in
+YL_ML_GL_42 calls 170
+*** TURN *** [3c Tc 7d][Th]
+*** RIVER *** [3c Tc 7d Th][2h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [5s 9h] (One pair : Tens)
+prude_Poux90 shows [4d Ac] (One pair : Tens)
+prude_Poux90 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [3c Tc 7d Th 2h]
+Seat 1: prude_Poux90 (big blind) showed [4d Ac] and won 700 with One pair : Tens
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [5s 9h] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2608506167697080321-17-1669994239 - Holdem no limit (30/60) - 2022/12/02 15:17:19 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: prude_Poux90 (700)
+Seat 2: YL_ML_GL_42 (800)
+*** ANTE/BLINDS ***
+prude_Poux90 posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [9s 7h]
+*** PRE-FLOP *** 
+prude_Poux90 calls 30
+YL_ML_GL_42 checks
+*** FLOP *** [5s 9c Qc]
+YL_ML_GL_42 bets 120
+prude_Poux90 calls 120
+*** TURN *** [5s 9c Qc][5c]
+YL_ML_GL_42 bets 620 and is all-in
+prude_Poux90 calls 520 and is all-in
+*** RIVER *** [5s 9c Qc 5c][Ks]
+*** SHOW DOWN ***
+prude_Poux90 shows [7c 2c] (Flush Queen high)
+YL_ML_GL_42 shows [9s 7h] (Two pairs : 9 and 5)
+YL_ML_GL_42 collected 100 from side pot 1
+prude_Poux90 collected 1400 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [5s 9c Qc 5c Ks]
+Seat 1: prude_Poux90 (small blind) (button) showed [7c 2c] and won 1400 with Flush Queen high
+Seat 2: YL_ML_GL_42 (big blind) showed [9s 7h] and won 100 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2608506167697080321-18-1669994257 - Holdem no limit (30/60) - 2022/12/02 15:17:37 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: prude_Poux90 (1400)
+Seat 2: YL_ML_GL_42 (100)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+prude_Poux90 posts big blind 60
+Dealt to YL_ML_GL_42 [2d 5c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+prude_Poux90 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: prude_Poux90 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #2608506167697080321-19-1669994261 - Holdem no limit (30/60) - 2022/12/02 15:17:41 UTC
+Table: 'Expresso(607340170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: prude_Poux90 (1430)
+Seat 2: YL_ML_GL_42 (70)
+*** ANTE/BLINDS ***
+prude_Poux90 posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [5c 8d]
+*** PRE-FLOP *** 
+prude_Poux90 calls 30
+YL_ML_GL_42 checks
+*** FLOP *** [4s 7d 7h]
+YL_ML_GL_42 checks
+prude_Poux90 bets 60
+YL_ML_GL_42 calls 10 and is all-in
+*** TURN *** [4s 7d 7h][4c]
+*** RIVER *** [4s 7d 7h 4c][As]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [5c 8d] (Two pairs : 7 and 4)
+prude_Poux90 shows [6d 6c] (Two pairs : 7 and 6)
+prude_Poux90 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [4s 7d 7h 4c As]
+Seat 1: prude_Poux90 (small blind) (button) showed [6d 6c] and won 190 with Two pairs : 7 and 6
+Seat 2: YL_ML_GL_42 (big blind) showed [5c 8d] and lost with Two pairs : 7 and 4
+
+

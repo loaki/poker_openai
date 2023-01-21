@@ -1,0 +1,3590 @@
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-1-1669476605 - Holdem no limit (25/100/200) - 2022/11/26 15:30:05 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #3 is the button
+Seat 1: Chacal . (20000, 2.25€ bounty)
+Seat 2: 000000000003 (20000, 2.25€ bounty)
+Seat 3: molinarito (20000, 2.25€ bounty)
+Seat 4: attack13000 (20000, 2.25€ bounty)
+Seat 5: RF 20 (20000, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+attack13000 posts ante 25
+RF 20 posts ante 25
+Chacal . posts ante 25
+000000000003 posts ante 25
+molinarito posts ante 25
+YL_ML_GL_42 posts ante 25
+attack13000 posts small blind 100
+RF 20 posts big blind 200
+Dealt to YL_ML_GL_42 [Qd 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Chacal . calls 200
+000000000003 raises 400 to 600
+molinarito folds
+attack13000 folds
+RF 20 folds
+Chacal . calls 400
+*** FLOP *** [2h 3c 2d]
+Chacal . checks
+000000000003 checks
+*** TURN *** [2h 3c 2d][Jd]
+Chacal . checks
+000000000003 checks
+*** RIVER *** [2h 3c 2d Jd][3s]
+Chacal . checks
+000000000003 checks
+*** SHOW DOWN ***
+Chacal . shows [6c Kc] (Two pairs : 3 and 2)
+000000000003 shows [6s Ac] (Two pairs : 3 and 2)
+000000000003 collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Board: [2h 3c 2d Jd 3s]
+Seat 1: Chacal . showed [6c Kc] and lost with Two pairs : 3 and 2
+Seat 2: 000000000003 showed [6s Ac] and won 1650 with Two pairs : 3 and 2
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-2-1669476675 - Holdem no limit (25/100/200) - 2022/11/26 15:31:15 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #4 is the button
+Seat 1: Chacal . (19375, 2.25€ bounty)
+Seat 2: 000000000003 (21025, 2.25€ bounty)
+Seat 3: molinarito (19975, 2.25€ bounty)
+Seat 4: attack13000 (19875, 2.25€ bounty)
+Seat 5: RF 20 (19775, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (19975, 2.25€ bounty)
+*** ANTE/BLINDS ***
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+Chacal . posts ante 25
+000000000003 posts ante 25
+molinarito posts ante 25
+attack13000 posts ante 25
+RF 20 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Qs 7h]
+*** PRE-FLOP *** 
+Chacal . calls 200
+000000000003 folds
+molinarito folds
+attack13000 folds
+RF 20 folds
+YL_ML_GL_42 checks
+*** FLOP *** [9c 4c Ac]
+YL_ML_GL_42 checks
+Chacal . checks
+*** TURN *** [9c 4c Ac][6h]
+YL_ML_GL_42 checks
+Chacal . checks
+*** RIVER *** [9c 4c Ac 6h][Ah]
+YL_ML_GL_42 checks
+Chacal . checks
+*** SHOW DOWN ***
+Chacal . shows [Js 8h] (One pair : Aces)
+YL_ML_GL_42 shows [Qs 7h] (One pair : Aces)
+YL_ML_GL_42 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [9c 4c Ac 6h Ah]
+Seat 1: Chacal . showed [Js 8h] and lost with One pair : Aces
+Seat 6: YL_ML_GL_42 (big blind) showed [Qs 7h] and won 650 with One pair : Aces
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-3-1669476763 - Holdem no limit (25/100/200) - 2022/11/26 15:32:43 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #5 is the button
+Seat 1: Chacal . (19150, 2.25€ bounty)
+Seat 2: mila1978 (20000, 2.25€ bounty)
+Seat 3: molinarito (19950, 2.25€ bounty)
+Seat 4: attack13000 (19850, 2.25€ bounty)
+Seat 5: RF 20 (19650, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (20400, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Chacal . posts ante 25
+mila1978 posts ante 25
+molinarito posts ante 25
+attack13000 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts small blind 100
+Chacal . posts big blind 200
+Dealt to YL_ML_GL_42 [Kh 6d]
+*** PRE-FLOP *** 
+mila1978 raises 19775 to 19975 and is all-in
+molinarito folds
+attack13000 folds
+RF 20 folds
+YL_ML_GL_42 folds
+Chacal . folds
+mila1978 collected 20425 from pot
+*** SUMMARY ***
+Total pot 20425 | No rake
+Seat 2: mila1978 won 20425
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-4-1669476783 - Holdem no limit (25/100/200) - 2022/11/26 15:33:03 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #6 is the button
+Seat 1: Chacal . (18925, 2.25€ bounty)
+Seat 2: mila1978 (20425, 2.25€ bounty)
+Seat 3: molinarito (19925, 2.25€ bounty)
+Seat 4: attack13000 (19825, 2.25€ bounty)
+Seat 5: RF 20 (19625, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (20275, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Chacal . posts ante 25
+mila1978 posts ante 25
+molinarito posts ante 25
+attack13000 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+Chacal . posts small blind 100
+mila1978 posts big blind 200
+Dealt to YL_ML_GL_42 [4c 5s]
+*** PRE-FLOP *** 
+molinarito folds
+attack13000 folds
+RF 20 folds
+YL_ML_GL_42 folds
+Chacal . folds
+mila1978 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 2: mila1978 (big blind) won 450
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-5-1669476798 - Holdem no limit (25/100/200) - 2022/11/26 15:33:18 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #1 is the button
+Seat 1: Chacal . (18800, 2.25€ bounty)
+Seat 2: mila1978 (20650, 2.25€ bounty)
+Seat 3: molinarito (19900, 2.25€ bounty)
+Seat 4: attack13000 (19800, 2.25€ bounty)
+Seat 5: RF 20 (19600, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (20250, 2.25€ bounty)
+*** ANTE/BLINDS ***
+mila1978 posts ante 25
+molinarito posts ante 25
+Chacal . posts ante 25
+attack13000 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+mila1978 posts small blind 100
+molinarito posts big blind 200
+Dealt to YL_ML_GL_42 [9d Tc]
+*** PRE-FLOP *** 
+attack13000 raises 19575 to 19775 and is all-in
+RF 20 folds
+YL_ML_GL_42 folds
+Chacal . folds
+mila1978 folds
+molinarito folds
+attack13000 collected 20225 from pot
+*** SUMMARY ***
+Total pot 20225 | No rake
+Seat 4: attack13000 won 20225
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-6-1669476820 - Holdem no limit (25/100/200) - 2022/11/26 15:33:40 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #2 is the button
+Seat 1: Chacal . (18775, 2.25€ bounty)
+Seat 2: mila1978 (20525, 2.25€ bounty)
+Seat 3: molinarito (19675, 2.25€ bounty)
+Seat 4: attack13000 (20225, 2.25€ bounty)
+Seat 5: RF 20 (19575, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (20225, 2.25€ bounty)
+*** ANTE/BLINDS ***
+molinarito posts ante 25
+attack13000 posts ante 25
+Chacal . posts ante 25
+mila1978 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+molinarito posts small blind 100
+attack13000 posts big blind 200
+Dealt to YL_ML_GL_42 [Ah 9h]
+*** PRE-FLOP *** 
+RF 20 folds
+YL_ML_GL_42 raises 400 to 600
+Chacal . folds
+mila1978 folds
+molinarito folds
+attack13000 folds
+YL_ML_GL_42 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 6: YL_ML_GL_42 won 1050
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-7-1669476844 - Holdem no limit (25/100/200) - 2022/11/26 15:34:04 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #3 is the button
+Seat 1: Chacal . (18750, 2.25€ bounty)
+Seat 2: mila1978 (20500, 2.25€ bounty)
+Seat 3: molinarito (19550, 2.25€ bounty)
+Seat 4: attack13000 (20000, 2.25€ bounty)
+Seat 5: RF 20 (19550, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (20650, 2.25€ bounty)
+*** ANTE/BLINDS ***
+attack13000 posts ante 25
+RF 20 posts ante 25
+Chacal . posts ante 25
+mila1978 posts ante 25
+molinarito posts ante 25
+YL_ML_GL_42 posts ante 25
+attack13000 posts small blind 100
+RF 20 posts big blind 200
+Dealt to YL_ML_GL_42 [Ks 3s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Chacal . folds
+mila1978 raises 400 to 600
+molinarito folds
+attack13000 folds
+RF 20 folds
+mila1978 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 2: mila1978 won 1050
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-8-1669476866 - Holdem no limit (25/100/200) - 2022/11/26 15:34:26 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #4 is the button
+Seat 2: mila1978 (20925, 2.25€ bounty)
+Seat 3: molinarito (19525, 2.25€ bounty)
+Seat 4: attack13000 (19875, 2.25€ bounty)
+Seat 5: RF 20 (19325, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (20625, 2.25€ bounty)
+*** ANTE/BLINDS ***
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+mila1978 posts ante 25
+molinarito posts ante 25
+attack13000 posts ante 25
+RF 20 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Jd 9d]
+*** PRE-FLOP *** 
+mila1978 raises 625 to 825
+molinarito folds
+attack13000 folds
+RF 20 folds
+YL_ML_GL_42 calls 625
+*** FLOP *** [Ad 8c Ks]
+YL_ML_GL_42 checks
+mila1978 bets 1219
+YL_ML_GL_42 folds
+mila1978 collected 3094 from pot
+*** SUMMARY ***
+Total pot 3094 | No rake
+Board: [Ad 8c Ks]
+Seat 2: mila1978 won 3094
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-9-1669476890 - Holdem no limit (25/100/200) - 2022/11/26 15:34:50 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #5 is the button
+Seat 1: chenicoooo (20000, 2.25€ bounty)
+Seat 2: mila1978 (21950, 2.25€ bounty)
+Seat 3: molinarito (19500, 2.25€ bounty)
+Seat 4: attack13000 (19850, 2.25€ bounty)
+Seat 5: RF 20 (19200, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (19775, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+chenicoooo posts ante 25
+mila1978 posts ante 25
+molinarito posts ante 25
+attack13000 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts small blind 100
+chenicoooo posts big blind 200
+Dealt to YL_ML_GL_42 [4s 7h]
+*** PRE-FLOP *** 
+mila1978 folds
+molinarito raises 200 to 400
+attack13000 folds
+RF 20 folds
+YL_ML_GL_42 folds
+chenicoooo calls 200
+*** FLOP *** [5h Qs 7c]
+chenicoooo checks
+molinarito checks
+*** TURN *** [5h Qs 7c][Th]
+chenicoooo checks
+molinarito bets 368
+chenicoooo folds
+molinarito collected 1418 from pot
+*** SUMMARY ***
+Total pot 1418 | No rake
+Board: [5h Qs 7c Th]
+Seat 3: molinarito won 1418
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-10-1669476918 - Holdem no limit (25/100/200) - 2022/11/26 15:35:18 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #6 is the button
+Seat 1: chenicoooo (19575, 2.25€ bounty)
+Seat 2: mila1978 (21925, 2.25€ bounty)
+Seat 4: attack13000 (19825, 2.25€ bounty)
+Seat 5: RF 20 (19175, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (19650, 2.25€ bounty)
+*** ANTE/BLINDS ***
+chenicoooo posts ante 25
+mila1978 posts ante 25
+attack13000 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+chenicoooo posts small blind 100
+mila1978 posts big blind 200
+Dealt to YL_ML_GL_42 [Ks 4c]
+*** PRE-FLOP *** 
+attack13000 raises 300 to 500
+RF 20 folds
+YL_ML_GL_42 folds
+chenicoooo folds
+mila1978 calls 300
+*** FLOP *** [8s Ts Ah]
+mila1978 checks
+attack13000 bets 713
+mila1978 calls 713
+*** TURN *** [8s Ts Ah][Kd]
+mila1978 checks
+attack13000 bets 1326
+mila1978 calls 1326
+*** RIVER *** [8s Ts Ah Kd][As]
+mila1978 bets 3447
+attack13000 calls 3447
+*** SHOW DOWN ***
+mila1978 shows [Qh 6c] (One pair : Aces)
+attack13000 shows [3d Ad] (Trips of Aces)
+attack13000 collected 12197 from pot
+*** SUMMARY ***
+Total pot 12197 | No rake
+Board: [8s Ts Ah Kd As]
+Seat 2: mila1978 (big blind) showed [Qh 6c] and lost with One pair : Aces
+Seat 4: attack13000 showed [3d Ad] and won 12197 with Trips of Aces
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-11-1669476963 - Holdem no limit (25/100/200) - 2022/11/26 15:36:03 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #1 is the button
+Seat 1: chenicoooo (19450, 2.25€ bounty)
+Seat 2: mila1978 (15914, 2.25€ bounty)
+Seat 3: Sevan28 (20000, 2.25€ bounty)
+Seat 4: attack13000 (26011, 2.25€ bounty)
+Seat 5: RF 20 (19150, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (19625, 2.25€ bounty)
+*** ANTE/BLINDS ***
+mila1978 posts ante 25
+Sevan28 posts ante 25
+chenicoooo posts ante 25
+attack13000 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+mila1978 posts small blind 100
+Sevan28 posts big blind 200
+Dealt to YL_ML_GL_42 [7h 3c]
+*** PRE-FLOP *** 
+attack13000 folds
+RF 20 folds
+YL_ML_GL_42 folds
+chenicoooo folds
+mila1978 raises 15689 to 15889 and is all-in
+Sevan28 calls 15689
+*** FLOP *** [Kc As Ah]
+*** TURN *** [Kc As Ah][2c]
+*** RIVER *** [Kc As Ah 2c][5h]
+*** SHOW DOWN ***
+mila1978 shows [8d 7d] (One pair : Aces)
+Sevan28 shows [9d Ad] (Trips of Aces)
+Sevan28 collected 31928 from pot
+*** SUMMARY ***
+Total pot 31928 | No rake
+Board: [Kc As Ah 2c 5h]
+Seat 2: mila1978 (small blind) showed [8d 7d] and lost with One pair : Aces
+Seat 3: Sevan28 (big blind) showed [9d Ad] and won 31928 with Trips of Aces
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-12-1669476984 - Holdem no limit (25/100/200) - 2022/11/26 15:36:24 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #2 is the button
+Seat 1: chenicoooo (19425, 2.25€ bounty)
+Seat 3: Sevan28 (36014, 3.37€ bounty)
+Seat 4: attack13000 (25986, 2.25€ bounty)
+Seat 5: RF 20 (19125, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (19600, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Sevan28 posts ante 25
+attack13000 posts ante 25
+chenicoooo posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+Sevan28 posts small blind 100
+attack13000 posts big blind 200
+Dealt to YL_ML_GL_42 [2c 6s]
+*** PRE-FLOP *** 
+RF 20 folds
+YL_ML_GL_42 folds
+chenicoooo folds
+Sevan28 folds
+attack13000 collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 4: attack13000 (big blind) won 425
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-13-1669476992 - Holdem no limit (25/100/200) - 2022/11/26 15:36:32 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #3 is the button
+Seat 1: chenicoooo (19400, 2.25€ bounty)
+Seat 2: xerata (20000, 2.25€ bounty)
+Seat 3: Sevan28 (35889, 3.37€ bounty)
+Seat 4: attack13000 (26186, 2.25€ bounty)
+Seat 5: RF 20 (19100, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (19575, 2.25€ bounty)
+*** ANTE/BLINDS ***
+attack13000 posts ante 25
+RF 20 posts ante 25
+chenicoooo posts ante 25
+xerata posts ante 25
+Sevan28 posts ante 25
+YL_ML_GL_42 posts ante 25
+attack13000 posts small blind 100
+RF 20 posts big blind 200
+Dealt to YL_ML_GL_42 [4c 4s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+chenicoooo folds
+xerata raises 200 to 400
+Sevan28 folds
+attack13000 folds
+RF 20 calls 200
+*** FLOP *** [Ts 5s Qh]
+RF 20 checks
+xerata bets 347
+RF 20 calls 347
+*** TURN *** [Ts 5s Qh][5c]
+RF 20 checks
+xerata checks
+*** RIVER *** [Ts 5s Qh 5c][9s]
+RF 20 checks
+xerata checks
+*** SHOW DOWN ***
+xerata shows [Ah 8s] (One pair : 5)
+RF 20 shows [9c Js] (Two pairs : 9 and 5)
+RF 20 collected 1744 from pot
+*** SUMMARY ***
+Total pot 1744 | No rake
+Board: [Ts 5s Qh 5c 9s]
+Seat 2: xerata showed [Ah 8s] and lost with One pair : 5
+Seat 5: RF 20 (big blind) showed [9c Js] and won 1744 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-14-1669477040 - Holdem no limit (25/100/200) - 2022/11/26 15:37:20 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #4 is the button
+Seat 1: chenicoooo (19375, 2.25€ bounty)
+Seat 2: xerata (19228, 2.25€ bounty)
+Seat 3: Sevan28 (35864, 3.37€ bounty)
+Seat 4: attack13000 (26061, 2.25€ bounty)
+Seat 5: RF 20 (20072, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (19550, 2.25€ bounty)
+*** ANTE/BLINDS ***
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+chenicoooo posts ante 25
+xerata posts ante 25
+Sevan28 posts ante 25
+attack13000 posts ante 25
+RF 20 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Ks 3s]
+*** PRE-FLOP *** 
+chenicoooo folds
+xerata folds
+Sevan28 raises 400 to 600
+attack13000 folds
+RF 20 folds
+YL_ML_GL_42 calls 400
+*** FLOP *** [6s Kh 2d]
+YL_ML_GL_42 bets 1160
+Sevan28 folds
+YL_ML_GL_42 collected 2610 from pot
+*** SUMMARY ***
+Total pot 2610 | No rake
+Board: [6s Kh 2d]
+Seat 6: YL_ML_GL_42 (big blind) won 2610
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-15-1669477065 - Holdem no limit (25/100/200) - 2022/11/26 15:37:45 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #5 is the button
+Seat 1: chenicoooo (19350, 2.25€ bounty)
+Seat 2: xerata (19203, 2.25€ bounty)
+Seat 3: Sevan28 (35239, 3.37€ bounty)
+Seat 4: attack13000 (26036, 2.25€ bounty)
+Seat 5: RF 20 (19947, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (20375, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+chenicoooo posts ante 25
+xerata posts ante 25
+Sevan28 posts ante 25
+attack13000 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts small blind 100
+chenicoooo posts big blind 200
+Dealt to YL_ML_GL_42 [As Qc]
+*** PRE-FLOP *** 
+xerata folds
+Sevan28 folds
+attack13000 folds
+RF 20 raises 300 to 500
+YL_ML_GL_42 calls 400
+chenicoooo folds
+*** FLOP *** [7h 5c Jc]
+YL_ML_GL_42 bets 1080
+RF 20 folds
+YL_ML_GL_42 collected 2430 from pot
+*** SUMMARY ***
+Total pot 2430 | No rake
+Board: [7h 5c Jc]
+Seat 6: YL_ML_GL_42 (small blind) won 2430
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-16-1669477113 - Holdem no limit (25/100/200) - 2022/11/26 15:38:33 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #6 is the button
+Seat 1: chenicoooo (19125, 2.25€ bounty)
+Seat 2: xerata (19178, 2.25€ bounty)
+Seat 3: Sevan28 (35214, 3.37€ bounty)
+Seat 4: attack13000 (26011, 2.25€ bounty)
+Seat 5: RF 20 (19422, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (21200, 2.25€ bounty)
+*** ANTE/BLINDS ***
+chenicoooo posts ante 25
+xerata posts ante 25
+Sevan28 posts ante 25
+attack13000 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+chenicoooo posts small blind 100
+xerata posts big blind 200
+Dealt to YL_ML_GL_42 [9d Kd]
+*** PRE-FLOP *** 
+Sevan28 folds
+attack13000 calls 200
+RF 20 folds
+YL_ML_GL_42 calls 200
+chenicoooo folds
+xerata checks
+*** FLOP *** [3c Qs Kc]
+xerata checks
+attack13000 checks
+YL_ML_GL_42 bets 680
+xerata folds
+attack13000 folds
+YL_ML_GL_42 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Board: [3c Qs Kc]
+Seat 6: YL_ML_GL_42 (button) won 1530
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-17-1669477146 - Holdem no limit (25/100/200) - 2022/11/26 15:39:06 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #1 is the button
+Seat 1: chenicoooo (19000, 2.25€ bounty)
+Seat 2: xerata (18953, 2.25€ bounty)
+Seat 3: Sevan28 (35189, 3.37€ bounty)
+Seat 4: attack13000 (25786, 2.25€ bounty)
+Seat 5: RF 20 (19397, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (21825, 2.25€ bounty)
+*** ANTE/BLINDS ***
+xerata posts ante 25
+Sevan28 posts ante 25
+chenicoooo posts ante 25
+attack13000 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+xerata posts small blind 100
+Sevan28 posts big blind 200
+Dealt to YL_ML_GL_42 [7h Qh]
+*** PRE-FLOP *** 
+attack13000 folds
+RF 20 raises 300 to 500
+YL_ML_GL_42 folds
+chenicoooo folds
+xerata folds
+Sevan28 folds
+RF 20 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 5: RF 20 won 950
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-18-1669477162 - Holdem no limit (25/100/200) - 2022/11/26 15:39:22 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #2 is the button
+Seat 1: chenicoooo (18975, 2.25€ bounty)
+Seat 2: xerata (18828, 2.25€ bounty)
+Seat 3: Sevan28 (34964, 3.37€ bounty)
+Seat 4: attack13000 (25761, 2.25€ bounty)
+Seat 5: RF 20 (19822, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (21800, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Sevan28 posts ante 25
+attack13000 posts ante 25
+chenicoooo posts ante 25
+xerata posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+Sevan28 posts small blind 100
+attack13000 posts big blind 200
+Dealt to YL_ML_GL_42 [6c 9d]
+*** PRE-FLOP *** 
+RF 20 folds
+YL_ML_GL_42 folds
+chenicoooo folds
+xerata folds
+Sevan28 folds
+attack13000 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 4: attack13000 (big blind) won 450
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-19-1669477169 - Holdem no limit (25/100/200) - 2022/11/26 15:39:29 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #3 is the button
+Seat 1: chenicoooo (18950, 2.25€ bounty)
+Seat 2: xerata (18803, 2.25€ bounty)
+Seat 3: Sevan28 (34839, 3.37€ bounty)
+Seat 4: attack13000 (25986, 2.25€ bounty)
+Seat 5: RF 20 (19797, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (21775, 2.25€ bounty)
+*** ANTE/BLINDS ***
+attack13000 posts ante 25
+RF 20 posts ante 25
+chenicoooo posts ante 25
+xerata posts ante 25
+Sevan28 posts ante 25
+YL_ML_GL_42 posts ante 25
+attack13000 posts small blind 100
+RF 20 posts big blind 200
+Dealt to YL_ML_GL_42 [7h 5h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+chenicoooo calls 200
+xerata folds
+Sevan28 calls 200
+attack13000 folds
+RF 20 checks
+*** FLOP *** [9d 2h 8s]
+RF 20 checks
+chenicoooo checks
+Sevan28 checks
+*** TURN *** [9d 2h 8s][3d]
+RF 20 checks
+chenicoooo checks
+Sevan28 checks
+*** RIVER *** [9d 2h 8s 3d][8c]
+RF 20 checks
+chenicoooo checks
+Sevan28 checks
+*** SHOW DOWN ***
+Sevan28 shows [As 5d] (One pair : 8)
+RF 20 shows [6c Jd] (One pair : 8)
+chenicoooo shows [Kc 2c] (Two pairs : 8 and 2)
+chenicoooo collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Board: [9d 2h 8s 3d 8c]
+Seat 1: chenicoooo showed [Kc 2c] and won 850 with Two pairs : 8 and 2
+Seat 3: Sevan28 (button) showed [As 5d] and lost with One pair : 8
+Seat 5: RF 20 (big blind) showed [6c Jd] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-20-1669477213 - Holdem no limit (25/100/200) - 2022/11/26 15:40:13 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #4 is the button
+Seat 1: chenicoooo (19575, 2.25€ bounty)
+Seat 2: xerata (18778, 2.25€ bounty)
+Seat 3: Sevan28 (34614, 3.37€ bounty)
+Seat 4: attack13000 (25861, 2.25€ bounty)
+Seat 5: RF 20 (19572, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (21750, 2.25€ bounty)
+*** ANTE/BLINDS ***
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+chenicoooo posts ante 25
+xerata posts ante 25
+Sevan28 posts ante 25
+attack13000 posts ante 25
+RF 20 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [9h Qh]
+*** PRE-FLOP *** 
+chenicoooo folds
+xerata raises 200 to 400
+Sevan28 folds
+attack13000 folds
+RF 20 calls 300
+YL_ML_GL_42 calls 200
+*** FLOP *** [9c Ac Ah]
+RF 20 checks
+YL_ML_GL_42 checks
+xerata checks
+*** TURN *** [9c Ac Ah][4h]
+RF 20 bets 473
+YL_ML_GL_42 calls 473
+xerata calls 473
+*** RIVER *** [9c Ac Ah 4h][8d]
+RF 20 checks
+YL_ML_GL_42 checks
+xerata checks
+*** SHOW DOWN ***
+xerata shows [7h 8h] (Two pairs : Aces and 8)
+RF 20 shows [Qd 9d] (Two pairs : Aces and 9)
+YL_ML_GL_42 shows [9h Qh] (Two pairs : Aces and 9)
+YL_ML_GL_42 collected 1385 from pot
+RF 20 collected 1384 from pot
+*** SUMMARY ***
+Total pot 2769 | No rake
+Board: [9c Ac Ah 4h 8d]
+Seat 2: xerata showed [7h 8h] and lost with Two pairs : Aces and 8
+Seat 5: RF 20 (small blind) showed [Qd 9d] and won 1384 with Two pairs : Aces and 9
+Seat 6: YL_ML_GL_42 (big blind) showed [9h Qh] and won 1385 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-21-1669477269 - Holdem no limit (25/100/200) - 2022/11/26 15:41:09 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #5 is the button
+Seat 1: chenicoooo (19550, 2.25€ bounty)
+Seat 3: Sevan28 (34589, 3.37€ bounty)
+Seat 4: attack13000 (25836, 2.25€ bounty)
+Seat 5: RF 20 (20058, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (22237, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+chenicoooo posts ante 25
+Sevan28 posts ante 25
+attack13000 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts small blind 100
+chenicoooo posts big blind 200
+Dealt to YL_ML_GL_42 [Qh 3d]
+*** PRE-FLOP *** 
+Sevan28 calls 200
+attack13000 folds
+RF 20 calls 200
+YL_ML_GL_42 folds
+chenicoooo checks
+*** FLOP *** [Jd Ad Kd]
+chenicoooo checks
+Sevan28 checks
+RF 20 checks
+*** TURN *** [Jd Ad Kd][Qc]
+chenicoooo checks
+Sevan28 checks
+RF 20 bets 413
+chenicoooo folds
+Sevan28 folds
+RF 20 collected 1238 from pot
+*** SUMMARY ***
+Total pot 1238 | No rake
+Board: [Jd Ad Kd Qc]
+Seat 5: RF 20 (button) won 1238
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-22-1669477295 - Holdem no limit (25/100/200) - 2022/11/26 15:41:35 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #6 is the button
+Seat 1: chenicoooo (19325, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (20000, 2.25€ bounty)
+Seat 3: Sevan28 (34364, 3.37€ bounty)
+Seat 4: attack13000 (25811, 2.25€ bounty)
+Seat 5: RF 20 (20658, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (22112, 2.25€ bounty)
+*** ANTE/BLINDS ***
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+attack13000 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+chenicoooo posts small blind 100
+F0.KSA.HOLD posts big blind 200
+Dealt to YL_ML_GL_42 [Td 5d]
+*** PRE-FLOP *** 
+Sevan28 folds
+attack13000 raises 300 to 500
+RF 20 folds
+YL_ML_GL_42 folds
+chenicoooo calls 400
+F0.KSA.HOLD folds
+*** FLOP *** [Kh 7d Jh]
+chenicoooo checks
+attack13000 bets 1350
+chenicoooo calls 1350
+*** TURN *** [Kh 7d Jh][4s]
+chenicoooo checks
+attack13000 bets 4050
+chenicoooo folds
+attack13000 collected 8100 from pot
+*** SUMMARY ***
+Total pot 8100 | No rake
+Board: [Kh 7d Jh 4s]
+Seat 4: attack13000 won 8100
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-23-1669477322 - Holdem no limit (25/100/200) - 2022/11/26 15:42:02 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #1 is the button
+Seat 1: chenicoooo (17450, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (19775, 2.25€ bounty)
+Seat 3: Sevan28 (34339, 3.37€ bounty)
+Seat 4: attack13000 (27986, 2.25€ bounty)
+Seat 5: RF 20 (20633, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (22087, 2.25€ bounty)
+*** ANTE/BLINDS ***
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+chenicoooo posts ante 25
+attack13000 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+F0.KSA.HOLD posts small blind 100
+Sevan28 posts big blind 200
+Dealt to YL_ML_GL_42 [6d 3c]
+*** PRE-FLOP *** 
+attack13000 folds
+RF 20 raises 300 to 500
+YL_ML_GL_42 folds
+chenicoooo calls 500
+F0.KSA.HOLD folds
+Sevan28 calls 300
+*** FLOP *** [9s 9d Jc]
+Sevan28 checks
+RF 20 checks
+chenicoooo checks
+*** TURN *** [9s 9d Jc][6s]
+Sevan28 checks
+RF 20 checks
+chenicoooo checks
+*** RIVER *** [9s 9d Jc 6s][4d]
+Sevan28 checks
+RF 20 bets 613
+chenicoooo folds
+Sevan28 folds
+RF 20 collected 2363 from pot
+*** SUMMARY ***
+Total pot 2363 | No rake
+Board: [9s 9d Jc 6s 4d]
+Seat 5: RF 20 won 2363
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-24-1669477366 - Holdem no limit (25/100/200) - 2022/11/26 15:42:46 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #2 is the button
+Seat 1: chenicoooo (16925, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (19650, 2.25€ bounty)
+Seat 3: Sevan28 (33814, 3.37€ bounty)
+Seat 4: attack13000 (27961, 2.25€ bounty)
+Seat 5: RF 20 (21858, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (22062, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Sevan28 posts ante 25
+attack13000 posts ante 25
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+Sevan28 posts small blind 100
+attack13000 posts big blind 200
+Dealt to YL_ML_GL_42 [9c 5c]
+*** PRE-FLOP *** 
+RF 20 raises 300 to 500
+YL_ML_GL_42 folds
+chenicoooo folds
+F0.KSA.HOLD folds
+Sevan28 calls 400
+attack13000 calls 300
+*** FLOP *** [7h 9d Kc]
+Sevan28 checks
+attack13000 checks
+RF 20 checks
+*** TURN *** [7h 9d Kc][4h]
+Sevan28 checks
+attack13000 bets 413
+RF 20 folds
+Sevan28 folds
+attack13000 collected 2063 from pot
+*** SUMMARY ***
+Total pot 2063 | No rake
+Board: [7h 9d Kc 4h]
+Seat 4: attack13000 (big blind) won 2063
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-25-1669477417 - Holdem no limit (25/100/200) - 2022/11/26 15:43:37 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #3 is the button
+Seat 1: chenicoooo (16900, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (19625, 2.25€ bounty)
+Seat 3: Sevan28 (33289, 3.37€ bounty)
+Seat 4: attack13000 (29086, 2.25€ bounty)
+Seat 5: RF 20 (21333, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (22037, 2.25€ bounty)
+*** ANTE/BLINDS ***
+attack13000 posts ante 25
+RF 20 posts ante 25
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+YL_ML_GL_42 posts ante 25
+attack13000 posts small blind 100
+RF 20 posts big blind 200
+Dealt to YL_ML_GL_42 [4d 6c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+chenicoooo calls 200
+F0.KSA.HOLD folds
+Sevan28 raises 400 to 600
+attack13000 folds
+RF 20 folds
+chenicoooo calls 400
+*** FLOP *** [7d 5s 8s]
+chenicoooo checks
+Sevan28 bets 1650
+chenicoooo folds
+Sevan28 collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Board: [7d 5s 8s]
+Seat 3: Sevan28 (button) won 3300
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-26-1669477452 - Holdem no limit (25/100/200) - 2022/11/26 15:44:12 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #4 is the button
+Seat 1: chenicoooo (16275, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (19600, 2.25€ bounty)
+Seat 3: Sevan28 (34314, 3.37€ bounty)
+Seat 4: attack13000 (28961, 2.25€ bounty)
+Seat 5: RF 20 (21108, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (22012, 2.25€ bounty)
+*** ANTE/BLINDS ***
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+attack13000 posts ante 25
+RF 20 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [3d 3c]
+*** PRE-FLOP *** 
+chenicoooo folds
+F0.KSA.HOLD folds
+Sevan28 raises 650 to 850
+attack13000 folds
+RF 20 calls 750
+YL_ML_GL_42 calls 650
+*** FLOP *** [6c 2s 7c]
+RF 20 checks
+YL_ML_GL_42 bets 1755
+Sevan28 folds
+RF 20 folds
+YL_ML_GL_42 collected 4455 from pot
+*** SUMMARY ***
+Total pot 4455 | No rake
+Board: [6c 2s 7c]
+Seat 6: YL_ML_GL_42 (big blind) won 4455
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-27-1669477483 - Holdem no limit (25/100/200) - 2022/11/26 15:44:43 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #5 is the button
+Seat 1: chenicoooo (16250, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (19575, 2.25€ bounty)
+Seat 3: Sevan28 (33439, 3.37€ bounty)
+Seat 4: attack13000 (28936, 2.25€ bounty)
+Seat 5: RF 20 (20233, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (23837, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+attack13000 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts small blind 100
+chenicoooo posts big blind 200
+Dealt to YL_ML_GL_42 [7c Kc]
+*** PRE-FLOP *** 
+F0.KSA.HOLD folds
+Sevan28 folds
+attack13000 calls 200
+RF 20 folds
+YL_ML_GL_42 calls 100
+chenicoooo checks
+*** FLOP *** [Ts 9d 6c]
+YL_ML_GL_42 checks
+chenicoooo checks
+attack13000 checks
+*** TURN *** [Ts 9d 6c][4s]
+YL_ML_GL_42 checks
+chenicoooo checks
+attack13000 checks
+*** RIVER *** [Ts 9d 6c 4s][Jh]
+YL_ML_GL_42 checks
+chenicoooo checks
+attack13000 checks
+*** SHOW DOWN ***
+chenicoooo shows [5d 7s] (High card : Jack)
+attack13000 shows [3d Kd] (High card : King)
+YL_ML_GL_42 shows [7c Kc] (High card : King)
+YL_ML_GL_42 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [Ts 9d 6c 4s Jh]
+Seat 1: chenicoooo (big blind) showed [5d 7s] and lost with High card : Jack
+Seat 4: attack13000 showed [3d Kd] and lost with High card : King
+Seat 6: YL_ML_GL_42 (small blind) showed [7c Kc] and won 750 with High card : King
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-28-1669477530 - Holdem no limit (25/100/200) - 2022/11/26 15:45:30 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #6 is the button
+Seat 1: chenicoooo (16025, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (19550, 2.25€ bounty)
+Seat 3: Sevan28 (33414, 3.37€ bounty)
+Seat 4: attack13000 (28711, 2.25€ bounty)
+Seat 5: RF 20 (20208, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (24362, 2.25€ bounty)
+*** ANTE/BLINDS ***
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+attack13000 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+chenicoooo posts small blind 100
+F0.KSA.HOLD posts big blind 200
+Dealt to YL_ML_GL_42 [8c 6d]
+*** PRE-FLOP *** 
+Sevan28 folds
+attack13000 folds
+RF 20 folds
+YL_ML_GL_42 folds
+chenicoooo calls 100
+F0.KSA.HOLD checks
+*** FLOP *** [Kh 3c Qs]
+chenicoooo bets 200
+F0.KSA.HOLD calls 200
+*** TURN *** [Kh 3c Qs][9s]
+chenicoooo bets 200
+F0.KSA.HOLD folds
+chenicoooo collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | No rake
+Board: [Kh 3c Qs 9s]
+Seat 1: chenicoooo (small blind) won 1150
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-29-1669477553 - Holdem no limit (25/100/200) - 2022/11/26 15:45:53 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #1 is the button
+Seat 1: chenicoooo (16550, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (19125, 2.25€ bounty)
+Seat 3: Sevan28 (33389, 3.37€ bounty)
+Seat 4: attack13000 (28686, 2.25€ bounty)
+Seat 5: RF 20 (20183, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (24337, 2.25€ bounty)
+*** ANTE/BLINDS ***
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+chenicoooo posts ante 25
+attack13000 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+F0.KSA.HOLD posts small blind 100
+Sevan28 posts big blind 200
+Dealt to YL_ML_GL_42 [4c Kc]
+*** PRE-FLOP *** 
+attack13000 folds
+RF 20 folds
+YL_ML_GL_42 folds
+chenicoooo calls 200
+F0.KSA.HOLD calls 100
+Sevan28 checks
+*** FLOP *** [8c Ah 6h]
+F0.KSA.HOLD checks
+Sevan28 checks
+chenicoooo checks
+*** TURN *** [8c Ah 6h][9c]
+F0.KSA.HOLD bets 800
+Sevan28 folds
+chenicoooo folds
+F0.KSA.HOLD collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [8c Ah 6h 9c]
+Seat 2: F0.KSA.HOLD (small blind) won 1550
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-30-1669477584 - Holdem no limit (25/100/200) - 2022/11/26 15:46:24 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #2 is the button
+Seat 1: chenicoooo (16325, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (19650, 2.25€ bounty)
+Seat 3: Sevan28 (33164, 3.37€ bounty)
+Seat 4: attack13000 (28661, 2.25€ bounty)
+Seat 5: RF 20 (20158, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (24312, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Sevan28 posts ante 25
+attack13000 posts ante 25
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+Sevan28 posts small blind 100
+attack13000 posts big blind 200
+Dealt to YL_ML_GL_42 [7d Ks]
+*** PRE-FLOP *** 
+RF 20 folds
+YL_ML_GL_42 folds
+chenicoooo folds
+F0.KSA.HOLD folds
+Sevan28 raises 550 to 750
+attack13000 folds
+Sevan28 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | No rake
+Seat 3: Sevan28 (small blind) won 1100
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-31-1669477599 - Holdem no limit (25/100/200) - 2022/11/26 15:46:39 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #3 is the button
+Seat 1: chenicoooo (16300, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (19625, 2.25€ bounty)
+Seat 3: Sevan28 (33489, 3.37€ bounty)
+Seat 4: attack13000 (28436, 2.25€ bounty)
+Seat 5: RF 20 (20133, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (24287, 2.25€ bounty)
+*** ANTE/BLINDS ***
+attack13000 posts ante 25
+RF 20 posts ante 25
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+YL_ML_GL_42 posts ante 25
+attack13000 posts small blind 100
+RF 20 posts big blind 200
+Dealt to YL_ML_GL_42 [7c 6s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+chenicoooo calls 200
+F0.KSA.HOLD raises 800 to 1000
+Sevan28 folds
+attack13000 folds
+RF 20 calls 800
+chenicoooo calls 800
+*** FLOP *** [Jh 7h 8c]
+RF 20 checks
+chenicoooo checks
+F0.KSA.HOLD checks
+*** TURN *** [Jh 7h 8c][4h]
+RF 20 bets 1625
+chenicoooo folds
+F0.KSA.HOLD calls 1625
+*** RIVER *** [Jh 7h 8c 4h][Qc]
+RF 20 bets 3250
+F0.KSA.HOLD raises 13725 to 16975 and is all-in
+RF 20 calls 13725
+*** SHOW DOWN ***
+RF 20 shows [9h Th] (Flush Jack high)
+F0.KSA.HOLD shows [Qh Ah] (Flush Ace high)
+F0.KSA.HOLD collected 40450 from pot
+*** SUMMARY ***
+Total pot 40450 | No rake
+Board: [Jh 7h 8c 4h Qc]
+Seat 2: F0.KSA.HOLD showed [Qh Ah] and won 40450 with Flush Ace high
+Seat 5: RF 20 (big blind) showed [9h Th] and lost with Flush Jack high
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-32-1669477690 - Holdem no limit (25/100/200) - 2022/11/26 15:48:10 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #4 is the button
+Seat 1: chenicoooo (15275, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (40450, 2.25€ bounty)
+Seat 3: Sevan28 (33464, 3.37€ bounty)
+Seat 4: attack13000 (28311, 2.25€ bounty)
+Seat 5: RF 20 (508, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (24262, 2.25€ bounty)
+*** ANTE/BLINDS ***
+RF 20 posts ante 25
+YL_ML_GL_42 posts ante 25
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+attack13000 posts ante 25
+RF 20 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [3h 8c]
+*** PRE-FLOP *** 
+chenicoooo folds
+F0.KSA.HOLD folds
+Sevan28 folds
+attack13000 raises 300 to 500
+RF 20 calls 383 and is all-in
+YL_ML_GL_42 folds
+*** FLOP *** [4d 3s 9h]
+*** TURN *** [4d 3s 9h][Ah]
+*** RIVER *** [4d 3s 9h Ah][Qh]
+*** SHOW DOWN ***
+attack13000 shows [9s Js] (One pair : 9)
+RF 20 shows [9c 4h] (Two pairs : 9 and 4)
+RF 20 collected 1316 from main pot
+attack13000 collected 17 from side pot 1
+*** SUMMARY ***
+Total pot 1333 | No rake
+Board: [4d 3s 9h Ah Qh]
+Seat 4: attack13000 (button) showed [9s Js] and won 17 with One pair : 9
+Seat 5: RF 20 (small blind) showed [9c 4h] and won 1316 with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-33-1669477716 - Holdem no limit (25/100/200) - 2022/11/26 15:48:36 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #5 is the button
+Seat 1: chenicoooo (15250, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (40425, 2.25€ bounty)
+Seat 3: Sevan28 (33439, 3.37€ bounty)
+Seat 4: attack13000 (27803, 2.25€ bounty)
+Seat 5: RF 20 (1316, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (24037, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+attack13000 posts ante 25
+RF 20 posts ante 25
+YL_ML_GL_42 posts small blind 100
+chenicoooo posts big blind 200
+Dealt to YL_ML_GL_42 [3h Js]
+*** PRE-FLOP *** 
+F0.KSA.HOLD folds
+Sevan28 raises 400 to 600
+attack13000 calls 600
+RF 20 raises 691 to 1291 and is all-in
+YL_ML_GL_42 folds
+chenicoooo folds
+Sevan28 calls 691
+attack13000 calls 691
+*** FLOP *** [Qc 6d Td]
+Sevan28 bets 4323
+attack13000 calls 4323
+*** TURN *** [Qc 6d Td][7d]
+Sevan28 checks
+attack13000 bets 12969
+Sevan28 folds
+*** RIVER *** [Qc 6d Td 7d][Qh]
+*** SHOW DOWN ***
+RF 20 shows [Ad 9h] (One pair : Queens)
+attack13000 shows [4d 8d] (Flush Ten high)
+attack13000 collected 25938 from pot
+*** SUMMARY ***
+Total pot 25938 | No rake
+Board: [Qc 6d Td 7d Qh]
+Seat 4: attack13000 showed [4d 8d] and won 25938 with Flush Ten high
+Seat 5: RF 20 (button) showed [Ad 9h] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-34-1669477750 - Holdem no limit (25/100/200) - 2022/11/26 15:49:10 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #6 is the button
+Seat 1: chenicoooo (15025, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (40400, 2.25€ bounty)
+Seat 3: Sevan28 (27800, 3.37€ bounty)
+Seat 4: attack13000 (35133, 3.37€ bounty)
+Seat 6: YL_ML_GL_42 (23912, 2.25€ bounty)
+*** ANTE/BLINDS ***
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+attack13000 posts ante 25
+YL_ML_GL_42 posts ante 25
+chenicoooo posts small blind 100
+F0.KSA.HOLD posts big blind 200
+Dealt to YL_ML_GL_42 [5h 8c]
+*** PRE-FLOP *** 
+Sevan28 folds
+attack13000 folds
+YL_ML_GL_42 folds
+chenicoooo calls 100
+F0.KSA.HOLD checks
+*** FLOP *** [Ac Kc 6c]
+chenicoooo checks
+F0.KSA.HOLD bets 525
+chenicoooo folds
+F0.KSA.HOLD collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [Ac Kc 6c]
+Seat 2: F0.KSA.HOLD (big blind) won 1050
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-35-1669477770 - Holdem no limit (25/100/200) - 2022/11/26 15:49:30 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #1 is the button
+Seat 1: chenicoooo (14800, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (40700, 2.25€ bounty)
+Seat 3: Sevan28 (27775, 3.37€ bounty)
+Seat 4: attack13000 (35108, 3.37€ bounty)
+Seat 5: 59minutos (20000, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (23887, 2.25€ bounty)
+*** ANTE/BLINDS ***
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+chenicoooo posts ante 25
+attack13000 posts ante 25
+59minutos posts ante 25
+YL_ML_GL_42 posts ante 25
+F0.KSA.HOLD posts small blind 100
+Sevan28 posts big blind 200
+Dealt to YL_ML_GL_42 [6d Js]
+*** PRE-FLOP *** 
+attack13000 folds
+59minutos raises 200 to 400
+YL_ML_GL_42 folds
+chenicoooo raises 200 to 600
+F0.KSA.HOLD folds
+Sevan28 folds
+59minutos calls 200
+*** FLOP *** [6c Qs 7d]
+59minutos checks
+chenicoooo bets 200
+59minutos calls 200
+*** TURN *** [6c Qs 7d][Th]
+59minutos checks
+chenicoooo checks
+*** RIVER *** [6c Qs 7d Th][Kc]
+59minutos bets 3600
+chenicoooo folds
+59minutos collected 5650 from pot
+*** SUMMARY ***
+Total pot 5650 | No rake
+Board: [6c Qs 7d Th Kc]
+Seat 5: 59minutos won 5650
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-36-1669477839 - Holdem no limit (25/100/200) - 2022/11/26 15:50:39 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #2 is the button
+Seat 1: chenicoooo (13975, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (40575, 2.25€ bounty)
+Seat 3: Sevan28 (27550, 3.37€ bounty)
+Seat 4: attack13000 (35083, 3.37€ bounty)
+Seat 5: 59minutos (21225, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (23862, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Sevan28 posts ante 25
+attack13000 posts ante 25
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+59minutos posts ante 25
+YL_ML_GL_42 posts ante 25
+Sevan28 posts small blind 100
+attack13000 posts big blind 200
+Dealt to YL_ML_GL_42 [Jh 6s]
+*** PRE-FLOP *** 
+59minutos raises 200 to 400
+YL_ML_GL_42 folds
+chenicoooo calls 400
+F0.KSA.HOLD folds
+Sevan28 calls 300
+attack13000 calls 200
+*** FLOP *** [4h 9c Qd]
+Sevan28 checks
+attack13000 bets 1750
+59minutos folds
+chenicoooo folds
+Sevan28 folds
+attack13000 collected 3500 from pot
+*** SUMMARY ***
+Total pot 3500 | No rake
+Board: [4h 9c Qd]
+Seat 4: attack13000 (big blind) won 3500
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-37-1669477870 - Holdem no limit (25/100/200) - 2022/11/26 15:51:10 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #3 is the button
+Seat 1: chenicoooo (13550, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (40550, 2.25€ bounty)
+Seat 3: Sevan28 (27125, 3.37€ bounty)
+Seat 4: attack13000 (36408, 3.37€ bounty)
+Seat 5: 59minutos (20800, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (23837, 2.25€ bounty)
+*** ANTE/BLINDS ***
+attack13000 posts ante 25
+59minutos posts ante 25
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+YL_ML_GL_42 posts ante 25
+attack13000 posts small blind 100
+59minutos posts big blind 200
+Dealt to YL_ML_GL_42 [5c 7h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+chenicoooo calls 200
+F0.KSA.HOLD raises 800 to 1000
+Sevan28 calls 1000
+attack13000 folds
+59minutos folds
+chenicoooo calls 800
+*** FLOP *** [6s 3s Th]
+chenicoooo checks
+F0.KSA.HOLD checks
+Sevan28 bets 1208
+chenicoooo calls 1208
+F0.KSA.HOLD folds
+*** TURN *** [6s 3s Th][6d]
+chenicoooo checks
+Sevan28 checks
+*** RIVER *** [6s 3s Th 6d][5h]
+chenicoooo checks
+Sevan28 checks
+*** SHOW DOWN ***
+Sevan28 shows [Jh Ah] (One pair : 6)
+chenicoooo shows [Ks 5s] (Two pairs : 6 and 5)
+chenicoooo collected 5866 from pot
+*** SUMMARY ***
+Total pot 5866 | No rake
+Board: [6s 3s Th 6d 5h]
+Seat 1: chenicoooo showed [Ks 5s] and won 5866 with Two pairs : 6 and 5
+Seat 3: Sevan28 (button) showed [Jh Ah] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-38-1669477931 - Holdem no limit (25/100/200) - 2022/11/26 15:52:11 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #4 is the button
+Seat 1: chenicoooo (17183, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (39525, 2.25€ bounty)
+Seat 3: Sevan28 (24892, 3.37€ bounty)
+Seat 4: attack13000 (36283, 3.37€ bounty)
+Seat 5: 59minutos (20575, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (23812, 2.25€ bounty)
+*** ANTE/BLINDS ***
+59minutos posts ante 25
+YL_ML_GL_42 posts ante 25
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+attack13000 posts ante 25
+59minutos posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Js 5d]
+*** PRE-FLOP *** 
+chenicoooo folds
+F0.KSA.HOLD folds
+Sevan28 calls 200
+attack13000 folds
+59minutos calls 100
+YL_ML_GL_42 checks
+*** FLOP *** [8s 2d 9h]
+59minutos checks
+YL_ML_GL_42 checks
+Sevan28 checks
+*** TURN *** [8s 2d 9h][7d]
+59minutos checks
+YL_ML_GL_42 checks
+Sevan28 checks
+*** RIVER *** [8s 2d 9h 7d][Qc]
+59minutos checks
+YL_ML_GL_42 checks
+Sevan28 checks
+*** SHOW DOWN ***
+59minutos shows [Jh 5s] (High card : Queen)
+YL_ML_GL_42 shows [Js 5d] (High card : Queen)
+Sevan28 shows [Ah 4s] (High card : Ace)
+Sevan28 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [8s 2d 9h 7d Qc]
+Seat 3: Sevan28 showed [Ah 4s] and won 750 with High card : Ace
+Seat 5: 59minutos (small blind) showed [Jh 5s] and lost with High card : Queen
+Seat 6: YL_ML_GL_42 (big blind) showed [Js 5d] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-39-1669477987 - Holdem no limit (25/100/200) - 2022/11/26 15:53:07 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #5 is the button
+Seat 1: chenicoooo (17158, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (39500, 2.25€ bounty)
+Seat 3: Sevan28 (25417, 3.37€ bounty)
+Seat 4: attack13000 (36258, 3.37€ bounty)
+Seat 5: 59minutos (20350, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (23587, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+attack13000 posts ante 25
+59minutos posts ante 25
+YL_ML_GL_42 posts small blind 100
+chenicoooo posts big blind 200
+Dealt to YL_ML_GL_42 [Tc 8h]
+*** PRE-FLOP *** 
+F0.KSA.HOLD raises 400 to 600
+Sevan28 folds
+attack13000 folds
+59minutos folds
+YL_ML_GL_42 folds
+chenicoooo calls 400
+*** FLOP *** [5d 9d 3h]
+chenicoooo checks
+F0.KSA.HOLD checks
+*** TURN *** [5d 9d 3h][Ah]
+chenicoooo checks
+F0.KSA.HOLD bets 1300
+chenicoooo folds
+F0.KSA.HOLD collected 2750 from pot
+*** SUMMARY ***
+Total pot 2750 | No rake
+Board: [5d 9d 3h Ah]
+Seat 2: F0.KSA.HOLD won 2750
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-40-1669478029 - Holdem no limit (25/100/200) - 2022/11/26 15:53:49 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #6 is the button
+Seat 1: chenicoooo (16533, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (40325, 2.25€ bounty)
+Seat 3: Sevan28 (25392, 3.37€ bounty)
+Seat 4: attack13000 (36233, 3.37€ bounty)
+Seat 5: 59minutos (20325, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (23462, 2.25€ bounty)
+*** ANTE/BLINDS ***
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+attack13000 posts ante 25
+59minutos posts ante 25
+YL_ML_GL_42 posts ante 25
+chenicoooo posts small blind 100
+F0.KSA.HOLD posts big blind 200
+Dealt to YL_ML_GL_42 [2d 6d]
+*** PRE-FLOP *** 
+Sevan28 raises 650 to 850
+attack13000 calls 850
+59minutos folds
+YL_ML_GL_42 folds
+chenicoooo folds
+F0.KSA.HOLD folds
+*** FLOP *** [4h 4c Jc]
+Sevan28 bets 2150
+attack13000 calls 2150
+*** TURN *** [4h 4c Jc][9h]
+Sevan28 bets 22367 and is all-in
+attack13000 calls 22367
+*** RIVER *** [4h 4c Jc 9h][9c]
+*** SHOW DOWN ***
+attack13000 shows [Ac 3c] (Flush Ace high)
+Sevan28 shows [9d 7h] (Full of 9 and 4)
+Sevan28 collected 51184 from pot
+*** SUMMARY ***
+Total pot 51184 | No rake
+Board: [4h 4c Jc 9h 9c]
+Seat 3: Sevan28 showed [9d 7h] and won 51184 with Full of 9 and 4
+Seat 4: attack13000 showed [Ac 3c] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-41-1669478059 - Holdem no limit (25/100/200) - 2022/11/26 15:54:19 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #1 is the button
+Seat 1: chenicoooo (16408, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (40100, 2.25€ bounty)
+Seat 3: Sevan28 (51184, 3.37€ bounty)
+Seat 4: attack13000 (10841, 3.37€ bounty)
+Seat 5: 59minutos (20300, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (23437, 2.25€ bounty)
+*** ANTE/BLINDS ***
+F0.KSA.HOLD posts ante 25
+Sevan28 posts ante 25
+chenicoooo posts ante 25
+attack13000 posts ante 25
+59minutos posts ante 25
+YL_ML_GL_42 posts ante 25
+F0.KSA.HOLD posts small blind 100
+Sevan28 posts big blind 200
+Dealt to YL_ML_GL_42 [4h 5h]
+*** PRE-FLOP *** 
+attack13000 raises 10616 to 10816 and is all-in
+59minutos folds
+YL_ML_GL_42 folds
+chenicoooo folds
+F0.KSA.HOLD folds
+Sevan28 raises 40343 to 51159 and is all-in
+*** FLOP *** [4d Kd 2s]
+*** TURN *** [4d Kd 2s][7d]
+*** RIVER *** [4d Kd 2s 7d][Qc]
+*** SHOW DOWN ***
+Sevan28 shows [Ah Jd] (High card : Ace)
+attack13000 shows [As Qs] (One pair : Queens)
+attack13000 collected 21882 from main pot
+Sevan28 collected 40343 from side pot 1
+*** SUMMARY ***
+Total pot 62225 | No rake
+Board: [4d Kd 2s 7d Qc]
+Seat 3: Sevan28 (big blind) showed [Ah Jd] and won 40343 with High card : Ace
+Seat 4: attack13000 showed [As Qs] and won 21882 with One pair : Queens
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2553204993427505194-42-1669478079 - Holdem no limit (25/100/200) - 2022/11/26 15:54:39 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #2 is the button
+Seat 1: chenicoooo (16383, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (39975, 2.25€ bounty)
+Seat 3: Sevan28 (40343, 3.37€ bounty)
+Seat 4: attack13000 (21882, 3.37€ bounty)
+Seat 5: 59minutos (20275, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (23412, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Sevan28 posts ante 25
+attack13000 posts ante 25
+chenicoooo posts ante 25
+F0.KSA.HOLD posts ante 25
+59minutos posts ante 25
+YL_ML_GL_42 posts ante 25
+Sevan28 posts small blind 100
+attack13000 posts big blind 200
+Dealt to YL_ML_GL_42 [2h 8d]
+*** PRE-FLOP *** 
+59minutos raises 240 to 440
+YL_ML_GL_42 folds
+chenicoooo folds
+F0.KSA.HOLD calls 440
+Sevan28 calls 340
+attack13000 calls 240
+*** FLOP *** [Qs 7s Kd]
+Sevan28 checks
+attack13000 bets 478
+59minutos calls 478
+F0.KSA.HOLD folds
+Sevan28 calls 478
+*** TURN *** [Qs 7s Kd][7h]
+Sevan28 checks
+attack13000 bets 836
+59minutos calls 836
+Sevan28 calls 836
+*** RIVER *** [Qs 7s Kd 7h][Ad]
+Sevan28 checks
+attack13000 checks
+59minutos bets 5852
+Sevan28 folds
+attack13000 folds
+59minutos collected 11704 from pot
+*** SUMMARY ***
+Total pot 11704 | No rake
+Board: [Qs 7s Kd 7h Ad]
+Seat 5: 59minutos won 11704
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2553204993427505194-43-1669478463 - Holdem no limit (30/125/250) - 2022/11/26 16:01:03 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #3 is the button
+Seat 1: chenicoooo (16358, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (39510, 2.25€ bounty)
+Seat 3: Sevan28 (38564, 3.37€ bounty)
+Seat 4: attack13000 (20103, 3.37€ bounty)
+Seat 5: 59minutos (24348, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (23387, 2.25€ bounty)
+*** ANTE/BLINDS ***
+attack13000 posts ante 30
+59minutos posts ante 30
+chenicoooo posts ante 30
+F0.KSA.HOLD posts ante 30
+Sevan28 posts ante 30
+YL_ML_GL_42 posts ante 30
+attack13000 posts small blind 125
+59minutos posts big blind 250
+Dealt to YL_ML_GL_42 [7c Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+chenicoooo folds
+F0.KSA.HOLD raises 500 to 750
+Sevan28 folds
+attack13000 folds
+59minutos folds
+F0.KSA.HOLD collected 1305 from pot
+*** SUMMARY ***
+Total pot 1305 | No rake
+Seat 2: F0.KSA.HOLD won 1305
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2553204993427505194-44-1669478493 - Holdem no limit (30/125/250) - 2022/11/26 16:01:33 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #4 is the button
+Seat 1: chenicoooo (16328, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (40035, 2.25€ bounty)
+Seat 3: Sevan28 (38534, 3.37€ bounty)
+Seat 4: attack13000 (19948, 3.37€ bounty)
+Seat 5: 59minutos (24068, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (23357, 2.25€ bounty)
+*** ANTE/BLINDS ***
+59minutos posts ante 30
+YL_ML_GL_42 posts ante 30
+chenicoooo posts ante 30
+F0.KSA.HOLD posts ante 30
+Sevan28 posts ante 30
+attack13000 posts ante 30
+59minutos posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [3h Js]
+*** PRE-FLOP *** 
+chenicoooo calls 250
+F0.KSA.HOLD folds
+Sevan28 calls 250
+attack13000 folds
+59minutos calls 125
+YL_ML_GL_42 checks
+*** FLOP *** [2h 3s Kc]
+59minutos checks
+YL_ML_GL_42 checks
+chenicoooo checks
+Sevan28 checks
+*** TURN *** [2h 3s Kc][Qs]
+59minutos bets 920
+YL_ML_GL_42 folds
+chenicoooo folds
+Sevan28 folds
+59minutos collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Board: [2h 3s Kc Qs]
+Seat 5: 59minutos (small blind) won 2100
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2553204993427505194-45-1669478526 - Holdem no limit (30/125/250) - 2022/11/26 16:02:06 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #5 is the button
+Seat 1: chenicoooo (16048, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (40005, 2.25€ bounty)
+Seat 3: Sevan28 (38254, 3.37€ bounty)
+Seat 4: attack13000 (19918, 3.37€ bounty)
+Seat 5: 59minutos (24968, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (23077, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 30
+chenicoooo posts ante 30
+F0.KSA.HOLD posts ante 30
+Sevan28 posts ante 30
+attack13000 posts ante 30
+59minutos posts ante 30
+YL_ML_GL_42 posts small blind 125
+chenicoooo posts big blind 250
+Dealt to YL_ML_GL_42 [Tc 6c]
+*** PRE-FLOP *** 
+F0.KSA.HOLD raises 500 to 750
+Sevan28 calls 750
+attack13000 folds
+59minutos raises 3500 to 4250
+YL_ML_GL_42 folds
+chenicoooo folds
+F0.KSA.HOLD calls 3500
+Sevan28 folds
+*** FLOP *** [Ad Jc 3d]
+F0.KSA.HOLD checks
+59minutos bets 7648
+F0.KSA.HOLD raises 28077 to 35725 and is all-in
+59minutos calls 13040 and is all-in
+*** TURN *** [Ad Jc 3d][6d]
+*** RIVER *** [Ad Jc 3d 6d][5d]
+*** SHOW DOWN ***
+F0.KSA.HOLD shows [Ac Qc] (One pair : Aces)
+59minutos shows [Kh As] (One pair : Aces)
+59minutos collected 51181 from main pot
+F0.KSA.HOLD collected 15037 from side pot 1
+*** SUMMARY ***
+Total pot 66218 | No rake
+Board: [Ad Jc 3d 6d 5d]
+Seat 2: F0.KSA.HOLD showed [Ac Qc] and won 15037 with One pair : Aces
+Seat 5: 59minutos (button) showed [Kh As] and won 51181 with One pair : Aces
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2553204993427505194-46-1669478574 - Holdem no limit (30/125/250) - 2022/11/26 16:02:54 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #6 is the button
+Seat 1: chenicoooo (15768, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (15037, 2.25€ bounty)
+Seat 3: Sevan28 (37474, 3.37€ bounty)
+Seat 4: attack13000 (19888, 3.37€ bounty)
+Seat 5: 59minutos (51181, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (22922, 2.25€ bounty)
+*** ANTE/BLINDS ***
+chenicoooo posts ante 30
+F0.KSA.HOLD posts ante 30
+Sevan28 posts ante 30
+attack13000 posts ante 30
+59minutos posts ante 30
+YL_ML_GL_42 posts ante 30
+chenicoooo posts small blind 125
+F0.KSA.HOLD posts big blind 250
+Dealt to YL_ML_GL_42 [Kd 2d]
+*** PRE-FLOP *** 
+Sevan28 folds
+attack13000 raises 313 to 563
+59minutos folds
+YL_ML_GL_42 folds
+chenicoooo calls 438
+F0.KSA.HOLD calls 313
+*** FLOP *** [4s Kh 4d]
+chenicoooo checks
+F0.KSA.HOLD checks
+attack13000 bets 467
+chenicoooo folds
+F0.KSA.HOLD folds
+attack13000 collected 2336 from pot
+*** SUMMARY ***
+Total pot 2336 | No rake
+Board: [4s Kh 4d]
+Seat 4: attack13000 won 2336
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2553204993427505194-47-1669478607 - Holdem no limit (30/125/250) - 2022/11/26 16:03:27 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #1 is the button
+Seat 1: chenicoooo (15175, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (14444, 2.25€ bounty)
+Seat 3: Sevan28 (37444, 3.37€ bounty)
+Seat 4: attack13000 (21164, 3.37€ bounty)
+Seat 5: 59minutos (51151, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (22892, 2.25€ bounty)
+*** ANTE/BLINDS ***
+F0.KSA.HOLD posts ante 30
+Sevan28 posts ante 30
+chenicoooo posts ante 30
+attack13000 posts ante 30
+59minutos posts ante 30
+YL_ML_GL_42 posts ante 30
+F0.KSA.HOLD posts small blind 125
+Sevan28 posts big blind 250
+Dealt to YL_ML_GL_42 [5d Jh]
+*** PRE-FLOP *** 
+attack13000 folds
+59minutos folds
+YL_ML_GL_42 folds
+chenicoooo folds
+F0.KSA.HOLD folds
+Sevan28 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Seat 3: Sevan28 (big blind) won 555
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2553204993427505194-48-1669478620 - Holdem no limit (30/125/250) - 2022/11/26 16:03:40 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #2 is the button
+Seat 1: chenicoooo (15145, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (14289, 2.25€ bounty)
+Seat 3: Sevan28 (37719, 3.37€ bounty)
+Seat 4: attack13000 (21134, 3.37€ bounty)
+Seat 5: 59minutos (51121, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (22862, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Sevan28 posts ante 30
+attack13000 posts ante 30
+chenicoooo posts ante 30
+F0.KSA.HOLD posts ante 30
+59minutos posts ante 30
+YL_ML_GL_42 posts ante 30
+Sevan28 posts small blind 125
+attack13000 posts big blind 250
+Dealt to YL_ML_GL_42 [Kc 8d]
+*** PRE-FLOP *** 
+59minutos folds
+YL_ML_GL_42 folds
+chenicoooo raises 805 to 1055
+F0.KSA.HOLD folds
+Sevan28 calls 930
+attack13000 folds
+*** FLOP *** [Jc Qc Ks]
+Sevan28 checks
+chenicoooo checks
+*** TURN *** [Jc Qc Ks][3d]
+Sevan28 checks
+chenicoooo checks
+*** RIVER *** [Jc Qc Ks 3d][Tc]
+Sevan28 bets 1651
+chenicoooo calls 1651
+*** SHOW DOWN ***
+chenicoooo shows [Ac Qs] (Straight Ace high)
+Sevan28 shows [6h Ah] (Straight Ace high)
+Sevan28 collected 2921 from pot
+chenicoooo collected 2921 from pot
+*** SUMMARY ***
+Total pot 5842 | No rake
+Board: [Jc Qc Ks 3d Tc]
+Seat 1: chenicoooo showed [Ac Qs] and won 2921 with Straight Ace high
+Seat 3: Sevan28 (small blind) showed [6h Ah] and won 2921 with Straight Ace high
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2553204993427505194-49-1669478660 - Holdem no limit (30/125/250) - 2022/11/26 16:04:20 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #3 is the button
+Seat 1: chenicoooo (15330, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (14259, 2.25€ bounty)
+Seat 3: Sevan28 (37904, 3.37€ bounty)
+Seat 4: attack13000 (20854, 3.37€ bounty)
+Seat 5: 59minutos (51091, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (22832, 2.25€ bounty)
+*** ANTE/BLINDS ***
+attack13000 posts ante 30
+59minutos posts ante 30
+chenicoooo posts ante 30
+F0.KSA.HOLD posts ante 30
+Sevan28 posts ante 30
+YL_ML_GL_42 posts ante 30
+attack13000 posts small blind 125
+59minutos posts big blind 250
+Dealt to YL_ML_GL_42 [2d Td]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+chenicoooo calls 250
+F0.KSA.HOLD folds
+Sevan28 folds
+attack13000 folds
+59minutos checks
+*** FLOP *** [Qs 2c Ks]
+59minutos checks
+chenicoooo checks
+*** TURN *** [Qs 2c Ks][8d]
+59minutos checks
+chenicoooo checks
+*** RIVER *** [Qs 2c Ks 8d][4s]
+59minutos checks
+chenicoooo checks
+*** SHOW DOWN ***
+59minutos shows [3d 9s] (High card : King)
+chenicoooo shows [Ac 4h] (One pair : 4)
+chenicoooo collected 805 from pot
+*** SUMMARY ***
+Total pot 805 | No rake
+Board: [Qs 2c Ks 8d 4s]
+Seat 1: chenicoooo showed [Ac 4h] and won 805 with One pair : 4
+Seat 5: 59minutos (big blind) showed [3d 9s] and lost with High card : King
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2553204993427505194-50-1669478694 - Holdem no limit (30/125/250) - 2022/11/26 16:04:54 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #4 is the button
+Seat 1: chenicoooo (15855, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (14229, 2.25€ bounty)
+Seat 3: Sevan28 (37874, 3.37€ bounty)
+Seat 4: attack13000 (20699, 3.37€ bounty)
+Seat 5: 59minutos (50811, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (22802, 2.25€ bounty)
+*** ANTE/BLINDS ***
+59minutos posts ante 30
+YL_ML_GL_42 posts ante 30
+chenicoooo posts ante 30
+F0.KSA.HOLD posts ante 30
+Sevan28 posts ante 30
+attack13000 posts ante 30
+59minutos posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [9d 4c]
+*** PRE-FLOP *** 
+chenicoooo folds
+F0.KSA.HOLD folds
+Sevan28 folds
+attack13000 folds
+59minutos calls 125
+YL_ML_GL_42 checks
+*** FLOP *** [5c Kd 7s]
+59minutos checks
+YL_ML_GL_42 checks
+*** TURN *** [5c Kd 7s][Ad]
+59minutos checks
+YL_ML_GL_42 checks
+*** RIVER *** [5c Kd 7s Ad][Ah]
+59minutos checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+59minutos shows [2s 3s] (One pair : Aces)
+YL_ML_GL_42 shows [9d 4c] (One pair : Aces)
+YL_ML_GL_42 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [5c Kd 7s Ad Ah]
+Seat 5: 59minutos (small blind) showed [2s 3s] and lost with One pair : Aces
+Seat 6: YL_ML_GL_42 (big blind) showed [9d 4c] and won 680 with One pair : Aces
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2553204993427505194-51-1669478737 - Holdem no limit (30/125/250) - 2022/11/26 16:05:37 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #5 is the button
+Seat 1: chenicoooo (15825, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (14199, 2.25€ bounty)
+Seat 3: Sevan28 (37844, 3.37€ bounty)
+Seat 4: attack13000 (20669, 3.37€ bounty)
+Seat 5: 59minutos (50531, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (23202, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 30
+chenicoooo posts ante 30
+F0.KSA.HOLD posts ante 30
+Sevan28 posts ante 30
+attack13000 posts ante 30
+59minutos posts ante 30
+YL_ML_GL_42 posts small blind 125
+chenicoooo posts big blind 250
+Dealt to YL_ML_GL_42 [2s Td]
+*** PRE-FLOP *** 
+F0.KSA.HOLD folds
+Sevan28 folds
+attack13000 calls 250
+59minutos folds
+YL_ML_GL_42 folds
+chenicoooo checks
+*** FLOP *** [Ts 5c 6c]
+chenicoooo checks
+attack13000 bets 403
+chenicoooo calls 403
+*** TURN *** [Ts 5c 6c][Kh]
+chenicoooo checks
+attack13000 bets 564
+chenicoooo calls 564
+*** RIVER *** [Ts 5c 6c Kh][4d]
+chenicoooo checks
+attack13000 checks
+*** SHOW DOWN ***
+chenicoooo shows [Qc 6d] (One pair : 6)
+attack13000 shows [6s Qs] (One pair : 6)
+attack13000 collected 1370 from pot
+chenicoooo collected 1369 from pot
+*** SUMMARY ***
+Total pot 2739 | No rake
+Board: [Ts 5c 6c Kh 4d]
+Seat 1: chenicoooo (big blind) showed [Qc 6d] and won 1369 with One pair : 6
+Seat 4: attack13000 showed [6s Qs] and won 1370 with One pair : 6
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2553204993427505194-52-1669478757 - Holdem no limit (30/125/250) - 2022/11/26 16:05:57 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #6 is the button
+Seat 1: chenicoooo (15947, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (14169, 2.25€ bounty)
+Seat 3: Sevan28 (37814, 3.37€ bounty)
+Seat 4: attack13000 (20792, 3.37€ bounty)
+Seat 5: 59minutos (50501, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (23047, 2.25€ bounty)
+*** ANTE/BLINDS ***
+chenicoooo posts ante 30
+F0.KSA.HOLD posts ante 30
+Sevan28 posts ante 30
+attack13000 posts ante 30
+59minutos posts ante 30
+YL_ML_GL_42 posts ante 30
+chenicoooo posts small blind 125
+F0.KSA.HOLD posts big blind 250
+Dealt to YL_ML_GL_42 [Js Qh]
+*** PRE-FLOP *** 
+Sevan28 folds
+attack13000 folds
+59minutos folds
+YL_ML_GL_42 raises 500 to 750
+chenicoooo folds
+F0.KSA.HOLD folds
+YL_ML_GL_42 collected 1305 from pot
+*** SUMMARY ***
+Total pot 1305 | No rake
+Seat 6: YL_ML_GL_42 (button) won 1305
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2553204993427505194-53-1669478772 - Holdem no limit (35/150/300) - 2022/11/26 16:06:12 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #1 is the button
+Seat 1: chenicoooo (15792, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (13889, 2.25€ bounty)
+Seat 3: Sevan28 (37784, 3.37€ bounty)
+Seat 4: attack13000 (20762, 3.37€ bounty)
+Seat 5: 59minutos (50471, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (23572, 2.25€ bounty)
+*** ANTE/BLINDS ***
+F0.KSA.HOLD posts ante 35
+Sevan28 posts ante 35
+chenicoooo posts ante 35
+attack13000 posts ante 35
+59minutos posts ante 35
+YL_ML_GL_42 posts ante 35
+F0.KSA.HOLD posts small blind 150
+Sevan28 posts big blind 300
+Dealt to YL_ML_GL_42 [3h 4d]
+*** PRE-FLOP *** 
+attack13000 folds
+59minutos folds
+YL_ML_GL_42 folds
+chenicoooo folds
+F0.KSA.HOLD folds
+Sevan28 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 3: Sevan28 (big blind) won 660
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2553204993427505194-54-1669478787 - Holdem no limit (35/150/300) - 2022/11/26 16:06:27 UTC
+Table: 'SAMOURAI(594464362)#0041' 6-max (real money) Seat #2 is the button
+Seat 1: chenicoooo (15757, 2.25€ bounty)
+Seat 2: F0.KSA.HOLD (13704, 2.25€ bounty)
+Seat 3: Sevan28 (38109, 3.37€ bounty)
+Seat 4: attack13000 (20727, 3.37€ bounty)
+Seat 5: 59minutos (50436, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (23537, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Sevan28 posts ante 35
+attack13000 posts ante 35
+chenicoooo posts ante 35
+F0.KSA.HOLD posts ante 35
+59minutos posts ante 35
+YL_ML_GL_42 posts ante 35
+Sevan28 posts small blind 150
+attack13000 posts big blind 300
+Dealt to YL_ML_GL_42 [6h Ah]
+*** PRE-FLOP *** 
+59minutos raises 360 to 660
+YL_ML_GL_42 calls 660
+chenicoooo calls 660
+F0.KSA.HOLD raises 13009 to 13669 and is all-in
+Sevan28 folds
+attack13000 folds
+59minutos calls 13009
+YL_ML_GL_42 folds
+chenicoooo folds
+*** FLOP *** [9s 3h Ac]
+*** TURN *** [9s 3h Ac][2d]
+*** RIVER *** [9s 3h Ac 2d][Qd]
+*** SHOW DOWN ***
+59minutos shows [7h 7s] (One pair : 7)
+F0.KSA.HOLD shows [Td Tc] (One pair : Tens)
+F0.KSA.HOLD collected 29318 from pot
+*** SUMMARY ***
+Total pot 29318 | No rake
+Board: [9s 3h Ac 2d Qd]
+Seat 2: F0.KSA.HOLD (button) showed [Td Tc] and won 29318 with One pair : Tens
+Seat 5: 59minutos showed [7h 7s] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2553204993427505222-36-1669478828 - Holdem no limit (35/150/300) - 2022/11/26 16:07:08 UTC
+Table: 'SAMOURAI(594464362)#0069' 6-max (real money) Seat #2 is the button
+Seat 1: dolu9342 (49849, 4.49€ bounty)
+Seat 3: lolo500011 (21258, 2.25€ bounty)
+Seat 4: YL_ML_GL_42 (22842, 2.25€ bounty)
+Seat 5: YoniN (510, 2.25€ bounty)
+Seat 6: zoro poker (55283, 2.25€ bounty)
+*** ANTE/BLINDS ***
+lolo500011 posts ante 35
+YL_ML_GL_42 posts ante 35
+dolu9342 posts ante 35
+YoniN posts ante 35
+zoro poker posts ante 35
+lolo500011 posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [6s Ad]
+*** PRE-FLOP *** 
+YoniN folds
+zoro poker calls 300
+dolu9342 folds
+lolo500011 calls 150
+YL_ML_GL_42 checks
+*** FLOP *** [Js Kd 2c]
+lolo500011 checks
+YL_ML_GL_42 checks
+zoro poker bets 600
+lolo500011 folds
+YL_ML_GL_42 calls 600
+*** TURN *** [Js Kd 2c][Kc]
+YL_ML_GL_42 checks
+zoro poker bets 1050
+YL_ML_GL_42 folds
+zoro poker collected 3325 from pot
+*** SUMMARY ***
+Total pot 3325 | No rake
+Board: [Js Kd 2c Kc]
+Seat 6: zoro poker won 3325
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2553204993427505222-37-1669478878 - Holdem no limit (35/150/300) - 2022/11/26 16:07:58 UTC
+Table: 'SAMOURAI(594464362)#0069' 6-max (real money) Seat #3 is the button
+Seat 1: dolu9342 (49814, 4.49€ bounty)
+Seat 2: EiffageRail (20000, 2.25€ bounty)
+Seat 3: lolo500011 (20923, 2.25€ bounty)
+Seat 4: YL_ML_GL_42 (21907, 2.25€ bounty)
+Seat 5: YoniN (475, 2.25€ bounty)
+Seat 6: zoro poker (56623, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+YoniN posts ante 35
+dolu9342 posts ante 35
+EiffageRail posts ante 35
+lolo500011 posts ante 35
+zoro poker posts ante 35
+YL_ML_GL_42 posts small blind 150
+YoniN posts big blind 300
+Dealt to YL_ML_GL_42 [5d 6d]
+*** PRE-FLOP *** 
+zoro poker calls 300
+dolu9342 calls 300
+EiffageRail calls 300
+lolo500011 calls 300
+YL_ML_GL_42 folds
+YoniN checks
+*** FLOP *** [Tc 9s 7d]
+YoniN checks
+zoro poker checks
+dolu9342 bets 930
+EiffageRail calls 930
+lolo500011 folds
+YoniN folds
+zoro poker calls 930
+*** TURN *** [Tc 9s 7d][9h]
+zoro poker checks
+dolu9342 checks
+EiffageRail bets 2325
+zoro poker folds
+dolu9342 calls 2325
+*** RIVER *** [Tc 9s 7d 9h][Qs]
+dolu9342 bets 4650
+EiffageRail calls 4650
+*** SHOW DOWN ***
+dolu9342 shows [Jc Qc] (Two pairs : Queens and 9)
+EiffageRail shows [8d 9d] (Trips of 9)
+EiffageRail collected 18600 from pot
+*** SUMMARY ***
+Total pot 18600 | No rake
+Board: [Tc 9s 7d 9h Qs]
+Seat 1: dolu9342 showed [Jc Qc] and lost with Two pairs : Queens and 9
+Seat 2: EiffageRail showed [8d 9d] and won 18600 with Trips of 9
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2553204993427505222-38-1669478981 - Holdem no limit (35/150/300) - 2022/11/26 16:09:41 UTC
+Table: 'SAMOURAI(594464362)#0069' 6-max (real money) Seat #4 is the button
+Seat 1: dolu9342 (41574, 4.49€ bounty)
+Seat 2: EiffageRail (30360, 2.25€ bounty)
+Seat 3: lolo500011 (20588, 2.25€ bounty)
+Seat 4: YL_ML_GL_42 (21722, 2.25€ bounty)
+Seat 5: YoniN (140, 2.25€ bounty)
+Seat 6: zoro poker (55358, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YoniN posts ante 35
+zoro poker posts ante 35
+dolu9342 posts ante 35
+EiffageRail posts ante 35
+lolo500011 posts ante 35
+YL_ML_GL_42 posts ante 35
+YoniN posts small blind 105 and is all-in
+zoro poker posts big blind 300
+Dealt to YL_ML_GL_42 [9s 5c]
+*** PRE-FLOP *** 
+dolu9342 folds
+EiffageRail folds
+lolo500011 raises 20253 to 20553 and is all-in
+YL_ML_GL_42 folds
+zoro poker folds
+*** FLOP *** [5s 2c 4h]
+*** TURN *** [5s 2c 4h][6h]
+*** RIVER *** [5s 2c 4h 6h][9c]
+*** SHOW DOWN ***
+lolo500011 shows [Kc Tc] (High card : King)
+YoniN shows [9d 6c] (Two pairs : 9 and 6)
+YoniN collected 525 from main pot
+lolo500011 collected 20643 from side pot 1
+*** SUMMARY ***
+Total pot 21168 | No rake
+Board: [5s 2c 4h 6h 9c]
+Seat 3: lolo500011 showed [Kc Tc] and won 20643 with High card : King
+Seat 5: YoniN (small blind) showed [9d 6c] and won 525 with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2553204993427505222-39-1669479000 - Holdem no limit (35/150/300) - 2022/11/26 16:10:00 UTC
+Table: 'SAMOURAI(594464362)#0069' 6-max (real money) Seat #5 is the button
+Seat 1: dolu9342 (41539, 4.49€ bounty)
+Seat 2: EiffageRail (30325, 2.25€ bounty)
+Seat 3: lolo500011 (20643, 2.25€ bounty)
+Seat 4: YL_ML_GL_42 (21687, 2.25€ bounty)
+Seat 5: YoniN (525, 2.25€ bounty)
+Seat 6: zoro poker (55023, 2.25€ bounty)
+*** ANTE/BLINDS ***
+zoro poker posts ante 35
+dolu9342 posts ante 35
+EiffageRail posts ante 35
+lolo500011 posts ante 35
+YL_ML_GL_42 posts ante 35
+YoniN posts ante 35
+zoro poker posts small blind 150
+dolu9342 posts big blind 300
+Dealt to YL_ML_GL_42 [Tc Qs]
+*** PRE-FLOP *** 
+EiffageRail folds
+lolo500011 calls 300
+YL_ML_GL_42 calls 300
+YoniN folds
+zoro poker calls 150
+dolu9342 checks
+*** FLOP *** [9h Jh 9s]
+zoro poker checks
+dolu9342 checks
+lolo500011 checks
+YL_ML_GL_42 checks
+*** TURN *** [9h Jh 9s][3h]
+zoro poker checks
+dolu9342 checks
+lolo500011 bets 300
+YL_ML_GL_42 calls 300
+zoro poker folds
+dolu9342 folds
+*** RIVER *** [9h Jh 9s 3h][8h]
+lolo500011 checks
+YL_ML_GL_42 bets 2010
+lolo500011 raises 6030 to 8040
+YL_ML_GL_42 raises 13012 to 21052 and is all-in
+lolo500011 calls 11968 and is all-in
+*** SHOW DOWN ***
+lolo500011 shows [Qh Th] (Straight flush Queen)
+YL_ML_GL_42 shows [Tc Qs] (Straight Queen high)
+YL_ML_GL_42 collected 1044 from side pot 1
+lolo500011 collected 42026 from main pot
+*** SUMMARY ***
+Total pot 43070 | No rake
+Board: [9h Jh 9s 3h 8h]
+Seat 3: lolo500011 showed [Qh Th] and won 42026 with Straight flush Queen
+Seat 4: YL_ML_GL_42 showed [Tc Qs] and won 1044 with Straight Queen high
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2553204993427505222-40-1669479062 - Holdem no limit (40/175/350) - 2022/11/26 16:11:02 UTC
+Table: 'SAMOURAI(594464362)#0069' 6-max (real money) Seat #6 is the button
+Seat 1: dolu9342 (41204, 4.49€ bounty)
+Seat 2: EiffageRail (30290, 2.25€ bounty)
+Seat 3: lolo500011 (42026, 2.25€ bounty)
+Seat 4: YL_ML_GL_42 (1044, 2.25€ bounty)
+Seat 5: YoniN (490, 2.25€ bounty)
+Seat 6: zoro poker (54688, 2.25€ bounty)
+*** ANTE/BLINDS ***
+dolu9342 posts ante 40
+EiffageRail posts ante 40
+lolo500011 posts ante 40
+YL_ML_GL_42 posts ante 40
+YoniN posts ante 40
+zoro poker posts ante 40
+dolu9342 posts small blind 175
+EiffageRail posts big blind 350
+Dealt to YL_ML_GL_42 [5c 2c]
+*** PRE-FLOP *** 
+lolo500011 raises 525 to 875
+YL_ML_GL_42 raises 129 to 1004 and is all-in
+YoniN folds
+zoro poker calls 1004
+dolu9342 calls 829
+EiffageRail folds
+lolo500011 calls 129
+*** FLOP *** [6d 3c 2h]
+dolu9342 checks
+lolo500011 bets 2994
+zoro poker calls 2994
+dolu9342 folds
+*** TURN *** [6d 3c 2h][As]
+lolo500011 checks
+zoro poker bets 5600
+lolo500011 folds
+*** RIVER *** [6d 3c 2h As][6s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [5c 2c] (Two pairs : 6 and 2)
+zoro poker shows [9s Ah] (Two pairs : Aces and 6)
+zoro poker collected 16194 from pot
+*** SUMMARY ***
+Total pot 16194 | No rake
+Board: [6d 3c 2h As 6s]
+Seat 4: YL_ML_GL_42 showed [5c 2c] and lost with Two pairs : 6 and 2
+Seat 6: zoro poker (button) showed [9s Ah] and won 16194 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2553204993427505231-36-1669479170 - Holdem no limit (40/175/350) - 2022/11/26 16:12:50 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #6 is the button
+Seat 1: Tsu201921 (33944, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (20000, 2.25€ bounty)
+Seat 3: Ph ilibert (28871, 2.25€ bounty)
+Seat 4: Mann123acb (61277, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (28599, 3.37€ bounty)
+Seat 6: Gremista2022 (35382, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Tsu201921 posts ante 40
+YL_ML_GL_42 posts ante 40
+Ph ilibert posts ante 40
+Mann123acb posts ante 40
+Jjjjjjjjjjxx posts ante 40
+Gremista2022 posts ante 40
+Tsu201921 posts small blind 175
+YL_ML_GL_42 posts big blind 350
+Dealt to YL_ML_GL_42 [9d Qh]
+*** PRE-FLOP *** 
+Ph ilibert calls 350
+Mann123acb folds
+Jjjjjjjjjjxx folds
+Gremista2022 raises 875 to 1225
+Tsu201921 folds
+YL_ML_GL_42 calls 875
+Ph ilibert calls 875
+*** FLOP *** [5h 8h 3s]
+YL_ML_GL_42 checks
+Ph ilibert checks
+Gremista2022 checks
+*** TURN *** [5h 8h 3s][Ac]
+YL_ML_GL_42 checks
+Ph ilibert checks
+Gremista2022 bets 3325
+YL_ML_GL_42 folds
+Ph ilibert folds
+Gremista2022 collected 7415 from pot
+*** SUMMARY ***
+Total pot 7415 | No rake
+Board: [5h 8h 3s Ac]
+Seat 6: Gremista2022 (button) won 7415
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2553204993427505231-37-1669479234 - Holdem no limit (40/175/350) - 2022/11/26 16:13:54 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #1 is the button
+Seat 1: Tsu201921 (33729, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (18735, 2.25€ bounty)
+Seat 3: Ph ilibert (27606, 2.25€ bounty)
+Seat 4: Mann123acb (61237, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (28559, 3.37€ bounty)
+Seat 6: Gremista2022 (38207, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 40
+Ph ilibert posts ante 40
+Tsu201921 posts ante 40
+Mann123acb posts ante 40
+Jjjjjjjjjjxx posts ante 40
+Gremista2022 posts ante 40
+YL_ML_GL_42 posts small blind 175
+Ph ilibert posts big blind 350
+Dealt to YL_ML_GL_42 [5s 8h]
+*** PRE-FLOP *** 
+Mann123acb folds
+Jjjjjjjjjjxx raises 525 to 875
+Gremista2022 folds
+Tsu201921 calls 875
+YL_ML_GL_42 folds
+Ph ilibert calls 525
+*** FLOP *** [Th 3s 2d]
+Ph ilibert checks
+Jjjjjjjjjjxx bets 1976
+Tsu201921 folds
+Ph ilibert folds
+Jjjjjjjjjjxx collected 5016 from pot
+*** SUMMARY ***
+Total pot 5016 | No rake
+Board: [Th 3s 2d]
+Seat 5: Jjjjjjjjjjxx won 5016
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2553204993427505231-38-1669479286 - Holdem no limit (40/175/350) - 2022/11/26 16:14:46 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #2 is the button
+Seat 1: Tsu201921 (32814, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (18520, 2.25€ bounty)
+Seat 3: Ph ilibert (26691, 2.25€ bounty)
+Seat 4: Mann123acb (61197, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (30684, 3.37€ bounty)
+Seat 6: Gremista2022 (38167, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Ph ilibert posts ante 40
+Mann123acb posts ante 40
+Tsu201921 posts ante 40
+YL_ML_GL_42 posts ante 40
+Jjjjjjjjjjxx posts ante 40
+Gremista2022 posts ante 40
+Ph ilibert posts small blind 175
+Mann123acb posts big blind 350
+Dealt to YL_ML_GL_42 [Js 2d]
+*** PRE-FLOP *** 
+Jjjjjjjjjjxx folds
+Gremista2022 folds
+Tsu201921 folds
+YL_ML_GL_42 folds
+Ph ilibert folds
+Mann123acb collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 4: Mann123acb (big blind) won 765
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2553204993427505231-39-1669479317 - Holdem no limit (40/175/350) - 2022/11/26 16:15:17 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #3 is the button
+Seat 1: Tsu201921 (32774, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (18480, 2.25€ bounty)
+Seat 3: Ph ilibert (26476, 2.25€ bounty)
+Seat 4: Mann123acb (61572, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (30644, 3.37€ bounty)
+Seat 6: Gremista2022 (38127, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Mann123acb posts ante 40
+Jjjjjjjjjjxx posts ante 40
+Tsu201921 posts ante 40
+YL_ML_GL_42 posts ante 40
+Ph ilibert posts ante 40
+Gremista2022 posts ante 40
+Mann123acb posts small blind 175
+Jjjjjjjjjjxx posts big blind 350
+Dealt to YL_ML_GL_42 [Ks Ah]
+*** PRE-FLOP *** 
+Gremista2022 folds
+Tsu201921 raises 525 to 875
+YL_ML_GL_42 raises 2515 to 3390
+Ph ilibert folds
+Mann123acb folds
+Jjjjjjjjjjxx folds
+Tsu201921 folds
+YL_ML_GL_42 collected 5030 from pot
+*** SUMMARY ***
+Total pot 5030 | No rake
+Seat 2: YL_ML_GL_42 won 5030
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2553204993427505231-40-1669479390 - Holdem no limit (50/200/400) - 2022/11/26 16:16:30 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #4 is the button
+Seat 1: Tsu201921 (31859, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (20080, 2.25€ bounty)
+Seat 3: Ph ilibert (26436, 2.25€ bounty)
+Seat 4: Mann123acb (61357, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (30254, 3.37€ bounty)
+Seat 6: Gremista2022 (38087, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Jjjjjjjjjjxx posts ante 50
+Gremista2022 posts ante 50
+Tsu201921 posts ante 50
+YL_ML_GL_42 posts ante 50
+Ph ilibert posts ante 50
+Mann123acb posts ante 50
+Jjjjjjjjjjxx posts small blind 200
+Gremista2022 posts big blind 400
+Dealt to YL_ML_GL_42 [Js As]
+*** PRE-FLOP *** 
+Tsu201921 folds
+YL_ML_GL_42 raises 800 to 1200
+Ph ilibert calls 1200
+Mann123acb folds
+Jjjjjjjjjjxx calls 1000
+Gremista2022 folds
+*** FLOP *** [4s 5d Td]
+Jjjjjjjjjjxx checks
+YL_ML_GL_42 bets 3440
+Ph ilibert folds
+Jjjjjjjjjjxx calls 3440
+*** TURN *** [4s 5d Td][Ts]
+Jjjjjjjjjjxx checks
+YL_ML_GL_42 bets 7267
+Jjjjjjjjjjxx folds
+YL_ML_GL_42 collected 18447 from pot
+*** SUMMARY ***
+Total pot 18447 | No rake
+Board: [4s 5d Td Ts]
+Seat 2: YL_ML_GL_42 won 18447
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2553204993427505231-41-1669479465 - Holdem no limit (50/200/400) - 2022/11/26 16:17:45 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #5 is the button
+Seat 1: Tsu201921 (31809, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (26570, 2.25€ bounty)
+Seat 3: Ph ilibert (25186, 2.25€ bounty)
+Seat 4: Mann123acb (61307, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (25564, 3.37€ bounty)
+Seat 6: Gremista2022 (37637, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Gremista2022 posts ante 50
+Tsu201921 posts ante 50
+YL_ML_GL_42 posts ante 50
+Ph ilibert posts ante 50
+Mann123acb posts ante 50
+Jjjjjjjjjjxx posts ante 50
+Gremista2022 posts small blind 200
+Tsu201921 posts big blind 400
+Dealt to YL_ML_GL_42 [6s Js]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Ph ilibert calls 400
+Mann123acb folds
+Jjjjjjjjjjxx folds
+Gremista2022 calls 200
+Tsu201921 checks
+*** FLOP *** [Td 7c Jh]
+Gremista2022 checks
+Tsu201921 checks
+Ph ilibert bets 1500
+Gremista2022 folds
+Tsu201921 folds
+Ph ilibert collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Td 7c Jh]
+Seat 3: Ph ilibert won 3000
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2553204993427505231-42-1669479540 - Holdem no limit (50/200/400) - 2022/11/26 16:19:00 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #6 is the button
+Seat 1: Tsu201921 (31359, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (26520, 2.25€ bounty)
+Seat 3: Ph ilibert (26236, 2.25€ bounty)
+Seat 4: Mann123acb (61257, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (25514, 3.37€ bounty)
+Seat 6: Gremista2022 (37187, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Tsu201921 posts ante 50
+YL_ML_GL_42 posts ante 50
+Ph ilibert posts ante 50
+Mann123acb posts ante 50
+Jjjjjjjjjjxx posts ante 50
+Gremista2022 posts ante 50
+Tsu201921 posts small blind 200
+YL_ML_GL_42 posts big blind 400
+Dealt to YL_ML_GL_42 [2s 6c]
+*** PRE-FLOP *** 
+Ph ilibert calls 400
+Mann123acb raises 400 to 800
+Jjjjjjjjjjxx calls 800
+Gremista2022 folds
+Tsu201921 folds
+YL_ML_GL_42 folds
+Ph ilibert calls 400
+*** FLOP *** [Jd 3c 3d]
+Ph ilibert checks
+Mann123acb checks
+Jjjjjjjjjjxx checks
+*** TURN *** [Jd 3c 3d][9s]
+Ph ilibert checks
+Mann123acb bets 1155
+Jjjjjjjjjjxx folds
+Ph ilibert folds
+Mann123acb collected 4455 from pot
+*** SUMMARY ***
+Total pot 4455 | No rake
+Board: [Jd 3c 3d 9s]
+Seat 4: Mann123acb won 4455
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2553204993427505231-43-1669479603 - Holdem no limit (50/200/400) - 2022/11/26 16:20:03 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #1 is the button
+Seat 1: Tsu201921 (31109, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (26070, 2.25€ bounty)
+Seat 3: Ph ilibert (25386, 2.25€ bounty)
+Seat 4: Mann123acb (63707, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (24664, 3.37€ bounty)
+Seat 6: Gremista2022 (37137, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 50
+Ph ilibert posts ante 50
+Tsu201921 posts ante 50
+Mann123acb posts ante 50
+Jjjjjjjjjjxx posts ante 50
+Gremista2022 posts ante 50
+YL_ML_GL_42 posts small blind 200
+Ph ilibert posts big blind 400
+Dealt to YL_ML_GL_42 [Qs 4d]
+*** PRE-FLOP *** 
+Mann123acb folds
+Jjjjjjjjjjxx folds
+Gremista2022 raises 400 to 800
+Tsu201921 folds
+YL_ML_GL_42 folds
+Ph ilibert calls 400
+*** FLOP *** [6c Ad 2d]
+Ph ilibert checks
+Gremista2022 bets 945
+Ph ilibert folds
+Gremista2022 collected 3045 from pot
+*** SUMMARY ***
+Total pot 3045 | No rake
+Board: [6c Ad 2d]
+Seat 6: Gremista2022 won 3045
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2553204993427505231-44-1669479654 - Holdem no limit (50/200/400) - 2022/11/26 16:20:54 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #2 is the button
+Seat 1: Tsu201921 (31059, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (25820, 2.25€ bounty)
+Seat 3: Ph ilibert (24536, 2.25€ bounty)
+Seat 4: Mann123acb (63657, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (24614, 3.37€ bounty)
+Seat 6: Gremista2022 (38387, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Ph ilibert posts ante 50
+Mann123acb posts ante 50
+Tsu201921 posts ante 50
+YL_ML_GL_42 posts ante 50
+Jjjjjjjjjjxx posts ante 50
+Gremista2022 posts ante 50
+Ph ilibert posts small blind 200
+Mann123acb posts big blind 400
+Dealt to YL_ML_GL_42 [9d Qd]
+*** PRE-FLOP *** 
+Jjjjjjjjjjxx raises 600 to 1000
+Gremista2022 folds
+Tsu201921 folds
+YL_ML_GL_42 calls 1000
+Ph ilibert calls 800
+Mann123acb folds
+*** FLOP *** [As Th 9s]
+Ph ilibert checks
+Jjjjjjjjjjxx bets 1295
+YL_ML_GL_42 calls 1295
+Ph ilibert folds
+*** TURN *** [As Th 9s][6d]
+Jjjjjjjjjjxx bets 2202
+YL_ML_GL_42 folds
+Jjjjjjjjjjxx collected 8492 from pot
+*** SUMMARY ***
+Total pot 8492 | No rake
+Board: [As Th 9s 6d]
+Seat 5: Jjjjjjjjjjxx won 8492
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2553204993427505231-45-1669479705 - Holdem no limit (60/250/500) - 2022/11/26 16:21:45 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #3 is the button
+Seat 1: Tsu201921 (31009, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (23475, 2.25€ bounty)
+Seat 3: Ph ilibert (23486, 2.25€ bounty)
+Seat 4: Mann123acb (63207, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (28559, 3.37€ bounty)
+Seat 6: Gremista2022 (38337, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Mann123acb posts ante 60
+Jjjjjjjjjjxx posts ante 60
+Tsu201921 posts ante 60
+YL_ML_GL_42 posts ante 60
+Ph ilibert posts ante 60
+Gremista2022 posts ante 60
+Mann123acb posts small blind 250
+Jjjjjjjjjjxx posts big blind 500
+Dealt to YL_ML_GL_42 [As 2c]
+*** PRE-FLOP *** 
+Gremista2022 folds
+Tsu201921 folds
+YL_ML_GL_42 folds
+Ph ilibert folds
+Mann123acb calls 250
+Jjjjjjjjjjxx checks
+*** FLOP *** [5h 2h Kc]
+Mann123acb checks
+Jjjjjjjjjjxx checks
+*** TURN *** [5h 2h Kc][6c]
+Mann123acb bets 500
+Jjjjjjjjjjxx calls 500
+*** RIVER *** [5h 2h Kc 6c][Qh]
+Mann123acb checks
+Jjjjjjjjjjxx checks
+*** SHOW DOWN ***
+Mann123acb shows [5d Td] (One pair : 5)
+Jjjjjjjjjjxx shows [9d Qc] (One pair : Queens)
+Jjjjjjjjjjxx collected 2360 from pot
+*** SUMMARY ***
+Total pot 2360 | No rake
+Board: [5h 2h Kc 6c Qh]
+Seat 4: Mann123acb (small blind) showed [5d Td] and lost with One pair : 5
+Seat 5: Jjjjjjjjjjxx (big blind) showed [9d Qc] and won 2360 with One pair : Queens
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2553204993427505231-46-1669479753 - Holdem no limit (60/250/500) - 2022/11/26 16:22:33 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #4 is the button
+Seat 1: Tsu201921 (30949, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (23415, 2.25€ bounty)
+Seat 3: Ph ilibert (23426, 2.25€ bounty)
+Seat 4: Mann123acb (62147, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (29859, 3.37€ bounty)
+Seat 6: Gremista2022 (38277, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Jjjjjjjjjjxx posts ante 60
+Gremista2022 posts ante 60
+Tsu201921 posts ante 60
+YL_ML_GL_42 posts ante 60
+Ph ilibert posts ante 60
+Mann123acb posts ante 60
+Jjjjjjjjjjxx posts small blind 250
+Gremista2022 posts big blind 500
+Dealt to YL_ML_GL_42 [9c 5h]
+*** PRE-FLOP *** 
+Tsu201921 folds
+YL_ML_GL_42 folds
+Ph ilibert calls 500
+Mann123acb folds
+Jjjjjjjjjjxx calls 250
+Gremista2022 checks
+*** FLOP *** [Qc 2h Ah]
+Jjjjjjjjjjxx checks
+Gremista2022 checks
+Ph ilibert checks
+*** TURN *** [Qc 2h Ah][7s]
+Jjjjjjjjjjxx checks
+Gremista2022 bets 614
+Ph ilibert folds
+Jjjjjjjjjjxx folds
+Gremista2022 collected 2474 from pot
+*** SUMMARY ***
+Total pot 2474 | No rake
+Board: [Qc 2h Ah 7s]
+Seat 6: Gremista2022 (big blind) won 2474
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2553204993427505231-47-1669479845 - Holdem no limit (60/250/500) - 2022/11/26 16:24:05 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #5 is the button
+Seat 1: Tsu201921 (30889, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (23355, 2.25€ bounty)
+Seat 3: Ph ilibert (22866, 2.25€ bounty)
+Seat 4: Mann123acb (62087, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (29299, 3.37€ bounty)
+Seat 6: Gremista2022 (39577, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Gremista2022 posts ante 60
+Tsu201921 posts ante 60
+YL_ML_GL_42 posts ante 60
+Ph ilibert posts ante 60
+Mann123acb posts ante 60
+Jjjjjjjjjjxx posts ante 60
+Gremista2022 posts small blind 250
+Tsu201921 posts big blind 500
+Dealt to YL_ML_GL_42 [Qc 5s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Ph ilibert calls 500
+Mann123acb folds
+Jjjjjjjjjjxx folds
+Gremista2022 raises 1750 to 2250
+Tsu201921 folds
+Ph ilibert calls 1750
+*** FLOP *** [8h 2d Jh]
+Gremista2022 bets 2412
+Ph ilibert folds
+Gremista2022 collected 7772 from pot
+*** SUMMARY ***
+Total pot 7772 | No rake
+Board: [8h 2d Jh]
+Seat 6: Gremista2022 (small blind) won 7772
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2553204993427505231-48-1669479892 - Holdem no limit (60/250/500) - 2022/11/26 16:24:52 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #6 is the button
+Seat 1: Tsu201921 (30329, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (23295, 2.25€ bounty)
+Seat 3: Ph ilibert (20556, 2.25€ bounty)
+Seat 4: Mann123acb (62027, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (29239, 3.37€ bounty)
+Seat 6: Gremista2022 (42627, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Tsu201921 posts ante 60
+YL_ML_GL_42 posts ante 60
+Ph ilibert posts ante 60
+Mann123acb posts ante 60
+Jjjjjjjjjjxx posts ante 60
+Gremista2022 posts ante 60
+Tsu201921 posts small blind 250
+YL_ML_GL_42 posts big blind 500
+Dealt to YL_ML_GL_42 [4h 7s]
+*** PRE-FLOP *** 
+Ph ilibert folds
+Mann123acb folds
+Jjjjjjjjjjxx calls 500
+Gremista2022 calls 500
+Tsu201921 raises 1500 to 2000
+YL_ML_GL_42 folds
+Jjjjjjjjjjxx folds
+Gremista2022 calls 1500
+*** FLOP *** [9d Jh 6d]
+Tsu201921 checks
+Gremista2022 checks
+*** TURN *** [9d Jh 6d][8h]
+Tsu201921 bets 3484
+Gremista2022 folds
+Tsu201921 collected 8844 from pot
+*** SUMMARY ***
+Total pot 8844 | No rake
+Board: [9d Jh 6d 8h]
+Seat 1: Tsu201921 (small blind) won 8844
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2553204993427505231-49-1669479963 - Holdem no limit (70/300/600) - 2022/11/26 16:26:03 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #1 is the button
+Seat 1: Tsu201921 (33629, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (22735, 2.25€ bounty)
+Seat 3: Ph ilibert (20496, 2.25€ bounty)
+Seat 4: Mann123acb (61967, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (28679, 3.37€ bounty)
+Seat 6: Gremista2022 (40567, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 70
+Ph ilibert posts ante 70
+Tsu201921 posts ante 70
+Mann123acb posts ante 70
+Jjjjjjjjjjxx posts ante 70
+Gremista2022 posts ante 70
+YL_ML_GL_42 posts small blind 300
+Ph ilibert posts big blind 600
+Dealt to YL_ML_GL_42 [9d 7c]
+*** PRE-FLOP *** 
+Mann123acb raises 600 to 1200
+Jjjjjjjjjjxx folds
+Gremista2022 raises 2400 to 3600
+Tsu201921 folds
+YL_ML_GL_42 folds
+Ph ilibert folds
+Mann123acb calls 2400
+*** FLOP *** [5h Td 6c]
+Mann123acb checks
+Gremista2022 bets 3834
+Mann123acb calls 3834
+*** TURN *** [5h Td 6c][7d]
+Mann123acb checks
+Gremista2022 bets 12000
+Mann123acb folds
+Gremista2022 collected 28188 from pot
+*** SUMMARY ***
+Total pot 28188 | No rake
+Board: [5h Td 6c 7d]
+Seat 6: Gremista2022 won 28188
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2553204993427505231-50-1669480056 - Holdem no limit (70/300/600) - 2022/11/26 16:27:36 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #2 is the button
+Seat 1: Tsu201921 (33559, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (22365, 2.25€ bounty)
+Seat 3: Ph ilibert (19826, 2.25€ bounty)
+Seat 4: Mann123acb (54463, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (28609, 3.37€ bounty)
+Seat 6: Gremista2022 (49251, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Ph ilibert posts ante 70
+Mann123acb posts ante 70
+Tsu201921 posts ante 70
+YL_ML_GL_42 posts ante 70
+Jjjjjjjjjjxx posts ante 70
+Gremista2022 posts ante 70
+Ph ilibert posts small blind 300
+Mann123acb posts big blind 600
+Dealt to YL_ML_GL_42 [Jd 7d]
+*** PRE-FLOP *** 
+Jjjjjjjjjjxx folds
+Gremista2022 folds
+Tsu201921 folds
+YL_ML_GL_42 raises 1200 to 1800
+Ph ilibert raises 17956 to 19756 and is all-in
+Mann123acb folds
+YL_ML_GL_42 calls 17956
+*** FLOP *** [4h As 6s]
+*** TURN *** [4h As 6s][9c]
+*** RIVER *** [4h As 6s 9c][Kc]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Jd 7d] (High card : Ace)
+Ph ilibert shows [Qh Ac] (One pair : Aces)
+Ph ilibert collected 40532 from pot
+*** SUMMARY ***
+Total pot 40532 | No rake
+Board: [4h As 6s 9c Kc]
+Seat 2: YL_ML_GL_42 (button) showed [Jd 7d] and lost with High card : Ace
+Seat 3: Ph ilibert (small blind) showed [Qh Ac] and won 40532 with One pair : Aces
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2553204993427505231-51-1669480116 - Holdem no limit (70/300/600) - 2022/11/26 16:28:36 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #3 is the button
+Seat 1: Tsu201921 (33489, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (2539, 2.25€ bounty)
+Seat 3: Ph ilibert (40532, 2.25€ bounty)
+Seat 4: Mann123acb (53793, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (28539, 3.37€ bounty)
+Seat 6: Gremista2022 (49181, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Mann123acb posts ante 70
+Jjjjjjjjjjxx posts ante 70
+Tsu201921 posts ante 70
+YL_ML_GL_42 posts ante 70
+Ph ilibert posts ante 70
+Gremista2022 posts ante 70
+Mann123acb posts small blind 300
+Jjjjjjjjjjxx posts big blind 600
+Dealt to YL_ML_GL_42 [Th Ac]
+*** PRE-FLOP *** 
+Gremista2022 raises 600 to 1200
+Tsu201921 folds
+YL_ML_GL_42 raises 1269 to 2469 and is all-in
+Ph ilibert folds
+Mann123acb calls 2169
+Jjjjjjjjjjxx calls 1869
+Gremista2022 calls 1269
+*** FLOP *** [4s Jh 7h]
+Mann123acb checks
+Jjjjjjjjjjxx checks
+Gremista2022 bets 4633
+Mann123acb raises 11094 to 15727
+Jjjjjjjjjjxx folds
+Gremista2022 folds
+*** TURN *** [4s Jh 7h][Td]
+*** RIVER *** [4s Jh 7h Td][5c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Th Ac] (One pair : Tens)
+Mann123acb shows [4h Qh] (One pair : 4)
+Mann123acb collected 20360 from side pot 1
+YL_ML_GL_42 collected 10296 from main pot
+*** SUMMARY ***
+Total pot 30656 | No rake
+Board: [4s Jh 7h Td 5c]
+Seat 2: YL_ML_GL_42 showed [Th Ac] and won 10296 with One pair : Tens
+Seat 4: Mann123acb (small blind) showed [4h Qh] and won 20360 with One pair : 4
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2553204993427505231-52-1669480170 - Holdem no limit (70/300/600) - 2022/11/26 16:29:30 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #4 is the button
+Seat 1: Tsu201921 (33419, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (10296, 2.25€ bounty)
+Seat 3: Ph ilibert (40462, 2.25€ bounty)
+Seat 4: Mann123acb (55887, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (26000, 3.37€ bounty)
+Seat 6: Gremista2022 (42009, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Jjjjjjjjjjxx posts ante 70
+Gremista2022 posts ante 70
+Tsu201921 posts ante 70
+YL_ML_GL_42 posts ante 70
+Ph ilibert posts ante 70
+Mann123acb posts ante 70
+Jjjjjjjjjjxx posts small blind 300
+Gremista2022 posts big blind 600
+Dealt to YL_ML_GL_42 [Kc Tc]
+*** PRE-FLOP *** 
+Tsu201921 folds
+YL_ML_GL_42 raises 9626 to 10226 and is all-in
+Ph ilibert folds
+Mann123acb folds
+Jjjjjjjjjjxx folds
+Gremista2022 folds
+YL_ML_GL_42 collected 11546 from pot
+*** SUMMARY ***
+Total pot 11546 | No rake
+Seat 2: YL_ML_GL_42 won 11546
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2553204993427505231-53-1669480190 - Holdem no limit (70/300/600) - 2022/11/26 16:29:50 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #5 is the button
+Seat 1: Tsu201921 (33349, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (11546, 2.25€ bounty)
+Seat 3: Ph ilibert (40392, 2.25€ bounty)
+Seat 4: Mann123acb (55817, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (25630, 3.37€ bounty)
+Seat 6: Gremista2022 (41339, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Gremista2022 posts ante 70
+Tsu201921 posts ante 70
+YL_ML_GL_42 posts ante 70
+Ph ilibert posts ante 70
+Mann123acb posts ante 70
+Jjjjjjjjjjxx posts ante 70
+Gremista2022 posts small blind 300
+Tsu201921 posts big blind 600
+Dealt to YL_ML_GL_42 [Jc 2s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Ph ilibert folds
+Mann123acb folds
+Jjjjjjjjjjxx raises 900 to 1500
+Gremista2022 folds
+Tsu201921 folds
+Jjjjjjjjjjxx collected 2820 from pot
+*** SUMMARY ***
+Total pot 2820 | No rake
+Seat 5: Jjjjjjjjjjxx (button) won 2820
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2553204993427505231-54-1669480228 - Holdem no limit (70/300/600) - 2022/11/26 16:30:28 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #6 is the button
+Seat 1: Tsu201921 (32679, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (11476, 2.25€ bounty)
+Seat 3: Ph ilibert (40322, 2.25€ bounty)
+Seat 4: Mann123acb (55747, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (26880, 3.37€ bounty)
+Seat 6: Gremista2022 (40969, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Tsu201921 posts ante 70
+YL_ML_GL_42 posts ante 70
+Ph ilibert posts ante 70
+Mann123acb posts ante 70
+Jjjjjjjjjjxx posts ante 70
+Gremista2022 posts ante 70
+Tsu201921 posts small blind 300
+YL_ML_GL_42 posts big blind 600
+Dealt to YL_ML_GL_42 [Kd 3h]
+*** PRE-FLOP *** 
+Ph ilibert folds
+Mann123acb folds
+Jjjjjjjjjjxx calls 600
+Gremista2022 raises 1800 to 2400
+Tsu201921 folds
+YL_ML_GL_42 folds
+Jjjjjjjjjjxx calls 1800
+*** FLOP *** [7d Qs 9h]
+Jjjjjjjjjjxx checks
+Gremista2022 bets 2020
+Jjjjjjjjjjxx calls 2020
+*** TURN *** [7d Qs 9h][7s]
+Jjjjjjjjjjxx checks
+Gremista2022 checks
+*** RIVER *** [7d Qs 9h 7s][3c]
+Jjjjjjjjjjxx checks
+Gremista2022 checks
+*** SHOW DOWN ***
+Gremista2022 shows [Ad Jh] (One pair : 7)
+Jjjjjjjjjjxx shows [7c Jc] (Trips of 7)
+Jjjjjjjjjjxx collected 10160 from pot
+*** SUMMARY ***
+Total pot 10160 | No rake
+Board: [7d Qs 9h 7s 3c]
+Seat 5: Jjjjjjjjjjxx showed [7c Jc] and won 10160 with Trips of 7
+Seat 6: Gremista2022 (button) showed [Ad Jh] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2553204993427505231-55-1669480291 - Holdem no limit (80/350/700) - 2022/11/26 16:31:31 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #1 is the button
+Seat 1: Tsu201921 (32309, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (10806, 2.25€ bounty)
+Seat 3: Ph ilibert (40252, 2.25€ bounty)
+Seat 4: Mann123acb (55677, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (32550, 3.37€ bounty)
+Seat 6: Gremista2022 (36479, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+Ph ilibert posts ante 80
+Tsu201921 posts ante 80
+Mann123acb posts ante 80
+Jjjjjjjjjjxx posts ante 80
+Gremista2022 posts ante 80
+YL_ML_GL_42 posts small blind 350
+Ph ilibert posts big blind 700
+Dealt to YL_ML_GL_42 [8h 9s]
+*** PRE-FLOP *** 
+Mann123acb raises 700 to 1400
+Jjjjjjjjjjxx folds
+Gremista2022 folds
+Tsu201921 raises 1750 to 3150
+YL_ML_GL_42 folds
+Ph ilibert folds
+Mann123acb calls 1750
+*** FLOP *** [5d 6c Ks]
+Mann123acb checks
+Tsu201921 checks
+*** TURN *** [5d 6c Ks][Td]
+Mann123acb checks
+Tsu201921 bets 6264
+Mann123acb raises 11040 to 17304
+Tsu201921 calls 11040
+*** RIVER *** [5d 6c Ks Td][Jd]
+Mann123acb bets 35143 and is all-in
+Tsu201921 folds
+Mann123acb collected 77581 from pot
+*** SUMMARY ***
+Total pot 77581 | No rake
+Board: [5d 6c Ks Td Jd]
+Seat 4: Mann123acb won 77581
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2553204993427505231-56-1669480379 - Holdem no limit (80/350/700) - 2022/11/26 16:32:59 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #2 is the button
+Seat 1: Tsu201921 (11775, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (10376, 2.25€ bounty)
+Seat 3: Ph ilibert (39472, 2.25€ bounty)
+Seat 4: Mann123acb (77581, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (32470, 3.37€ bounty)
+Seat 6: Gremista2022 (36399, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Ph ilibert posts ante 80
+Mann123acb posts ante 80
+Tsu201921 posts ante 80
+YL_ML_GL_42 posts ante 80
+Jjjjjjjjjjxx posts ante 80
+Gremista2022 posts ante 80
+Ph ilibert posts small blind 350
+Mann123acb posts big blind 700
+Dealt to YL_ML_GL_42 [4d Ks]
+*** PRE-FLOP *** 
+Jjjjjjjjjjxx folds
+Gremista2022 folds
+Tsu201921 raises 10995 to 11695 and is all-in
+YL_ML_GL_42 folds
+Ph ilibert folds
+Mann123acb folds
+Tsu201921 collected 13225 from pot
+*** SUMMARY ***
+Total pot 13225 | No rake
+Seat 1: Tsu201921 won 13225
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2553204993427505231-57-1669480413 - Holdem no limit (80/350/700) - 2022/11/26 16:33:33 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #3 is the button
+Seat 1: Tsu201921 (13225, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (10296, 2.25€ bounty)
+Seat 3: Ph ilibert (39042, 2.25€ bounty)
+Seat 4: Mann123acb (76801, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (32390, 3.37€ bounty)
+Seat 6: Gremista2022 (36319, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Mann123acb posts ante 80
+Jjjjjjjjjjxx posts ante 80
+Tsu201921 posts ante 80
+YL_ML_GL_42 posts ante 80
+Ph ilibert posts ante 80
+Gremista2022 posts ante 80
+Mann123acb posts small blind 350
+Jjjjjjjjjjxx posts big blind 700
+Dealt to YL_ML_GL_42 [Qs 6d]
+*** PRE-FLOP *** 
+Gremista2022 folds
+Tsu201921 folds
+YL_ML_GL_42 folds
+Ph ilibert calls 700
+Mann123acb folds
+Jjjjjjjjjjxx checks
+*** FLOP *** [As 4h Js]
+Jjjjjjjjjjxx checks
+Ph ilibert checks
+*** TURN *** [As 4h Js][Kc]
+Jjjjjjjjjjxx bets 1450
+Ph ilibert folds
+Jjjjjjjjjjxx collected 3680 from pot
+*** SUMMARY ***
+Total pot 3680 | No rake
+Board: [As 4h Js Kc]
+Seat 5: Jjjjjjjjjjxx (big blind) won 3680
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2553204993427505231-58-1669480447 - Holdem no limit (80/350/700) - 2022/11/26 16:34:07 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #4 is the button
+Seat 1: Tsu201921 (13145, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (10216, 2.25€ bounty)
+Seat 3: Ph ilibert (38262, 2.25€ bounty)
+Seat 4: Mann123acb (76371, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (33840, 3.37€ bounty)
+Seat 6: Gremista2022 (36239, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Jjjjjjjjjjxx posts ante 80
+Gremista2022 posts ante 80
+Tsu201921 posts ante 80
+YL_ML_GL_42 posts ante 80
+Ph ilibert posts ante 80
+Mann123acb posts ante 80
+Jjjjjjjjjjxx posts small blind 350
+Gremista2022 posts big blind 700
+Dealt to YL_ML_GL_42 [9d 5s]
+*** PRE-FLOP *** 
+Tsu201921 folds
+YL_ML_GL_42 folds
+Ph ilibert folds
+Mann123acb folds
+Jjjjjjjjjjxx folds
+Gremista2022 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 6: Gremista2022 (big blind) won 1530
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2553204993427505231-59-1669480472 - Holdem no limit (80/350/700) - 2022/11/26 16:34:32 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #5 is the button
+Seat 1: Tsu201921 (13065, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (10136, 2.25€ bounty)
+Seat 3: Ph ilibert (38182, 2.25€ bounty)
+Seat 4: Mann123acb (76291, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (33410, 3.37€ bounty)
+Seat 6: Gremista2022 (36989, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Gremista2022 posts ante 80
+Tsu201921 posts ante 80
+YL_ML_GL_42 posts ante 80
+Ph ilibert posts ante 80
+Mann123acb posts ante 80
+Jjjjjjjjjjxx posts ante 80
+Gremista2022 posts small blind 350
+Tsu201921 posts big blind 700
+Dealt to YL_ML_GL_42 [Qs 3s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Ph ilibert calls 700
+Mann123acb folds
+Jjjjjjjjjjxx calls 700
+Gremista2022 folds
+Tsu201921 raises 12285 to 12985 and is all-in
+Ph ilibert folds
+Jjjjjjjjjjxx folds
+Tsu201921 collected 15215 from pot
+*** SUMMARY ***
+Total pot 15215 | No rake
+Seat 1: Tsu201921 (big blind) won 15215
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2553204993427505231-60-1669480515 - Holdem no limit (80/350/700) - 2022/11/26 16:35:15 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #6 is the button
+Seat 1: Tsu201921 (15215, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (10056, 2.25€ bounty)
+Seat 3: Ph ilibert (37402, 2.25€ bounty)
+Seat 4: Mann123acb (76211, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (32630, 3.37€ bounty)
+Seat 6: Gremista2022 (36559, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Tsu201921 posts ante 80
+YL_ML_GL_42 posts ante 80
+Ph ilibert posts ante 80
+Mann123acb posts ante 80
+Jjjjjjjjjjxx posts ante 80
+Gremista2022 posts ante 80
+Tsu201921 posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [6d Jh]
+*** PRE-FLOP *** 
+Ph ilibert folds
+Mann123acb folds
+Jjjjjjjjjjxx calls 700
+Gremista2022 folds
+Tsu201921 folds
+YL_ML_GL_42 checks
+*** FLOP *** [Qs 2c As]
+YL_ML_GL_42 checks
+Jjjjjjjjjjxx bets 2230
+YL_ML_GL_42 folds
+Jjjjjjjjjjxx collected 4460 from pot
+*** SUMMARY ***
+Total pot 4460 | No rake
+Board: [Qs 2c As]
+Seat 5: Jjjjjjjjjjxx won 4460
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2553204993427505231-61-1669480545 - Holdem no limit (80/350/700) - 2022/11/26 16:35:45 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #1 is the button
+Seat 1: Tsu201921 (14785, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (9276, 2.25€ bounty)
+Seat 3: Ph ilibert (37322, 2.25€ bounty)
+Seat 4: Mann123acb (76131, 4.49€ bounty)
+Seat 5: Jjjjjjjjjjxx (34080, 3.37€ bounty)
+Seat 6: Gremista2022 (36479, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+Ph ilibert posts ante 80
+Tsu201921 posts ante 80
+Mann123acb posts ante 80
+Jjjjjjjjjjxx posts ante 80
+Gremista2022 posts ante 80
+YL_ML_GL_42 posts small blind 350
+Ph ilibert posts big blind 700
+Dealt to YL_ML_GL_42 [Jc Ac]
+*** PRE-FLOP *** 
+Mann123acb raises 700 to 1400
+Jjjjjjjjjjxx folds
+Gremista2022 folds
+Tsu201921 calls 1400
+YL_ML_GL_42 raises 7796 to 9196 and is all-in
+Ph ilibert folds
+Mann123acb calls 7796
+Tsu201921 calls 7796
+*** FLOP *** [Ad 2c Qc]
+Mann123acb checks
+Tsu201921 bets 5509 and is all-in
+Mann123acb calls 5509
+*** TURN *** [Ad 2c Qc][7h]
+*** RIVER *** [Ad 2c Qc 7h][8c]
+*** SHOW DOWN ***
+Tsu201921 shows [9d Td] (High card : Ace)
+YL_ML_GL_42 shows [Jc Ac] (Flush Ace high)
+Mann123acb shows [Jd Js] (One pair : Jacks)
+Mann123acb collected 11018 from side pot 1
+YL_ML_GL_42 collected 28768 from main pot
+*** SUMMARY ***
+Total pot 39786 | No rake
+Board: [Ad 2c Qc 7h 8c]
+Seat 1: Tsu201921 (button) showed [9d Td] and lost with High card : Ace
+Seat 2: YL_ML_GL_42 (small blind) showed [Jc Ac] and won 28768 with Flush Ace high
+Seat 4: Mann123acb showed [Jd Js] and won 11018 with One pair : Jacks
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2553204993427505231-62-1669480607 - Holdem no limit (100/400/800) - 2022/11/26 16:36:47 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #2 is the button
+Seat 2: YL_ML_GL_42 (28768, 2.25€ bounty)
+Seat 3: Ph ilibert (36542, 2.25€ bounty)
+Seat 4: Mann123acb (72364, 6.17€ bounty)
+Seat 5: Jjjjjjjjjjxx (34000, 3.37€ bounty)
+Seat 6: Gremista2022 (36399, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Ph ilibert posts ante 100
+Mann123acb posts ante 100
+YL_ML_GL_42 posts ante 100
+Jjjjjjjjjjxx posts ante 100
+Gremista2022 posts ante 100
+Ph ilibert posts small blind 400
+Mann123acb posts big blind 800
+Dealt to YL_ML_GL_42 [4s 6d]
+*** PRE-FLOP *** 
+Jjjjjjjjjjxx calls 800
+Gremista2022 folds
+YL_ML_GL_42 folds
+Ph ilibert folds
+Mann123acb checks
+*** FLOP *** [Kc Qh 3c]
+Mann123acb checks
+Jjjjjjjjjjxx bets 2500
+Mann123acb folds
+Jjjjjjjjjjxx collected 5000 from pot
+*** SUMMARY ***
+Total pot 5000 | No rake
+Board: [Kc Qh 3c]
+Seat 5: Jjjjjjjjjjxx won 5000
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2553204993427505231-63-1669480640 - Holdem no limit (100/400/800) - 2022/11/26 16:37:20 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #3 is the button
+Seat 1: TopTurndu11 (20000, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (28668, 2.25€ bounty)
+Seat 3: Ph ilibert (36042, 2.25€ bounty)
+Seat 4: Mann123acb (71464, 6.17€ bounty)
+Seat 5: Jjjjjjjjjjxx (35600, 3.37€ bounty)
+Seat 6: Gremista2022 (36299, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Mann123acb posts ante 100
+Jjjjjjjjjjxx posts ante 100
+TopTurndu11 posts ante 100
+YL_ML_GL_42 posts ante 100
+Ph ilibert posts ante 100
+Gremista2022 posts ante 100
+Mann123acb posts small blind 400
+Jjjjjjjjjjxx posts big blind 800
+Dealt to YL_ML_GL_42 [Kh Jh]
+*** PRE-FLOP *** 
+Gremista2022 folds
+TopTurndu11 folds
+YL_ML_GL_42 raises 1600 to 2400
+Ph ilibert calls 2400
+Mann123acb folds
+Jjjjjjjjjjxx calls 1600
+*** FLOP *** [5d 9c 3h]
+Jjjjjjjjjjxx checks
+YL_ML_GL_42 checks
+Ph ilibert checks
+*** TURN *** [5d 9c 3h][7s]
+Jjjjjjjjjjxx bets 2870
+YL_ML_GL_42 calls 2870
+Ph ilibert folds
+*** RIVER *** [5d 9c 3h 7s][7h]
+Jjjjjjjjjjxx checks
+YL_ML_GL_42 bets 9061
+Jjjjjjjjjjxx folds
+YL_ML_GL_42 collected 23001 from pot
+*** SUMMARY ***
+Total pot 23001 | No rake
+Board: [5d 9c 3h 7s 7h]
+Seat 2: YL_ML_GL_42 won 23001
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2553204993427505231-64-1669480701 - Holdem no limit (100/400/800) - 2022/11/26 16:38:21 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #4 is the button
+Seat 1: TopTurndu11 (19900, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (37238, 2.25€ bounty)
+Seat 3: Ph ilibert (33542, 2.25€ bounty)
+Seat 4: Mann123acb (70964, 6.17€ bounty)
+Seat 5: Jjjjjjjjjjxx (30230, 3.37€ bounty)
+Seat 6: Gremista2022 (36199, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Jjjjjjjjjjxx posts ante 100
+Gremista2022 posts ante 100
+TopTurndu11 posts ante 100
+YL_ML_GL_42 posts ante 100
+Ph ilibert posts ante 100
+Mann123acb posts ante 100
+Jjjjjjjjjjxx posts small blind 400
+Gremista2022 posts big blind 800
+Dealt to YL_ML_GL_42 [2s 5c]
+*** PRE-FLOP *** 
+TopTurndu11 folds
+YL_ML_GL_42 folds
+Ph ilibert folds
+Mann123acb raises 800 to 1600
+Jjjjjjjjjjxx folds
+Gremista2022 calls 800
+*** FLOP *** [6h Kc 9h]
+Gremista2022 checks
+Mann123acb checks
+*** TURN *** [6h Kc 9h][Kd]
+Gremista2022 bets 1386
+Mann123acb calls 1386
+*** RIVER *** [6h Kc 9h Kd][3c]
+Gremista2022 bets 9064
+Mann123acb raises 58814 to 67878 and is all-in
+Gremista2022 folds
+Mann123acb collected 83914 from pot
+*** SUMMARY ***
+Total pot 83914 | No rake
+Board: [6h Kc 9h Kd 3c]
+Seat 4: Mann123acb (button) won 83914
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2553204993427505231-65-1669480777 - Holdem no limit (100/400/800) - 2022/11/26 16:39:37 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #5 is the button
+Seat 1: TopTurndu11 (19800, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (37138, 2.25€ bounty)
+Seat 3: Ph ilibert (33442, 2.25€ bounty)
+Seat 4: Mann123acb (83914, 6.17€ bounty)
+Seat 5: Jjjjjjjjjjxx (29730, 3.37€ bounty)
+Seat 6: Gremista2022 (24049, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Gremista2022 posts ante 100
+TopTurndu11 posts ante 100
+YL_ML_GL_42 posts ante 100
+Ph ilibert posts ante 100
+Mann123acb posts ante 100
+Jjjjjjjjjjxx posts ante 100
+Gremista2022 posts small blind 400
+TopTurndu11 posts big blind 800
+Dealt to YL_ML_GL_42 [9s 9d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 1600 to 2400
+Ph ilibert folds
+Mann123acb folds
+Jjjjjjjjjjxx calls 2400
+Gremista2022 raises 21549 to 23949 and is all-in
+TopTurndu11 calls 18900 and is all-in
+YL_ML_GL_42 calls 21549
+Jjjjjjjjjjxx folds
+*** FLOP *** [Js 2d Qd]
+*** TURN *** [Js 2d Qd][6h]
+*** RIVER *** [Js 2d Qd 6h][5h]
+*** SHOW DOWN ***
+TopTurndu11 shows [Jd Kc] (One pair : Jacks)
+YL_ML_GL_42 shows [9s 9d] (One pair : 9)
+Gremista2022 shows [Ks Kh] (One pair : Kings)
+Gremista2022 collected 70598 from pot
+*** SUMMARY ***
+Total pot 70598 | No rake
+Board: [Js 2d Qd 6h 5h]
+Seat 1: TopTurndu11 (big blind) showed [Jd Kc] and lost with One pair : Jacks
+Seat 2: YL_ML_GL_42 showed [9s 9d] and lost with One pair : 9
+Seat 6: Gremista2022 (small blind) showed [Ks Kh] and won 70598 with One pair : Kings
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2553204993427505231-66-1669480826 - Holdem no limit (100/400/800) - 2022/11/26 16:40:26 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #6 is the button
+Seat 2: YL_ML_GL_42 (13089, 2.25€ bounty)
+Seat 3: Ph ilibert (33342, 2.25€ bounty)
+Seat 4: Mann123acb (83814, 6.17€ bounty)
+Seat 5: Jjjjjjjjjjxx (27230, 3.37€ bounty)
+Seat 6: Gremista2022 (70598, 3.37€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 100
+Ph ilibert posts ante 100
+Mann123acb posts ante 100
+Jjjjjjjjjjxx posts ante 100
+Gremista2022 posts ante 100
+YL_ML_GL_42 posts big blind 800
+Dealt to YL_ML_GL_42 [5s Kc]
+*** PRE-FLOP *** 
+Ph ilibert folds
+Mann123acb folds
+Jjjjjjjjjjxx folds
+Gremista2022 raises 69698 to 70498 and is all-in
+YL_ML_GL_42 folds
+Gremista2022 collected 71798 from pot
+*** SUMMARY ***
+Total pot 71798 | No rake
+Seat 6: Gremista2022 (button) won 71798
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2553204993427505231-67-1669480843 - Holdem no limit (100/400/800) - 2022/11/26 16:40:43 UTC
+Table: 'SAMOURAI(594464362)#0078' 6-max (real money) Seat #1 is the button
+Seat 2: YL_ML_GL_42 (12189, 2.25€ bounty)
+Seat 3: Ph ilibert (33242, 2.25€ bounty)
+Seat 4: Mann123acb (83714, 6.17€ bounty)
+Seat 5: Jjjjjjjjjjxx (27130, 3.37€ bounty)
+Seat 6: Gremista2022 (71798, 3.37€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 100
+Ph ilibert posts ante 100
+Mann123acb posts ante 100
+Jjjjjjjjjjxx posts ante 100
+Gremista2022 posts ante 100
+YL_ML_GL_42 posts small blind 400
+Ph ilibert posts big blind 800
+Dealt to YL_ML_GL_42 [Ac 7c]
+*** PRE-FLOP *** 
+Mann123acb folds
+Jjjjjjjjjjxx raises 800 to 1600
+Gremista2022 folds
+YL_ML_GL_42 raises 10489 to 12089 and is all-in
+Ph ilibert folds
+Jjjjjjjjjjxx calls 10489
+*** FLOP *** [Tc Ts 7h]
+*** TURN *** [Tc Ts 7h][Qs]
+*** RIVER *** [Tc Ts 7h Qs][4h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ac 7c] (Two pairs : Tens and 7)
+Jjjjjjjjjjxx shows [Ad Th] (Trips of Tens)
+Jjjjjjjjjjxx collected 25478 from pot
+*** SUMMARY ***
+Total pot 25478 | No rake
+Board: [Tc Ts 7h Qs 4h]
+Seat 2: YL_ML_GL_42 (small blind) showed [Ac 7c] and lost with Two pairs : Tens and 7
+Seat 5: Jjjjjjjjjjxx showed [Ad Th] and won 25478 with Trips of Tens
+
+

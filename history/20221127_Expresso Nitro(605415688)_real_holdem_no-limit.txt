@@ -1,0 +1,128 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600240580445339649-1-1669565672 - Holdem no limit (10/20) - 2022/11/27 16:14:32 UTC
+Table: 'Expresso Nitro(605415688)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (300)
+Seat 2: Pls3betMe (300)
+Seat 3: LeBapt_ (300)
+*** ANTE/BLINDS ***
+Pls3betMe posts small blind 10
+LeBapt_ posts big blind 20
+Dealt to YL_ML_GL_42 [8d Qh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Pls3betMe folds
+LeBapt_ collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: LeBapt_ (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600240580445339649-2-1669565677 - Holdem no limit (10/20) - 2022/11/27 16:14:37 UTC
+Table: 'Expresso Nitro(605415688)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (300)
+Seat 2: Pls3betMe (290)
+Seat 3: LeBapt_ (310)
+*** ANTE/BLINDS ***
+LeBapt_ posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [6d As]
+*** PRE-FLOP *** 
+Pls3betMe folds
+LeBapt_ raises 290 to 310 and is all-in
+YL_ML_GL_42 calls 280 and is all-in
+*** FLOP *** [Js Ah 2d]
+*** TURN *** [Js Ah 2d][5c]
+*** RIVER *** [Js Ah 2d 5c][Ad]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [6d As] (Trips of Aces)
+LeBapt_ shows [Jh Tc] (Two pairs : Aces and Jacks)
+LeBapt_ collected 10 from side pot 1
+YL_ML_GL_42 collected 600 from main pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Js Ah 2d 5c Ad]
+Seat 1: YL_ML_GL_42 (big blind) showed [6d As] and won 600 with Trips of Aces
+Seat 3: LeBapt_ (small blind) showed [Jh Tc] and won 10 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600240580445339649-3-1669565692 - Holdem no limit (10/20) - 2022/11/27 16:14:52 UTC
+Table: 'Expresso Nitro(605415688)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (600)
+Seat 2: Pls3betMe (290)
+Seat 3: LeBapt_ (10)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Pls3betMe posts big blind 20
+Dealt to YL_ML_GL_42 [4d 7h]
+*** PRE-FLOP *** 
+LeBapt_ calls 10 and is all-in
+YL_ML_GL_42 calls 10
+Pls3betMe checks
+*** FLOP *** [9s 3d 5h]
+YL_ML_GL_42 bets 40
+Pls3betMe folds
+*** TURN *** [9s 3d 5h][Th]
+*** RIVER *** [9s 3d 5h Th][6d]
+*** SHOW DOWN ***
+LeBapt_ shows [Ah 2c] (High card : Ace)
+YL_ML_GL_42 shows [4d 7h] (Straight 7 high)
+YL_ML_GL_42 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [9s 3d 5h Th 6d]
+Seat 1: YL_ML_GL_42 (small blind) showed [4d 7h] and won 90 with Straight 7 high
+Seat 3: LeBapt_ (button) showed [Ah 2c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600240580445339649-4-1669565714 - Holdem no limit (10/20) - 2022/11/27 16:15:14 UTC
+Table: 'Expresso Nitro(605415688)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (630)
+Seat 2: Pls3betMe (270)
+*** ANTE/BLINDS ***
+Pls3betMe posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [9c 7s]
+*** PRE-FLOP *** 
+Pls3betMe calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [9d 7h Ts]
+YL_ML_GL_42 checks
+Pls3betMe checks
+*** TURN *** [9d 7h Ts][2s]
+YL_ML_GL_42 checks
+Pls3betMe checks
+*** RIVER *** [9d 7h Ts 2s][3s]
+YL_ML_GL_42 bets 610 and is all-in
+Pls3betMe folds
+YL_ML_GL_42 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [9d 7h Ts 2s 3s]
+Seat 1: YL_ML_GL_42 (big blind) won 650
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2600240580445339649-5-1669565738 - Holdem no limit (15/30) - 2022/11/27 16:15:38 UTC
+Table: 'Expresso Nitro(605415688)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (650)
+Seat 2: Pls3betMe (250)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Pls3betMe posts big blind 30
+Dealt to YL_ML_GL_42 [Ts Kd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+Pls3betMe raises 160 to 250 and is all-in
+YL_ML_GL_42 calls 160
+*** FLOP *** [8s Ks 6c]
+*** TURN *** [8s Ks 6c][Td]
+*** RIVER *** [8s Ks 6c Td][7d]
+*** SHOW DOWN ***
+Pls3betMe shows [6s Kh] (Two pairs : Kings and 6)
+YL_ML_GL_42 shows [Ts Kd] (Two pairs : Kings and Tens)
+YL_ML_GL_42 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [8s Ks 6c Td 7d]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [Ts Kd] and won 500 with Two pairs : Kings and Tens
+Seat 2: Pls3betMe (big blind) showed [6s Kh] and lost with Two pairs : Kings and 6
+
+

@@ -1,0 +1,874 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 1 - HandId: #2607411960353914881-1-1669929931 - Holdem no limit (10/20) - 2022/12/01 21:25:31 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1500)
+Seat 2: Baraf (1500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Baraf posts big blind 20
+Dealt to YL_ML_GL_42 [7h 4s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Baraf collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Baraf (big blind) won 30
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 1 - HandId: #2607411960353914881-2-1669929969 - Holdem no limit (10/20) - 2022/12/01 21:26:09 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1490)
+Seat 2: Baraf (1510)
+*** ANTE/BLINDS ***
+Baraf posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [7c 8s]
+*** PRE-FLOP *** 
+Baraf folds
+YL_ML_GL_42 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 30
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 1 - HandId: #2607411960353914881-3-1669929978 - Holdem no limit (10/20) - 2022/12/01 21:26:18 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1500)
+Seat 2: Baraf (1500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Baraf posts big blind 20
+Dealt to YL_ML_GL_42 [5s 9c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Baraf collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Baraf (big blind) won 30
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 1 - HandId: #2607411960353914881-4-1669929983 - Holdem no limit (10/20) - 2022/12/01 21:26:23 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1490)
+Seat 2: Baraf (1510)
+*** ANTE/BLINDS ***
+Baraf posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [9h 6c]
+*** PRE-FLOP *** 
+Baraf folds
+YL_ML_GL_42 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 30
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 1 - HandId: #2607411960353914881-5-1669929987 - Holdem no limit (10/20) - 2022/12/01 21:26:27 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1500)
+Seat 2: Baraf (1500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Baraf posts big blind 20
+Dealt to YL_ML_GL_42 [Ks 2h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Baraf collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Baraf (big blind) won 30
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 1 - HandId: #2607411960353914881-6-1669929991 - Holdem no limit (10/20) - 2022/12/01 21:26:31 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1490)
+Seat 2: Baraf (1510)
+*** ANTE/BLINDS ***
+Baraf posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Jd Kh]
+*** PRE-FLOP *** 
+Baraf raises 40 to 60
+YL_ML_GL_42 raises 120 to 180
+Baraf folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 1 - HandId: #2607411960353914881-7-1669929999 - Holdem no limit (10/20) - 2022/12/01 21:26:39 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1550)
+Seat 2: Baraf (1450)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Baraf posts big blind 20
+Dealt to YL_ML_GL_42 [6s 2c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Baraf collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Baraf (big blind) won 30
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 1 - HandId: #2607411960353914881-8-1669930003 - Holdem no limit (10/20) - 2022/12/01 21:26:43 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1540)
+Seat 2: Baraf (1460)
+*** ANTE/BLINDS ***
+Baraf posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [2s 7d]
+*** PRE-FLOP *** 
+Baraf raises 40 to 60
+YL_ML_GL_42 folds
+Baraf collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 2: Baraf (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 1 - HandId: #2607411960353914881-9-1669930008 - Holdem no limit (10/20) - 2022/12/01 21:26:48 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1520)
+Seat 2: Baraf (1480)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Baraf posts big blind 20
+Dealt to YL_ML_GL_42 [7c 4d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Baraf collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Baraf (big blind) won 30
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 1 - HandId: #2607411960353914881-10-1669930011 - Holdem no limit (10/20) - 2022/12/01 21:26:51 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1510)
+Seat 2: Baraf (1490)
+*** ANTE/BLINDS ***
+Baraf posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [3s Jd]
+*** PRE-FLOP *** 
+Baraf raises 40 to 60
+YL_ML_GL_42 calls 40
+*** FLOP *** [Qh 4s 6d]
+YL_ML_GL_42 checks
+Baraf checks
+*** TURN *** [Qh 4s 6d][7d]
+YL_ML_GL_42 checks
+Baraf checks
+*** RIVER *** [Qh 4s 6d 7d][Jc]
+YL_ML_GL_42 bets 120
+Baraf folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Qh 4s 6d 7d Jc]
+Seat 1: YL_ML_GL_42 (big blind) won 240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 1 - HandId: #2607411960353914881-11-1669930033 - Holdem no limit (10/20) - 2022/12/01 21:27:13 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1570)
+Seat 2: Baraf (1430)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Baraf posts big blind 20
+Dealt to YL_ML_GL_42 [Td 3h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Baraf collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Baraf (big blind) won 30
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 1 - HandId: #2607411960353914881-12-1669930038 - Holdem no limit (10/20) - 2022/12/01 21:27:18 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1560)
+Seat 2: Baraf (1440)
+*** ANTE/BLINDS ***
+Baraf posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [6h 9h]
+*** PRE-FLOP *** 
+Baraf raises 40 to 60
+YL_ML_GL_42 calls 40
+*** FLOP *** [7h Kc 4s]
+YL_ML_GL_42 checks
+Baraf bets 60
+YL_ML_GL_42 folds
+Baraf collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [7h Kc 4s]
+Seat 2: Baraf (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 1 - HandId: #2607411960353914881-13-1669930050 - Holdem no limit (10/20) - 2022/12/01 21:27:30 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1500)
+Seat 2: Baraf (1500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Baraf posts big blind 20
+Dealt to YL_ML_GL_42 [Kc 8d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 40 to 60
+Baraf calls 40
+*** FLOP *** [6h Td Ah]
+Baraf checks
+YL_ML_GL_42 checks
+*** TURN *** [6h Td Ah][Qs]
+Baraf bets 60
+YL_ML_GL_42 folds
+Baraf collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [6h Td Ah Qs]
+Seat 2: Baraf (big blind) won 180
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 1 - HandId: #2607411960353914881-14-1669930072 - Holdem no limit (10/20) - 2022/12/01 21:27:52 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1440)
+Seat 2: Baraf (1560)
+*** ANTE/BLINDS ***
+Baraf posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Jc Kd]
+*** PRE-FLOP *** 
+Baraf raises 40 to 60
+YL_ML_GL_42 raises 120 to 180
+Baraf calls 120
+*** FLOP *** [3h Tc 5s]
+YL_ML_GL_42 bets 360
+Baraf raises 1020 to 1380 and is all-in
+YL_ML_GL_42 folds
+Baraf shows [4s 2s] (High card : Ten)
+Baraf collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Board: [3h Tc 5s]
+Seat 2: Baraf (small blind) (button) showed [4s 2s] and won 2100 with High card : Ten
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 1 - HandId: #2607411960353914881-15-1669930104 - Holdem no limit (10/20) - 2022/12/01 21:28:24 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (900)
+Seat 2: Baraf (2100)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Baraf posts big blind 20
+Dealt to YL_ML_GL_42 [Ts Ac]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 880 to 900 and is all-in
+Baraf folds
+YL_ML_GL_42 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 920
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 2 - HandId: #2607411960353914881-16-1669930130 - Holdem no limit (15/30) - 2022/12/01 21:28:50 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (920)
+Seat 2: Baraf (2080)
+*** ANTE/BLINDS ***
+Baraf posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [6d Qs]
+*** PRE-FLOP *** 
+Baraf calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [9s Tc Js]
+YL_ML_GL_42 bets 890 and is all-in
+Baraf folds
+YL_ML_GL_42 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Board: [9s Tc Js]
+Seat 1: YL_ML_GL_42 (big blind) won 950
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 2 - HandId: #2607411960353914881-17-1669930152 - Holdem no limit (15/30) - 2022/12/01 21:29:12 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (950)
+Seat 2: Baraf (2050)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Baraf posts big blind 30
+Dealt to YL_ML_GL_42 [7c 2h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Baraf collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Baraf (big blind) won 45
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 2 - HandId: #2607411960353914881-18-1669930156 - Holdem no limit (15/30) - 2022/12/01 21:29:16 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (935)
+Seat 2: Baraf (2065)
+*** ANTE/BLINDS ***
+Baraf posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [9c Ad]
+*** PRE-FLOP *** 
+Baraf calls 15
+YL_ML_GL_42 raises 905 to 935 and is all-in
+Baraf folds
+YL_ML_GL_42 collected 965 from pot
+*** SUMMARY ***
+Total pot 965 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 965
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 2 - HandId: #2607411960353914881-19-1669930162 - Holdem no limit (15/30) - 2022/12/01 21:29:22 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (965)
+Seat 2: Baraf (2035)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Baraf posts big blind 30
+Dealt to YL_ML_GL_42 [Ks 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 935 to 965 and is all-in
+Baraf folds
+YL_ML_GL_42 collected 995 from pot
+*** SUMMARY ***
+Total pot 995 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 995
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 2 - HandId: #2607411960353914881-20-1669930167 - Holdem no limit (15/30) - 2022/12/01 21:29:27 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (995)
+Seat 2: Baraf (2005)
+*** ANTE/BLINDS ***
+Baraf posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [4d Qh]
+*** PRE-FLOP *** 
+Baraf calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [9d Qc 6c]
+YL_ML_GL_42 bets 60
+Baraf calls 60
+*** TURN *** [9d Qc 6c][7h]
+YL_ML_GL_42 bets 180
+Baraf calls 180
+*** RIVER *** [9d Qc 6c 7h][6s]
+YL_ML_GL_42 bets 725 and is all-in
+Baraf calls 725
+*** SHOW DOWN ***
+Baraf shows [7c Ad] (Two pairs : 7 and 6)
+YL_ML_GL_42 shows [4d Qh] (Two pairs : Queens and 6)
+YL_ML_GL_42 collected 1990 from pot
+*** SUMMARY ***
+Total pot 1990 | No rake
+Board: [9d Qc 6c 7h 6s]
+Seat 1: YL_ML_GL_42 (big blind) showed [4d Qh] and won 1990 with Two pairs : Queens and 6
+Seat 2: Baraf (small blind) (button) showed [7c Ad] and lost with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 2 - HandId: #2607411960353914881-21-1669930189 - Holdem no limit (15/30) - 2022/12/01 21:29:49 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1990)
+Seat 2: Baraf (1010)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Baraf posts big blind 30
+Dealt to YL_ML_GL_42 [5s 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+Baraf calls 60
+*** FLOP *** [3c 4s Jc]
+Baraf checks
+YL_ML_GL_42 checks
+*** TURN *** [3c 4s Jc][Qc]
+Baraf bets 90
+YL_ML_GL_42 folds
+Baraf collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [3c 4s Jc Qc]
+Seat 2: Baraf (big blind) won 270
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 2 - HandId: #2607411960353914881-22-1669930210 - Holdem no limit (15/30) - 2022/12/01 21:30:10 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1900)
+Seat 2: Baraf (1100)
+*** ANTE/BLINDS ***
+Baraf posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [7d Jd]
+*** PRE-FLOP *** 
+Baraf folds
+YL_ML_GL_42 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 45
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 2 - HandId: #2607411960353914881-23-1669930214 - Holdem no limit (15/30) - 2022/12/01 21:30:14 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1915)
+Seat 2: Baraf (1085)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Baraf posts big blind 30
+Dealt to YL_ML_GL_42 [2c 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+Baraf raises 180 to 270
+YL_ML_GL_42 folds
+Baraf collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: Baraf (big blind) won 360
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 2 - HandId: #2607411960353914881-24-1669930226 - Holdem no limit (15/30) - 2022/12/01 21:30:26 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1825)
+Seat 2: Baraf (1175)
+*** ANTE/BLINDS ***
+Baraf posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Jd 6d]
+*** PRE-FLOP *** 
+Baraf raises 30 to 60
+YL_ML_GL_42 calls 30
+*** FLOP *** [9s 9c Kh]
+YL_ML_GL_42 checks
+Baraf bets 45
+YL_ML_GL_42 folds
+Baraf collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [9s 9c Kh]
+Seat 2: Baraf (small blind) (button) won 165
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 2 - HandId: #2607411960353914881-25-1669930238 - Holdem no limit (15/30) - 2022/12/01 21:30:38 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1765)
+Seat 2: Baraf (1235)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Baraf posts big blind 30
+Dealt to YL_ML_GL_42 [Ac Ks]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+Baraf raises 180 to 270
+YL_ML_GL_42 raises 1495 to 1765 and is all-in
+Baraf calls 965 and is all-in
+*** FLOP *** [7h Jd Js]
+*** TURN *** [7h Jd Js][7s]
+*** RIVER *** [7h Jd Js 7s][Jh]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ac Ks] (Full of Jacks and 7)
+Baraf shows [2d 2s] (Full of Jacks and 7)
+Baraf collected 1235 from main pot
+YL_ML_GL_42 collected 1765 from side pot 1
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [7h Jd Js 7s Jh]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [Ac Ks] and won 1765 with Full of Jacks and 7
+Seat 2: Baraf (big blind) showed [2d 2s] and won 1235 with Full of Jacks and 7
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 2 - HandId: #2607411960353914881-26-1669930259 - Holdem no limit (15/30) - 2022/12/01 21:30:59 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1765)
+Seat 2: Baraf (1235)
+*** ANTE/BLINDS ***
+Baraf posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Ks Td]
+*** PRE-FLOP *** 
+Baraf calls 15
+YL_ML_GL_42 raises 30 to 60
+Baraf calls 30
+*** FLOP *** [7c 4c Kc]
+YL_ML_GL_42 bets 30
+Baraf calls 30
+*** TURN *** [7c 4c Kc][8d]
+YL_ML_GL_42 bets 180
+Baraf folds
+YL_ML_GL_42 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [7c 4c Kc 8d]
+Seat 1: YL_ML_GL_42 (big blind) won 360
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 3 - HandId: #2607411960353914881-27-1669930302 - Holdem no limit (20/40) - 2022/12/01 21:31:42 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1855)
+Seat 2: Baraf (1145)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Baraf posts big blind 40
+Dealt to YL_ML_GL_42 [Td 3s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 20
+Baraf checks
+*** FLOP *** [5s 3c 9c]
+Baraf checks
+YL_ML_GL_42 checks
+*** TURN *** [5s 3c 9c][Ac]
+Baraf checks
+YL_ML_GL_42 checks
+*** RIVER *** [5s 3c 9c Ac][6h]
+Baraf checks
+YL_ML_GL_42 bets 80
+Baraf calls 80
+*** SHOW DOWN ***
+Baraf shows [7d Kd] (High card : Ace)
+YL_ML_GL_42 shows [Td 3s] (One pair : 3)
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [5s 3c 9c Ac 6h]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [Td 3s] and won 240 with One pair : 3
+Seat 2: Baraf (big blind) showed [7d Kd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 3 - HandId: #2607411960353914881-28-1669930320 - Holdem no limit (20/40) - 2022/12/01 21:32:00 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1975)
+Seat 2: Baraf (1025)
+*** ANTE/BLINDS ***
+Baraf posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [8c 5s]
+*** PRE-FLOP *** 
+Baraf raises 80 to 120
+YL_ML_GL_42 folds
+Baraf collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: Baraf (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 3 - HandId: #2607411960353914881-29-1669930326 - Holdem no limit (20/40) - 2022/12/01 21:32:06 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1935)
+Seat 2: Baraf (1065)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Baraf posts big blind 40
+Dealt to YL_ML_GL_42 [5s 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Baraf collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Baraf (big blind) won 60
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 3 - HandId: #2607411960353914881-30-1669930330 - Holdem no limit (20/40) - 2022/12/01 21:32:10 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1915)
+Seat 2: Baraf (1085)
+*** ANTE/BLINDS ***
+Baraf posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Js 6h]
+*** PRE-FLOP *** 
+Baraf raises 80 to 120
+YL_ML_GL_42 calls 80
+*** FLOP *** [Qh Qc Tc]
+YL_ML_GL_42 checks
+Baraf checks
+*** TURN *** [Qh Qc Tc][8c]
+YL_ML_GL_42 checks
+Baraf bets 120
+YL_ML_GL_42 folds
+Baraf collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Qh Qc Tc 8c]
+Seat 2: Baraf (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 3 - HandId: #2607411960353914881-31-1669930350 - Holdem no limit (20/40) - 2022/12/01 21:32:30 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1795)
+Seat 2: Baraf (1205)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Baraf posts big blind 40
+Dealt to YL_ML_GL_42 [Js 4d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Baraf collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Baraf (big blind) won 60
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 3 - HandId: #2607411960353914881-32-1669930353 - Holdem no limit (20/40) - 2022/12/01 21:32:33 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1775)
+Seat 2: Baraf (1225)
+*** ANTE/BLINDS ***
+Baraf posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Ad 5s]
+*** PRE-FLOP *** 
+Baraf calls 20
+YL_ML_GL_42 raises 80 to 120
+Baraf calls 80
+*** FLOP *** [4c Jd Qc]
+YL_ML_GL_42 bets 1655 and is all-in
+Baraf folds
+YL_ML_GL_42 collected 1895 from pot
+*** SUMMARY ***
+Total pot 1895 | No rake
+Board: [4c Jd Qc]
+Seat 1: YL_ML_GL_42 (big blind) won 1895
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 3 - HandId: #2607411960353914881-33-1669930368 - Holdem no limit (20/40) - 2022/12/01 21:32:48 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1895)
+Seat 2: Baraf (1105)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Baraf posts big blind 40
+Dealt to YL_ML_GL_42 [7c As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+Baraf folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 3 - HandId: #2607411960353914881-34-1669930377 - Holdem no limit (20/40) - 2022/12/01 21:32:57 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1935)
+Seat 2: Baraf (1065)
+*** ANTE/BLINDS ***
+Baraf posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [8c Qd]
+*** PRE-FLOP *** 
+Baraf folds
+YL_ML_GL_42 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 60
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 3 - HandId: #2607411960353914881-35-1669930380 - Holdem no limit (20/40) - 2022/12/01 21:33:00 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1955)
+Seat 2: Baraf (1045)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Baraf posts big blind 40
+Dealt to YL_ML_GL_42 [5c 9c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+Baraf folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 3 - HandId: #2607411960353914881-36-1669930386 - Holdem no limit (20/40) - 2022/12/01 21:33:06 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1995)
+Seat 2: Baraf (1005)
+*** ANTE/BLINDS ***
+Baraf posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [9h Kc]
+*** PRE-FLOP *** 
+Baraf raises 40 to 80
+YL_ML_GL_42 calls 40
+*** FLOP *** [3d 3s 8d]
+YL_ML_GL_42 checks
+Baraf bets 60
+YL_ML_GL_42 calls 60
+*** TURN *** [3d 3s 8d][5h]
+YL_ML_GL_42 checks
+Baraf checks
+*** RIVER *** [3d 3s 8d 5h][Td]
+YL_ML_GL_42 bets 280
+Baraf calls 280
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9h Kc] (One pair : 3)
+Baraf shows [Jh 5c] (Two pairs : 5 and 3)
+Baraf collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [3d 3s 8d 5h Td]
+Seat 1: YL_ML_GL_42 (big blind) showed [9h Kc] and lost with One pair : 3
+Seat 2: Baraf (small blind) (button) showed [Jh 5c] and won 840 with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 3 - HandId: #2607411960353914881-37-1669930409 - Holdem no limit (20/40) - 2022/12/01 21:33:29 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1575)
+Seat 2: Baraf (1425)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Baraf posts big blind 40
+Dealt to YL_ML_GL_42 [Ad 3d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+Baraf calls 80
+*** FLOP *** [Ah 6d Th]
+Baraf checks
+YL_ML_GL_42 checks
+*** TURN *** [Ah 6d Th][Qs]
+Baraf checks
+YL_ML_GL_42 checks
+*** RIVER *** [Ah 6d Th Qs][Tc]
+Baraf bets 120
+YL_ML_GL_42 raises 480 to 600
+Baraf folds
+YL_ML_GL_42 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [Ah 6d Th Qs Tc]
+Seat 1: YL_ML_GL_42 (small blind) (button) won 960
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 3 - HandId: #2607411960353914881-38-1669930436 - Holdem no limit (20/40) - 2022/12/01 21:33:56 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1815)
+Seat 2: Baraf (1185)
+*** ANTE/BLINDS ***
+Baraf posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [4d 6h]
+*** PRE-FLOP *** 
+Baraf raises 40 to 80
+YL_ML_GL_42 folds
+Baraf collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Baraf (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 3 - HandId: #2607411960353914881-39-1669930441 - Holdem no limit (20/40) - 2022/12/01 21:34:01 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1775)
+Seat 2: Baraf (1225)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Baraf posts big blind 40
+Dealt to YL_ML_GL_42 [Ad 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+Baraf folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 3 - HandId: #2607411960353914881-40-1669930446 - Holdem no limit (20/40) - 2022/12/01 21:34:06 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1815)
+Seat 2: Baraf (1185)
+*** ANTE/BLINDS ***
+Baraf posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Ah Jd]
+*** PRE-FLOP *** 
+Baraf raises 40 to 80
+YL_ML_GL_42 raises 160 to 240
+Baraf folds
+YL_ML_GL_42 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 320
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 3 - HandId: #2607411960353914881-41-1669930459 - Holdem no limit (20/40) - 2022/12/01 21:34:19 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1895)
+Seat 2: Baraf (1105)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Baraf posts big blind 40
+Dealt to YL_ML_GL_42 [3h 5c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Baraf collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Baraf (big blind) won 60
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 3 - HandId: #2607411960353914881-42-1669930463 - Holdem no limit (20/40) - 2022/12/01 21:34:23 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1875)
+Seat 2: Baraf (1125)
+*** ANTE/BLINDS ***
+Baraf posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [8s 2s]
+*** PRE-FLOP *** 
+Baraf raises 40 to 80
+YL_ML_GL_42 calls 40
+*** FLOP *** [6c Qs 9c]
+YL_ML_GL_42 checks
+Baraf bets 80
+YL_ML_GL_42 folds
+Baraf collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [6c Qs 9c]
+Seat 2: Baraf (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 9.40 + 0.60 level: 4 - HandId: #2607411960353914881-43-1669930477 - Holdem no limit (30/60) - 2022/12/01 21:34:37 UTC
+Table: 'No Limit Hold'em(607085405)#0' 2-max (play money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1795)
+Seat 2: Baraf (1205)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+Baraf posts big blind 60
+Dealt to YL_ML_GL_42 [4s As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 120 to 180
+Baraf calls 120
+*** FLOP *** [7h 7c 3s]
+Baraf checks
+YL_ML_GL_42 bets 288
+Baraf calls 288
+*** TURN *** [7h 7c 3s][9d]
+Baraf checks
+YL_ML_GL_42 checks
+*** RIVER *** [7h 7c 3s 9d][3d]
+Baraf checks
+YL_ML_GL_42 bets 936
+Baraf calls 737 and is all-in
+*** SHOW DOWN ***
+Baraf shows [Jd Kh] (Two pairs : 7 and 3)
+YL_ML_GL_42 shows [4s As] (Two pairs : 7 and 3)
+YL_ML_GL_42 collected 2609 from pot
+*** SUMMARY ***
+Total pot 2609 | No rake
+Board: [7h 7c 3s 9d 3d]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [4s As] and won 2609 with Two pairs : 7 and 3
+Seat 2: Baraf (big blind) showed [Jd Kh] and lost with Two pairs : 7 and 3
+
+

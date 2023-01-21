@@ -1,0 +1,248 @@
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2592687554037809153-1-1669148533 - Holdem no limit (10/20) - 2022/11/22 20:22:13 UTC
+Table: 'Expresso(603657112)#0' 3-max (real money) Seat #3 is the button
+Seat 1: L as et l as (500)
+Seat 2: Vmveneno (500)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+L as et l as posts small blind 10
+Vmveneno posts big blind 20
+Dealt to YL_ML_GL_42 [6c 6d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 480 to 500 and is all-in
+L as et l as folds
+Vmveneno folds
+YL_ML_GL_42 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 3: YL_ML_GL_42 (button) won 530
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2592687554037809153-2-1669148547 - Holdem no limit (10/20) - 2022/11/22 20:22:27 UTC
+Table: 'Expresso(603657112)#0' 3-max (real money) Seat #1 is the button
+Seat 1: L as et l as (490)
+Seat 2: Vmveneno (480)
+Seat 3: YL_ML_GL_42 (530)
+*** ANTE/BLINDS ***
+Vmveneno posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [7d 5c]
+*** PRE-FLOP *** 
+L as et l as folds
+Vmveneno calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [8h Jh 9d]
+Vmveneno checks
+YL_ML_GL_42 bets 40
+Vmveneno folds
+YL_ML_GL_42 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8h Jh 9d]
+Seat 3: YL_ML_GL_42 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2592687554037809153-3-1669148572 - Holdem no limit (10/20) - 2022/11/22 20:22:52 UTC
+Table: 'Expresso(603657112)#0' 3-max (real money) Seat #2 is the button
+Seat 1: L as et l as (490)
+Seat 2: Vmveneno (460)
+Seat 3: YL_ML_GL_42 (550)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+L as et l as posts big blind 20
+Dealt to YL_ML_GL_42 [2c 2h]
+*** PRE-FLOP *** 
+Vmveneno calls 20
+YL_ML_GL_42 calls 10
+L as et l as raises 470 to 490 and is all-in
+Vmveneno folds
+YL_ML_GL_42 calls 470
+*** FLOP *** [Jd Js 6c]
+*** TURN *** [Jd Js 6c][Kh]
+*** RIVER *** [Jd Js 6c Kh][8c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [2c 2h] (Two pairs : Jacks and 2)
+L as et l as shows [Ks Qd] (Two pairs : Kings and Jacks)
+L as et l as collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [Jd Js 6c Kh 8c]
+Seat 1: L as et l as (big blind) showed [Ks Qd] and won 1000 with Two pairs : Kings and Jacks
+Seat 3: YL_ML_GL_42 (small blind) showed [2c 2h] and lost with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2592687554037809153-4-1669148596 - Holdem no limit (10/20) - 2022/11/22 20:23:16 UTC
+Table: 'Expresso(603657112)#0' 3-max (real money) Seat #3 is the button
+Seat 1: L as et l as (1000)
+Seat 2: Vmveneno (440)
+Seat 3: YL_ML_GL_42 (60)
+*** ANTE/BLINDS ***
+L as et l as posts small blind 10
+Vmveneno posts big blind 20
+Dealt to YL_ML_GL_42 [3c Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 40 to 60 and is all-in
+L as et l as folds
+Vmveneno folds
+YL_ML_GL_42 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: YL_ML_GL_42 (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2592687554037809153-5-1669148605 - Holdem no limit (10/20) - 2022/11/22 20:23:25 UTC
+Table: 'Expresso(603657112)#0' 3-max (real money) Seat #1 is the button
+Seat 1: L as et l as (990)
+Seat 2: Vmveneno (420)
+Seat 3: YL_ML_GL_42 (90)
+*** ANTE/BLINDS ***
+Vmveneno posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Jc 6c]
+*** PRE-FLOP *** 
+L as et l as raises 50 to 70
+Vmveneno folds
+YL_ML_GL_42 raises 20 to 90 and is all-in
+L as et l as calls 20
+*** FLOP *** [5d 3c 2s]
+*** TURN *** [5d 3c 2s][Kc]
+*** RIVER *** [5d 3c 2s Kc][Tc]
+*** SHOW DOWN ***
+L as et l as shows [Kh Qc] (One pair : Kings)
+YL_ML_GL_42 shows [Jc 6c] (Flush King high)
+YL_ML_GL_42 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [5d 3c 2s Kc Tc]
+Seat 1: L as et l as (button) showed [Kh Qc] and lost with One pair : Kings
+Seat 3: YL_ML_GL_42 (big blind) showed [Jc 6c] and won 190 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2592687554037809153-6-1669148628 - Holdem no limit (15/30) - 2022/11/22 20:23:48 UTC
+Table: 'Expresso(603657112)#0' 3-max (real money) Seat #2 is the button
+Seat 1: L as et l as (900)
+Seat 2: Vmveneno (410)
+Seat 3: YL_ML_GL_42 (190)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+L as et l as posts big blind 30
+Dealt to YL_ML_GL_42 [Jd 7s]
+*** PRE-FLOP *** 
+Vmveneno calls 30
+YL_ML_GL_42 folds
+L as et l as checks
+*** FLOP *** [Js 6h 5h]
+L as et l as checks
+Vmveneno checks
+*** TURN *** [Js 6h 5h][Td]
+L as et l as bets 49
+Vmveneno calls 49
+*** RIVER *** [Js 6h 5h Td][3d]
+L as et l as bets 61
+Vmveneno calls 61
+*** SHOW DOWN ***
+L as et l as shows [4c Ts] (One pair : Tens)
+Vmveneno shows [Tc Kc] (One pair : Tens)
+Vmveneno collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | No rake
+Board: [Js 6h 5h Td 3d]
+Seat 1: L as et l as (big blind) showed [4c Ts] and lost with One pair : Tens
+Seat 2: Vmveneno (button) showed [Tc Kc] and won 295 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2592687554037809153-7-1669148652 - Holdem no limit (15/30) - 2022/11/22 20:24:12 UTC
+Table: 'Expresso(603657112)#0' 3-max (real money) Seat #3 is the button
+Seat 1: L as et l as (760)
+Seat 2: Vmveneno (565)
+Seat 3: YL_ML_GL_42 (175)
+*** ANTE/BLINDS ***
+L as et l as posts small blind 15
+Vmveneno posts big blind 30
+Dealt to YL_ML_GL_42 [6s 3s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+L as et l as raises 730 to 760 and is all-in
+Vmveneno folds
+L as et l as collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Seat 1: L as et l as (small blind) won 790
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2592687554037809153-8-1669148661 - Holdem no limit (15/30) - 2022/11/22 20:24:21 UTC
+Table: 'Expresso(603657112)#0' 3-max (real money) Seat #1 is the button
+Seat 1: L as et l as (790)
+Seat 2: Vmveneno (535)
+Seat 3: YL_ML_GL_42 (175)
+*** ANTE/BLINDS ***
+Vmveneno posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Kh 4s]
+*** PRE-FLOP *** 
+L as et l as raises 75 to 105
+Vmveneno folds
+YL_ML_GL_42 folds
+L as et l as collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: L as et l as (button) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2592687554037809153-9-1669148676 - Holdem no limit (15/30) - 2022/11/22 20:24:36 UTC
+Table: 'Expresso(603657112)#0' 3-max (real money) Seat #2 is the button
+Seat 1: L as et l as (835)
+Seat 2: Vmveneno (520)
+Seat 3: YL_ML_GL_42 (145)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+L as et l as posts big blind 30
+Dealt to YL_ML_GL_42 [Ac 2h]
+*** PRE-FLOP *** 
+Vmveneno calls 30
+YL_ML_GL_42 raises 115 to 145 and is all-in
+L as et l as folds
+Vmveneno calls 115
+*** FLOP *** [Td Ah As]
+*** TURN *** [Td Ah As][Jc]
+*** RIVER *** [Td Ah As Jc][7s]
+*** SHOW DOWN ***
+Vmveneno shows [Kc 2c] (One pair : Aces)
+YL_ML_GL_42 shows [Ac 2h] (Trips of Aces)
+YL_ML_GL_42 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Td Ah As Jc 7s]
+Seat 2: Vmveneno (button) showed [Kc 2c] and lost with One pair : Aces
+Seat 3: YL_ML_GL_42 (small blind) showed [Ac 2h] and won 320 with Trips of Aces
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2592687554037809153-10-1669148696 - Holdem no limit (15/30) - 2022/11/22 20:24:56 UTC
+Table: 'Expresso(603657112)#0' 3-max (real money) Seat #3 is the button
+Seat 1: L as et l as (805)
+Seat 2: Vmveneno (375)
+Seat 3: YL_ML_GL_42 (320)
+*** ANTE/BLINDS ***
+L as et l as posts small blind 15
+Vmveneno posts big blind 30
+Dealt to YL_ML_GL_42 [Ad Qc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 290 to 320 and is all-in
+L as et l as calls 305
+Vmveneno raises 55 to 375 and is all-in
+L as et l as calls 55
+*** FLOP *** [5d 3d 6s]
+*** TURN *** [5d 3d 6s][8c]
+*** RIVER *** [5d 3d 6s 8c][9h]
+*** SHOW DOWN ***
+L as et l as shows [Qd Tc] (High card : Queen)
+YL_ML_GL_42 shows [Ad Qc] (High card : Ace)
+Vmveneno shows [5c 5h] (Trips of 5)
+Vmveneno collected 1070 from pot
+*** SUMMARY ***
+Total pot 1070 | No rake
+Board: [5d 3d 6s 8c 9h]
+Seat 1: L as et l as (small blind) showed [Qd Tc] and lost with High card : Queen
+Seat 2: Vmveneno (big blind) showed [5c 5h] and won 1070 with Trips of 5
+Seat 3: YL_ML_GL_42 (button) showed [Ad Qc] and lost with High card : Ace
+
+

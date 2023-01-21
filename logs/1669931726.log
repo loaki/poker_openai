@@ -1,0 +1,1637 @@
+1669931726171 inf [app] Launch
+1669931726218 inf [scene] Bridge initialize
+1669931726229 inf [scene] Scene open
+1669931726235 inf [scene] Scene create
+1669931726251 inf [scene] Scene loading
+1669931726258 inf [app] Checking for update
+1669931726511 inf [app] Update for version 1.24.1 is not available (latest version: 1.24.1, downgrade is disallowed).
+1669931726723 inf [scene] Browser loaded
+1669931726729 inf [scene] Bridge loaded
+1669931726751 inf [tracker] Listening on port: 8003
+1669931729540 inf [api] < Service core/authentication/token/generate
+1669931729541 inf [network] > Http https://wapi.winamax.fr/core/authentication/token/generate post
+1669931729857 inf [network] > Http https://wapi.winamax.fr/core/authentication/token/generate ok
+1669931729858 inf [api] > Service core/authentication/token/generate
+1669931729859 inf [api] < Service poker/public/config/preauth {"client":"poker","application":"desktop","opid":"wam","device":"electron","ver":"1.24.1.1669797839","os":"win32","cid":"b94b276db79aabbcbfbe64cabbfea685"}
+1669931729860 inf [network] > Http https://api.winamax.fr/poker/public/config/preauth?client=poker&application=desktop&opid=wam&device=electron&ver=1.24.1.1669797839&os=win32&cid=b94b276db79aabbcbfbe64cabbfea685 get
+1669931730153 inf [network] > Http https://api.winamax.fr/poker/public/config/preauth?client=poker&application=desktop&opid=wam&device=electron&ver=1.24.1.1669797839&os=win32&cid=b94b276db79aabbcbfbe64cabbfea685 ok
+1669931730162 inf [api] > Service poker/public/config/preauth {"core":{"type":"wss","retry":{"count":3,"timeout":10000,"delay":2000,"random":1000},"hosts":["wapi.winamax.fr:443/poker/front/ws/websocket"],"enable":true,"zombie":{"duration":45000},"socket":{"sleep":10,"buffer":16384}},"features":{"vm":false,"playground":{"threshold":1000},"time":{"duration":10}},"serverstatus":{"status":"up","polling":300,"i18n":{"de_DE":{"title":"","info":"Alle Dienste sind verfügbar"},"fr_FR":{"title":"","info":"Tous les services sont fonctionnels"},"en_GB":{"title":"","info":"All services are operational."},"*":{"title":"","info":"All services are operational."},"en_US":{"title":"","info":"All services are operational."},"es_ES":{"title":"","info":"All services are operational."},"pt_PT":{"title":"","info":"All services are operational."}}},"auth":{"version":2,"timeout":6000,"refresh":{"count":3,"delay":2500}}}
+1669931730171 inf [network] Registering channel prefs
+1669931730172 inf [network] Enqueuing AUTH:SIGNIN
+1669931730173 inf [network] Creating socket wss://wapi.winamax.fr:443/poker/front/ws/websocket
+1669931730174 inf [network] Connection status: 1
+1669931730406 inf [network] Socket opened
+1669931730406 inf [network] Connection status: 2
+1669931730407 inf [network] Connection status: 3
+1669931730408 inf [network] < prefs AUTH:SIGNIN
+1669931730721 inf [network] > prefs AUTH:SIGNIN_OK
+1669931730722 inf [network] Connection status: 4
+1669931730725 inf [network] > prefs NOTIFICATION:POST_INFO
+1669931730726 inf [network] < prefs TIME:GET
+1669931730726 inf [network] < prefs GAMESTATS:JOIN
+1669931730787 inf [network] > prefs TIME:GET_OK
+1669931730795 inf [api] < Service poker/client/prefs
+1669931730795 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs post
+1669931730849 inf [network] > prefs GAMESTATS:JOIN_OK
+1669931730992 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs ok
+1669931730993 inf [api] > Service poker/client/prefs
+1669931731000 inf [router] Execute: wam://preload-ok
+1669931731001 inf [router] Navigate: wam://lobbies
+1669931731003 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/config.1624292306 get
+1669931731004 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/ressource.1624283658 get
+1669931731007 inf [router] Navigation done: wam://lobbies
+1669931731008 inf [router] Execution done: wam://preload-ok
+1669931731009 inf [network] Registering channel subscriptions
+1669931731009 inf [api] < Service operator/userdata
+1669931731010 inf [network] > Http https://wapi.winamax.fr/operator/userdata post
+1669931731012 inf [api] < Service operator/winamax-tv/public
+1669931731012 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public post
+1669931731013 inf [network] < prefs SRM:JOIN
+1669931731014 inf [network] < prefs NEWS:GET
+1669931731014 inf [network] < prefs DATA:GET
+1669931731015 inf [network] < prefs BUDDY:GET
+1669931731015 inf [network] < prefs BUDDYROOM:JOIN
+1669931731017 inf [network] < prefs TIME:GET
+1669931731018 inf [network] < prefs CASHIER:GET
+1669931731018 inf [network] < prefs CASHIER:LIST
+1669931731019 inf [network] < prefs CASHIER:GET
+1669931731019 inf [network] < prefs CASHIER:LIST
+1669931731020 inf [network] < subscriptions FILTERLIST:CREATE
+1669931731020 inf [network] < subscriptions FILTERLIST:CREATE
+1669931731021 inf [network] < subscriptions FILTERLIST:CREATE
+1669931731072 inf [network] > prefs TIME:GET_OK
+1669931731073 inf [network] > prefs SRM:JOIN_OK
+1669931731074 inf [network] > prefs CASHIER:GET_OK
+1669931731075 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1669931731076 inf [network] > subscriptions FILTERLIST:SET
+1669931731077 inf [network] > prefs CASHIER:LIST_OK
+1669931731077 inf [network] > prefs CASHIER:GET_OK
+1669931731078 inf [network] > prefs BUDDYROOM:JOIN_OK
+1669931731168 inf [network] Registering channel wam.general.t1
+1669931731168 inf [network] < wam.general.t1 CHATROOM:JOIN
+1669931731231 inf [network] > prefs CASHIER:LIST_OK
+1669931731232 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1669931731232 inf [network] > subscriptions FILTERLIST:SET
+1669931731234 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1669931731234 inf [network] > subscriptions FILTERLIST:SET
+1669931731258 inf [network] > prefs NEWS:GET_OK
+1669931731398 inf [network] > prefs BUDDY:GET_OK
+1669931731399 inf [network] > prefs DATA:GET_ERR
+1669931731411 inf [network] < prefs BUDDYROOM:JOIN
+1669931731421 inf [network] > wam.general.t1 CHATROOM:JOIN_OK
+1669931731481 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public ok
+1669931731482 inf [api] > Service operator/winamax-tv/public
+1669931731493 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/config.1624292306 ok
+1669931731806 inf [network] > Http https://wapi.winamax.fr/operator/userdata ok
+1669931731808 inf [api] > Service operator/userdata
+1669931731940 inf [network] > prefs BUDDYROOM:JOIN_OK
+1669931732099 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/ressource.1624283658 ok
+1669931732101 inf [network] > prefs BUDDYROOM:JOIN_INFO
+1669931733008 inf [api] < Service poker/client/prefs
+1669931733008 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs post
+1669931733390 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs ok
+1669931733391 inf [api] > Service poker/client/prefs
+1669931734572 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931736067 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931737869 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931741023 inf [network] < prefs TIME:GET
+1669931741076 inf [network] > prefs TIME:GET_OK
+1669931751030 inf [network] < prefs TIME:GET
+1669931751190 inf [network] > prefs TIME:GET_OK
+1669931752990 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931761034 inf [network] < prefs TIME:GET
+1669931761070 inf [network] > prefs TIME:GET_OK
+1669931769129 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931771034 inf [network] < prefs TIME:GET
+1669931771077 inf [network] > prefs TIME:GET_OK
+1669931772682 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931774716 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931775949 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931781022 inf [network] < prefs TIME:GET
+1669931781063 inf [network] > prefs TIME:GET_OK
+1669931784427 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931791036 inf [network] < prefs TIME:GET
+1669931791084 inf [network] > prefs TIME:GET_OK
+1669931800594 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931801030 inf [network] < prefs TIME:GET
+1669931801076 inf [network] > prefs TIME:GET_OK
+1669931808110 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931808589 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931811060 inf [network] < prefs TIME:GET
+1669931811104 inf [network] > prefs TIME:GET_OK
+1669931821057 inf [network] < prefs TIME:GET
+1669931821106 inf [network] > prefs TIME:GET_OK
+1669931827877 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931831086 inf [network] < prefs TIME:GET
+1669931831140 inf [network] > prefs TIME:GET_OK
+1669931832106 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931841092 inf [network] < prefs TIME:GET
+1669931841142 inf [network] > prefs TIME:GET_OK
+1669931841253 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931851094 inf [network] < prefs TIME:GET
+1669931851138 inf [network] > prefs TIME:GET_OK
+1669931851962 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931861101 inf [network] < prefs TIME:GET
+1669931861160 inf [network] > prefs TIME:GET_OK
+1669931868199 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931869798 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931870586 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931871100 inf [network] < prefs TIME:GET
+1669931871148 inf [network] > prefs TIME:GET_OK
+1669931876198 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931877591 inf [router] Navigate: wam://contacts?tab=buddies
+1669931877593 inf [router] Navigation done: wam://contacts?tab=buddies
+1669931878853 inf [network] < prefs FILTERLIST:FIND
+1669931878853 inf [network] < prefs FILTERLIST:FIND
+1669931878854 inf [network] < prefs FILTERLIST:FIND
+1669931878854 inf [network] < prefs FILTERLIST:FIND
+1669931878855 inf [network] < prefs FILTERLIST:FIND
+1669931878855 inf [network] < prefs FILTERLIST:FIND
+1669931878917 inf [network] > prefs FILTERLIST:FIND_OK
+1669931878918 inf [network] > prefs FILTERLIST:FIND_OK
+1669931878919 inf [network] > prefs FILTERLIST:FIND_OK
+1669931878919 inf [network] > prefs FILTERLIST:FIND_OK
+1669931878920 inf [network] > prefs FILTERLIST:FIND_OK
+1669931878921 inf [network] > prefs FILTERLIST:FIND_OK
+1669931881105 inf [network] < prefs TIME:GET
+1669931881161 inf [network] > prefs TIME:GET_OK
+1669931882876 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931888270 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931891108 inf [network] < prefs TIME:GET
+1669931891157 inf [network] > prefs TIME:GET_OK
+1669931892430 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931895398 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931901102 inf [network] < prefs TIME:GET
+1669931901155 inf [network] > prefs TIME:GET_OK
+1669931906829 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931907215 inf [router] Navigate: wam://lobby-expresso
+1669931907216 inf [router] Navigation done: wam://lobby-expresso
+1669931911117 inf [network] < prefs TIME:GET
+1669931911165 inf [network] > prefs TIME:GET_OK
+1669931916593 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931918595 inf [router] Execute: wam://srm?action=create&template=expresso_nlhe&context=lo&withTicket=true&buyin=1&money=real&attrsonly[]=exp&attrsonly[]=expstd
+1669931918598 inf [network] < prefs SRM:ADD_RULE
+1669931918671 inf [network] > prefs SRM:ADD_RULE_OK
+1669931918675 inf [router] Navigate: wam://table?hash=229052539%400&label=Expresso&playgroundId=
+1669931918678 inf [scene] Scene open
+1669931918678 inf [scene] Scene create
+1669931918686 inf [scene] Scene loading
+1669931918689 inf [router] Navigation done: wam://table?hash=229052539%400&label=Expresso&playgroundId=
+1669931918690 inf [router] Execution done: wam://srm?action=create&template=expresso_nlhe&context=lo&withTicket=true&buyin=1&money=real&attrsonly[]=exp&attrsonly[]=expstd
+1669931918692 inf [router] Execute: wam://playground-layout?id=1&focus=2
+1669931918693 inf [router] Execution done: wam://playground-layout?id=1&focus=2
+1669931918931 inf [network] > prefs NOTIFICATION:POST_INFO
+1669931919028 inf [scene] Browser loaded
+1669931919033 inf [scene] Bridge loaded
+1669931919076 inf [network] > prefs NOTIFICATION:POST_INFO
+1669931919079 inf [network] > prefs SRM:UPDATE_RULE_INFO
+1669931919091 inf [network] Registering channel tt.ttmgr.tt_4.t607103770
+1669931919105 inf [network] < tt.ttmgr.tt_4.t607103770 TOURNAMENT:JOIN
+1669931919232 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:JOIN_OK
+1669931919241 inf [network] > tt.ttmgr.tt_4.t607103770 CHATROOM:JOIN_OK
+1669931919246 inf [network] < tt.ttmgr.tt_4.t607103770 TOURNAMENT:CONFIGURE
+1669931919310 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:CONFIGURE_OK
+1669931919316 inf [network] < tt.ttmgr.tt_4.t607103770 TOURNAMENT:CONFIGURE
+1669931919471 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:CONFIGURE_OK
+1669931919473 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669931919475 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669931920670 inf [network] > subscriptions FILTERLIST:UPDATE
+1669931920682 inf [network] < subscriptions FILTERLIST:CHANGE
+1669931920712 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669931920719 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669931920720 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:PAYOUTS
+1669931920720 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:RUN
+1669931920730 inf [network] Registering channel tt.tamgr.tt_4.t1412356
+1669931920732 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:JOIN
+1669931920733 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669931920739 inf [network] > subscriptions FILTERLIST:CHANGE_OK
+1669931920740 inf [network] > subscriptions FILTERLIST:SET
+1669931920760 inf [router] Execute: wam://table-open?rid=229052539&tblrk=tt.tamgr.tt_4.t1412356&ttrk=tt.ttmgr.tt_4.t607103770&gfsid=
+1669931920761 inf [router] Execution done: wam://table-open?rid=229052539&tblrk=tt.tamgr.tt_4.t1412356&ttrk=tt.ttmgr.tt_4.t607103770&gfsid=
+1669931920786 inf [network] > prefs NOTIFICATION:POST_INFO
+1669931920811 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:JOIN_OK
+1669931920818 inf [network] > tt.tamgr.tt_4.t1412356 CHATROOM:JOIN_OK
+1669931921122 inf [network] < prefs TIME:GET
+1669931921163 inf [network] > prefs TIME:GET_OK
+1669931923768 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931924868 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931929802 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669931931135 inf [network] < prefs TIME:GET
+1669931931187 inf [network] > prefs TIME:GET_OK
+1669931931792 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669931934311 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669931934312 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669931934312 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669931934313 inf [table] 1 tt.tamgr.tt_4.t1412356 hand 2607490837428305921-1-1669931934
+1669931934313 inf [table] 1 tt.tamgr.tt_4.t1412356 action SB login="WinaToiKev" amount="10"
+1669931934314 inf [table] 1 tt.tamgr.tt_4.t1412356 action BB login="YL_ML_GL_42" amount="20"
+1669931934315 inf [table] 1 tt.tamgr.tt_4.t1412356 cards login="YL_ML_GL_42" Qh,Kd
+1669931934327 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669931934328 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:PREACTION_LIST
+1669931934329 inf [table] 1 tt.tamgr.tt_4.t1412356 round pre-flop pot="0" totalPot="30"
+1669931935950 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669931935951 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:PREACTION_LIST
+1669931935952 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="rafal08"
+1669931938291 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669931938292 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669931938293 inf [table] 1 tt.tamgr.tt_4.t1412356 action call login="WinaToiKev" amount="20"
+1669931940269 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931941137 inf [network] < prefs TIME:GET
+1669931941191 inf [network] > prefs TIME:GET_OK
+1669931941746 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669931941796 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669931941797 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669931941798 inf [table] 1 tt.tamgr.tt_4.t1412356 action raise login="YL_ML_GL_42" amount="60"
+1669931946118 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931950940 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669931950941 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWCARDS_INFO
+1669931950941 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="WinaToiKev" amount="20"
+1669931950966 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:SHOWCARDS
+1669931951138 inf [network] < prefs TIME:GET
+1669931951216 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWDOWN_INFO
+1669931951217 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:RESULT
+1669931951218 inf [network] > tt.tamgr.tt_4.t1412356 TRACKER:GET_INFO
+1669931951218 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWCARDS_OK
+1669931951219 inf [table] 1 tt.tamgr.tt_4.t1412356 showdown login="YL_ML_GL_42" mucks
+1669931951219 inf [table] 1 tt.tamgr.tt_4.t1412356 gain login="YL_ML_GL_42" amount="80"
+1669931951221 inf [network] > prefs TIME:GET_OK
+1669931953239 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669931953239 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669931953240 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669931953241 inf [table] 1 tt.tamgr.tt_4.t1412356 hand 2607490837428305921-2-1669931952
+1669931953241 inf [table] 1 tt.tamgr.tt_4.t1412356 action SB login="YL_ML_GL_42" amount="10"
+1669931953241 inf [table] 1 tt.tamgr.tt_4.t1412356 action BB login="rafal08" amount="20"
+1669931953244 inf [table] 1 tt.tamgr.tt_4.t1412356 cards login="YL_ML_GL_42" Tc,Jc
+1669931953282 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669931953285 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:PREACTION_LIST
+1669931953286 inf [table] 1 tt.tamgr.tt_4.t1412356 round pre-flop pot="0" totalPot="30"
+1669931954576 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931961140 inf [network] < prefs TIME:GET
+1669931961183 inf [network] > prefs TIME:GET_OK
+1669931961952 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669931961953 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="WinaToiKev"
+1669931961962 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669931964499 inf [router] Navigate: wam://table?tblid=1&scene=2
+1669931964501 inf [router] Navigation done: wam://table?tblid=1&scene=2
+1669931965165 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669931965280 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669931965281 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669931965282 inf [table] 1 tt.tamgr.tt_4.t1412356 action raise login="YL_ML_GL_42" amount="60"
+1669931968032 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669931968033 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWCARDS_INFO
+1669931968033 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="rafal08" amount="20"
+1669931968060 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:SHOWCARDS
+1669931968126 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWDOWN_INFO
+1669931968127 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:RESULT
+1669931968127 inf [network] > tt.tamgr.tt_4.t1412356 TRACKER:GET_INFO
+1669931968127 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWCARDS_OK
+1669931968128 inf [table] 1 tt.tamgr.tt_4.t1412356 showdown login="YL_ML_GL_42" mucks
+1669931968129 inf [table] 1 tt.tamgr.tt_4.t1412356 gain login="YL_ML_GL_42" amount="80"
+1669931970195 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669931970202 inf [table] 1 tt.tamgr.tt_4.t1412356 hand 2607490837428305921-3-1669931969
+1669931970203 inf [table] 1 tt.tamgr.tt_4.t1412356 action SB login="rafal08" amount="10"
+1669931970215 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669931970215 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669931970216 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669931970216 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669931970217 inf [table] 1 tt.tamgr.tt_4.t1412356 action BB login="WinaToiKev" amount="20"
+1669931970217 inf [table] 1 tt.tamgr.tt_4.t1412356 cards login="YL_ML_GL_42" 5s,Qs
+1669931970218 inf [table] 1 tt.tamgr.tt_4.t1412356 round pre-flop pot="0" totalPot="30"
+1669931971146 inf [network] < prefs TIME:GET
+1669931971195 inf [network] > prefs TIME:GET_OK
+1669931973169 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669931973226 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669931973227 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669931973228 inf [table] 1 tt.tamgr.tt_4.t1412356 action raise login="YL_ML_GL_42" amount="70"
+1669931975239 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669931975240 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="rafal08" amount="10"
+1669931980832 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931981146 inf [network] < prefs TIME:GET
+1669931981186 inf [network] > prefs TIME:GET_OK
+1669931982195 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669931982195 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWCARDS_INFO
+1669931982196 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="WinaToiKev" amount="20"
+1669931982198 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:SHOWCARDS
+1669931982278 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWDOWN_INFO
+1669931982278 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:RESULT
+1669931982290 inf [table] 1 tt.tamgr.tt_4.t1412356 showdown login="YL_ML_GL_42" mucks
+1669931982291 inf [table] 1 tt.tamgr.tt_4.t1412356 gain login="YL_ML_GL_42" amount="100"
+1669931982358 inf [network] > tt.tamgr.tt_4.t1412356 TRACKER:GET_INFO
+1669931982359 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWCARDS_OK
+1669931984361 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669931984369 inf [table] 1 tt.tamgr.tt_4.t1412356 hand 2607490837428305921-4-1669931984
+1669931984369 inf [table] 1 tt.tamgr.tt_4.t1412356 action SB login="WinaToiKev" amount="10"
+1669931984466 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669931984468 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669931984469 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669931984470 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:PREACTION_LIST
+1669931984471 inf [table] 1 tt.tamgr.tt_4.t1412356 action BB login="YL_ML_GL_42" amount="20"
+1669931984472 inf [table] 1 tt.tamgr.tt_4.t1412356 cards login="YL_ML_GL_42" As,6h
+1669931984473 inf [table] 1 tt.tamgr.tt_4.t1412356 round pre-flop pot="0" totalPot="30"
+1669931986271 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669931986271 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:PREACTION_LIST
+1669931986272 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="rafal08"
+1669931987787 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669931991152 inf [network] < prefs TIME:GET
+1669931991199 inf [network] > prefs TIME:GET_OK
+1669931993405 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669931993406 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669931993406 inf [table] 1 tt.tamgr.tt_4.t1412356 action raise login="WinaToiKev" amount="60"
+1669931995450 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669931995508 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669931995509 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669931995510 inf [table] 1 tt.tamgr.tt_4.t1412356 action raise login="YL_ML_GL_42" amount="180"
+1669932001157 inf [network] < prefs TIME:GET
+1669932001206 inf [network] > prefs TIME:GET_OK
+1669932007598 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CHAT_INFO
+1669932007599 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932010270 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932010271 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWCARDS_INFO
+1669932010271 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="WinaToiKev" amount="60"
+1669932010274 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:SHOWCARDS
+1669932010340 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWDOWN_INFO
+1669932010341 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:RESULT
+1669932010342 inf [network] > tt.tamgr.tt_4.t1412356 TRACKER:GET_INFO
+1669932010342 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWCARDS_OK
+1669932010343 inf [table] 1 tt.tamgr.tt_4.t1412356 showdown login="YL_ML_GL_42" mucks
+1669932010344 inf [table] 1 tt.tamgr.tt_4.t1412356 gain login="YL_ML_GL_42" amount="240"
+1669932011162 inf [network] < prefs TIME:GET
+1669932011205 inf [network] > prefs TIME:GET_OK
+1669932011793 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932012457 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669932012458 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669932012459 inf [table] 1 tt.tamgr.tt_4.t1412356 hand 2607490837428305921-5-1669932012
+1669932012459 inf [table] 1 tt.tamgr.tt_4.t1412356 action SB login="YL_ML_GL_42" amount="10"
+1669932012460 inf [table] 1 tt.tamgr.tt_4.t1412356 action BB login="rafal08" amount="20"
+1669932012529 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932012530 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932012530 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:PREACTION_LIST
+1669932012531 inf [table] 1 tt.tamgr.tt_4.t1412356 cards login="YL_ML_GL_42" 6s,7h
+1669932012532 inf [table] 1 tt.tamgr.tt_4.t1412356 round pre-flop pot="0" totalPot="30"
+1669932012709 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932018352 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932019878 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669932021165 inf [network] < prefs TIME:GET
+1669932021229 inf [network] > prefs TIME:GET_OK
+1669932024436 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CHAT_INFO
+1669932024436 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932026347 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932026348 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669932026349 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="WinaToiKev"
+1669932030489 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669932030559 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669932030559 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932030560 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="YL_ML_GL_42" amount="10"
+1669932030650 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWDOWN_INFO
+1669932030651 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:RESULT
+1669932030652 inf [network] > tt.tamgr.tt_4.t1412356 TRACKER:GET_INFO
+1669932030652 inf [table] 1 tt.tamgr.tt_4.t1412356 showdown login="rafal08" mucks
+1669932030653 inf [table] 1 tt.tamgr.tt_4.t1412356 gain login="rafal08" amount="30"
+1669932031179 inf [network] < prefs TIME:GET
+1669932031225 inf [network] > prefs TIME:GET_OK
+1669932032633 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669932032633 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669932032634 inf [table] 1 tt.tamgr.tt_4.t1412356 hand 2607490837428305921-6-1669932032
+1669932032634 inf [table] 1 tt.tamgr.tt_4.t1412356 action SB login="rafal08" amount="15"
+1669932032634 inf [table] 1 tt.tamgr.tt_4.t1412356 action BB login="WinaToiKev" amount="30"
+1669932032665 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932032666 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932032667 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669932032667 inf [table] 1 tt.tamgr.tt_4.t1412356 cards login="YL_ML_GL_42" 8h,7c
+1669932032668 inf [table] 1 tt.tamgr.tt_4.t1412356 round pre-flop pot="0" totalPot="45"
+1669932034273 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669932034317 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669932034325 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932034333 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="YL_ML_GL_42"
+1669932036111 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932036112 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="rafal08" amount="15"
+1669932036160 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWDOWN_INFO
+1669932036161 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:RESULT
+1669932036161 inf [network] > tt.tamgr.tt_4.t1412356 TRACKER:GET_INFO
+1669932036162 inf [table] 1 tt.tamgr.tt_4.t1412356 showdown login="WinaToiKev" mucks
+1669932036162 inf [table] 1 tt.tamgr.tt_4.t1412356 gain login="WinaToiKev" amount="45"
+1669932038275 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669932038285 inf [table] 1 tt.tamgr.tt_4.t1412356 hand 2607490837428305921-7-1669932037
+1669932038286 inf [table] 1 tt.tamgr.tt_4.t1412356 action SB login="WinaToiKev" amount="15"
+1669932038326 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669932038329 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932038330 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932038330 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:PREACTION_LIST
+1669932038331 inf [table] 1 tt.tamgr.tt_4.t1412356 action BB login="YL_ML_GL_42" amount="30"
+1669932038332 inf [table] 1 tt.tamgr.tt_4.t1412356 cards login="YL_ML_GL_42" 6c,9h
+1669932038333 inf [table] 1 tt.tamgr.tt_4.t1412356 round pre-flop pot="0" totalPot="45"
+1669932039872 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932039873 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:PREACTION_LIST
+1669932039873 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="rafal08"
+1669932039927 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932040108 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932041183 inf [network] < prefs TIME:GET
+1669932041233 inf [network] > prefs TIME:GET_OK
+1669932047529 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932047530 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWCARDS_INFO
+1669932047531 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="WinaToiKev" amount="15"
+1669932047537 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:SHOWCARDS
+1669932047601 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWDOWN_INFO
+1669932047690 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:RESULT
+1669932047690 inf [network] > tt.tamgr.tt_4.t1412356 TRACKER:GET_INFO
+1669932047691 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWCARDS_OK
+1669932047692 inf [table] 1 tt.tamgr.tt_4.t1412356 showdown login="YL_ML_GL_42" mucks
+1669932047692 inf [table] 1 tt.tamgr.tt_4.t1412356 gain login="YL_ML_GL_42" amount="45"
+1669932049666 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669932049681 inf [table] 1 tt.tamgr.tt_4.t1412356 hand 2607490837428305921-8-1669932049
+1669932049681 inf [table] 1 tt.tamgr.tt_4.t1412356 action SB login="YL_ML_GL_42" amount="15"
+1669932049794 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669932049795 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932049795 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932049796 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:PREACTION_LIST
+1669932049797 inf [table] 1 tt.tamgr.tt_4.t1412356 action BB login="rafal08" amount="30"
+1669932049798 inf [table] 1 tt.tamgr.tt_4.t1412356 cards login="YL_ML_GL_42" Qs,3d
+1669932049798 inf [table] 1 tt.tamgr.tt_4.t1412356 round pre-flop pot="0" totalPot="45"
+1669932050402 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932051198 inf [network] < prefs TIME:GET
+1669932051248 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932051249 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669932051249 inf [network] > prefs TIME:GET_OK
+1669932051250 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="WinaToiKev"
+1669932052990 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932053401 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669932053450 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669932053451 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932053452 inf [table] 1 tt.tamgr.tt_4.t1412356 action raise login="YL_ML_GL_42" amount="90"
+1669932055517 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932055517 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932055518 inf [table] 1 tt.tamgr.tt_4.t1412356 action call login="rafal08" amount="90"
+1669932055584 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932055584 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669932055585 inf [table] 1 tt.tamgr.tt_4.t1412356 round flop board="7d,Jh,Ks" pot="180" totalPot="0"
+1669932057793 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669932057841 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669932057842 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932057843 inf [table] 1 tt.tamgr.tt_4.t1412356 action check login="YL_ML_GL_42"
+1669932060190 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932060204 inf [table] 1 tt.tamgr.tt_4.t1412356 action bet login="rafal08" amount="117"
+1669932060206 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669932061150 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932061198 inf [network] < prefs TIME:GET
+1669932061247 inf [network] > prefs TIME:GET_OK
+1669932062084 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669932062210 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669932062210 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932062211 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWDOWN_INFO
+1669932062211 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:RESULT
+1669932062211 inf [network] > tt.tamgr.tt_4.t1412356 TRACKER:GET_INFO
+1669932062212 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="YL_ML_GL_42"
+1669932062213 inf [table] 1 tt.tamgr.tt_4.t1412356 showdown login="rafal08" mucks
+1669932062214 inf [table] 1 tt.tamgr.tt_4.t1412356 gain login="rafal08" amount="297"
+1669932064196 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669932064202 inf [table] 1 tt.tamgr.tt_4.t1412356 hand 2607490837428305921-9-1669932063
+1669932064203 inf [table] 1 tt.tamgr.tt_4.t1412356 action SB login="rafal08" amount="15"
+1669932064257 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669932064260 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932064261 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932064263 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669932064264 inf [table] 1 tt.tamgr.tt_4.t1412356 action BB login="WinaToiKev" amount="30"
+1669932064265 inf [table] 1 tt.tamgr.tt_4.t1412356 cards login="YL_ML_GL_42" Qc,7c
+1669932064266 inf [table] 1 tt.tamgr.tt_4.t1412356 round pre-flop pot="0" totalPot="45"
+1669932066618 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669932066669 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669932066669 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932066676 inf [table] 1 tt.tamgr.tt_4.t1412356 action raise login="YL_ML_GL_42" amount="105"
+1669932068310 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932069242 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932069244 inf [table] 1 tt.tamgr.tt_4.t1412356 action call login="rafal08" amount="105"
+1669932071208 inf [network] < prefs TIME:GET
+1669932071365 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932071367 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669932071368 inf [network] > prefs TIME:GET_OK
+1669932071369 inf [table] 1 tt.tamgr.tt_4.t1412356 action raise login="WinaToiKev" amount="400"
+1669932072881 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669932072951 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669932072952 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932072953 inf [table] 1 tt.tamgr.tt_4.t1412356 action call login="YL_ML_GL_42" amount="400"
+1669932074027 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932077500 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932077501 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932077501 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="rafal08" amount="105"
+1669932078986 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932078997 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932079010 inf [table] 1 tt.tamgr.tt_4.t1412356 round flop board="3s,8c,Kh" pot="905" totalPot="0"
+1669932080514 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932080535 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932080536 inf [table] 1 tt.tamgr.tt_4.t1412356 round turn board="3s,8c,Kh,3d" pot="905" totalPot="0"
+1669932081206 inf [network] < prefs TIME:GET
+1669932081243 inf [network] > prefs TIME:GET_OK
+1669932082028 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932082043 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932082045 inf [table] 1 tt.tamgr.tt_4.t1412356 round river board="3s,8c,Kh,3d,Qd" pot="905" totalPot="0"
+1669932083575 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:RESULT
+1669932083576 inf [network] > tt.tamgr.tt_4.t1412356 TRACKER:GET_INFO
+1669932083577 inf [table] 1 tt.tamgr.tt_4.t1412356 showdown login="WinaToiKev" cards="As,Th" board="3s,8c,Kh,3d,Qd"
+1669932083577 inf [table] 1 tt.tamgr.tt_4.t1412356 showdown login="YL_ML_GL_42" cards="Qc,7c" board="3s,8c,Kh,3d,Qd"
+1669932083577 inf [table] 1 tt.tamgr.tt_4.t1412356 gain login="YL_ML_GL_42" amount="905"
+1669932085499 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932085523 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669932085567 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669932085570 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CHAT_INFO
+1669932085599 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669932085912 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932087560 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669932087561 inf [table] 1 tt.tamgr.tt_4.t1412356 hand 2607490837428305921-10-1669932087
+1669932087562 inf [table] 1 tt.tamgr.tt_4.t1412356 action SB login="YL_ML_GL_42" amount="15"
+1669932087670 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669932087671 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932087672 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932087672 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669932087672 inf [table] 1 tt.tamgr.tt_4.t1412356 action BB login="rafal08" amount="30"
+1669932087673 inf [table] 1 tt.tamgr.tt_4.t1412356 cards login="YL_ML_GL_42" 3c,6c
+1669932087682 inf [table] 1 tt.tamgr.tt_4.t1412356 round pre-flop pot="0" totalPot="45"
+1669932089793 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669932089850 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669932089851 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932089866 inf [table] 1 tt.tamgr.tt_4.t1412356 action raise login="YL_ML_GL_42" amount="90"
+1669932091236 inf [network] < prefs TIME:GET
+1669932091311 inf [network] > prefs TIME:GET_OK
+1669932093113 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932094111 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932094112 inf [table] 1 tt.tamgr.tt_4.t1412356 action raise login="rafal08" amount="270"
+1669932094118 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669932095890 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669932096048 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669932096049 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932096049 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWDOWN_INFO
+1669932096050 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:RESULT
+1669932096051 inf [network] > tt.tamgr.tt_4.t1412356 TRACKER:GET_INFO
+1669932096051 inf [table] 1 tt.tamgr.tt_4.t1412356 action fold login="YL_ML_GL_42" amount="90"
+1669932096052 inf [table] 1 tt.tamgr.tt_4.t1412356 showdown login="rafal08" mucks
+1669932096052 inf [table] 1 tt.tamgr.tt_4.t1412356 gain login="rafal08" amount="360"
+1669932098041 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669932098053 inf [table] 1 tt.tamgr.tt_4.t1412356 hand 2607490837428305921-11-1669932097
+1669932098054 inf [table] 1 tt.tamgr.tt_4.t1412356 action SB login="rafal08" amount="15"
+1669932098131 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669932098131 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932098132 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932098132 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:PREACTION_LIST
+1669932098133 inf [table] 1 tt.tamgr.tt_4.t1412356 action BB login="YL_ML_GL_42" amount="30"
+1669932098133 inf [table] 1 tt.tamgr.tt_4.t1412356 cards login="YL_ML_GL_42" 4s,Jh
+1669932098148 inf [table] 1 tt.tamgr.tt_4.t1412356 round pre-flop pot="0" totalPot="45"
+1669932099972 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932099981 inf [table] 1 tt.tamgr.tt_4.t1412356 action raise login="rafal08" amount="60"
+1669932100018 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669932101248 inf [network] < prefs TIME:GET
+1669932101253 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932101301 inf [network] > prefs TIME:GET_OK
+1669932101985 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669932102101 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669932102101 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932102102 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932102102 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932102103 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669932102104 inf [table] 1 tt.tamgr.tt_4.t1412356 action call login="YL_ML_GL_42" amount="60"
+1669932102105 inf [table] 1 tt.tamgr.tt_4.t1412356 round flop board="Jc,5d,6d" pot="120" totalPot="0"
+1669932103809 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669932103864 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669932103865 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932103866 inf [table] 1 tt.tamgr.tt_4.t1412356 action check login="YL_ML_GL_42"
+1669932106907 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932106946 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932106947 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932106947 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932106948 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669932106948 inf [table] 1 tt.tamgr.tt_4.t1412356 action check login="rafal08"
+1669932106949 inf [table] 1 tt.tamgr.tt_4.t1412356 round turn board="Jc,5d,6d,8d" pot="120" totalPot="0"
+1669932108473 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669932108633 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669932108634 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932108635 inf [table] 1 tt.tamgr.tt_4.t1412356 action check login="YL_ML_GL_42"
+1669932109793 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669932111077 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932111077 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669932111078 inf [table] 1 tt.tamgr.tt_4.t1412356 action bet login="rafal08" amount="78"
+1669932111259 inf [network] < prefs TIME:GET
+1669932111314 inf [network] > prefs TIME:GET_OK
+1669932112817 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669932112869 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669932112917 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932112917 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932112918 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932112918 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669932112919 inf [table] 1 tt.tamgr.tt_4.t1412356 action call login="YL_ML_GL_42" amount="78"
+1669932112919 inf [table] 1 tt.tamgr.tt_4.t1412356 round river board="Jc,5d,6d,8d,Th" pot="276" totalPot="0"
+1669932114518 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932115226 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669932115303 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669932115304 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932115305 inf [table] 1 tt.tamgr.tt_4.t1412356 action bet login="YL_ML_GL_42" amount="276"
+1669932117315 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932117316 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWDOWN_INFO
+1669932117316 inf [table] 1 tt.tamgr.tt_4.t1412356 action call login="rafal08" amount="276"
+1669932117598 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932120411 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:SHOWDOWN_INFO
+1669932120412 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:RESULT
+1669932120428 inf [table] 1 tt.tamgr.tt_4.t1412356 showdown login="YL_ML_GL_42" cards="4s,Jh" board="Jc,5d,6d,8d,Th"
+1669932120428 inf [table] 1 tt.tamgr.tt_4.t1412356 showdown login="rafal08" cards="8h,9c" board="Jc,5d,6d,8d,Th"
+1669932120428 inf [table] 1 tt.tamgr.tt_4.t1412356 gain login="YL_ML_GL_42" amount="828"
+1669932120476 inf [network] > tt.tamgr.tt_4.t1412356 TRACKER:GET_INFO
+1669932121274 inf [network] < prefs TIME:GET
+1669932121318 inf [network] > prefs TIME:GET_OK
+1669932124540 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669932124541 inf [table] 1 tt.tamgr.tt_4.t1412356 hand 2607490837428305921-12-1669932124
+1669932124542 inf [table] 1 tt.tamgr.tt_4.t1412356 action SB login="YL_ML_GL_42" amount="20"
+1669932124542 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:POST_INFO
+1669932124543 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932124544 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932124544 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669932124545 inf [table] 1 tt.tamgr.tt_4.t1412356 action BB login="rafal08" amount="40"
+1669932124545 inf [table] 1 tt.tamgr.tt_4.t1412356 cards login="YL_ML_GL_42" 2c,Js
+1669932124546 inf [table] 1 tt.tamgr.tt_4.t1412356 round pre-flop pot="0" totalPot="60"
+1669932124991 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932126586 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669932126633 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669932126646 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932126647 inf [table] 1 tt.tamgr.tt_4.t1412356 action raise login="YL_ML_GL_42" amount="120"
+1669932128937 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932128937 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932128938 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932128938 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:PREACTION_LIST
+1669932128938 inf [table] 1 tt.tamgr.tt_4.t1412356 action call login="rafal08" amount="120"
+1669932128954 inf [table] 1 tt.tamgr.tt_4.t1412356 round flop board="2d,Jd,6d" pot="240" totalPot="0"
+1669932129035 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932130150 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932130681 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932130681 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTIONSET
+1669932130682 inf [table] 1 tt.tamgr.tt_4.t1412356 action bet login="rafal08" amount="6"
+1669932131274 inf [network] < prefs TIME:GET
+1669932131317 inf [network] > prefs TIME:GET_OK
+1669932132265 inf [network] < tt.tamgr.tt_4.t1412356 TABLE:ACTION
+1669932132319 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_OK
+1669932132320 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:ACTION_INFO
+1669932132321 inf [table] 1 tt.tamgr.tt_4.t1412356 action call login="YL_ML_GL_42" amount="6"
+1669932132323 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932133946 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932133947 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932133960 inf [table] 1 tt.tamgr.tt_4.t1412356 round turn board="2d,Jd,6d,3h" pot="252" totalPot="0"
+1669932135479 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CARDS
+1669932135480 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932135481 inf [table] 1 tt.tamgr.tt_4.t1412356 round river board="2d,Jd,6d,3h,7s" pot="252" totalPot="0"
+1669932137136 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:RESULT
+1669932137137 inf [network] > tt.tamgr.tt_4.t1412356 TRACKER:GET_INFO
+1669932137138 inf [table] 1 tt.tamgr.tt_4.t1412356 showdown login="rafal08" cards="6s,7d" board="2d,Jd,6d,3h,7s"
+1669932137138 inf [table] 1 tt.tamgr.tt_4.t1412356 showdown login="YL_ML_GL_42" cards="2c,Js" board="2d,Jd,6d,3h,7s"
+1669932137138 inf [table] 1 tt.tamgr.tt_4.t1412356 gain login="YL_ML_GL_42" amount="252"
+1669932139081 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932139082 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:STATUS
+1669932139083 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669932139127 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669932139129 inf [network] Leaving channel tt.tamgr.tt_4.t1412356
+1669932139130 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CLOSE_INFO
+1669932139265 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669932139266 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669932139267 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CHAT_INFO
+1669932139268 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669932139317 inf [network] > prefs NOTIFICATION:POST_INFO
+1669932139319 inf [network] > tt.ttmgr.tt_4.t607103770 TRACKER:GET_INFO
+1669932139427 inf [network] > tt.tamgr.tt_4.t1412356 TABLE:CHAT_INFO
+1669932139427 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:RESULT
+1669932139428 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:STATUS
+1669932139431 inf [router] Navigate: wam://popup?type=tournament-result&ttid=1
+1669932139432 inf [router] Navigation done: wam://popup?type=tournament-result&ttid=1
+1669932139515 inf [network] > prefs SRM:UPDATE_RULE_INFO
+1669932139516 inf [network] > prefs NOTIFICATION:POST_INFO
+1669932139524 inf [network] > prefs GAMESTATS:INFO
+1669932140987 inf [network] > subscriptions FILTERLIST:UPDATE
+1669932141289 inf [network] < prefs TIME:GET
+1669932141338 inf [network] > prefs TIME:GET_OK
+1669932141777 inf [router] Execute: wam://table-close?tblid=1
+1669932141779 inf [router] Execution done: wam://table-close?tblid=1
+1669932141780 inf [network] < tt.ttmgr.tt_4.t607103770 TOURNAMENT:LEAVE
+1669932141781 inf [network] Leaving channel tt.ttmgr.tt_4.t607103770
+1669932141832 inf [network] > tt.ttmgr.tt_4.t607103770 TOURNAMENT:LEAVE_OK
+1669932151275 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932151292 inf [network] < prefs TIME:GET
+1669932151334 inf [network] > prefs TIME:GET_OK
+1669932151680 inf [router] Execute: wam://srm?action=create&template=expresso_nlhe&context=lo&withTicket=&buyin=2&money=real&attrsonly[]=exp&attrsonly[]=expstd
+1669932151682 inf [network] < prefs SRM:ADD_RULE
+1669932151750 inf [network] > prefs SRM:ADD_RULE_OK
+1669932151754 inf [router] Navigate: wam://table?hash=229059444%400&label=Expresso&playgroundId=
+1669932151758 inf [router] Navigation done: wam://table?hash=229059444%400&label=Expresso&playgroundId=
+1669932151758 inf [router] Execution done: wam://srm?action=create&template=expresso_nlhe&context=lo&withTicket=&buyin=2&money=real&attrsonly[]=exp&attrsonly[]=expstd
+1669932151760 inf [network] > prefs NOTIFICATION:POST_INFO
+1669932151760 inf [network] > prefs SRM:UPDATE_RULE_INFO
+1669932151762 inf [network] Registering channel tt3.ttmgr.tt3_3.t607105805
+1669932151767 inf [network] < tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:JOIN
+1669932151868 inf [network] > tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:JOIN_OK
+1669932151873 inf [network] > tt3.ttmgr.tt3_3.t607105805 CHATROOM:JOIN_OK
+1669932151876 inf [network] < tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:CONFIGURE
+1669932151951 inf [network] > tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:CONFIGURE_OK
+1669932151955 inf [network] < tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:CONFIGURE
+1669932152028 inf [network] > tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:CONFIGURE_OK
+1669932152279 inf [network] > tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:STATUS
+1669932152280 inf [network] > tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:STATUS
+1669932152297 inf [network] > tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:RUN
+1669932152298 inf [network] > tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:STATUS
+1669932152306 inf [network] Registering channel tt3.tamgr.tt3_3.t1403108
+1669932152316 inf [network] < tt3.tamgr.tt3_3.t1403108 TABLE:JOIN
+1669932152317 inf [network] > prefs NOTIFICATION:POST_INFO
+1669932152369 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:JOIN_OK
+1669932152370 inf [network] > tt3.tamgr.tt3_3.t1403108 CHATROOM:JOIN_OK
+1669932153314 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932156032 inf [network] > subscriptions FILTERLIST:SET
+1669932156048 inf [router] Execute: wam://table-open?rid=229059444&tblrk=tt3.tamgr.tt3_3.t1403108&ttrk=tt3.ttmgr.tt3_3.t607105805&gfsid=
+1669932156049 inf [router] Execution done: wam://table-open?rid=229059444&tblrk=tt3.tamgr.tt3_3.t1403108&ttrk=tt3.ttmgr.tt3_3.t607105805&gfsid=
+1669932161290 inf [network] < prefs TIME:GET
+1669932161348 inf [network] > prefs TIME:GET_OK
+1669932163328 inf [network] > tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:STATUS
+1669932165319 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932166747 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932167955 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:POST_INFO
+1669932167956 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:POST_INFO
+1669932167957 inf [table] 2 tt3.tamgr.tt3_3.t1403108 hand 2607499577686753281-1-1669932167
+1669932167958 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action SB login="YL_ML_GL_42" amount="10"
+1669932167958 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action BB login="FO_Pichichi8" amount="20"
+1669932167966 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:CARDS
+1669932167966 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932167966 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:PREACTION_LIST
+1669932167967 inf [table] 2 tt3.tamgr.tt3_3.t1403108 cards login="YL_ML_GL_42" Kc,Ts
+1669932167967 inf [table] 2 tt3.tamgr.tt3_3.t1403108 round pre-flop pot="0" totalPot="30"
+1669932171315 inf [network] < prefs TIME:GET
+1669932171358 inf [network] > prefs TIME:GET_OK
+1669932174540 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932175080 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932175080 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTIONSET
+1669932175081 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action fold login="Nacio19"
+1669932176748 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932177050 inf [network] < tt3.tamgr.tt3_3.t1403108 TABLE:ACTION
+1669932177112 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_OK
+1669932177113 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932177117 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action raise login="YL_ML_GL_42" amount="60"
+1669932178353 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932178354 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:CARDS
+1669932178354 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action call login="FO_Pichichi8" amount="60"
+1669932178359 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932178359 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTIONSET
+1669932178360 inf [table] 2 tt3.tamgr.tt3_3.t1403108 round flop board="8d,As,6h" pot="120" totalPot="0"
+1669932181057 inf [network] < tt3.tamgr.tt3_3.t1403108 TABLE:ACTION
+1669932181193 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_OK
+1669932181194 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932181208 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action check login="YL_ML_GL_42"
+1669932181316 inf [network] < prefs TIME:GET
+1669932181401 inf [network] > prefs TIME:GET_OK
+1669932182511 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932182512 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:CARDS
+1669932182512 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932182513 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTIONSET
+1669932182513 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action check login="FO_Pichichi8"
+1669932182514 inf [table] 2 tt3.tamgr.tt3_3.t1403108 round turn board="8d,As,6h,Ks" pot="120" totalPot="0"
+1669932183963 inf [network] < tt3.tamgr.tt3_3.t1403108 TABLE:ACTION
+1669932184022 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_OK
+1669932184023 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932184026 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action check login="YL_ML_GL_42"
+1669932185003 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932185004 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action check login="FO_Pichichi8"
+1669932185009 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:CARDS
+1669932185009 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932185010 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTIONSET
+1669932185011 inf [table] 2 tt3.tamgr.tt3_3.t1403108 round river board="8d,As,6h,Ks,6d" pot="120" totalPot="0"
+1669932187450 inf [network] < tt3.tamgr.tt3_3.t1403108 TABLE:ACTION
+1669932187506 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_OK
+1669932187507 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932187508 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action bet login="YL_ML_GL_42" amount="120"
+1669932188956 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932188957 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:SHOWDOWN_INFO
+1669932188958 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action call login="FO_Pichichi8" amount="120"
+1669932189030 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932191318 inf [network] < prefs TIME:GET
+1669932191364 inf [network] > prefs TIME:GET_OK
+1669932191956 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:SHOWDOWN_INFO
+1669932192041 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:RESULT
+1669932192042 inf [network] > tt3.tamgr.tt3_3.t1403108 TRACKER:GET_INFO
+1669932192043 inf [table] 2 tt3.tamgr.tt3_3.t1403108 showdown login="YL_ML_GL_42" cards="Kc,Ts" board="8d,As,6h,Ks,6d"
+1669932192043 inf [table] 2 tt3.tamgr.tt3_3.t1403108 showdown login="FO_Pichichi8" cards="4c,3h" board="8d,As,6h,Ks,6d"
+1669932192044 inf [table] 2 tt3.tamgr.tt3_3.t1403108 gain login="YL_ML_GL_42" amount="360"
+1669932196040 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:POST_INFO
+1669932196040 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:POST_INFO
+1669932196041 inf [table] 2 tt3.tamgr.tt3_3.t1403108 hand 2607499577686753281-2-1669932195
+1669932196041 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action SB login="FO_Pichichi8" amount="10"
+1669932196042 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action BB login="Nacio19" amount="20"
+1669932196051 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:CARDS
+1669932196051 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932196052 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTIONSET
+1669932196052 inf [table] 2 tt3.tamgr.tt3_3.t1403108 cards login="YL_ML_GL_42" As,2d
+1669932196053 inf [table] 2 tt3.tamgr.tt3_3.t1403108 round pre-flop pot="0" totalPot="30"
+1669932198225 inf [network] < tt3.tamgr.tt3_3.t1403108 TABLE:ACTION
+1669932198283 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_OK
+1669932198283 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932198284 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action raise login="YL_ML_GL_42" amount="70"
+1669932199554 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932199555 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action fold login="FO_Pichichi8" amount="10"
+1669932199578 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932199667 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932201313 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932201314 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:SHOWCARDS_INFO
+1669932201315 inf [network] < prefs TIME:GET
+1669932201315 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action fold login="Nacio19" amount="20"
+1669932201331 inf [network] < tt3.tamgr.tt3_3.t1403108 TABLE:SHOWCARDS
+1669932201350 inf [network] > prefs TIME:GET_OK
+1669932201399 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:SHOWDOWN_INFO
+1669932201400 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:RESULT
+1669932201400 inf [network] > tt3.tamgr.tt3_3.t1403108 TRACKER:GET_INFO
+1669932201401 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:SHOWCARDS_OK
+1669932201402 inf [table] 2 tt3.tamgr.tt3_3.t1403108 showdown login="YL_ML_GL_42" mucks
+1669932201402 inf [table] 2 tt3.tamgr.tt3_3.t1403108 gain login="YL_ML_GL_42" amount="100"
+1669932203606 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:POST_INFO
+1669932203606 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:POST_INFO
+1669932203607 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:CARDS
+1669932203607 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932203608 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:PREACTION_LIST
+1669932203608 inf [table] 2 tt3.tamgr.tt3_3.t1403108 hand 2607499577686753281-3-1669932203
+1669932203608 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action SB login="Nacio19" amount="10"
+1669932203609 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action BB login="YL_ML_GL_42" amount="20"
+1669932203610 inf [table] 2 tt3.tamgr.tt3_3.t1403108 cards login="YL_ML_GL_42" 7d,9d
+1669932203610 inf [table] 2 tt3.tamgr.tt3_3.t1403108 round pre-flop pot="0" totalPot="30"
+1669932204671 inf [network] > prefs NOTIFICATION:POST_INFO
+1669932208436 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932208437 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:PREACTION_LIST
+1669932208437 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action call login="FO_Pichichi8" amount="20"
+1669932211336 inf [network] < prefs TIME:GET
+1669932211394 inf [network] > prefs TIME:GET_OK
+1669932214434 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932214786 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932216950 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932216951 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action fold login="Nacio19" amount="10"
+1669932216962 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTIONSET
+1669932218095 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932218939 inf [network] < tt3.tamgr.tt3_3.t1403108 TABLE:ACTION
+1669932218991 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_OK
+1669932218992 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932218993 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action check login="YL_ML_GL_42" amount="20"
+1669932219006 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:CARDS
+1669932219007 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932219007 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTIONSET
+1669932219008 inf [table] 2 tt3.tamgr.tt3_3.t1403108 round flop board="4c,Td,8d" pot="50" totalPot="0"
+1669932219392 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932221336 inf [network] < prefs TIME:GET
+1669932221402 inf [network] > prefs TIME:GET_OK
+1669932224195 inf [network] < tt3.tamgr.tt3_3.t1403108 TABLE:ACTION
+1669932224270 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_OK
+1669932224271 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932224272 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action bet login="YL_ML_GL_42" amount="50"
+1669932225988 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932225989 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action call login="FO_Pichichi8" amount="50"
+1669932225995 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:CARDS
+1669932225995 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932225996 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTIONSET
+1669932225997 inf [table] 2 tt3.tamgr.tt3_3.t1403108 round turn board="4c,Td,8d,2c" pot="150" totalPot="0"
+1669932228289 inf [network] < tt3.tamgr.tt3_3.t1403108 TABLE:ACTION
+1669932228355 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_OK
+1669932228356 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932228357 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action bet login="YL_ML_GL_42" amount="150"
+1669932229556 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932231348 inf [network] < prefs TIME:GET
+1669932231395 inf [network] > prefs TIME:GET_OK
+1669932232087 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932232087 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:CARDS
+1669932232088 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action call login="FO_Pichichi8" amount="150"
+1669932232179 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932232180 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTIONSET
+1669932232181 inf [table] 2 tt3.tamgr.tt3_3.t1403108 round river board="4c,Td,8d,2c,Kd" pot="450" totalPot="0"
+1669932236529 inf [network] < tt3.tamgr.tt3_3.t1403108 TABLE:ACTION
+1669932236599 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_OK
+1669932236600 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932236601 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action bet login="YL_ML_GL_42" amount="490"
+1669932238326 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932238327 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932238328 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action call login="FO_Pichichi8" amount="90"
+1669932239882 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:SHOWDOWN_INFO
+1669932239959 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:SHOWDOWN_INFO
+1669932239959 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:RESULT
+1669932239960 inf [network] > tt3.tamgr.tt3_3.t1403108 TRACKER:GET_INFO
+1669932239961 inf [table] 2 tt3.tamgr.tt3_3.t1403108 showdown login="YL_ML_GL_42" cards="7d,9d" board="4c,Td,8d,2c,Kd"
+1669932239961 inf [table] 2 tt3.tamgr.tt3_3.t1403108 showdown login="FO_Pichichi8" cards="Qd,5d" board="4c,Td,8d,2c,Kd"
+1669932239961 inf [table] 2 tt3.tamgr.tt3_3.t1403108 gain login="YL_ML_GL_42" amount="400"
+1669932239961 inf [table] 2 tt3.tamgr.tt3_3.t1403108 gain login="FO_Pichichi8" amount="630"
+1669932241348 inf [network] < prefs TIME:GET
+1669932241398 inf [network] > prefs TIME:GET_OK
+1669932241964 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:POST_INFO
+1669932241973 inf [table] 2 tt3.tamgr.tt3_3.t1403108 hand 2607499577686753281-4-1669932241
+1669932241973 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action SB login="YL_ML_GL_42" amount="10"
+1669932242035 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:POST_INFO
+1669932242035 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:CARDS
+1669932242036 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932242036 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:PREACTION_LIST
+1669932242037 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action BB login="FO_Pichichi8" amount="20"
+1669932242037 inf [table] 2 tt3.tamgr.tt3_3.t1403108 cards login="YL_ML_GL_42" Jc,4c
+1669932242050 inf [table] 2 tt3.tamgr.tt3_3.t1403108 round pre-flop pot="0" totalPot="30"
+1669932244038 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932244040 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTIONSET
+1669932244040 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action raise login="Nacio19" amount="40"
+1669932246729 inf [network] < tt3.tamgr.tt3_3.t1403108 TABLE:ACTION
+1669932246793 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_OK
+1669932246794 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932246795 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action raise login="YL_ML_GL_42" amount="400"
+1669932248051 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932248052 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action fold login="FO_Pichichi8" amount="20"
+1669932248804 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:ACTION_INFO
+1669932248805 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932248805 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action raise login="Nacio19" amount="470"
+1669932250354 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:CARDS
+1669932250366 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932250380 inf [table] 2 tt3.tamgr.tt3_3.t1403108 round flop board="2s,7c,5h" pot="890" totalPot="0"
+1669932251361 inf [network] < prefs TIME:GET
+1669932251428 inf [network] > prefs TIME:GET_OK
+1669932251799 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:CARDS
+1669932251803 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932251814 inf [table] 2 tt3.tamgr.tt3_3.t1403108 round turn board="2s,7c,5h,Kd" pot="890" totalPot="0"
+1669932253336 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:CARDS
+1669932253337 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932253339 inf [table] 2 tt3.tamgr.tt3_3.t1403108 round river board="2s,7c,5h,Kd,Tc" pot="890" totalPot="0"
+1669932253356 inf [network] > tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:STATUS
+1669932254997 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:RESULT
+1669932254998 inf [network] > tt3.tamgr.tt3_3.t1403108 TRACKER:GET_INFO
+1669932254999 inf [table] 2 tt3.tamgr.tt3_3.t1403108 showdown login="YL_ML_GL_42" cards="Jc,4c" board="2s,7c,5h,Kd,Tc"
+1669932254999 inf [table] 2 tt3.tamgr.tt3_3.t1403108 showdown login="Nacio19" cards="Kc,Ac" board="2s,7c,5h,Kd,Tc"
+1669932254999 inf [table] 2 tt3.tamgr.tt3_3.t1403108 gain login="Nacio19" amount="890"
+1669932256830 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932256833 inf [network] > tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:STATUS
+1669932256877 inf [network] > tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:STATUS
+1669932256930 inf [network] > tt3.ttmgr.tt3_3.t607105805 TRACKER:GET_INFO
+1669932256931 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:CHAT_INFO
+1669932256931 inf [network] > tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:RESULT
+1669932256933 inf [router] Navigate: wam://popup?type=tournament-result&ttid=2
+1669932256933 inf [router] Navigation done: wam://popup?type=tournament-result&ttid=2
+1669932256965 inf [network] > tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:STATUS
+1669932256979 inf [network] > prefs SRM:UPDATE_RULE_INFO
+1669932257001 inf [network] > prefs GAMESTATS:INFO
+1669932257003 inf [network] > prefs NOTIFICATION:POST_INFO
+1669932258835 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:POST_INFO
+1669932258836 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:POST_INFO
+1669932258837 inf [table] 2 tt3.tamgr.tt3_3.t1403108 hand 2607499577686753281-5-1669932258
+1669932258837 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action SB login="FO_Pichichi8" amount="15"
+1669932258837 inf [table] 2 tt3.tamgr.tt3_3.t1403108 action BB login="Nacio19" amount="30"
+1669932258847 inf [network] > tt3.tamgr.tt3_3.t1403108 TABLE:STATUS
+1669932258848 inf [table] 2 tt3.tamgr.tt3_3.t1403108 round pre-flop pot="0" totalPot="45"
+1669932259110 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932259553 inf [router] Execute: wam://table-close?tblid=2
+1669932259554 inf [router] Execution done: wam://table-close?tblid=2
+1669932259555 inf [network] < tt3.tamgr.tt3_3.t1403108 TABLE:LEAVE
+1669932259556 inf [network] Leaving channel tt3.tamgr.tt3_3.t1403108
+1669932261187 inf [network] > subscriptions FILTERLIST:UPDATE
+1669932261213 inf [network] < tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:LEAVE
+1669932261214 inf [network] Leaving channel tt3.ttmgr.tt3_3.t607105805
+1669932261260 inf [network] > tt3.ttmgr.tt3_3.t607105805 TOURNAMENT:LEAVE_OK
+1669932261367 inf [network] < prefs TIME:GET
+1669932261432 inf [network] > prefs TIME:GET_OK
+1669932262320 inf [router] Execute: wam://srm?action=create&template=expresso_nlhe&context=lo&withTicket=&buyin=1&money=real&attrsonly[]=exp&attrsonly[]=expstd
+1669932262323 inf [network] < prefs SRM:ADD_RULE
+1669932262397 inf [network] > prefs SRM:ADD_RULE_OK
+1669932262398 inf [network] > prefs NOTIFICATION:POST_INFO
+1669932262399 inf [router] Navigate: wam://table?hash=229062676%400&label=Expresso&playgroundId=
+1669932262402 inf [router] Navigation done: wam://table?hash=229062676%400&label=Expresso&playgroundId=
+1669932262402 inf [router] Execution done: wam://srm?action=create&template=expresso_nlhe&context=lo&withTicket=&buyin=1&money=real&attrsonly[]=exp&attrsonly[]=expstd
+1669932262404 inf [network] > prefs SRM:UPDATE_RULE_INFO
+1669932262408 inf [network] Registering channel tt.ttmgr.tt_4.t607106759
+1669932262414 inf [network] < tt.ttmgr.tt_4.t607106759 TOURNAMENT:JOIN
+1669932262489 inf [network] > tt.ttmgr.tt_4.t607106759 TOURNAMENT:JOIN_OK
+1669932262493 inf [network] > tt.ttmgr.tt_4.t607106759 CHATROOM:JOIN_OK
+1669932262495 inf [network] < tt.ttmgr.tt_4.t607106759 TOURNAMENT:CONFIGURE
+1669932262558 inf [network] > tt.ttmgr.tt_4.t607106759 TOURNAMENT:CONFIGURE_OK
+1669932262561 inf [network] < tt.ttmgr.tt_4.t607106759 TOURNAMENT:CONFIGURE
+1669932262630 inf [network] > tt.ttmgr.tt_4.t607106759 TOURNAMENT:CONFIGURE_OK
+1669932262654 inf [network] > tt.ttmgr.tt_4.t607106759 TOURNAMENT:STATUS
+1669932262655 inf [network] > tt.ttmgr.tt_4.t607106759 TOURNAMENT:STATUS
+1669932262656 inf [network] > tt.ttmgr.tt_4.t607106759 TOURNAMENT:RUN
+1669932262656 inf [network] > tt.ttmgr.tt_4.t607106759 TOURNAMENT:STATUS
+1669932262663 inf [network] Registering channel tt.tamgr.tt_4.t1412648
+1669932262687 inf [network] < tt.tamgr.tt_4.t1412648 TABLE:JOIN
+1669932262688 inf [network] > prefs NOTIFICATION:POST_INFO
+1669932262759 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:JOIN_OK
+1669932262761 inf [network] > tt.tamgr.tt_4.t1412648 CHATROOM:JOIN_OK
+1669932266191 inf [network] > subscriptions FILTERLIST:SET
+1669932266214 inf [router] Execute: wam://table-open?rid=229062676&tblrk=tt.tamgr.tt_4.t1412648&ttrk=tt.ttmgr.tt_4.t607106759&gfsid=
+1669932266215 inf [router] Execution done: wam://table-open?rid=229062676&tblrk=tt.tamgr.tt_4.t1412648&ttrk=tt.ttmgr.tt_4.t607106759&gfsid=
+1669932271371 inf [network] < prefs TIME:GET
+1669932271468 inf [network] > prefs TIME:GET_OK
+1669932273154 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932273750 inf [network] > tt.ttmgr.tt_4.t607106759 TOURNAMENT:STATUS
+1669932275755 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932278356 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:POST_INFO
+1669932278356 inf [table] 3 tt.tamgr.tt_4.t1412648 hand 2607503675085553665-1-1669932278
+1669932278357 inf [table] 3 tt.tamgr.tt_4.t1412648 action SB login="-N-T-M-" amount="10"
+1669932278358 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:POST_INFO
+1669932278358 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CARDS
+1669932278358 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932278359 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:PREACTION_LIST
+1669932278359 inf [table] 3 tt.tamgr.tt_4.t1412648 action BB login="YL_ML_GL_42" amount="20"
+1669932278360 inf [table] 3 tt.tamgr.tt_4.t1412648 cards login="YL_ML_GL_42" 7d,9h
+1669932278374 inf [table] 3 tt.tamgr.tt_4.t1412648 round pre-flop pot="0" totalPot="30"
+1669932280751 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932280752 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:PREACTION_LIST
+1669932280752 inf [table] 3 tt.tamgr.tt_4.t1412648 action call login="djit4848" amount="20"
+1669932281369 inf [network] < prefs TIME:GET
+1669932281431 inf [network] > prefs TIME:GET_OK
+1669932285788 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932288589 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932291388 inf [network] < prefs TIME:GET
+1669932291442 inf [network] > prefs TIME:GET_OK
+1669932292819 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CHAT_INFO
+1669932292821 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932296976 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932296977 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTIONSET
+1669932296977 inf [table] 3 tt.tamgr.tt_4.t1412648 action fold login="-N-T-M-" amount="10"
+1669932297551 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932300266 inf [router] Navigate: wam://table?tblid=3&scene=2
+1669932300268 inf [router] Navigation done: wam://table?tblid=3&scene=2
+1669932300350 inf [network] < tt.tamgr.tt_4.t1412648 TABLE:ACTION
+1669932300430 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_OK
+1669932300430 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932300431 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CARDS
+1669932300431 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932300432 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTIONSET
+1669932300433 inf [table] 3 tt.tamgr.tt_4.t1412648 action check login="YL_ML_GL_42" amount="20"
+1669932300434 inf [table] 3 tt.tamgr.tt_4.t1412648 round flop board="7h,Jh,2d" pot="50" totalPot="0"
+1669932301391 inf [network] < prefs TIME:GET
+1669932301455 inf [network] > prefs TIME:GET_OK
+1669932304074 inf [network] < tt.tamgr.tt_4.t1412648 TABLE:ACTION
+1669932304154 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_OK
+1669932304155 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932304162 inf [table] 3 tt.tamgr.tt_4.t1412648 action bet login="YL_ML_GL_42" amount="50"
+1669932304699 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932305562 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932305563 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CARDS
+1669932305563 inf [table] 3 tt.tamgr.tt_4.t1412648 action call login="djit4848" amount="50"
+1669932305568 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932305569 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTIONSET
+1669932305569 inf [table] 3 tt.tamgr.tt_4.t1412648 round turn board="7h,Jh,2d,Tc" pot="150" totalPot="0"
+1669932307609 inf [network] < tt.tamgr.tt_4.t1412648 TABLE:ACTION
+1669932307675 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_OK
+1669932307675 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932307684 inf [table] 3 tt.tamgr.tt_4.t1412648 action bet login="YL_ML_GL_42" amount="430"
+1669932309124 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932309125 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:SHOWCARDS_INFO
+1669932309138 inf [table] 3 tt.tamgr.tt_4.t1412648 action fold login="djit4848"
+1669932309139 inf [network] < tt.tamgr.tt_4.t1412648 TABLE:SHOWCARDS
+1669932309193 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:SHOWDOWN_INFO
+1669932309208 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:RESULT
+1669932309209 inf [network] > tt.tamgr.tt_4.t1412648 TRACKER:GET_INFO
+1669932309209 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:SHOWCARDS_OK
+1669932309210 inf [table] 3 tt.tamgr.tt_4.t1412648 showdown login="YL_ML_GL_42" mucks
+1669932309210 inf [table] 3 tt.tamgr.tt_4.t1412648 gain login="YL_ML_GL_42" amount="580"
+1669932311282 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:POST_INFO
+1669932311295 inf [table] 3 tt.tamgr.tt_4.t1412648 hand 2607503675085553665-2-1669932310
+1669932311295 inf [table] 3 tt.tamgr.tt_4.t1412648 action SB login="YL_ML_GL_42" amount="10"
+1669932311375 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:POST_INFO
+1669932311376 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CARDS
+1669932311376 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932311376 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:PREACTION_LIST
+1669932311377 inf [table] 3 tt.tamgr.tt_4.t1412648 action BB login="djit4848" amount="20"
+1669932311378 inf [table] 3 tt.tamgr.tt_4.t1412648 cards login="YL_ML_GL_42" Ac,8h
+1669932311378 inf [table] 3 tt.tamgr.tt_4.t1412648 round pre-flop pot="0" totalPot="30"
+1669932311391 inf [network] < prefs TIME:GET
+1669932311407 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932311522 inf [network] > prefs TIME:GET_OK
+1669932317999 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932318000 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTIONSET
+1669932318000 inf [table] 3 tt.tamgr.tt_4.t1412648 action fold login="-N-T-M-"
+1669932320311 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932320785 inf [network] < tt.tamgr.tt_4.t1412648 TABLE:ACTION
+1669932320862 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_OK
+1669932320863 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932320864 inf [table] 3 tt.tamgr.tt_4.t1412648 action raise login="YL_ML_GL_42" amount="60"
+1669932321401 inf [network] < prefs TIME:GET
+1669932321446 inf [network] > prefs TIME:GET_OK
+1669932324198 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932324199 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:SHOWCARDS_INFO
+1669932324200 inf [table] 3 tt.tamgr.tt_4.t1412648 action fold login="djit4848" amount="20"
+1669932324206 inf [network] < tt.tamgr.tt_4.t1412648 TABLE:SHOWCARDS
+1669932324288 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:SHOWDOWN_INFO
+1669932324289 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:RESULT
+1669932324289 inf [network] > tt.tamgr.tt_4.t1412648 TRACKER:GET_INFO
+1669932324289 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:SHOWCARDS_OK
+1669932324291 inf [table] 3 tt.tamgr.tt_4.t1412648 showdown login="YL_ML_GL_42" mucks
+1669932324291 inf [table] 3 tt.tamgr.tt_4.t1412648 gain login="YL_ML_GL_42" amount="80"
+1669932326272 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:POST_INFO
+1669932326278 inf [table] 3 tt.tamgr.tt_4.t1412648 hand 2607503675085553665-3-1669932326
+1669932326279 inf [table] 3 tt.tamgr.tt_4.t1412648 action SB login="djit4848" amount="10"
+1669932326283 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:POST_INFO
+1669932326283 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CARDS
+1669932326284 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932326284 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTIONSET
+1669932326284 inf [table] 3 tt.tamgr.tt_4.t1412648 action BB login="-N-T-M-" amount="20"
+1669932326285 inf [table] 3 tt.tamgr.tt_4.t1412648 cards login="YL_ML_GL_42" 4s,Kd
+1669932326285 inf [table] 3 tt.tamgr.tt_4.t1412648 round pre-flop pot="0" totalPot="30"
+1669932327679 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932328489 inf [network] < tt.tamgr.tt_4.t1412648 TABLE:ACTION
+1669932328552 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_OK
+1669932328553 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932328554 inf [table] 3 tt.tamgr.tt_4.t1412648 action fold login="YL_ML_GL_42"
+1669932330116 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932330131 inf [table] 3 tt.tamgr.tt_4.t1412648 action fold login="djit4848" amount="10"
+1669932331002 inf [api] < Service operator/userdata
+1669932331003 inf [network] > Http https://wapi.winamax.fr/operator/userdata post
+1669932331007 inf [network] < prefs CASHIER:GET
+1669932331008 inf [network] < prefs CASHIER:LIST
+1669932331009 inf [network] < prefs CASHIER:GET
+1669932331010 inf [network] < prefs CASHIER:LIST
+1669932331065 inf [network] > prefs CASHIER:GET_OK
+1669932331075 inf [network] > prefs CASHIER:LIST_OK
+1669932331075 inf [network] > prefs CASHIER:GET_OK
+1669932331232 inf [network] > prefs CASHIER:LIST_OK
+1669932331321 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:SHOWDOWN_INFO
+1669932331322 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:RESULT
+1669932331322 inf [network] > tt.tamgr.tt_4.t1412648 TRACKER:GET_INFO
+1669932331329 inf [table] 3 tt.tamgr.tt_4.t1412648 showdown login="-N-T-M-" mucks
+1669932331330 inf [table] 3 tt.tamgr.tt_4.t1412648 gain login="-N-T-M-" amount="30"
+1669932331408 inf [network] < prefs TIME:GET
+1669932331483 inf [network] > prefs TIME:GET_OK
+1669932331623 inf [network] > Http https://wapi.winamax.fr/operator/userdata ok
+1669932331624 inf [api] > Service operator/userdata
+1669932332916 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932333323 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:POST_INFO
+1669932333337 inf [table] 3 tt.tamgr.tt_4.t1412648 hand 2607503675085553665-4-1669932333
+1669932333337 inf [table] 3 tt.tamgr.tt_4.t1412648 action SB login="-N-T-M-" amount="10"
+1669932333342 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:POST_INFO
+1669932333343 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CARDS
+1669932333344 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932333344 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:PREACTION_LIST
+1669932333344 inf [table] 3 tt.tamgr.tt_4.t1412648 action BB login="YL_ML_GL_42" amount="20"
+1669932333345 inf [table] 3 tt.tamgr.tt_4.t1412648 cards login="YL_ML_GL_42" 9d,Jc
+1669932333346 inf [table] 3 tt.tamgr.tt_4.t1412648 round pre-flop pot="0" totalPot="30"
+1669932335164 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932335165 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:PREACTION_LIST
+1669932335166 inf [table] 3 tt.tamgr.tt_4.t1412648 action fold login="djit4848"
+1669932341418 inf [network] < prefs TIME:GET
+1669932341432 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932341433 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTIONSET
+1669932341449 inf [table] 3 tt.tamgr.tt_4.t1412648 action call login="-N-T-M-" amount="20"
+1669932341463 inf [network] > prefs TIME:GET_OK
+1669932344570 inf [network] < tt.tamgr.tt_4.t1412648 TABLE:ACTION
+1669932344670 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_OK
+1669932344671 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932344672 inf [table] 3 tt.tamgr.tt_4.t1412648 action raise login="YL_ML_GL_42" amount="60"
+1669932345312 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932351420 inf [network] < prefs TIME:GET
+1669932351476 inf [network] > prefs TIME:GET_OK
+1669932352858 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932353715 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932353796 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932353796 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CARDS
+1669932353797 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932353797 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:PREACTION_LIST
+1669932353798 inf [table] 3 tt.tamgr.tt_4.t1412648 action call login="-N-T-M-" amount="60"
+1669932353798 inf [table] 3 tt.tamgr.tt_4.t1412648 round flop board="8c,Jh,5h" pot="120" totalPot="0"
+1669932355270 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932355271 inf [table] 3 tt.tamgr.tt_4.t1412648 action check login="-N-T-M-"
+1669932355273 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTIONSET
+1669932357161 inf [network] < tt.tamgr.tt_4.t1412648 TABLE:ACTION
+1669932357213 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_OK
+1669932357214 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932357216 inf [table] 3 tt.tamgr.tt_4.t1412648 action bet login="YL_ML_GL_42" amount="120"
+1669932358436 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932358436 inf [table] 3 tt.tamgr.tt_4.t1412648 action raise login="-N-T-M-" amount="440"
+1669932358438 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTIONSET
+1669932359649 inf [network] < tt.tamgr.tt_4.t1412648 TABLE:ACTION
+1669932359707 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_OK
+1669932359707 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932359711 inf [table] 3 tt.tamgr.tt_4.t1412648 action call login="YL_ML_GL_42" amount="440"
+1669932359730 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932361257 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CARDS
+1669932361257 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932361267 inf [table] 3 tt.tamgr.tt_4.t1412648 round turn board="8c,Jh,5h,6h" pot="1000" totalPot="0"
+1669932361421 inf [network] < prefs TIME:GET
+1669932361473 inf [network] > prefs TIME:GET_OK
+1669932362752 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CARDS
+1669932362758 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932362758 inf [table] 3 tt.tamgr.tt_4.t1412648 round river board="8c,Jh,5h,6h,3c" pot="1000" totalPot="0"
+1669932363864 inf [network] > tt.ttmgr.tt_4.t607106759 TOURNAMENT:STATUS
+1669932364287 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:RESULT
+1669932364288 inf [table] 3 tt.tamgr.tt_4.t1412648 showdown login="-N-T-M-" cards="5c,8h" board="8c,Jh,5h,6h,3c"
+1669932364288 inf [table] 3 tt.tamgr.tt_4.t1412648 showdown login="YL_ML_GL_42" cards="9d,Jc" board="8c,Jh,5h,6h,3c"
+1669932364288 inf [table] 3 tt.tamgr.tt_4.t1412648 gain login="-N-T-M-" amount="1000"
+1669932364289 inf [network] > tt.tamgr.tt_4.t1412648 TRACKER:GET_INFO
+1669932368282 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:POST_INFO
+1669932368282 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:POST_INFO
+1669932368283 inf [table] 3 tt.tamgr.tt_4.t1412648 hand 2607503675085553665-5-1669932368
+1669932368283 inf [table] 3 tt.tamgr.tt_4.t1412648 action SB login="YL_ML_GL_42" amount="15"
+1669932368289 inf [table] 3 tt.tamgr.tt_4.t1412648 action BB login="djit4848" amount="30"
+1669932368293 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CARDS
+1669932368294 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932368294 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:PREACTION_LIST
+1669932368295 inf [table] 3 tt.tamgr.tt_4.t1412648 cards login="YL_ML_GL_42" 2h,Ks
+1669932368295 inf [table] 3 tt.tamgr.tt_4.t1412648 round pre-flop pot="0" totalPot="45"
+1669932371427 inf [network] < prefs TIME:GET
+1669932371479 inf [network] > prefs TIME:GET_OK
+1669932375753 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932375754 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTIONSET
+1669932375754 inf [table] 3 tt.tamgr.tt_4.t1412648 action call login="-N-T-M-" amount="30"
+1669932377190 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932378073 inf [network] < tt.tamgr.tt_4.t1412648 TABLE:ACTION
+1669932378145 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_OK
+1669932378146 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932378154 inf [table] 3 tt.tamgr.tt_4.t1412648 action raise login="YL_ML_GL_42" amount="100"
+1669932379834 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932379838 inf [table] 3 tt.tamgr.tt_4.t1412648 action call login="djit4848" amount="100"
+1669932381430 inf [network] < prefs TIME:GET
+1669932381474 inf [network] > prefs TIME:GET_OK
+1669932382434 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932390747 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932391441 inf [network] < prefs TIME:GET
+1669932391509 inf [network] > prefs TIME:GET_OK
+1669932392009 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CHAT_INFO
+1669932392010 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932392913 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932392926 inf [table] 3 tt.tamgr.tt_4.t1412648 action call login="-N-T-M-" amount="100"
+1669932393027 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CARDS
+1669932393027 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932393028 inf [table] 3 tt.tamgr.tt_4.t1412648 round flop board="Qs,Jh,5h" pot="300" totalPot="0"
+1669932395766 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932395767 inf [table] 3 tt.tamgr.tt_4.t1412648 action check login="djit4848"
+1669932401452 inf [network] < prefs TIME:GET
+1669932401502 inf [network] > prefs TIME:GET_OK
+1669932403271 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932405388 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932407895 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CHAT_INFO
+1669932407896 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932408605 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932408606 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CARDS
+1669932408606 inf [table] 3 tt.tamgr.tt_4.t1412648 action check login="-N-T-M-"
+1669932408628 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932408629 inf [table] 3 tt.tamgr.tt_4.t1412648 round turn board="Qs,Jh,5h,Jc" pot="300" totalPot="0"
+1669932411454 inf [network] < prefs TIME:GET
+1669932411503 inf [network] > prefs TIME:GET_OK
+1669932412200 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932412205 inf [table] 3 tt.tamgr.tt_4.t1412648 action check login="djit4848"
+1669932412243 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932412244 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CARDS
+1669932412245 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932412245 inf [table] 3 tt.tamgr.tt_4.t1412648 action check login="-N-T-M-"
+1669932412252 inf [table] 3 tt.tamgr.tt_4.t1412648 round river board="Qs,Jh,5h,Jc,Js" pot="300" totalPot="0"
+1669932414196 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932414197 inf [table] 3 tt.tamgr.tt_4.t1412648 action bet login="djit4848" amount="30"
+1669932421445 inf [network] < prefs TIME:GET
+1669932421489 inf [network] > prefs TIME:GET_OK
+1669932425392 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:ACTION_INFO
+1669932425393 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932425393 inf [table] 3 tt.tamgr.tt_4.t1412648 action fold login="-N-T-M-"
+1669932426444 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932426912 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:SHOWDOWN_INFO
+1669932426913 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:SHOWCARDS_INFO
+1669932429909 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:SHOWDOWN_INFO
+1669932429927 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:RESULT
+1669932429928 inf [network] > tt.tamgr.tt_4.t1412648 TRACKER:GET_INFO
+1669932429928 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:SHOWCARDS_OK
+1669932429929 inf [table] 3 tt.tamgr.tt_4.t1412648 showdown login="YL_ML_GL_42" cards="2h,Ks" board="Qs,Jh,5h,Jc,Js"
+1669932429929 inf [table] 3 tt.tamgr.tt_4.t1412648 showdown login="djit4848" cards="6d,5d" board="Qs,Jh,5h,Jc,Js"
+1669932429929 inf [table] 3 tt.tamgr.tt_4.t1412648 gain login="djit4848" amount="330"
+1669932431450 inf [network] < prefs TIME:GET
+1669932431507 inf [network] > prefs TIME:GET_OK
+1669932431952 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932431963 inf [network] > tt.ttmgr.tt_4.t607106759 TOURNAMENT:STATUS
+1669932431975 inf [network] > tt.ttmgr.tt_4.t607106759 TOURNAMENT:STATUS
+1669932431994 inf [network] > tt.ttmgr.tt_4.t607106759 TRACKER:GET_INFO
+1669932432011 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:CHAT_INFO
+1669932432013 inf [network] > tt.ttmgr.tt_4.t607106759 TOURNAMENT:RESULT
+1669932432014 inf [network] > tt.ttmgr.tt_4.t607106759 TOURNAMENT:STATUS
+1669932432015 inf [network] > prefs SRM:UPDATE_RULE_INFO
+1669932432023 inf [router] Navigate: wam://popup?type=tournament-result&ttid=3
+1669932432024 inf [router] Navigation done: wam://popup?type=tournament-result&ttid=3
+1669932432025 inf [network] > prefs NOTIFICATION:POST_INFO
+1669932432025 inf [network] > prefs GAMESTATS:INFO
+1669932434033 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:POST_INFO
+1669932434034 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:POST_INFO
+1669932434034 inf [table] 3 tt.tamgr.tt_4.t1412648 hand 2607503675085553665-6-1669932433
+1669932434035 inf [table] 3 tt.tamgr.tt_4.t1412648 action SB login="djit4848" amount="15"
+1669932434038 inf [table] 3 tt.tamgr.tt_4.t1412648 action BB login="-N-T-M-" amount="30"
+1669932434039 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:STATUS
+1669932434054 inf [table] 3 tt.tamgr.tt_4.t1412648 round pre-flop pot="0" totalPot="45"
+1669932434720 inf [router] Execute: wam://playground-close?id=1
+1669932434722 inf [router] Execution done: wam://playground-close?id=1
+1669932434722 inf [router] Execute: wam://table-close?tblid=3
+1669932434722 inf [router] Execution done: wam://table-close?tblid=3
+1669932434723 inf [network] < tt.tamgr.tt_4.t1412648 TABLE:LEAVE
+1669932434723 inf [network] Leaving channel tt.tamgr.tt_4.t1412648
+1669932434724 inf [router] Execute: wam://playground-close?id=1&scene=2
+1669932434724 inf [router] Execution done: wam://playground-close?id=1&scene=2
+1669932434839 inf [network] Leaving channel tt.tamgr.tt_4.t1412648
+1669932434842 inf [network] > tt.tamgr.tt_4.t1412648 TABLE:LEAVE_OK
+1669932436429 inf [network] > subscriptions FILTERLIST:UPDATE
+1669932436438 inf [network] < tt.ttmgr.tt_4.t607106759 TOURNAMENT:LEAVE
+1669932436439 inf [network] Leaving channel tt.ttmgr.tt_4.t607106759
+1669932436487 inf [network] > tt.ttmgr.tt_4.t607106759 TOURNAMENT:LEAVE_OK
+1669932438250 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932441469 inf [network] < prefs TIME:GET
+1669932442880 inf [network] > prefs TIME:GET_OK
+1669932450333 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932451477 inf [network] < prefs TIME:GET
+1669932451561 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932451719 inf [network] > prefs TIME:GET_OK
+1669932452524 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932458447 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932461490 inf [network] < prefs TIME:GET
+1669932461543 inf [network] > prefs TIME:GET_OK
+1669932470476 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932471489 inf [network] < prefs TIME:GET
+1669932472480 inf [network] > prefs TIME:GET_OK
+1669932473993 inf [network] > prefs NOTIFICATION:POST_INFO
+1669932481475 inf [network] < prefs TIME:GET
+1669932481538 inf [network] > prefs TIME:GET_OK
+1669932491496 inf [network] < prefs TIME:GET
+1669932491553 inf [network] > prefs TIME:GET_OK
+1669932493586 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932501497 inf [network] < prefs TIME:GET
+1669932501542 inf [network] > prefs TIME:GET_OK
+1669932511503 inf [network] < prefs TIME:GET
+1669932511548 inf [network] > prefs TIME:GET_OK
+1669932521504 inf [network] < prefs TIME:GET
+1669932521554 inf [network] > prefs TIME:GET_OK
+1669932523761 inf [network] > prefs NOTIFICATION:POST_INFO
+1669932527590 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932531496 inf [network] < prefs TIME:GET
+1669932531586 inf [network] > prefs TIME:GET_OK
+1669932539745 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932541502 inf [network] < prefs TIME:GET
+1669932541543 inf [network] > prefs TIME:GET_OK
+1669932548232 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932551523 inf [network] < prefs TIME:GET
+1669932551622 inf [network] > prefs TIME:GET_OK
+1669932561522 inf [network] < prefs TIME:GET
+1669932561577 inf [network] > prefs TIME:GET_OK
+1669932563993 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932571539 inf [network] < prefs TIME:GET
+1669932571587 inf [network] > prefs TIME:GET_OK
+1669932578116 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932581533 inf [network] < prefs TIME:GET
+1669932581585 inf [network] > prefs TIME:GET_OK
+1669932588024 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932589026 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932591541 inf [network] < prefs TIME:GET
+1669932591588 inf [network] > prefs TIME:GET_OK
+1669932598871 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932601556 inf [network] < prefs TIME:GET
+1669932601594 inf [network] > prefs TIME:GET_OK
+1669932608468 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932610068 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932611568 inf [network] < prefs TIME:GET
+1669932611614 inf [network] > prefs TIME:GET_OK
+1669932612081 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932613514 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932621569 inf [network] < prefs TIME:GET
+1669932621615 inf [network] > prefs TIME:GET_OK
+1669932631016 inf [api] < Service operator/winamax-tv/public
+1669932631017 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public post
+1669932631356 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public ok
+1669932631356 inf [api] > Service operator/winamax-tv/public
+1669932631576 inf [network] < prefs TIME:GET
+1669932631613 inf [network] > prefs TIME:GET_OK
+1669932640760 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932641581 inf [network] < prefs TIME:GET
+1669932641630 inf [network] > prefs TIME:GET_OK
+1669932642424 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932651591 inf [network] < prefs TIME:GET
+1669932651637 inf [network] > prefs TIME:GET_OK
+1669932651711 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932652557 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932661600 inf [network] < prefs TIME:GET
+1669932661648 inf [network] > prefs TIME:GET_OK
+1669932669589 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932669676 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932671605 inf [network] < prefs TIME:GET
+1669932671647 inf [network] > prefs TIME:GET_OK
+1669932681611 inf [network] < prefs TIME:GET
+1669932681667 inf [network] > prefs TIME:GET_OK
+1669932691620 inf [network] < prefs TIME:GET
+1669932691667 inf [network] > prefs TIME:GET_OK
+1669932697517 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932701625 inf [network] < prefs TIME:GET
+1669932701676 inf [network] > prefs TIME:GET_OK
+1669932702429 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932707835 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932711615 inf [network] < prefs TIME:GET
+1669932711758 inf [network] > prefs TIME:GET_OK
+1669932719491 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932721626 inf [network] < prefs TIME:GET
+1669932721696 inf [network] > prefs TIME:GET_OK
+1669932722951 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932731644 inf [network] < prefs TIME:GET
+1669932731773 inf [network] > prefs TIME:GET_OK
+1669932736870 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932741645 inf [network] < prefs TIME:GET
+1669932741693 inf [network] > prefs TIME:GET_OK
+1669932744227 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932749353 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932751653 inf [network] < prefs TIME:GET
+1669932751706 inf [network] > prefs TIME:GET_OK
+1669932752679 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932754882 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932761667 inf [network] < prefs TIME:GET
+1669932761719 inf [network] > prefs TIME:GET_OK
+1669932763791 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932771667 inf [network] < prefs TIME:GET
+1669932771750 inf [network] > prefs TIME:GET_OK
+1669932781677 inf [network] < prefs TIME:GET
+1669932781748 inf [network] > prefs TIME:GET_OK
+1669932787694 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932791683 inf [network] < prefs TIME:GET
+1669932791737 inf [network] > prefs TIME:GET_OK
+1669932797430 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932801687 inf [network] < prefs TIME:GET
+1669932801733 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932801757 inf [network] > prefs TIME:GET_OK
+1669932811694 inf [network] < prefs TIME:GET
+1669932811751 inf [network] > prefs TIME:GET_OK
+1669932821191 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932821701 inf [network] < prefs TIME:GET
+1669932821748 inf [network] > prefs TIME:GET_OK
+1669932831707 inf [network] < prefs TIME:GET
+1669932831785 inf [network] > prefs TIME:GET_OK
+1669932841717 inf [network] < prefs TIME:GET
+1669932841767 inf [network] > prefs TIME:GET_OK
+1669932851727 inf [network] < prefs TIME:GET
+1669932851787 inf [network] > prefs TIME:GET_OK
+1669932852961 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932858214 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932861734 inf [network] < prefs TIME:GET
+1669932861802 inf [network] > prefs TIME:GET_OK
+1669932864126 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932871015 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932871745 inf [network] < prefs TIME:GET
+1669932871898 inf [network] > prefs TIME:GET_OK
+1669932873220 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932877561 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932880684 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932881744 inf [network] < prefs TIME:GET
+1669932881797 inf [network] > prefs TIME:GET_OK
+1669932891769 inf [network] < prefs TIME:GET
+1669932892092 inf [network] > prefs TIME:GET_OK
+1669932898603 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932901047 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932901777 inf [network] < prefs TIME:GET
+1669932902125 inf [network] > prefs TIME:GET_OK
+1669932910172 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932911779 inf [network] < prefs TIME:GET
+1669932911829 inf [network] > prefs TIME:GET_OK
+1669932917337 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932921775 inf [network] < prefs TIME:GET
+1669932921841 inf [network] > prefs TIME:GET_OK
+1669932931010 inf [api] < Service operator/userdata
+1669932931010 inf [network] > Http https://wapi.winamax.fr/operator/userdata post
+1669932931012 inf [network] < prefs CASHIER:GET
+1669932931012 inf [network] < prefs CASHIER:LIST
+1669932931013 inf [network] < prefs CASHIER:GET
+1669932931013 inf [network] < prefs CASHIER:LIST
+1669932931075 inf [network] > prefs CASHIER:GET_OK
+1669932931075 inf [network] > prefs CASHIER:LIST_OK
+1669932931075 inf [network] > prefs CASHIER:GET_OK
+1669932931163 inf [network] > prefs CASHIER:LIST_OK
+1669932931790 inf [network] < prefs TIME:GET
+1669932931897 inf [network] > Http https://wapi.winamax.fr/operator/userdata ok
+1669932931897 inf [api] > Service operator/userdata
+1669932931939 inf [network] > prefs TIME:GET_OK
+1669932933598 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932941800 inf [network] < prefs TIME:GET
+1669932941848 inf [network] > prefs TIME:GET_OK
+1669932951813 inf [network] < prefs TIME:GET
+1669932951892 inf [network] > prefs TIME:GET_OK
+1669932961822 inf [network] < prefs TIME:GET
+1669932961872 inf [network] > prefs TIME:GET_OK
+1669932971822 inf [network] < prefs TIME:GET
+1669932971883 inf [network] > prefs TIME:GET_OK
+1669932976113 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669932981834 inf [network] < prefs TIME:GET
+1669932981897 inf [network] > prefs TIME:GET_OK
+1669932991839 inf [network] < prefs TIME:GET
+1669932991887 inf [network] > prefs TIME:GET_OK
+1669933001853 inf [network] < prefs TIME:GET
+1669933001922 inf [network] > prefs TIME:GET_OK
+1669933009081 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933009183 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933011853 inf [network] < prefs TIME:GET
+1669933011898 inf [network] > prefs TIME:GET_OK
+1669933021854 inf [network] < prefs TIME:GET
+1669933021908 inf [network] > prefs TIME:GET_OK
+1669933025731 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933025731 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933031858 inf [network] < prefs TIME:GET
+1669933031926 inf [network] > prefs TIME:GET_OK
+1669933032609 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933037249 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933037964 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933041867 inf [network] < prefs TIME:GET
+1669933041909 inf [network] > prefs TIME:GET_OK
+1669933051881 inf [network] < prefs TIME:GET
+1669933051938 inf [network] > prefs TIME:GET_OK
+1669933053485 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933055963 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933061894 inf [network] < prefs TIME:GET
+1669933061948 inf [network] > prefs TIME:GET_OK
+1669933071010 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933071898 inf [network] < prefs TIME:GET
+1669933071948 inf [network] > prefs TIME:GET_OK
+1669933081901 inf [network] < prefs TIME:GET
+1669933081963 inf [network] > prefs TIME:GET_OK
+1669933091485 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933091908 inf [network] < prefs TIME:GET
+1669933091969 inf [network] > prefs TIME:GET_OK
+1669933101902 inf [network] < prefs TIME:GET
+1669933101950 inf [network] > prefs TIME:GET_OK
+1669933111930 inf [network] < prefs TIME:GET
+1669933111987 inf [network] > prefs TIME:GET_OK
+1669933121944 inf [network] < prefs TIME:GET
+1669933121992 inf [network] > prefs TIME:GET_OK
+1669933124867 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933125992 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933131959 inf [network] < prefs TIME:GET
+1669933132517 inf [network] > prefs TIME:GET_OK
+1669933138443 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933141966 inf [network] < prefs TIME:GET
+1669933142010 inf [network] > prefs TIME:GET_OK
+1669933146015 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933150202 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933151973 inf [network] < prefs TIME:GET
+1669933152024 inf [network] > prefs TIME:GET_OK
+1669933161985 inf [network] < prefs TIME:GET
+1669933162591 inf [network] > prefs TIME:GET_OK
+1669933162623 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933162884 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933171995 inf [network] < prefs TIME:GET
+1669933172051 inf [network] > prefs TIME:GET_OK
+1669933173952 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933181996 inf [network] < prefs TIME:GET
+1669933182041 inf [network] > prefs TIME:GET_OK
+1669933192004 inf [network] < prefs TIME:GET
+1669933192167 inf [network] > prefs TIME:GET_OK
+1669933201994 inf [network] < prefs TIME:GET
+1669933202058 inf [network] > prefs TIME:GET_OK
+1669933212021 inf [network] < prefs TIME:GET
+1669933212068 inf [network] > prefs TIME:GET_OK
+1669933213393 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933215638 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933219464 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933222034 inf [network] < prefs TIME:GET
+1669933222091 inf [network] > prefs TIME:GET_OK
+1669933222503 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933232028 inf [network] < prefs TIME:GET
+1669933232083 inf [network] > prefs TIME:GET_OK
+1669933241620 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933242043 inf [network] < prefs TIME:GET
+1669933242111 inf [network] > prefs TIME:GET_OK
+1669933252054 inf [network] < prefs TIME:GET
+1669933252093 inf [network] > prefs TIME:GET_OK
+1669933253939 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933256035 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933262058 inf [network] < prefs TIME:GET
+1669933262117 inf [network] > prefs TIME:GET_OK
+1669933272070 inf [network] < prefs TIME:GET
+1669933272122 inf [network] > prefs TIME:GET_OK
+1669933272737 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933272944 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933275270 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933282083 inf [network] < prefs TIME:GET
+1669933282682 inf [network] > prefs TIME:GET_OK
+1669933292093 inf [network] < prefs TIME:GET
+1669933292158 inf [network] > prefs TIME:GET_OK
+1669933302096 inf [network] < prefs TIME:GET
+1669933302145 inf [network] > prefs TIME:GET_OK
+1669933304294 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933307198 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933309257 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933312106 inf [network] < prefs TIME:GET
+1669933312163 inf [network] > prefs TIME:GET_OK
+1669933314147 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933322113 inf [network] < prefs TIME:GET
+1669933322304 inf [network] > prefs TIME:GET_OK
+1669933331817 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933332112 inf [network] < prefs TIME:GET
+1669933332163 inf [network] > prefs TIME:GET_OK
+1669933342121 inf [network] < prefs TIME:GET
+1669933342183 inf [network] > prefs TIME:GET_OK
+1669933342786 inf [network] > prefs NOTIFICATION:POST_INFO
+1669933343498 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933346302 inf [network] > wam.general.t1 CHATROOM:POST_INFO
+1669933348977 inf [system] Screen locked
+1669933348979 inf [app] Paused
+1669933348980 inf [network] Connection status: 5
+1669933348983 inf [tracker] Closed
+1669933349058 inf [network] Socket closed
+1669934190548 inf [system] Suspended
+1669935967838 inf [system] Resumed
+1669936345710 inf [system] Suspended
+1669936346061 inf [system] On battery
+1669936731808 inf [system] Resumed
+1669936740772 inf [system] Screen unlocked
+1669936740774 inf [app] Resumed
+1669936740794 inf [router] Execute: wam://logout?reason=idle
+1669936740819 inf [network] Disconnecting
+1669936740821 inf [network] Connection status: 7
+1669936740823 inf [network] Connection status: 8
+1669936740837 inf [router] Execution done: wam://logout?reason=idle
+1669936740841 inf [router] Navigate: wam://popup?type=error&message=You%20have%20been%20disconnected%20due%20to%20inactivity.
+1669936740845 inf [router] Navigation done: wam://popup?type=error&message=You%20have%20been%20disconnected%20due%20to%20inactivity.
+1669936740852 inf [tracker] Listening on port: 8003
+1669937233739 inf [system] Suspended
+1669937363275 inf [system] Screen locked
+1669937363276 inf [app] Paused
+1669937363277 inf [tracker] Closed
+1669937364102 inf [system] Resumed
+1669937379304 inf [system] Screen unlocked
+1669937379307 inf [app] Resumed
+1669937379345 inf [tracker] Listening on port: 8003
+1669937465653 inf [tracker] Closed

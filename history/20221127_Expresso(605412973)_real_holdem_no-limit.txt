@@ -1,0 +1,363 @@
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600228919609131009-1-1669565222 - Holdem no limit (10/20) - 2022/11/27 16:07:02 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: kxvp (500)
+Seat 3: goreotyma (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+kxvp posts big blind 20
+Dealt to YL_ML_GL_42 [7d 2s]
+*** PRE-FLOP *** 
+goreotyma raises 20 to 40
+YL_ML_GL_42 folds
+kxvp folds
+goreotyma collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: goreotyma (button) won 70
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600228919609131009-2-1669565231 - Holdem no limit (10/20) - 2022/11/27 16:07:11 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (490)
+Seat 2: kxvp (480)
+Seat 3: goreotyma (530)
+*** ANTE/BLINDS ***
+kxvp posts small blind 10
+goreotyma posts big blind 20
+Dealt to YL_ML_GL_42 [Ac Th]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+kxvp calls 60
+goreotyma folds
+*** FLOP *** [7d 2h As]
+kxvp checks
+YL_ML_GL_42 checks
+*** TURN *** [7d 2h As][8d]
+kxvp checks
+YL_ML_GL_42 bets 128
+kxvp folds
+YL_ML_GL_42 collected 288 from pot
+*** SUMMARY ***
+Total pot 288 | No rake
+Board: [7d 2h As 8d]
+Seat 1: YL_ML_GL_42 (button) won 288
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600228919609131009-3-1669565250 - Holdem no limit (10/20) - 2022/11/27 16:07:30 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (580)
+Seat 2: kxvp (410)
+Seat 3: goreotyma (510)
+*** ANTE/BLINDS ***
+goreotyma posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [3c 4h]
+*** PRE-FLOP *** 
+kxvp folds
+goreotyma raises 30 to 50
+YL_ML_GL_42 folds
+goreotyma collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: goreotyma (small blind) won 70
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600228919609131009-4-1669565255 - Holdem no limit (10/20) - 2022/11/27 16:07:35 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (560)
+Seat 2: kxvp (410)
+Seat 3: goreotyma (530)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+kxvp posts big blind 20
+Dealt to YL_ML_GL_42 [6d 3c]
+*** PRE-FLOP *** 
+goreotyma raises 20 to 40
+YL_ML_GL_42 folds
+kxvp folds
+goreotyma collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: goreotyma (button) won 70
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600228919609131009-5-1669565261 - Holdem no limit (10/20) - 2022/11/27 16:07:41 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (550)
+Seat 2: kxvp (390)
+Seat 3: goreotyma (560)
+*** ANTE/BLINDS ***
+kxvp posts small blind 10
+goreotyma posts big blind 20
+Dealt to YL_ML_GL_42 [4h 9c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+kxvp calls 10
+goreotyma raises 60 to 80
+kxvp folds
+goreotyma collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 3: goreotyma (big blind) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600228919609131009-6-1669565272 - Holdem no limit (10/20) - 2022/11/27 16:07:52 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (550)
+Seat 2: kxvp (370)
+Seat 3: goreotyma (580)
+*** ANTE/BLINDS ***
+goreotyma posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [3s 8c]
+*** PRE-FLOP *** 
+kxvp raises 40 to 60
+goreotyma folds
+YL_ML_GL_42 folds
+kxvp collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: kxvp (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600228919609131009-7-1669565279 - Holdem no limit (10/20) - 2022/11/27 16:07:59 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (530)
+Seat 2: kxvp (400)
+Seat 3: goreotyma (570)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+kxvp posts big blind 20
+Dealt to YL_ML_GL_42 [9h Qh]
+*** PRE-FLOP *** 
+goreotyma folds
+YL_ML_GL_42 raises 40 to 60
+kxvp folds
+YL_ML_GL_42 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: YL_ML_GL_42 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2600228919609131009-8-1669565298 - Holdem no limit (10/20) - 2022/11/27 16:08:18 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (550)
+Seat 2: kxvp (380)
+Seat 3: goreotyma (570)
+*** ANTE/BLINDS ***
+kxvp posts small blind 10
+goreotyma posts big blind 20
+Dealt to YL_ML_GL_42 [3s Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+kxvp calls 10
+goreotyma raises 40 to 60
+kxvp calls 40
+*** FLOP *** [9s 2s Jd]
+kxvp bets 78
+goreotyma raises 188 to 266
+kxvp calls 188
+*** TURN *** [9s 2s Jd][3c]
+kxvp checks
+goreotyma bets 244 and is all-in
+kxvp calls 54 and is all-in
+*** RIVER *** [9s 2s Jd 3c][6c]
+*** SHOW DOWN ***
+kxvp shows [4s 8s] (High card : Jack)
+goreotyma shows [Js 7h] (One pair : Jacks)
+goreotyma collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Board: [9s 2s Jd 3c 6c]
+Seat 2: kxvp (small blind) showed [4s 8s] and lost with High card : Jack
+Seat 3: goreotyma (big blind) showed [Js 7h] and won 950 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2600228919609131009-9-1669565328 - Holdem no limit (15/30) - 2022/11/27 16:08:48 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (550)
+Seat 3: goreotyma (950)
+*** ANTE/BLINDS ***
+goreotyma posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [9c Ad]
+*** PRE-FLOP *** 
+goreotyma raises 30 to 60
+YL_ML_GL_42 raises 120 to 180
+goreotyma folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2600228919609131009-10-1669565338 - Holdem no limit (15/30) - 2022/11/27 16:08:58 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (610)
+Seat 3: goreotyma (890)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+goreotyma posts big blind 30
+Dealt to YL_ML_GL_42 [4h 8c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+goreotyma calls 60
+*** FLOP *** [7h Ts 3c]
+goreotyma checks
+YL_ML_GL_42 bets 144
+goreotyma folds
+YL_ML_GL_42 collected 324 from pot
+*** SUMMARY ***
+Total pot 324 | No rake
+Board: [7h Ts 3c]
+Seat 1: YL_ML_GL_42 (small blind) (button) won 324
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2600228919609131009-11-1669565356 - Holdem no limit (15/30) - 2022/11/27 16:09:16 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (700)
+Seat 3: goreotyma (800)
+*** ANTE/BLINDS ***
+goreotyma posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [9s 8c]
+*** PRE-FLOP *** 
+goreotyma raises 770 to 800 and is all-in
+YL_ML_GL_42 folds
+goreotyma collected 830 from pot
+*** SUMMARY ***
+Total pot 830 | No rake
+Seat 3: goreotyma (small blind) (button) won 830
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2600228919609131009-12-1669565361 - Holdem no limit (15/30) - 2022/11/27 16:09:21 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (670)
+Seat 3: goreotyma (830)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+goreotyma posts big blind 30
+Dealt to YL_ML_GL_42 [Jh Jd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 15
+goreotyma raises 90 to 120
+YL_ML_GL_42 raises 550 to 670 and is all-in
+goreotyma folds
+YL_ML_GL_42 collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 790
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2600228919609131009-13-1669565382 - Holdem no limit (15/30) - 2022/11/27 16:09:42 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (790)
+Seat 3: goreotyma (710)
+*** ANTE/BLINDS ***
+goreotyma posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [9h 8h]
+*** PRE-FLOP *** 
+goreotyma raises 60 to 90
+YL_ML_GL_42 calls 60
+*** FLOP *** [6c Kd 7s]
+YL_ML_GL_42 bets 144
+goreotyma raises 476 to 620 and is all-in
+YL_ML_GL_42 calls 476
+*** TURN *** [6c Kd 7s][2s]
+*** RIVER *** [6c Kd 7s 2s][Ad]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9h 8h] (High card : Ace)
+goreotyma shows [8d 8c] (One pair : 8)
+goreotyma collected 1420 from pot
+*** SUMMARY ***
+Total pot 1420 | No rake
+Board: [6c Kd 7s 2s Ad]
+Seat 1: YL_ML_GL_42 (big blind) showed [9h 8h] and lost with High card : Ace
+Seat 3: goreotyma (small blind) (button) showed [8d 8c] and won 1420 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2600228919609131009-14-1669565399 - Holdem no limit (20/40) - 2022/11/27 16:09:59 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (80)
+Seat 3: goreotyma (1420)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+goreotyma posts big blind 40
+Dealt to YL_ML_GL_42 [6c Jh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+goreotyma collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: goreotyma (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2600228919609131009-15-1669565402 - Holdem no limit (20/40) - 2022/11/27 16:10:02 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (60)
+Seat 3: goreotyma (1440)
+*** ANTE/BLINDS ***
+goreotyma posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Kh 5s]
+*** PRE-FLOP *** 
+goreotyma raises 1400 to 1440 and is all-in
+YL_ML_GL_42 calls 20 and is all-in
+*** FLOP *** [Kd 5d 7s]
+*** TURN *** [Kd 5d 7s][Ac]
+*** RIVER *** [Kd 5d 7s Ac][8c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kh 5s] (Two pairs : Kings and 5)
+goreotyma shows [Qc Kc] (One pair : Kings)
+goreotyma collected 1380 from side pot 1
+YL_ML_GL_42 collected 120 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Kd 5d 7s Ac 8c]
+Seat 1: YL_ML_GL_42 (big blind) showed [Kh 5s] and won 120 with Two pairs : Kings and 5
+Seat 3: goreotyma (small blind) (button) showed [Qc Kc] and won 1380 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2600228919609131009-16-1669565414 - Holdem no limit (20/40) - 2022/11/27 16:10:14 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (120)
+Seat 3: goreotyma (1380)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+goreotyma posts big blind 40
+Dealt to YL_ML_GL_42 [3c Th]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+goreotyma collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: goreotyma (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2600228919609131009-17-1669565418 - Holdem no limit (20/40) - 2022/11/27 16:10:18 UTC
+Table: 'Expresso(605412973)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (100)
+Seat 3: goreotyma (1400)
+*** ANTE/BLINDS ***
+goreotyma posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Th 7d]
+*** PRE-FLOP *** 
+goreotyma raises 1360 to 1400 and is all-in
+YL_ML_GL_42 calls 60 and is all-in
+*** FLOP *** [As Jd 4d]
+*** TURN *** [As Jd 4d][Qc]
+*** RIVER *** [As Jd 4d Qc][2h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Th 7d] (High card : Ace)
+goreotyma shows [9d 2d] (One pair : 2)
+goreotyma collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [As Jd 4d Qc 2h]
+Seat 1: YL_ML_GL_42 (big blind) showed [Th 7d] and lost with High card : Ace
+Seat 3: goreotyma (small blind) (button) showed [9d 2d] and won 1500 with One pair : 2
+
+

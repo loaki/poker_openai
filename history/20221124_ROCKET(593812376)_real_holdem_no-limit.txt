@@ -1,0 +1,615 @@
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2550404734880055300-22-1669327483 - Holdem no limit (80/350/700) - 2022/11/24 22:04:43 UTC
+Table: 'ROCKET(593812376)#003' 8-max (real money) Seat #2 is the button
+Seat 1: Carlinhosss (12315, 2.25€ bounty)
+Seat 2: Get atnoeil (14648, 3.37€ bounty)
+Seat 3: chmecher (39248, 3.37€ bounty)
+Seat 4: Uppppppppppp (38866, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (20000, 2.25€ bounty)
+Seat 6: Jeanporctout (53231, 3.37€ bounty)
+Seat 7: Flavien 623 (13710, 2.25€ bounty)
+Seat 8: lavidalokk (44994, 3.37€ bounty)
+*** ANTE/BLINDS ***
+chmecher posts ante 80
+Uppppppppppp posts ante 80
+Carlinhosss posts ante 80
+Get atnoeil posts ante 80
+YL_ML_GL_42 posts ante 80
+Jeanporctout posts ante 80
+Flavien 623 posts ante 80
+lavidalokk posts ante 80
+chmecher posts small blind 350
+Uppppppppppp posts big blind 700
+Dealt to YL_ML_GL_42 [8s 2d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Jeanporctout raises 2390 to 3090
+Flavien 623 calls 3090
+lavidalokk folds
+Carlinhosss folds
+Get atnoeil folds
+chmecher folds
+Uppppppppppp folds
+*** FLOP *** [6d 9c 7s]
+Jeanporctout bets 7870
+Flavien 623 folds
+Jeanporctout collected 15740 from pot
+*** SUMMARY ***
+Total pot 15740 | No rake
+Board: [6d 9c 7s]
+Seat 6: Jeanporctout won 15740
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2550404734880055300-23-1669327507 - Holdem no limit (80/350/700) - 2022/11/24 22:05:07 UTC
+Table: 'ROCKET(593812376)#003' 8-max (real money) Seat #3 is the button
+Seat 1: Carlinhosss (12235, 2.25€ bounty)
+Seat 2: Get atnoeil (14568, 3.37€ bounty)
+Seat 3: chmecher (38818, 3.37€ bounty)
+Seat 4: Uppppppppppp (38086, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19920, 2.25€ bounty)
+Seat 6: Jeanporctout (57931, 3.37€ bounty)
+Seat 7: Flavien 623 (10540, 2.25€ bounty)
+Seat 8: lavidalokk (44914, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Uppppppppppp posts ante 80
+YL_ML_GL_42 posts ante 80
+Carlinhosss posts ante 80
+Get atnoeil posts ante 80
+chmecher posts ante 80
+Jeanporctout posts ante 80
+Flavien 623 posts ante 80
+lavidalokk posts ante 80
+Uppppppppppp posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [Kh 3d]
+*** PRE-FLOP *** 
+Jeanporctout raises 2390 to 3090
+Flavien 623 folds
+lavidalokk folds
+Carlinhosss folds
+Get atnoeil folds
+chmecher folds
+Uppppppppppp calls 2740
+YL_ML_GL_42 folds
+*** FLOP *** [4h Kd 8h]
+Uppppppppppp checks
+Jeanporctout checks
+*** TURN *** [4h Kd 8h][3h]
+Uppppppppppp bets 4888
+Jeanporctout calls 4888
+*** RIVER *** [4h Kd 8h 3h][Qd]
+Uppppppppppp bets 11242
+Jeanporctout folds
+Uppppppppppp collected 28538 from pot
+*** SUMMARY ***
+Total pot 28538 | No rake
+Board: [4h Kd 8h 3h Qd]
+Seat 4: Uppppppppppp (small blind) won 28538
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2550404734880055300-24-1669327582 - Holdem no limit (80/350/700) - 2022/11/24 22:06:22 UTC
+Table: 'ROCKET(593812376)#003' 8-max (real money) Seat #4 is the button
+Seat 1: Carlinhosss (12155, 2.25€ bounty)
+Seat 2: Get atnoeil (14488, 3.37€ bounty)
+Seat 3: chmecher (38738, 3.37€ bounty)
+Seat 4: Uppppppppppp (47324, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19140, 2.25€ bounty)
+Seat 6: Jeanporctout (49873, 3.37€ bounty)
+Seat 7: Flavien 623 (10460, 2.25€ bounty)
+Seat 8: lavidalokk (44834, 3.37€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+Jeanporctout posts ante 80
+Carlinhosss posts ante 80
+Get atnoeil posts ante 80
+chmecher posts ante 80
+Uppppppppppp posts ante 80
+Flavien 623 posts ante 80
+lavidalokk posts ante 80
+YL_ML_GL_42 posts small blind 350
+Jeanporctout posts big blind 700
+Dealt to YL_ML_GL_42 [6h Jh]
+*** PRE-FLOP *** 
+Flavien 623 folds
+lavidalokk folds
+Carlinhosss raises 11375 to 12075 and is all-in
+Get atnoeil folds
+chmecher folds
+Uppppppppppp folds
+YL_ML_GL_42 folds
+Jeanporctout folds
+Carlinhosss collected 13765 from pot
+*** SUMMARY ***
+Total pot 13765 | No rake
+Seat 1: Carlinhosss won 13765
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2550404734880055300-25-1669327628 - Holdem no limit (100/400/800) - 2022/11/24 22:07:08 UTC
+Table: 'ROCKET(593812376)#003' 8-max (real money) Seat #5 is the button
+Seat 1: Carlinhosss (13765, 2.25€ bounty)
+Seat 2: Get atnoeil (14408, 3.37€ bounty)
+Seat 3: chmecher (38658, 3.37€ bounty)
+Seat 4: Uppppppppppp (47244, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (18710, 2.25€ bounty)
+Seat 6: Jeanporctout (49093, 3.37€ bounty)
+Seat 7: Flavien 623 (10380, 2.25€ bounty)
+Seat 8: lavidalokk (44754, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Jeanporctout posts ante 100
+Flavien 623 posts ante 100
+Carlinhosss posts ante 100
+Get atnoeil posts ante 100
+chmecher posts ante 100
+Uppppppppppp posts ante 100
+YL_ML_GL_42 posts ante 100
+lavidalokk posts ante 100
+Jeanporctout posts small blind 400
+Flavien 623 posts big blind 800
+Dealt to YL_ML_GL_42 [9d As]
+*** PRE-FLOP *** 
+lavidalokk raises 800 to 1600
+Carlinhosss folds
+Get atnoeil raises 12708 to 14308 and is all-in
+chmecher raises 24250 to 38558 and is all-in
+Uppppppppppp folds
+YL_ML_GL_42 folds
+Jeanporctout calls 38158
+Flavien 623 folds
+lavidalokk folds
+*** FLOP *** [4c 9h Qs]
+*** TURN *** [4c 9h Qs][9s]
+*** RIVER *** [4c 9h Qs 9s][Ts]
+*** SHOW DOWN ***
+Get atnoeil shows [Kh Ah] (One pair : 9)
+chmecher shows [Jc Kc] (Straight King high)
+Jeanporctout shows [5s 2s] (Flush Queen high)
+Jeanporctout collected 94624 from pot
+*** SUMMARY ***
+Total pot 94624 | No rake
+Board: [4c 9h Qs 9s Ts]
+Seat 2: Get atnoeil showed [Kh Ah] and lost with One pair : 9
+Seat 3: chmecher showed [Jc Kc] and lost with Straight King high
+Seat 6: Jeanporctout (small blind) showed [5s 2s] and won 94624 with Flush Queen high
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2550404734880055300-26-1669327714 - Holdem no limit (100/400/800) - 2022/11/24 22:08:34 UTC
+Table: 'ROCKET(593812376)#003' 8-max (real money) Seat #6 is the button
+Seat 1: Carlinhosss (13665, 2.25€ bounty)
+Seat 4: Uppppppppppp (47144, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (18610, 2.25€ bounty)
+Seat 6: Jeanporctout (105059, 6.73€ bounty)
+Seat 7: Flavien 623 (9480, 2.25€ bounty)
+Seat 8: lavidalokk (43054, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Flavien 623 posts ante 100
+lavidalokk posts ante 100
+Carlinhosss posts ante 100
+Uppppppppppp posts ante 100
+YL_ML_GL_42 posts ante 100
+Jeanporctout posts ante 100
+Flavien 623 posts small blind 400
+lavidalokk posts big blind 800
+Dealt to YL_ML_GL_42 [3c Qh]
+*** PRE-FLOP *** 
+Carlinhosss folds
+Uppppppppppp raises 1200 to 2000
+YL_ML_GL_42 folds
+Jeanporctout folds
+Flavien 623 folds
+lavidalokk calls 1200
+*** FLOP *** [Jh Ac Qc]
+lavidalokk checks
+Uppppppppppp bets 1750
+lavidalokk calls 1750
+*** TURN *** [Jh Ac Qc][9c]
+lavidalokk checks
+Uppppppppppp checks
+*** RIVER *** [Jh Ac Qc 9c][Qs]
+lavidalokk checks
+Uppppppppppp checks
+*** SHOW DOWN ***
+Uppppppppppp shows [Ad Th] (Two pairs : Aces and Queens)
+lavidalokk shows [7d As] (Two pairs : Aces and Queens)
+lavidalokk collected 4250 from pot
+Uppppppppppp collected 4250 from pot
+*** SUMMARY ***
+Total pot 8500 | No rake
+Board: [Jh Ac Qc 9c Qs]
+Seat 4: Uppppppppppp showed [Ad Th] and won 4250 with Two pairs : Aces and Queens
+Seat 8: lavidalokk (big blind) showed [7d As] and won 4250 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2550404734880055300-27-1669327798 - Holdem no limit (120/500/1000) - 2022/11/24 22:09:58 UTC
+Table: 'ROCKET(593812376)#003' 8-max (real money) Seat #7 is the button
+Seat 1: Carlinhosss (13565, 2.25€ bounty)
+Seat 2: Djack-Fish84 (20000, 2.25€ bounty)
+Seat 3: Vegetadex (18535, 2.25€ bounty)
+Seat 4: Uppppppppppp (47544, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (18510, 2.25€ bounty)
+Seat 6: Jeanporctout (104959, 6.73€ bounty)
+Seat 7: Flavien 623 (8980, 2.25€ bounty)
+Seat 8: lavidalokk (43454, 3.37€ bounty)
+*** ANTE/BLINDS ***
+lavidalokk posts ante 120
+Carlinhosss posts ante 120
+Djack-Fish84 posts ante 120
+Vegetadex posts ante 120
+Uppppppppppp posts ante 120
+YL_ML_GL_42 posts ante 120
+Jeanporctout posts ante 120
+Flavien 623 posts ante 120
+lavidalokk posts small blind 500
+Carlinhosss posts big blind 1000
+Dealt to YL_ML_GL_42 [6h 2s]
+*** PRE-FLOP *** 
+Djack-Fish84 folds
+Vegetadex folds
+Uppppppppppp raises 1000 to 2000
+YL_ML_GL_42 folds
+Jeanporctout calls 2000
+Flavien 623 folds
+lavidalokk folds
+Carlinhosss calls 1000
+*** FLOP *** [Kh 9c Tc]
+Carlinhosss checks
+Uppppppppppp bets 7460
+Jeanporctout folds
+Carlinhosss folds
+Uppppppppppp collected 14920 from pot
+*** SUMMARY ***
+Total pot 14920 | No rake
+Board: [Kh 9c Tc]
+Seat 4: Uppppppppppp won 14920
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2550404734880055300-28-1669327874 - Holdem no limit (120/500/1000) - 2022/11/24 22:11:14 UTC
+Table: 'ROCKET(593812376)#003' 8-max (real money) Seat #8 is the button
+Seat 1: Carlinhosss (11445, 2.25€ bounty)
+Seat 2: Djack-Fish84 (19880, 2.25€ bounty)
+Seat 3: Vegetadex (18415, 2.25€ bounty)
+Seat 4: Uppppppppppp (52884, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (18390, 2.25€ bounty)
+Seat 6: Jeanporctout (102839, 6.73€ bounty)
+Seat 7: Flavien 623 (8860, 2.25€ bounty)
+Seat 8: lavidalokk (42834, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Carlinhosss posts ante 120
+Djack-Fish84 posts ante 120
+Vegetadex posts ante 120
+Uppppppppppp posts ante 120
+YL_ML_GL_42 posts ante 120
+Jeanporctout posts ante 120
+Flavien 623 posts ante 120
+lavidalokk posts ante 120
+Carlinhosss posts small blind 500
+Djack-Fish84 posts big blind 1000
+Dealt to YL_ML_GL_42 [Ad 5s]
+*** PRE-FLOP *** 
+Vegetadex folds
+Uppppppppppp folds
+YL_ML_GL_42 raises 2000 to 3000
+Jeanporctout folds
+Flavien 623 folds
+lavidalokk folds
+Carlinhosss folds
+Djack-Fish84 calls 2000
+*** FLOP *** [4c 2s 8h]
+Djack-Fish84 checks
+YL_ML_GL_42 bets 5968
+Djack-Fish84 folds
+YL_ML_GL_42 collected 13428 from pot
+*** SUMMARY ***
+Total pot 13428 | No rake
+Board: [4c 2s 8h]
+Seat 5: YL_ML_GL_42 won 13428
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2550404734880055300-29-1669327938 - Holdem no limit (140/600/1200) - 2022/11/24 22:12:18 UTC
+Table: 'ROCKET(593812376)#003' 8-max (real money) Seat #1 is the button
+Seat 1: Carlinhosss (10825, 2.25€ bounty)
+Seat 2: Djack-Fish84 (16760, 2.25€ bounty)
+Seat 3: Vegetadex (18295, 2.25€ bounty)
+Seat 4: Uppppppppppp (52764, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (22730, 2.25€ bounty)
+Seat 6: Jeanporctout (102719, 6.73€ bounty)
+Seat 7: Flavien 623 (8740, 2.25€ bounty)
+Seat 8: lavidalokk (42714, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Djack-Fish84 posts ante 140
+Vegetadex posts ante 140
+Carlinhosss posts ante 140
+Uppppppppppp posts ante 140
+YL_ML_GL_42 posts ante 140
+Jeanporctout posts ante 140
+Flavien 623 posts ante 140
+lavidalokk posts ante 140
+Djack-Fish84 posts small blind 600
+Vegetadex posts big blind 1200
+Dealt to YL_ML_GL_42 [7h 8h]
+*** PRE-FLOP *** 
+Uppppppppppp folds
+YL_ML_GL_42 folds
+Jeanporctout folds
+Flavien 623 raises 7400 to 8600 and is all-in
+lavidalokk raises 33974 to 42574 and is all-in
+Carlinhosss folds
+Djack-Fish84 folds
+Vegetadex calls 16955 and is all-in
+*** FLOP *** [Qs Th 6d]
+*** TURN *** [Qs Th 6d][5s]
+*** RIVER *** [Qs Th 6d 5s][As]
+*** SHOW DOWN ***
+Flavien 623 shows [Ac 9s] (One pair : Aces)
+Vegetadex shows [Jc Ks] (Straight Ace high)
+lavidalokk shows [Ah 8c] (One pair : Aces)
+lavidalokk collected 24419 from side pot 1
+Vegetadex collected 46630 from main pot
+*** SUMMARY ***
+Total pot 71049 | No rake
+Board: [Qs Th 6d 5s As]
+Seat 3: Vegetadex (big blind) showed [Jc Ks] and won 46630 with Straight Ace high
+Seat 7: Flavien 623 showed [Ac 9s] and lost with One pair : Aces
+Seat 8: lavidalokk showed [Ah 8c] and won 24419 with One pair : Aces
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2550404734880055300-30-1669327972 - Holdem no limit (140/600/1200) - 2022/11/24 22:12:52 UTC
+Table: 'ROCKET(593812376)#003' 8-max (real money) Seat #2 is the button
+Seat 1: Carlinhosss (10685, 2.25€ bounty)
+Seat 2: Djack-Fish84 (16020, 2.25€ bounty)
+Seat 3: Vegetadex (46630, 3.37€ bounty)
+Seat 4: Uppppppppppp (52624, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (22590, 2.25€ bounty)
+Seat 6: Jeanporctout (102579, 6.73€ bounty)
+Seat 7: Gregory1702 (34460, 2.25€ bounty)
+Seat 8: lavidalokk (24419, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Vegetadex posts ante 140
+Uppppppppppp posts ante 140
+Carlinhosss posts ante 140
+Djack-Fish84 posts ante 140
+YL_ML_GL_42 posts ante 140
+Jeanporctout posts ante 140
+Gregory1702 posts ante 140
+lavidalokk posts ante 140
+Vegetadex posts small blind 600
+Uppppppppppp posts big blind 1200
+Dealt to YL_ML_GL_42 [2c 3c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Jeanporctout folds
+Gregory1702 folds
+lavidalokk raises 1200 to 2400
+Carlinhosss folds
+Djack-Fish84 folds
+Vegetadex folds
+Uppppppppppp raises 50084 to 52484 and is all-in
+lavidalokk folds
+Uppppppppppp collected 56604 from pot
+*** SUMMARY ***
+Total pot 56604 | No rake
+Seat 4: Uppppppppppp (big blind) won 56604
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2550404734880055300-31-1669328014 - Holdem no limit (140/600/1200) - 2022/11/24 22:13:34 UTC
+Table: 'ROCKET(593812376)#003' 8-max (real money) Seat #3 is the button
+Seat 1: Carlinhosss (10545, 2.25€ bounty)
+Seat 2: Djack-Fish84 (15880, 2.25€ bounty)
+Seat 3: Vegetadex (45890, 3.37€ bounty)
+Seat 4: Uppppppppppp (56604, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (22450, 2.25€ bounty)
+Seat 6: Jeanporctout (102439, 6.73€ bounty)
+Seat 7: Gregory1702 (34320, 2.25€ bounty)
+Seat 8: lavidalokk (21879, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Uppppppppppp posts ante 140
+YL_ML_GL_42 posts ante 140
+Carlinhosss posts ante 140
+Djack-Fish84 posts ante 140
+Vegetadex posts ante 140
+Jeanporctout posts ante 140
+Gregory1702 posts ante 140
+lavidalokk posts ante 140
+Uppppppppppp posts small blind 600
+YL_ML_GL_42 posts big blind 1200
+Dealt to YL_ML_GL_42 [Kh 7s]
+*** PRE-FLOP *** 
+Jeanporctout calls 1200
+Gregory1702 raises 1800 to 3000
+lavidalokk folds
+Carlinhosss raises 7405 to 10405 and is all-in
+Djack-Fish84 folds
+Vegetadex folds
+Uppppppppppp folds
+YL_ML_GL_42 folds
+Jeanporctout calls 9205
+Gregory1702 calls 7405
+*** FLOP *** [Qs 3h 5s]
+Jeanporctout bets 1200
+Gregory1702 calls 1200
+*** TURN *** [Qs 3h 5s][8h]
+Jeanporctout checks
+Gregory1702 checks
+*** RIVER *** [Qs 3h 5s 8h][Qh]
+Jeanporctout checks
+Gregory1702 checks
+*** SHOW DOWN ***
+Jeanporctout shows [Js 7c] (One pair : Queens)
+Carlinhosss shows [Ad 9c] (One pair : Queens)
+Gregory1702 shows [Th Ks] (One pair : Queens)
+Gregory1702 collected 2400 from side pot 1
+Carlinhosss collected 34135 from main pot
+*** SUMMARY ***
+Total pot 36535 | No rake
+Board: [Qs 3h 5s 8h Qh]
+Seat 1: Carlinhosss showed [Ad 9c] and won 34135 with One pair : Queens
+Seat 6: Jeanporctout showed [Js 7c] and lost with One pair : Queens
+Seat 7: Gregory1702 showed [Th Ks] and won 2400 with One pair : Queens
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2550404734880055300-32-1669328073 - Holdem no limit (160/700/1400) - 2022/11/24 22:14:33 UTC
+Table: 'ROCKET(593812376)#003' 8-max (real money) Seat #4 is the button
+Seat 1: Carlinhosss (34135, 2.25€ bounty)
+Seat 2: Djack-Fish84 (15740, 2.25€ bounty)
+Seat 3: Vegetadex (45750, 3.37€ bounty)
+Seat 4: Uppppppppppp (55864, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (21110, 2.25€ bounty)
+Seat 6: Jeanporctout (90694, 6.73€ bounty)
+Seat 7: Gregory1702 (24975, 2.25€ bounty)
+Seat 8: lavidalokk (21739, 3.37€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 160
+Jeanporctout posts ante 160
+Carlinhosss posts ante 160
+Djack-Fish84 posts ante 160
+Vegetadex posts ante 160
+Uppppppppppp posts ante 160
+Gregory1702 posts ante 160
+lavidalokk posts ante 160
+YL_ML_GL_42 posts small blind 700
+Jeanporctout posts big blind 1400
+Dealt to YL_ML_GL_42 [9d Kd]
+*** PRE-FLOP *** 
+Gregory1702 folds
+lavidalokk folds
+Carlinhosss calls 1400
+Djack-Fish84 calls 1400
+Vegetadex raises 44190 to 45590 and is all-in
+Uppppppppppp folds
+YL_ML_GL_42 folds
+Jeanporctout folds
+Carlinhosss folds
+Djack-Fish84 folds
+Vegetadex collected 51770 from pot
+*** SUMMARY ***
+Total pot 51770 | No rake
+Seat 3: Vegetadex won 51770
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2550404734880055300-33-1669328119 - Holdem no limit (160/700/1400) - 2022/11/24 22:15:19 UTC
+Table: 'ROCKET(593812376)#003' 8-max (real money) Seat #5 is the button
+Seat 1: Carlinhosss (32575, 2.25€ bounty)
+Seat 2: Djack-Fish84 (14180, 2.25€ bounty)
+Seat 3: Vegetadex (51770, 3.37€ bounty)
+Seat 4: Uppppppppppp (55704, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (20250, 2.25€ bounty)
+Seat 6: Jeanporctout (89134, 6.73€ bounty)
+Seat 7: Gregory1702 (24815, 2.25€ bounty)
+Seat 8: lavidalokk (21579, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Jeanporctout posts ante 160
+Gregory1702 posts ante 160
+Carlinhosss posts ante 160
+Djack-Fish84 posts ante 160
+Vegetadex posts ante 160
+Uppppppppppp posts ante 160
+YL_ML_GL_42 posts ante 160
+lavidalokk posts ante 160
+Jeanporctout posts small blind 700
+Gregory1702 posts big blind 1400
+Dealt to YL_ML_GL_42 [2d 6d]
+*** PRE-FLOP *** 
+lavidalokk raises 20019 to 21419 and is all-in
+Carlinhosss folds
+Djack-Fish84 folds
+Vegetadex folds
+Uppppppppppp folds
+YL_ML_GL_42 folds
+Jeanporctout folds
+Gregory1702 folds
+lavidalokk collected 24799 from pot
+*** SUMMARY ***
+Total pot 24799 | No rake
+Seat 8: lavidalokk won 24799
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2550404734880055300-34-1669328163 - Holdem no limit (160/700/1400) - 2022/11/24 22:16:03 UTC
+Table: 'ROCKET(593812376)#003' 8-max (real money) Seat #6 is the button
+Seat 1: Carlinhosss (32415, 2.25€ bounty)
+Seat 2: Djack-Fish84 (14020, 2.25€ bounty)
+Seat 3: Vegetadex (51610, 3.37€ bounty)
+Seat 4: Uppppppppppp (55544, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (20090, 2.25€ bounty)
+Seat 6: Jeanporctout (88274, 6.73€ bounty)
+Seat 7: Gregory1702 (23255, 2.25€ bounty)
+Seat 8: lavidalokk (24799, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Gregory1702 posts ante 160
+lavidalokk posts ante 160
+Carlinhosss posts ante 160
+Djack-Fish84 posts ante 160
+Vegetadex posts ante 160
+Uppppppppppp posts ante 160
+YL_ML_GL_42 posts ante 160
+Jeanporctout posts ante 160
+Gregory1702 posts small blind 700
+lavidalokk posts big blind 1400
+Dealt to YL_ML_GL_42 [3c 4h]
+*** PRE-FLOP *** 
+Carlinhosss folds
+Djack-Fish84 folds
+Vegetadex folds
+Uppppppppppp folds
+YL_ML_GL_42 folds
+Jeanporctout calls 1400
+Gregory1702 raises 21695 to 23095 and is all-in
+lavidalokk raises 1544 to 24639 and is all-in
+Jeanporctout folds
+*** FLOP *** [5s 9c Qd]
+*** TURN *** [5s 9c Qd][6s]
+*** RIVER *** [5s 9c Qd 6s][5d]
+*** SHOW DOWN ***
+Gregory1702 shows [Jc Tc] (One pair : 5)
+lavidalokk shows [7d 7s] (Two pairs : 7 and 5)
+lavidalokk collected 50414 from pot
+*** SUMMARY ***
+Total pot 50414 | No rake
+Board: [5s 9c Qd 6s 5d]
+Seat 7: Gregory1702 (small blind) showed [Jc Tc] and lost with One pair : 5
+Seat 8: lavidalokk (big blind) showed [7d 7s] and won 50414 with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2550404734880055300-35-1669328196 - Holdem no limit (200/800/1600) - 2022/11/24 22:16:36 UTC
+Table: 'ROCKET(593812376)#003' 8-max (real money) Seat #7 is the button
+Seat 1: Carlinhosss (32255, 2.25€ bounty)
+Seat 2: Djack-Fish84 (13860, 2.25€ bounty)
+Seat 3: Vegetadex (51450, 3.37€ bounty)
+Seat 4: Uppppppppppp (55384, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19930, 2.25€ bounty)
+Seat 6: Jeanporctout (86714, 6.73€ bounty)
+Seat 8: lavidalokk (50414, 4.49€ bounty)
+*** ANTE/BLINDS ***
+lavidalokk posts ante 200
+Carlinhosss posts ante 200
+Djack-Fish84 posts ante 200
+Vegetadex posts ante 200
+Uppppppppppp posts ante 200
+YL_ML_GL_42 posts ante 200
+Jeanporctout posts ante 200
+lavidalokk posts small blind 800
+Carlinhosss posts big blind 1600
+Dealt to YL_ML_GL_42 [Js 7s]
+*** PRE-FLOP *** 
+Djack-Fish84 folds
+Vegetadex folds
+Uppppppppppp raises 1600 to 3200
+YL_ML_GL_42 raises 16530 to 19730 and is all-in
+Jeanporctout calls 19730
+lavidalokk folds
+Carlinhosss folds
+Uppppppppppp calls 16530
+*** FLOP *** [Th 8c 5d]
+Uppppppppppp checks
+Jeanporctout bets 40944
+Uppppppppppp folds
+*** TURN *** [Th 8c 5d][3d]
+*** RIVER *** [Th 8c 5d 3d][Jh]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Js 7s] (One pair : Jacks)
+Jeanporctout shows [Jc Kd] (One pair : Jacks)
+Jeanporctout collected 103934 from pot
+*** SUMMARY ***
+Total pot 103934 | No rake
+Board: [Th 8c 5d 3d Jh]
+Seat 5: YL_ML_GL_42 showed [Js 7s] and lost with One pair : Jacks
+Seat 6: Jeanporctout showed [Jc Kd] and won 103934 with One pair : Jacks
+
+

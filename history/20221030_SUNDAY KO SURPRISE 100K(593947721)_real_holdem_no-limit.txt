@@ -1,0 +1,1776 @@
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-1-1667158241 - Holdem no limit (25/100/200) - 2022/10/30 19:30:41 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #1 is the button
+Seat 1: BogerZdar (20000, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (20000, 4.50€ bounty)
+Seat 3: 51Moresque (20000, 4.50€ bounty)
+Seat 4: chtio fred (20000, 4.50€ bounty)
+Seat 5: VladimirAA (20000, 4.50€ bounty)
+Seat 6: ramirez 2013 (20000, 4.50€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+BogerZdar posts ante 25
+chtio fred posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+YL_ML_GL_42 posts small blind 100
+51Moresque posts big blind 200
+Dealt to YL_ML_GL_42 [8d Kc]
+*** PRE-FLOP *** 
+chtio fred folds
+VladimirAA calls 200
+ramirez 2013 folds
+BogerZdar raises 500 to 700
+YL_ML_GL_42 folds
+51Moresque raises 19275 to 19975 and is all-in
+VladimirAA folds
+BogerZdar folds
+51Moresque collected 21125 from pot
+*** SUMMARY ***
+Total pot 21125 | No rake
+Seat 3: 51Moresque (big blind) won 21125
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-2-1667158297 - Holdem no limit (25/100/200) - 2022/10/30 19:31:37 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #2 is the button
+Seat 1: BogerZdar (19275, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19875, 4.50€ bounty)
+Seat 3: 51Moresque (21125, 4.50€ bounty)
+Seat 4: chtio fred (19975, 4.50€ bounty)
+Seat 5: VladimirAA (19775, 4.50€ bounty)
+Seat 6: ramirez 2013 (19975, 4.50€ bounty)
+*** ANTE/BLINDS ***
+51Moresque posts ante 25
+chtio fred posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+51Moresque posts small blind 100
+chtio fred posts big blind 200
+Dealt to YL_ML_GL_42 [Tc 2c]
+*** PRE-FLOP *** 
+VladimirAA folds
+ramirez 2013 folds
+BogerZdar folds
+YL_ML_GL_42 raises 200 to 400
+51Moresque folds
+chtio fred folds
+YL_ML_GL_42 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 2: YL_ML_GL_42 (button) won 850
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-3-1667158334 - Holdem no limit (25/100/200) - 2022/10/30 19:32:14 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #3 is the button
+Seat 1: BogerZdar (19250, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (20300, 4.50€ bounty)
+Seat 3: 51Moresque (21000, 4.50€ bounty)
+Seat 4: chtio fred (19750, 4.50€ bounty)
+Seat 5: VladimirAA (19750, 4.50€ bounty)
+Seat 6: ramirez 2013 (19950, 4.50€ bounty)
+*** ANTE/BLINDS ***
+chtio fred posts ante 25
+VladimirAA posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+ramirez 2013 posts ante 25
+chtio fred posts small blind 100
+VladimirAA posts big blind 200
+Dealt to YL_ML_GL_42 [3h 2c]
+*** PRE-FLOP *** 
+ramirez 2013 folds
+BogerZdar raises 400 to 600
+YL_ML_GL_42 folds
+51Moresque folds
+chtio fred folds
+VladimirAA calls 400
+*** FLOP *** [9c 6s Ah]
+VladimirAA checks
+BogerZdar bets 730
+VladimirAA folds
+BogerZdar collected 2180 from pot
+*** SUMMARY ***
+Total pot 2180 | No rake
+Board: [9c 6s Ah]
+Seat 1: BogerZdar won 2180
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-4-1667158404 - Holdem no limit (25/100/200) - 2022/10/30 19:33:24 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #4 is the button
+Seat 1: BogerZdar (20075, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (20275, 4.50€ bounty)
+Seat 3: 51Moresque (20975, 4.50€ bounty)
+Seat 4: chtio fred (19625, 4.50€ bounty)
+Seat 5: VladimirAA (19125, 4.50€ bounty)
+Seat 6: ramirez 2013 (19925, 4.50€ bounty)
+*** ANTE/BLINDS ***
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+chtio fred posts ante 25
+VladimirAA posts small blind 100
+ramirez 2013 posts big blind 200
+Dealt to YL_ML_GL_42 [8s Td]
+*** PRE-FLOP *** 
+BogerZdar folds
+YL_ML_GL_42 folds
+51Moresque folds
+chtio fred folds
+VladimirAA calls 100
+ramirez 2013 checks
+*** FLOP *** [2d 3h 3d]
+VladimirAA checks
+ramirez 2013 checks
+*** TURN *** [2d 3h 3d][2s]
+VladimirAA checks
+ramirez 2013 bets 550
+VladimirAA folds
+ramirez 2013 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | No rake
+Board: [2d 3h 3d 2s]
+Seat 6: ramirez 2013 (big blind) won 1100
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-5-1667158468 - Holdem no limit (25/100/200) - 2022/10/30 19:34:28 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #5 is the button
+Seat 1: BogerZdar (20050, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (20250, 4.50€ bounty)
+Seat 3: 51Moresque (20950, 4.50€ bounty)
+Seat 4: chtio fred (19600, 4.50€ bounty)
+Seat 5: VladimirAA (18900, 4.50€ bounty)
+Seat 6: ramirez 2013 (20250, 4.50€ bounty)
+*** ANTE/BLINDS ***
+ramirez 2013 posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+chtio fred posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts small blind 100
+BogerZdar posts big blind 200
+Dealt to YL_ML_GL_42 [As 3h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+51Moresque raises 400 to 600
+chtio fred folds
+VladimirAA folds
+ramirez 2013 folds
+BogerZdar folds
+51Moresque collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 3: 51Moresque won 1050
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-6-1667158526 - Holdem no limit (25/100/200) - 2022/10/30 19:35:26 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #6 is the button
+Seat 1: BogerZdar (19825, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (20225, 4.50€ bounty)
+Seat 3: 51Moresque (21375, 4.50€ bounty)
+Seat 4: chtio fred (19575, 4.50€ bounty)
+Seat 5: VladimirAA (18875, 4.50€ bounty)
+Seat 6: ramirez 2013 (20125, 4.50€ bounty)
+*** ANTE/BLINDS ***
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+chtio fred posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+BogerZdar posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Ks 8s]
+*** PRE-FLOP *** 
+51Moresque raises 250 to 450
+chtio fred folds
+VladimirAA folds
+ramirez 2013 calls 450
+BogerZdar folds
+YL_ML_GL_42 calls 250
+*** FLOP *** [7h Ac 4s]
+YL_ML_GL_42 checks
+51Moresque bets 800
+ramirez 2013 calls 800
+YL_ML_GL_42 folds
+*** TURN *** [7h Ac 4s][Kh]
+51Moresque bets 1600
+ramirez 2013 calls 1600
+*** RIVER *** [7h Ac 4s Kh][2h]
+51Moresque bets 2240
+ramirez 2013 folds
+51Moresque collected 8640 from pot
+*** SUMMARY ***
+Total pot 8640 | No rake
+Board: [7h Ac 4s Kh 2h]
+Seat 3: 51Moresque won 8640
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-7-1667158612 - Holdem no limit (25/100/200) - 2022/10/30 19:36:52 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #1 is the button
+Seat 1: BogerZdar (19700, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19750, 4.50€ bounty)
+Seat 3: 51Moresque (24900, 4.50€ bounty)
+Seat 4: chtio fred (19550, 4.50€ bounty)
+Seat 5: VladimirAA (18850, 4.50€ bounty)
+Seat 6: ramirez 2013 (17250, 4.50€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+BogerZdar posts ante 25
+chtio fred posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+YL_ML_GL_42 posts small blind 100
+51Moresque posts big blind 200
+Dealt to YL_ML_GL_42 [3d Qh]
+*** PRE-FLOP *** 
+chtio fred folds
+VladimirAA folds
+ramirez 2013 folds
+BogerZdar raises 240 to 440
+YL_ML_GL_42 folds
+51Moresque folds
+BogerZdar collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Seat 1: BogerZdar (button) won 890
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-8-1667158629 - Holdem no limit (25/100/200) - 2022/10/30 19:37:09 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #2 is the button
+Seat 1: BogerZdar (20125, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19625, 4.50€ bounty)
+Seat 3: 51Moresque (24675, 4.50€ bounty)
+Seat 4: chtio fred (19525, 4.50€ bounty)
+Seat 5: VladimirAA (18825, 4.50€ bounty)
+Seat 6: ramirez 2013 (17225, 4.50€ bounty)
+*** ANTE/BLINDS ***
+51Moresque posts ante 25
+chtio fred posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+51Moresque posts small blind 100
+chtio fred posts big blind 200
+Dealt to YL_ML_GL_42 [2d Td]
+*** PRE-FLOP *** 
+VladimirAA folds
+ramirez 2013 folds
+BogerZdar folds
+YL_ML_GL_42 folds
+51Moresque folds
+chtio fred collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 4: chtio fred (big blind) won 450
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-9-1667158647 - Holdem no limit (25/100/200) - 2022/10/30 19:37:27 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #3 is the button
+Seat 1: BogerZdar (20100, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19600, 4.50€ bounty)
+Seat 3: 51Moresque (24550, 4.50€ bounty)
+Seat 4: chtio fred (19750, 4.50€ bounty)
+Seat 5: VladimirAA (18800, 4.50€ bounty)
+Seat 6: ramirez 2013 (17200, 4.50€ bounty)
+*** ANTE/BLINDS ***
+chtio fred posts ante 25
+VladimirAA posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+ramirez 2013 posts ante 25
+chtio fred posts small blind 100
+VladimirAA posts big blind 200
+Dealt to YL_ML_GL_42 [3c As]
+*** PRE-FLOP *** 
+ramirez 2013 folds
+BogerZdar raises 240 to 440
+YL_ML_GL_42 calls 440
+51Moresque folds
+chtio fred folds
+VladimirAA calls 240
+*** FLOP *** [5s Ad 7d]
+VladimirAA checks
+BogerZdar checks
+YL_ML_GL_42 bets 785
+VladimirAA calls 785
+BogerZdar folds
+*** TURN *** [5s Ad 7d][Qc]
+VladimirAA checks
+YL_ML_GL_42 checks
+*** RIVER *** [5s Ad 7d Qc][6s]
+VladimirAA checks
+YL_ML_GL_42 bets 1099
+VladimirAA folds
+YL_ML_GL_42 collected 4239 from pot
+*** SUMMARY ***
+Total pot 4239 | No rake
+Board: [5s Ad 7d Qc 6s]
+Seat 2: YL_ML_GL_42 won 4239
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-10-1667158742 - Holdem no limit (25/100/200) - 2022/10/30 19:39:02 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #4 is the button
+Seat 1: BogerZdar (19635, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (21490, 4.50€ bounty)
+Seat 3: 51Moresque (24525, 4.50€ bounty)
+Seat 4: chtio fred (19625, 4.50€ bounty)
+Seat 5: VladimirAA (17550, 4.50€ bounty)
+Seat 6: ramirez 2013 (17175, 4.50€ bounty)
+*** ANTE/BLINDS ***
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+chtio fred posts ante 25
+VladimirAA posts small blind 100
+ramirez 2013 posts big blind 200
+Dealt to YL_ML_GL_42 [Ks 3d]
+*** PRE-FLOP *** 
+BogerZdar folds
+YL_ML_GL_42 folds
+51Moresque raises 250 to 450
+chtio fred folds
+VladimirAA folds
+ramirez 2013 calls 250
+*** FLOP *** [9h Ac 7d]
+ramirez 2013 checks
+51Moresque bets 403
+ramirez 2013 calls 403
+*** TURN *** [9h Ac 7d][8h]
+ramirez 2013 checks
+51Moresque bets 685
+ramirez 2013 raises 1922 to 2607
+51Moresque raises 1922 to 4529
+ramirez 2013 raises 11768 to 16297 and is all-in
+51Moresque raises 7350 to 23647 and is all-in
+*** RIVER *** [9h Ac 7d 8h][Jd]
+*** SHOW DOWN ***
+51Moresque shows [Jc Td] (Straight Jack high)
+ramirez 2013 shows [Ts Js] (Straight Jack high)
+ramirez 2013 collected 17275 from main pot
+51Moresque collected 24625 from side pot 1
+*** SUMMARY ***
+Total pot 41900 | No rake
+Board: [9h Ac 7d 8h Jd]
+Seat 3: 51Moresque showed [Jc Td] and won 24625 with Straight Jack high
+Seat 6: ramirez 2013 (big blind) showed [Ts Js] and won 17275 with Straight Jack high
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-11-1667158840 - Holdem no limit (25/100/200) - 2022/10/30 19:40:40 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #5 is the button
+Seat 1: BogerZdar (19610, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (21465, 4.50€ bounty)
+Seat 3: 51Moresque (24625, 4.50€ bounty)
+Seat 4: chtio fred (19600, 4.50€ bounty)
+Seat 5: VladimirAA (17425, 4.50€ bounty)
+Seat 6: ramirez 2013 (17275, 4.50€ bounty)
+*** ANTE/BLINDS ***
+ramirez 2013 posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+chtio fred posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts small blind 100
+BogerZdar posts big blind 200
+Dealt to YL_ML_GL_42 [6s Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 200 to 400
+51Moresque folds
+chtio fred folds
+VladimirAA calls 400
+ramirez 2013 calls 300
+BogerZdar folds
+*** FLOP *** [7d 9c 4d]
+ramirez 2013 checks
+YL_ML_GL_42 bets 775
+VladimirAA calls 775
+ramirez 2013 folds
+*** TURN *** [7d 9c 4d][5s]
+YL_ML_GL_42 checks
+VladimirAA bets 1550
+YL_ML_GL_42 folds
+VladimirAA collected 4650 from pot
+*** SUMMARY ***
+Total pot 4650 | No rake
+Board: [7d 9c 4d 5s]
+Seat 5: VladimirAA (button) won 4650
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-12-1667158928 - Holdem no limit (25/100/200) - 2022/10/30 19:42:08 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #6 is the button
+Seat 1: BogerZdar (19385, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (20265, 4.50€ bounty)
+Seat 3: 51Moresque (24600, 4.50€ bounty)
+Seat 4: chtio fred (19575, 4.50€ bounty)
+Seat 5: VladimirAA (19325, 4.50€ bounty)
+Seat 6: ramirez 2013 (16850, 4.50€ bounty)
+*** ANTE/BLINDS ***
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+chtio fred posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+BogerZdar posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [6c Kc]
+*** PRE-FLOP *** 
+51Moresque folds
+chtio fred raises 300 to 500
+VladimirAA folds
+ramirez 2013 folds
+BogerZdar folds
+YL_ML_GL_42 calls 300
+*** FLOP *** [2d Jc 7s]
+YL_ML_GL_42 checks
+chtio fred bets 500
+YL_ML_GL_42 folds
+chtio fred collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Board: [2d Jc 7s]
+Seat 4: chtio fred won 1750
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-13-1667158974 - Holdem no limit (25/100/200) - 2022/10/30 19:42:54 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #1 is the button
+Seat 1: BogerZdar (19260, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19740, 4.50€ bounty)
+Seat 3: 51Moresque (24575, 4.50€ bounty)
+Seat 4: chtio fred (20300, 4.50€ bounty)
+Seat 5: VladimirAA (19300, 4.50€ bounty)
+Seat 6: ramirez 2013 (16825, 4.50€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+BogerZdar posts ante 25
+chtio fred posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+YL_ML_GL_42 posts small blind 100
+51Moresque posts big blind 200
+Dealt to YL_ML_GL_42 [Qh Jh]
+*** PRE-FLOP *** 
+chtio fred folds
+VladimirAA calls 200
+ramirez 2013 folds
+BogerZdar raises 1800 to 2000
+YL_ML_GL_42 folds
+51Moresque folds
+VladimirAA folds
+BogerZdar collected 2650 from pot
+*** SUMMARY ***
+Total pot 2650 | No rake
+Seat 1: BogerZdar (button) won 2650
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-14-1667159024 - Holdem no limit (25/100/200) - 2022/10/30 19:43:44 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #2 is the button
+Seat 1: BogerZdar (19885, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19615, 4.50€ bounty)
+Seat 3: 51Moresque (24350, 4.50€ bounty)
+Seat 4: chtio fred (20275, 4.50€ bounty)
+Seat 5: VladimirAA (19075, 4.50€ bounty)
+Seat 6: ramirez 2013 (16800, 4.50€ bounty)
+*** ANTE/BLINDS ***
+51Moresque posts ante 25
+chtio fred posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+51Moresque posts small blind 100
+chtio fred posts big blind 200
+Dealt to YL_ML_GL_42 [6d 5s]
+*** PRE-FLOP *** 
+VladimirAA folds
+ramirez 2013 raises 650 to 850
+BogerZdar calls 850
+YL_ML_GL_42 folds
+51Moresque folds
+chtio fred calls 650
+*** FLOP *** [5d 7h Jh]
+chtio fred checks
+ramirez 2013 bets 980
+BogerZdar raises 1420 to 2400
+chtio fred folds
+ramirez 2013 calls 1420
+*** TURN *** [5d 7h Jh][Qh]
+ramirez 2013 checks
+BogerZdar checks
+*** RIVER *** [5d 7h Jh Qh][2h]
+ramirez 2013 checks
+BogerZdar checks
+*** SHOW DOWN ***
+BogerZdar shows [9d 9c] (One pair : 9)
+ramirez 2013 shows [Qd As] (One pair : Queens)
+ramirez 2013 collected 7600 from pot
+*** SUMMARY ***
+Total pot 7600 | No rake
+Board: [5d 7h Jh Qh 2h]
+Seat 1: BogerZdar showed [9d 9c] and lost with One pair : 9
+Seat 6: ramirez 2013 showed [Qd As] and won 7600 with One pair : Queens
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-15-1667159101 - Holdem no limit (25/100/200) - 2022/10/30 19:45:01 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #3 is the button
+Seat 1: BogerZdar (16610, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19590, 4.50€ bounty)
+Seat 3: 51Moresque (24225, 4.50€ bounty)
+Seat 4: chtio fred (19400, 4.50€ bounty)
+Seat 5: VladimirAA (19050, 4.50€ bounty)
+Seat 6: ramirez 2013 (21125, 4.50€ bounty)
+*** ANTE/BLINDS ***
+chtio fred posts ante 25
+VladimirAA posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+ramirez 2013 posts ante 25
+chtio fred posts small blind 100
+VladimirAA posts big blind 200
+Dealt to YL_ML_GL_42 [As 2s]
+*** PRE-FLOP *** 
+ramirez 2013 folds
+BogerZdar folds
+YL_ML_GL_42 raises 200 to 400
+51Moresque calls 400
+chtio fred folds
+VladimirAA folds
+*** FLOP *** [6d 5c 8h]
+YL_ML_GL_42 checks
+51Moresque bets 438
+YL_ML_GL_42 folds
+51Moresque collected 1688 from pot
+*** SUMMARY ***
+Total pot 1688 | No rake
+Board: [6d 5c 8h]
+Seat 3: 51Moresque (button) won 1688
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-16-1667159163 - Holdem no limit (25/100/200) - 2022/10/30 19:46:03 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #4 is the button
+Seat 1: BogerZdar (16585, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19165, 4.50€ bounty)
+Seat 3: 51Moresque (25050, 4.50€ bounty)
+Seat 4: chtio fred (19275, 4.50€ bounty)
+Seat 5: VladimirAA (18825, 4.50€ bounty)
+Seat 6: ramirez 2013 (21100, 4.50€ bounty)
+*** ANTE/BLINDS ***
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+chtio fred posts ante 25
+VladimirAA posts small blind 100
+ramirez 2013 posts big blind 200
+Dealt to YL_ML_GL_42 [2s 6c]
+*** PRE-FLOP *** 
+BogerZdar folds
+YL_ML_GL_42 folds
+51Moresque raises 300 to 500
+chtio fred folds
+VladimirAA folds
+ramirez 2013 folds
+51Moresque collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 3: 51Moresque won 950
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-17-1667159193 - Holdem no limit (25/100/200) - 2022/10/30 19:46:33 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #5 is the button
+Seat 1: BogerZdar (16560, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19140, 4.50€ bounty)
+Seat 3: 51Moresque (25475, 4.50€ bounty)
+Seat 4: chtio fred (19250, 4.50€ bounty)
+Seat 5: VladimirAA (18700, 4.50€ bounty)
+Seat 6: ramirez 2013 (20875, 4.50€ bounty)
+*** ANTE/BLINDS ***
+ramirez 2013 posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+chtio fred posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts small blind 100
+BogerZdar posts big blind 200
+Dealt to YL_ML_GL_42 [Ac Jh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 200 to 400
+51Moresque folds
+chtio fred calls 400
+VladimirAA calls 400
+ramirez 2013 folds
+BogerZdar calls 200
+*** FLOP *** [5d 6s 3c]
+BogerZdar checks
+YL_ML_GL_42 checks
+chtio fred checks
+VladimirAA bets 1850
+BogerZdar folds
+YL_ML_GL_42 folds
+chtio fred folds
+VladimirAA collected 3700 from pot
+*** SUMMARY ***
+Total pot 3700 | No rake
+Board: [5d 6s 3c]
+Seat 5: VladimirAA (button) won 3700
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-18-1667159246 - Holdem no limit (25/100/200) - 2022/10/30 19:47:26 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #6 is the button
+Seat 1: BogerZdar (16135, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18715, 4.50€ bounty)
+Seat 3: 51Moresque (25450, 4.50€ bounty)
+Seat 4: chtio fred (18825, 4.50€ bounty)
+Seat 5: VladimirAA (20125, 4.50€ bounty)
+Seat 6: ramirez 2013 (20750, 4.50€ bounty)
+*** ANTE/BLINDS ***
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+chtio fred posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+BogerZdar posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [7c 5c]
+*** PRE-FLOP *** 
+51Moresque calls 200
+chtio fred folds
+VladimirAA calls 200
+ramirez 2013 folds
+BogerZdar folds
+YL_ML_GL_42 checks
+*** FLOP *** [Ad Qs 3h]
+YL_ML_GL_42 checks
+51Moresque bets 298
+VladimirAA calls 298
+YL_ML_GL_42 folds
+*** TURN *** [Ad Qs 3h][8h]
+51Moresque checks
+VladimirAA bets 506
+51Moresque folds
+VladimirAA collected 1952 from pot
+*** SUMMARY ***
+Total pot 1952 | No rake
+Board: [Ad Qs 3h 8h]
+Seat 5: VladimirAA won 1952
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-19-1667159302 - Holdem no limit (25/100/200) - 2022/10/30 19:48:22 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #1 is the button
+Seat 1: BogerZdar (16010, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18490, 4.50€ bounty)
+Seat 3: 51Moresque (24927, 4.50€ bounty)
+Seat 4: chtio fred (18800, 4.50€ bounty)
+Seat 5: VladimirAA (21048, 4.50€ bounty)
+Seat 6: ramirez 2013 (20725, 4.50€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+BogerZdar posts ante 25
+chtio fred posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+YL_ML_GL_42 posts small blind 100
+51Moresque posts big blind 200
+Dealt to YL_ML_GL_42 [2d 4s]
+*** PRE-FLOP *** 
+chtio fred folds
+VladimirAA folds
+ramirez 2013 raises 300 to 500
+BogerZdar raises 1000 to 1500
+YL_ML_GL_42 folds
+51Moresque raises 23402 to 24902 and is all-in
+ramirez 2013 folds
+BogerZdar folds
+51Moresque collected 27152 from pot
+*** SUMMARY ***
+Total pot 27152 | No rake
+Seat 3: 51Moresque (big blind) won 27152
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-20-1667159362 - Holdem no limit (25/100/200) - 2022/10/30 19:49:22 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #2 is the button
+Seat 1: BogerZdar (14485, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18365, 4.50€ bounty)
+Seat 3: 51Moresque (27152, 4.50€ bounty)
+Seat 4: chtio fred (18775, 4.50€ bounty)
+Seat 5: VladimirAA (21023, 4.50€ bounty)
+Seat 6: ramirez 2013 (20200, 4.50€ bounty)
+*** ANTE/BLINDS ***
+51Moresque posts ante 25
+chtio fred posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+51Moresque posts small blind 100
+chtio fred posts big blind 200
+Dealt to YL_ML_GL_42 [8s 5h]
+*** PRE-FLOP *** 
+VladimirAA calls 200
+ramirez 2013 folds
+BogerZdar folds
+YL_ML_GL_42 folds
+51Moresque raises 250 to 450
+chtio fred folds
+VladimirAA calls 250
+*** FLOP *** [Kh 6s 8c]
+51Moresque bets 438
+VladimirAA calls 438
+*** TURN *** [Kh 6s 8c][Ts]
+51Moresque bets 744
+VladimirAA folds
+51Moresque collected 2870 from pot
+*** SUMMARY ***
+Total pot 2870 | No rake
+Board: [Kh 6s 8c Ts]
+Seat 3: 51Moresque (small blind) won 2870
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-21-1667159430 - Holdem no limit (25/100/200) - 2022/10/30 19:50:30 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #3 is the button
+Seat 1: BogerZdar (14460, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18340, 4.50€ bounty)
+Seat 3: 51Moresque (28365, 4.50€ bounty)
+Seat 4: chtio fred (18550, 4.50€ bounty)
+Seat 5: VladimirAA (20110, 4.50€ bounty)
+Seat 6: ramirez 2013 (20175, 4.50€ bounty)
+*** ANTE/BLINDS ***
+chtio fred posts ante 25
+VladimirAA posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+ramirez 2013 posts ante 25
+chtio fred posts small blind 100
+VladimirAA posts big blind 200
+Dealt to YL_ML_GL_42 [5c Jd]
+*** PRE-FLOP *** 
+ramirez 2013 folds
+BogerZdar raises 240 to 440
+YL_ML_GL_42 folds
+51Moresque folds
+chtio fred folds
+VladimirAA calls 240
+*** FLOP *** [Ks Ad 6c]
+VladimirAA checks
+BogerZdar bets 373
+VladimirAA folds
+BogerZdar collected 1503 from pot
+*** SUMMARY ***
+Total pot 1503 | No rake
+Board: [Ks Ad 6c]
+Seat 1: BogerZdar won 1503
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-22-1667159501 - Holdem no limit (25/100/200) - 2022/10/30 19:51:41 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #4 is the button
+Seat 1: BogerZdar (15125, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18315, 4.50€ bounty)
+Seat 3: 51Moresque (28340, 4.50€ bounty)
+Seat 4: chtio fred (18425, 4.50€ bounty)
+Seat 5: VladimirAA (19645, 4.50€ bounty)
+Seat 6: ramirez 2013 (20150, 4.50€ bounty)
+*** ANTE/BLINDS ***
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+chtio fred posts ante 25
+VladimirAA posts small blind 100
+ramirez 2013 posts big blind 200
+Dealt to YL_ML_GL_42 [3s 2c]
+*** PRE-FLOP *** 
+BogerZdar folds
+YL_ML_GL_42 folds
+51Moresque raises 250 to 450
+chtio fred calls 450
+VladimirAA folds
+ramirez 2013 folds
+*** FLOP *** [2d 8h 4c]
+51Moresque bets 675
+chtio fred raises 1225 to 1900
+51Moresque calls 1225
+*** TURN *** [2d 8h 4c][6c]
+51Moresque bets 3348
+chtio fred calls 3348
+*** RIVER *** [2d 8h 4c 6c][9d]
+51Moresque checks
+chtio fred checks
+*** SHOW DOWN ***
+chtio fred shows [7c 7d] (One pair : 7)
+51Moresque shows [Ah 8c] (One pair : 8)
+51Moresque collected 11846 from pot
+*** SUMMARY ***
+Total pot 11846 | No rake
+Board: [2d 8h 4c 6c 9d]
+Seat 3: 51Moresque showed [Ah 8c] and won 11846 with One pair : 8
+Seat 4: chtio fred (button) showed [7c 7d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-23-1667159588 - Holdem no limit (25/100/200) - 2022/10/30 19:53:08 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #5 is the button
+Seat 1: BogerZdar (15100, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18290, 4.50€ bounty)
+Seat 3: 51Moresque (34463, 4.50€ bounty)
+Seat 4: chtio fred (12702, 4.50€ bounty)
+Seat 5: VladimirAA (19520, 4.50€ bounty)
+Seat 6: ramirez 2013 (19925, 4.50€ bounty)
+*** ANTE/BLINDS ***
+ramirez 2013 posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+chtio fred posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts small blind 100
+BogerZdar posts big blind 200
+Dealt to YL_ML_GL_42 [Kh 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+51Moresque folds
+chtio fred raises 300 to 500
+VladimirAA folds
+ramirez 2013 calls 400
+BogerZdar folds
+*** FLOP *** [4d 6h 2c]
+ramirez 2013 checks
+chtio fred checks
+*** TURN *** [4d 6h 2c][Ts]
+ramirez 2013 checks
+chtio fred checks
+*** RIVER *** [4d 6h 2c Ts][Jc]
+ramirez 2013 checks
+chtio fred checks
+*** SHOW DOWN ***
+ramirez 2013 shows [Qs 8h] (High card : Queen)
+chtio fred shows [8d Ah] (High card : Ace)
+chtio fred collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [4d 6h 2c Ts Jc]
+Seat 4: chtio fred showed [8d Ah] and won 1350 with High card : Ace
+Seat 6: ramirez 2013 (small blind) showed [Qs 8h] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-24-1667159637 - Holdem no limit (25/100/200) - 2022/10/30 19:53:57 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #6 is the button
+Seat 1: BogerZdar (14875, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18265, 4.50€ bounty)
+Seat 3: 51Moresque (34438, 4.50€ bounty)
+Seat 4: chtio fred (13527, 4.50€ bounty)
+Seat 5: VladimirAA (19495, 4.50€ bounty)
+Seat 6: ramirez 2013 (19400, 4.50€ bounty)
+*** ANTE/BLINDS ***
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+chtio fred posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+BogerZdar posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [7d Ts]
+*** PRE-FLOP *** 
+51Moresque raises 250 to 450
+chtio fred folds
+VladimirAA folds
+ramirez 2013 folds
+BogerZdar folds
+YL_ML_GL_42 calls 250
+*** FLOP *** [3d Ks 2d]
+YL_ML_GL_42 checks
+51Moresque bets 403
+YL_ML_GL_42 folds
+51Moresque collected 1553 from pot
+*** SUMMARY ***
+Total pot 1553 | No rake
+Board: [3d Ks 2d]
+Seat 3: 51Moresque won 1553
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-25-1667159696 - Holdem no limit (25/100/200) - 2022/10/30 19:54:56 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #1 is the button
+Seat 1: BogerZdar (14750, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (17790, 4.50€ bounty)
+Seat 3: 51Moresque (35113, 4.50€ bounty)
+Seat 4: chtio fred (13502, 4.50€ bounty)
+Seat 5: VladimirAA (19470, 4.50€ bounty)
+Seat 6: ramirez 2013 (19375, 4.50€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+BogerZdar posts ante 25
+chtio fred posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+YL_ML_GL_42 posts small blind 100
+51Moresque posts big blind 200
+Dealt to YL_ML_GL_42 [8d As]
+*** PRE-FLOP *** 
+chtio fred raises 300 to 500
+VladimirAA folds
+ramirez 2013 folds
+BogerZdar folds
+YL_ML_GL_42 calls 400
+51Moresque folds
+*** FLOP *** [5s 9h 2s]
+YL_ML_GL_42 bets 473
+chtio fred folds
+YL_ML_GL_42 collected 1823 from pot
+*** SUMMARY ***
+Total pot 1823 | No rake
+Board: [5s 9h 2s]
+Seat 2: YL_ML_GL_42 (small blind) won 1823
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-26-1667160068 - Holdem no limit (25/100/200) - 2022/10/30 20:01:08 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #2 is the button
+Seat 1: BogerZdar (14725, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18615, 4.50€ bounty)
+Seat 3: 51Moresque (34888, 4.50€ bounty)
+Seat 4: chtio fred (12977, 4.50€ bounty)
+Seat 5: VladimirAA (19445, 4.50€ bounty)
+Seat 6: ramirez 2013 (19350, 4.50€ bounty)
+*** ANTE/BLINDS ***
+51Moresque posts ante 25
+chtio fred posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+51Moresque posts small blind 100
+chtio fred posts big blind 200
+Dealt to YL_ML_GL_42 [Kd 4h]
+*** PRE-FLOP *** 
+VladimirAA folds
+ramirez 2013 folds
+BogerZdar raises 200 to 400
+YL_ML_GL_42 folds
+51Moresque calls 300
+chtio fred calls 200
+*** FLOP *** [5d Kh 8s]
+51Moresque checks
+chtio fred checks
+BogerZdar checks
+*** TURN *** [5d Kh 8s][2c]
+51Moresque bets 675
+chtio fred folds
+BogerZdar folds
+51Moresque collected 2025 from pot
+*** SUMMARY ***
+Total pot 2025 | No rake
+Board: [5d Kh 8s 2c]
+Seat 3: 51Moresque (small blind) won 2025
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-27-1667160140 - Holdem no limit (25/100/200) - 2022/10/30 20:02:20 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #3 is the button
+Seat 1: BogerZdar (14300, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18590, 4.50€ bounty)
+Seat 3: 51Moresque (35813, 4.50€ bounty)
+Seat 4: chtio fred (12552, 4.50€ bounty)
+Seat 5: VladimirAA (19420, 4.50€ bounty)
+Seat 6: ramirez 2013 (19325, 4.50€ bounty)
+*** ANTE/BLINDS ***
+chtio fred posts ante 25
+VladimirAA posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+ramirez 2013 posts ante 25
+chtio fred posts small blind 100
+VladimirAA posts big blind 200
+Dealt to YL_ML_GL_42 [Ad Td]
+*** PRE-FLOP *** 
+ramirez 2013 folds
+BogerZdar raises 200 to 400
+YL_ML_GL_42 calls 400
+51Moresque folds
+chtio fred folds
+VladimirAA calls 200
+*** FLOP *** [7s Kh 8s]
+VladimirAA checks
+BogerZdar bets 700
+YL_ML_GL_42 folds
+VladimirAA folds
+BogerZdar collected 2150 from pot
+*** SUMMARY ***
+Total pot 2150 | No rake
+Board: [7s Kh 8s]
+Seat 1: BogerZdar won 2150
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-28-1667160202 - Holdem no limit (25/100/200) - 2022/10/30 20:03:22 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #4 is the button
+Seat 1: BogerZdar (15325, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18165, 4.50€ bounty)
+Seat 3: 51Moresque (35788, 4.50€ bounty)
+Seat 4: chtio fred (12427, 4.50€ bounty)
+Seat 5: VladimirAA (18995, 4.50€ bounty)
+Seat 6: ramirez 2013 (19300, 4.50€ bounty)
+*** ANTE/BLINDS ***
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+chtio fred posts ante 25
+VladimirAA posts small blind 100
+ramirez 2013 posts big blind 200
+Dealt to YL_ML_GL_42 [Jh 2d]
+*** PRE-FLOP *** 
+BogerZdar folds
+YL_ML_GL_42 folds
+51Moresque folds
+chtio fred folds
+VladimirAA folds
+ramirez 2013 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 6: ramirez 2013 (big blind) won 450
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-29-1667160209 - Holdem no limit (25/100/200) - 2022/10/30 20:03:29 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #5 is the button
+Seat 1: BogerZdar (15300, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18140, 4.50€ bounty)
+Seat 3: 51Moresque (35763, 4.50€ bounty)
+Seat 4: chtio fred (12402, 4.50€ bounty)
+Seat 5: VladimirAA (18870, 4.50€ bounty)
+Seat 6: ramirez 2013 (19525, 4.50€ bounty)
+*** ANTE/BLINDS ***
+ramirez 2013 posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+chtio fred posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts small blind 100
+BogerZdar posts big blind 200
+Dealt to YL_ML_GL_42 [5c 9c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+51Moresque folds
+chtio fred folds
+VladimirAA calls 200
+ramirez 2013 calls 100
+BogerZdar checks
+*** FLOP *** [Js 6c Jh]
+ramirez 2013 bets 488
+BogerZdar folds
+VladimirAA calls 488
+*** TURN *** [Js 6c Jh][4c]
+ramirez 2013 checks
+VladimirAA bets 863
+ramirez 2013 folds
+VladimirAA collected 2589 from pot
+*** SUMMARY ***
+Total pot 2589 | No rake
+Board: [Js 6c Jh 4c]
+Seat 5: VladimirAA (button) won 2589
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-30-1667160269 - Holdem no limit (25/100/200) - 2022/10/30 20:04:29 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #6 is the button
+Seat 1: BogerZdar (15075, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18115, 4.50€ bounty)
+Seat 3: 51Moresque (35738, 4.50€ bounty)
+Seat 4: chtio fred (12377, 4.50€ bounty)
+Seat 5: VladimirAA (19883, 4.50€ bounty)
+Seat 6: ramirez 2013 (18812, 4.50€ bounty)
+*** ANTE/BLINDS ***
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+chtio fred posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+BogerZdar posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [7d Ah]
+*** PRE-FLOP *** 
+51Moresque folds
+chtio fred folds
+VladimirAA calls 200
+ramirez 2013 folds
+BogerZdar raises 1200 to 1400
+YL_ML_GL_42 calls 1200
+VladimirAA folds
+*** FLOP *** [Kh 4d Th]
+BogerZdar checks
+YL_ML_GL_42 bets 1575
+BogerZdar calls 1575
+*** TURN *** [Kh 4d Th][2h]
+BogerZdar checks
+YL_ML_GL_42 bets 15115 and is all-in
+BogerZdar folds
+YL_ML_GL_42 collected 21415 from pot
+*** SUMMARY ***
+Total pot 21415 | No rake
+Board: [Kh 4d Th 2h]
+Seat 2: YL_ML_GL_42 (big blind) won 21415
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-31-1667160337 - Holdem no limit (25/100/200) - 2022/10/30 20:05:37 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #1 is the button
+Seat 1: BogerZdar (12075, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (21415, 4.50€ bounty)
+Seat 3: 51Moresque (35713, 4.50€ bounty)
+Seat 4: KKcartouche (20000, 4.50€ bounty)
+Seat 5: VladimirAA (19658, 4.50€ bounty)
+Seat 6: ramirez 2013 (18787, 4.50€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+51Moresque posts ante 25
+BogerZdar posts ante 25
+KKcartouche posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+YL_ML_GL_42 posts small blind 100
+51Moresque posts big blind 200
+Dealt to YL_ML_GL_42 [5s 5d]
+*** PRE-FLOP *** 
+KKcartouche raises 350 to 550
+VladimirAA folds
+ramirez 2013 folds
+BogerZdar folds
+YL_ML_GL_42 calls 450
+51Moresque folds
+*** FLOP *** [3s 9s 7h]
+YL_ML_GL_42 bets 725
+KKcartouche calls 725
+*** TURN *** [3s 9s 7h][Th]
+YL_ML_GL_42 checks
+KKcartouche checks
+*** RIVER *** [3s 9s 7h Th][6d]
+YL_ML_GL_42 checks
+KKcartouche checks
+*** SHOW DOWN ***
+KKcartouche shows [Ah Ks] (High card : Ace)
+YL_ML_GL_42 shows [5s 5d] (One pair : 5)
+YL_ML_GL_42 collected 2900 from pot
+*** SUMMARY ***
+Total pot 2900 | No rake
+Board: [3s 9s 7h Th 6d]
+Seat 2: YL_ML_GL_42 (small blind) showed [5s 5d] and won 2900 with One pair : 5
+Seat 4: KKcartouche showed [Ah Ks] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2550986037228733106-32-1667160391 - Holdem no limit (25/100/200) - 2022/10/30 20:06:31 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #2 is the button
+Seat 1: BogerZdar (12050, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (23015, 4.50€ bounty)
+Seat 3: 51Moresque (35488, 4.50€ bounty)
+Seat 4: KKcartouche (18700, 4.50€ bounty)
+Seat 5: VladimirAA (19633, 4.50€ bounty)
+Seat 6: ramirez 2013 (18762, 4.50€ bounty)
+*** ANTE/BLINDS ***
+51Moresque posts ante 25
+KKcartouche posts ante 25
+BogerZdar posts ante 25
+YL_ML_GL_42 posts ante 25
+VladimirAA posts ante 25
+ramirez 2013 posts ante 25
+51Moresque posts small blind 100
+KKcartouche posts big blind 200
+Dealt to YL_ML_GL_42 [9c Ac]
+*** PRE-FLOP *** 
+VladimirAA folds
+ramirez 2013 raises 200 to 400
+BogerZdar folds
+YL_ML_GL_42 calls 400
+51Moresque folds
+KKcartouche folds
+*** FLOP *** [Ah Kh 2d]
+ramirez 2013 bets 813
+YL_ML_GL_42 calls 813
+*** TURN *** [Ah Kh 2d][9d]
+ramirez 2013 bets 2876
+YL_ML_GL_42 calls 2876
+*** RIVER *** [Ah Kh 2d 9d][7d]
+ramirez 2013 bets 14648 and is all-in
+YL_ML_GL_42 calls 14648
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9c Ac] (Two pairs : Aces and 9)
+ramirez 2013 shows [Ad 9s] (Two pairs : Aces and 9)
+ramirez 2013 collected 18962 from pot
+YL_ML_GL_42 collected 18962 from pot
+*** SUMMARY ***
+Total pot 37924 | No rake
+Board: [Ah Kh 2d 9d 7d]
+Seat 2: YL_ML_GL_42 (button) showed [9c Ac] and won 18962 with Two pairs : Aces and 9
+Seat 6: ramirez 2013 showed [Ad 9s] and won 18962 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 2 - HandId: #2550986037228733106-33-1667160455 - Holdem no limit (30/125/250) - 2022/10/30 20:07:35 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #3 is the button
+Seat 1: BogerZdar (12025, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (23215, 4.50€ bounty)
+Seat 3: 51Moresque (35363, 4.50€ bounty)
+Seat 4: KKcartouche (18475, 4.50€ bounty)
+Seat 5: VladimirAA (19608, 4.50€ bounty)
+Seat 6: ramirez 2013 (18962, 4.50€ bounty)
+*** ANTE/BLINDS ***
+KKcartouche posts ante 30
+VladimirAA posts ante 30
+BogerZdar posts ante 30
+YL_ML_GL_42 posts ante 30
+51Moresque posts ante 30
+ramirez 2013 posts ante 30
+KKcartouche posts small blind 125
+VladimirAA posts big blind 250
+Dealt to YL_ML_GL_42 [3h 9h]
+*** PRE-FLOP *** 
+ramirez 2013 calls 250
+BogerZdar folds
+YL_ML_GL_42 calls 250
+51Moresque folds
+KKcartouche folds
+VladimirAA checks
+*** FLOP *** [Jh Kh Qh]
+VladimirAA checks
+ramirez 2013 checks
+YL_ML_GL_42 bets 22935 and is all-in
+VladimirAA folds
+ramirez 2013 folds
+YL_ML_GL_42 collected 23990 from pot
+*** SUMMARY ***
+Total pot 23990 | No rake
+Board: [Jh Kh Qh]
+Seat 2: YL_ML_GL_42 won 23990
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 2 - HandId: #2550986037228733106-34-1667160512 - Holdem no limit (30/125/250) - 2022/10/30 20:08:32 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #4 is the button
+Seat 1: BogerZdar (11995, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (23990, 4.50€ bounty)
+Seat 3: 51Moresque (35333, 4.50€ bounty)
+Seat 4: KKcartouche (18320, 4.50€ bounty)
+Seat 5: VladimirAA (19328, 4.50€ bounty)
+Seat 6: ramirez 2013 (18682, 4.50€ bounty)
+*** ANTE/BLINDS ***
+VladimirAA posts ante 30
+ramirez 2013 posts ante 30
+BogerZdar posts ante 30
+YL_ML_GL_42 posts ante 30
+51Moresque posts ante 30
+KKcartouche posts ante 30
+VladimirAA posts small blind 125
+ramirez 2013 posts big blind 250
+Dealt to YL_ML_GL_42 [9s Ac]
+*** PRE-FLOP *** 
+BogerZdar folds
+YL_ML_GL_42 raises 250 to 500
+51Moresque folds
+KKcartouche calls 500
+VladimirAA folds
+ramirez 2013 calls 250
+*** FLOP *** [5h Td Ks]
+ramirez 2013 checks
+YL_ML_GL_42 checks
+KKcartouche checks
+*** TURN *** [5h Td Ks][4d]
+ramirez 2013 checks
+YL_ML_GL_42 checks
+KKcartouche checks
+*** RIVER *** [5h Td Ks 4d][7d]
+ramirez 2013 checks
+YL_ML_GL_42 checks
+KKcartouche bets 1444
+ramirez 2013 folds
+YL_ML_GL_42 folds
+KKcartouche collected 3249 from pot
+*** SUMMARY ***
+Total pot 3249 | No rake
+Board: [5h Td Ks 4d 7d]
+Seat 4: KKcartouche (button) won 3249
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 2 - HandId: #2550986037228733106-35-1667160568 - Holdem no limit (30/125/250) - 2022/10/30 20:09:28 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #5 is the button
+Seat 1: BogerZdar (11965, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (23460, 4.50€ bounty)
+Seat 3: 51Moresque (35303, 4.50€ bounty)
+Seat 4: KKcartouche (19595, 4.50€ bounty)
+Seat 5: VladimirAA (19173, 4.50€ bounty)
+Seat 6: ramirez 2013 (18152, 4.50€ bounty)
+*** ANTE/BLINDS ***
+ramirez 2013 posts ante 30
+BogerZdar posts ante 30
+YL_ML_GL_42 posts ante 30
+51Moresque posts ante 30
+KKcartouche posts ante 30
+VladimirAA posts ante 30
+ramirez 2013 posts small blind 125
+BogerZdar posts big blind 250
+Dealt to YL_ML_GL_42 [5s 8h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+51Moresque raises 313 to 563
+KKcartouche folds
+VladimirAA folds
+ramirez 2013 calls 438
+BogerZdar folds
+*** FLOP *** [4s 6d 7c]
+ramirez 2013 checks
+51Moresque bets 545
+ramirez 2013 folds
+51Moresque collected 2101 from pot
+*** SUMMARY ***
+Total pot 2101 | No rake
+Board: [4s 6d 7c]
+Seat 3: 51Moresque won 2101
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 2 - HandId: #2550986037228733106-36-1667160628 - Holdem no limit (30/125/250) - 2022/10/30 20:10:28 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #6 is the button
+Seat 1: BogerZdar (11685, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (23430, 4.50€ bounty)
+Seat 3: 51Moresque (36266, 4.50€ bounty)
+Seat 4: KKcartouche (19565, 4.50€ bounty)
+Seat 5: VladimirAA (19143, 4.50€ bounty)
+Seat 6: ramirez 2013 (17559, 4.50€ bounty)
+*** ANTE/BLINDS ***
+BogerZdar posts ante 30
+YL_ML_GL_42 posts ante 30
+51Moresque posts ante 30
+KKcartouche posts ante 30
+VladimirAA posts ante 30
+ramirez 2013 posts ante 30
+BogerZdar posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [9d Ks]
+*** PRE-FLOP *** 
+51Moresque folds
+KKcartouche raises 375 to 625
+VladimirAA folds
+ramirez 2013 folds
+BogerZdar folds
+YL_ML_GL_42 calls 375
+*** FLOP *** [4d 4c 8h]
+YL_ML_GL_42 checks
+KKcartouche checks
+*** TURN *** [4d 4c 8h][8c]
+YL_ML_GL_42 checks
+KKcartouche checks
+*** RIVER *** [4d 4c 8h 8c][Ah]
+YL_ML_GL_42 bets 544
+KKcartouche calls 544
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9d Ks] (Two pairs : 8 and 4)
+KKcartouche shows [Ad Qh] (Two pairs : Aces and 8)
+KKcartouche collected 2643 from pot
+*** SUMMARY ***
+Total pot 2643 | No rake
+Board: [4d 4c 8h 8c Ah]
+Seat 2: YL_ML_GL_42 (big blind) showed [9d Ks] and lost with Two pairs : 8 and 4
+Seat 4: KKcartouche showed [Ad Qh] and won 2643 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 2 - HandId: #2550986037228733106-37-1667160689 - Holdem no limit (30/125/250) - 2022/10/30 20:11:29 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #1 is the button
+Seat 1: BogerZdar (11530, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (22231, 4.50€ bounty)
+Seat 3: 51Moresque (36236, 4.50€ bounty)
+Seat 4: KKcartouche (21009, 4.50€ bounty)
+Seat 5: VladimirAA (19113, 4.50€ bounty)
+Seat 6: ramirez 2013 (17529, 4.50€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 30
+51Moresque posts ante 30
+BogerZdar posts ante 30
+KKcartouche posts ante 30
+VladimirAA posts ante 30
+ramirez 2013 posts ante 30
+YL_ML_GL_42 posts small blind 125
+51Moresque posts big blind 250
+Dealt to YL_ML_GL_42 [Jc 2s]
+*** PRE-FLOP *** 
+KKcartouche folds
+VladimirAA folds
+ramirez 2013 folds
+BogerZdar raises 250 to 500
+YL_ML_GL_42 folds
+51Moresque folds
+BogerZdar collected 1055 from pot
+*** SUMMARY ***
+Total pot 1055 | No rake
+Seat 1: BogerZdar (button) won 1055
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 2 - HandId: #2550986037228733106-38-1667160735 - Holdem no limit (30/125/250) - 2022/10/30 20:12:15 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #2 is the button
+Seat 1: BogerZdar (12055, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (22076, 4.50€ bounty)
+Seat 3: 51Moresque (35956, 4.50€ bounty)
+Seat 4: KKcartouche (20979, 4.50€ bounty)
+Seat 5: VladimirAA (19083, 4.50€ bounty)
+Seat 6: ramirez 2013 (17499, 4.50€ bounty)
+*** ANTE/BLINDS ***
+51Moresque posts ante 30
+KKcartouche posts ante 30
+BogerZdar posts ante 30
+YL_ML_GL_42 posts ante 30
+VladimirAA posts ante 30
+ramirez 2013 posts ante 30
+51Moresque posts small blind 125
+KKcartouche posts big blind 250
+Dealt to YL_ML_GL_42 [2c Qs]
+*** PRE-FLOP *** 
+VladimirAA calls 250
+ramirez 2013 raises 250 to 500
+BogerZdar folds
+YL_ML_GL_42 folds
+51Moresque folds
+KKcartouche folds
+VladimirAA calls 250
+*** FLOP *** [Kc 6c Qh]
+VladimirAA bets 1555
+ramirez 2013 calls 1555
+*** TURN *** [Kc 6c Qh][Th]
+VladimirAA bets 16998 and is all-in
+ramirez 2013 calls 15414 and is all-in
+*** RIVER *** [Kc 6c Qh Th][2d]
+*** SHOW DOWN ***
+ramirez 2013 shows [8c Jc] (High card : King)
+VladimirAA shows [Qd Ks] (Two pairs : Kings and Queens)
+VladimirAA collected 37077 from pot
+*** SUMMARY ***
+Total pot 37077 | No rake
+Board: [Kc 6c Qh Th 2d]
+Seat 5: VladimirAA showed [Qd Ks] and won 37077 with Two pairs : Kings and Queens
+Seat 6: ramirez 2013 showed [8c Jc] and lost with High card : King
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 3 - HandId: #2550986037228733106-39-1667160807 - Holdem no limit (35/150/300) - 2022/10/30 20:13:27 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #3 is the button
+Seat 1: BogerZdar (12025, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (22046, 4.50€ bounty)
+Seat 3: 51Moresque (35801, 4.50€ bounty)
+Seat 4: KKcartouche (20699, 4.50€ bounty)
+Seat 5: VladimirAA (37077, 6.75€ bounty)
+*** ANTE/BLINDS ***
+KKcartouche posts ante 35
+VladimirAA posts ante 35
+BogerZdar posts ante 35
+YL_ML_GL_42 posts ante 35
+51Moresque posts ante 35
+KKcartouche posts small blind 150
+VladimirAA posts big blind 300
+Dealt to YL_ML_GL_42 [8d 2d]
+*** PRE-FLOP *** 
+BogerZdar folds
+YL_ML_GL_42 folds
+51Moresque folds
+KKcartouche folds
+VladimirAA collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | No rake
+Seat 5: VladimirAA (big blind) won 625
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 3 - HandId: #2550986037228733106-40-1667160820 - Holdem no limit (35/150/300) - 2022/10/30 20:13:40 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #4 is the button
+Seat 1: BogerZdar (11990, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (22011, 4.50€ bounty)
+Seat 3: 51Moresque (35766, 4.50€ bounty)
+Seat 4: KKcartouche (20514, 4.50€ bounty)
+Seat 5: VladimirAA (37367, 6.75€ bounty)
+Seat 6: Aikojie (20000, 4.50€ bounty)
+*** ANTE/BLINDS ***
+VladimirAA posts ante 35
+Aikojie posts ante 35
+BogerZdar posts ante 35
+YL_ML_GL_42 posts ante 35
+51Moresque posts ante 35
+KKcartouche posts ante 35
+VladimirAA posts small blind 150
+Aikojie posts big blind 300
+Dealt to YL_ML_GL_42 [Qc 2s]
+*** PRE-FLOP *** 
+BogerZdar raises 300 to 600
+YL_ML_GL_42 folds
+51Moresque folds
+KKcartouche folds
+VladimirAA calls 450
+Aikojie folds
+*** FLOP *** [6h 6c 5s]
+VladimirAA checks
+BogerZdar checks
+*** TURN *** [6h 6c 5s][Qs]
+VladimirAA bets 855
+BogerZdar folds
+VladimirAA collected 2565 from pot
+*** SUMMARY ***
+Total pot 2565 | No rake
+Board: [6h 6c 5s Qs]
+Seat 5: VladimirAA (small blind) won 2565
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 3 - HandId: #2550986037228733106-41-1667160885 - Holdem no limit (35/150/300) - 2022/10/30 20:14:45 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #5 is the button
+Seat 1: BogerZdar (11355, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (21976, 4.50€ bounty)
+Seat 3: 51Moresque (35731, 4.50€ bounty)
+Seat 4: KKcartouche (20479, 4.50€ bounty)
+Seat 5: VladimirAA (38442, 6.75€ bounty)
+Seat 6: Aikojie (19665, 4.50€ bounty)
+*** ANTE/BLINDS ***
+Aikojie posts ante 35
+BogerZdar posts ante 35
+YL_ML_GL_42 posts ante 35
+51Moresque posts ante 35
+KKcartouche posts ante 35
+VladimirAA posts ante 35
+Aikojie posts small blind 150
+BogerZdar posts big blind 300
+Dealt to YL_ML_GL_42 [2s 6s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+51Moresque folds
+KKcartouche raises 450 to 750
+VladimirAA folds
+Aikojie folds
+BogerZdar raises 1950 to 2700
+KKcartouche calls 1950
+*** FLOP *** [Jd Ad Kh]
+BogerZdar bets 1901
+KKcartouche raises 9562 to 11463
+BogerZdar calls 6719 and is all-in
+*** TURN *** [Jd Ad Kh][Ks]
+*** RIVER *** [Jd Ad Kh Ks][9d]
+*** SHOW DOWN ***
+BogerZdar shows [As 8c] (Two pairs : Aces and Kings)
+KKcartouche shows [Kc Ts] (Trips of Kings)
+KKcartouche collected 25843 from pot
+*** SUMMARY ***
+Total pot 25843 | No rake
+Board: [Jd Ad Kh Ks 9d]
+Seat 1: BogerZdar (big blind) showed [As 8c] and lost with Two pairs : Aces and Kings
+Seat 4: KKcartouche showed [Kc Ts] and won 25843 with Trips of Kings
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 3 - HandId: #2550986037228733106-42-1667160960 - Holdem no limit (35/150/300) - 2022/10/30 20:16:00 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #6 is the button
+Seat 2: YL_ML_GL_42 (21941, 4.50€ bounty)
+Seat 3: 51Moresque (35696, 4.50€ bounty)
+Seat 4: KKcartouche (32124, 6.75€ bounty)
+Seat 5: VladimirAA (38407, 6.75€ bounty)
+Seat 6: Aikojie (19480, 4.50€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+51Moresque posts ante 35
+KKcartouche posts ante 35
+VladimirAA posts ante 35
+Aikojie posts ante 35
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [Kc 2s]
+*** PRE-FLOP *** 
+51Moresque folds
+KKcartouche folds
+VladimirAA folds
+Aikojie raises 600 to 900
+YL_ML_GL_42 folds
+Aikojie collected 1375 from pot
+*** SUMMARY ***
+Total pot 1375 | No rake
+Seat 6: Aikojie (button) won 1375
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 3 - HandId: #2550986037228733106-43-1667160982 - Holdem no limit (35/150/300) - 2022/10/30 20:16:22 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #1 is the button
+Seat 1: Kinglel (20000, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (21606, 4.50€ bounty)
+Seat 3: 51Moresque (35661, 4.50€ bounty)
+Seat 4: KKcartouche (32089, 6.75€ bounty)
+Seat 5: VladimirAA (38372, 6.75€ bounty)
+Seat 6: Aikojie (19920, 4.50€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+51Moresque posts ante 35
+KKcartouche posts ante 35
+VladimirAA posts ante 35
+Aikojie posts ante 35
+YL_ML_GL_42 posts small blind 150
+51Moresque posts big blind 300
+Dealt to YL_ML_GL_42 [3d Qs]
+*** PRE-FLOP *** 
+KKcartouche folds
+VladimirAA calls 300
+Aikojie folds
+YL_ML_GL_42 folds
+51Moresque checks
+*** FLOP *** [Jh Td Ks]
+51Moresque bets 300
+VladimirAA folds
+51Moresque collected 1225 from pot
+*** SUMMARY ***
+Total pot 1225 | No rake
+Board: [Jh Td Ks]
+Seat 3: 51Moresque (big blind) won 1225
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 3 - HandId: #2550986037228733106-44-1667161026 - Holdem no limit (35/150/300) - 2022/10/30 20:17:06 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #2 is the button
+Seat 1: Kinglel (20000, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (21421, 4.50€ bounty)
+Seat 3: 51Moresque (36251, 4.50€ bounty)
+Seat 4: KKcartouche (32054, 6.75€ bounty)
+Seat 5: VladimirAA (38037, 6.75€ bounty)
+Seat 6: Aikojie (19885, 4.50€ bounty)
+*** ANTE/BLINDS ***
+51Moresque posts ante 35
+KKcartouche posts ante 35
+Kinglel posts ante 35
+YL_ML_GL_42 posts ante 35
+VladimirAA posts ante 35
+Aikojie posts ante 35
+51Moresque posts small blind 150
+KKcartouche posts big blind 300
+Dealt to YL_ML_GL_42 [Kc Kh]
+*** PRE-FLOP *** 
+VladimirAA folds
+Aikojie raises 300 to 600
+Kinglel calls 600
+YL_ML_GL_42 raises 2460 to 3060
+51Moresque folds
+KKcartouche folds
+Aikojie folds
+Kinglel folds
+YL_ML_GL_42 collected 4920 from pot
+*** SUMMARY ***
+Total pot 4920 | No rake
+Seat 2: YL_ML_GL_42 (button) won 4920
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 3 - HandId: #2550986037228733106-45-1667161071 - Holdem no limit (35/150/300) - 2022/10/30 20:17:51 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #3 is the button
+Seat 1: Kinglel (19365, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (23246, 4.50€ bounty)
+Seat 3: 51Moresque (36066, 4.50€ bounty)
+Seat 4: KKcartouche (31719, 6.75€ bounty)
+Seat 5: VladimirAA (38002, 6.75€ bounty)
+Seat 6: Aikojie (19250, 4.50€ bounty)
+*** ANTE/BLINDS ***
+KKcartouche posts ante 35
+VladimirAA posts ante 35
+Kinglel posts ante 35
+YL_ML_GL_42 posts ante 35
+51Moresque posts ante 35
+Aikojie posts ante 35
+KKcartouche posts small blind 150
+VladimirAA posts big blind 300
+Dealt to YL_ML_GL_42 [9d Ah]
+*** PRE-FLOP *** 
+Aikojie folds
+Kinglel folds
+YL_ML_GL_42 raises 300 to 600
+51Moresque folds
+KKcartouche calls 450
+VladimirAA folds
+*** FLOP *** [9h 5c 8c]
+KKcartouche checks
+YL_ML_GL_42 bets 1368
+KKcartouche folds
+YL_ML_GL_42 collected 3078 from pot
+*** SUMMARY ***
+Total pot 3078 | No rake
+Board: [9h 5c 8c]
+Seat 2: YL_ML_GL_42 won 3078
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 4 - HandId: #2550986037228733106-46-1667161116 - Holdem no limit (40/175/350) - 2022/10/30 20:18:36 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #4 is the button
+Seat 1: Kinglel (19330, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (24321, 4.50€ bounty)
+Seat 3: 51Moresque (36031, 4.50€ bounty)
+Seat 4: KKcartouche (31084, 6.75€ bounty)
+Seat 5: VladimirAA (37667, 6.75€ bounty)
+Seat 6: Aikojie (19215, 4.50€ bounty)
+*** ANTE/BLINDS ***
+VladimirAA posts ante 40
+Aikojie posts ante 40
+Kinglel posts ante 40
+YL_ML_GL_42 posts ante 40
+51Moresque posts ante 40
+KKcartouche posts ante 40
+VladimirAA posts small blind 175
+Aikojie posts big blind 350
+Dealt to YL_ML_GL_42 [Ks 8h]
+*** PRE-FLOP *** 
+Kinglel folds
+YL_ML_GL_42 folds
+51Moresque folds
+KKcartouche raises 613 to 963
+VladimirAA folds
+Aikojie folds
+KKcartouche collected 1728 from pot
+*** SUMMARY ***
+Total pot 1728 | No rake
+Seat 4: KKcartouche (button) won 1728
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 4 - HandId: #2550986037228733106-47-1667161152 - Holdem no limit (40/175/350) - 2022/10/30 20:19:12 UTC
+Table: 'SUNDAY KO SURPRISE 100K(593947721)#0689' 6-max (real money) Seat #5 is the button
+Seat 1: Kinglel (19290, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (24281, 4.50€ bounty)
+Seat 3: 51Moresque (35991, 4.50€ bounty)
+Seat 4: KKcartouche (31809, 6.75€ bounty)
+Seat 5: VladimirAA (37452, 6.75€ bounty)
+Seat 6: Aikojie (18825, 4.50€ bounty)
+*** ANTE/BLINDS ***
+Aikojie posts ante 40
+Kinglel posts ante 40
+YL_ML_GL_42 posts ante 40
+51Moresque posts ante 40
+KKcartouche posts ante 40
+VladimirAA posts ante 40
+Aikojie posts small blind 175
+Kinglel posts big blind 350
+Dealt to YL_ML_GL_42 [Qd Jc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 350 to 700
+51Moresque folds
+KKcartouche raises 1225 to 1925
+VladimirAA folds
+Aikojie folds
+Kinglel folds
+YL_ML_GL_42 calls 1225
+*** FLOP *** [Ad 4h Kc]
+YL_ML_GL_42 bets 2308
+KKcartouche calls 2308
+*** TURN *** [Ad 4h Kc][9h]
+YL_ML_GL_42 checks
+KKcartouche bets 3231
+YL_ML_GL_42 raises 16777 to 20008 and is all-in
+KKcartouche calls 16777
+*** RIVER *** [Ad 4h Kc 9h][2c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Qd Jc] (High card : Ace)
+KKcartouche shows [As Ac] (Trips of Aces)
+KKcartouche collected 49247 from pot
+*** SUMMARY ***
+Total pot 49247 | No rake
+Board: [Ad 4h Kc 9h 2c]
+Seat 2: YL_ML_GL_42 showed [Qd Jc] and lost with High card : Ace
+Seat 4: KKcartouche showed [As Ac] and won 49247 with Trips of Aces
+
+

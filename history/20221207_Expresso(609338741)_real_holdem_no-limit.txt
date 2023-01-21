@@ -1,0 +1,376 @@
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2617089964780814337-1-1670429587 - Holdem no limit (10/20) - 2022/12/07 16:13:07 UTC
+Table: 'Expresso(609338741)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: Markisio11 (500)
+Seat 3: Patrickdalig (500)
+*** ANTE/BLINDS ***
+Markisio11 posts small blind 10
+Patrickdalig posts big blind 20
+Dealt to YL_ML_GL_42 [Ah 6s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+Markisio11 folds
+Patrickdalig calls 50
+*** FLOP *** [5h 8c 4h]
+Patrickdalig checks
+YL_ML_GL_42 bets 150
+Patrickdalig calls 150
+*** TURN *** [5h 8c 4h][As]
+Patrickdalig checks
+YL_ML_GL_42 bets 280 and is all-in
+Patrickdalig folds
+YL_ML_GL_42 collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | No rake
+Board: [5h 8c 4h As]
+Seat 1: YL_ML_GL_42 (button) won 730
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2617089964780814337-2-1670429627 - Holdem no limit (10/20) - 2022/12/07 16:13:47 UTC
+Table: 'Expresso(609338741)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (730)
+Seat 2: Markisio11 (490)
+Seat 3: Patrickdalig (280)
+*** ANTE/BLINDS ***
+Patrickdalig posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [8c 4d]
+*** PRE-FLOP *** 
+Markisio11 calls 20
+Patrickdalig calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [4h 3c 6c]
+Patrickdalig checks
+YL_ML_GL_42 checks
+Markisio11 bets 60
+Patrickdalig calls 60
+YL_ML_GL_42 calls 60
+*** TURN *** [4h 3c 6c][5s]
+Patrickdalig bets 200 and is all-in
+YL_ML_GL_42 folds
+Markisio11 folds
+Patrickdalig collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [4h 3c 6c 5s]
+Seat 3: Patrickdalig (small blind) won 440
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2617089964780814337-3-1670429682 - Holdem no limit (15/30) - 2022/12/07 16:14:42 UTC
+Table: 'Expresso(609338741)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (650)
+Seat 2: Markisio11 (410)
+Seat 3: Patrickdalig (440)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Markisio11 posts big blind 30
+Dealt to YL_ML_GL_42 [4h 3c]
+*** PRE-FLOP *** 
+Patrickdalig raises 410 to 440 and is all-in
+YL_ML_GL_42 folds
+Markisio11 calls 380 and is all-in
+*** FLOP *** [Jd 6d 6s]
+*** TURN *** [Jd 6d 6s][9h]
+*** RIVER *** [Jd 6d 6s 9h][3d]
+*** SHOW DOWN ***
+Markisio11 shows [Qs Ad] (One pair : 6)
+Patrickdalig shows [Kd Jh] (Two pairs : Jacks and 6)
+Patrickdalig collected 865 from pot
+*** SUMMARY ***
+Total pot 865 | No rake
+Board: [Jd 6d 6s 9h 3d]
+Seat 2: Markisio11 (big blind) showed [Qs Ad] and lost with One pair : 6
+Seat 3: Patrickdalig (button) showed [Kd Jh] and won 865 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2617089964780814337-4-1670429701 - Holdem no limit (15/30) - 2022/12/07 16:15:01 UTC
+Table: 'Expresso(609338741)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (635)
+Seat 3: Patrickdalig (865)
+*** ANTE/BLINDS ***
+Patrickdalig posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [6c 4h]
+*** PRE-FLOP *** 
+Patrickdalig calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [5s 2h 2d]
+YL_ML_GL_42 checks
+Patrickdalig checks
+*** TURN *** [5s 2h 2d][7h]
+YL_ML_GL_42 bets 48
+Patrickdalig calls 48
+*** RIVER *** [5s 2h 2d 7h][3c]
+YL_ML_GL_42 bets 156
+Patrickdalig calls 156
+*** SHOW DOWN ***
+Patrickdalig shows [Ts 7s] (Two pairs : 7 and 2)
+YL_ML_GL_42 shows [6c 4h] (Straight 7 high)
+YL_ML_GL_42 collected 468 from pot
+*** SUMMARY ***
+Total pot 468 | No rake
+Board: [5s 2h 2d 7h 3c]
+Seat 1: YL_ML_GL_42 (big blind) showed [6c 4h] and won 468 with Straight 7 high
+Seat 3: Patrickdalig (small blind) (button) showed [Ts 7s] and lost with Two pairs : 7 and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2617089964780814337-5-1670429737 - Holdem no limit (15/30) - 2022/12/07 16:15:37 UTC
+Table: 'Expresso(609338741)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (869)
+Seat 3: Patrickdalig (631)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Patrickdalig posts big blind 30
+Dealt to YL_ML_GL_42 [6h Ah]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+Patrickdalig calls 60
+*** FLOP *** [6d Jh Ks]
+Patrickdalig checks
+YL_ML_GL_42 bets 144
+Patrickdalig folds
+YL_ML_GL_42 collected 324 from pot
+*** SUMMARY ***
+Total pot 324 | No rake
+Board: [6d Jh Ks]
+Seat 1: YL_ML_GL_42 (small blind) (button) won 324
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2617089964780814337-6-1670429756 - Holdem no limit (15/30) - 2022/12/07 16:15:56 UTC
+Table: 'Expresso(609338741)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (959)
+Seat 3: Patrickdalig (541)
+*** ANTE/BLINDS ***
+Patrickdalig posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [3c 6c]
+*** PRE-FLOP *** 
+Patrickdalig calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [9s Ts 2h]
+YL_ML_GL_42 checks
+Patrickdalig checks
+*** TURN *** [9s Ts 2h][Tc]
+YL_ML_GL_42 checks
+Patrickdalig checks
+*** RIVER *** [9s Ts 2h Tc][3d]
+YL_ML_GL_42 bets 60
+Patrickdalig raises 96 to 156
+YL_ML_GL_42 calls 96
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [3c 6c] (Two pairs : Tens and 3)
+Patrickdalig shows [9d Ks] (Two pairs : Tens and 9)
+Patrickdalig collected 372 from pot
+*** SUMMARY ***
+Total pot 372 | No rake
+Board: [9s Ts 2h Tc 3d]
+Seat 1: YL_ML_GL_42 (big blind) showed [3c 6c] and lost with Two pairs : Tens and 3
+Seat 3: Patrickdalig (small blind) (button) showed [9d Ks] and won 372 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 3 - HandId: #2617089964780814337-7-1670429788 - Holdem no limit (20/40) - 2022/12/07 16:16:28 UTC
+Table: 'Expresso(609338741)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (773)
+Seat 3: Patrickdalig (727)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Patrickdalig posts big blind 40
+Dealt to YL_ML_GL_42 [Jh 9c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+Patrickdalig calls 80
+*** FLOP *** [Qc 7c 3c]
+Patrickdalig checks
+YL_ML_GL_42 bets 240
+Patrickdalig folds
+YL_ML_GL_42 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Qc 7c 3c]
+Seat 1: YL_ML_GL_42 (small blind) (button) won 480
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 3 - HandId: #2617089964780814337-8-1670429809 - Holdem no limit (20/40) - 2022/12/07 16:16:49 UTC
+Table: 'Expresso(609338741)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (893)
+Seat 3: Patrickdalig (607)
+*** ANTE/BLINDS ***
+Patrickdalig posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [8s 6d]
+*** PRE-FLOP *** 
+Patrickdalig calls 20
+YL_ML_GL_42 checks
+*** FLOP *** [3d 4h 4s]
+YL_ML_GL_42 checks
+Patrickdalig bets 567 and is all-in
+YL_ML_GL_42 folds
+Patrickdalig collected 647 from pot
+*** SUMMARY ***
+Total pot 647 | No rake
+Board: [3d 4h 4s]
+Seat 3: Patrickdalig (small blind) (button) won 647
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 3 - HandId: #2617089964780814337-9-1670429823 - Holdem no limit (20/40) - 2022/12/07 16:17:03 UTC
+Table: 'Expresso(609338741)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (853)
+Seat 3: Patrickdalig (647)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Patrickdalig posts big blind 40
+Dealt to YL_ML_GL_42 [3c 2s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Patrickdalig collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Patrickdalig (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 3 - HandId: #2617089964780814337-10-1670429827 - Holdem no limit (20/40) - 2022/12/07 16:17:07 UTC
+Table: 'Expresso(609338741)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (833)
+Seat 3: Patrickdalig (667)
+*** ANTE/BLINDS ***
+Patrickdalig posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [8h 4s]
+*** PRE-FLOP *** 
+Patrickdalig calls 20
+YL_ML_GL_42 checks
+*** FLOP *** [Tc 9d Ah]
+YL_ML_GL_42 checks
+Patrickdalig bets 80
+YL_ML_GL_42 folds
+Patrickdalig collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Tc 9d Ah]
+Seat 3: Patrickdalig (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 3 - HandId: #2617089964780814337-11-1670429840 - Holdem no limit (20/40) - 2022/12/07 16:17:20 UTC
+Table: 'Expresso(609338741)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (793)
+Seat 3: Patrickdalig (707)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Patrickdalig posts big blind 40
+Dealt to YL_ML_GL_42 [Qc 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+Patrickdalig calls 80
+*** FLOP *** [As Kh Kd]
+Patrickdalig checks
+YL_ML_GL_42 checks
+*** TURN *** [As Kh Kd][4h]
+Patrickdalig bets 84
+YL_ML_GL_42 calls 84
+*** RIVER *** [As Kh Kd 4h][8c]
+Patrickdalig bets 40
+YL_ML_GL_42 calls 40
+*** SHOW DOWN ***
+Patrickdalig shows [Jc 2c] (One pair : Kings)
+YL_ML_GL_42 shows [Qc 4c] (Two pairs : Kings and 4)
+YL_ML_GL_42 collected 488 from pot
+*** SUMMARY ***
+Total pot 488 | No rake
+Board: [As Kh Kd 4h 8c]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [Qc 4c] and won 488 with Two pairs : Kings and 4
+Seat 3: Patrickdalig (big blind) showed [Jc 2c] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 4 - HandId: #2617089964780814337-12-1670429866 - Holdem no limit (30/60) - 2022/12/07 16:17:46 UTC
+Table: 'Expresso(609338741)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (1037)
+Seat 3: Patrickdalig (463)
+*** ANTE/BLINDS ***
+Patrickdalig posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [4h 7d]
+*** PRE-FLOP *** 
+Patrickdalig raises 403 to 463 and is all-in
+YL_ML_GL_42 folds
+Patrickdalig collected 523 from pot
+*** SUMMARY ***
+Total pot 523 | No rake
+Seat 3: Patrickdalig (small blind) (button) won 523
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 4 - HandId: #2617089964780814337-13-1670429876 - Holdem no limit (30/60) - 2022/12/07 16:17:56 UTC
+Table: 'Expresso(609338741)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (977)
+Seat 3: Patrickdalig (523)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+Patrickdalig posts big blind 60
+Dealt to YL_ML_GL_42 [Ts 7c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 30
+Patrickdalig raises 463 to 523 and is all-in
+YL_ML_GL_42 folds
+Patrickdalig collected 583 from pot
+*** SUMMARY ***
+Total pot 583 | No rake
+Seat 3: Patrickdalig (big blind) won 583
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 4 - HandId: #2617089964780814337-14-1670429885 - Holdem no limit (30/60) - 2022/12/07 16:18:05 UTC
+Table: 'Expresso(609338741)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (917)
+Seat 3: Patrickdalig (583)
+*** ANTE/BLINDS ***
+Patrickdalig posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [9c 7h]
+*** PRE-FLOP *** 
+Patrickdalig calls 30
+YL_ML_GL_42 checks
+*** FLOP *** [3h Ac Qh]
+YL_ML_GL_42 checks
+Patrickdalig checks
+*** TURN *** [3h Ac Qh][Jd]
+YL_ML_GL_42 checks
+Patrickdalig checks
+*** RIVER *** [3h Ac Qh Jd][Jh]
+YL_ML_GL_42 checks
+Patrickdalig bets 120
+YL_ML_GL_42 folds
+Patrickdalig collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [3h Ac Qh Jd Jh]
+Seat 3: Patrickdalig (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 4 - HandId: #2617089964780814337-15-1670429904 - Holdem no limit (30/60) - 2022/12/07 16:18:24 UTC
+Table: 'Expresso(609338741)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (857)
+Seat 3: Patrickdalig (643)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+Patrickdalig posts big blind 60
+Dealt to YL_ML_GL_42 [Tc As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 120 to 180
+Patrickdalig calls 120
+*** FLOP *** [Qc 9c Ac]
+Patrickdalig checks
+YL_ML_GL_42 checks
+*** TURN *** [Qc 9c Ac][6s]
+Patrickdalig bets 360
+YL_ML_GL_42 raises 317 to 677 and is all-in
+Patrickdalig calls 103 and is all-in
+*** RIVER *** [Qc 9c Ac 6s][Qd]
+*** SHOW DOWN ***
+Patrickdalig shows [5s Jh] (One pair : Queens)
+YL_ML_GL_42 shows [Tc As] (Two pairs : Aces and Queens)
+YL_ML_GL_42 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Qc 9c Ac 6s Qd]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [Tc As] and won 1500 with Two pairs : Aces and Queens
+Seat 3: Patrickdalig (big blind) showed [5s Jh] and lost with One pair : Queens
+
+

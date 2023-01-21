@@ -1,0 +1,1498 @@
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-12-1667934593 - Holdem no limit (12/50/100) - 2022/11/08 19:09:53 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #3 is the button
+Seat 1: ko debout08 (11395)
+Seat 2: Tks4Coming (10046)
+Seat 3: l eklips l (10480)
+Seat 4: Betbepbep (9500)
+Seat 5: YL_ML_GL_42 (10000)
+Seat 6: MIKE22051977 (9119)
+*** ANTE/BLINDS ***
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+MIKE22051977 posts ante 12
+Betbepbep posts small blind 50
+YL_ML_GL_42 posts big blind 100
+Dealt to YL_ML_GL_42 [5s 4c]
+*** PRE-FLOP *** 
+MIKE22051977 raises 100 to 200
+ko debout08 folds
+Tks4Coming calls 200
+l eklips l folds
+Betbepbep folds
+YL_ML_GL_42 folds
+*** FLOP *** [Ah Jc 2h]
+MIKE22051977 checks
+Tks4Coming bets 404
+MIKE22051977 folds
+Tks4Coming collected 1026 from pot
+*** SUMMARY ***
+Total pot 1026 | No rake
+Board: [Ah Jc 2h]
+Seat 2: Tks4Coming won 1026
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-13-1667934652 - Holdem no limit (12/50/100) - 2022/11/08 19:10:52 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #4 is the button
+Seat 1: ko debout08 (11383)
+Seat 2: Tks4Coming (10456)
+Seat 3: l eklips l (10468)
+Seat 4: Betbepbep (9438)
+Seat 5: YL_ML_GL_42 (9888)
+Seat 6: MIKE22051977 (8907)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts small blind 50
+MIKE22051977 posts big blind 100
+Dealt to YL_ML_GL_42 [7d Ac]
+*** PRE-FLOP *** 
+ko debout08 folds
+Tks4Coming folds
+l eklips l folds
+Betbepbep raises 150 to 250
+YL_ML_GL_42 calls 200
+MIKE22051977 calls 150
+*** FLOP *** [8d 6d 2s]
+YL_ML_GL_42 bets 411
+MIKE22051977 calls 411
+Betbepbep folds
+*** TURN *** [8d 6d 2s][9h]
+YL_ML_GL_42 bets 822
+MIKE22051977 folds
+YL_ML_GL_42 collected 2466 from pot
+*** SUMMARY ***
+Total pot 2466 | No rake
+Board: [8d 6d 2s 9h]
+Seat 5: YL_ML_GL_42 (small blind) won 2466
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-14-1667934708 - Holdem no limit (12/50/100) - 2022/11/08 19:11:48 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #5 is the button
+Seat 1: ko debout08 (11371)
+Seat 2: Tks4Coming (10444)
+Seat 3: l eklips l (10456)
+Seat 4: Betbepbep (9176)
+Seat 5: YL_ML_GL_42 (10859)
+Seat 6: MIKE22051977 (8234)
+*** ANTE/BLINDS ***
+MIKE22051977 posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts small blind 50
+ko debout08 posts big blind 100
+Dealt to YL_ML_GL_42 [Kh 6c]
+*** PRE-FLOP *** 
+Tks4Coming raises 150 to 250
+l eklips l folds
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 folds
+ko debout08 calls 150
+*** FLOP *** [6s 7s 3d]
+ko debout08 checks
+Tks4Coming checks
+*** TURN *** [6s 7s 3d][Ks]
+ko debout08 checks
+Tks4Coming checks
+*** RIVER *** [6s 7s 3d Ks][3s]
+ko debout08 checks
+Tks4Coming checks
+*** SHOW DOWN ***
+ko debout08 shows [Ad 2h] (One pair : 3)
+Tks4Coming shows [4h 4c] (Two pairs : 4 and 3)
+Tks4Coming collected 622 from pot
+*** SUMMARY ***
+Total pot 622 | No rake
+Board: [6s 7s 3d Ks 3s]
+Seat 1: ko debout08 (big blind) showed [Ad 2h] and lost with One pair : 3
+Seat 2: Tks4Coming showed [4h 4c] and won 622 with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-15-1667934742 - Holdem no limit (12/50/100) - 2022/11/08 19:12:22 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #6 is the button
+Seat 1: ko debout08 (11109)
+Seat 2: Tks4Coming (10804)
+Seat 3: l eklips l (10444)
+Seat 4: Betbepbep (9164)
+Seat 5: YL_ML_GL_42 (10847)
+Seat 6: MIKE22051977 (8172)
+*** ANTE/BLINDS ***
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+ko debout08 posts small blind 50
+Tks4Coming posts big blind 100
+Dealt to YL_ML_GL_42 [Td 7c]
+*** PRE-FLOP *** 
+l eklips l folds
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 folds
+ko debout08 folds
+Tks4Coming collected 222 from pot
+*** SUMMARY ***
+Total pot 222 | No rake
+Seat 2: Tks4Coming (big blind) won 222
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-16-1667934757 - Holdem no limit (12/50/100) - 2022/11/08 19:12:37 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #1 is the button
+Seat 1: ko debout08 (11047)
+Seat 2: Tks4Coming (10914)
+Seat 3: l eklips l (10432)
+Seat 4: Betbepbep (9152)
+Seat 5: YL_ML_GL_42 (10835)
+Seat 6: MIKE22051977 (8160)
+*** ANTE/BLINDS ***
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+ko debout08 posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+Tks4Coming posts small blind 50
+l eklips l posts big blind 100
+Dealt to YL_ML_GL_42 [8h 9d]
+*** PRE-FLOP *** 
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 calls 100
+ko debout08 calls 100
+Tks4Coming folds
+l eklips l checks
+*** FLOP *** [4h 9s Ac]
+l eklips l checks
+MIKE22051977 checks
+ko debout08 checks
+*** TURN *** [4h 9s Ac][2h]
+l eklips l checks
+MIKE22051977 checks
+ko debout08 checks
+*** RIVER *** [4h 9s Ac 2h][Jd]
+l eklips l bets 300
+MIKE22051977 folds
+ko debout08 folds
+l eklips l collected 722 from pot
+*** SUMMARY ***
+Total pot 722 | No rake
+Board: [4h 9s Ac 2h Jd]
+Seat 3: l eklips l (big blind) won 722
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-17-1667934885 - Holdem no limit (12/50/100) - 2022/11/08 19:14:45 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #2 is the button
+Seat 1: ko debout08 (10935)
+Seat 2: Tks4Coming (10852)
+Seat 3: l eklips l (10742)
+Seat 4: Betbepbep (9140)
+Seat 5: YL_ML_GL_42 (10823)
+Seat 6: MIKE22051977 (8048)
+*** ANTE/BLINDS ***
+l eklips l posts ante 12
+Betbepbep posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+l eklips l posts small blind 50
+Betbepbep posts big blind 100
+Dealt to YL_ML_GL_42 [5s Th]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+MIKE22051977 folds
+ko debout08 folds
+Tks4Coming folds
+l eklips l calls 50
+Betbepbep checks
+*** FLOP *** [8s Tc Js]
+l eklips l bets 204
+Betbepbep folds
+l eklips l collected 476 from pot
+*** SUMMARY ***
+Total pot 476 | No rake
+Board: [8s Tc Js]
+Seat 3: l eklips l (small blind) won 476
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-18-1667934959 - Holdem no limit (12/50/100) - 2022/11/08 19:15:59 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #3 is the button
+Seat 1: ko debout08 (10923)
+Seat 2: Tks4Coming (10840)
+Seat 3: l eklips l (10902)
+Seat 4: Betbepbep (9028)
+Seat 5: YL_ML_GL_42 (10811)
+Seat 6: MIKE22051977 (8036)
+*** ANTE/BLINDS ***
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+MIKE22051977 posts ante 12
+Betbepbep posts small blind 50
+YL_ML_GL_42 posts big blind 100
+Dealt to YL_ML_GL_42 [Kd Ac]
+*** PRE-FLOP *** 
+MIKE22051977 folds
+ko debout08 raises 125 to 225
+Tks4Coming folds
+l eklips l folds
+Betbepbep folds
+YL_ML_GL_42 raises 450 to 675
+ko debout08 folds
+YL_ML_GL_42 collected 1022 from pot
+*** SUMMARY ***
+Total pot 1022 | No rake
+Seat 5: YL_ML_GL_42 (big blind) won 1022
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-19-1667935070 - Holdem no limit (12/50/100) - 2022/11/08 19:17:50 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #4 is the button
+Seat 1: ko debout08 (10686)
+Seat 2: Tks4Coming (10828)
+Seat 3: l eklips l (10890)
+Seat 4: Betbepbep (8966)
+Seat 5: YL_ML_GL_42 (11146)
+Seat 6: MIKE22051977 (8024)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts small blind 50
+MIKE22051977 posts big blind 100
+Dealt to YL_ML_GL_42 [7h 4s]
+*** PRE-FLOP *** 
+ko debout08 folds
+Tks4Coming raises 150 to 250
+l eklips l folds
+Betbepbep raises 625 to 875
+YL_ML_GL_42 folds
+MIKE22051977 folds
+Tks4Coming calls 625
+*** FLOP *** [Ah 3s 2c]
+Tks4Coming checks
+Betbepbep bets 690
+Tks4Coming calls 690
+*** TURN *** [Ah 3s 2c][Kh]
+Tks4Coming checks
+Betbepbep checks
+*** RIVER *** [Ah 3s 2c Kh][3d]
+Tks4Coming bets 838
+Betbepbep calls 838
+*** SHOW DOWN ***
+Tks4Coming shows [6h 6c] (Two pairs : 6 and 3)
+Betbepbep shows [Jc Js] (Two pairs : Jacks and 3)
+Betbepbep collected 5028 from pot
+*** SUMMARY ***
+Total pot 5028 | No rake
+Board: [Ah 3s 2c Kh 3d]
+Seat 2: Tks4Coming showed [6h 6c] and lost with Two pairs : 6 and 3
+Seat 4: Betbepbep (button) showed [Jc Js] and won 5028 with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-20-1667935159 - Holdem no limit (12/50/100) - 2022/11/08 19:19:19 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #5 is the button
+Seat 1: ko debout08 (10674)
+Seat 2: Tks4Coming (8413)
+Seat 3: l eklips l (10878)
+Seat 4: Betbepbep (11579)
+Seat 5: YL_ML_GL_42 (11084)
+Seat 6: MIKE22051977 (7912)
+*** ANTE/BLINDS ***
+MIKE22051977 posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts small blind 50
+ko debout08 posts big blind 100
+Dealt to YL_ML_GL_42 [5d 7s]
+*** PRE-FLOP *** 
+Tks4Coming folds
+l eklips l folds
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 calls 50
+ko debout08 checks
+*** FLOP *** [4d Kh As]
+MIKE22051977 checks
+ko debout08 checks
+*** TURN *** [4d Kh As][6s]
+MIKE22051977 checks
+ko debout08 checks
+*** RIVER *** [4d Kh As 6s][8s]
+MIKE22051977 checks
+ko debout08 checks
+*** SHOW DOWN ***
+ko debout08 shows [2d 5h] (High card : Ace)
+MIKE22051977 shows [7h 2c] (High card : Ace)
+MIKE22051977 collected 272 from pot
+*** SUMMARY ***
+Total pot 272 | No rake
+Board: [4d Kh As 6s 8s]
+Seat 1: ko debout08 (big blind) showed [2d 5h] and lost with High card : Ace
+Seat 6: MIKE22051977 (small blind) showed [7h 2c] and won 272 with High card : Ace
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-21-1667935221 - Holdem no limit (12/50/100) - 2022/11/08 19:20:21 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #6 is the button
+Seat 1: ko debout08 (10562)
+Seat 2: Tks4Coming (8401)
+Seat 3: l eklips l (10866)
+Seat 4: Betbepbep (11567)
+Seat 5: YL_ML_GL_42 (11072)
+Seat 6: MIKE22051977 (8072)
+*** ANTE/BLINDS ***
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+ko debout08 posts small blind 50
+Tks4Coming posts big blind 100
+Dealt to YL_ML_GL_42 [4d Qh]
+*** PRE-FLOP *** 
+l eklips l folds
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 folds
+ko debout08 raises 150 to 250
+Tks4Coming calls 150
+*** FLOP *** [Qd 2c Js]
+ko debout08 bets 200
+Tks4Coming calls 200
+*** TURN *** [Qd 2c Js][Ks]
+ko debout08 checks
+Tks4Coming bets 632
+ko debout08 calls 632
+*** RIVER *** [Qd 2c Js Ks][8c]
+ko debout08 checks
+Tks4Coming bets 2236
+ko debout08 folds
+Tks4Coming collected 4472 from pot
+*** SUMMARY ***
+Total pot 4472 | No rake
+Board: [Qd 2c Js Ks 8c]
+Seat 2: Tks4Coming (big blind) won 4472
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-22-1667935273 - Holdem no limit (12/50/100) - 2022/11/08 19:21:13 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #1 is the button
+Seat 1: ko debout08 (9468)
+Seat 2: Tks4Coming (9543)
+Seat 3: l eklips l (10854)
+Seat 4: Betbepbep (11555)
+Seat 5: YL_ML_GL_42 (11060)
+Seat 6: MIKE22051977 (8060)
+*** ANTE/BLINDS ***
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+ko debout08 posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+Tks4Coming posts small blind 50
+l eklips l posts big blind 100
+Dealt to YL_ML_GL_42 [As 7c]
+*** PRE-FLOP *** 
+Betbepbep folds
+YL_ML_GL_42 raises 100 to 200
+MIKE22051977 folds
+ko debout08 folds
+Tks4Coming folds
+l eklips l folds
+YL_ML_GL_42 collected 422 from pot
+*** SUMMARY ***
+Total pot 422 | No rake
+Seat 5: YL_ML_GL_42 won 422
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-23-1667935297 - Holdem no limit (12/50/100) - 2022/11/08 19:21:37 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #2 is the button
+Seat 1: ko debout08 (9456)
+Seat 2: Tks4Coming (9481)
+Seat 3: l eklips l (10742)
+Seat 4: Betbepbep (11543)
+Seat 5: YL_ML_GL_42 (11270)
+Seat 6: MIKE22051977 (8048)
+*** ANTE/BLINDS ***
+l eklips l posts ante 12
+Betbepbep posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+l eklips l posts small blind 50
+Betbepbep posts big blind 100
+Dealt to YL_ML_GL_42 [8h Kd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+MIKE22051977 folds
+ko debout08 raises 100 to 200
+Tks4Coming folds
+l eklips l folds
+Betbepbep folds
+ko debout08 collected 422 from pot
+*** SUMMARY ***
+Total pot 422 | No rake
+Seat 1: ko debout08 won 422
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-24-1667935320 - Holdem no limit (12/50/100) - 2022/11/08 19:22:00 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #3 is the button
+Seat 1: ko debout08 (9666)
+Seat 2: Tks4Coming (9469)
+Seat 3: l eklips l (10680)
+Seat 4: Betbepbep (11431)
+Seat 5: YL_ML_GL_42 (11258)
+Seat 6: MIKE22051977 (8036)
+*** ANTE/BLINDS ***
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+MIKE22051977 posts ante 12
+Betbepbep posts small blind 50
+YL_ML_GL_42 posts big blind 100
+Dealt to YL_ML_GL_42 [8h 3s]
+*** PRE-FLOP *** 
+MIKE22051977 raises 100 to 200
+ko debout08 folds
+Tks4Coming folds
+l eklips l folds
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 collected 422 from pot
+*** SUMMARY ***
+Total pot 422 | No rake
+Seat 6: MIKE22051977 won 422
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-25-1667935339 - Holdem no limit (12/50/100) - 2022/11/08 19:22:19 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #4 is the button
+Seat 1: ko debout08 (9654)
+Seat 2: Tks4Coming (9457)
+Seat 3: l eklips l (10668)
+Seat 4: Betbepbep (11369)
+Seat 5: YL_ML_GL_42 (11146)
+Seat 6: MIKE22051977 (8246)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts small blind 50
+MIKE22051977 posts big blind 100
+Dealt to YL_ML_GL_42 [Jd 4h]
+*** PRE-FLOP *** 
+ko debout08 folds
+Tks4Coming folds
+l eklips l folds
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 collected 222 from pot
+*** SUMMARY ***
+Total pot 222 | No rake
+Seat 6: MIKE22051977 (big blind) won 222
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-26-1667935361 - Holdem no limit (12/50/100) - 2022/11/08 19:22:41 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #5 is the button
+Seat 1: ko debout08 (9642)
+Seat 2: Tks4Coming (9445)
+Seat 3: l eklips l (10656)
+Seat 4: Betbepbep (11357)
+Seat 5: YL_ML_GL_42 (11084)
+Seat 6: MIKE22051977 (8356)
+*** ANTE/BLINDS ***
+MIKE22051977 posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts small blind 50
+ko debout08 posts big blind 100
+Dealt to YL_ML_GL_42 [Kd 8s]
+*** PRE-FLOP *** 
+Tks4Coming folds
+l eklips l folds
+Betbepbep raises 150 to 250
+YL_ML_GL_42 folds
+MIKE22051977 folds
+ko debout08 folds
+Betbepbep collected 472 from pot
+*** SUMMARY ***
+Total pot 472 | No rake
+Seat 4: Betbepbep won 472
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-27-1667935405 - Holdem no limit (12/50/100) - 2022/11/08 19:23:25 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #6 is the button
+Seat 1: ko debout08 (9530)
+Seat 2: Tks4Coming (9433)
+Seat 3: l eklips l (10644)
+Seat 4: Betbepbep (11567)
+Seat 5: YL_ML_GL_42 (11072)
+Seat 6: MIKE22051977 (8294)
+*** ANTE/BLINDS ***
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+ko debout08 posts small blind 50
+Tks4Coming posts big blind 100
+Dealt to YL_ML_GL_42 [4c 5c]
+*** PRE-FLOP *** 
+l eklips l folds
+Betbepbep raises 200 to 300
+YL_ML_GL_42 folds
+MIKE22051977 folds
+ko debout08 folds
+Tks4Coming folds
+Betbepbep collected 522 from pot
+*** SUMMARY ***
+Total pot 522 | No rake
+Seat 4: Betbepbep won 522
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-28-1667935430 - Holdem no limit (12/50/100) - 2022/11/08 19:23:50 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #1 is the button
+Seat 1: ko debout08 (9468)
+Seat 2: Tks4Coming (9321)
+Seat 3: l eklips l (10632)
+Seat 4: Betbepbep (11777)
+Seat 5: YL_ML_GL_42 (11060)
+Seat 6: MIKE22051977 (8282)
+*** ANTE/BLINDS ***
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+ko debout08 posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+Tks4Coming posts small blind 50
+l eklips l posts big blind 100
+Dealt to YL_ML_GL_42 [Ts 8c]
+*** PRE-FLOP *** 
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 folds
+ko debout08 folds
+Tks4Coming folds
+l eklips l collected 222 from pot
+*** SUMMARY ***
+Total pot 222 | No rake
+Seat 3: l eklips l (big blind) won 222
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-29-1667935455 - Holdem no limit (12/50/100) - 2022/11/08 19:24:15 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #2 is the button
+Seat 1: ko debout08 (9456)
+Seat 2: Tks4Coming (9259)
+Seat 3: l eklips l (10742)
+Seat 4: Betbepbep (11765)
+Seat 5: YL_ML_GL_42 (11048)
+Seat 6: MIKE22051977 (8270)
+*** ANTE/BLINDS ***
+l eklips l posts ante 12
+Betbepbep posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+l eklips l posts small blind 50
+Betbepbep posts big blind 100
+Dealt to YL_ML_GL_42 [9s 8h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+MIKE22051977 calls 100
+ko debout08 folds
+Tks4Coming raises 350 to 450
+l eklips l folds
+Betbepbep folds
+MIKE22051977 folds
+Tks4Coming collected 772 from pot
+*** SUMMARY ***
+Total pot 772 | No rake
+Seat 2: Tks4Coming (button) won 772
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-30-1667935501 - Holdem no limit (12/50/100) - 2022/11/08 19:25:01 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #3 is the button
+Seat 1: ko debout08 (9444)
+Seat 2: Tks4Coming (9569)
+Seat 3: l eklips l (10680)
+Seat 4: Betbepbep (11653)
+Seat 5: YL_ML_GL_42 (11036)
+Seat 6: MIKE22051977 (8158)
+*** ANTE/BLINDS ***
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+MIKE22051977 posts ante 12
+Betbepbep posts small blind 50
+YL_ML_GL_42 posts big blind 100
+Dealt to YL_ML_GL_42 [3s 6c]
+*** PRE-FLOP *** 
+MIKE22051977 folds
+ko debout08 folds
+Tks4Coming folds
+l eklips l folds
+Betbepbep calls 50
+YL_ML_GL_42 checks
+*** FLOP *** [7h 4d Qd]
+Betbepbep bets 100
+YL_ML_GL_42 folds
+Betbepbep collected 372 from pot
+*** SUMMARY ***
+Total pot 372 | No rake
+Board: [7h 4d Qd]
+Seat 4: Betbepbep (small blind) won 372
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-31-1667935551 - Holdem no limit (12/50/100) - 2022/11/08 19:25:51 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #4 is the button
+Seat 1: ko debout08 (9432)
+Seat 2: Tks4Coming (9557)
+Seat 3: l eklips l (10668)
+Seat 4: Betbepbep (11813)
+Seat 5: YL_ML_GL_42 (10924)
+Seat 6: MIKE22051977 (8146)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts small blind 50
+MIKE22051977 posts big blind 100
+Dealt to YL_ML_GL_42 [Jc 3d]
+*** PRE-FLOP *** 
+ko debout08 folds
+Tks4Coming folds
+l eklips l folds
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 collected 222 from pot
+*** SUMMARY ***
+Total pot 222 | No rake
+Seat 6: MIKE22051977 (big blind) won 222
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-32-1667935584 - Holdem no limit (12/50/100) - 2022/11/08 19:26:24 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #5 is the button
+Seat 1: ko debout08 (9420)
+Seat 2: Tks4Coming (9545)
+Seat 3: l eklips l (10656)
+Seat 4: Betbepbep (11801)
+Seat 5: YL_ML_GL_42 (10862)
+Seat 6: MIKE22051977 (8256)
+*** ANTE/BLINDS ***
+MIKE22051977 posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts small blind 50
+ko debout08 posts big blind 100
+Dealt to YL_ML_GL_42 [6s Jc]
+*** PRE-FLOP *** 
+Tks4Coming folds
+l eklips l folds
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 raises 100 to 200
+ko debout08 folds
+MIKE22051977 collected 372 from pot
+*** SUMMARY ***
+Total pot 372 | No rake
+Seat 6: MIKE22051977 (small blind) won 372
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-33-1667935608 - Holdem no limit (12/50/100) - 2022/11/08 19:26:48 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #6 is the button
+Seat 1: ko debout08 (9308)
+Seat 2: Tks4Coming (9533)
+Seat 3: l eklips l (10644)
+Seat 4: Betbepbep (11789)
+Seat 5: YL_ML_GL_42 (10850)
+Seat 6: MIKE22051977 (8416)
+*** ANTE/BLINDS ***
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+ko debout08 posts small blind 50
+Tks4Coming posts big blind 100
+Dealt to YL_ML_GL_42 [9d Td]
+*** PRE-FLOP *** 
+l eklips l folds
+Betbepbep folds
+YL_ML_GL_42 raises 100 to 200
+MIKE22051977 folds
+ko debout08 folds
+Tks4Coming raises 500 to 700
+YL_ML_GL_42 folds
+Tks4Coming collected 1022 from pot
+*** SUMMARY ***
+Total pot 1022 | No rake
+Seat 2: Tks4Coming (big blind) won 1022
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-34-1667935660 - Holdem no limit (12/50/100) - 2022/11/08 19:27:40 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #1 is the button
+Seat 1: ko debout08 (9246)
+Seat 2: Tks4Coming (9843)
+Seat 3: l eklips l (10632)
+Seat 4: Betbepbep (11777)
+Seat 5: YL_ML_GL_42 (10638)
+Seat 6: MIKE22051977 (8404)
+*** ANTE/BLINDS ***
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+ko debout08 posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+Tks4Coming posts small blind 50
+l eklips l posts big blind 100
+Dealt to YL_ML_GL_42 [6h Qc]
+*** PRE-FLOP *** 
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 folds
+ko debout08 folds
+Tks4Coming folds
+l eklips l collected 222 from pot
+*** SUMMARY ***
+Total pot 222 | No rake
+Seat 3: l eklips l (big blind) won 222
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-35-1667935680 - Holdem no limit (12/50/100) - 2022/11/08 19:28:00 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #2 is the button
+Seat 1: ko debout08 (9234)
+Seat 2: Tks4Coming (9781)
+Seat 3: l eklips l (10742)
+Seat 4: Betbepbep (11765)
+Seat 5: YL_ML_GL_42 (10626)
+Seat 6: MIKE22051977 (8392)
+*** ANTE/BLINDS ***
+l eklips l posts ante 12
+Betbepbep posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+l eklips l posts small blind 50
+Betbepbep posts big blind 100
+Dealt to YL_ML_GL_42 [Kd 9d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+MIKE22051977 calls 100
+ko debout08 folds
+Tks4Coming folds
+l eklips l folds
+Betbepbep raises 250 to 350
+MIKE22051977 folds
+Betbepbep collected 572 from pot
+*** SUMMARY ***
+Total pot 572 | No rake
+Seat 4: Betbepbep (big blind) won 572
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-36-1667935752 - Holdem no limit (12/50/100) - 2022/11/08 19:29:12 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #3 is the button
+Seat 1: ko debout08 (9222)
+Seat 2: Tks4Coming (9769)
+Seat 3: l eklips l (10680)
+Seat 4: Betbepbep (11975)
+Seat 5: YL_ML_GL_42 (10614)
+Seat 6: MIKE22051977 (8280)
+*** ANTE/BLINDS ***
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+ko debout08 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+MIKE22051977 posts ante 12
+Betbepbep posts small blind 50
+YL_ML_GL_42 posts big blind 100
+Dealt to YL_ML_GL_42 [Jh 5s]
+*** PRE-FLOP *** 
+MIKE22051977 calls 100
+ko debout08 folds
+Tks4Coming folds
+l eklips l folds
+Betbepbep folds
+YL_ML_GL_42 checks
+*** FLOP *** [6c Qc Ts]
+YL_ML_GL_42 checks
+MIKE22051977 checks
+*** TURN *** [6c Qc Ts][4h]
+YL_ML_GL_42 checks
+MIKE22051977 checks
+*** RIVER *** [6c Qc Ts 4h][Ad]
+YL_ML_GL_42 checks
+MIKE22051977 bets 258
+YL_ML_GL_42 folds
+MIKE22051977 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [6c Qc Ts 4h Ad]
+Seat 6: MIKE22051977 won 580
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-37-1667935832 - Holdem no limit (12/50/100) - 2022/11/08 19:30:32 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #4 is the button
+Seat 1: p3xli3 (10000)
+Seat 2: Tks4Coming (9757)
+Seat 3: l eklips l (10668)
+Seat 4: Betbepbep (11913)
+Seat 5: YL_ML_GL_42 (10502)
+Seat 6: MIKE22051977 (8490)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+p3xli3 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts small blind 50
+MIKE22051977 posts big blind 100
+Dealt to YL_ML_GL_42 [5h 6d]
+*** PRE-FLOP *** 
+p3xli3 folds
+Tks4Coming folds
+l eklips l folds
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 collected 222 from pot
+*** SUMMARY ***
+Total pot 222 | No rake
+Seat 6: MIKE22051977 (big blind) won 222
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-38-1667935847 - Holdem no limit (12/50/100) - 2022/11/08 19:30:47 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #5 is the button
+Seat 1: p3xli3 (9988)
+Seat 2: Tks4Coming (9745)
+Seat 3: l eklips l (10656)
+Seat 4: Betbepbep (11901)
+Seat 5: YL_ML_GL_42 (10440)
+Seat 6: MIKE22051977 (8600)
+*** ANTE/BLINDS ***
+MIKE22051977 posts ante 12
+p3xli3 posts ante 12
+Tks4Coming posts ante 12
+l eklips l posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts small blind 50
+p3xli3 posts big blind 100
+Dealt to YL_ML_GL_42 [Td Qh]
+*** PRE-FLOP *** 
+Tks4Coming folds
+l eklips l folds
+Betbepbep folds
+YL_ML_GL_42 raises 150 to 250
+MIKE22051977 folds
+p3xli3 calls 150
+*** FLOP *** [7h Js Kh]
+p3xli3 checks
+YL_ML_GL_42 bets 218
+p3xli3 folds
+YL_ML_GL_42 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [7h Js Kh]
+Seat 5: YL_ML_GL_42 (button) won 840
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-39-1667935912 - Holdem no limit (12/50/100) - 2022/11/08 19:31:52 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #6 is the button
+Seat 1: p3xli3 (9726)
+Seat 2: Tks4Coming (9733)
+Seat 3: MAntonio21 (10000)
+Seat 4: Betbepbep (11889)
+Seat 5: YL_ML_GL_42 (10800)
+Seat 6: MIKE22051977 (8538)
+*** ANTE/BLINDS ***
+p3xli3 posts ante 12
+Tks4Coming posts ante 12
+MAntonio21 posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+p3xli3 posts small blind 50
+Tks4Coming posts big blind 100
+Dealt to YL_ML_GL_42 [9h Td]
+*** PRE-FLOP *** 
+MAntonio21 raises 100 to 200
+Betbepbep calls 200
+YL_ML_GL_42 folds
+MIKE22051977 folds
+p3xli3 calls 150
+Tks4Coming raises 600 to 800
+MAntonio21 folds
+Betbepbep folds
+p3xli3 folds
+Tks4Coming collected 1472 from pot
+*** SUMMARY ***
+Total pot 1472 | No rake
+Seat 2: Tks4Coming (big blind) won 1472
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-40-1667935982 - Holdem no limit (12/50/100) - 2022/11/08 19:33:02 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #1 is the button
+Seat 1: p3xli3 (9514)
+Seat 2: Tks4Coming (10393)
+Seat 3: MAntonio21 (9788)
+Seat 4: Betbepbep (11677)
+Seat 5: YL_ML_GL_42 (10788)
+Seat 6: MIKE22051977 (8526)
+*** ANTE/BLINDS ***
+Tks4Coming posts ante 12
+MAntonio21 posts ante 12
+p3xli3 posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+Tks4Coming posts small blind 50
+MAntonio21 posts big blind 100
+Dealt to YL_ML_GL_42 [Kd 3s]
+*** PRE-FLOP *** 
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 calls 100
+p3xli3 folds
+Tks4Coming folds
+MAntonio21 checks
+*** FLOP *** [Td 7s 6c]
+MAntonio21 checks
+MIKE22051977 bets 209
+MAntonio21 folds
+MIKE22051977 collected 531 from pot
+*** SUMMARY ***
+Total pot 531 | No rake
+Board: [Td 7s 6c]
+Seat 6: MIKE22051977 won 531
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-41-1667936022 - Holdem no limit (12/50/100) - 2022/11/08 19:33:42 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #2 is the button
+Seat 1: p3xli3 (9502)
+Seat 2: Tks4Coming (10331)
+Seat 3: MAntonio21 (9676)
+Seat 4: Betbepbep (11665)
+Seat 5: YL_ML_GL_42 (10776)
+Seat 6: MIKE22051977 (8736)
+*** ANTE/BLINDS ***
+MAntonio21 posts ante 12
+Betbepbep posts ante 12
+p3xli3 posts ante 12
+Tks4Coming posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+MAntonio21 posts small blind 50
+Betbepbep posts big blind 100
+Dealt to YL_ML_GL_42 [5s 7s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+MIKE22051977 raises 100 to 200
+p3xli3 calls 200
+Tks4Coming folds
+MAntonio21 folds
+Betbepbep folds
+*** FLOP *** [Ts 2d 2h]
+MIKE22051977 checks
+p3xli3 checks
+*** TURN *** [Ts 2d 2h][8h]
+MIKE22051977 checks
+p3xli3 checks
+*** RIVER *** [Ts 2d 2h 8h][Kh]
+MIKE22051977 checks
+p3xli3 checks
+*** SHOW DOWN ***
+MIKE22051977 shows [Jc Qh] (One pair : 2)
+p3xli3 shows [As 5d] (One pair : 2)
+p3xli3 collected 622 from pot
+*** SUMMARY ***
+Total pot 622 | No rake
+Board: [Ts 2d 2h 8h Kh]
+Seat 1: p3xli3 showed [As 5d] and won 622 with One pair : 2
+Seat 6: MIKE22051977 showed [Jc Qh] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-42-1667936090 - Holdem no limit (12/50/100) - 2022/11/08 19:34:50 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #3 is the button
+Seat 1: p3xli3 (9912)
+Seat 2: Tks4Coming (10319)
+Seat 3: MAntonio21 (9614)
+Seat 4: Betbepbep (11553)
+Seat 5: YL_ML_GL_42 (10764)
+Seat 6: MIKE22051977 (8524)
+*** ANTE/BLINDS ***
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+p3xli3 posts ante 12
+Tks4Coming posts ante 12
+MAntonio21 posts ante 12
+MIKE22051977 posts ante 12
+Betbepbep posts small blind 50
+YL_ML_GL_42 posts big blind 100
+Dealt to YL_ML_GL_42 [4c Ts]
+*** PRE-FLOP *** 
+MIKE22051977 folds
+p3xli3 calls 100
+Tks4Coming folds
+MAntonio21 raises 250 to 350
+Betbepbep folds
+YL_ML_GL_42 folds
+p3xli3 calls 250
+*** FLOP *** [8c Tc 8s]
+p3xli3 checks
+MAntonio21 checks
+*** TURN *** [8c Tc 8s][9c]
+p3xli3 checks
+MAntonio21 checks
+*** RIVER *** [8c Tc 8s 9c][Qh]
+p3xli3 checks
+MAntonio21 bets 600
+p3xli3 calls 600
+*** SHOW DOWN ***
+MAntonio21 shows [3d Ad] (One pair : 8)
+p3xli3 shows [Ks 9s] (Two pairs : 9 and 8)
+p3xli3 collected 2122 from pot
+*** SUMMARY ***
+Total pot 2122 | No rake
+Board: [8c Tc 8s 9c Qh]
+Seat 1: p3xli3 showed [Ks 9s] and won 2122 with Two pairs : 9 and 8
+Seat 3: MAntonio21 (button) showed [3d Ad] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-43-1667936131 - Holdem no limit (12/50/100) - 2022/11/08 19:35:31 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #4 is the button
+Seat 1: p3xli3 (11072)
+Seat 2: Tks4Coming (10307)
+Seat 3: MAntonio21 (8652)
+Seat 4: Betbepbep (11491)
+Seat 5: YL_ML_GL_42 (10652)
+Seat 6: MIKE22051977 (8512)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+p3xli3 posts ante 12
+Tks4Coming posts ante 12
+MAntonio21 posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts small blind 50
+MIKE22051977 posts big blind 100
+Dealt to YL_ML_GL_42 [9s Ks]
+*** PRE-FLOP *** 
+p3xli3 folds
+Tks4Coming folds
+MAntonio21 raises 100 to 200
+Betbepbep raises 600 to 800
+YL_ML_GL_42 folds
+MIKE22051977 calls 700
+MAntonio21 calls 600
+*** FLOP *** [As 9d Qc]
+MIKE22051977 checks
+MAntonio21 checks
+Betbepbep checks
+*** TURN *** [As 9d Qc][4h]
+MIKE22051977 checks
+MAntonio21 checks
+Betbepbep bets 883
+MIKE22051977 folds
+MAntonio21 calls 883
+*** RIVER *** [As 9d Qc 4h][8d]
+MAntonio21 checks
+Betbepbep checks
+*** SHOW DOWN ***
+Betbepbep shows [Td Ts] (One pair : Tens)
+MAntonio21 shows [7d Ad] (One pair : Aces)
+MAntonio21 collected 4288 from pot
+*** SUMMARY ***
+Total pot 4288 | No rake
+Board: [As 9d Qc 4h 8d]
+Seat 3: MAntonio21 showed [7d Ad] and won 4288 with One pair : Aces
+Seat 4: Betbepbep (button) showed [Td Ts] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-44-1667936248 - Holdem no limit (12/50/100) - 2022/11/08 19:37:28 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #5 is the button
+Seat 1: p3xli3 (11060)
+Seat 3: MAntonio21 (11245)
+Seat 4: Betbepbep (9796)
+Seat 5: YL_ML_GL_42 (10590)
+Seat 6: MIKE22051977 (7700)
+*** ANTE/BLINDS ***
+MIKE22051977 posts ante 12
+p3xli3 posts ante 12
+MAntonio21 posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts small blind 50
+p3xli3 posts big blind 100
+Dealt to YL_ML_GL_42 [6d Th]
+*** PRE-FLOP *** 
+MAntonio21 folds
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 calls 50
+p3xli3 checks
+*** FLOP *** [4h 4d Ts]
+MIKE22051977 checks
+p3xli3 checks
+*** TURN *** [4h 4d Ts][Qs]
+MIKE22051977 checks
+p3xli3 checks
+*** RIVER *** [4h 4d Ts Qs][3s]
+MIKE22051977 checks
+p3xli3 checks
+*** SHOW DOWN ***
+MIKE22051977 shows [6s Jd] (One pair : 4)
+p3xli3 shows [3c Js] (Two pairs : 4 and 3)
+p3xli3 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [4h 4d Ts Qs 3s]
+Seat 1: p3xli3 (big blind) showed [3c Js] and won 260 with Two pairs : 4 and 3
+Seat 6: MIKE22051977 (small blind) showed [6s Jd] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-45-1667936286 - Holdem no limit (12/50/100) - 2022/11/08 19:38:06 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #6 is the button
+Seat 1: p3xli3 (11208)
+Seat 2: Thourie35134 (10000)
+Seat 3: MAntonio21 (11233)
+Seat 4: Betbepbep (9784)
+Seat 5: YL_ML_GL_42 (10578)
+Seat 6: MIKE22051977 (7588)
+*** ANTE/BLINDS ***
+p3xli3 posts ante 12
+Thourie35134 posts ante 12
+MAntonio21 posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+p3xli3 posts small blind 50
+Thourie35134 posts big blind 100
+Dealt to YL_ML_GL_42 [Ks 7c]
+*** PRE-FLOP *** 
+MAntonio21 folds
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 folds
+p3xli3 calls 50
+Thourie35134 raises 272 to 372
+p3xli3 calls 272
+*** FLOP *** [6c Qh Ad]
+p3xli3 checks
+Thourie35134 bets 816
+p3xli3 folds
+Thourie35134 collected 1632 from pot
+*** SUMMARY ***
+Total pot 1632 | No rake
+Board: [6c Qh Ad]
+Seat 2: Thourie35134 (big blind) won 1632
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-46-1667936311 - Holdem no limit (12/50/100) - 2022/11/08 19:38:31 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #1 is the button
+Seat 1: p3xli3 (10824)
+Seat 2: Thourie35134 (10432)
+Seat 3: MAntonio21 (11221)
+Seat 4: Betbepbep (9772)
+Seat 5: YL_ML_GL_42 (10566)
+Seat 6: MIKE22051977 (7576)
+*** ANTE/BLINDS ***
+Thourie35134 posts ante 12
+MAntonio21 posts ante 12
+p3xli3 posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+Thourie35134 posts small blind 50
+MAntonio21 posts big blind 100
+Dealt to YL_ML_GL_42 [3s 4s]
+*** PRE-FLOP *** 
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 raises 100 to 200
+p3xli3 calls 200
+Thourie35134 calls 150
+MAntonio21 calls 100
+*** FLOP *** [7c 5c 2d]
+Thourie35134 bets 305
+MAntonio21 folds
+MIKE22051977 calls 305
+p3xli3 calls 305
+*** TURN *** [7c 5c 2d][Td]
+Thourie35134 bets 1162
+MIKE22051977 calls 1162
+p3xli3 folds
+*** RIVER *** [7c 5c 2d Td][Ad]
+Thourie35134 bets 8753 and is all-in
+MIKE22051977 calls 5897 and is all-in
+*** SHOW DOWN ***
+Thourie35134 shows [3d Jc] (High card : Ace)
+MIKE22051977 shows [5d 6d] (Flush Ace high)
+MIKE22051977 collected 15905 from main pot
+Thourie35134 collected 2856 from side pot 1
+*** SUMMARY ***
+Total pot 18761 | No rake
+Board: [7c 5c 2d Td Ad]
+Seat 2: Thourie35134 (small blind) showed [3d Jc] and won 2856 with High card : Ace
+Seat 6: MIKE22051977 showed [5d 6d] and won 15905 with Flush Ace high
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-47-1667936405 - Holdem no limit (12/50/100) - 2022/11/08 19:40:05 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #2 is the button
+Seat 1: p3xli3 (10307)
+Seat 2: Thourie35134 (2856)
+Seat 3: MAntonio21 (11009)
+Seat 4: Betbepbep (9760)
+Seat 5: YL_ML_GL_42 (10554)
+Seat 6: MIKE22051977 (15905)
+*** ANTE/BLINDS ***
+MAntonio21 posts ante 12
+Betbepbep posts ante 12
+p3xli3 posts ante 12
+Thourie35134 posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+MAntonio21 posts small blind 50
+Betbepbep posts big blind 100
+Dealt to YL_ML_GL_42 [3h 8d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+MIKE22051977 folds
+p3xli3 calls 100
+Thourie35134 raises 2744 to 2844 and is all-in
+MAntonio21 folds
+Betbepbep folds
+p3xli3 folds
+Thourie35134 collected 3166 from pot
+*** SUMMARY ***
+Total pot 3166 | No rake
+Seat 2: Thourie35134 (button) won 3166
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-48-1667936437 - Holdem no limit (12/50/100) - 2022/11/08 19:40:37 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #3 is the button
+Seat 1: p3xli3 (10195)
+Seat 2: Thourie35134 (3166)
+Seat 3: MAntonio21 (10947)
+Seat 4: Betbepbep (9648)
+Seat 5: YL_ML_GL_42 (10542)
+Seat 6: MIKE22051977 (15893)
+*** ANTE/BLINDS ***
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+p3xli3 posts ante 12
+Thourie35134 posts ante 12
+MAntonio21 posts ante 12
+MIKE22051977 posts ante 12
+Betbepbep posts small blind 50
+YL_ML_GL_42 posts big blind 100
+Dealt to YL_ML_GL_42 [3c Ks]
+*** PRE-FLOP *** 
+MIKE22051977 raises 100 to 200
+p3xli3 calls 200
+Thourie35134 folds
+MAntonio21 folds
+Betbepbep folds
+YL_ML_GL_42 folds
+*** FLOP *** [Kh Tc Td]
+MIKE22051977 checks
+p3xli3 checks
+*** TURN *** [Kh Tc Td][4s]
+MIKE22051977 checks
+p3xli3 checks
+*** RIVER *** [Kh Tc Td 4s][7c]
+MIKE22051977 checks
+p3xli3 checks
+*** SHOW DOWN ***
+MIKE22051977 shows [5c 6c] (One pair : Tens)
+p3xli3 shows [Qc 8c] (One pair : Tens)
+p3xli3 collected 622 from pot
+*** SUMMARY ***
+Total pot 622 | No rake
+Board: [Kh Tc Td 4s 7c]
+Seat 1: p3xli3 showed [Qc 8c] and won 622 with One pair : Tens
+Seat 6: MIKE22051977 showed [5c 6c] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-49-1667936507 - Holdem no limit (12/50/100) - 2022/11/08 19:41:47 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #4 is the button
+Seat 1: p3xli3 (10605)
+Seat 2: Thourie35134 (3154)
+Seat 3: MAntonio21 (10935)
+Seat 4: Betbepbep (9586)
+Seat 5: YL_ML_GL_42 (10430)
+Seat 6: MIKE22051977 (15681)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+p3xli3 posts ante 12
+Thourie35134 posts ante 12
+MAntonio21 posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts small blind 50
+MIKE22051977 posts big blind 100
+Dealt to YL_ML_GL_42 [Jc 7h]
+*** PRE-FLOP *** 
+p3xli3 folds
+Thourie35134 folds
+MAntonio21 raises 100 to 200
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 folds
+MAntonio21 collected 422 from pot
+*** SUMMARY ***
+Total pot 422 | No rake
+Seat 3: MAntonio21 won 422
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-50-1667936582 - Holdem no limit (12/50/100) - 2022/11/08 19:43:02 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #5 is the button
+Seat 1: p3xli3 (10593)
+Seat 2: Thourie35134 (3142)
+Seat 3: MAntonio21 (11145)
+Seat 4: Betbepbep (9574)
+Seat 5: YL_ML_GL_42 (10368)
+Seat 6: MIKE22051977 (15569)
+*** ANTE/BLINDS ***
+MIKE22051977 posts ante 12
+p3xli3 posts ante 12
+Thourie35134 posts ante 12
+MAntonio21 posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts small blind 50
+p3xli3 posts big blind 100
+Dealt to YL_ML_GL_42 [7h 2c]
+*** PRE-FLOP *** 
+Thourie35134 folds
+MAntonio21 raises 100 to 200
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 folds
+p3xli3 folds
+MAntonio21 collected 422 from pot
+*** SUMMARY ***
+Total pot 422 | No rake
+Seat 3: MAntonio21 won 422
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-51-1667936619 - Holdem no limit (12/50/100) - 2022/11/08 19:43:39 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #6 is the button
+Seat 1: p3xli3 (10481)
+Seat 2: Thourie35134 (3130)
+Seat 3: MAntonio21 (11355)
+Seat 4: Betbepbep (9562)
+Seat 5: YL_ML_GL_42 (10356)
+Seat 6: MIKE22051977 (15507)
+*** ANTE/BLINDS ***
+p3xli3 posts ante 12
+Thourie35134 posts ante 12
+MAntonio21 posts ante 12
+Betbepbep posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+p3xli3 posts small blind 50
+Thourie35134 posts big blind 100
+Dealt to YL_ML_GL_42 [8c 2c]
+*** PRE-FLOP *** 
+MAntonio21 folds
+Betbepbep folds
+YL_ML_GL_42 folds
+MIKE22051977 folds
+p3xli3 raises 200 to 300
+Thourie35134 calls 200
+*** FLOP *** [Qh 9h Jd]
+p3xli3 bets 500
+Thourie35134 folds
+p3xli3 collected 1172 from pot
+*** SUMMARY ***
+Total pot 1172 | No rake
+Board: [Qh 9h Jd]
+Seat 1: p3xli3 (small blind) won 1172
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2561887622003687475-52-1667936681 - Holdem no limit (12/50/100) - 2022/11/08 19:44:41 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485944)#0050' 6-max (real money) Seat #1 is the button
+Seat 1: p3xli3 (10841)
+Seat 2: Thourie35134 (2818)
+Seat 3: MAntonio21 (11343)
+Seat 5: YL_ML_GL_42 (10344)
+Seat 6: MIKE22051977 (15495)
+*** ANTE/BLINDS ***
+Thourie35134 posts ante 12
+MAntonio21 posts ante 12
+p3xli3 posts ante 12
+YL_ML_GL_42 posts ante 12
+MIKE22051977 posts ante 12
+Thourie35134 posts small blind 50
+MAntonio21 posts big blind 100
+Dealt to YL_ML_GL_42 [Th Ad]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 100 to 200
+MIKE22051977 folds
+p3xli3 calls 200
+Thourie35134 calls 150
+MAntonio21 raises 900 to 1100
+YL_ML_GL_42 raises 9232 to 10332 and is all-in
+p3xli3 folds
+Thourie35134 calls 2606 and is all-in
+MAntonio21 raises 999 to 11331 and is all-in
+*** FLOP *** [4c 3s 5c]
+*** TURN *** [4c 3s 5c][7c]
+*** RIVER *** [4c 3s 5c 7c][3d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Th Ad] (One pair : 3)
+Thourie35134 shows [3h Jc] (Trips of 3)
+MAntonio21 shows [Ac Ah] (Two pairs : Aces and 3)
+MAntonio21 collected 16051 from side pot 1
+Thourie35134 collected 8678 from main pot
+*** SUMMARY ***
+Total pot 24729 | No rake
+Board: [4c 3s 5c 7c 3d]
+Seat 2: Thourie35134 (small blind) showed [3h Jc] and won 8678 with Trips of 3
+Seat 3: MAntonio21 (big blind) showed [Ac Ah] and won 16051 with Two pairs : Aces and 3
+Seat 5: YL_ML_GL_42 showed [Th Ad] and lost with One pair : 3
+
+

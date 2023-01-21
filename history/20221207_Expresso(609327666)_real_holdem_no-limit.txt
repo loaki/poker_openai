@@ -1,0 +1,688 @@
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2617042398018011137-1-1670427522 - Holdem no limit (10/20) - 2022/12/07 15:38:42 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: Septa doctor (500)
+Seat 3: GYPSY QUENN (500)
+*** ANTE/BLINDS ***
+Septa doctor posts small blind 10
+GYPSY QUENN posts big blind 20
+Dealt to YL_ML_GL_42 [7c 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Septa doctor calls 10
+GYPSY QUENN checks
+*** FLOP *** [6d As Qd]
+Septa doctor bets 20
+GYPSY QUENN folds
+Septa doctor collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [6d As Qd]
+Seat 2: Septa doctor (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2617042398018011137-2-1670427538 - Holdem no limit (10/20) - 2022/12/07 15:38:58 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: Septa doctor (520)
+Seat 3: GYPSY QUENN (480)
+*** ANTE/BLINDS ***
+GYPSY QUENN posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [8h Td]
+*** PRE-FLOP *** 
+Septa doctor folds
+GYPSY QUENN folds
+YL_ML_GL_42 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2617042398018011137-3-1670427543 - Holdem no limit (10/20) - 2022/12/07 15:39:03 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (510)
+Seat 2: Septa doctor (520)
+Seat 3: GYPSY QUENN (470)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Septa doctor posts big blind 20
+Dealt to YL_ML_GL_42 [7s 3s]
+*** PRE-FLOP *** 
+GYPSY QUENN calls 20
+YL_ML_GL_42 folds
+Septa doctor checks
+*** FLOP *** [8c 2c 6d]
+Septa doctor checks
+GYPSY QUENN bets 38
+Septa doctor folds
+GYPSY QUENN collected 88 from pot
+*** SUMMARY ***
+Total pot 88 | No rake
+Board: [8c 2c 6d]
+Seat 3: GYPSY QUENN (button) won 88
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2617042398018011137-4-1670427558 - Holdem no limit (10/20) - 2022/12/07 15:39:18 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: Septa doctor (500)
+Seat 3: GYPSY QUENN (500)
+*** ANTE/BLINDS ***
+Septa doctor posts small blind 10
+GYPSY QUENN posts big blind 20
+Dealt to YL_ML_GL_42 [6h Qd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Septa doctor raises 30 to 50
+GYPSY QUENN calls 30
+*** FLOP *** [4d 6c Ad]
+Septa doctor bets 35
+GYPSY QUENN calls 35
+*** TURN *** [4d 6c Ad][9h]
+Septa doctor bets 112
+GYPSY QUENN folds
+Septa doctor collected 282 from pot
+*** SUMMARY ***
+Total pot 282 | No rake
+Board: [4d 6c Ad 9h]
+Seat 2: Septa doctor (small blind) won 282
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2617042398018011137-5-1670427577 - Holdem no limit (10/20) - 2022/12/07 15:39:37 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: Septa doctor (585)
+Seat 3: GYPSY QUENN (415)
+*** ANTE/BLINDS ***
+GYPSY QUENN posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [5h Tc]
+*** PRE-FLOP *** 
+Septa doctor raises 20 to 40
+GYPSY QUENN calls 30
+YL_ML_GL_42 calls 20
+*** FLOP *** [Kd 5d 8s]
+GYPSY QUENN checks
+YL_ML_GL_42 checks
+Septa doctor bets 42
+GYPSY QUENN raises 81 to 123
+YL_ML_GL_42 folds
+Septa doctor raises 422 to 545 and is all-in
+GYPSY QUENN calls 252 and is all-in
+*** TURN *** [Kd 5d 8s][6s]
+*** RIVER *** [Kd 5d 8s 6s][9h]
+*** SHOW DOWN ***
+GYPSY QUENN shows [Td Kc] (One pair : Kings)
+Septa doctor shows [7d 9d] (Straight 9 high)
+Septa doctor collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [Kd 5d 8s 6s 9h]
+Seat 2: Septa doctor (button) showed [7d 9d] and won 1040 with Straight 9 high
+Seat 3: GYPSY QUENN (small blind) showed [Td Kc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2617042398018011137-6-1670427604 - Holdem no limit (10/20) - 2022/12/07 15:40:04 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (460)
+Seat 2: Septa doctor (1040)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Septa doctor posts big blind 20
+Dealt to YL_ML_GL_42 [4c As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 40 to 60
+Septa doctor folds
+YL_ML_GL_42 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2617042398018011137-7-1670427610 - Holdem no limit (15/30) - 2022/12/07 15:40:10 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (480)
+Seat 2: Septa doctor (1020)
+*** ANTE/BLINDS ***
+Septa doctor posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Qc 7h]
+*** PRE-FLOP *** 
+Septa doctor raises 30 to 60
+YL_ML_GL_42 calls 30
+*** FLOP *** [8c 4c 3h]
+YL_ML_GL_42 bets 120
+Septa doctor folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8c 4c 3h]
+Seat 1: YL_ML_GL_42 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2617042398018011137-8-1670427623 - Holdem no limit (15/30) - 2022/12/07 15:40:23 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (540)
+Seat 2: Septa doctor (960)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Septa doctor posts big blind 30
+Dealt to YL_ML_GL_42 [Kd Kh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 15
+Septa doctor checks
+*** FLOP *** [9h 2c 7c]
+Septa doctor checks
+YL_ML_GL_42 checks
+*** TURN *** [9h 2c 7c][8d]
+Septa doctor bets 40
+YL_ML_GL_42 raises 104 to 144
+Septa doctor folds
+YL_ML_GL_42 collected 244 from pot
+*** SUMMARY ***
+Total pot 244 | No rake
+Board: [9h 2c 7c 8d]
+Seat 1: YL_ML_GL_42 (small blind) (button) won 244
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2617042398018011137-9-1670427649 - Holdem no limit (15/30) - 2022/12/07 15:40:49 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (610)
+Seat 2: Septa doctor (890)
+*** ANTE/BLINDS ***
+Septa doctor posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [6d Ks]
+*** PRE-FLOP *** 
+Septa doctor calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [9s 4s 3h]
+YL_ML_GL_42 checks
+Septa doctor bets 30
+YL_ML_GL_42 folds
+Septa doctor collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [9s 4s 3h]
+Seat 2: Septa doctor (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2617042398018011137-10-1670427664 - Holdem no limit (15/30) - 2022/12/07 15:41:04 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (580)
+Seat 2: Septa doctor (920)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Septa doctor posts big blind 30
+Dealt to YL_ML_GL_42 [Ad 3s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+Septa doctor folds
+YL_ML_GL_42 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2617042398018011137-11-1670427670 - Holdem no limit (15/30) - 2022/12/07 15:41:10 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (610)
+Seat 2: Septa doctor (890)
+*** ANTE/BLINDS ***
+Septa doctor posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Qc 2h]
+*** PRE-FLOP *** 
+Septa doctor raises 30 to 60
+YL_ML_GL_42 folds
+Septa doctor collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Septa doctor (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2617042398018011137-12-1670427677 - Holdem no limit (15/30) - 2022/12/07 15:41:17 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (580)
+Seat 2: Septa doctor (920)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Septa doctor posts big blind 30
+Dealt to YL_ML_GL_42 [2s Qd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Septa doctor collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Septa doctor (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 2 - HandId: #2617042398018011137-13-1670427681 - Holdem no limit (15/30) - 2022/12/07 15:41:21 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (565)
+Seat 2: Septa doctor (935)
+*** ANTE/BLINDS ***
+Septa doctor posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [8d Jc]
+*** PRE-FLOP *** 
+Septa doctor raises 30 to 60
+YL_ML_GL_42 calls 30
+*** FLOP *** [Td 2s Kc]
+YL_ML_GL_42 bets 96
+Septa doctor folds
+YL_ML_GL_42 collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | No rake
+Board: [Td 2s Kc]
+Seat 1: YL_ML_GL_42 (big blind) won 216
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 3 - HandId: #2617042398018011137-14-1670427719 - Holdem no limit (20/40) - 2022/12/07 15:41:59 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (625)
+Seat 2: Septa doctor (875)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Septa doctor posts big blind 40
+Dealt to YL_ML_GL_42 [9s 4s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+Septa doctor calls 80
+*** FLOP *** [Jh Jc Th]
+Septa doctor checks
+YL_ML_GL_42 checks
+*** TURN *** [Jh Jc Th][3c]
+Septa doctor bets 40
+YL_ML_GL_42 folds
+Septa doctor collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Jh Jc Th 3c]
+Seat 2: Septa doctor (big blind) won 280
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 3 - HandId: #2617042398018011137-15-1670427736 - Holdem no limit (20/40) - 2022/12/07 15:42:16 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (505)
+Seat 2: Septa doctor (995)
+*** ANTE/BLINDS ***
+Septa doctor posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Th Qc]
+*** PRE-FLOP *** 
+Septa doctor calls 20
+YL_ML_GL_42 raises 80 to 120
+Septa doctor folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 3 - HandId: #2617042398018011137-16-1670427743 - Holdem no limit (20/40) - 2022/12/07 15:42:23 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (545)
+Seat 2: Septa doctor (955)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Septa doctor posts big blind 40
+Dealt to YL_ML_GL_42 [4c Th]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Septa doctor collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Septa doctor (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 3 - HandId: #2617042398018011137-17-1670427748 - Holdem no limit (20/40) - 2022/12/07 15:42:28 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (525)
+Seat 2: Septa doctor (975)
+*** ANTE/BLINDS ***
+Septa doctor posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [As Tc]
+*** PRE-FLOP *** 
+Septa doctor raises 935 to 975 and is all-in
+YL_ML_GL_42 calls 485 and is all-in
+*** FLOP *** [Jh 4s Qs]
+*** TURN *** [Jh 4s Qs][5h]
+*** RIVER *** [Jh 4s Qs 5h][Qc]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [As Tc] (One pair : Queens)
+Septa doctor shows [Ad Th] (One pair : Queens)
+Septa doctor collected 975 from side pot 1
+YL_ML_GL_42 collected 525 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Jh 4s Qs 5h Qc]
+Seat 1: YL_ML_GL_42 (big blind) showed [As Tc] and won 525 with One pair : Queens
+Seat 2: Septa doctor (small blind) (button) showed [Ad Th] and won 975 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 3 - HandId: #2617042398018011137-18-1670427760 - Holdem no limit (20/40) - 2022/12/07 15:42:40 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (525)
+Seat 2: Septa doctor (975)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Septa doctor posts big blind 40
+Dealt to YL_ML_GL_42 [Ad 2d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+Septa doctor folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 3 - HandId: #2617042398018011137-19-1670427767 - Holdem no limit (20/40) - 2022/12/07 15:42:47 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (565)
+Seat 2: Septa doctor (935)
+*** ANTE/BLINDS ***
+Septa doctor posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [5d 6c]
+*** PRE-FLOP *** 
+Septa doctor raises 40 to 80
+YL_ML_GL_42 folds
+Septa doctor collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Septa doctor (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 3 - HandId: #2617042398018011137-20-1670427773 - Holdem no limit (20/40) - 2022/12/07 15:42:53 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (525)
+Seat 2: Septa doctor (975)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Septa doctor posts big blind 40
+Dealt to YL_ML_GL_42 [7h 8d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Septa doctor collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Septa doctor (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 3 - HandId: #2617042398018011137-21-1670427776 - Holdem no limit (20/40) - 2022/12/07 15:42:56 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (505)
+Seat 2: Septa doctor (995)
+*** ANTE/BLINDS ***
+Septa doctor posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Js Ah]
+*** PRE-FLOP *** 
+Septa doctor raises 40 to 80
+YL_ML_GL_42 raises 160 to 240
+Septa doctor folds
+YL_ML_GL_42 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 3 - HandId: #2617042398018011137-22-1670427785 - Holdem no limit (20/40) - 2022/12/07 15:43:05 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (585)
+Seat 2: Septa doctor (915)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Septa doctor posts big blind 40
+Dealt to YL_ML_GL_42 [4s 6c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Septa doctor collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Septa doctor (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 4 - HandId: #2617042398018011137-23-1670427789 - Holdem no limit (30/60) - 2022/12/07 15:43:09 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (565)
+Seat 2: Septa doctor (935)
+*** ANTE/BLINDS ***
+Septa doctor posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [7s 4d]
+*** PRE-FLOP *** 
+Septa doctor calls 30
+YL_ML_GL_42 checks
+*** FLOP *** [6d Ts 4h]
+YL_ML_GL_42 bets 505 and is all-in
+Septa doctor folds
+YL_ML_GL_42 collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | No rake
+Board: [6d Ts 4h]
+Seat 1: YL_ML_GL_42 (big blind) won 625
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 4 - HandId: #2617042398018011137-24-1670427803 - Holdem no limit (30/60) - 2022/12/07 15:43:23 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (625)
+Seat 2: Septa doctor (875)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+Septa doctor posts big blind 60
+Dealt to YL_ML_GL_42 [2d 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 120 to 180
+Septa doctor folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 4 - HandId: #2617042398018011137-25-1670427810 - Holdem no limit (30/60) - 2022/12/07 15:43:30 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (685)
+Seat 2: Septa doctor (815)
+*** ANTE/BLINDS ***
+Septa doctor posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [Jd 9c]
+*** PRE-FLOP *** 
+Septa doctor calls 30
+YL_ML_GL_42 raises 625 to 685 and is all-in
+Septa doctor folds
+YL_ML_GL_42 collected 745 from pot
+*** SUMMARY ***
+Total pot 745 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 745
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 4 - HandId: #2617042398018011137-26-1670427818 - Holdem no limit (30/60) - 2022/12/07 15:43:38 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (745)
+Seat 2: Septa doctor (755)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+Septa doctor posts big blind 60
+Dealt to YL_ML_GL_42 [4h Td]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 30
+Septa doctor raises 695 to 755 and is all-in
+YL_ML_GL_42 folds
+Septa doctor collected 815 from pot
+*** SUMMARY ***
+Total pot 815 | No rake
+Seat 2: Septa doctor (big blind) won 815
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 4 - HandId: #2617042398018011137-27-1670427826 - Holdem no limit (30/60) - 2022/12/07 15:43:46 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (685)
+Seat 2: Septa doctor (815)
+*** ANTE/BLINDS ***
+Septa doctor posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [Qs 9h]
+*** PRE-FLOP *** 
+Septa doctor raises 755 to 815 and is all-in
+YL_ML_GL_42 folds
+Septa doctor collected 875 from pot
+*** SUMMARY ***
+Total pot 875 | No rake
+Seat 2: Septa doctor (small blind) (button) won 875
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 4 - HandId: #2617042398018011137-28-1670427838 - Holdem no limit (30/60) - 2022/12/07 15:43:58 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (625)
+Seat 2: Septa doctor (875)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+Septa doctor posts big blind 60
+Dealt to YL_ML_GL_42 [7s 9s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 120 to 180
+Septa doctor folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 4 - HandId: #2617042398018011137-29-1670427845 - Holdem no limit (30/60) - 2022/12/07 15:44:05 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (685)
+Seat 2: Septa doctor (815)
+*** ANTE/BLINDS ***
+Septa doctor posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [Qd 4s]
+*** PRE-FLOP *** 
+Septa doctor calls 30
+YL_ML_GL_42 checks
+*** FLOP *** [6d 2c 8d]
+YL_ML_GL_42 checks
+Septa doctor bets 60
+YL_ML_GL_42 folds
+Septa doctor collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [6d 2c 8d]
+Seat 2: Septa doctor (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 4 - HandId: #2617042398018011137-30-1670427859 - Holdem no limit (30/60) - 2022/12/07 15:44:19 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (625)
+Seat 2: Septa doctor (875)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+Septa doctor posts big blind 60
+Dealt to YL_ML_GL_42 [3d 8c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Septa doctor collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Septa doctor (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 4 - HandId: #2617042398018011137-31-1670427864 - Holdem no limit (30/60) - 2022/12/07 15:44:24 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (595)
+Seat 2: Septa doctor (905)
+*** ANTE/BLINDS ***
+Septa doctor posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [Kc Th]
+*** PRE-FLOP *** 
+Septa doctor calls 30
+YL_ML_GL_42 raises 535 to 595 and is all-in
+Septa doctor folds
+YL_ML_GL_42 collected 655 from pot
+*** SUMMARY ***
+Total pot 655 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 655
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 4 - HandId: #2617042398018011137-32-1670427874 - Holdem no limit (30/60) - 2022/12/07 15:44:34 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (655)
+Seat 2: Septa doctor (845)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+Septa doctor posts big blind 60
+Dealt to YL_ML_GL_42 [Jd Jh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 595 to 655 and is all-in
+Septa doctor calls 595
+*** FLOP *** [7d Td Th]
+*** TURN *** [7d Td Th][Jc]
+*** RIVER *** [7d Td Th Jc][9d]
+*** SHOW DOWN ***
+Septa doctor shows [7h Ah] (Two pairs : Tens and 7)
+YL_ML_GL_42 shows [Jd Jh] (Full of Jacks and Tens)
+YL_ML_GL_42 collected 1310 from pot
+*** SUMMARY ***
+Total pot 1310 | No rake
+Board: [7d Td Th Jc 9d]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [Jd Jh] and won 1310 with Full of Jacks and Tens
+Seat 2: Septa doctor (big blind) showed [7h Ah] and lost with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 5 - HandId: #2617042398018011137-33-1670427887 - Holdem no limit (40/80) - 2022/12/07 15:44:47 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1310)
+Seat 2: Septa doctor (190)
+*** ANTE/BLINDS ***
+Septa doctor posts small blind 40
+YL_ML_GL_42 posts big blind 80
+Dealt to YL_ML_GL_42 [9h 7h]
+*** PRE-FLOP *** 
+Septa doctor raises 110 to 190 and is all-in
+YL_ML_GL_42 calls 110
+*** FLOP *** [Jd 3c 6d]
+*** TURN *** [Jd 3c 6d][8h]
+*** RIVER *** [Jd 3c 6d 8h][Ac]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9h 7h] (High card : Ace)
+Septa doctor shows [Ks 3d] (One pair : 3)
+Septa doctor collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [Jd 3c 6d 8h Ac]
+Seat 1: YL_ML_GL_42 (big blind) showed [9h 7h] and lost with High card : Ace
+Seat 2: Septa doctor (small blind) (button) showed [Ks 3d] and won 380 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 5 - HandId: #2617042398018011137-34-1670427901 - Holdem no limit (40/80) - 2022/12/07 15:45:01 UTC
+Table: 'Expresso(609327666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1120)
+Seat 2: Septa doctor (380)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 40
+Septa doctor posts big blind 80
+Dealt to YL_ML_GL_42 [Js 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 1040 to 1120 and is all-in
+Septa doctor calls 300 and is all-in
+*** FLOP *** [4s 4d 2h]
+*** TURN *** [4s 4d 2h][Th]
+*** RIVER *** [4s 4d 2h Th][Jh]
+*** SHOW DOWN ***
+Septa doctor shows [Kh 9s] (One pair : 4)
+YL_ML_GL_42 shows [Js 7d] (Two pairs : Jacks and 4)
+YL_ML_GL_42 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [4s 4d 2h Th Jh]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [Js 7d] and won 1500 with Two pairs : Jacks and 4
+Seat 2: Septa doctor (big blind) showed [Kh 9s] and lost with One pair : 4
+
+

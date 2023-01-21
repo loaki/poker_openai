@@ -1,0 +1,1298 @@
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-1-1670787027 - Holdem no limit (25/100/200) - 2022/12/11 19:30:27 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #1 is the button
+Seat 1: Morantfou (20000, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (20000, 1.80€ bounty)
+Seat 3: kaboudi (20000, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (20000, 1.80€ bounty)
+Seat 5: rafbru14 (20000, 1.80€ bounty)
+Seat 6: yrojpc (20000, 1.80€ bounty)
+*** ANTE/BLINDS ***
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+Morantfou posts ante 25
+YL_ML_GL_42 posts ante 25
+rafbru14 posts ante 25
+yrojpc posts ante 25
+ZoumaDeluxe posts small blind 100
+kaboudi posts big blind 200
+Dealt to YL_ML_GL_42 [Qs 4s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+rafbru14 folds
+yrojpc calls 200
+Morantfou folds
+ZoumaDeluxe raises 800 to 1000
+kaboudi folds
+yrojpc calls 800
+*** FLOP *** [Qc 9d 6c]
+ZoumaDeluxe bets 823
+yrojpc folds
+ZoumaDeluxe collected 3173 from pot
+*** SUMMARY ***
+Total pot 3173 | No rake
+Board: [Qc 9d 6c]
+Seat 2: ZoumaDeluxe (small blind) won 3173
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-2-1670787088 - Holdem no limit (25/100/200) - 2022/12/11 19:31:28 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #2 is the button
+Seat 1: Morantfou (19975, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (21325, 1.80€ bounty)
+Seat 3: kaboudi (19775, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (19975, 1.80€ bounty)
+Seat 5: Elliphitio (20000, 1.80€ bounty)
+Seat 6: yrojpc (18975, 1.80€ bounty)
+*** ANTE/BLINDS ***
+kaboudi posts ante 25
+YL_ML_GL_42 posts ante 25
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+Elliphitio posts ante 25
+yrojpc posts ante 25
+kaboudi posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Kh Jd]
+*** PRE-FLOP *** 
+Elliphitio folds
+yrojpc folds
+Morantfou folds
+ZoumaDeluxe folds
+kaboudi folds
+YL_ML_GL_42 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 4: YL_ML_GL_42 (big blind) won 450
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-3-1670787129 - Holdem no limit (25/100/200) - 2022/12/11 19:32:09 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #3 is the button
+Seat 1: Morantfou (19950, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (21300, 1.80€ bounty)
+Seat 3: kaboudi (19650, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (20200, 1.80€ bounty)
+Seat 5: Elliphitio (19975, 1.80€ bounty)
+Seat 6: yrojpc (18950, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Elliphitio posts ante 25
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+yrojpc posts ante 25
+YL_ML_GL_42 posts small blind 100
+Elliphitio posts big blind 200
+Dealt to YL_ML_GL_42 [Kc 8d]
+*** PRE-FLOP *** 
+yrojpc calls 200
+Morantfou folds
+ZoumaDeluxe folds
+kaboudi folds
+YL_ML_GL_42 folds
+Elliphitio checks
+*** FLOP *** [4h Kd Qh]
+Elliphitio checks
+yrojpc bets 650
+Elliphitio calls 650
+*** TURN *** [4h Kd Qh][2d]
+Elliphitio checks
+yrojpc checks
+*** RIVER *** [4h Kd Qh 2d][7c]
+Elliphitio bets 784
+yrojpc calls 784
+*** SHOW DOWN ***
+yrojpc shows [3s 3c] (One pair : 3)
+Elliphitio shows [4c 8h] (One pair : 4)
+Elliphitio collected 3518 from pot
+*** SUMMARY ***
+Total pot 3518 | No rake
+Board: [4h Kd Qh 2d 7c]
+Seat 5: Elliphitio (big blind) showed [4c 8h] and won 3518 with One pair : 4
+Seat 6: yrojpc showed [3s 3c] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-4-1670787204 - Holdem no limit (25/100/200) - 2022/12/11 19:33:24 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #4 is the button
+Seat 1: Morantfou (19925, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (21275, 1.80€ bounty)
+Seat 3: kaboudi (19625, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (20075, 1.80€ bounty)
+Seat 5: Elliphitio (21834, 1.80€ bounty)
+Seat 6: yrojpc (17291, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Elliphitio posts ante 25
+yrojpc posts ante 25
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+YL_ML_GL_42 posts ante 25
+Elliphitio posts small blind 100
+yrojpc posts big blind 200
+Dealt to YL_ML_GL_42 [Kc 7d]
+*** PRE-FLOP *** 
+Morantfou folds
+ZoumaDeluxe folds
+kaboudi folds
+YL_ML_GL_42 folds
+Elliphitio calls 100
+yrojpc checks
+*** FLOP *** [Ad Js 8h]
+Elliphitio checks
+yrojpc bets 550
+Elliphitio calls 550
+*** TURN *** [Ad Js 8h][5s]
+Elliphitio checks
+yrojpc bets 1650
+Elliphitio calls 1650
+*** RIVER *** [Ad Js 8h 5s][9d]
+Elliphitio checks
+yrojpc checks
+*** SHOW DOWN ***
+yrojpc shows [Kd Qd] (High card : Ace)
+Elliphitio shows [Jh 8d] (Two pairs : Jacks and 8)
+Elliphitio collected 4950 from pot
+*** SUMMARY ***
+Total pot 4950 | No rake
+Board: [Ad Js 8h 5s 9d]
+Seat 5: Elliphitio (small blind) showed [Jh 8d] and won 4950 with Two pairs : Jacks and 8
+Seat 6: yrojpc (big blind) showed [Kd Qd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-5-1670787298 - Holdem no limit (25/100/200) - 2022/12/11 19:34:58 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #5 is the button
+Seat 1: Morantfou (19900, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (21250, 1.80€ bounty)
+Seat 3: kaboudi (19600, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (20050, 1.80€ bounty)
+Seat 5: Elliphitio (24359, 1.80€ bounty)
+Seat 6: yrojpc (14866, 1.80€ bounty)
+*** ANTE/BLINDS ***
+yrojpc posts ante 25
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+YL_ML_GL_42 posts ante 25
+Elliphitio posts ante 25
+yrojpc posts small blind 100
+Morantfou posts big blind 200
+Dealt to YL_ML_GL_42 [Td 3s]
+*** PRE-FLOP *** 
+ZoumaDeluxe folds
+kaboudi folds
+YL_ML_GL_42 folds
+Elliphitio folds
+yrojpc raises 14641 to 14841 and is all-in
+Morantfou folds
+yrojpc collected 15191 from pot
+*** SUMMARY ***
+Total pot 15191 | No rake
+Seat 6: yrojpc (small blind) won 15191
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-6-1670787315 - Holdem no limit (25/100/200) - 2022/12/11 19:35:15 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #6 is the button
+Seat 1: Morantfou (19675, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (21225, 1.80€ bounty)
+Seat 3: kaboudi (19575, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (20025, 1.80€ bounty)
+Seat 5: Elliphitio (24334, 1.80€ bounty)
+Seat 6: yrojpc (15191, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+YL_ML_GL_42 posts ante 25
+Elliphitio posts ante 25
+yrojpc posts ante 25
+Morantfou posts small blind 100
+ZoumaDeluxe posts big blind 200
+Dealt to YL_ML_GL_42 [Ks 9s]
+*** PRE-FLOP *** 
+kaboudi folds
+YL_ML_GL_42 raises 400 to 600
+Elliphitio folds
+yrojpc folds
+Morantfou folds
+ZoumaDeluxe calls 400
+*** FLOP *** [9c Qd As]
+ZoumaDeluxe checks
+YL_ML_GL_42 bets 1160
+ZoumaDeluxe folds
+YL_ML_GL_42 collected 2610 from pot
+*** SUMMARY ***
+Total pot 2610 | No rake
+Board: [9c Qd As]
+Seat 4: YL_ML_GL_42 won 2610
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-7-1670787350 - Holdem no limit (25/100/200) - 2022/12/11 19:35:50 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #1 is the button
+Seat 1: Morantfou (19550, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (20600, 1.80€ bounty)
+Seat 3: kaboudi (19550, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (20850, 1.80€ bounty)
+Seat 5: Elliphitio (24309, 1.80€ bounty)
+Seat 6: yrojpc (15166, 1.80€ bounty)
+*** ANTE/BLINDS ***
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+Morantfou posts ante 25
+YL_ML_GL_42 posts ante 25
+Elliphitio posts ante 25
+yrojpc posts ante 25
+ZoumaDeluxe posts small blind 100
+kaboudi posts big blind 200
+Dealt to YL_ML_GL_42 [2c 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Elliphitio folds
+yrojpc folds
+Morantfou raises 300 to 500
+ZoumaDeluxe folds
+kaboudi calls 300
+*** FLOP *** [2s 3s Kd]
+kaboudi checks
+Morantfou bets 1100
+kaboudi folds
+Morantfou collected 2350 from pot
+*** SUMMARY ***
+Total pot 2350 | No rake
+Board: [2s 3s Kd]
+Seat 1: Morantfou (button) won 2350
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-8-1670787391 - Holdem no limit (25/100/200) - 2022/12/11 19:36:31 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #2 is the button
+Seat 1: Morantfou (20275, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (20475, 1.80€ bounty)
+Seat 3: kaboudi (19025, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (20825, 1.80€ bounty)
+Seat 5: Wina SharKK (20000, 1.80€ bounty)
+Seat 6: yrojpc (15141, 1.80€ bounty)
+*** ANTE/BLINDS ***
+kaboudi posts ante 25
+YL_ML_GL_42 posts ante 25
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+Wina SharKK posts ante 25
+yrojpc posts ante 25
+kaboudi posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [8c 5s]
+*** PRE-FLOP *** 
+Wina SharKK folds
+yrojpc calls 200
+Morantfou folds
+ZoumaDeluxe folds
+kaboudi calls 100
+YL_ML_GL_42 checks
+*** FLOP *** [2s Jd 5d]
+kaboudi checks
+YL_ML_GL_42 checks
+yrojpc checks
+*** TURN *** [2s Jd 5d][Ts]
+kaboudi checks
+YL_ML_GL_42 checks
+yrojpc checks
+*** RIVER *** [2s Jd 5d Ts][9c]
+kaboudi checks
+YL_ML_GL_42 checks
+yrojpc checks
+*** SHOW DOWN ***
+yrojpc shows [4c Ad] (High card : Ace)
+kaboudi shows [5c 6d] (One pair : 5)
+YL_ML_GL_42 shows [8c 5s] (One pair : 5)
+YL_ML_GL_42 collected 375 from pot
+kaboudi collected 375 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [2s Jd 5d Ts 9c]
+Seat 3: kaboudi (small blind) showed [5c 6d] and won 375 with One pair : 5
+Seat 4: YL_ML_GL_42 (big blind) showed [8c 5s] and won 375 with One pair : 5
+Seat 6: yrojpc showed [4c Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-9-1670787507 - Holdem no limit (25/100/200) - 2022/12/11 19:38:27 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #3 is the button
+Seat 1: Morantfou (20250, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (20450, 1.80€ bounty)
+Seat 3: kaboudi (19175, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (20975, 1.80€ bounty)
+Seat 5: Wina SharKK (19975, 1.80€ bounty)
+Seat 6: yrojpc (14916, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Wina SharKK posts ante 25
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+yrojpc posts ante 25
+YL_ML_GL_42 posts small blind 100
+Wina SharKK posts big blind 200
+Dealt to YL_ML_GL_42 [Ad 4d]
+*** PRE-FLOP *** 
+yrojpc calls 200
+Morantfou folds
+ZoumaDeluxe raises 500 to 700
+kaboudi folds
+YL_ML_GL_42 folds
+Wina SharKK folds
+yrojpc calls 500
+*** FLOP *** [9s 2d 4h]
+yrojpc checks
+ZoumaDeluxe checks
+*** TURN *** [9s 2d 4h][Qc]
+yrojpc checks
+ZoumaDeluxe bets 648
+yrojpc calls 648
+*** RIVER *** [9s 2d 4h Qc][6d]
+yrojpc checks
+ZoumaDeluxe checks
+*** SHOW DOWN ***
+yrojpc shows [Ts Jc] (High card : Queen)
+ZoumaDeluxe shows [Js Kd] (High card : King)
+ZoumaDeluxe collected 3146 from pot
+*** SUMMARY ***
+Total pot 3146 | No rake
+Board: [9s 2d 4h Qc 6d]
+Seat 2: ZoumaDeluxe showed [Js Kd] and won 3146 with High card : King
+Seat 6: yrojpc showed [Ts Jc] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-10-1670787610 - Holdem no limit (25/100/200) - 2022/12/11 19:40:10 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #4 is the button
+Seat 1: Morantfou (20225, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (22223, 1.80€ bounty)
+Seat 3: kaboudi (19150, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (20850, 1.80€ bounty)
+Seat 5: Wina SharKK (19750, 1.80€ bounty)
+Seat 6: yrojpc (13543, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Wina SharKK posts ante 25
+yrojpc posts ante 25
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+YL_ML_GL_42 posts ante 25
+Wina SharKK posts small blind 100
+yrojpc posts big blind 200
+Dealt to YL_ML_GL_42 [8h Td]
+*** PRE-FLOP *** 
+Morantfou folds
+ZoumaDeluxe folds
+kaboudi calls 200
+YL_ML_GL_42 folds
+Wina SharKK calls 100
+yrojpc raises 13318 to 13518 and is all-in
+kaboudi folds
+Wina SharKK folds
+yrojpc collected 14068 from pot
+*** SUMMARY ***
+Total pot 14068 | No rake
+Seat 6: yrojpc (big blind) won 14068
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-11-1670787665 - Holdem no limit (25/100/200) - 2022/12/11 19:41:05 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #5 is the button
+Seat 1: Morantfou (20200, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (22198, 1.80€ bounty)
+Seat 3: kaboudi (18925, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (20825, 1.80€ bounty)
+Seat 5: Wina SharKK (19525, 1.80€ bounty)
+Seat 6: yrojpc (14068, 1.80€ bounty)
+*** ANTE/BLINDS ***
+yrojpc posts ante 25
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+YL_ML_GL_42 posts ante 25
+Wina SharKK posts ante 25
+yrojpc posts small blind 100
+Morantfou posts big blind 200
+Dealt to YL_ML_GL_42 [8h 9h]
+*** PRE-FLOP *** 
+ZoumaDeluxe raises 300 to 500
+kaboudi folds
+YL_ML_GL_42 folds
+Wina SharKK folds
+yrojpc folds
+Morantfou raises 1000 to 1500
+ZoumaDeluxe calls 1000
+*** FLOP *** [Jh 9s Ah]
+Morantfou checks
+ZoumaDeluxe bets 1138
+Morantfou calls 1138
+*** TURN *** [Jh 9s Ah][Jd]
+Morantfou checks
+ZoumaDeluxe bets 1382
+Morantfou raises 2003 to 3385
+ZoumaDeluxe calls 2003
+*** RIVER *** [Jh 9s Ah Jd][Qc]
+Morantfou checks
+ZoumaDeluxe checks
+*** SHOW DOWN ***
+Morantfou shows [Ks Kh] (Two pairs : Kings and Jacks)
+ZoumaDeluxe shows [Ts Ac] (Two pairs : Aces and Jacks)
+ZoumaDeluxe collected 12296 from pot
+*** SUMMARY ***
+Total pot 12296 | No rake
+Board: [Jh 9s Ah Jd Qc]
+Seat 1: Morantfou (big blind) showed [Ks Kh] and lost with Two pairs : Kings and Jacks
+Seat 2: ZoumaDeluxe showed [Ts Ac] and won 12296 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-12-1670787767 - Holdem no limit (25/100/200) - 2022/12/11 19:42:47 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #6 is the button
+Seat 1: Morantfou (14152, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (28446, 1.80€ bounty)
+Seat 3: kaboudi (18900, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (20800, 1.80€ bounty)
+Seat 5: Wina SharKK (19500, 1.80€ bounty)
+Seat 6: yrojpc (13943, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+YL_ML_GL_42 posts ante 25
+Wina SharKK posts ante 25
+yrojpc posts ante 25
+Morantfou posts small blind 100
+ZoumaDeluxe posts big blind 200
+Dealt to YL_ML_GL_42 [Kh 5c]
+*** PRE-FLOP *** 
+kaboudi folds
+YL_ML_GL_42 folds
+Wina SharKK raises 200 to 400
+yrojpc folds
+Morantfou folds
+ZoumaDeluxe calls 200
+*** FLOP *** [9d 6c 5d]
+ZoumaDeluxe checks
+Wina SharKK checks
+*** TURN *** [9d 6c 5d][9h]
+ZoumaDeluxe checks
+Wina SharKK bets 625
+ZoumaDeluxe folds
+Wina SharKK collected 1675 from pot
+*** SUMMARY ***
+Total pot 1675 | No rake
+Board: [9d 6c 5d 9h]
+Seat 5: Wina SharKK won 1675
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-13-1670787847 - Holdem no limit (25/100/200) - 2022/12/11 19:44:07 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #1 is the button
+Seat 1: Morantfou (14027, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (28021, 1.80€ bounty)
+Seat 3: kaboudi (18875, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (20775, 1.80€ bounty)
+Seat 5: Wina SharKK (20125, 1.80€ bounty)
+Seat 6: yrojpc (13918, 1.80€ bounty)
+*** ANTE/BLINDS ***
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+Morantfou posts ante 25
+YL_ML_GL_42 posts ante 25
+Wina SharKK posts ante 25
+yrojpc posts ante 25
+ZoumaDeluxe posts small blind 100
+kaboudi posts big blind 200
+Dealt to YL_ML_GL_42 [2d Jd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Wina SharKK folds
+yrojpc raises 650 to 850
+Morantfou folds
+ZoumaDeluxe folds
+kaboudi calls 650
+*** FLOP *** [9d Ts Ks]
+kaboudi checks
+yrojpc checks
+*** TURN *** [9d Ts Ks][2c]
+kaboudi bets 683
+yrojpc folds
+kaboudi collected 2633 from pot
+*** SUMMARY ***
+Total pot 2633 | No rake
+Board: [9d Ts Ks 2c]
+Seat 3: kaboudi (big blind) won 2633
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-14-1670787890 - Holdem no limit (25/100/200) - 2022/12/11 19:44:50 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #2 is the button
+Seat 1: Morantfou (14002, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (27896, 1.80€ bounty)
+Seat 3: kaboudi (19950, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (20750, 1.80€ bounty)
+Seat 5: Wina SharKK (20100, 1.80€ bounty)
+Seat 6: yrojpc (13043, 1.80€ bounty)
+*** ANTE/BLINDS ***
+kaboudi posts ante 25
+YL_ML_GL_42 posts ante 25
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+Wina SharKK posts ante 25
+yrojpc posts ante 25
+kaboudi posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Th Ah]
+*** PRE-FLOP *** 
+Wina SharKK folds
+yrojpc folds
+Morantfou folds
+ZoumaDeluxe raises 300 to 500
+kaboudi calls 400
+YL_ML_GL_42 calls 300
+*** FLOP *** [5s 3d Js]
+kaboudi checks
+YL_ML_GL_42 checks
+ZoumaDeluxe checks
+*** TURN *** [5s 3d Js][2h]
+kaboudi bets 578
+YL_ML_GL_42 folds
+ZoumaDeluxe calls 578
+*** RIVER *** [5s 3d Js 2h][Qd]
+kaboudi checks
+ZoumaDeluxe bets 600
+kaboudi calls 600
+*** SHOW DOWN ***
+kaboudi shows [Jc Td] (One pair : Jacks)
+ZoumaDeluxe shows [Qc As] (One pair : Queens)
+ZoumaDeluxe collected 4006 from pot
+*** SUMMARY ***
+Total pot 4006 | No rake
+Board: [5s 3d Js 2h Qd]
+Seat 2: ZoumaDeluxe (button) showed [Qc As] and won 4006 with One pair : Queens
+Seat 3: kaboudi (small blind) showed [Jc Td] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-15-1670787984 - Holdem no limit (25/100/200) - 2022/12/11 19:46:24 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #3 is the button
+Seat 1: Morantfou (13977, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (30199, 1.80€ bounty)
+Seat 3: kaboudi (18247, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (20225, 1.80€ bounty)
+Seat 5: Wina SharKK (20075, 1.80€ bounty)
+Seat 6: yrojpc (13018, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Wina SharKK posts ante 25
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+yrojpc posts ante 25
+YL_ML_GL_42 posts small blind 100
+Wina SharKK posts big blind 200
+Dealt to YL_ML_GL_42 [9h Qc]
+*** PRE-FLOP *** 
+yrojpc folds
+Morantfou folds
+ZoumaDeluxe folds
+kaboudi calls 200
+YL_ML_GL_42 calls 100
+Wina SharKK checks
+*** FLOP *** [4d 3s 7d]
+YL_ML_GL_42 checks
+Wina SharKK checks
+kaboudi checks
+*** TURN *** [4d 3s 7d][9c]
+YL_ML_GL_42 bets 600
+Wina SharKK folds
+kaboudi calls 600
+*** RIVER *** [4d 3s 7d 9c][5s]
+YL_ML_GL_42 bets 1560
+kaboudi folds
+YL_ML_GL_42 collected 3510 from pot
+*** SUMMARY ***
+Total pot 3510 | No rake
+Board: [4d 3s 7d 9c 5s]
+Seat 4: YL_ML_GL_42 (small blind) won 3510
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-16-1670788088 - Holdem no limit (25/100/200) - 2022/12/11 19:48:08 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #4 is the button
+Seat 1: Morantfou (13952, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (30174, 1.80€ bounty)
+Seat 3: kaboudi (17422, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (21350, 1.80€ bounty)
+Seat 5: Wina SharKK (19850, 1.80€ bounty)
+Seat 6: yrojpc (12993, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Wina SharKK posts ante 25
+yrojpc posts ante 25
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+YL_ML_GL_42 posts ante 25
+Wina SharKK posts small blind 100
+yrojpc posts big blind 200
+Dealt to YL_ML_GL_42 [4h 5c]
+*** PRE-FLOP *** 
+Morantfou folds
+ZoumaDeluxe folds
+kaboudi folds
+YL_ML_GL_42 folds
+Wina SharKK calls 100
+yrojpc checks
+*** FLOP *** [Qd Jc Ts]
+Wina SharKK bets 200
+yrojpc raises 12568 to 12768 and is all-in
+Wina SharKK folds
+yrojpc collected 13518 from pot
+*** SUMMARY ***
+Total pot 13518 | No rake
+Board: [Qd Jc Ts]
+Seat 6: yrojpc (big blind) won 13518
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-17-1670788126 - Holdem no limit (25/100/200) - 2022/12/11 19:48:46 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #5 is the button
+Seat 1: Morantfou (13927, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (30149, 1.80€ bounty)
+Seat 3: kaboudi (17397, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (21325, 1.80€ bounty)
+Seat 5: Wina SharKK (19425, 1.80€ bounty)
+Seat 6: yrojpc (13518, 1.80€ bounty)
+*** ANTE/BLINDS ***
+yrojpc posts ante 25
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+YL_ML_GL_42 posts ante 25
+Wina SharKK posts ante 25
+yrojpc posts small blind 100
+Morantfou posts big blind 200
+Dealt to YL_ML_GL_42 [4h 7h]
+*** PRE-FLOP *** 
+ZoumaDeluxe folds
+kaboudi folds
+YL_ML_GL_42 folds
+Wina SharKK folds
+yrojpc folds
+Morantfou collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 1: Morantfou (big blind) won 450
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-18-1670788143 - Holdem no limit (25/100/200) - 2022/12/11 19:49:03 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #6 is the button
+Seat 1: Morantfou (14152, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (30124, 1.80€ bounty)
+Seat 3: kaboudi (17372, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (21300, 1.80€ bounty)
+Seat 5: Wina SharKK (19400, 1.80€ bounty)
+Seat 6: yrojpc (13393, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+YL_ML_GL_42 posts ante 25
+Wina SharKK posts ante 25
+yrojpc posts ante 25
+Morantfou posts small blind 100
+ZoumaDeluxe posts big blind 200
+Dealt to YL_ML_GL_42 [Jh 8c]
+*** PRE-FLOP *** 
+kaboudi folds
+YL_ML_GL_42 folds
+Wina SharKK folds
+yrojpc calls 200
+Morantfou calls 100
+ZoumaDeluxe checks
+*** FLOP *** [9d Ts Jd]
+Morantfou checks
+ZoumaDeluxe checks
+yrojpc checks
+*** TURN *** [9d Ts Jd][8h]
+Morantfou checks
+ZoumaDeluxe checks
+yrojpc checks
+*** RIVER *** [9d Ts Jd 8h][4s]
+Morantfou bets 488
+ZoumaDeluxe folds
+yrojpc calls 488
+*** SHOW DOWN ***
+yrojpc shows [Kd Tc] (One pair : Tens)
+Morantfou shows [7s Ks] (Straight Jack high)
+Morantfou collected 1726 from pot
+*** SUMMARY ***
+Total pot 1726 | No rake
+Board: [9d Ts Jd 8h 4s]
+Seat 1: Morantfou (small blind) showed [7s Ks] and won 1726 with Straight Jack high
+Seat 6: yrojpc (button) showed [Kd Tc] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-19-1670788224 - Holdem no limit (25/100/200) - 2022/12/11 19:50:24 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #1 is the button
+Seat 1: Morantfou (15165, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (29899, 1.80€ bounty)
+Seat 3: kaboudi (17347, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (21275, 1.80€ bounty)
+Seat 5: Wina SharKK (19375, 1.80€ bounty)
+Seat 6: yrojpc (12680, 1.80€ bounty)
+*** ANTE/BLINDS ***
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+Morantfou posts ante 25
+YL_ML_GL_42 posts ante 25
+Wina SharKK posts ante 25
+yrojpc posts ante 25
+ZoumaDeluxe posts small blind 100
+kaboudi posts big blind 200
+Dealt to YL_ML_GL_42 [7s 3c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Wina SharKK folds
+yrojpc folds
+Morantfou calls 200
+ZoumaDeluxe raises 600 to 800
+kaboudi folds
+Morantfou calls 600
+*** FLOP *** [4h 3s 9c]
+ZoumaDeluxe checks
+Morantfou bets 1268
+ZoumaDeluxe calls 1268
+*** TURN *** [4h 3s 9c][Qc]
+ZoumaDeluxe checks
+Morantfou bets 1570
+ZoumaDeluxe folds
+Morantfou collected 6056 from pot
+*** SUMMARY ***
+Total pot 6056 | No rake
+Board: [4h 3s 9c Qc]
+Seat 1: Morantfou (button) won 6056
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-20-1670788292 - Holdem no limit (25/100/200) - 2022/12/11 19:51:32 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #2 is the button
+Seat 1: Morantfou (17558, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (27806, 1.80€ bounty)
+Seat 3: kaboudi (17122, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (21250, 1.80€ bounty)
+Seat 5: Wina SharKK (19350, 1.80€ bounty)
+Seat 6: yrojpc (12655, 1.80€ bounty)
+*** ANTE/BLINDS ***
+kaboudi posts ante 25
+YL_ML_GL_42 posts ante 25
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+Wina SharKK posts ante 25
+yrojpc posts ante 25
+kaboudi posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Jd 4d]
+*** PRE-FLOP *** 
+Wina SharKK folds
+yrojpc folds
+Morantfou folds
+ZoumaDeluxe raises 300 to 500
+kaboudi calls 400
+YL_ML_GL_42 calls 300
+*** FLOP *** [6h Th Kd]
+kaboudi checks
+YL_ML_GL_42 checks
+ZoumaDeluxe checks
+*** TURN *** [6h Th Kd][Kh]
+kaboudi checks
+YL_ML_GL_42 checks
+ZoumaDeluxe bets 413
+kaboudi folds
+YL_ML_GL_42 folds
+ZoumaDeluxe collected 2063 from pot
+*** SUMMARY ***
+Total pot 2063 | No rake
+Board: [6h Th Kd Kh]
+Seat 2: ZoumaDeluxe (button) won 2063
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-21-1670788370 - Holdem no limit (25/100/200) - 2022/12/11 19:52:50 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #3 is the button
+Seat 1: Morantfou (17533, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (28931, 1.80€ bounty)
+Seat 3: kaboudi (16597, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (20725, 1.80€ bounty)
+Seat 5: Wina SharKK (19325, 1.80€ bounty)
+Seat 6: yrojpc (12630, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Wina SharKK posts ante 25
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+yrojpc posts ante 25
+YL_ML_GL_42 posts small blind 100
+Wina SharKK posts big blind 200
+Dealt to YL_ML_GL_42 [As 6c]
+*** PRE-FLOP *** 
+yrojpc calls 200
+Morantfou folds
+ZoumaDeluxe folds
+kaboudi calls 200
+YL_ML_GL_42 calls 100
+Wina SharKK checks
+*** FLOP *** [9d 3h 6h]
+YL_ML_GL_42 checks
+Wina SharKK checks
+yrojpc checks
+kaboudi checks
+*** TURN *** [9d 3h 6h][6d]
+YL_ML_GL_42 checks
+Wina SharKK checks
+yrojpc bets 950
+kaboudi folds
+YL_ML_GL_42 calls 950
+Wina SharKK folds
+*** RIVER *** [9d 3h 6h 6d][6s]
+YL_ML_GL_42 checks
+yrojpc checks
+*** SHOW DOWN ***
+yrojpc shows [5h 5d] (Full of 6 and 5)
+YL_ML_GL_42 shows [As 6c] (Quads of 6)
+YL_ML_GL_42 collected 2850 from pot
+*** SUMMARY ***
+Total pot 2850 | No rake
+Board: [9d 3h 6h 6d 6s]
+Seat 4: YL_ML_GL_42 (small blind) showed [As 6c] and won 2850 with Quads of 6
+Seat 6: yrojpc showed [5h 5d] and lost with Full of 6 and 5
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-22-1670788488 - Holdem no limit (25/100/200) - 2022/12/11 19:54:48 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #4 is the button
+Seat 1: Morantfou (17508, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (28906, 1.80€ bounty)
+Seat 3: kaboudi (16372, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (22400, 1.80€ bounty)
+Seat 5: Wina SharKK (19100, 1.80€ bounty)
+Seat 6: yrojpc (11455, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Wina SharKK posts ante 25
+yrojpc posts ante 25
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+YL_ML_GL_42 posts ante 25
+Wina SharKK posts small blind 100
+yrojpc posts big blind 200
+Dealt to YL_ML_GL_42 [2h 6s]
+*** PRE-FLOP *** 
+Morantfou folds
+ZoumaDeluxe folds
+kaboudi folds
+YL_ML_GL_42 folds
+Wina SharKK raises 400 to 600
+yrojpc calls 400
+*** FLOP *** [8s 4c 6c]
+Wina SharKK checks
+yrojpc checks
+*** TURN *** [8s 4c 6c][Kd]
+Wina SharKK checks
+yrojpc checks
+*** RIVER *** [8s 4c 6c Kd][9c]
+Wina SharKK checks
+yrojpc checks
+*** SHOW DOWN ***
+yrojpc shows [5h Qh] (High card : King)
+Wina SharKK shows [Tc Ad] (High card : Ace)
+Wina SharKK collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [8s 4c 6c Kd 9c]
+Seat 5: Wina SharKK (small blind) showed [Tc Ad] and won 1350 with High card : Ace
+Seat 6: yrojpc (big blind) showed [5h Qh] and lost with High card : King
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157129527296277-23-1670788864 - Holdem no limit (25/100/200) - 2022/12/11 20:01:04 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #5 is the button
+Seat 1: Morantfou (17483, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (28881, 1.80€ bounty)
+Seat 3: kaboudi (16347, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (22375, 1.80€ bounty)
+Seat 5: Wina SharKK (19825, 1.80€ bounty)
+Seat 6: yrojpc (10830, 1.80€ bounty)
+*** ANTE/BLINDS ***
+yrojpc posts ante 25
+Morantfou posts ante 25
+ZoumaDeluxe posts ante 25
+kaboudi posts ante 25
+YL_ML_GL_42 posts ante 25
+Wina SharKK posts ante 25
+yrojpc posts small blind 100
+Morantfou posts big blind 200
+Dealt to YL_ML_GL_42 [8h As]
+*** PRE-FLOP *** 
+ZoumaDeluxe folds
+kaboudi folds
+YL_ML_GL_42 raises 400 to 600
+Wina SharKK folds
+yrojpc calls 500
+Morantfou folds
+*** FLOP *** [Jh Qs Ah]
+yrojpc checks
+YL_ML_GL_42 bets 1240
+yrojpc calls 1240
+*** TURN *** [Jh Qs Ah][6d]
+yrojpc checks
+YL_ML_GL_42 bets 3224
+yrojpc raises 5741 to 8965 and is all-in
+YL_ML_GL_42 calls 5741
+*** RIVER *** [Jh Qs Ah 6d][7c]
+*** SHOW DOWN ***
+yrojpc shows [3c Ac] (One pair : Aces)
+YL_ML_GL_42 shows [8h As] (One pair : Aces)
+YL_ML_GL_42 collected 21960 from pot
+*** SUMMARY ***
+Total pot 21960 | No rake
+Board: [Jh Qs Ah 6d 7c]
+Seat 4: YL_ML_GL_42 showed [8h As] and won 21960 with One pair : Aces
+Seat 6: yrojpc (small blind) showed [3c Ac] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2603157129527296277-24-1670788975 - Holdem no limit (30/125/250) - 2022/12/11 20:02:55 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #6 is the button
+Seat 1: Morantfou (17258, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (28856, 1.80€ bounty)
+Seat 3: kaboudi (16322, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (33505, 2.70€ bounty)
+Seat 5: Wina SharKK (19800, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Morantfou posts ante 30
+ZoumaDeluxe posts ante 30
+kaboudi posts ante 30
+YL_ML_GL_42 posts ante 30
+Wina SharKK posts ante 30
+Morantfou posts small blind 125
+ZoumaDeluxe posts big blind 250
+Dealt to YL_ML_GL_42 [7s 9s]
+*** PRE-FLOP *** 
+kaboudi folds
+YL_ML_GL_42 folds
+Wina SharKK folds
+Morantfou folds
+ZoumaDeluxe collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | No rake
+Seat 2: ZoumaDeluxe (big blind) won 525
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2603157129527296277-25-1670788993 - Holdem no limit (30/125/250) - 2022/12/11 20:03:13 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #1 is the button
+Seat 1: Morantfou (17103, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (29101, 1.80€ bounty)
+Seat 3: kaboudi (16292, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (33475, 2.70€ bounty)
+Seat 5: Wina SharKK (19770, 1.80€ bounty)
+Seat 6: A-r-T666 (20000, 1.80€ bounty)
+*** ANTE/BLINDS ***
+ZoumaDeluxe posts ante 30
+kaboudi posts ante 30
+Morantfou posts ante 30
+YL_ML_GL_42 posts ante 30
+Wina SharKK posts ante 30
+A-r-T666 posts ante 30
+ZoumaDeluxe posts small blind 125
+kaboudi posts big blind 250
+Dealt to YL_ML_GL_42 [8s 6c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Wina SharKK folds
+A-r-T666 folds
+Morantfou folds
+ZoumaDeluxe raises 625 to 875
+kaboudi calls 625
+*** FLOP *** [2s Jd 2h]
+ZoumaDeluxe checks
+kaboudi checks
+*** TURN *** [2s Jd 2h][9s]
+ZoumaDeluxe checks
+kaboudi bets 676
+ZoumaDeluxe calls 676
+*** RIVER *** [2s Jd 2h 9s][9h]
+ZoumaDeluxe checks
+kaboudi checks
+*** SHOW DOWN ***
+ZoumaDeluxe shows [Qh Tc] (Two pairs : 9 and 2)
+kaboudi shows [Kd 7d] (Two pairs : 9 and 2)
+kaboudi collected 3282 from pot
+*** SUMMARY ***
+Total pot 3282 | No rake
+Board: [2s Jd 2h 9s 9h]
+Seat 2: ZoumaDeluxe (small blind) showed [Qh Tc] and lost with Two pairs : 9 and 2
+Seat 3: kaboudi (big blind) showed [Kd 7d] and won 3282 with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2603157129527296277-26-1670789063 - Holdem no limit (30/125/250) - 2022/12/11 20:04:23 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #2 is the button
+Seat 1: Morantfou (17073, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (27520, 1.80€ bounty)
+Seat 3: kaboudi (17993, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (33445, 2.70€ bounty)
+Seat 5: Wina SharKK (19740, 1.80€ bounty)
+Seat 6: A-r-T666 (19970, 1.80€ bounty)
+*** ANTE/BLINDS ***
+kaboudi posts ante 30
+YL_ML_GL_42 posts ante 30
+Morantfou posts ante 30
+ZoumaDeluxe posts ante 30
+Wina SharKK posts ante 30
+A-r-T666 posts ante 30
+kaboudi posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [Kd 7c]
+*** PRE-FLOP *** 
+Wina SharKK calls 250
+A-r-T666 folds
+Morantfou folds
+ZoumaDeluxe folds
+kaboudi raises 313 to 563
+YL_ML_GL_42 calls 313
+Wina SharKK calls 313
+*** FLOP *** [Jd Ac 4s]
+kaboudi checks
+YL_ML_GL_42 checks
+Wina SharKK bets 625
+kaboudi folds
+YL_ML_GL_42 folds
+Wina SharKK collected 2494 from pot
+*** SUMMARY ***
+Total pot 2494 | No rake
+Board: [Jd Ac 4s]
+Seat 5: Wina SharKK won 2494
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2603157129527296277-27-1670789122 - Holdem no limit (30/125/250) - 2022/12/11 20:05:22 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #3 is the button
+Seat 1: Morantfou (17043, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (27490, 1.80€ bounty)
+Seat 3: kaboudi (17400, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (32852, 2.70€ bounty)
+Seat 5: Wina SharKK (21016, 1.80€ bounty)
+Seat 6: A-r-T666 (19940, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 30
+Wina SharKK posts ante 30
+Morantfou posts ante 30
+ZoumaDeluxe posts ante 30
+kaboudi posts ante 30
+A-r-T666 posts ante 30
+YL_ML_GL_42 posts small blind 125
+Wina SharKK posts big blind 250
+Dealt to YL_ML_GL_42 [Ac 8h]
+*** PRE-FLOP *** 
+A-r-T666 folds
+Morantfou folds
+ZoumaDeluxe folds
+kaboudi calls 250
+YL_ML_GL_42 calls 125
+Wina SharKK checks
+*** FLOP *** [Ad Td 5s]
+YL_ML_GL_42 bets 744
+Wina SharKK folds
+kaboudi calls 744
+*** TURN *** [Ad Td 5s][Kc]
+YL_ML_GL_42 bets 1209
+kaboudi calls 1209
+*** RIVER *** [Ad Td 5s Kc][3s]
+YL_ML_GL_42 bets 3143
+kaboudi raises 3143 to 6286
+YL_ML_GL_42 calls 3143
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ac 8h] (One pair : Aces)
+kaboudi shows [Th Kh] (Two pairs : Kings and Tens)
+kaboudi collected 17408 from pot
+*** SUMMARY ***
+Total pot 17408 | No rake
+Board: [Ad Td 5s Kc 3s]
+Seat 3: kaboudi (button) showed [Th Kh] and won 17408 with Two pairs : Kings and Tens
+Seat 4: YL_ML_GL_42 (small blind) showed [Ac 8h] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157129527296277-28-1670789207 - Holdem no limit (35/150/300) - 2022/12/11 20:06:47 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #4 is the button
+Seat 1: Morantfou (17013, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (27460, 1.80€ bounty)
+Seat 3: kaboudi (26289, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (24333, 2.70€ bounty)
+Seat 5: Wina SharKK (20736, 1.80€ bounty)
+Seat 6: A-r-T666 (19910, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Wina SharKK posts ante 35
+A-r-T666 posts ante 35
+Morantfou posts ante 35
+ZoumaDeluxe posts ante 35
+kaboudi posts ante 35
+YL_ML_GL_42 posts ante 35
+Wina SharKK posts small blind 150
+A-r-T666 posts big blind 300
+Dealt to YL_ML_GL_42 [5h As]
+*** PRE-FLOP *** 
+Morantfou folds
+ZoumaDeluxe folds
+kaboudi folds
+YL_ML_GL_42 raises 600 to 900
+Wina SharKK folds
+A-r-T666 folds
+YL_ML_GL_42 collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Seat 4: YL_ML_GL_42 (button) won 1560
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157129527296277-29-1670789236 - Holdem no limit (35/150/300) - 2022/12/11 20:07:16 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #5 is the button
+Seat 1: Morantfou (16978, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (27425, 1.80€ bounty)
+Seat 3: kaboudi (26254, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (24958, 2.70€ bounty)
+Seat 5: Wina SharKK (20551, 1.80€ bounty)
+Seat 6: A-r-T666 (19575, 1.80€ bounty)
+*** ANTE/BLINDS ***
+A-r-T666 posts ante 35
+Morantfou posts ante 35
+ZoumaDeluxe posts ante 35
+kaboudi posts ante 35
+YL_ML_GL_42 posts ante 35
+Wina SharKK posts ante 35
+A-r-T666 posts small blind 150
+Morantfou posts big blind 300
+Dealt to YL_ML_GL_42 [6h 5h]
+*** PRE-FLOP *** 
+ZoumaDeluxe raises 300 to 600
+kaboudi folds
+YL_ML_GL_42 folds
+Wina SharKK folds
+A-r-T666 calls 450
+Morantfou folds
+*** FLOP *** [8c 6s 6c]
+A-r-T666 bets 599
+ZoumaDeluxe calls 599
+*** TURN *** [8c 6s 6c][Kd]
+A-r-T666 bets 1018
+ZoumaDeluxe folds
+A-r-T666 collected 3926 from pot
+*** SUMMARY ***
+Total pot 3926 | No rake
+Board: [8c 6s 6c Kd]
+Seat 6: A-r-T666 (small blind) won 3926
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157129527296277-30-1670789265 - Holdem no limit (35/150/300) - 2022/12/11 20:07:45 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #6 is the button
+Seat 1: Morantfou (16643, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (26191, 1.80€ bounty)
+Seat 3: kaboudi (26219, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (24923, 2.70€ bounty)
+Seat 5: Wina SharKK (20516, 1.80€ bounty)
+Seat 6: A-r-T666 (21249, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Morantfou posts ante 35
+ZoumaDeluxe posts ante 35
+kaboudi posts ante 35
+YL_ML_GL_42 posts ante 35
+Wina SharKK posts ante 35
+A-r-T666 posts ante 35
+Morantfou posts small blind 150
+ZoumaDeluxe posts big blind 300
+Dealt to YL_ML_GL_42 [Kd Qh]
+*** PRE-FLOP *** 
+kaboudi folds
+YL_ML_GL_42 raises 600 to 900
+Wina SharKK calls 900
+A-r-T666 folds
+Morantfou folds
+ZoumaDeluxe calls 600
+*** FLOP *** [Jc Ad Ac]
+ZoumaDeluxe checks
+YL_ML_GL_42 checks
+Wina SharKK checks
+*** TURN *** [Jc Ad Ac][Td]
+ZoumaDeluxe checks
+YL_ML_GL_42 bets 765
+Wina SharKK calls 765
+ZoumaDeluxe folds
+*** RIVER *** [Jc Ad Ac Td][8d]
+YL_ML_GL_42 bets 2295
+Wina SharKK raises 16521 to 18816 and is all-in
+YL_ML_GL_42 calls 16521
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kd Qh] (Straight Ace high)
+Wina SharKK shows [Js Jh] (Full of Jacks and Aces)
+Wina SharKK collected 42222 from pot
+*** SUMMARY ***
+Total pot 42222 | No rake
+Board: [Jc Ad Ac Td 8d]
+Seat 4: YL_ML_GL_42 showed [Kd Qh] and lost with Straight Ace high
+Seat 5: Wina SharKK showed [Js Jh] and won 42222 with Full of Jacks and Aces
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157129527296277-31-1670789337 - Holdem no limit (35/150/300) - 2022/12/11 20:08:57 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #1 is the button
+Seat 1: Morantfou (16458, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (25256, 1.80€ bounty)
+Seat 3: kaboudi (26184, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (4407, 2.70€ bounty)
+Seat 5: Wina SharKK (42222, 1.80€ bounty)
+Seat 6: A-r-T666 (21214, 1.80€ bounty)
+*** ANTE/BLINDS ***
+ZoumaDeluxe posts ante 35
+kaboudi posts ante 35
+Morantfou posts ante 35
+YL_ML_GL_42 posts ante 35
+Wina SharKK posts ante 35
+A-r-T666 posts ante 35
+ZoumaDeluxe posts small blind 150
+kaboudi posts big blind 300
+Dealt to YL_ML_GL_42 [4c 5c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Wina SharKK folds
+A-r-T666 folds
+Morantfou folds
+ZoumaDeluxe raises 750 to 1050
+kaboudi folds
+ZoumaDeluxe collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Seat 2: ZoumaDeluxe (small blind) won 1560
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157129527296277-32-1670789371 - Holdem no limit (35/150/300) - 2022/12/11 20:09:31 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094750)#0276' 6-max (real money) Seat #2 is the button
+Seat 1: Morantfou (16423, 1.80€ bounty)
+Seat 2: ZoumaDeluxe (25731, 1.80€ bounty)
+Seat 3: kaboudi (25849, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (4372, 2.70€ bounty)
+Seat 5: Wina SharKK (42187, 1.80€ bounty)
+Seat 6: A-r-T666 (21179, 1.80€ bounty)
+*** ANTE/BLINDS ***
+kaboudi posts ante 35
+YL_ML_GL_42 posts ante 35
+Morantfou posts ante 35
+ZoumaDeluxe posts ante 35
+Wina SharKK posts ante 35
+A-r-T666 posts ante 35
+kaboudi posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [6c 6d]
+*** PRE-FLOP *** 
+Wina SharKK raises 300 to 600
+A-r-T666 folds
+Morantfou folds
+ZoumaDeluxe folds
+kaboudi calls 450
+YL_ML_GL_42 raises 3737 to 4337 and is all-in
+Wina SharKK raises 37815 to 42152 and is all-in
+kaboudi folds
+*** FLOP *** [6s 9s 8s]
+*** TURN *** [6s 9s 8s][Qs]
+*** RIVER *** [6s 9s 8s Qs][Tc]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [6c 6d] (Trips of 6)
+Wina SharKK shows [Ad Jh] (Straight Queen high)
+Wina SharKK collected 47299 from pot
+*** SUMMARY ***
+Total pot 47299 | No rake
+Board: [6s 9s 8s Qs Tc]
+Seat 4: YL_ML_GL_42 (big blind) showed [6c 6d] and lost with Trips of 6
+Seat 5: Wina SharKK showed [Ad Jh] and won 47299 with Straight Queen high
+
+
