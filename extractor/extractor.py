@@ -132,7 +132,7 @@ def get_hand(file, prev_hand_nb):
     print(f'###parsing error\nfile: {file}\ntable id: {table_id}')
     return None, None, None
 
-def parse_tournament(file, data, table_id, tournament_id):
+def parse_tournament(data, table_id, tournament_id):
     data.tournament['id'] = tournament_id
     list_files = os.listdir(HISTORY_PATH)
     for file in list_files:
@@ -152,7 +152,7 @@ def format_info(file, prev_hand_nb=0):
     if not tournament_id:
         return None
     get_hand_info(data, curr_hand, table_id)
-    parse_tournament(file, data, table_id, tournament_id)
+    parse_tournament(data, table_id, tournament_id)
     return data
 
 def print_data(data):
