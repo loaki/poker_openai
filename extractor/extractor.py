@@ -85,7 +85,7 @@ def reverse_readline(filename, buf_size=8192):
         if segment is not None:
             yield segment
 
-def get_hand(file, prev_hand_nb=1):
+def get_hand(file, prev_hand_nb):
     table_id = 0
     tournament_id = 0
     curr_hand = []
