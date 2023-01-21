@@ -17,7 +17,7 @@
 1673740213609 inf [network] > Http https://api.winamax.fr/poker/public/config/preauth?client=poker&application=desktop&opid=wam&device=electron&ver=1.26.3.1671552372&os=win32&cid=b94b276db79aabbcbfbe64cabbfea685 ok
 1673740213611 inf [api] > Service poker/public/config/preauth {"core":{"type":"wss","retry":{"count":3,"timeout":10000,"delay":2000,"random":1000},"hosts":["wapi.winamax.fr:443/poker/front/ws/websocket"],"enable":true,"zombie":{"duration":45000},"socket":{"sleep":10,"buffer":16384},"monitor":{"interrupted":true}},"features":{"vm":false,"playground":{"threshold":1000},"time":{"duration":10}},"serverstatus":{"status":"up","polling":300,"i18n":{"de_DE":{"title":"","info":"Alle Dienste sind verfügbar"},"fr_FR":{"title":"","info":"Tous les services sont fonctionnels"},"en_GB":{"title":"","info":"All services are operational."},"*":{"title":"","info":"All services are operational."},"en_US":{"title":"","info":"All services are operational."},"es_ES":{"title":"","info":"All services are operational."},"pt_PT":{"title":"","info":"All services are operational."}}},"auth":{"version":2,"timeout":6000,"refresh":{"count":3,"delay":2500}},"wspush":{"connection":{"interval":31000,"timeout":25000},"request":{"retry":{"count":0},"timeout":5000},"monitor":{"interrupted":true}},"updater":{"download":{"delay":120000}}}
 1673740213614 inf [network] Registering channel prefs
-1673740213615 inf [network] Enqueuing AUTH:SIGNIN
+1673740213615 inf [network] Enqueuing AUTH:SIGNIN 
 1673740213616 inf [network] Creating socket wss://wapi.winamax.fr:443/poker/front/ws/websocket
 1673740213617 inf [network] Connection status: 1
 1673740213689 inf [network] Socket opened
