@@ -203,7 +203,7 @@ def print_data(data):
         '\n########## hand_id ##########\n',data.hand_id)
 
 def extract_info(prev_hand_nb=0):
-    last_file = max(glob.iglob(f'{LOG_PATH}*.log'), key=os.path.getctime)
+    last_file = max(glob.iglob(f'{LOG_PATH}*.log'), key=os.path.getmtime)
     data = format_info(last_file, prev_hand_nb)
     if data:
         print_data(data)
