@@ -1,6 +1,6 @@
 import os
 import glob
-import fnmatch
+import sys
 import re
 
 HISTORY_PATH='./history/'
@@ -16,11 +16,11 @@ class Log_data():
         self.hand_id = ''
 
 def parse_hand(data, line):
-    data.hand_id = line.split('hand')[1]
+    data.hand_id = line.split('hand ')[1]
 
 def parse_action(data, line):
     positions = ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'UTG+3', 'UTG+4', 'UTG+5']
-    data.actions.append('action'+line.split('action')[1])
+    data.actions.append('action '+line.split('action ')[1])
     if 'login=' in line:
         login = line.split('login=')[1].split('"')[1]
         if login not in data.players:
@@ -39,7 +39,7 @@ def parse_cards(data, line):
     data.cards = line.split()[7]
 
 def parse_round(data, line):
-    data.actions.append('round'+line.split('round')[1])
+    data.actions.append('round '+line.split('round ')[1])
 
 def get_hand_info(data, curr_hand, table_id):
     parsing_fcts = {
@@ -108,7 +108,7 @@ def get_hand(file, prev_hand_nb):
         # hand info completed
         elif (status == 1 or prev_hand_nb != 0) and re.search(r'.*inf \[table\].*hand.*', line):
             prev_hand_nb -= 1
-            if prev_hand_nb < 0:
+            if prev_hand_nb == -1:
                 table_id = line.split(".")[-1].split()[0][1:]
                 status = 2
         
@@ -120,7 +120,7 @@ def get_hand(file, prev_hand_nb):
                 switch = False
         
         # get tournament id
-        elif table_id and tournament_id == 0 and re.search(r'.*inf \[router\] Execution done: wam://table.*', line):
+        elif table_id and tournament_id == 0 and re.search(r'.*inf \[router\] .* done: wam://table.*', line):
             if 'switching' in line:
                 switch = True
             match = re.search(r'\.t(\d+).*\.t(\d+)', line)
@@ -132,19 +132,57 @@ def get_hand(file, prev_hand_nb):
     print(f'###parsing error\nfile: {file}\ntable id: {table_id}')
     return None, None, None
 
-def parse_tournament(data, table_id, tournament_id):
+def parse_tournament(data, hand):
+    bets = ['posts', 'bets', 'calls', 'raises']
+    player_bets = {}
+    round = 0
+    for line in hand:
+        if len(line.split()) == 3 and line.split()[0] == '***' and line.split()[2] == '***':
+            if round > 1:
+                for player in player_bets:
+                    data.players[player]['stack'] -= player_bets[player]
+            round += 1
+        if 'Winamax Poker - ' in line:
+            data.tournament['name'] = line.split('Winamax Poker - ')[1].split(' buyIn:')[0]
+            data.tournament['level'] = line.split('level: ')[1].split()[0]
+            data.tournament['blinds'] = line.split('Holdem no limit (')[1].split(')')[0]
+        if len(line.split()) >= 4 and line.split()[0] == 'Seat':
+            if line.split()[2] in data.players:
+                if line.split()[3].split(')')[0].split(',')[0][1:].isnumeric():
+                    data.players[line.split()[2]]['stack'] = int(line.split()[3].split(')')[0].split(',')[0][1:])
+        if len(line.split()) >= 3 and line.split()[0] in data.players:
+            if line.split()[1] in bets:
+                for word in reversed(line.split()):
+                    if word.isnumeric():
+                        if line.split()[1] == 'raises':
+                            player_bets[line.split()[0]] = int(word)
+                        else:    
+                            player_bets[line.split()[0]] = int(word) + player_bets[line.split()[0]] if line.split()[0] in player_bets else int(word)
+                        break
+        if len(line.split()) >= 3 and ' and won' in ' '.join(line.split()[3:]):
+            data.players[line.split()[2]]['stack'] += int(line.split(' and won ')[1].split()[0])
+
+def get_tournament_info(data, tournament_id):
     data.tournament['id'] = tournament_id
     list_files = os.listdir(HISTORY_PATH)
     for file in list_files:
         if tournament_id in file:
             if '_summary' in file:
-                print(file)
+                pass
             else:
-                print(file)
+                hand = []
+                status = 0
                 with open(HISTORY_PATH+file) as f:
+                    id = data.hand_id.split('-')[0]+'-'+str(int(data.hand_id.split('-')[1])-1)
+                    id_curr = data.hand_id.split('-')[0]+'-'+str(int(data.hand_id.split('-')[1]))
                     for line in f:
-                        pass
-                        # print(line)
+                        if id in line:
+                            status = 1
+                        if status == 1:
+                            if id_curr in line:
+                                break
+                            hand.append(line)
+                parse_tournament(data, hand)
 
 def format_info(file, prev_hand_nb=0):
     data = Log_data()
@@ -152,23 +190,24 @@ def format_info(file, prev_hand_nb=0):
     if not tournament_id:
         return None
     get_hand_info(data, curr_hand, table_id)
-    parse_tournament(data, table_id, tournament_id)
+    get_tournament_info(data, tournament_id)
     return data
 
 def print_data(data):
     print(
         '\n########## tournament ##########\n',data.tournament,
-        '\n########## players ##########\n',data.players,
+        '\n########## players ##########\n',str(data.players).replace('}, ', '\n'),
         '\n########## actions ##########\n','\n'.join(data.actions),
         '\n########## login ##########\n',data.login,
         '\n########## cards ##########\n',data.cards,
         '\n########## hand_id ##########\n',data.hand_id)
 
-def extract_info():
+def extract_info(prev_hand_nb=0):
     last_file = max(glob.iglob(f'{LOG_PATH}*.log'), key=os.path.getctime)
-    data = format_info(last_file, 0)
+    data = format_info(last_file, prev_hand_nb)
     if data:
         print_data(data)
 
 if __name__ == '__main__':
-    extract_info()
+    prev_hand_nb = 0 if len(sys.argv) == 1 else int(sys.argv[1])
+    extract_info(prev_hand_nb)
