@@ -243,7 +243,9 @@ def del_win(root, window_pos, window_selected):
             window_pos.pop(i)
 
 def select_win(root, window_pos, window_selected):
-    table_id_label = tk.Label(root, text='1111')
+
+    win = next((w for w in window_pos if w[1] == window_selected), ('null', -1, 0))
+    table_id_label = tk.Label(root, text=win[2])
     table_id_label.place(x=440, y=42)
     image = Image.open('screen.png')
     ratio = max(image.size[0] / 280, image.size[1] / 280)
