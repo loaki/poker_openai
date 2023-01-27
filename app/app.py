@@ -31,134 +31,155 @@ class Table_data():
         self.card_symbol_options = ['clubs','diamonds','hearts','spades']
 
 def forms(root, data):
+    start_x = 0
+    start_y = 0
+    pad_x = 100
+    pad_y = 25
+    n_y = 0
 
     table_nbplayer_label = tk.Label(root, text='players on table')
-    table_nbplayer_label.grid(row=0, column=0, padx=10, pady=10)
+    table_nbplayer_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     table_nbplayer_options = [2,3,4,5,6,7,8,9]
     table_nbplayer_drop = ttk.Combobox(root, value=table_nbplayer_options, width=10)
     table_nbplayer_drop.current(data.table_nbplayer)
-    table_nbplayer_drop.grid(row=0, column=1, padx=10, pady=10)
+    table_nbplayer_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
+    n_y+=1
 
     position_label = tk.Label(root, text='position')
-    position_label.grid(row=1, column=0, padx=10, pady=10)
+    position_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     position_drop = ttk.Combobox(root, value=data.position_options, width=10)
     position_drop.current(data.position)
-    position_drop.grid(row=1, column=1, padx=10, pady=10)
+    position_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
+    n_y+=1
 
     nb_player_in_label = tk.Label(root, text='players in')
-    nb_player_in_label.grid(row=2, column=0, padx=10, pady=10)
+    nb_player_in_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     nb_player_in_options = [0,1,2,3,4,5,6,7,8,9]
     nb_player_in_drop = ttk.Combobox(root, value=nb_player_in_options, width=10)
     nb_player_in_drop.current(data.nb_player_in)
-    nb_player_in_drop.grid(row=2, column=1, padx=10, pady=10)
+    nb_player_in_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
+    n_y+=1
 
     round_label = tk.Label(root, text='round')
-    round_label.grid(row=3, column=0, padx=10, pady=10)
+    round_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     round_drop = ttk.Combobox(root, value=data.round_options, width=10)
     round_drop.current(data.round)
-    round_drop.grid(row=3, column=1, padx=10, pady=10)
+    round_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
+    n_y+=1
 
     stack_label = tk.Label(root, text='stack')
-    stack_label.grid(row=4, column=0, padx=10, pady=10)
+    stack_label.place(x=start_x+pad_x*0, y=start_y+pad_y*(n_y+1))
     stack_val = tk.DoubleVar(value=data.stack)
-    stack_scale = tk.Scale(root, from_=0, to=300, orient=tk.HORIZONTAL, length=200, variable=stack_val)
-    stack_scale.grid(row=4, column=1, padx=10, pady=10, columnspan=2)
     stack_input = ttk.Entry(root, textvariable=stack_val, width=6)
-    stack_input.grid(row=4, column=4)
+    stack_input.place(x=start_x+pad_x*1, y=start_y+pad_y*(n_y+1))
+    stack_max = 100 if data.stack < 100 else (int(data.stack / 100) + 1) * 100
+    stack_scale = tk.Scale(root, from_=0, to=stack_max, orient=tk.HORIZONTAL, length=100, variable=stack_val)
+    stack_scale.place(x=start_x+pad_x*1+50, y=start_y+pad_y*n_y)
+    n_y+=2
 
     pot_label = tk.Label(root, text='pot size')
-    pot_label.grid(row=5, column=0, padx=10, pady=10)
+    pot_label.place(x=start_x+pad_x*0, y=start_y+pad_y*(n_y+1))
     pot_val = tk.DoubleVar(value=data.pot)
-    pot_scale = tk.Scale(root, from_=0, to=300, orient=tk.HORIZONTAL, length=200, variable=pot_val)
-    pot_scale.grid(row=5, column=1, padx=10, pady=10, columnspan=2)
     pot_input = ttk.Entry(root, textvariable=pot_val, width=6)
-    pot_input.grid(row=5, column=4)
+    pot_input.place(x=start_x+pad_x*1, y=start_y+pad_y*(n_y+1))
+    pot_max = 100 if data.pot < 100 else (int(data.pot / 100) + 1) * 100
+    pot_scale = tk.Scale(root, from_=0, to=pot_max, orient=tk.HORIZONTAL, length=100, variable=pot_val)
+    pot_scale.place(x=start_x+pad_x*1+50, y=start_y+pad_y*n_y)
+    n_y+=2
 
     call_label = tk.Label(root, text='min to call')
-    call_label.grid(row=6, column=0, padx=10, pady=10)
+    call_label.place(x=start_x+pad_x*0, y=start_y+pad_y*(n_y+1))
     call_val = tk.DoubleVar(value=data.call)
-    call_scall = tk.Scale(root, from_=0, to=300, orient=tk.HORIZONTAL, length=200, variable=call_val)
-    call_scall.grid(row=6, column=1, padx=10, pady=10, columnspan=2)
     call_input = ttk.Entry(root, textvariable=call_val, width=6)
-    call_input.grid(row=6, column=4)
+    call_input.place(x=start_x+pad_x*1, y=start_y+pad_y*(n_y+1))
+    call_max = 100 if data.call < 100 else (int(data.call / 100) + 1) * 100
+    call_scall = tk.Scale(root, from_=0, to=call_max, orient=tk.HORIZONTAL, length=100, variable=call_val)
+    call_scall.place(x=start_x+pad_x*1+50, y=start_y+pad_y*n_y)
+    n_y+=2
 
     hand1_label = tk.Label(root, text='hand1')
-    hand1_label.grid(row=7, column=0, padx=10, pady=10)
+    hand1_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     hand_v1_drop = ttk.Combobox(root, value=data.card_value_options, width=10)
-    print(data.hand_1, data.hand_1[0])
     if data.hand_1[0] != -1:
         hand_v1_drop.current(data.hand_1[0])
-    hand_v1_drop.grid(row=7, column=1, padx=10, pady=10)
+    hand_v1_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
     hand_s1_drop = ttk.Combobox(root, value=data.card_symbol_options, width=10)
     if data.hand_1[1] != -1:
         hand_s1_drop.current(data.hand_1[1])
-    hand_s1_drop.grid(row=7, column=2, padx=10, pady=10)
+    hand_s1_drop.place(x=start_x+pad_x*1+80, y=start_y+pad_y*n_y)
+    n_y+=1
     
     hand2_label = tk.Label(root, text='hand2')
-    hand2_label.grid(row=8, column=0, padx=10, pady=10)
+    hand2_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     hand_v2_drop = ttk.Combobox(root, value=data.card_value_options, width=10)
     if data.hand_2[0] != -1:
         hand_v2_drop.current(data.hand_2[0])
-    hand_v2_drop.grid(row=8, column=1, padx=10, pady=10)
+    hand_v2_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
     hand_s2_drop = ttk.Combobox(root, value=data.card_symbol_options, width=10)
     if data.hand_2[1] != -1:
         hand_s2_drop.current(data.hand_2[1])
-    hand_s2_drop.grid(row=8, column=2, padx=10, pady=10)
+    hand_s2_drop.place(x=start_x+pad_x*1+80, y=start_y+pad_y*n_y)
+    n_y+=1
 
     card1_label = tk.Label(root, text='card1')
-    card1_label.grid(row=9, column=0, padx=10, pady=10)
+    card1_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     card_v1_drop = ttk.Combobox(root, value=data.card_value_options, width=10)
     if data.board_1[0] != -1:
         card_v1_drop.current(data.board_1[0])
-    card_v1_drop.grid(row=9, column=1, padx=10, pady=10)
+    card_v1_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
     card_s1_drop = ttk.Combobox(root, value=data.card_symbol_options, width=10)
     if data.board_1[1] != -1:
         card_s1_drop.current(data.board_1[1])
-    card_s1_drop.grid(row=9, column=2, padx=10, pady=10)
+    card_s1_drop.place(x=start_x+pad_x*1+80, y=start_y+pad_y*n_y)
+    n_y+=1
 
     card2_label = tk.Label(root, text='card2')
-    card2_label.grid(row=10, column=0, padx=10, pady=10)
+    card2_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     card_v2_drop = ttk.Combobox(root, value=data.card_value_options, width=10)
     if data.board_2[0] != -1:
         card_v2_drop.current(data.board_2[0])
-    card_v2_drop.grid(row=10, column=1, padx=10, pady=10)
+    card_v2_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
     card_s2_drop = ttk.Combobox(root, value=data.card_symbol_options, width=10)
     if data.board_2[1] != -1:
         card_s2_drop.current(data.board_2[1])
-    card_s2_drop.grid(row=10, column=2, padx=10, pady=10)
+    card_s2_drop.place(x=start_x+pad_x*1+80, y=start_y+pad_y*n_y)
+    n_y+=1
 
     card3_label = tk.Label(root, text='card3')
-    card3_label.grid(row=11, column=0, padx=10, pady=10)
+    card3_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     card_v3_drop = ttk.Combobox(root, value=data.card_value_options, width=10)
     if data.board_3[0] != -1:
-        card_v3_drop.current(data.board_3[1])
-    card_v3_drop.grid(row=11, column=1, padx=10, pady=10)
+        card_v3_drop.current(data.board_3[0])
+    card_v3_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
     card_s3_drop = ttk.Combobox(root, value=data.card_symbol_options, width=10)
     if data.board_3[1] != -1:
-        card_s3_drop.current(data.board_3[0])
-    card_s3_drop.grid(row=11, column=2, padx=10, pady=10)
+        card_s3_drop.current(data.board_3[1])
+    card_s3_drop.place(x=start_x+pad_x*1+80, y=start_y+pad_y*n_y)
+    n_y+=1
 
     card4_label = tk.Label(root, text='card4')
-    card4_label.grid(row=12, column=0, padx=10, pady=10)
+    card4_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     card_v4_drop = ttk.Combobox(root, value=data.card_value_options, width=10)
     if data.board_4[0] != -1:
         card_v4_drop.current(data.board_4[0])
-    card_v4_drop.grid(row=12, column=1, padx=10, pady=10)
+    card_v4_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
     card_s4_drop = ttk.Combobox(root, value=data.card_symbol_options, width=10)
     if data.board_4[1] != -1:
-        card_s4_drop.current(data.board_4[0])
-    card_s4_drop.grid(row=12, column=2, padx=10, pady=10)
+        card_s4_drop.current(data.board_4[1])
+    card_s4_drop.place(x=start_x+pad_x*1+80, y=start_y+pad_y*n_y)
+    n_y+=1
 
     card5_label = tk.Label(root, text='card5')
-    card5_label.grid(row=13, column=0, padx=10, pady=10)
+    card5_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     card_v5_drop = ttk.Combobox(root, value=data.card_value_options, width=10)
     if data.board_5[0] != -1:
         card_v5_drop.current(data.board_5[0])
-    card_v5_drop.grid(row=13, column=1, padx=10, pady=10)
+    card_v5_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
     card_s5_drop = ttk.Combobox(root, value=data.card_symbol_options, width=10)
     if data.board_5[1] != -1:
-        card_s5_drop.current(data.board_5[0])
-    card_s5_drop.grid(row=13, column=2, padx=10, pady=10)
+        card_s5_drop.current(data.board_5[1])
+    card_s5_drop.place(x=start_x+pad_x*1+80, y=start_y+pad_y*n_y)
+    n_y+=1
 
     send_btn = tk.Button(root, text='send', command=lambda: send(
         root,
@@ -315,7 +336,7 @@ def app():
     root.geometry('730x720')
     table_data = Table_data()
     forms(root, table_data)
-    detection(root)
+    # detection(root)
     root.mainloop()
 
 if __name__ == '__main__':
