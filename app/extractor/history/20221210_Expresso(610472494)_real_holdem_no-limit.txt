@@ -1,0 +1,166 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2621959396837556225-1-1670706742 - Holdem no limit (10/20) - 2022/12/10 21:12:22 UTC
+Table: 'Expresso(610472494)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ti Requin84 (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Walidla6t (500)
+*** ANTE/BLINDS ***
+Ti Requin84 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [6d 4h]
+*** PRE-FLOP *** 
+Walidla6t calls 20
+Ti Requin84 calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [Ac 6h Kd]
+Ti Requin84 checks
+YL_ML_GL_42 bets 480 and is all-in
+Walidla6t folds
+Ti Requin84 folds
+YL_ML_GL_42 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Ac 6h Kd]
+Seat 2: YL_ML_GL_42 (big blind) won 540
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2621959396837556225-2-1670706772 - Holdem no limit (10/20) - 2022/12/10 21:12:52 UTC
+Table: 'Expresso(610472494)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ti Requin84 (480)
+Seat 2: YL_ML_GL_42 (540)
+Seat 3: Walidla6t (480)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Walidla6t posts big blind 20
+Dealt to YL_ML_GL_42 [7c Kd]
+*** PRE-FLOP *** 
+Ti Requin84 raises 40 to 60
+YL_ML_GL_42 folds
+Walidla6t folds
+Ti Requin84 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Ti Requin84 (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2621959396837556225-3-1670706789 - Holdem no limit (10/20) - 2022/12/10 21:13:09 UTC
+Table: 'Expresso(610472494)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ti Requin84 (510)
+Seat 2: YL_ML_GL_42 (530)
+Seat 3: Walidla6t (460)
+*** ANTE/BLINDS ***
+Walidla6t posts small blind 10
+Ti Requin84 posts big blind 20
+Dealt to YL_ML_GL_42 [7s 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Walidla6t folds
+Ti Requin84 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Ti Requin84 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2621959396837556225-4-1670706797 - Holdem no limit (10/20) - 2022/12/10 21:13:17 UTC
+Table: 'Expresso(610472494)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ti Requin84 (520)
+Seat 2: YL_ML_GL_42 (530)
+Seat 3: Walidla6t (450)
+*** ANTE/BLINDS ***
+Ti Requin84 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [4c 5h]
+*** PRE-FLOP *** 
+Walidla6t raises 50 to 70
+Ti Requin84 calls 60
+YL_ML_GL_42 folds
+*** FLOP *** [Td 6c Jh]
+Ti Requin84 checks
+Walidla6t bets 160
+Ti Requin84 folds
+Walidla6t collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Td 6c Jh]
+Seat 3: Walidla6t (button) won 320
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2621959396837556225-5-1670706820 - Holdem no limit (10/20) - 2022/12/10 21:13:40 UTC
+Table: 'Expresso(610472494)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ti Requin84 (450)
+Seat 2: YL_ML_GL_42 (510)
+Seat 3: Walidla6t (540)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Walidla6t posts big blind 20
+Dealt to YL_ML_GL_42 [Ad 5c]
+*** PRE-FLOP *** 
+Ti Requin84 raises 20 to 40
+YL_ML_GL_42 raises 470 to 510 and is all-in
+Walidla6t folds
+Ti Requin84 folds
+YL_ML_GL_42 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 2: YL_ML_GL_42 (small blind) won 570
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2621959396837556225-6-1670706835 - Holdem no limit (15/30) - 2022/12/10 21:13:55 UTC
+Table: 'Expresso(610472494)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ti Requin84 (410)
+Seat 2: YL_ML_GL_42 (570)
+Seat 3: Walidla6t (520)
+*** ANTE/BLINDS ***
+Walidla6t posts small blind 15
+Ti Requin84 posts big blind 30
+Dealt to YL_ML_GL_42 [9s Jc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 75 to 105
+Walidla6t raises 240 to 345
+Ti Requin84 raises 65 to 410 and is all-in
+YL_ML_GL_42 folds
+Walidla6t calls 65
+*** FLOP *** [Kd Tc Qh]
+*** TURN *** [Kd Tc Qh][7d]
+*** RIVER *** [Kd Tc Qh 7d][5h]
+*** SHOW DOWN ***
+Ti Requin84 shows [Ts Ac] (One pair : Tens)
+Walidla6t shows [As Jh] (Straight Ace high)
+Walidla6t collected 925 from pot
+*** SUMMARY ***
+Total pot 925 | No rake
+Board: [Kd Tc Qh 7d 5h]
+Seat 1: Ti Requin84 (big blind) showed [Ts Ac] and lost with One pair : Tens
+Seat 3: Walidla6t (small blind) showed [As Jh] and won 925 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2621959396837556225-7-1670706863 - Holdem no limit (15/30) - 2022/12/10 21:14:23 UTC
+Table: 'Expresso(610472494)#0' 3-max (real money) Seat #2 is the button
+Seat 2: YL_ML_GL_42 (465)
+Seat 3: Walidla6t (1035)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Walidla6t posts big blind 30
+Dealt to YL_ML_GL_42 [3c Jc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+Walidla6t calls 60
+*** FLOP *** [Jd Ts Ks]
+Walidla6t checks
+YL_ML_GL_42 bets 144
+Walidla6t raises 144 to 288
+YL_ML_GL_42 calls 144
+*** TURN *** [Jd Ts Ks][3d]
+Walidla6t bets 657 and is all-in
+YL_ML_GL_42 calls 87 and is all-in
+*** RIVER *** [Jd Ts Ks 3d][9c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [3c Jc] (Two pairs : Jacks and 3)
+Walidla6t shows [Qd 9s] (Straight King high)
+Walidla6t collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Jd Ts Ks 3d 9c]
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [3c Jc] and lost with Two pairs : Jacks and 3
+Seat 3: Walidla6t (big blind) showed [Qd 9s] and won 1500 with Straight King high
+
+

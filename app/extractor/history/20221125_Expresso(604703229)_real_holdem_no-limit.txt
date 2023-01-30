@@ -1,0 +1,338 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2597180592340598785-1-1669396040 - Holdem no limit (10/20) - 2022/11/25 17:07:20 UTC
+Table: 'Expresso(604703229)#0' 3-max (real money) Seat #3 is the button
+Seat 1: bolo20 (500)
+Seat 2: wared2a (500)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+bolo20 posts small blind 10
+wared2a posts big blind 20
+Dealt to YL_ML_GL_42 [2h Ad]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 40 to 60
+bolo20 folds
+wared2a calls 40
+*** FLOP *** [9s Qc 8d]
+wared2a checks
+YL_ML_GL_42 bets 65
+wared2a calls 65
+*** TURN *** [9s Qc 8d][6c]
+wared2a checks
+YL_ML_GL_42 checks
+*** RIVER *** [9s Qc 8d 6c][8c]
+wared2a bets 169
+YL_ML_GL_42 folds
+wared2a collected 429 from pot
+*** SUMMARY ***
+Total pot 429 | No rake
+Board: [9s Qc 8d 6c 8c]
+Seat 2: wared2a (big blind) won 429
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2597180592340598785-2-1669396067 - Holdem no limit (10/20) - 2022/11/25 17:07:47 UTC
+Table: 'Expresso(604703229)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bolo20 (490)
+Seat 2: wared2a (635)
+Seat 3: YL_ML_GL_42 (375)
+*** ANTE/BLINDS ***
+wared2a posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Tc 9h]
+*** PRE-FLOP *** 
+bolo20 raises 25 to 45
+wared2a folds
+YL_ML_GL_42 calls 25
+*** FLOP *** [9d Ah Jh]
+YL_ML_GL_42 bets 80
+bolo20 folds
+YL_ML_GL_42 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [9d Ah Jh]
+Seat 3: YL_ML_GL_42 (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2597180592340598785-3-1669396083 - Holdem no limit (10/20) - 2022/11/25 17:08:03 UTC
+Table: 'Expresso(604703229)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bolo20 (445)
+Seat 2: wared2a (625)
+Seat 3: YL_ML_GL_42 (430)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+bolo20 posts big blind 20
+Dealt to YL_ML_GL_42 [3s 8c]
+*** PRE-FLOP *** 
+wared2a folds
+YL_ML_GL_42 folds
+bolo20 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: bolo20 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2597180592340598785-4-1669396089 - Holdem no limit (10/20) - 2022/11/25 17:08:09 UTC
+Table: 'Expresso(604703229)#0' 3-max (real money) Seat #3 is the button
+Seat 1: bolo20 (455)
+Seat 2: wared2a (625)
+Seat 3: YL_ML_GL_42 (420)
+*** ANTE/BLINDS ***
+bolo20 posts small blind 10
+wared2a posts big blind 20
+Dealt to YL_ML_GL_42 [Kd 6s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+bolo20 calls 10
+wared2a checks
+*** FLOP *** [5s Td Jd]
+bolo20 bets 20
+wared2a calls 20
+*** TURN *** [5s Td Jd][3d]
+bolo20 bets 20
+wared2a calls 20
+*** RIVER *** [5s Td Jd 3d][4d]
+bolo20 checks
+wared2a checks
+*** SHOW DOWN ***
+bolo20 shows [7s Th] (One pair : Tens)
+wared2a shows [Qh Js] (One pair : Jacks)
+wared2a collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [5s Td Jd 3d 4d]
+Seat 1: bolo20 (small blind) showed [7s Th] and lost with One pair : Tens
+Seat 2: wared2a (big blind) showed [Qh Js] and won 120 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2597180592340598785-5-1669396112 - Holdem no limit (10/20) - 2022/11/25 17:08:32 UTC
+Table: 'Expresso(604703229)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bolo20 (395)
+Seat 2: wared2a (685)
+Seat 3: YL_ML_GL_42 (420)
+*** ANTE/BLINDS ***
+wared2a posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [2d 7h]
+*** PRE-FLOP *** 
+bolo20 folds
+wared2a calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [Kh 3d Qc]
+wared2a checks
+YL_ML_GL_42 checks
+*** TURN *** [Kh 3d Qc][8d]
+wared2a bets 20
+YL_ML_GL_42 folds
+wared2a collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Kh 3d Qc 8d]
+Seat 2: wared2a (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2597180592340598785-6-1669396127 - Holdem no limit (15/30) - 2022/11/25 17:08:47 UTC
+Table: 'Expresso(604703229)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bolo20 (395)
+Seat 2: wared2a (705)
+Seat 3: YL_ML_GL_42 (400)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+bolo20 posts big blind 30
+Dealt to YL_ML_GL_42 [4s 3d]
+*** PRE-FLOP *** 
+wared2a calls 30
+YL_ML_GL_42 folds
+bolo20 raises 75 to 105
+wared2a folds
+bolo20 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: bolo20 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2597180592340598785-7-1669396136 - Holdem no limit (15/30) - 2022/11/25 17:08:56 UTC
+Table: 'Expresso(604703229)#0' 3-max (real money) Seat #3 is the button
+Seat 1: bolo20 (440)
+Seat 2: wared2a (675)
+Seat 3: YL_ML_GL_42 (385)
+*** ANTE/BLINDS ***
+bolo20 posts small blind 15
+wared2a posts big blind 30
+Dealt to YL_ML_GL_42 [Kd Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+bolo20 calls 75
+wared2a folds
+*** FLOP *** [Kc Js 7h]
+bolo20 checks
+YL_ML_GL_42 bets 74
+bolo20 calls 74
+*** TURN *** [Kc Js 7h][4h]
+bolo20 bets 276 and is all-in
+YL_ML_GL_42 calls 221 and is all-in
+*** RIVER *** [Kc Js 7h 4h][9s]
+*** SHOW DOWN ***
+bolo20 shows [As Tc] (High card : Ace)
+YL_ML_GL_42 shows [Kd Ts] (One pair : Kings)
+YL_ML_GL_42 collected 800 from main pot
+bolo20 collected 55 from side pot 1
+*** SUMMARY ***
+Total pot 855 | No rake
+Board: [Kc Js 7h 4h 9s]
+Seat 1: bolo20 (small blind) showed [As Tc] and won 55 with High card : Ace
+Seat 3: YL_ML_GL_42 (button) showed [Kd Ts] and won 800 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2597180592340598785-8-1669396159 - Holdem no limit (15/30) - 2022/11/25 17:09:19 UTC
+Table: 'Expresso(604703229)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bolo20 (55)
+Seat 2: wared2a (645)
+Seat 3: YL_ML_GL_42 (800)
+*** ANTE/BLINDS ***
+wared2a posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [4s 5d]
+*** PRE-FLOP *** 
+bolo20 folds
+wared2a raises 30 to 60
+YL_ML_GL_42 folds
+wared2a collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: wared2a (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2597180592340598785-9-1669396172 - Holdem no limit (15/30) - 2022/11/25 17:09:32 UTC
+Table: 'Expresso(604703229)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bolo20 (55)
+Seat 2: wared2a (675)
+Seat 3: YL_ML_GL_42 (770)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+bolo20 posts big blind 30
+Dealt to YL_ML_GL_42 [Ks 4c]
+*** PRE-FLOP *** 
+wared2a raises 30 to 60
+YL_ML_GL_42 folds
+bolo20 calls 25 and is all-in
+*** FLOP *** [Kh 9c 9h]
+*** TURN *** [Kh 9c 9h][5h]
+*** RIVER *** [Kh 9c 9h 5h][5s]
+*** SHOW DOWN ***
+bolo20 shows [3s Tc] (Two pairs : 9 and 5)
+wared2a shows [2d 2h] (Two pairs : 9 and 5)
+wared2a collected 68 from side pot 1
+bolo20 collected 62 from main pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [Kh 9c 9h 5h 5s]
+Seat 1: bolo20 (big blind) showed [3s Tc] and won 62 with Two pairs : 9 and 5
+Seat 2: wared2a (button) showed [2d 2h] and won 68 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2597180592340598785-10-1669396186 - Holdem no limit (15/30) - 2022/11/25 17:09:46 UTC
+Table: 'Expresso(604703229)#0' 3-max (real money) Seat #3 is the button
+Seat 1: bolo20 (62)
+Seat 2: wared2a (683)
+Seat 3: YL_ML_GL_42 (755)
+*** ANTE/BLINDS ***
+bolo20 posts small blind 15
+wared2a posts big blind 30
+Dealt to YL_ML_GL_42 [Qh 3c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+bolo20 folds
+wared2a collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: wared2a (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2597180592340598785-11-1669396191 - Holdem no limit (15/30) - 2022/11/25 17:09:51 UTC
+Table: 'Expresso(604703229)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bolo20 (47)
+Seat 2: wared2a (698)
+Seat 3: YL_ML_GL_42 (755)
+*** ANTE/BLINDS ***
+wared2a posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [2s Jd]
+*** PRE-FLOP *** 
+bolo20 raises 17 to 47 and is all-in
+wared2a calls 32
+YL_ML_GL_42 calls 17
+*** FLOP *** [Ks 8c Jc]
+wared2a checks
+YL_ML_GL_42 bets 113
+wared2a calls 113
+*** TURN *** [Ks 8c Jc][6c]
+wared2a checks
+YL_ML_GL_42 checks
+*** RIVER *** [Ks 8c Jc 6c][2d]
+wared2a bets 239
+YL_ML_GL_42 raises 356 to 595 and is all-in
+wared2a calls 299 and is all-in
+*** SHOW DOWN ***
+bolo20 shows [3c Ac] (Flush Ace high)
+wared2a shows [6h Kd] (Two pairs : Kings and 6)
+YL_ML_GL_42 shows [2s Jd] (Two pairs : Jacks and 2)
+YL_ML_GL_42 collected 57 from side pot 2
+wared2a collected 1302 from side pot 1
+bolo20 collected 141 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Ks 8c Jc 6c 2d]
+Seat 1: bolo20 (button) showed [3c Ac] and won 141 with Flush Ace high
+Seat 2: wared2a (small blind) showed [6h Kd] and won 1302 with Two pairs : Kings and 6
+Seat 3: YL_ML_GL_42 (big blind) showed [2s Jd] and won 57 with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2597180592340598785-12-1669396223 - Holdem no limit (20/40) - 2022/11/25 17:10:23 UTC
+Table: 'Expresso(604703229)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bolo20 (141)
+Seat 2: wared2a (1302)
+Seat 3: YL_ML_GL_42 (57)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+bolo20 posts big blind 40
+Dealt to YL_ML_GL_42 [2h 7s]
+*** PRE-FLOP *** 
+wared2a folds
+YL_ML_GL_42 folds
+bolo20 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: bolo20 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2597180592340598785-13-1669396229 - Holdem no limit (20/40) - 2022/11/25 17:10:29 UTC
+Table: 'Expresso(604703229)#0' 3-max (real money) Seat #3 is the button
+Seat 1: bolo20 (161)
+Seat 2: wared2a (1302)
+Seat 3: YL_ML_GL_42 (37)
+*** ANTE/BLINDS ***
+bolo20 posts small blind 20
+wared2a posts big blind 40
+Dealt to YL_ML_GL_42 [Td 7c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 37 and is all-in
+bolo20 calls 20
+wared2a checks
+*** FLOP *** [Ac 5c 4c]
+bolo20 checks
+wared2a checks
+*** TURN *** [Ac 5c 4c][Qd]
+bolo20 checks
+wared2a checks
+*** RIVER *** [Ac 5c 4c Qd][Js]
+bolo20 bets 76
+wared2a folds
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Td 7c] (High card : Ace)
+bolo20 shows [Qh Jh] (Two pairs : Queens and Jacks)
+bolo20 collected 193 from pot
+*** SUMMARY ***
+Total pot 193 | No rake
+Board: [Ac 5c 4c Qd Js]
+Seat 1: bolo20 (small blind) showed [Qh Jh] and won 193 with Two pairs : Queens and Jacks
+Seat 3: YL_ML_GL_42 (button) showed [Td 7c] and lost with High card : Ace
+
+

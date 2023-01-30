@@ -1,0 +1,524 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 45 - HandId: #2545590424433590313-10-1668962359 - Holdem no limit (25/100/200) - 2022/11/20 16:39:19 UTC
+Table: 'Kill The Fish(592691457)#040' 6-max (real money) Seat #4 is the button
+Seat 1: gtkc16 (21550, 0.90€ bounty)
+Seat 2: YL_ML_GL_42 (20000, 0.90€ bounty)
+Seat 3: dNver (21950, 0.90€ bounty)
+Seat 4: eddyb95100 (16600, 0.90€ bounty)
+Seat 5: AIR.nuts (41025, 1.35€ bounty)
+Seat 6: Wayrizz69 (18875, 0.90€ bounty)
+*** ANTE/BLINDS ***
+AIR.nuts posts ante 25
+Wayrizz69 posts ante 25
+gtkc16 posts ante 25
+YL_ML_GL_42 posts ante 25
+dNver posts ante 25
+eddyb95100 posts ante 25
+AIR.nuts posts small blind 100
+Wayrizz69 posts big blind 200
+Dealt to YL_ML_GL_42 [3h 2d]
+*** PRE-FLOP *** 
+gtkc16 folds
+YL_ML_GL_42 folds
+dNver raises 300 to 500
+eddyb95100 calls 500
+AIR.nuts folds
+Wayrizz69 calls 300
+*** FLOP *** [5s 4c 5d]
+Wayrizz69 checks
+dNver bets 438
+eddyb95100 calls 438
+Wayrizz69 folds
+*** TURN *** [5s 4c 5d][Jd]
+dNver checks
+eddyb95100 bets 2626
+dNver folds
+eddyb95100 collected 5252 from pot
+*** SUMMARY ***
+Total pot 5252 | No rake
+Board: [5s 4c 5d Jd]
+Seat 4: eddyb95100 (button) won 5252
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 45 - HandId: #2545590424433590313-11-1668962468 - Holdem no limit (25/100/200) - 2022/11/20 16:41:08 UTC
+Table: 'Kill The Fish(592691457)#040' 6-max (real money) Seat #5 is the button
+Seat 1: gtkc16 (21525, 0.90€ bounty)
+Seat 2: YL_ML_GL_42 (19975, 0.90€ bounty)
+Seat 3: dNver (20987, 0.90€ bounty)
+Seat 4: eddyb95100 (18263, 0.90€ bounty)
+Seat 5: AIR.nuts (40900, 1.35€ bounty)
+Seat 6: Wayrizz69 (18350, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Wayrizz69 posts ante 25
+gtkc16 posts ante 25
+YL_ML_GL_42 posts ante 25
+dNver posts ante 25
+eddyb95100 posts ante 25
+AIR.nuts posts ante 25
+Wayrizz69 posts small blind 100
+gtkc16 posts big blind 200
+Dealt to YL_ML_GL_42 [2d Td]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+dNver folds
+eddyb95100 calls 200
+AIR.nuts folds
+Wayrizz69 folds
+gtkc16 checks
+*** FLOP *** [Qc 9s 7h]
+gtkc16 checks
+eddyb95100 checks
+*** TURN *** [Qc 9s 7h][7d]
+gtkc16 checks
+eddyb95100 checks
+*** RIVER *** [Qc 9s 7h 7d][2s]
+gtkc16 checks
+eddyb95100 bets 200
+gtkc16 folds
+eddyb95100 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Board: [Qc 9s 7h 7d 2s]
+Seat 4: eddyb95100 won 850
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 45 - HandId: #2545590424433590313-12-1668962540 - Holdem no limit (25/100/200) - 2022/11/20 16:42:20 UTC
+Table: 'Kill The Fish(592691457)#040' 6-max (real money) Seat #6 is the button
+Seat 1: gtkc16 (21300, 0.90€ bounty)
+Seat 2: YL_ML_GL_42 (19950, 0.90€ bounty)
+Seat 3: dNver (20962, 0.90€ bounty)
+Seat 4: eddyb95100 (18688, 0.90€ bounty)
+Seat 5: AIR.nuts (40875, 1.35€ bounty)
+Seat 6: Wayrizz69 (18225, 0.90€ bounty)
+*** ANTE/BLINDS ***
+gtkc16 posts ante 25
+YL_ML_GL_42 posts ante 25
+dNver posts ante 25
+eddyb95100 posts ante 25
+AIR.nuts posts ante 25
+Wayrizz69 posts ante 25
+gtkc16 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [9c 3h]
+*** PRE-FLOP *** 
+dNver folds
+eddyb95100 calls 200
+AIR.nuts folds
+Wayrizz69 folds
+gtkc16 calls 100
+YL_ML_GL_42 checks
+*** FLOP *** [8d Ad 7s]
+gtkc16 bets 200
+YL_ML_GL_42 folds
+eddyb95100 calls 200
+*** TURN *** [8d Ad 7s][Qd]
+gtkc16 bets 200
+eddyb95100 calls 200
+*** RIVER *** [8d Ad 7s Qd][Kc]
+gtkc16 bets 200
+eddyb95100 calls 200
+*** SHOW DOWN ***
+eddyb95100 shows [8c 5h] (One pair : 8)
+gtkc16 shows [As 9h] (One pair : Aces)
+gtkc16 collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | No rake
+Board: [8d Ad 7s Qd Kc]
+Seat 1: gtkc16 (small blind) showed [As 9h] and won 1950 with One pair : Aces
+Seat 4: eddyb95100 showed [8c 5h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 45 - HandId: #2545590424433590313-13-1668962601 - Holdem no limit (25/100/200) - 2022/11/20 16:43:21 UTC
+Table: 'Kill The Fish(592691457)#040' 6-max (real money) Seat #1 is the button
+Seat 1: gtkc16 (22425, 0.90€ bounty)
+Seat 2: YL_ML_GL_42 (19725, 0.90€ bounty)
+Seat 3: dNver (20937, 0.90€ bounty)
+Seat 4: eddyb95100 (17863, 0.90€ bounty)
+Seat 5: AIR.nuts (40850, 1.35€ bounty)
+Seat 6: Wayrizz69 (18200, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+dNver posts ante 25
+gtkc16 posts ante 25
+eddyb95100 posts ante 25
+AIR.nuts posts ante 25
+Wayrizz69 posts ante 25
+YL_ML_GL_42 posts small blind 100
+dNver posts big blind 200
+Dealt to YL_ML_GL_42 [9d Ac]
+*** PRE-FLOP *** 
+eddyb95100 calls 200
+AIR.nuts folds
+Wayrizz69 folds
+gtkc16 raises 200 to 400
+YL_ML_GL_42 calls 300
+dNver folds
+eddyb95100 raises 200 to 600
+gtkc16 calls 200
+YL_ML_GL_42 calls 200
+*** FLOP *** [4s 7c Ks]
+YL_ML_GL_42 checks
+eddyb95100 bets 2150
+gtkc16 folds
+YL_ML_GL_42 folds
+eddyb95100 collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | No rake
+Board: [4s 7c Ks]
+Seat 4: eddyb95100 won 4300
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 45 - HandId: #2545590424433590313-14-1668962670 - Holdem no limit (25/100/200) - 2022/11/20 16:44:30 UTC
+Table: 'Kill The Fish(592691457)#040' 6-max (real money) Seat #2 is the button
+Seat 1: gtkc16 (21800, 0.90€ bounty)
+Seat 2: YL_ML_GL_42 (19100, 0.90€ bounty)
+Seat 3: dNver (20712, 0.90€ bounty)
+Seat 4: eddyb95100 (19388, 0.90€ bounty)
+Seat 5: AIR.nuts (40825, 1.35€ bounty)
+Seat 6: Wayrizz69 (18175, 0.90€ bounty)
+*** ANTE/BLINDS ***
+dNver posts ante 25
+eddyb95100 posts ante 25
+gtkc16 posts ante 25
+YL_ML_GL_42 posts ante 25
+AIR.nuts posts ante 25
+Wayrizz69 posts ante 25
+dNver posts small blind 100
+eddyb95100 posts big blind 200
+Dealt to YL_ML_GL_42 [5s Ad]
+*** PRE-FLOP *** 
+AIR.nuts folds
+Wayrizz69 folds
+gtkc16 calls 200
+YL_ML_GL_42 raises 850 to 1050
+dNver folds
+eddyb95100 calls 850
+gtkc16 calls 850
+*** FLOP *** [4s Qh Qd]
+eddyb95100 checks
+gtkc16 checks
+YL_ML_GL_42 checks
+*** TURN *** [4s Qh Qd][7d]
+eddyb95100 bets 200
+gtkc16 folds
+YL_ML_GL_42 calls 200
+*** RIVER *** [4s Qh Qd 7d][Jh]
+eddyb95100 checks
+YL_ML_GL_42 bets 3800
+eddyb95100 folds
+YL_ML_GL_42 collected 7600 from pot
+*** SUMMARY ***
+Total pot 7600 | No rake
+Board: [4s Qh Qd 7d Jh]
+Seat 2: YL_ML_GL_42 (button) won 7600
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 45 - HandId: #2545590424433590313-15-1668962758 - Holdem no limit (25/100/200) - 2022/11/20 16:45:58 UTC
+Table: 'Kill The Fish(592691457)#040' 6-max (real money) Seat #3 is the button
+Seat 1: gtkc16 (20725, 0.90€ bounty)
+Seat 2: YL_ML_GL_42 (21625, 0.90€ bounty)
+Seat 3: dNver (20587, 0.90€ bounty)
+Seat 4: eddyb95100 (18113, 0.90€ bounty)
+Seat 5: AIR.nuts (40800, 1.35€ bounty)
+Seat 6: Wayrizz69 (18150, 0.90€ bounty)
+*** ANTE/BLINDS ***
+eddyb95100 posts ante 25
+AIR.nuts posts ante 25
+gtkc16 posts ante 25
+YL_ML_GL_42 posts ante 25
+dNver posts ante 25
+Wayrizz69 posts ante 25
+eddyb95100 posts small blind 100
+AIR.nuts posts big blind 200
+Dealt to YL_ML_GL_42 [3h Qh]
+*** PRE-FLOP *** 
+Wayrizz69 raises 300 to 500
+gtkc16 folds
+YL_ML_GL_42 folds
+dNver folds
+eddyb95100 raises 17588 to 18088 and is all-in
+AIR.nuts folds
+Wayrizz69 folds
+eddyb95100 collected 18938 from pot
+*** SUMMARY ***
+Total pot 18938 | No rake
+Seat 4: eddyb95100 (small blind) won 18938
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 45 - HandId: #2545590424433590313-16-1668962821 - Holdem no limit (25/100/200) - 2022/11/20 16:47:01 UTC
+Table: 'Kill The Fish(592691457)#040' 6-max (real money) Seat #4 is the button
+Seat 1: gtkc16 (20700, 0.90€ bounty)
+Seat 2: YL_ML_GL_42 (21600, 0.90€ bounty)
+Seat 3: dNver (20562, 0.90€ bounty)
+Seat 4: eddyb95100 (18938, 0.90€ bounty)
+Seat 5: AIR.nuts (40575, 1.35€ bounty)
+Seat 6: Wayrizz69 (17625, 0.90€ bounty)
+*** ANTE/BLINDS ***
+AIR.nuts posts ante 25
+Wayrizz69 posts ante 25
+gtkc16 posts ante 25
+YL_ML_GL_42 posts ante 25
+dNver posts ante 25
+eddyb95100 posts ante 25
+AIR.nuts posts small blind 100
+Wayrizz69 posts big blind 200
+Dealt to YL_ML_GL_42 [4h Qh]
+*** PRE-FLOP *** 
+gtkc16 calls 200
+YL_ML_GL_42 folds
+dNver folds
+eddyb95100 calls 200
+AIR.nuts folds
+Wayrizz69 checks
+*** FLOP *** [4c 3h Kd]
+Wayrizz69 checks
+gtkc16 checks
+eddyb95100 checks
+*** TURN *** [4c 3h Kd][Js]
+Wayrizz69 checks
+gtkc16 checks
+eddyb95100 checks
+*** RIVER *** [4c 3h Kd Js][Td]
+Wayrizz69 checks
+gtkc16 bets 200
+eddyb95100 folds
+Wayrizz69 calls 200
+*** SHOW DOWN ***
+Wayrizz69 shows [3d 8h] (One pair : 3)
+gtkc16 shows [6s Ts] (One pair : Tens)
+gtkc16 collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Board: [4c 3h Kd Js Td]
+Seat 1: gtkc16 showed [6s Ts] and won 1250 with One pair : Tens
+Seat 6: Wayrizz69 (big blind) showed [3d 8h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 45 - HandId: #2545590424433590313-17-1668962938 - Holdem no limit (25/100/200) - 2022/11/20 16:48:58 UTC
+Table: 'Kill The Fish(592691457)#040' 6-max (real money) Seat #5 is the button
+Seat 1: gtkc16 (21525, 0.90€ bounty)
+Seat 2: YL_ML_GL_42 (21575, 0.90€ bounty)
+Seat 3: dNver (20537, 0.90€ bounty)
+Seat 4: eddyb95100 (18713, 0.90€ bounty)
+Seat 5: AIR.nuts (40450, 1.35€ bounty)
+Seat 6: Wayrizz69 (17200, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Wayrizz69 posts ante 25
+gtkc16 posts ante 25
+YL_ML_GL_42 posts ante 25
+dNver posts ante 25
+eddyb95100 posts ante 25
+AIR.nuts posts ante 25
+Wayrizz69 posts small blind 100
+gtkc16 posts big blind 200
+Dealt to YL_ML_GL_42 [4s 7h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+dNver folds
+eddyb95100 raises 18488 to 18688 and is all-in
+AIR.nuts folds
+Wayrizz69 folds
+gtkc16 folds
+eddyb95100 collected 19138 from pot
+*** SUMMARY ***
+Total pot 19138 | No rake
+Seat 4: eddyb95100 won 19138
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 45 - HandId: #2545590424433590313-18-1668962976 - Holdem no limit (25/100/200) - 2022/11/20 16:49:36 UTC
+Table: 'Kill The Fish(592691457)#040' 6-max (real money) Seat #6 is the button
+Seat 1: gtkc16 (21300, 0.90€ bounty)
+Seat 2: YL_ML_GL_42 (21550, 0.90€ bounty)
+Seat 4: eddyb95100 (19138, 0.90€ bounty)
+Seat 5: AIR.nuts (40425, 1.35€ bounty)
+Seat 6: Wayrizz69 (17075, 0.90€ bounty)
+*** ANTE/BLINDS ***
+gtkc16 posts ante 25
+YL_ML_GL_42 posts ante 25
+eddyb95100 posts ante 25
+AIR.nuts posts ante 25
+Wayrizz69 posts ante 25
+gtkc16 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Th 7h]
+*** PRE-FLOP *** 
+eddyb95100 raises 200 to 400
+AIR.nuts folds
+Wayrizz69 folds
+gtkc16 folds
+YL_ML_GL_42 calls 200
+*** FLOP *** [5s 9d As]
+YL_ML_GL_42 bets 513
+eddyb95100 raises 513 to 1026
+YL_ML_GL_42 folds
+eddyb95100 collected 2564 from pot
+*** SUMMARY ***
+Total pot 2564 | No rake
+Board: [5s 9d As]
+Seat 4: eddyb95100 won 2564
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 45 - HandId: #2545590424433590313-19-1668963000 - Holdem no limit (25/100/200) - 2022/11/20 16:50:00 UTC
+Table: 'Kill The Fish(592691457)#040' 6-max (real money) Seat #1 is the button
+Seat 1: gtkc16 (21175, 0.90€ bounty)
+Seat 2: YL_ML_GL_42 (20612, 0.90€ bounty)
+Seat 3: Freestyle 37 (20000, 0.90€ bounty)
+Seat 4: eddyb95100 (20251, 0.90€ bounty)
+Seat 5: AIR.nuts (40400, 1.35€ bounty)
+Seat 6: Wayrizz69 (17050, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Freestyle 37 posts ante 25
+gtkc16 posts ante 25
+eddyb95100 posts ante 25
+AIR.nuts posts ante 25
+Wayrizz69 posts ante 25
+YL_ML_GL_42 posts small blind 100
+Freestyle 37 posts big blind 200
+Dealt to YL_ML_GL_42 [Ad Qd]
+*** PRE-FLOP *** 
+eddyb95100 raises 20026 to 20226 and is all-in
+AIR.nuts folds
+Wayrizz69 folds
+gtkc16 folds
+YL_ML_GL_42 calls 20126
+Freestyle 37 folds
+*** FLOP *** [7c 8d 5c]
+*** TURN *** [7c 8d 5c][6s]
+*** RIVER *** [7c 8d 5c 6s][4h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ad Qd] (Straight 8 high)
+eddyb95100 shows [Kc As] (Straight 8 high)
+eddyb95100 collected 20401 from pot
+YL_ML_GL_42 collected 20401 from pot
+*** SUMMARY ***
+Total pot 40802 | No rake
+Board: [7c 8d 5c 6s 4h]
+Seat 2: YL_ML_GL_42 (small blind) showed [Ad Qd] and won 20401 with Straight 8 high
+Seat 4: eddyb95100 showed [Kc As] and won 20401 with Straight 8 high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 45 - HandId: #2545590424433590313-20-1668963050 - Holdem no limit (25/100/200) - 2022/11/20 16:50:50 UTC
+Table: 'Kill The Fish(592691457)#040' 6-max (real money) Seat #2 is the button
+Seat 1: gtkc16 (21150, 0.90€ bounty)
+Seat 2: YL_ML_GL_42 (20762, 0.90€ bounty)
+Seat 3: Freestyle 37 (19775, 0.90€ bounty)
+Seat 4: eddyb95100 (20401, 0.90€ bounty)
+Seat 5: AIR.nuts (40375, 1.35€ bounty)
+Seat 6: Wayrizz69 (17025, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Freestyle 37 posts ante 25
+eddyb95100 posts ante 25
+gtkc16 posts ante 25
+YL_ML_GL_42 posts ante 25
+AIR.nuts posts ante 25
+Wayrizz69 posts ante 25
+Freestyle 37 posts small blind 100
+eddyb95100 posts big blind 200
+Dealt to YL_ML_GL_42 [Ad Qh]
+*** PRE-FLOP *** 
+AIR.nuts folds
+Wayrizz69 folds
+gtkc16 folds
+YL_ML_GL_42 raises 650 to 850
+Freestyle 37 folds
+eddyb95100 folds
+YL_ML_GL_42 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Seat 2: YL_ML_GL_42 (button) won 1300
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 45 - HandId: #2545590424433590313-21-1668963089 - Holdem no limit (25/100/200) - 2022/11/20 16:51:29 UTC
+Table: 'Kill The Fish(592691457)#040' 6-max (real money) Seat #3 is the button
+Seat 1: gtkc16 (21125, 0.90€ bounty)
+Seat 2: YL_ML_GL_42 (21187, 0.90€ bounty)
+Seat 3: Freestyle 37 (19650, 0.90€ bounty)
+Seat 4: eddyb95100 (20176, 0.90€ bounty)
+Seat 5: AIR.nuts (40350, 1.35€ bounty)
+Seat 6: Wayrizz69 (17000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+eddyb95100 posts ante 25
+AIR.nuts posts ante 25
+gtkc16 posts ante 25
+YL_ML_GL_42 posts ante 25
+Freestyle 37 posts ante 25
+Wayrizz69 posts ante 25
+eddyb95100 posts small blind 100
+AIR.nuts posts big blind 200
+Dealt to YL_ML_GL_42 [5c Td]
+*** PRE-FLOP *** 
+Wayrizz69 folds
+gtkc16 folds
+YL_ML_GL_42 folds
+Freestyle 37 raises 300 to 500
+eddyb95100 calls 400
+AIR.nuts calls 300
+*** FLOP *** [2d 8s 5s]
+eddyb95100 checks
+AIR.nuts checks
+Freestyle 37 bets 1320
+eddyb95100 folds
+AIR.nuts calls 1320
+*** TURN *** [2d 8s 5s][4h]
+AIR.nuts checks
+Freestyle 37 checks
+*** RIVER *** [2d 8s 5s 4h][5h]
+AIR.nuts bets 2145
+Freestyle 37 raises 4826 to 6971
+AIR.nuts calls 4826
+*** SHOW DOWN ***
+Freestyle 37 shows [Ad 9c] (One pair : 5)
+AIR.nuts shows [Kc 8h] (Two pairs : 8 and 5)
+AIR.nuts collected 18232 from pot
+*** SUMMARY ***
+Total pot 18232 | No rake
+Board: [2d 8s 5s 4h 5h]
+Seat 3: Freestyle 37 (button) showed [Ad 9c] and lost with One pair : 5
+Seat 5: AIR.nuts (big blind) showed [Kc 8h] and won 18232 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 45 - HandId: #2545590424433590313-22-1668963236 - Holdem no limit (25/100/200) - 2022/11/20 16:53:56 UTC
+Table: 'Kill The Fish(592691457)#040' 6-max (real money) Seat #4 is the button
+Seat 1: gtkc16 (21100, 0.90€ bounty)
+Seat 2: YL_ML_GL_42 (21162, 0.90€ bounty)
+Seat 3: Freestyle 37 (10834, 0.90€ bounty)
+Seat 4: eddyb95100 (19651, 0.90€ bounty)
+Seat 5: AIR.nuts (49766, 1.35€ bounty)
+Seat 6: Wayrizz69 (16975, 0.90€ bounty)
+*** ANTE/BLINDS ***
+AIR.nuts posts ante 25
+Wayrizz69 posts ante 25
+gtkc16 posts ante 25
+YL_ML_GL_42 posts ante 25
+Freestyle 37 posts ante 25
+eddyb95100 posts ante 25
+AIR.nuts posts small blind 100
+Wayrizz69 posts big blind 200
+Dealt to YL_ML_GL_42 [Ac 9h]
+*** PRE-FLOP *** 
+gtkc16 raises 200 to 400
+YL_ML_GL_42 calls 400
+Freestyle 37 folds
+eddyb95100 folds
+AIR.nuts folds
+Wayrizz69 folds
+*** FLOP *** [3c Jd 8s]
+gtkc16 checks
+YL_ML_GL_42 checks
+*** TURN *** [3c Jd 8s][7c]
+gtkc16 checks
+YL_ML_GL_42 checks
+*** RIVER *** [3c Jd 8s 7c][Js]
+gtkc16 bets 20675 and is all-in
+YL_ML_GL_42 calls 20675
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ac 9h] (One pair : Jacks)
+gtkc16 shows [Qh Jh] (Trips of Jacks)
+gtkc16 collected 42600 from pot
+*** SUMMARY ***
+Total pot 42600 | No rake
+Board: [3c Jd 8s 7c Js]
+Seat 1: gtkc16 showed [Qh Jh] and won 42600 with Trips of Jacks
+Seat 2: YL_ML_GL_42 showed [Ac 9h] and lost with One pair : Jacks
+
+

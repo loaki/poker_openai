@@ -1,0 +1,120 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2605290860690014209-1-1669828344 - Holdem no limit (10/20) - 2022/11/30 17:12:24 UTC
+Table: 'Expresso Nitro(606591548)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sergent1995 (300)
+Seat 2: Abdsila (300)
+Seat 3: YL_ML_GL_42 (300)
+*** ANTE/BLINDS ***
+Sergent1995 posts small blind 10
+Abdsila posts big blind 20
+Dealt to YL_ML_GL_42 [6d 4h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Sergent1995 folds
+Abdsila collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Abdsila (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2605290860690014209-2-1669828352 - Holdem no limit (10/20) - 2022/11/30 17:12:32 UTC
+Table: 'Expresso Nitro(606591548)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sergent1995 (290)
+Seat 2: Abdsila (310)
+Seat 3: YL_ML_GL_42 (300)
+*** ANTE/BLINDS ***
+Abdsila posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [8d Jd]
+*** PRE-FLOP *** 
+Sergent1995 raises 270 to 290 and is all-in
+Abdsila folds
+YL_ML_GL_42 calls 270
+*** FLOP *** [5h 7d Td]
+*** TURN *** [5h 7d Td][9c]
+*** RIVER *** [5h 7d Td 9c][4h]
+*** SHOW DOWN ***
+Sergent1995 shows [Jc Qh] (High card : Queen)
+YL_ML_GL_42 shows [8d Jd] (Straight Jack high)
+YL_ML_GL_42 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [5h 7d Td 9c 4h]
+Seat 1: Sergent1995 (button) showed [Jc Qh] and lost with High card : Queen
+Seat 3: YL_ML_GL_42 (big blind) showed [8d Jd] and won 590 with Straight Jack high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2605290860690014209-3-1669828369 - Holdem no limit (10/20) - 2022/11/30 17:12:49 UTC
+Table: 'Expresso Nitro(606591548)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Abdsila (300)
+Seat 3: YL_ML_GL_42 (600)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Abdsila posts big blind 20
+Dealt to YL_ML_GL_42 [9h 2h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 40 to 60
+Abdsila folds
+YL_ML_GL_42 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: YL_ML_GL_42 (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2605290860690014209-4-1669828378 - Holdem no limit (10/20) - 2022/11/30 17:12:58 UTC
+Table: 'Expresso Nitro(606591548)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Abdsila (280)
+Seat 3: YL_ML_GL_42 (620)
+*** ANTE/BLINDS ***
+Abdsila posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [4s 2c]
+*** PRE-FLOP *** 
+Abdsila calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [Jd 4h 6h]
+YL_ML_GL_42 checks
+Abdsila checks
+*** TURN *** [Jd 4h 6h][9h]
+YL_ML_GL_42 checks
+Abdsila checks
+*** RIVER *** [Jd 4h 6h 9h][2h]
+YL_ML_GL_42 bets 40
+Abdsila calls 40
+*** SHOW DOWN ***
+Abdsila shows [4d 2d] (Two pairs : 4 and 2)
+YL_ML_GL_42 shows [4s 2c] (Two pairs : 4 and 2)
+YL_ML_GL_42 collected 60 from pot
+Abdsila collected 60 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Jd 4h 6h 9h 2h]
+Seat 2: Abdsila (small blind) (button) showed [4d 2d] and won 60 with Two pairs : 4 and 2
+Seat 3: YL_ML_GL_42 (big blind) showed [4s 2c] and won 60 with Two pairs : 4 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2605290860690014209-5-1669828405 - Holdem no limit (15/30) - 2022/11/30 17:13:25 UTC
+Table: 'Expresso Nitro(606591548)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Abdsila (280)
+Seat 3: YL_ML_GL_42 (620)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Abdsila posts big blind 30
+Dealt to YL_ML_GL_42 [As 6h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+Abdsila raises 190 to 280 and is all-in
+YL_ML_GL_42 calls 190
+*** FLOP *** [Kh 9s Ah]
+*** TURN *** [Kh 9s Ah][7d]
+*** RIVER *** [Kh 9s Ah 7d][5s]
+*** SHOW DOWN ***
+Abdsila shows [2c 7s] (One pair : 7)
+YL_ML_GL_42 shows [As 6h] (One pair : Aces)
+YL_ML_GL_42 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Kh 9s Ah 7d 5s]
+Seat 2: Abdsila (big blind) showed [2c 7s] and lost with One pair : 7
+Seat 3: YL_ML_GL_42 (small blind) (button) showed [As 6h] and won 560 with One pair : Aces
+
+

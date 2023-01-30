@@ -1,0 +1,3895 @@
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-1-1668799825 - Holdem no limit (25/100/200) - 2022/11/18 19:30:25 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: Kaplan94 (20000)
+Seat 2: YL_ML_GL_42 (20000)
+Seat 3: PAPYTUXX (20000)
+Seat 4: Solherbe (20000)
+Seat 5: mephisto30x (20000)
+Seat 6: AMG_BLANCO (20000)
+*** ANTE/BLINDS ***
+mephisto30x posts ante 25
+AMG_BLANCO posts ante 25
+Kaplan94 posts ante 25
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+Solherbe posts ante 25
+mephisto30x posts small blind 100
+AMG_BLANCO posts big blind 200
+Dealt to YL_ML_GL_42 [Qs 9c]
+*** PRE-FLOP *** 
+Kaplan94 folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+Solherbe folds
+mephisto30x calls 100
+AMG_BLANCO checks
+*** FLOP *** [Ad 9s 2h]
+mephisto30x checks
+AMG_BLANCO bets 275
+mephisto30x folds
+AMG_BLANCO collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | No rake
+Board: [Ad 9s 2h]
+Seat 6: AMG_BLANCO (big blind) won 825
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-2-1668799977 - Holdem no limit (25/100/200) - 2022/11/18 19:32:57 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: Kaplan94 (19975)
+Seat 2: YL_ML_GL_42 (19975)
+Seat 3: PAPYTUXX (19975)
+Seat 4: Solherbe (19975)
+Seat 5: mephisto30x (19775)
+Seat 6: AMG_BLANCO (20325)
+*** ANTE/BLINDS ***
+AMG_BLANCO posts ante 25
+Kaplan94 posts ante 25
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+Solherbe posts ante 25
+mephisto30x posts ante 25
+AMG_BLANCO posts small blind 100
+Kaplan94 posts big blind 200
+Dealt to YL_ML_GL_42 [7c Kh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+PAPYTUXX folds
+Solherbe folds
+mephisto30x folds
+AMG_BLANCO folds
+Kaplan94 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 1: Kaplan94 (big blind) won 450
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-3-1668800048 - Holdem no limit (25/100/200) - 2022/11/18 19:34:08 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: Kaplan94 (20200)
+Seat 2: YL_ML_GL_42 (19950)
+Seat 3: PAPYTUXX (19950)
+Seat 4: Solherbe (19950)
+Seat 5: mephisto30x (19750)
+Seat 6: AMG_BLANCO (20200)
+*** ANTE/BLINDS ***
+Kaplan94 posts ante 25
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+Solherbe posts ante 25
+mephisto30x posts ante 25
+AMG_BLANCO posts ante 25
+Kaplan94 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [9c Ac]
+*** PRE-FLOP *** 
+PAPYTUXX folds
+Solherbe folds
+mephisto30x folds
+AMG_BLANCO folds
+Kaplan94 folds
+YL_ML_GL_42 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 450
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-4-1668800091 - Holdem no limit (25/100/200) - 2022/11/18 19:34:51 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: Kaplan94 (20075)
+Seat 2: YL_ML_GL_42 (20175)
+Seat 3: PAPYTUXX (19925)
+Seat 5: mephisto30x (19725)
+Seat 6: AMG_BLANCO (20175)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+Kaplan94 posts ante 25
+mephisto30x posts ante 25
+AMG_BLANCO posts ante 25
+YL_ML_GL_42 posts small blind 100
+PAPYTUXX posts big blind 200
+Dealt to YL_ML_GL_42 [4s 7s]
+*** PRE-FLOP *** 
+mephisto30x raises 200 to 400
+AMG_BLANCO folds
+Kaplan94 calls 400
+YL_ML_GL_42 folds
+PAPYTUXX folds
+*** FLOP *** [5h 9s 7c]
+mephisto30x bets 429
+Kaplan94 calls 429
+*** TURN *** [5h 9s 7c][5s]
+mephisto30x bets 900
+Kaplan94 folds
+mephisto30x collected 2983 from pot
+*** SUMMARY ***
+Total pot 2983 | No rake
+Board: [5h 9s 7c 5s]
+Seat 5: mephisto30x won 2983
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-5-1668800152 - Holdem no limit (25/100/200) - 2022/11/18 19:35:52 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: Kaplan94 (19221)
+Seat 2: YL_ML_GL_42 (20050)
+Seat 3: PAPYTUXX (19700)
+Seat 4: -ReborN- (20000)
+Seat 6: AMG_BLANCO (20150)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 25
+-ReborN- posts ante 25
+Kaplan94 posts ante 25
+YL_ML_GL_42 posts ante 25
+AMG_BLANCO posts ante 25
+PAPYTUXX posts small blind 100
+-ReborN- posts big blind 200
+Dealt to YL_ML_GL_42 [5d 2h]
+*** PRE-FLOP *** 
+AMG_BLANCO folds
+Kaplan94 raises 400 to 600
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- calls 400
+*** FLOP *** [Th 6d 4d]
+-ReborN- checks
+Kaplan94 checks
+*** TURN *** [Th 6d 4d][Ts]
+-ReborN- checks
+Kaplan94 checks
+*** RIVER *** [Th 6d 4d Ts][7s]
+-ReborN- checks
+Kaplan94 checks
+*** SHOW DOWN ***
+Kaplan94 shows [Kc 8d] (One pair : Tens)
+-ReborN- shows [Ah Jd] (One pair : Tens)
+-ReborN- collected 1425 from pot
+*** SUMMARY ***
+Total pot 1425 | No rake
+Board: [Th 6d 4d Ts 7s]
+Seat 1: Kaplan94 showed [Kc 8d] and lost with One pair : Tens
+Seat 4: -ReborN- (big blind) showed [Ah Jd] and won 1425 with One pair : Tens
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-6-1668800278 - Holdem no limit (25/100/200) - 2022/11/18 19:37:58 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: Kaplan94 (18596)
+Seat 2: YL_ML_GL_42 (20025)
+Seat 3: PAPYTUXX (19575)
+Seat 4: -ReborN- (20800)
+Seat 5: Lacabale34 (20000)
+Seat 6: AMG_BLANCO (20125)
+*** ANTE/BLINDS ***
+-ReborN- posts ante 25
+Lacabale34 posts ante 25
+Kaplan94 posts ante 25
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+AMG_BLANCO posts ante 25
+-ReborN- posts small blind 100
+Lacabale34 posts big blind 200
+Dealt to YL_ML_GL_42 [3s As]
+*** PRE-FLOP *** 
+AMG_BLANCO folds
+Kaplan94 folds
+YL_ML_GL_42 raises 300 to 500
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 folds
+YL_ML_GL_42 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 2: YL_ML_GL_42 won 950
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-7-1668800378 - Holdem no limit (25/100/200) - 2022/11/18 19:39:38 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: Kaplan94 (18571)
+Seat 2: YL_ML_GL_42 (20450)
+Seat 3: PAPYTUXX (19550)
+Seat 4: -ReborN- (20675)
+Seat 5: Lacabale34 (19775)
+Seat 6: AMG_BLANCO (20100)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 25
+AMG_BLANCO posts ante 25
+Kaplan94 posts ante 25
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+-ReborN- posts ante 25
+Lacabale34 posts small blind 100
+AMG_BLANCO posts big blind 200
+Dealt to YL_ML_GL_42 [Js 9s]
+*** PRE-FLOP *** 
+Kaplan94 folds
+YL_ML_GL_42 raises 250 to 450
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 calls 350
+AMG_BLANCO folds
+*** FLOP *** [7c 7d 6c]
+Lacabale34 checks
+YL_ML_GL_42 checks
+*** TURN *** [7c 7d 6c][2d]
+Lacabale34 bets 438
+YL_ML_GL_42 folds
+Lacabale34 collected 1688 from pot
+*** SUMMARY ***
+Total pot 1688 | No rake
+Board: [7c 7d 6c 2d]
+Seat 5: Lacabale34 (small blind) won 1688
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-8-1668800488 - Holdem no limit (25/100/200) - 2022/11/18 19:41:28 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: Kaplan94 (18546)
+Seat 2: YL_ML_GL_42 (19975)
+Seat 3: PAPYTUXX (19525)
+Seat 4: -ReborN- (20650)
+Seat 5: Lacabale34 (20550)
+Seat 6: AMG_BLANCO (19875)
+*** ANTE/BLINDS ***
+AMG_BLANCO posts ante 25
+Kaplan94 posts ante 25
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+-ReborN- posts ante 25
+Lacabale34 posts ante 25
+AMG_BLANCO posts small blind 100
+Kaplan94 posts big blind 200
+Dealt to YL_ML_GL_42 [3c 5c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 calls 200
+AMG_BLANCO calls 100
+Kaplan94 checks
+*** FLOP *** [Qd 9h 7c]
+AMG_BLANCO bets 488
+Kaplan94 calls 488
+Lacabale34 calls 488
+*** TURN *** [Qd 9h 7c][As]
+AMG_BLANCO checks
+Kaplan94 bets 1439
+Lacabale34 calls 1439
+AMG_BLANCO folds
+*** RIVER *** [Qd 9h 7c As][8c]
+Kaplan94 checks
+Lacabale34 bets 3310
+Kaplan94 calls 3310
+*** SHOW DOWN ***
+Lacabale34 shows [Ad Kh] (One pair : Aces)
+Kaplan94 shows [8d Qh] (Two pairs : Queens and 8)
+Kaplan94 collected 11712 from pot
+*** SUMMARY ***
+Total pot 11712 | No rake
+Board: [Qd 9h 7c As 8c]
+Seat 1: Kaplan94 (big blind) showed [8d Qh] and won 11712 with Two pairs : Queens and 8
+Seat 5: Lacabale34 (button) showed [Ad Kh] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-9-1668800636 - Holdem no limit (25/100/200) - 2022/11/18 19:43:56 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: Kaplan94 (24796)
+Seat 2: YL_ML_GL_42 (19950)
+Seat 3: PAPYTUXX (19500)
+Seat 4: -ReborN- (20625)
+Seat 5: Lacabale34 (15088)
+Seat 6: AMG_BLANCO (19162)
+*** ANTE/BLINDS ***
+Kaplan94 posts ante 25
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+-ReborN- posts ante 25
+Lacabale34 posts ante 25
+AMG_BLANCO posts ante 25
+Kaplan94 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Qc Kd]
+*** PRE-FLOP *** 
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 folds
+AMG_BLANCO folds
+Kaplan94 calls 100
+YL_ML_GL_42 checks
+*** FLOP *** [3h 2h Qs]
+Kaplan94 bets 358
+YL_ML_GL_42 calls 358
+*** TURN *** [3h 2h Qs][4s]
+Kaplan94 checks
+YL_ML_GL_42 checks
+*** RIVER *** [3h 2h Qs 4s][6d]
+Kaplan94 checks
+YL_ML_GL_42 bets 1266
+Kaplan94 calls 1266
+*** SHOW DOWN ***
+Kaplan94 shows [Qd 8h] (One pair : Queens)
+YL_ML_GL_42 shows [Qc Kd] (One pair : Queens)
+YL_ML_GL_42 collected 3798 from pot
+*** SUMMARY ***
+Total pot 3798 | No rake
+Board: [3h 2h Qs 4s 6d]
+Seat 1: Kaplan94 (small blind) showed [Qd 8h] and lost with One pair : Queens
+Seat 2: YL_ML_GL_42 (big blind) showed [Qc Kd] and won 3798 with One pair : Queens
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-10-1668800738 - Holdem no limit (25/100/200) - 2022/11/18 19:45:38 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: Kaplan94 (22947)
+Seat 2: YL_ML_GL_42 (21899)
+Seat 3: PAPYTUXX (19475)
+Seat 4: -ReborN- (20600)
+Seat 5: Lacabale34 (15063)
+Seat 6: AMG_BLANCO (19137)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+Kaplan94 posts ante 25
+-ReborN- posts ante 25
+Lacabale34 posts ante 25
+AMG_BLANCO posts ante 25
+YL_ML_GL_42 posts small blind 100
+PAPYTUXX posts big blind 200
+Dealt to YL_ML_GL_42 [Kc 2c]
+*** PRE-FLOP *** 
+-ReborN- folds
+Lacabale34 folds
+AMG_BLANCO raises 200 to 400
+Kaplan94 folds
+YL_ML_GL_42 folds
+PAPYTUXX calls 200
+*** FLOP *** [8s Js Ad]
+PAPYTUXX checks
+AMG_BLANCO bets 525
+PAPYTUXX folds
+AMG_BLANCO collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | No rake
+Board: [8s Js Ad]
+Seat 6: AMG_BLANCO won 1575
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-11-1668800822 - Holdem no limit (25/100/200) - 2022/11/18 19:47:02 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: Kaplan94 (22922)
+Seat 2: YL_ML_GL_42 (21774)
+Seat 3: PAPYTUXX (19050)
+Seat 4: -ReborN- (20575)
+Seat 5: Lacabale34 (15038)
+Seat 6: AMG_BLANCO (19762)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 25
+-ReborN- posts ante 25
+Kaplan94 posts ante 25
+YL_ML_GL_42 posts ante 25
+Lacabale34 posts ante 25
+AMG_BLANCO posts ante 25
+PAPYTUXX posts small blind 100
+-ReborN- posts big blind 200
+Dealt to YL_ML_GL_42 [As 4c]
+*** PRE-FLOP *** 
+Lacabale34 folds
+AMG_BLANCO folds
+Kaplan94 folds
+YL_ML_GL_42 raises 400 to 600
+PAPYTUXX calls 500
+-ReborN- calls 400
+*** FLOP *** [Kc 8d 5s]
+PAPYTUXX checks
+-ReborN- checks
+YL_ML_GL_42 checks
+*** TURN *** [Kc 8d 5s][7h]
+PAPYTUXX checks
+-ReborN- checks
+YL_ML_GL_42 checks
+*** RIVER *** [Kc 8d 5s 7h][Ad]
+PAPYTUXX bets 975
+-ReborN- folds
+YL_ML_GL_42 raises 2925 to 3900
+PAPYTUXX folds
+YL_ML_GL_42 collected 6825 from pot
+*** SUMMARY ***
+Total pot 6825 | No rake
+Board: [Kc 8d 5s 7h Ad]
+Seat 2: YL_ML_GL_42 (button) won 6825
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-12-1668800989 - Holdem no limit (25/100/200) - 2022/11/18 19:49:49 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: Kaplan94 (22897)
+Seat 2: YL_ML_GL_42 (24074)
+Seat 3: PAPYTUXX (17450)
+Seat 4: -ReborN- (19950)
+Seat 5: Lacabale34 (15013)
+Seat 6: AMG_BLANCO (19737)
+*** ANTE/BLINDS ***
+-ReborN- posts ante 25
+Lacabale34 posts ante 25
+Kaplan94 posts ante 25
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+AMG_BLANCO posts ante 25
+-ReborN- posts small blind 100
+Lacabale34 posts big blind 200
+Dealt to YL_ML_GL_42 [5d 9c]
+*** PRE-FLOP *** 
+AMG_BLANCO folds
+Kaplan94 folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- raises 500 to 700
+Lacabale34 calls 500
+*** FLOP *** [Jd Tc As]
+-ReborN- bets 822
+Lacabale34 calls 822
+*** TURN *** [Jd Tc As][7c]
+-ReborN- bets 2622
+Lacabale34 calls 2622
+*** RIVER *** [Jd Tc As 7c][7h]
+-ReborN- checks
+Lacabale34 bets 5485
+-ReborN- folds
+Lacabale34 collected 13923 from pot
+*** SUMMARY ***
+Total pot 13923 | No rake
+Board: [Jd Tc As 7c 7h]
+Seat 5: Lacabale34 (big blind) won 13923
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-13-1668801083 - Holdem no limit (25/100/200) - 2022/11/18 19:51:23 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: Kaplan94 (22872)
+Seat 2: YL_ML_GL_42 (24049)
+Seat 3: PAPYTUXX (17425)
+Seat 4: -ReborN- (15781)
+Seat 5: Lacabale34 (19282)
+Seat 6: AMG_BLANCO (19712)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 25
+AMG_BLANCO posts ante 25
+Kaplan94 posts ante 25
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+-ReborN- posts ante 25
+Lacabale34 posts small blind 100
+AMG_BLANCO posts big blind 200
+Dealt to YL_ML_GL_42 [7s 7h]
+*** PRE-FLOP *** 
+Kaplan94 raises 400 to 600
+YL_ML_GL_42 raises 23424 to 24024 and is all-in
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 folds
+AMG_BLANCO folds
+Kaplan94 calls 22247 and is all-in
+*** FLOP *** [3s 8c 9s]
+*** TURN *** [3s 8c 9s][Jh]
+*** RIVER *** [3s 8c 9s Jh][6d]
+*** SHOW DOWN ***
+Kaplan94 shows [Kc Qs] (High card : King)
+YL_ML_GL_42 shows [7s 7h] (One pair : 7)
+YL_ML_GL_42 collected 47321 from pot
+*** SUMMARY ***
+Total pot 47321 | No rake
+Board: [3s 8c 9s Jh 6d]
+Seat 1: Kaplan94 showed [Kc Qs] and lost with High card : King
+Seat 2: YL_ML_GL_42 showed [7s 7h] and won 47321 with One pair : 7
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-14-1668801120 - Holdem no limit (25/100/200) - 2022/11/18 19:52:00 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 2: YL_ML_GL_42 (47321)
+Seat 3: PAPYTUXX (17400)
+Seat 4: -ReborN- (15756)
+Seat 5: Lacabale34 (19157)
+Seat 6: AMG_BLANCO (19487)
+*** ANTE/BLINDS ***
+AMG_BLANCO posts ante 25
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+-ReborN- posts ante 25
+Lacabale34 posts ante 25
+AMG_BLANCO posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [3h 8s]
+*** PRE-FLOP *** 
+PAPYTUXX folds
+-ReborN- raises 300 to 500
+Lacabale34 calls 500
+AMG_BLANCO folds
+YL_ML_GL_42 folds
+*** FLOP *** [6s Kd As]
+-ReborN- bets 622
+Lacabale34 folds
+-ReborN- collected 2047 from pot
+*** SUMMARY ***
+Total pot 2047 | No rake
+Board: [6s Kd As]
+Seat 4: -ReborN- won 2047
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-15-1668801180 - Holdem no limit (25/100/200) - 2022/11/18 19:53:00 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: RATON705 (20000)
+Seat 2: YL_ML_GL_42 (47096)
+Seat 3: PAPYTUXX (17375)
+Seat 4: -ReborN- (16656)
+Seat 5: Lacabale34 (18632)
+Seat 6: AMG_BLANCO (19362)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+-ReborN- posts ante 25
+Lacabale34 posts ante 25
+AMG_BLANCO posts ante 25
+YL_ML_GL_42 posts small blind 100
+PAPYTUXX posts big blind 200
+Dealt to YL_ML_GL_42 [6h 5s]
+*** PRE-FLOP *** 
+-ReborN- raises 300 to 500
+Lacabale34 folds
+AMG_BLANCO folds
+YL_ML_GL_42 folds
+PAPYTUXX calls 300
+*** FLOP *** [8s Th 3c]
+PAPYTUXX checks
+-ReborN- bets 613
+PAPYTUXX folds
+-ReborN- collected 1838 from pot
+*** SUMMARY ***
+Total pot 1838 | No rake
+Board: [8s Th 3c]
+Seat 4: -ReborN- won 1838
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-16-1668801264 - Holdem no limit (25/100/200) - 2022/11/18 19:54:24 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: RATON705 (20000)
+Seat 2: YL_ML_GL_42 (46971)
+Seat 3: PAPYTUXX (16850)
+Seat 4: -ReborN- (17356)
+Seat 5: Lacabale34 (18607)
+Seat 6: AMG_BLANCO (19337)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 25
+-ReborN- posts ante 25
+RATON705 posts ante 25
+YL_ML_GL_42 posts ante 25
+Lacabale34 posts ante 25
+AMG_BLANCO posts ante 25
+PAPYTUXX posts small blind 100
+-ReborN- posts big blind 200
+Dealt to YL_ML_GL_42 [9h Ts]
+*** PRE-FLOP *** 
+Lacabale34 folds
+AMG_BLANCO folds
+RATON705 calls 200
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- raises 700 to 900
+RATON705 calls 700
+*** FLOP *** [Jh 5c 7s]
+-ReborN- bets 1176
+RATON705 calls 1176
+*** TURN *** [Jh 5c 7s][7h]
+-ReborN- checks
+RATON705 bets 4402
+-ReborN- folds
+RATON705 collected 8804 from pot
+*** SUMMARY ***
+Total pot 8804 | No rake
+Board: [Jh 5c 7s 7h]
+Seat 1: RATON705 won 8804
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-17-1668801662 - Holdem no limit (25/100/200) - 2022/11/18 20:01:02 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: RATON705 (22301)
+Seat 2: YL_ML_GL_42 (46946)
+Seat 3: PAPYTUXX (16725)
+Seat 4: -ReborN- (15255)
+Seat 5: Lacabale34 (18582)
+Seat 6: AMG_BLANCO (19312)
+*** ANTE/BLINDS ***
+-ReborN- posts ante 25
+Lacabale34 posts ante 25
+RATON705 posts ante 25
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+AMG_BLANCO posts ante 25
+-ReborN- posts small blind 100
+Lacabale34 posts big blind 200
+Dealt to YL_ML_GL_42 [8h 5h]
+*** PRE-FLOP *** 
+AMG_BLANCO folds
+RATON705 calls 200
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- calls 100
+Lacabale34 checks
+*** FLOP *** [9s 8d Ac]
+-ReborN- checks
+Lacabale34 bets 200
+RATON705 calls 200
+-ReborN- calls 200
+*** TURN *** [9s 8d Ac][3s]
+-ReborN- checks
+Lacabale34 bets 472
+RATON705 calls 472
+-ReborN- calls 472
+*** RIVER *** [9s 8d Ac 3s][Qh]
+-ReborN- checks
+Lacabale34 bets 2766
+RATON705 folds
+-ReborN- folds
+Lacabale34 collected 5532 from pot
+*** SUMMARY ***
+Total pot 5532 | No rake
+Board: [9s 8d Ac 3s Qh]
+Seat 5: Lacabale34 (big blind) won 5532
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-18-1668801806 - Holdem no limit (25/100/200) - 2022/11/18 20:03:26 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: RATON705 (21404)
+Seat 2: YL_ML_GL_42 (46921)
+Seat 3: PAPYTUXX (16700)
+Seat 4: -ReborN- (14358)
+Seat 5: Lacabale34 (20451)
+Seat 6: AMG_BLANCO (19287)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 25
+AMG_BLANCO posts ante 25
+RATON705 posts ante 25
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+-ReborN- posts ante 25
+Lacabale34 posts small blind 100
+AMG_BLANCO posts big blind 200
+Dealt to YL_ML_GL_42 [7h 8d]
+*** PRE-FLOP *** 
+RATON705 folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 calls 100
+AMG_BLANCO checks
+*** FLOP *** [7s 3s Jh]
+Lacabale34 bets 358
+AMG_BLANCO folds
+Lacabale34 collected 908 from pot
+*** SUMMARY ***
+Total pot 908 | No rake
+Board: [7s 3s Jh]
+Seat 5: Lacabale34 (small blind) won 908
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-19-1668801852 - Holdem no limit (25/100/200) - 2022/11/18 20:04:12 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: RATON705 (21379)
+Seat 2: YL_ML_GL_42 (46896)
+Seat 3: PAPYTUXX (16675)
+Seat 4: -ReborN- (14333)
+Seat 5: Lacabale34 (20776)
+Seat 6: AMG_BLANCO (19062)
+*** ANTE/BLINDS ***
+AMG_BLANCO posts ante 25
+RATON705 posts ante 25
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+-ReborN- posts ante 25
+Lacabale34 posts ante 25
+AMG_BLANCO posts small blind 100
+RATON705 posts big blind 200
+Dealt to YL_ML_GL_42 [4s Jh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 calls 200
+AMG_BLANCO calls 100
+RATON705 checks
+*** FLOP *** [Qs 2c Js]
+AMG_BLANCO bets 375
+RATON705 calls 375
+Lacabale34 folds
+*** TURN *** [Qs 2c Js][Kh]
+AMG_BLANCO checks
+RATON705 checks
+*** RIVER *** [Qs 2c Js Kh][7h]
+AMG_BLANCO checks
+RATON705 checks
+*** SHOW DOWN ***
+RATON705 shows [As 3d] (High card : Ace)
+AMG_BLANCO shows [Jc 4c] (One pair : Jacks)
+AMG_BLANCO collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Qs 2c Js Kh 7h]
+Seat 1: RATON705 (big blind) showed [As 3d] and lost with High card : Ace
+Seat 6: AMG_BLANCO (small blind) showed [Jc 4c] and won 1500 with One pair : Jacks
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 1 - HandId: #2543160697009733643-20-1668801948 - Holdem no limit (25/100/200) - 2022/11/18 20:05:48 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: RATON705 (20779)
+Seat 2: YL_ML_GL_42 (46871)
+Seat 3: PAPYTUXX (16650)
+Seat 4: -ReborN- (14308)
+Seat 5: Lacabale34 (20551)
+Seat 6: AMG_BLANCO (19962)
+*** ANTE/BLINDS ***
+RATON705 posts ante 25
+YL_ML_GL_42 posts ante 25
+PAPYTUXX posts ante 25
+-ReborN- posts ante 25
+Lacabale34 posts ante 25
+AMG_BLANCO posts ante 25
+RATON705 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Kd Jd]
+*** PRE-FLOP *** 
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 folds
+AMG_BLANCO raises 200 to 400
+RATON705 calls 300
+YL_ML_GL_42 calls 200
+*** FLOP *** [Ad 2d 2s]
+RATON705 checks
+YL_ML_GL_42 bets 675
+AMG_BLANCO folds
+RATON705 folds
+YL_ML_GL_42 collected 2025 from pot
+*** SUMMARY ***
+Total pot 2025 | No rake
+Board: [Ad 2d 2s]
+Seat 2: YL_ML_GL_42 (big blind) won 2025
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 2 - HandId: #2543160697009733643-21-1668802002 - Holdem no limit (30/125/250) - 2022/11/18 20:06:42 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: RATON705 (20354)
+Seat 2: YL_ML_GL_42 (47796)
+Seat 3: PAPYTUXX (16625)
+Seat 4: -ReborN- (14283)
+Seat 5: Lacabale34 (20526)
+Seat 6: AMG_BLANCO (19537)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 30
+PAPYTUXX posts ante 30
+RATON705 posts ante 30
+-ReborN- posts ante 30
+Lacabale34 posts ante 30
+AMG_BLANCO posts ante 30
+YL_ML_GL_42 posts small blind 125
+PAPYTUXX posts big blind 250
+Dealt to YL_ML_GL_42 [Jh Ks]
+*** PRE-FLOP *** 
+-ReborN- folds
+Lacabale34 folds
+AMG_BLANCO folds
+RATON705 calls 250
+YL_ML_GL_42 calls 125
+PAPYTUXX checks
+*** FLOP *** [3d Kc 7h]
+YL_ML_GL_42 bets 605
+PAPYTUXX folds
+RATON705 folds
+YL_ML_GL_42 collected 1535 from pot
+*** SUMMARY ***
+Total pot 1535 | No rake
+Board: [3d Kc 7h]
+Seat 2: YL_ML_GL_42 (small blind) won 1535
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 2 - HandId: #2543160697009733643-22-1668802045 - Holdem no limit (30/125/250) - 2022/11/18 20:07:25 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: RATON705 (20074)
+Seat 2: YL_ML_GL_42 (48446)
+Seat 3: PAPYTUXX (16345)
+Seat 4: -ReborN- (14253)
+Seat 5: Lacabale34 (20496)
+Seat 6: AMG_BLANCO (19507)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 30
+-ReborN- posts ante 30
+RATON705 posts ante 30
+YL_ML_GL_42 posts ante 30
+Lacabale34 posts ante 30
+AMG_BLANCO posts ante 30
+PAPYTUXX posts small blind 125
+-ReborN- posts big blind 250
+Dealt to YL_ML_GL_42 [Kh As]
+*** PRE-FLOP *** 
+Lacabale34 calls 250
+AMG_BLANCO folds
+RATON705 folds
+YL_ML_GL_42 raises 375 to 625
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 calls 375
+*** FLOP *** [2s 9d Ah]
+Lacabale34 checks
+YL_ML_GL_42 checks
+*** TURN *** [2s 9d Ah][6h]
+Lacabale34 bets 1805
+YL_ML_GL_42 calls 1805
+*** RIVER *** [2s 9d Ah 6h][8d]
+Lacabale34 checks
+YL_ML_GL_42 bets 4332
+Lacabale34 folds
+YL_ML_GL_42 collected 9747 from pot
+*** SUMMARY ***
+Total pot 9747 | No rake
+Board: [2s 9d Ah 6h 8d]
+Seat 2: YL_ML_GL_42 (button) won 9747
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 2 - HandId: #2543160697009733643-23-1668802126 - Holdem no limit (30/125/250) - 2022/11/18 20:08:46 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: RATON705 (20044)
+Seat 2: YL_ML_GL_42 (51401)
+Seat 3: PAPYTUXX (16190)
+Seat 4: -ReborN- (13973)
+Seat 5: Lacabale34 (18036)
+Seat 6: AMG_BLANCO (19477)
+*** ANTE/BLINDS ***
+-ReborN- posts ante 30
+Lacabale34 posts ante 30
+RATON705 posts ante 30
+YL_ML_GL_42 posts ante 30
+PAPYTUXX posts ante 30
+AMG_BLANCO posts ante 30
+-ReborN- posts small blind 125
+Lacabale34 posts big blind 250
+Dealt to YL_ML_GL_42 [Kc 2h]
+*** PRE-FLOP *** 
+AMG_BLANCO raises 250 to 500
+RATON705 calls 500
+YL_ML_GL_42 folds
+PAPYTUXX raises 1250 to 1750
+-ReborN- folds
+Lacabale34 calls 1500
+AMG_BLANCO calls 1250
+RATON705 calls 1250
+*** FLOP *** [8s 8c 9d]
+Lacabale34 checks
+AMG_BLANCO bets 17697 and is all-in
+RATON705 folds
+PAPYTUXX folds
+Lacabale34 calls 16256 and is all-in
+*** TURN *** [8s 8c 9d][Ks]
+*** RIVER *** [8s 8c 9d Ks][2c]
+*** SHOW DOWN ***
+Lacabale34 shows [8h As] (Trips of 8)
+AMG_BLANCO shows [4c 4s] (Two pairs : 8 and 4)
+AMG_BLANCO collected 1441 from side pot 1
+Lacabale34 collected 39817 from main pot
+*** SUMMARY ***
+Total pot 41258 | No rake
+Board: [8s 8c 9d Ks 2c]
+Seat 5: Lacabale34 (big blind) showed [8h As] and won 39817 with Trips of 8
+Seat 6: AMG_BLANCO showed [4c 4s] and won 1441 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 2 - HandId: #2543160697009733643-24-1668802208 - Holdem no limit (30/125/250) - 2022/11/18 20:10:08 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: RATON705 (18264)
+Seat 2: YL_ML_GL_42 (51371)
+Seat 3: PAPYTUXX (14410)
+Seat 4: -ReborN- (13818)
+Seat 5: Lacabale34 (39817)
+Seat 6: AMG_BLANCO (1441)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 30
+AMG_BLANCO posts ante 30
+RATON705 posts ante 30
+YL_ML_GL_42 posts ante 30
+PAPYTUXX posts ante 30
+-ReborN- posts ante 30
+Lacabale34 posts small blind 125
+AMG_BLANCO posts big blind 250
+Dealt to YL_ML_GL_42 [9s 2s]
+*** PRE-FLOP *** 
+RATON705 folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 calls 125
+AMG_BLANCO raises 1161 to 1411 and is all-in
+Lacabale34 calls 1161
+*** FLOP *** [2h As 7h]
+*** TURN *** [2h As 7h][8h]
+*** RIVER *** [2h As 7h 8h][4s]
+*** SHOW DOWN ***
+AMG_BLANCO shows [3h Kd] (High card : Ace)
+Lacabale34 shows [6d Kh] (High card : Ace)
+Lacabale34 collected 3002 from pot
+*** SUMMARY ***
+Total pot 3002 | No rake
+Board: [2h As 7h 8h 4s]
+Seat 5: Lacabale34 (small blind) showed [6d Kh] and won 3002 with High card : Ace
+Seat 6: AMG_BLANCO (big blind) showed [3h Kd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 2 - HandId: #2543160697009733643-25-1668802246 - Holdem no limit (30/125/250) - 2022/11/18 20:10:46 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: RATON705 (18234)
+Seat 2: YL_ML_GL_42 (51341)
+Seat 3: PAPYTUXX (14380)
+Seat 4: -ReborN- (13788)
+Seat 5: Lacabale34 (41378)
+*** ANTE/BLINDS ***
+RATON705 posts ante 30
+YL_ML_GL_42 posts ante 30
+PAPYTUXX posts ante 30
+-ReborN- posts ante 30
+Lacabale34 posts ante 30
+RATON705 posts big blind 250
+Dealt to YL_ML_GL_42 [2d Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- raises 500 to 750
+Lacabale34 folds
+RATON705 calls 500
+*** FLOP *** [6s 3s 8s]
+RATON705 checks
+-ReborN- checks
+*** TURN *** [6s 3s 8s][5s]
+RATON705 checks
+-ReborN- checks
+*** RIVER *** [6s 3s 8s 5s][Qh]
+RATON705 checks
+-ReborN- checks
+*** SHOW DOWN ***
+-ReborN- shows [8d Ad] (One pair : 8)
+RATON705 shows [Tc Qc] (One pair : Queens)
+RATON705 collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Board: [6s 3s 8s 5s Qh]
+Seat 1: RATON705 (big blind) showed [Tc Qc] and won 1650 with One pair : Queens
+Seat 4: -ReborN- showed [8d Ad] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 2 - HandId: #2543160697009733643-26-1668802306 - Holdem no limit (30/125/250) - 2022/11/18 20:11:46 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: RATON705 (19104)
+Seat 2: YL_ML_GL_42 (51311)
+Seat 3: PAPYTUXX (14350)
+Seat 4: -ReborN- (13008)
+Seat 5: Lacabale34 (41348)
+Seat 6: MoyoPivo (20000)
+*** ANTE/BLINDS ***
+RATON705 posts ante 30
+YL_ML_GL_42 posts ante 30
+PAPYTUXX posts ante 30
+-ReborN- posts ante 30
+Lacabale34 posts ante 30
+RATON705 posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [5h 7s]
+*** PRE-FLOP *** 
+PAPYTUXX raises 313 to 563
+-ReborN- raises 1408 to 1971
+Lacabale34 folds
+RATON705 folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- collected 3059 from pot
+*** SUMMARY ***
+Total pot 3059 | No rake
+Seat 4: -ReborN- won 3059
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 3 - HandId: #2543160697009733643-27-1668802366 - Holdem no limit (35/150/300) - 2022/11/18 20:12:46 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: RATON705 (18949)
+Seat 2: YL_ML_GL_42 (51031)
+Seat 3: PAPYTUXX (13757)
+Seat 4: -ReborN- (14066)
+Seat 5: Lacabale34 (41318)
+Seat 6: MoyoPivo (20000)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+PAPYTUXX posts ante 35
+RATON705 posts ante 35
+-ReborN- posts ante 35
+Lacabale34 posts ante 35
+MoyoPivo posts ante 35
+YL_ML_GL_42 posts small blind 150
+PAPYTUXX posts big blind 300
+Dealt to YL_ML_GL_42 [Tc 7h]
+*** PRE-FLOP *** 
+-ReborN- folds
+Lacabale34 calls 300
+MoyoPivo folds
+RATON705 folds
+YL_ML_GL_42 folds
+PAPYTUXX checks
+*** FLOP *** [7d Ad 5d]
+PAPYTUXX checks
+Lacabale34 bets 300
+PAPYTUXX folds
+Lacabale34 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Board: [7d Ad 5d]
+Seat 5: Lacabale34 won 1260
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 3 - HandId: #2543160697009733643-28-1668802434 - Holdem no limit (35/150/300) - 2022/11/18 20:13:54 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: RATON705 (18914)
+Seat 2: YL_ML_GL_42 (50846)
+Seat 3: PAPYTUXX (13422)
+Seat 4: -ReborN- (14031)
+Seat 5: Lacabale34 (41943)
+Seat 6: MoyoPivo (19965)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 35
+-ReborN- posts ante 35
+RATON705 posts ante 35
+YL_ML_GL_42 posts ante 35
+Lacabale34 posts ante 35
+MoyoPivo posts ante 35
+PAPYTUXX posts small blind 150
+-ReborN- posts big blind 300
+Dealt to YL_ML_GL_42 [Jd 2c]
+*** PRE-FLOP *** 
+Lacabale34 folds
+MoyoPivo folds
+RATON705 raises 600 to 900
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- folds
+RATON705 collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Seat 1: RATON705 won 1560
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 3 - HandId: #2543160697009733643-29-1668802463 - Holdem no limit (35/150/300) - 2022/11/18 20:14:23 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: RATON705 (19539)
+Seat 2: YL_ML_GL_42 (50811)
+Seat 3: PAPYTUXX (13237)
+Seat 4: -ReborN- (13696)
+Seat 5: Lacabale34 (41908)
+Seat 6: MoyoPivo (19930)
+*** ANTE/BLINDS ***
+-ReborN- posts ante 35
+Lacabale34 posts ante 35
+RATON705 posts ante 35
+YL_ML_GL_42 posts ante 35
+PAPYTUXX posts ante 35
+MoyoPivo posts ante 35
+-ReborN- posts small blind 150
+Lacabale34 posts big blind 300
+Dealt to YL_ML_GL_42 [Js Th]
+*** PRE-FLOP *** 
+MoyoPivo folds
+RATON705 folds
+YL_ML_GL_42 folds
+PAPYTUXX raises 375 to 675
+-ReborN- calls 525
+Lacabale34 calls 375
+*** FLOP *** [7s 4c 7h]
+-ReborN- checks
+Lacabale34 checks
+PAPYTUXX checks
+*** TURN *** [7s 4c 7h][4d]
+-ReborN- bets 1676
+Lacabale34 calls 1676
+PAPYTUXX folds
+*** RIVER *** [7s 4c 7h 4d][7c]
+-ReborN- checks
+Lacabale34 bets 5587
+-ReborN- calls 5587
+*** SHOW DOWN ***
+-ReborN- shows [6c 5c] (Full of 7 and 4)
+Lacabale34 shows [Kh 8h] (Full of 7 and 4)
+Lacabale34 collected 8381 from pot
+-ReborN- collected 8380 from pot
+*** SUMMARY ***
+Total pot 16761 | No rake
+Board: [7s 4c 7h 4d 7c]
+Seat 4: -ReborN- (small blind) showed [6c 5c] and won 8380 with Full of 7 and 4
+Seat 5: Lacabale34 (big blind) showed [Kh 8h] and won 8381 with Full of 7 and 4
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 3 - HandId: #2543160697009733643-30-1668802589 - Holdem no limit (35/150/300) - 2022/11/18 20:16:29 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: RATON705 (19504)
+Seat 2: YL_ML_GL_42 (50776)
+Seat 3: PAPYTUXX (12527)
+Seat 4: -ReborN- (14103)
+Seat 5: Lacabale34 (42316)
+Seat 6: MoyoPivo (19895)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 35
+MoyoPivo posts ante 35
+RATON705 posts ante 35
+YL_ML_GL_42 posts ante 35
+PAPYTUXX posts ante 35
+-ReborN- posts ante 35
+Lacabale34 posts small blind 150
+MoyoPivo posts big blind 300
+Dealt to YL_ML_GL_42 [7d 4s]
+*** PRE-FLOP *** 
+RATON705 folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 calls 150
+MoyoPivo raises 900 to 1200
+Lacabale34 calls 900
+*** FLOP *** [9d Qs 2c]
+Lacabale34 checks
+MoyoPivo bets 861
+Lacabale34 folds
+MoyoPivo collected 3471 from pot
+*** SUMMARY ***
+Total pot 3471 | No rake
+Board: [9d Qs 2c]
+Seat 6: MoyoPivo (big blind) won 3471
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 3 - HandId: #2543160697009733643-31-1668802637 - Holdem no limit (35/150/300) - 2022/11/18 20:17:17 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: RATON705 (19469)
+Seat 2: YL_ML_GL_42 (50741)
+Seat 3: PAPYTUXX (12492)
+Seat 4: -ReborN- (14068)
+Seat 5: Lacabale34 (41081)
+Seat 6: MoyoPivo (21270)
+*** ANTE/BLINDS ***
+MoyoPivo posts ante 35
+RATON705 posts ante 35
+YL_ML_GL_42 posts ante 35
+PAPYTUXX posts ante 35
+-ReborN- posts ante 35
+Lacabale34 posts ante 35
+MoyoPivo posts small blind 150
+RATON705 posts big blind 300
+Dealt to YL_ML_GL_42 [Qc 2s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 folds
+MoyoPivo calls 150
+RATON705 raises 810 to 1110
+MoyoPivo folds
+RATON705 collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Seat 1: RATON705 (big blind) won 1620
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 3 - HandId: #2543160697009733643-32-1668802680 - Holdem no limit (35/150/300) - 2022/11/18 20:18:00 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: RATON705 (19944)
+Seat 2: YL_ML_GL_42 (50706)
+Seat 3: PAPYTUXX (12457)
+Seat 4: -ReborN- (14033)
+Seat 5: Lacabale34 (41046)
+Seat 6: MoyoPivo (20935)
+*** ANTE/BLINDS ***
+RATON705 posts ante 35
+YL_ML_GL_42 posts ante 35
+PAPYTUXX posts ante 35
+-ReborN- posts ante 35
+Lacabale34 posts ante 35
+MoyoPivo posts ante 35
+RATON705 posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [2c 9h]
+*** PRE-FLOP *** 
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 calls 300
+MoyoPivo folds
+RATON705 calls 150
+YL_ML_GL_42 checks
+*** FLOP *** [5c Kh 3s]
+RATON705 bets 389
+YL_ML_GL_42 folds
+Lacabale34 calls 389
+*** TURN *** [5c Kh 3s][Th]
+RATON705 bets 661
+Lacabale34 folds
+RATON705 collected 2549 from pot
+*** SUMMARY ***
+Total pot 2549 | No rake
+Board: [5c Kh 3s Th]
+Seat 1: RATON705 (small blind) won 2549
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 4 - HandId: #2543160697009733643-33-1668802718 - Holdem no limit (40/175/350) - 2022/11/18 20:18:38 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: RATON705 (21108)
+Seat 2: YL_ML_GL_42 (50371)
+Seat 3: PAPYTUXX (12422)
+Seat 4: -ReborN- (13998)
+Seat 5: Lacabale34 (40322)
+Seat 6: MoyoPivo (20900)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 40
+PAPYTUXX posts ante 40
+RATON705 posts ante 40
+-ReborN- posts ante 40
+Lacabale34 posts ante 40
+MoyoPivo posts ante 40
+YL_ML_GL_42 posts small blind 175
+PAPYTUXX posts big blind 350
+Dealt to YL_ML_GL_42 [Ks 4s]
+*** PRE-FLOP *** 
+-ReborN- folds
+Lacabale34 folds
+MoyoPivo folds
+RATON705 folds
+YL_ML_GL_42 raises 842 to 1192
+PAPYTUXX folds
+YL_ML_GL_42 collected 1782 from pot
+*** SUMMARY ***
+Total pot 1782 | No rake
+Seat 2: YL_ML_GL_42 (small blind) won 1782
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 4 - HandId: #2543160697009733643-34-1668802756 - Holdem no limit (40/175/350) - 2022/11/18 20:19:16 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: RATON705 (21068)
+Seat 2: YL_ML_GL_42 (50921)
+Seat 3: PAPYTUXX (12032)
+Seat 4: -ReborN- (13958)
+Seat 5: Lacabale34 (40282)
+Seat 6: MoyoPivo (20860)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 40
+-ReborN- posts ante 40
+RATON705 posts ante 40
+YL_ML_GL_42 posts ante 40
+Lacabale34 posts ante 40
+MoyoPivo posts ante 40
+PAPYTUXX posts small blind 175
+-ReborN- posts big blind 350
+Dealt to YL_ML_GL_42 [4s As]
+*** PRE-FLOP *** 
+Lacabale34 folds
+MoyoPivo folds
+RATON705 folds
+YL_ML_GL_42 raises 700 to 1050
+PAPYTUXX folds
+-ReborN- folds
+YL_ML_GL_42 collected 1815 from pot
+*** SUMMARY ***
+Total pot 1815 | No rake
+Seat 2: YL_ML_GL_42 (button) won 1815
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 4 - HandId: #2543160697009733643-35-1668802794 - Holdem no limit (40/175/350) - 2022/11/18 20:19:54 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: RATON705 (21028)
+Seat 2: YL_ML_GL_42 (51646)
+Seat 3: PAPYTUXX (11817)
+Seat 4: -ReborN- (13568)
+Seat 5: Lacabale34 (40242)
+Seat 6: MoyoPivo (20820)
+*** ANTE/BLINDS ***
+-ReborN- posts ante 40
+Lacabale34 posts ante 40
+RATON705 posts ante 40
+YL_ML_GL_42 posts ante 40
+PAPYTUXX posts ante 40
+MoyoPivo posts ante 40
+-ReborN- posts small blind 175
+Lacabale34 posts big blind 350
+Dealt to YL_ML_GL_42 [5c 9s]
+*** PRE-FLOP *** 
+MoyoPivo folds
+RATON705 folds
+YL_ML_GL_42 folds
+PAPYTUXX raises 438 to 788
+-ReborN- calls 613
+Lacabale34 folds
+*** FLOP *** [3c 9c 3d]
+-ReborN- checks
+PAPYTUXX checks
+*** TURN *** [3c 9c 3d][Kd]
+-ReborN- bets 1526
+PAPYTUXX calls 1526
+*** RIVER *** [3c 9c 3d Kd][2d]
+-ReborN- checks
+PAPYTUXX checks
+*** SHOW DOWN ***
+-ReborN- shows [7c 6c] (One pair : 3)
+PAPYTUXX shows [Ks Js] (Two pairs : Kings and 3)
+PAPYTUXX collected 5218 from pot
+*** SUMMARY ***
+Total pot 5218 | No rake
+Board: [3c 9c 3d Kd 2d]
+Seat 3: PAPYTUXX (button) showed [Ks Js] and won 5218 with Two pairs : Kings and 3
+Seat 4: -ReborN- (small blind) showed [7c 6c] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 4 - HandId: #2543160697009733643-36-1668802902 - Holdem no limit (40/175/350) - 2022/11/18 20:21:42 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: RATON705 (20988)
+Seat 2: YL_ML_GL_42 (51606)
+Seat 3: PAPYTUXX (14681)
+Seat 4: -ReborN- (11214)
+Seat 5: Lacabale34 (39852)
+Seat 6: MoyoPivo (20780)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 40
+MoyoPivo posts ante 40
+RATON705 posts ante 40
+YL_ML_GL_42 posts ante 40
+PAPYTUXX posts ante 40
+-ReborN- posts ante 40
+Lacabale34 posts small blind 175
+MoyoPivo posts big blind 350
+Dealt to YL_ML_GL_42 [4c 5d]
+*** PRE-FLOP *** 
+RATON705 folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 calls 175
+MoyoPivo raises 875 to 1225
+Lacabale34 calls 875
+*** FLOP *** [3h Js Qd]
+Lacabale34 checks
+MoyoPivo bets 888
+Lacabale34 calls 888
+*** TURN *** [3h Js Qd][Jc]
+Lacabale34 checks
+MoyoPivo checks
+*** RIVER *** [3h Js Qd Jc][6h]
+Lacabale34 bets 1563
+MoyoPivo folds
+Lacabale34 collected 6029 from pot
+*** SUMMARY ***
+Total pot 6029 | No rake
+Board: [3h Js Qd Jc 6h]
+Seat 5: Lacabale34 (small blind) won 6029
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 4 - HandId: #2543160697009733643-37-1668802992 - Holdem no limit (40/175/350) - 2022/11/18 20:23:12 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: RATON705 (20948)
+Seat 2: YL_ML_GL_42 (51566)
+Seat 3: PAPYTUXX (14641)
+Seat 4: -ReborN- (11174)
+Seat 5: Lacabale34 (42165)
+Seat 6: MoyoPivo (18627)
+*** ANTE/BLINDS ***
+MoyoPivo posts ante 40
+RATON705 posts ante 40
+YL_ML_GL_42 posts ante 40
+PAPYTUXX posts ante 40
+-ReborN- posts ante 40
+Lacabale34 posts ante 40
+MoyoPivo posts small blind 175
+RATON705 posts big blind 350
+Dealt to YL_ML_GL_42 [9s 5h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 calls 350
+MoyoPivo folds
+RATON705 checks
+*** FLOP *** [9d 3d 4s]
+RATON705 checks
+Lacabale34 bets 1115
+RATON705 folds
+Lacabale34 collected 2230 from pot
+*** SUMMARY ***
+Total pot 2230 | No rake
+Board: [9d 3d 4s]
+Seat 5: Lacabale34 (button) won 2230
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 4 - HandId: #2543160697009733643-38-1668803057 - Holdem no limit (40/175/350) - 2022/11/18 20:24:17 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: RATON705 (20558)
+Seat 2: YL_ML_GL_42 (51526)
+Seat 3: PAPYTUXX (14601)
+Seat 4: -ReborN- (11134)
+Seat 5: Lacabale34 (42890)
+Seat 6: MoyoPivo (18412)
+*** ANTE/BLINDS ***
+RATON705 posts ante 40
+YL_ML_GL_42 posts ante 40
+PAPYTUXX posts ante 40
+-ReborN- posts ante 40
+Lacabale34 posts ante 40
+MoyoPivo posts ante 40
+RATON705 posts small blind 175
+YL_ML_GL_42 posts big blind 350
+Dealt to YL_ML_GL_42 [Td Ac]
+*** PRE-FLOP *** 
+PAPYTUXX raises 438 to 788
+-ReborN- folds
+Lacabale34 folds
+MoyoPivo folds
+RATON705 folds
+YL_ML_GL_42 raises 1991 to 2779
+PAPYTUXX calls 1991
+*** FLOP *** [6c Th 2d]
+YL_ML_GL_42 bets 2091
+PAPYTUXX folds
+YL_ML_GL_42 collected 8064 from pot
+*** SUMMARY ***
+Total pot 8064 | No rake
+Board: [6c Th 2d]
+Seat 2: YL_ML_GL_42 (big blind) won 8064
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 5 - HandId: #2543160697009733643-39-1668803138 - Holdem no limit (50/200/400) - 2022/11/18 20:25:38 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: RATON705 (20343)
+Seat 2: YL_ML_GL_42 (54680)
+Seat 3: PAPYTUXX (11782)
+Seat 4: -ReborN- (11094)
+Seat 5: Lacabale34 (42850)
+Seat 6: MoyoPivo (18372)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 50
+PAPYTUXX posts ante 50
+RATON705 posts ante 50
+-ReborN- posts ante 50
+Lacabale34 posts ante 50
+MoyoPivo posts ante 50
+YL_ML_GL_42 posts small blind 200
+PAPYTUXX posts big blind 400
+Dealt to YL_ML_GL_42 [7c 4d]
+*** PRE-FLOP *** 
+-ReborN- folds
+Lacabale34 calls 400
+MoyoPivo folds
+RATON705 raises 400 to 800
+YL_ML_GL_42 folds
+PAPYTUXX folds
+Lacabale34 calls 400
+*** FLOP *** [3c 3s 5c]
+Lacabale34 checks
+RATON705 checks
+*** TURN *** [3c 3s 5c][9s]
+Lacabale34 bets 875
+RATON705 calls 875
+*** RIVER *** [3c 3s 5c 9s][8c]
+Lacabale34 bets 1488
+RATON705 raises 7226 to 8714
+Lacabale34 calls 7226
+*** SHOW DOWN ***
+RATON705 shows [Kc Jd] (One pair : 3)
+Lacabale34 shows [Qc Qd] (Two pairs : Queens and 3)
+Lacabale34 collected 21678 from pot
+*** SUMMARY ***
+Total pot 21678 | No rake
+Board: [3c 3s 5c 9s 8c]
+Seat 1: RATON705 (button) showed [Kc Jd] and lost with One pair : 3
+Seat 5: Lacabale34 showed [Qc Qd] and won 21678 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 5 - HandId: #2543160697009733643-40-1668803210 - Holdem no limit (50/200/400) - 2022/11/18 20:26:50 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: RATON705 (9904)
+Seat 2: YL_ML_GL_42 (54430)
+Seat 3: PAPYTUXX (11332)
+Seat 4: -ReborN- (11044)
+Seat 5: Lacabale34 (54089)
+Seat 6: MoyoPivo (18322)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 50
+-ReborN- posts ante 50
+RATON705 posts ante 50
+YL_ML_GL_42 posts ante 50
+Lacabale34 posts ante 50
+MoyoPivo posts ante 50
+PAPYTUXX posts small blind 200
+-ReborN- posts big blind 400
+Dealt to YL_ML_GL_42 [4c 5s]
+*** PRE-FLOP *** 
+Lacabale34 folds
+MoyoPivo raises 400 to 800
+RATON705 folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- calls 400
+*** FLOP *** [Ks Kh Jd]
+-ReborN- checks
+MoyoPivo bets 693
+-ReborN- folds
+MoyoPivo collected 2793 from pot
+*** SUMMARY ***
+Total pot 2793 | No rake
+Board: [Ks Kh Jd]
+Seat 6: MoyoPivo won 2793
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 5 - HandId: #2543160697009733643-41-1668803254 - Holdem no limit (50/200/400) - 2022/11/18 20:27:34 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: RATON705 (9854)
+Seat 2: YL_ML_GL_42 (54380)
+Seat 3: PAPYTUXX (11082)
+Seat 4: -ReborN- (10194)
+Seat 5: Lacabale34 (54039)
+Seat 6: MoyoPivo (19572)
+*** ANTE/BLINDS ***
+-ReborN- posts ante 50
+Lacabale34 posts ante 50
+RATON705 posts ante 50
+YL_ML_GL_42 posts ante 50
+PAPYTUXX posts ante 50
+MoyoPivo posts ante 50
+-ReborN- posts small blind 200
+Lacabale34 posts big blind 400
+Dealt to YL_ML_GL_42 [8c 9s]
+*** PRE-FLOP *** 
+MoyoPivo folds
+RATON705 folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 5: Lacabale34 (big blind) won 900
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 5 - HandId: #2543160697009733643-42-1668803272 - Holdem no limit (50/200/400) - 2022/11/18 20:27:52 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: RATON705 (9804)
+Seat 2: YL_ML_GL_42 (54330)
+Seat 3: PAPYTUXX (11032)
+Seat 4: -ReborN- (9944)
+Seat 5: Lacabale34 (54489)
+Seat 6: MoyoPivo (19522)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 50
+MoyoPivo posts ante 50
+RATON705 posts ante 50
+YL_ML_GL_42 posts ante 50
+PAPYTUXX posts ante 50
+-ReborN- posts ante 50
+Lacabale34 posts small blind 200
+MoyoPivo posts big blind 400
+Dealt to YL_ML_GL_42 [As 4d]
+*** PRE-FLOP *** 
+RATON705 calls 400
+YL_ML_GL_42 raises 400 to 800
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 folds
+MoyoPivo folds
+RATON705 calls 400
+*** FLOP *** [Jh Ts 7d]
+RATON705 checks
+YL_ML_GL_42 bets 875
+RATON705 folds
+YL_ML_GL_42 collected 3375 from pot
+*** SUMMARY ***
+Total pot 3375 | No rake
+Board: [Jh Ts 7d]
+Seat 2: YL_ML_GL_42 won 3375
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 5 - HandId: #2543160697009733643-43-1668803322 - Holdem no limit (50/200/400) - 2022/11/18 20:28:42 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: RATON705 (8954)
+Seat 2: YL_ML_GL_42 (55980)
+Seat 3: PAPYTUXX (10982)
+Seat 4: -ReborN- (9894)
+Seat 5: Lacabale34 (54239)
+Seat 6: MoyoPivo (19072)
+*** ANTE/BLINDS ***
+MoyoPivo posts ante 50
+RATON705 posts ante 50
+YL_ML_GL_42 posts ante 50
+PAPYTUXX posts ante 50
+-ReborN- posts ante 50
+Lacabale34 posts ante 50
+MoyoPivo posts small blind 200
+RATON705 posts big blind 400
+Dealt to YL_ML_GL_42 [2c Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 raises 800 to 1200
+MoyoPivo folds
+RATON705 calls 800
+*** FLOP *** [Td 4d Qs]
+RATON705 checks
+Lacabale34 checks
+*** TURN *** [Td 4d Qs][Ks]
+RATON705 checks
+Lacabale34 bets 2900
+RATON705 folds
+Lacabale34 collected 5800 from pot
+*** SUMMARY ***
+Total pot 5800 | No rake
+Board: [Td 4d Qs Ks]
+Seat 5: Lacabale34 (button) won 5800
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 5 - HandId: #2543160697009733643-44-1668803406 - Holdem no limit (50/200/400) - 2022/11/18 20:30:06 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: RATON705 (7704)
+Seat 2: YL_ML_GL_42 (55930)
+Seat 3: PAPYTUXX (10932)
+Seat 4: -ReborN- (9844)
+Seat 5: Lacabale34 (55889)
+Seat 6: MoyoPivo (18822)
+*** ANTE/BLINDS ***
+RATON705 posts ante 50
+YL_ML_GL_42 posts ante 50
+PAPYTUXX posts ante 50
+-ReborN- posts ante 50
+Lacabale34 posts ante 50
+MoyoPivo posts ante 50
+RATON705 posts small blind 200
+YL_ML_GL_42 posts big blind 400
+Dealt to YL_ML_GL_42 [8c 9h]
+*** PRE-FLOP *** 
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 calls 400
+MoyoPivo folds
+RATON705 raises 7254 to 7654 and is all-in
+YL_ML_GL_42 folds
+Lacabale34 calls 7254
+*** FLOP *** [Kh Kc 9s]
+*** TURN *** [Kh Kc 9s][3h]
+*** RIVER *** [Kh Kc 9s 3h][Qh]
+*** SHOW DOWN ***
+Lacabale34 shows [4c 4h] (Two pairs : Kings and 4)
+RATON705 shows [Ah Qs] (Two pairs : Kings and Queens)
+RATON705 collected 16008 from pot
+*** SUMMARY ***
+Total pot 16008 | No rake
+Board: [Kh Kc 9s 3h Qh]
+Seat 1: RATON705 (small blind) showed [Ah Qs] and won 16008 with Two pairs : Kings and Queens
+Seat 5: Lacabale34 showed [4c 4h] and lost with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 6 - HandId: #2543160697009733643-45-1668803451 - Holdem no limit (60/250/500) - 2022/11/18 20:30:51 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: RATON705 (16008)
+Seat 2: YL_ML_GL_42 (55480)
+Seat 3: PAPYTUXX (10882)
+Seat 4: -ReborN- (9794)
+Seat 5: Lacabale34 (48185)
+Seat 6: MoyoPivo (18772)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+PAPYTUXX posts ante 60
+RATON705 posts ante 60
+-ReborN- posts ante 60
+Lacabale34 posts ante 60
+MoyoPivo posts ante 60
+YL_ML_GL_42 posts small blind 250
+PAPYTUXX posts big blind 500
+Dealt to YL_ML_GL_42 [Kd Ad]
+*** PRE-FLOP *** 
+-ReborN- raises 9234 to 9734 and is all-in
+Lacabale34 folds
+MoyoPivo folds
+RATON705 folds
+YL_ML_GL_42 raises 45686 to 55420 and is all-in
+PAPYTUXX folds
+*** FLOP *** [Ts 7d 6h]
+*** TURN *** [Ts 7d 6h][Jd]
+*** RIVER *** [Ts 7d 6h Jd][7h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kd Ad] (One pair : 7)
+-ReborN- shows [Ac Jc] (Two pairs : Jacks and 7)
+-ReborN- collected 20328 from main pot
+YL_ML_GL_42 collected 45686 from side pot 1
+*** SUMMARY ***
+Total pot 66014 | No rake
+Board: [Ts 7d 6h Jd 7h]
+Seat 2: YL_ML_GL_42 (small blind) showed [Kd Ad] and won 45686 with One pair : 7
+Seat 4: -ReborN- showed [Ac Jc] and won 20328 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 6 - HandId: #2543160697009733643-46-1668803479 - Holdem no limit (60/250/500) - 2022/11/18 20:31:19 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: RATON705 (15948)
+Seat 2: YL_ML_GL_42 (45686)
+Seat 3: PAPYTUXX (10322)
+Seat 4: -ReborN- (20328)
+Seat 5: Lacabale34 (48125)
+Seat 6: MoyoPivo (18712)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 60
+-ReborN- posts ante 60
+RATON705 posts ante 60
+YL_ML_GL_42 posts ante 60
+Lacabale34 posts ante 60
+MoyoPivo posts ante 60
+PAPYTUXX posts small blind 250
+-ReborN- posts big blind 500
+Dealt to YL_ML_GL_42 [3h Ts]
+*** PRE-FLOP *** 
+Lacabale34 folds
+MoyoPivo folds
+RATON705 folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Seat 4: -ReborN- (big blind) won 1110
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 6 - HandId: #2543160697009733643-47-1668803497 - Holdem no limit (60/250/500) - 2022/11/18 20:31:37 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: RATON705 (15888)
+Seat 2: YL_ML_GL_42 (45626)
+Seat 3: PAPYTUXX (10012)
+Seat 4: -ReborN- (20878)
+Seat 5: Lacabale34 (48065)
+Seat 6: MoyoPivo (18652)
+*** ANTE/BLINDS ***
+-ReborN- posts ante 60
+Lacabale34 posts ante 60
+RATON705 posts ante 60
+YL_ML_GL_42 posts ante 60
+PAPYTUXX posts ante 60
+MoyoPivo posts ante 60
+-ReborN- posts small blind 250
+Lacabale34 posts big blind 500
+Dealt to YL_ML_GL_42 [Ah 3s]
+*** PRE-FLOP *** 
+MoyoPivo folds
+RATON705 folds
+YL_ML_GL_42 raises 500 to 1000
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 folds
+YL_ML_GL_42 collected 2110 from pot
+*** SUMMARY ***
+Total pot 2110 | No rake
+Seat 2: YL_ML_GL_42 won 2110
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 6 - HandId: #2543160697009733643-48-1668803528 - Holdem no limit (60/250/500) - 2022/11/18 20:32:08 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: RATON705 (15828)
+Seat 2: YL_ML_GL_42 (46676)
+Seat 3: PAPYTUXX (9952)
+Seat 4: -ReborN- (20568)
+Seat 5: Lacabale34 (47505)
+Seat 6: MoyoPivo (18592)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 60
+MoyoPivo posts ante 60
+RATON705 posts ante 60
+YL_ML_GL_42 posts ante 60
+PAPYTUXX posts ante 60
+-ReborN- posts ante 60
+Lacabale34 posts small blind 250
+MoyoPivo posts big blind 500
+Dealt to YL_ML_GL_42 [7s 7c]
+*** PRE-FLOP *** 
+RATON705 calls 500
+YL_ML_GL_42 raises 2110 to 2610
+PAPYTUXX folds
+-ReborN- folds
+Lacabale34 calls 2360
+MoyoPivo folds
+RATON705 folds
+*** FLOP *** [5c 7d 4d]
+Lacabale34 checks
+YL_ML_GL_42 bets 1645
+Lacabale34 calls 1645
+*** TURN *** [5c 7d 4d][2c]
+Lacabale34 checks
+YL_ML_GL_42 bets 4935
+Lacabale34 folds
+YL_ML_GL_42 collected 14805 from pot
+*** SUMMARY ***
+Total pot 14805 | No rake
+Board: [5c 7d 4d 2c]
+Seat 2: YL_ML_GL_42 won 14805
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 6 - HandId: #2543160697009733643-49-1668803569 - Holdem no limit (60/250/500) - 2022/11/18 20:32:49 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: RATON705 (15268)
+Seat 2: YL_ML_GL_42 (52231)
+Seat 3: PAPYTUXX (9892)
+Seat 4: -ReborN- (20508)
+Seat 5: Lacabale34 (43190)
+Seat 6: MoyoPivo (18032)
+*** ANTE/BLINDS ***
+MoyoPivo posts ante 60
+RATON705 posts ante 60
+YL_ML_GL_42 posts ante 60
+PAPYTUXX posts ante 60
+-ReborN- posts ante 60
+Lacabale34 posts ante 60
+MoyoPivo posts small blind 250
+RATON705 posts big blind 500
+Dealt to YL_ML_GL_42 [5s 4h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+PAPYTUXX folds
+-ReborN- raises 500 to 1000
+Lacabale34 calls 1000
+MoyoPivo folds
+RATON705 calls 500
+*** FLOP *** [Jd Ts 6c]
+RATON705 checks
+-ReborN- bets 2347
+Lacabale34 calls 2347
+RATON705 folds
+*** TURN *** [Jd Ts 6c][3d]
+-ReborN- bets 4610
+Lacabale34 calls 4610
+*** RIVER *** [Jd Ts 6c 3d][Qh]
+-ReborN- bets 12491 and is all-in
+Lacabale34 calls 12491
+*** SHOW DOWN ***
+-ReborN- shows [6h Th] (Two pairs : Tens and 6)
+Lacabale34 shows [As Ks] (Straight Ace high)
+Lacabale34 collected 42506 from pot
+*** SUMMARY ***
+Total pot 42506 | No rake
+Board: [Jd Ts 6c 3d Qh]
+Seat 4: -ReborN- showed [6h Th] and lost with Two pairs : Tens and 6
+Seat 5: Lacabale34 (button) showed [As Ks] and won 42506 with Straight Ace high
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 6 - HandId: #2543160697009733643-50-1668803665 - Holdem no limit (60/250/500) - 2022/11/18 20:34:25 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: RATON705 (14208)
+Seat 2: YL_ML_GL_42 (52171)
+Seat 3: PAPYTUXX (9832)
+Seat 5: Lacabale34 (65188)
+Seat 6: MoyoPivo (17722)
+*** ANTE/BLINDS ***
+RATON705 posts ante 60
+YL_ML_GL_42 posts ante 60
+PAPYTUXX posts ante 60
+Lacabale34 posts ante 60
+MoyoPivo posts ante 60
+RATON705 posts small blind 250
+YL_ML_GL_42 posts big blind 500
+Dealt to YL_ML_GL_42 [2c Qh]
+*** PRE-FLOP *** 
+PAPYTUXX folds
+Lacabale34 calls 500
+MoyoPivo folds
+RATON705 raises 1000 to 1500
+YL_ML_GL_42 folds
+Lacabale34 calls 1000
+*** FLOP *** [4c 6c 4s]
+RATON705 checks
+Lacabale34 checks
+*** TURN *** [4c 6c 4s][Ks]
+RATON705 bets 1330
+Lacabale34 calls 1330
+*** RIVER *** [4c 6c 4s Ks][5c]
+RATON705 checks
+Lacabale34 checks
+*** SHOW DOWN ***
+RATON705 shows [Js Qd] (One pair : 4)
+Lacabale34 shows [5d Ac] (Two pairs : 5 and 4)
+Lacabale34 collected 6460 from pot
+*** SUMMARY ***
+Total pot 6460 | No rake
+Board: [4c 6c 4s Ks 5c]
+Seat 1: RATON705 (small blind) showed [Js Qd] and lost with One pair : 4
+Seat 5: Lacabale34 showed [5d Ac] and won 6460 with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 6 - HandId: #2543160697009733643-51-1668803712 - Holdem no limit (60/250/500) - 2022/11/18 20:35:12 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: RATON705 (11318)
+Seat 2: YL_ML_GL_42 (51611)
+Seat 3: PAPYTUXX (9772)
+Seat 4: mixbkomito (20000)
+Seat 5: Lacabale34 (68758)
+Seat 6: MoyoPivo (17662)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+PAPYTUXX posts ante 60
+RATON705 posts ante 60
+mixbkomito posts ante 60
+Lacabale34 posts ante 60
+MoyoPivo posts ante 60
+YL_ML_GL_42 posts small blind 250
+PAPYTUXX posts big blind 500
+Dealt to YL_ML_GL_42 [Ad 5d]
+*** PRE-FLOP *** 
+mixbkomito folds
+Lacabale34 folds
+MoyoPivo raises 750 to 1250
+RATON705 folds
+YL_ML_GL_42 calls 1000
+PAPYTUXX folds
+*** FLOP *** [4c As 6c]
+YL_ML_GL_42 bets 1680
+MoyoPivo folds
+YL_ML_GL_42 collected 5040 from pot
+*** SUMMARY ***
+Total pot 5040 | No rake
+Board: [4c As 6c]
+Seat 2: YL_ML_GL_42 (small blind) won 5040
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 6 - HandId: #2543160697009733643-52-1668803779 - Holdem no limit (60/250/500) - 2022/11/18 20:36:19 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: RATON705 (11258)
+Seat 2: YL_ML_GL_42 (53661)
+Seat 3: PAPYTUXX (9212)
+Seat 4: mixbkomito (19940)
+Seat 5: Lacabale34 (68698)
+Seat 6: MoyoPivo (16352)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 60
+mixbkomito posts ante 60
+RATON705 posts ante 60
+YL_ML_GL_42 posts ante 60
+Lacabale34 posts ante 60
+MoyoPivo posts ante 60
+PAPYTUXX posts small blind 250
+mixbkomito posts big blind 500
+Dealt to YL_ML_GL_42 [4c Td]
+*** PRE-FLOP *** 
+Lacabale34 folds
+MoyoPivo raises 500 to 1000
+RATON705 folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+mixbkomito folds
+MoyoPivo collected 2110 from pot
+*** SUMMARY ***
+Total pot 2110 | No rake
+Seat 6: MoyoPivo won 2110
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 7 - HandId: #2543160697009733643-53-1668803802 - Holdem no limit (70/300/600) - 2022/11/18 20:36:42 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: RATON705 (11198)
+Seat 2: YL_ML_GL_42 (53601)
+Seat 3: PAPYTUXX (8902)
+Seat 4: mixbkomito (19380)
+Seat 5: Lacabale34 (68638)
+Seat 6: MoyoPivo (17402)
+*** ANTE/BLINDS ***
+mixbkomito posts ante 70
+Lacabale34 posts ante 70
+RATON705 posts ante 70
+YL_ML_GL_42 posts ante 70
+PAPYTUXX posts ante 70
+MoyoPivo posts ante 70
+mixbkomito posts small blind 300
+Lacabale34 posts big blind 600
+Dealt to YL_ML_GL_42 [Jh Td]
+*** PRE-FLOP *** 
+MoyoPivo folds
+RATON705 calls 600
+YL_ML_GL_42 raises 600 to 1200
+PAPYTUXX raises 7632 to 8832 and is all-in
+mixbkomito folds
+Lacabale34 calls 8232
+RATON705 folds
+YL_ML_GL_42 folds
+*** FLOP *** [8d Kd 7c]
+*** TURN *** [8d Kd 7c][9s]
+*** RIVER *** [8d Kd 7c 9s][As]
+*** SHOW DOWN ***
+Lacabale34 shows [Qd Qc] (One pair : Queens)
+PAPYTUXX shows [Ac Ts] (One pair : Aces)
+PAPYTUXX collected 20184 from pot
+*** SUMMARY ***
+Total pot 20184 | No rake
+Board: [8d Kd 7c 9s As]
+Seat 3: PAPYTUXX (button) showed [Ac Ts] and won 20184 with One pair : Aces
+Seat 5: Lacabale34 (big blind) showed [Qd Qc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 7 - HandId: #2543160697009733643-54-1668803859 - Holdem no limit (70/300/600) - 2022/11/18 20:37:39 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: RATON705 (10528)
+Seat 2: YL_ML_GL_42 (52331)
+Seat 3: PAPYTUXX (20184)
+Seat 4: mixbkomito (19010)
+Seat 5: Lacabale34 (59736)
+Seat 6: MoyoPivo (17332)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 70
+MoyoPivo posts ante 70
+RATON705 posts ante 70
+YL_ML_GL_42 posts ante 70
+PAPYTUXX posts ante 70
+mixbkomito posts ante 70
+Lacabale34 posts small blind 300
+MoyoPivo posts big blind 600
+Dealt to YL_ML_GL_42 [Jc 2s]
+*** PRE-FLOP *** 
+RATON705 folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+mixbkomito folds
+Lacabale34 calls 300
+MoyoPivo checks
+*** FLOP *** [2h 7s 6s]
+Lacabale34 bets 600
+MoyoPivo calls 600
+*** TURN *** [2h 7s 6s][Kh]
+Lacabale34 checks
+MoyoPivo bets 1918
+Lacabale34 folds
+MoyoPivo collected 4738 from pot
+*** SUMMARY ***
+Total pot 4738 | No rake
+Board: [2h 7s 6s Kh]
+Seat 6: MoyoPivo (big blind) won 4738
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 7 - HandId: #2543160697009733643-55-1668803907 - Holdem no limit (70/300/600) - 2022/11/18 20:38:27 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: RATON705 (10458)
+Seat 2: YL_ML_GL_42 (52261)
+Seat 3: PAPYTUXX (20114)
+Seat 4: mixbkomito (18940)
+Seat 5: Lacabale34 (58466)
+Seat 6: MoyoPivo (18882)
+*** ANTE/BLINDS ***
+MoyoPivo posts ante 70
+RATON705 posts ante 70
+YL_ML_GL_42 posts ante 70
+PAPYTUXX posts ante 70
+mixbkomito posts ante 70
+Lacabale34 posts ante 70
+MoyoPivo posts small blind 300
+RATON705 posts big blind 600
+Dealt to YL_ML_GL_42 [Ts 9h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+PAPYTUXX folds
+mixbkomito raises 600 to 1200
+Lacabale34 calls 1200
+MoyoPivo folds
+RATON705 calls 600
+*** FLOP *** [6s 8h Kd]
+RATON705 checks
+mixbkomito bets 1512
+Lacabale34 calls 1512
+RATON705 folds
+*** TURN *** [6s 8h Kd][2c]
+mixbkomito checks
+Lacabale34 bets 4774
+mixbkomito folds
+Lacabale34 collected 12118 from pot
+*** SUMMARY ***
+Total pot 12118 | No rake
+Board: [6s 8h Kd 2c]
+Seat 5: Lacabale34 (button) won 12118
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 7 - HandId: #2543160697009733643-56-1668803980 - Holdem no limit (70/300/600) - 2022/11/18 20:39:40 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: RATON705 (9188)
+Seat 2: YL_ML_GL_42 (52191)
+Seat 3: PAPYTUXX (20044)
+Seat 4: mixbkomito (16158)
+Seat 5: Lacabale34 (63028)
+Seat 6: MoyoPivo (18512)
+*** ANTE/BLINDS ***
+RATON705 posts ante 70
+YL_ML_GL_42 posts ante 70
+PAPYTUXX posts ante 70
+mixbkomito posts ante 70
+Lacabale34 posts ante 70
+MoyoPivo posts ante 70
+RATON705 posts small blind 300
+YL_ML_GL_42 posts big blind 600
+Dealt to YL_ML_GL_42 [5d As]
+*** PRE-FLOP *** 
+PAPYTUXX folds
+mixbkomito folds
+Lacabale34 folds
+MoyoPivo folds
+RATON705 calls 300
+YL_ML_GL_42 checks
+*** FLOP *** [Th 8s 7d]
+RATON705 bets 1053
+YL_ML_GL_42 folds
+RATON705 collected 2673 from pot
+*** SUMMARY ***
+Total pot 2673 | No rake
+Board: [Th 8s 7d]
+Seat 1: RATON705 (small blind) won 2673
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 7 - HandId: #2543160697009733643-57-1668804009 - Holdem no limit (70/300/600) - 2022/11/18 20:40:09 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: RATON705 (10138)
+Seat 2: YL_ML_GL_42 (51521)
+Seat 3: PAPYTUXX (19974)
+Seat 4: mixbkomito (16088)
+Seat 5: Lacabale34 (62958)
+Seat 6: MoyoPivo (18442)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 70
+PAPYTUXX posts ante 70
+RATON705 posts ante 70
+mixbkomito posts ante 70
+Lacabale34 posts ante 70
+MoyoPivo posts ante 70
+YL_ML_GL_42 posts small blind 300
+PAPYTUXX posts big blind 600
+Dealt to YL_ML_GL_42 [6h 4h]
+*** PRE-FLOP *** 
+mixbkomito folds
+Lacabale34 calls 600
+MoyoPivo folds
+RATON705 calls 600
+YL_ML_GL_42 calls 300
+PAPYTUXX checks
+*** FLOP *** [2s 4d Jh]
+YL_ML_GL_42 checks
+PAPYTUXX checks
+Lacabale34 bets 987
+RATON705 calls 987
+YL_ML_GL_42 folds
+PAPYTUXX folds
+*** TURN *** [2s 4d Jh][As]
+Lacabale34 checks
+RATON705 checks
+*** RIVER *** [2s 4d Jh As][2d]
+Lacabale34 checks
+RATON705 checks
+*** SHOW DOWN ***
+RATON705 shows [Qh Th] (One pair : 2)
+Lacabale34 shows [4c Qc] (Two pairs : 4 and 2)
+Lacabale34 collected 4794 from pot
+*** SUMMARY ***
+Total pot 4794 | No rake
+Board: [2s 4d Jh As 2d]
+Seat 1: RATON705 (button) showed [Qh Th] and lost with One pair : 2
+Seat 5: Lacabale34 showed [4c Qc] and won 4794 with Two pairs : 4 and 2
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 7 - HandId: #2543160697009733643-58-1668804086 - Holdem no limit (70/300/600) - 2022/11/18 20:41:26 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: RATON705 (8481)
+Seat 2: YL_ML_GL_42 (50851)
+Seat 3: PAPYTUXX (19304)
+Seat 4: mixbkomito (16018)
+Seat 5: Lacabale34 (66095)
+Seat 6: MoyoPivo (18372)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 70
+mixbkomito posts ante 70
+RATON705 posts ante 70
+YL_ML_GL_42 posts ante 70
+Lacabale34 posts ante 70
+MoyoPivo posts ante 70
+PAPYTUXX posts small blind 300
+mixbkomito posts big blind 600
+Dealt to YL_ML_GL_42 [6h 8d]
+*** PRE-FLOP *** 
+Lacabale34 calls 600
+MoyoPivo folds
+RATON705 folds
+YL_ML_GL_42 folds
+PAPYTUXX raises 1500 to 2100
+mixbkomito folds
+Lacabale34 calls 1500
+*** FLOP *** [5h 8c 9h]
+PAPYTUXX checks
+Lacabale34 bets 3393
+PAPYTUXX folds
+Lacabale34 collected 8613 from pot
+*** SUMMARY ***
+Total pot 8613 | No rake
+Board: [5h 8c 9h]
+Seat 5: Lacabale34 won 8613
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 8 - HandId: #2543160697009733643-59-1668804145 - Holdem no limit (80/350/700) - 2022/11/18 20:42:25 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: RATON705 (8411)
+Seat 2: YL_ML_GL_42 (50781)
+Seat 3: PAPYTUXX (17134)
+Seat 4: mixbkomito (15348)
+Seat 5: Lacabale34 (69145)
+Seat 6: MoyoPivo (18302)
+*** ANTE/BLINDS ***
+mixbkomito posts ante 80
+Lacabale34 posts ante 80
+RATON705 posts ante 80
+YL_ML_GL_42 posts ante 80
+PAPYTUXX posts ante 80
+MoyoPivo posts ante 80
+mixbkomito posts small blind 350
+Lacabale34 posts big blind 700
+Dealt to YL_ML_GL_42 [6h 4d]
+*** PRE-FLOP *** 
+MoyoPivo folds
+RATON705 folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+mixbkomito folds
+Lacabale34 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 5: Lacabale34 (big blind) won 1530
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 8 - HandId: #2543160697009733643-60-1668804178 - Holdem no limit (80/350/700) - 2022/11/18 20:42:58 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: RATON705 (8331)
+Seat 2: YL_ML_GL_42 (50701)
+Seat 3: PAPYTUXX (17054)
+Seat 4: mixbkomito (14918)
+Seat 5: Lacabale34 (69895)
+Seat 6: MoyoPivo (18222)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 80
+MoyoPivo posts ante 80
+RATON705 posts ante 80
+YL_ML_GL_42 posts ante 80
+PAPYTUXX posts ante 80
+mixbkomito posts ante 80
+Lacabale34 posts small blind 350
+MoyoPivo posts big blind 700
+Dealt to YL_ML_GL_42 [Qs Ts]
+*** PRE-FLOP *** 
+RATON705 folds
+YL_ML_GL_42 raises 875 to 1575
+PAPYTUXX folds
+mixbkomito folds
+Lacabale34 folds
+MoyoPivo calls 875
+*** FLOP *** [2h Js 5h]
+MoyoPivo checks
+YL_ML_GL_42 bets 1990
+MoyoPivo calls 1990
+*** TURN *** [2h Js 5h][2d]
+MoyoPivo checks
+YL_ML_GL_42 checks
+*** RIVER *** [2h Js 5h 2d][Ad]
+MoyoPivo checks
+YL_ML_GL_42 bets 5174
+MoyoPivo calls 5174
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Qs Ts] (One pair : 2)
+MoyoPivo shows [Ac 5d] (Two pairs : Aces and 5)
+MoyoPivo collected 18308 from pot
+*** SUMMARY ***
+Total pot 18308 | No rake
+Board: [2h Js 5h 2d Ad]
+Seat 2: YL_ML_GL_42 showed [Qs Ts] and lost with One pair : 2
+Seat 6: MoyoPivo (big blind) showed [Ac 5d] and won 18308 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 8 - HandId: #2543160697009733643-61-1668804250 - Holdem no limit (80/350/700) - 2022/11/18 20:44:10 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: RATON705 (8251)
+Seat 2: YL_ML_GL_42 (41882)
+Seat 3: PAPYTUXX (16974)
+Seat 4: mixbkomito (14838)
+Seat 5: Lacabale34 (69465)
+Seat 6: MoyoPivo (27711)
+*** ANTE/BLINDS ***
+MoyoPivo posts ante 80
+RATON705 posts ante 80
+YL_ML_GL_42 posts ante 80
+PAPYTUXX posts ante 80
+mixbkomito posts ante 80
+Lacabale34 posts ante 80
+MoyoPivo posts small blind 350
+RATON705 posts big blind 700
+Dealt to YL_ML_GL_42 [Kc 9s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+PAPYTUXX folds
+mixbkomito raises 700 to 1400
+Lacabale34 calls 1400
+MoyoPivo folds
+RATON705 folds
+*** FLOP *** [7d Jh 6d]
+mixbkomito bets 1083
+Lacabale34 raises 1570 to 2653
+mixbkomito folds
+Lacabale34 collected 8066 from pot
+*** SUMMARY ***
+Total pot 8066 | No rake
+Board: [7d Jh 6d]
+Seat 5: Lacabale34 (button) won 8066
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 8 - HandId: #2543160697009733643-62-1668804313 - Holdem no limit (80/350/700) - 2022/11/18 20:45:13 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: RATON705 (7471)
+Seat 2: YL_ML_GL_42 (41802)
+Seat 3: PAPYTUXX (16894)
+Seat 4: mixbkomito (12275)
+Seat 5: Lacabale34 (73398)
+Seat 6: MoyoPivo (27281)
+*** ANTE/BLINDS ***
+RATON705 posts ante 80
+YL_ML_GL_42 posts ante 80
+PAPYTUXX posts ante 80
+mixbkomito posts ante 80
+Lacabale34 posts ante 80
+MoyoPivo posts ante 80
+RATON705 posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [4s 7d]
+*** PRE-FLOP *** 
+PAPYTUXX folds
+mixbkomito folds
+Lacabale34 folds
+MoyoPivo folds
+RATON705 calls 350
+YL_ML_GL_42 checks
+*** FLOP *** [Tc 3h Jh]
+RATON705 checks
+YL_ML_GL_42 checks
+*** TURN *** [Tc 3h Jh][Qd]
+RATON705 checks
+YL_ML_GL_42 checks
+*** RIVER *** [Tc 3h Jh Qd][Kc]
+RATON705 checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [4s 7d] (High card : King)
+RATON705 shows [2h 8s] (High card : King)
+RATON705 collected 1880 from pot
+*** SUMMARY ***
+Total pot 1880 | No rake
+Board: [Tc 3h Jh Qd Kc]
+Seat 1: RATON705 (small blind) showed [2h 8s] and won 1880 with High card : King
+Seat 2: YL_ML_GL_42 (big blind) showed [4s 7d] and lost with High card : King
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 8 - HandId: #2543160697009733643-63-1668804374 - Holdem no limit (80/350/700) - 2022/11/18 20:46:14 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: RATON705 (8571)
+Seat 2: YL_ML_GL_42 (41022)
+Seat 3: PAPYTUXX (16814)
+Seat 4: mixbkomito (12195)
+Seat 5: Lacabale34 (73318)
+Seat 6: MoyoPivo (27201)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+PAPYTUXX posts ante 80
+RATON705 posts ante 80
+mixbkomito posts ante 80
+Lacabale34 posts ante 80
+MoyoPivo posts ante 80
+YL_ML_GL_42 posts small blind 350
+PAPYTUXX posts big blind 700
+Dealt to YL_ML_GL_42 [Qd Ks]
+*** PRE-FLOP *** 
+mixbkomito folds
+Lacabale34 raises 700 to 1400
+MoyoPivo folds
+RATON705 calls 1400
+YL_ML_GL_42 calls 1050
+PAPYTUXX raises 4200 to 5600
+Lacabale34 folds
+RATON705 raises 2891 to 8491 and is all-in
+YL_ML_GL_42 calls 7091
+PAPYTUXX calls 2891
+*** FLOP *** [8c 4h 4c]
+YL_ML_GL_42 bets 32451 and is all-in
+PAPYTUXX calls 8243 and is all-in
+*** TURN *** [8c 4h 4c][Th]
+*** RIVER *** [8c 4h 4c Th][3s]
+*** SHOW DOWN ***
+RATON705 shows [5s As] (One pair : 4)
+YL_ML_GL_42 shows [Qd Ks] (One pair : 4)
+PAPYTUXX shows [Kd Kh] (Two pairs : Kings and 4)
+PAPYTUXX collected 43839 from main pot
+YL_ML_GL_42 collected 24208 from side pot 1
+*** SUMMARY ***
+Total pot 68047 | No rake
+Board: [8c 4h 4c Th 3s]
+Seat 1: RATON705 (button) showed [5s As] and lost with One pair : 4
+Seat 2: YL_ML_GL_42 (small blind) showed [Qd Ks] and won 24208 with One pair : 4
+Seat 3: PAPYTUXX (big blind) showed [Kd Kh] and won 43839 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 8 - HandId: #2543160697009733643-64-1668804437 - Holdem no limit (80/350/700) - 2022/11/18 20:47:17 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 2: YL_ML_GL_42 (24208)
+Seat 3: PAPYTUXX (43839)
+Seat 4: mixbkomito (12115)
+Seat 5: Lacabale34 (71838)
+Seat 6: MoyoPivo (27121)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 80
+mixbkomito posts ante 80
+YL_ML_GL_42 posts ante 80
+Lacabale34 posts ante 80
+MoyoPivo posts ante 80
+PAPYTUXX posts small blind 350
+mixbkomito posts big blind 700
+Dealt to YL_ML_GL_42 [Ac 8c]
+*** PRE-FLOP *** 
+Lacabale34 calls 700
+MoyoPivo folds
+YL_ML_GL_42 raises 23428 to 24128 and is all-in
+PAPYTUXX folds
+mixbkomito folds
+Lacabale34 calls 23428
+*** FLOP *** [As Qd 4c]
+*** TURN *** [As Qd 4c][3h]
+*** RIVER *** [As Qd 4c 3h][Ks]
+*** SHOW DOWN ***
+Lacabale34 shows [7h Ad] (One pair : Aces)
+YL_ML_GL_42 shows [Ac 8c] (One pair : Aces)
+YL_ML_GL_42 collected 49706 from pot
+*** SUMMARY ***
+Total pot 49706 | No rake
+Board: [As Qd 4c 3h Ks]
+Seat 2: YL_ML_GL_42 (button) showed [Ac 8c] and won 49706 with One pair : Aces
+Seat 5: Lacabale34 showed [7h Ad] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 8 - HandId: #2543160697009733643-65-1668804490 - Holdem no limit (80/350/700) - 2022/11/18 20:48:10 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: LeeMoonIx (20160)
+Seat 2: YL_ML_GL_42 (49706)
+Seat 3: PAPYTUXX (43409)
+Seat 4: mixbkomito (11335)
+Seat 5: Lacabale34 (47630)
+Seat 6: MoyoPivo (27041)
+*** ANTE/BLINDS ***
+mixbkomito posts ante 80
+Lacabale34 posts ante 80
+LeeMoonIx posts ante 80
+YL_ML_GL_42 posts ante 80
+PAPYTUXX posts ante 80
+MoyoPivo posts ante 80
+mixbkomito posts small blind 350
+Lacabale34 posts big blind 700
+Dealt to YL_ML_GL_42 [Qd Ad]
+*** PRE-FLOP *** 
+MoyoPivo raises 1050 to 1750
+LeeMoonIx calls 1750
+YL_ML_GL_42 raises 6780 to 8530
+PAPYTUXX folds
+mixbkomito folds
+Lacabale34 folds
+MoyoPivo folds
+LeeMoonIx raises 11550 to 20080 and is all-in
+YL_ML_GL_42 calls 11550
+*** FLOP *** [6c Kc 7c]
+*** TURN *** [6c Kc 7c][5s]
+*** RIVER *** [6c Kc 7c 5s][Th]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Qd Ad] (High card : Ace)
+LeeMoonIx shows [3d 3c] (One pair : 3)
+LeeMoonIx collected 43440 from pot
+*** SUMMARY ***
+Total pot 43440 | No rake
+Board: [6c Kc 7c 5s Th]
+Seat 1: LeeMoonIx showed [3d 3c] and won 43440 with One pair : 3
+Seat 2: YL_ML_GL_42 showed [Qd Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 9 - HandId: #2543160697009733643-66-1668804539 - Holdem no limit (100/400/800) - 2022/11/18 20:48:59 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: LeeMoonIx (43440)
+Seat 2: YL_ML_GL_42 (29546)
+Seat 3: PAPYTUXX (43329)
+Seat 4: mixbkomito (10905)
+Seat 5: Lacabale34 (46850)
+Seat 6: MoyoPivo (25211)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 100
+MoyoPivo posts ante 100
+LeeMoonIx posts ante 100
+YL_ML_GL_42 posts ante 100
+PAPYTUXX posts ante 100
+mixbkomito posts ante 100
+Lacabale34 posts small blind 400
+MoyoPivo posts big blind 800
+Dealt to YL_ML_GL_42 [7h 4d]
+*** PRE-FLOP *** 
+LeeMoonIx folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+mixbkomito folds
+Lacabale34 calls 400
+MoyoPivo checks
+*** FLOP *** [Th 3d Jh]
+Lacabale34 bets 800
+MoyoPivo raises 1600 to 2400
+Lacabale34 folds
+MoyoPivo collected 5400 from pot
+*** SUMMARY ***
+Total pot 5400 | No rake
+Board: [Th 3d Jh]
+Seat 6: MoyoPivo (big blind) won 5400
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 9 - HandId: #2543160697009733643-67-1668804586 - Holdem no limit (100/400/800) - 2022/11/18 20:49:46 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: LeeMoonIx (43340)
+Seat 2: YL_ML_GL_42 (29446)
+Seat 3: PAPYTUXX (43229)
+Seat 4: mixbkomito (10805)
+Seat 5: Lacabale34 (45150)
+Seat 6: MoyoPivo (27311)
+*** ANTE/BLINDS ***
+MoyoPivo posts ante 100
+LeeMoonIx posts ante 100
+YL_ML_GL_42 posts ante 100
+PAPYTUXX posts ante 100
+mixbkomito posts ante 100
+Lacabale34 posts ante 100
+MoyoPivo posts small blind 400
+LeeMoonIx posts big blind 800
+Dealt to YL_ML_GL_42 [Th 6h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+PAPYTUXX raises 1000 to 1800
+mixbkomito folds
+Lacabale34 folds
+MoyoPivo folds
+LeeMoonIx folds
+PAPYTUXX collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 3: PAPYTUXX won 3600
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 9 - HandId: #2543160697009733643-68-1668804612 - Holdem no limit (100/400/800) - 2022/11/18 20:50:12 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: LeeMoonIx (42440)
+Seat 2: YL_ML_GL_42 (29346)
+Seat 3: PAPYTUXX (44929)
+Seat 4: mixbkomito (10705)
+Seat 5: Lacabale34 (45050)
+Seat 6: MoyoPivo (26811)
+*** ANTE/BLINDS ***
+LeeMoonIx posts ante 100
+YL_ML_GL_42 posts ante 100
+PAPYTUXX posts ante 100
+mixbkomito posts ante 100
+Lacabale34 posts ante 100
+MoyoPivo posts ante 100
+LeeMoonIx posts small blind 400
+YL_ML_GL_42 posts big blind 800
+Dealt to YL_ML_GL_42 [8h 7h]
+*** PRE-FLOP *** 
+PAPYTUXX folds
+mixbkomito folds
+Lacabale34 calls 800
+MoyoPivo folds
+LeeMoonIx calls 400
+YL_ML_GL_42 checks
+*** FLOP *** [2d Jd 8d]
+LeeMoonIx checks
+YL_ML_GL_42 checks
+Lacabale34 bets 1050
+LeeMoonIx folds
+YL_ML_GL_42 folds
+Lacabale34 collected 4050 from pot
+*** SUMMARY ***
+Total pot 4050 | No rake
+Board: [2d Jd 8d]
+Seat 5: Lacabale34 won 4050
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 9 - HandId: #2543160697009733643-69-1668804648 - Holdem no limit (100/400/800) - 2022/11/18 20:50:48 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: LeeMoonIx (41540)
+Seat 2: YL_ML_GL_42 (28446)
+Seat 3: PAPYTUXX (44829)
+Seat 4: mixbkomito (10605)
+Seat 5: Lacabale34 (47150)
+Seat 6: MoyoPivo (26711)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 100
+PAPYTUXX posts ante 100
+LeeMoonIx posts ante 100
+mixbkomito posts ante 100
+Lacabale34 posts ante 100
+MoyoPivo posts ante 100
+YL_ML_GL_42 posts small blind 400
+PAPYTUXX posts big blind 800
+Dealt to YL_ML_GL_42 [4h 5s]
+*** PRE-FLOP *** 
+mixbkomito folds
+Lacabale34 calls 800
+MoyoPivo raises 1600 to 2400
+LeeMoonIx folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+Lacabale34 calls 1600
+*** FLOP *** [Ts Ks 7h]
+Lacabale34 checks
+MoyoPivo bets 2178
+Lacabale34 calls 2178
+*** TURN *** [Ts Ks 7h][Tc]
+Lacabale34 checks
+MoyoPivo checks
+*** RIVER *** [Ts Ks 7h Tc][2d]
+Lacabale34 bets 7121
+MoyoPivo folds
+Lacabale34 collected 18077 from pot
+*** SUMMARY ***
+Total pot 18077 | No rake
+Board: [Ts Ks 7h Tc 2d]
+Seat 5: Lacabale34 won 18077
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 9 - HandId: #2543160697009733643-70-1668804746 - Holdem no limit (100/400/800) - 2022/11/18 20:52:26 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: LeeMoonIx (41440)
+Seat 2: YL_ML_GL_42 (27946)
+Seat 3: PAPYTUXX (43929)
+Seat 4: mixbkomito (10505)
+Seat 5: Lacabale34 (53428)
+Seat 6: MoyoPivo (22033)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 100
+mixbkomito posts ante 100
+LeeMoonIx posts ante 100
+YL_ML_GL_42 posts ante 100
+Lacabale34 posts ante 100
+MoyoPivo posts ante 100
+PAPYTUXX posts small blind 400
+mixbkomito posts big blind 800
+Dealt to YL_ML_GL_42 [6s Qh]
+*** PRE-FLOP *** 
+Lacabale34 calls 800
+MoyoPivo folds
+LeeMoonIx folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+mixbkomito raises 9605 to 10405 and is all-in
+Lacabale34 calls 9605
+*** FLOP *** [Kc 2s Ad]
+*** TURN *** [Kc 2s Ad][9h]
+*** RIVER *** [Kc 2s Ad 9h][7s]
+*** SHOW DOWN ***
+mixbkomito shows [9c Qc] (One pair : 9)
+Lacabale34 shows [2h Ah] (Two pairs : Aces and 2)
+Lacabale34 collected 21810 from pot
+*** SUMMARY ***
+Total pot 21810 | No rake
+Board: [Kc 2s Ad 9h 7s]
+Seat 4: mixbkomito (big blind) showed [9c Qc] and lost with One pair : 9
+Seat 5: Lacabale34 showed [2h Ah] and won 21810 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 9 - HandId: #2543160697009733643-71-1668804806 - Holdem no limit (100/400/800) - 2022/11/18 20:53:26 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: LeeMoonIx (41340)
+Seat 2: YL_ML_GL_42 (27846)
+Seat 3: PAPYTUXX (43429)
+Seat 5: Lacabale34 (64733)
+Seat 6: MoyoPivo (21933)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 100
+LeeMoonIx posts ante 100
+YL_ML_GL_42 posts ante 100
+PAPYTUXX posts ante 100
+MoyoPivo posts ante 100
+Lacabale34 posts big blind 800
+Dealt to YL_ML_GL_42 [4d 2d]
+*** PRE-FLOP *** 
+MoyoPivo raises 800 to 1600
+LeeMoonIx folds
+YL_ML_GL_42 calls 1600
+PAPYTUXX folds
+Lacabale34 calls 800
+*** FLOP *** [As Ks 5d]
+Lacabale34 checks
+MoyoPivo checks
+YL_ML_GL_42 checks
+*** TURN *** [As Ks 5d][8h]
+Lacabale34 bets 3445
+MoyoPivo calls 3445
+YL_ML_GL_42 folds
+*** RIVER *** [As Ks 5d 8h][4c]
+Lacabale34 checks
+MoyoPivo checks
+*** SHOW DOWN ***
+Lacabale34 shows [3c 3s] (One pair : 3)
+MoyoPivo shows [Th Kd] (One pair : Kings)
+MoyoPivo collected 12190 from pot
+*** SUMMARY ***
+Total pot 12190 | No rake
+Board: [As Ks 5d 8h 4c]
+Seat 5: Lacabale34 (big blind) showed [3c 3s] and lost with One pair : 3
+Seat 6: MoyoPivo showed [Th Kd] and won 12190 with One pair : Kings
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 10 - HandId: #2543160697009733643-72-1668804899 - Holdem no limit (120/500/1000) - 2022/11/18 20:54:59 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: LeeMoonIx (41240)
+Seat 2: YL_ML_GL_42 (26146)
+Seat 3: PAPYTUXX (43329)
+Seat 5: Lacabale34 (59588)
+Seat 6: MoyoPivo (28978)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 120
+MoyoPivo posts ante 120
+LeeMoonIx posts ante 120
+YL_ML_GL_42 posts ante 120
+PAPYTUXX posts ante 120
+Lacabale34 posts small blind 500
+MoyoPivo posts big blind 1000
+Dealt to YL_ML_GL_42 [2h 6s]
+*** PRE-FLOP *** 
+LeeMoonIx raises 1500 to 2500
+YL_ML_GL_42 folds
+PAPYTUXX raises 5000 to 7500
+Lacabale34 folds
+MoyoPivo folds
+LeeMoonIx raises 33620 to 41120 and is all-in
+PAPYTUXX calls 33620
+*** FLOP *** [Jc 6d 7h]
+*** TURN *** [Jc 6d 7h][5h]
+*** RIVER *** [Jc 6d 7h 5h][Tc]
+*** SHOW DOWN ***
+LeeMoonIx shows [Ad Kh] (High card : Ace)
+PAPYTUXX shows [Kc Ac] (High card : Ace)
+PAPYTUXX collected 42170 from pot
+LeeMoonIx collected 42170 from pot
+*** SUMMARY ***
+Total pot 84340 | No rake
+Board: [Jc 6d 7h 5h Tc]
+Seat 1: LeeMoonIx showed [Ad Kh] and won 42170 with High card : Ace
+Seat 3: PAPYTUXX showed [Kc Ac] and won 42170 with High card : Ace
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 10 - HandId: #2543160697009733643-73-1668805265 - Holdem no limit (120/500/1000) - 2022/11/18 21:01:05 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: LeeMoonIx (42170)
+Seat 2: YL_ML_GL_42 (26026)
+Seat 3: PAPYTUXX (44259)
+Seat 4: CEDRICOALA2 (20000)
+Seat 5: Lacabale34 (58968)
+Seat 6: MoyoPivo (27858)
+*** ANTE/BLINDS ***
+MoyoPivo posts ante 120
+LeeMoonIx posts ante 120
+YL_ML_GL_42 posts ante 120
+PAPYTUXX posts ante 120
+CEDRICOALA2 posts ante 120
+Lacabale34 posts ante 120
+MoyoPivo posts small blind 500
+LeeMoonIx posts big blind 1000
+Dealt to YL_ML_GL_42 [4s 5s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+PAPYTUXX folds
+CEDRICOALA2 folds
+Lacabale34 folds
+MoyoPivo calls 500
+LeeMoonIx checks
+*** FLOP *** [2c 4d 8h]
+MoyoPivo bets 1000
+LeeMoonIx folds
+MoyoPivo collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Board: [2c 4d 8h]
+Seat 6: MoyoPivo (small blind) won 3720
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 10 - HandId: #2543160697009733643-74-1668805321 - Holdem no limit (120/500/1000) - 2022/11/18 21:02:01 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: LeeMoonIx (41050)
+Seat 2: YL_ML_GL_42 (25906)
+Seat 3: PAPYTUXX (44139)
+Seat 4: CEDRICOALA2 (19880)
+Seat 5: Lacabale34 (58848)
+Seat 6: MoyoPivo (29458)
+*** ANTE/BLINDS ***
+LeeMoonIx posts ante 120
+YL_ML_GL_42 posts ante 120
+PAPYTUXX posts ante 120
+CEDRICOALA2 posts ante 120
+Lacabale34 posts ante 120
+MoyoPivo posts ante 120
+LeeMoonIx posts small blind 500
+YL_ML_GL_42 posts big blind 1000
+Dealt to YL_ML_GL_42 [2c 6s]
+*** PRE-FLOP *** 
+PAPYTUXX folds
+CEDRICOALA2 folds
+Lacabale34 calls 1000
+MoyoPivo folds
+LeeMoonIx folds
+YL_ML_GL_42 checks
+*** FLOP *** [6d Tc Ad]
+YL_ML_GL_42 checks
+Lacabale34 bets 1000
+YL_ML_GL_42 folds
+Lacabale34 collected 4220 from pot
+*** SUMMARY ***
+Total pot 4220 | No rake
+Board: [6d Tc Ad]
+Seat 5: Lacabale34 won 4220
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 10 - HandId: #2543160697009733643-75-1668805362 - Holdem no limit (120/500/1000) - 2022/11/18 21:02:42 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: LeeMoonIx (40430)
+Seat 2: YL_ML_GL_42 (24786)
+Seat 3: PAPYTUXX (44019)
+Seat 4: CEDRICOALA2 (19760)
+Seat 5: Lacabale34 (60948)
+Seat 6: MoyoPivo (29338)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 120
+PAPYTUXX posts ante 120
+LeeMoonIx posts ante 120
+CEDRICOALA2 posts ante 120
+Lacabale34 posts ante 120
+MoyoPivo posts ante 120
+YL_ML_GL_42 posts small blind 500
+PAPYTUXX posts big blind 1000
+Dealt to YL_ML_GL_42 [Tc 2s]
+*** PRE-FLOP *** 
+CEDRICOALA2 folds
+Lacabale34 folds
+MoyoPivo raises 1000 to 2000
+LeeMoonIx folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+MoyoPivo collected 4220 from pot
+*** SUMMARY ***
+Total pot 4220 | No rake
+Seat 6: MoyoPivo won 4220
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 10 - HandId: #2543160697009733643-76-1668805394 - Holdem no limit (120/500/1000) - 2022/11/18 21:03:14 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: LeeMoonIx (40310)
+Seat 2: YL_ML_GL_42 (24166)
+Seat 3: PAPYTUXX (42899)
+Seat 4: CEDRICOALA2 (19640)
+Seat 5: Lacabale34 (60828)
+Seat 6: MoyoPivo (31438)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 120
+CEDRICOALA2 posts ante 120
+LeeMoonIx posts ante 120
+YL_ML_GL_42 posts ante 120
+Lacabale34 posts ante 120
+MoyoPivo posts ante 120
+PAPYTUXX posts small blind 500
+CEDRICOALA2 posts big blind 1000
+Dealt to YL_ML_GL_42 [8c As]
+*** PRE-FLOP *** 
+Lacabale34 folds
+MoyoPivo folds
+LeeMoonIx raises 1500 to 2500
+YL_ML_GL_42 raises 7220 to 9720
+PAPYTUXX folds
+CEDRICOALA2 folds
+LeeMoonIx calls 7220
+*** FLOP *** [8h Ah Ac]
+LeeMoonIx checks
+YL_ML_GL_42 checks
+*** TURN *** [8h Ah Ac][Kd]
+LeeMoonIx checks
+YL_ML_GL_42 checks
+*** RIVER *** [8h Ah Ac Kd][9h]
+LeeMoonIx checks
+YL_ML_GL_42 bets 14326 and is all-in
+LeeMoonIx folds
+YL_ML_GL_42 collected 35986 from pot
+*** SUMMARY ***
+Total pot 35986 | No rake
+Board: [8h Ah Ac Kd 9h]
+Seat 2: YL_ML_GL_42 (button) won 35986
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 10 - HandId: #2543160697009733643-77-1668805447 - Holdem no limit (120/500/1000) - 2022/11/18 21:04:07 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: LeeMoonIx (30470)
+Seat 2: YL_ML_GL_42 (35986)
+Seat 3: PAPYTUXX (42279)
+Seat 4: CEDRICOALA2 (18520)
+Seat 5: Lacabale34 (60708)
+Seat 6: MoyoPivo (31318)
+*** ANTE/BLINDS ***
+CEDRICOALA2 posts ante 120
+Lacabale34 posts ante 120
+LeeMoonIx posts ante 120
+YL_ML_GL_42 posts ante 120
+PAPYTUXX posts ante 120
+MoyoPivo posts ante 120
+CEDRICOALA2 posts small blind 500
+Lacabale34 posts big blind 1000
+Dealt to YL_ML_GL_42 [7s Qs]
+*** PRE-FLOP *** 
+MoyoPivo folds
+LeeMoonIx folds
+YL_ML_GL_42 raises 1500 to 2500
+PAPYTUXX folds
+CEDRICOALA2 folds
+Lacabale34 folds
+YL_ML_GL_42 collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Seat 2: YL_ML_GL_42 won 4720
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 10 - HandId: #2543160697009733643-78-1668805474 - Holdem no limit (120/500/1000) - 2022/11/18 21:04:34 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: LeeMoonIx (30350)
+Seat 2: YL_ML_GL_42 (38086)
+Seat 3: PAPYTUXX (42159)
+Seat 4: CEDRICOALA2 (17900)
+Seat 5: Lacabale34 (59588)
+Seat 6: MoyoPivo (31198)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 120
+MoyoPivo posts ante 120
+LeeMoonIx posts ante 120
+YL_ML_GL_42 posts ante 120
+PAPYTUXX posts ante 120
+CEDRICOALA2 posts ante 120
+Lacabale34 posts small blind 500
+MoyoPivo posts big blind 1000
+Dealt to YL_ML_GL_42 [5s 8d]
+*** PRE-FLOP *** 
+LeeMoonIx folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+CEDRICOALA2 raises 1000 to 2000
+Lacabale34 folds
+MoyoPivo raises 29078 to 31078 and is all-in
+CEDRICOALA2 folds
+MoyoPivo collected 34298 from pot
+*** SUMMARY ***
+Total pot 34298 | No rake
+Seat 6: MoyoPivo (big blind) won 34298
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 10 - HandId: #2543160697009733643-79-1668805505 - Holdem no limit (120/500/1000) - 2022/11/18 21:05:05 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: LeeMoonIx (30230)
+Seat 2: YL_ML_GL_42 (37966)
+Seat 3: PAPYTUXX (42039)
+Seat 4: CEDRICOALA2 (15780)
+Seat 5: Lacabale34 (58968)
+Seat 6: MoyoPivo (34298)
+*** ANTE/BLINDS ***
+MoyoPivo posts ante 120
+LeeMoonIx posts ante 120
+YL_ML_GL_42 posts ante 120
+PAPYTUXX posts ante 120
+CEDRICOALA2 posts ante 120
+Lacabale34 posts ante 120
+MoyoPivo posts small blind 500
+LeeMoonIx posts big blind 1000
+Dealt to YL_ML_GL_42 [7c 6d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+PAPYTUXX folds
+CEDRICOALA2 raises 14660 to 15660 and is all-in
+Lacabale34 folds
+MoyoPivo folds
+LeeMoonIx folds
+CEDRICOALA2 collected 17880 from pot
+*** SUMMARY ***
+Total pot 17880 | No rake
+Seat 4: CEDRICOALA2 won 17880
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 10 - HandId: #2543160697009733643-80-1668805546 - Holdem no limit (120/500/1000) - 2022/11/18 21:05:46 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: LeeMoonIx (29110)
+Seat 2: YL_ML_GL_42 (37846)
+Seat 3: PAPYTUXX (41919)
+Seat 4: CEDRICOALA2 (17880)
+Seat 5: Lacabale34 (58848)
+Seat 6: MoyoPivo (33678)
+*** ANTE/BLINDS ***
+LeeMoonIx posts ante 120
+YL_ML_GL_42 posts ante 120
+PAPYTUXX posts ante 120
+CEDRICOALA2 posts ante 120
+Lacabale34 posts ante 120
+MoyoPivo posts ante 120
+LeeMoonIx posts small blind 500
+YL_ML_GL_42 posts big blind 1000
+Dealt to YL_ML_GL_42 [Kc Qh]
+*** PRE-FLOP *** 
+PAPYTUXX folds
+CEDRICOALA2 folds
+Lacabale34 folds
+MoyoPivo raises 1000 to 2000
+LeeMoonIx folds
+YL_ML_GL_42 calls 1000
+*** FLOP *** [Td Js 9c]
+YL_ML_GL_42 checks
+MoyoPivo bets 3550
+YL_ML_GL_42 calls 3550
+*** TURN *** [Td Js 9c][8d]
+YL_ML_GL_42 checks
+MoyoPivo checks
+*** RIVER *** [Td Js 9c 8d][6h]
+YL_ML_GL_42 bets 12320
+MoyoPivo folds
+YL_ML_GL_42 collected 24640 from pot
+*** SUMMARY ***
+Total pot 24640 | No rake
+Board: [Td Js 9c 8d 6h]
+Seat 2: YL_ML_GL_42 (big blind) won 24640
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 11 - HandId: #2543160697009733643-81-1668805650 - Holdem no limit (140/600/1200) - 2022/11/18 21:07:30 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: LeeMoonIx (28490)
+Seat 2: YL_ML_GL_42 (44496)
+Seat 3: PAPYTUXX (41799)
+Seat 4: CEDRICOALA2 (17760)
+Seat 5: Lacabale34 (58728)
+Seat 6: MoyoPivo (28008)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 140
+PAPYTUXX posts ante 140
+LeeMoonIx posts ante 140
+CEDRICOALA2 posts ante 140
+Lacabale34 posts ante 140
+MoyoPivo posts ante 140
+YL_ML_GL_42 posts small blind 600
+PAPYTUXX posts big blind 1200
+Dealt to YL_ML_GL_42 [7c 5c]
+*** PRE-FLOP *** 
+CEDRICOALA2 raises 16420 to 17620 and is all-in
+Lacabale34 folds
+MoyoPivo folds
+LeeMoonIx folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+CEDRICOALA2 collected 20260 from pot
+*** SUMMARY ***
+Total pot 20260 | No rake
+Seat 4: CEDRICOALA2 won 20260
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 11 - HandId: #2543160697009733643-82-1668805700 - Holdem no limit (140/600/1200) - 2022/11/18 21:08:20 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: LeeMoonIx (28350)
+Seat 2: YL_ML_GL_42 (43756)
+Seat 3: PAPYTUXX (40459)
+Seat 4: CEDRICOALA2 (20260)
+Seat 5: Lacabale34 (58588)
+Seat 6: MoyoPivo (27868)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 140
+CEDRICOALA2 posts ante 140
+LeeMoonIx posts ante 140
+YL_ML_GL_42 posts ante 140
+Lacabale34 posts ante 140
+MoyoPivo posts ante 140
+PAPYTUXX posts small blind 600
+CEDRICOALA2 posts big blind 1200
+Dealt to YL_ML_GL_42 [Qs 4c]
+*** PRE-FLOP *** 
+Lacabale34 folds
+MoyoPivo folds
+LeeMoonIx raises 1800 to 3000
+YL_ML_GL_42 folds
+PAPYTUXX folds
+CEDRICOALA2 folds
+LeeMoonIx collected 5640 from pot
+*** SUMMARY ***
+Total pot 5640 | No rake
+Seat 1: LeeMoonIx won 5640
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 11 - HandId: #2543160697009733643-83-1668805742 - Holdem no limit (140/600/1200) - 2022/11/18 21:09:02 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: LeeMoonIx (30850)
+Seat 2: YL_ML_GL_42 (43616)
+Seat 3: PAPYTUXX (39719)
+Seat 4: CEDRICOALA2 (18920)
+Seat 5: Lacabale34 (58448)
+Seat 6: MoyoPivo (27728)
+*** ANTE/BLINDS ***
+CEDRICOALA2 posts ante 140
+Lacabale34 posts ante 140
+LeeMoonIx posts ante 140
+YL_ML_GL_42 posts ante 140
+PAPYTUXX posts ante 140
+MoyoPivo posts ante 140
+CEDRICOALA2 posts small blind 600
+Lacabale34 posts big blind 1200
+Dealt to YL_ML_GL_42 [2h 8h]
+*** PRE-FLOP *** 
+MoyoPivo folds
+LeeMoonIx folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+CEDRICOALA2 raises 2400 to 3600
+Lacabale34 folds
+CEDRICOALA2 collected 5640 from pot
+*** SUMMARY ***
+Total pot 5640 | No rake
+Seat 4: CEDRICOALA2 (small blind) won 5640
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 11 - HandId: #2543160697009733643-84-1668805784 - Holdem no limit (140/600/1200) - 2022/11/18 21:09:44 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: LeeMoonIx (30710)
+Seat 2: YL_ML_GL_42 (43476)
+Seat 3: PAPYTUXX (39579)
+Seat 4: CEDRICOALA2 (20820)
+Seat 5: Lacabale34 (57108)
+Seat 6: MoyoPivo (27588)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 140
+MoyoPivo posts ante 140
+LeeMoonIx posts ante 140
+YL_ML_GL_42 posts ante 140
+PAPYTUXX posts ante 140
+CEDRICOALA2 posts ante 140
+Lacabale34 posts small blind 600
+MoyoPivo posts big blind 1200
+Dealt to YL_ML_GL_42 [2h Qs]
+*** PRE-FLOP *** 
+LeeMoonIx raises 1800 to 3000
+YL_ML_GL_42 folds
+PAPYTUXX folds
+CEDRICOALA2 folds
+Lacabale34 calls 2400
+MoyoPivo calls 1800
+*** FLOP *** [2d 3c 4c]
+Lacabale34 checks
+MoyoPivo checks
+LeeMoonIx bets 9840
+Lacabale34 folds
+MoyoPivo folds
+LeeMoonIx collected 19680 from pot
+*** SUMMARY ***
+Total pot 19680 | No rake
+Board: [2d 3c 4c]
+Seat 1: LeeMoonIx won 19680
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 11 - HandId: #2543160697009733643-85-1668805850 - Holdem no limit (140/600/1200) - 2022/11/18 21:10:50 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: LeeMoonIx (37410)
+Seat 2: YL_ML_GL_42 (43336)
+Seat 3: PAPYTUXX (39439)
+Seat 4: CEDRICOALA2 (20680)
+Seat 5: Lacabale34 (53968)
+Seat 6: MoyoPivo (24448)
+*** ANTE/BLINDS ***
+MoyoPivo posts ante 140
+LeeMoonIx posts ante 140
+YL_ML_GL_42 posts ante 140
+PAPYTUXX posts ante 140
+CEDRICOALA2 posts ante 140
+Lacabale34 posts ante 140
+MoyoPivo posts small blind 600
+LeeMoonIx posts big blind 1200
+Dealt to YL_ML_GL_42 [2s Ac]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 1200 to 2400
+PAPYTUXX folds
+CEDRICOALA2 folds
+Lacabale34 calls 2400
+MoyoPivo folds
+LeeMoonIx folds
+*** FLOP *** [Ad Td 8s]
+YL_ML_GL_42 bets 3720
+Lacabale34 calls 3720
+*** TURN *** [Ad Td 8s][6d]
+YL_ML_GL_42 checks
+Lacabale34 checks
+*** RIVER *** [Ad Td 8s 6d][9d]
+YL_ML_GL_42 checks
+Lacabale34 bets 12827
+YL_ML_GL_42 folds
+Lacabale34 collected 27707 from pot
+*** SUMMARY ***
+Total pot 27707 | No rake
+Board: [Ad Td 8s 6d 9d]
+Seat 5: Lacabale34 (button) won 27707
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 11 - HandId: #2543160697009733643-86-1668805919 - Holdem no limit (140/600/1200) - 2022/11/18 21:11:59 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: LeeMoonIx (36070)
+Seat 2: YL_ML_GL_42 (37076)
+Seat 3: PAPYTUXX (39299)
+Seat 4: CEDRICOALA2 (20540)
+Seat 5: Lacabale34 (62588)
+Seat 6: MoyoPivo (23708)
+*** ANTE/BLINDS ***
+LeeMoonIx posts ante 140
+YL_ML_GL_42 posts ante 140
+PAPYTUXX posts ante 140
+CEDRICOALA2 posts ante 140
+Lacabale34 posts ante 140
+MoyoPivo posts ante 140
+LeeMoonIx posts small blind 600
+YL_ML_GL_42 posts big blind 1200
+Dealt to YL_ML_GL_42 [7c 5d]
+*** PRE-FLOP *** 
+PAPYTUXX raises 1500 to 2700
+CEDRICOALA2 folds
+Lacabale34 folds
+MoyoPivo folds
+LeeMoonIx folds
+YL_ML_GL_42 folds
+PAPYTUXX collected 5340 from pot
+*** SUMMARY ***
+Total pot 5340 | No rake
+Seat 3: PAPYTUXX won 5340
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 11 - HandId: #2543160697009733643-87-1668805935 - Holdem no limit (140/600/1200) - 2022/11/18 21:12:15 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: LeeMoonIx (35330)
+Seat 2: YL_ML_GL_42 (35736)
+Seat 3: PAPYTUXX (41799)
+Seat 4: CEDRICOALA2 (20400)
+Seat 5: Lacabale34 (62448)
+Seat 6: MoyoPivo (23568)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 140
+PAPYTUXX posts ante 140
+LeeMoonIx posts ante 140
+CEDRICOALA2 posts ante 140
+Lacabale34 posts ante 140
+MoyoPivo posts ante 140
+YL_ML_GL_42 posts small blind 600
+PAPYTUXX posts big blind 1200
+Dealt to YL_ML_GL_42 [5c Tc]
+*** PRE-FLOP *** 
+CEDRICOALA2 raises 1200 to 2400
+Lacabale34 folds
+MoyoPivo folds
+LeeMoonIx folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+CEDRICOALA2 collected 5040 from pot
+*** SUMMARY ***
+Total pot 5040 | No rake
+Seat 4: CEDRICOALA2 won 5040
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 12 - HandId: #2543160697009733643-88-1668805965 - Holdem no limit (160/700/1400) - 2022/11/18 21:12:45 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: LeeMoonIx (35190)
+Seat 2: YL_ML_GL_42 (34996)
+Seat 3: PAPYTUXX (40459)
+Seat 4: CEDRICOALA2 (22900)
+Seat 5: Lacabale34 (62308)
+Seat 6: MoyoPivo (23428)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 160
+CEDRICOALA2 posts ante 160
+LeeMoonIx posts ante 160
+YL_ML_GL_42 posts ante 160
+Lacabale34 posts ante 160
+MoyoPivo posts ante 160
+PAPYTUXX posts small blind 700
+CEDRICOALA2 posts big blind 1400
+Dealt to YL_ML_GL_42 [3h 7d]
+*** PRE-FLOP *** 
+Lacabale34 folds
+MoyoPivo folds
+LeeMoonIx raises 2100 to 3500
+YL_ML_GL_42 folds
+PAPYTUXX calls 2800
+CEDRICOALA2 calls 2100
+*** FLOP *** [4s 9d 3c]
+PAPYTUXX checks
+CEDRICOALA2 checks
+LeeMoonIx checks
+*** TURN *** [4s 9d 3c][Ah]
+PAPYTUXX checks
+CEDRICOALA2 bets 4011
+LeeMoonIx folds
+PAPYTUXX folds
+CEDRICOALA2 collected 15471 from pot
+*** SUMMARY ***
+Total pot 15471 | No rake
+Board: [4s 9d 3c Ah]
+Seat 4: CEDRICOALA2 (big blind) won 15471
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 12 - HandId: #2543160697009733643-89-1668806036 - Holdem no limit (160/700/1400) - 2022/11/18 21:13:56 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: LeeMoonIx (31530)
+Seat 2: YL_ML_GL_42 (34836)
+Seat 3: PAPYTUXX (36799)
+Seat 4: CEDRICOALA2 (30700)
+Seat 5: Lacabale34 (62148)
+Seat 6: MoyoPivo (23268)
+*** ANTE/BLINDS ***
+CEDRICOALA2 posts ante 160
+Lacabale34 posts ante 160
+LeeMoonIx posts ante 160
+YL_ML_GL_42 posts ante 160
+PAPYTUXX posts ante 160
+MoyoPivo posts ante 160
+CEDRICOALA2 posts small blind 700
+Lacabale34 posts big blind 1400
+Dealt to YL_ML_GL_42 [7s 7d]
+*** PRE-FLOP *** 
+MoyoPivo folds
+LeeMoonIx raises 2100 to 3500
+YL_ML_GL_42 raises 31176 to 34676 and is all-in
+PAPYTUXX folds
+CEDRICOALA2 folds
+Lacabale34 folds
+LeeMoonIx calls 27870 and is all-in
+*** FLOP *** [9s 2s As]
+*** TURN *** [9s 2s As][5c]
+*** RIVER *** [9s 2s As 5c][Kd]
+*** SHOW DOWN ***
+LeeMoonIx shows [Ad Jh] (One pair : Aces)
+YL_ML_GL_42 shows [7s 7d] (One pair : 7)
+YL_ML_GL_42 collected 3306 from side pot 1
+LeeMoonIx collected 65800 from main pot
+*** SUMMARY ***
+Total pot 69106 | No rake
+Board: [9s 2s As 5c Kd]
+Seat 1: LeeMoonIx showed [Ad Jh] and won 65800 with One pair : Aces
+Seat 2: YL_ML_GL_42 showed [7s 7d] and won 3306 with One pair : 7
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 12 - HandId: #2543160697009733643-90-1668806075 - Holdem no limit (160/700/1400) - 2022/11/18 21:14:35 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: LeeMoonIx (65800)
+Seat 2: YL_ML_GL_42 (3306)
+Seat 3: PAPYTUXX (36639)
+Seat 4: CEDRICOALA2 (29840)
+Seat 5: Lacabale34 (60588)
+Seat 6: MoyoPivo (23108)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 160
+MoyoPivo posts ante 160
+LeeMoonIx posts ante 160
+YL_ML_GL_42 posts ante 160
+PAPYTUXX posts ante 160
+CEDRICOALA2 posts ante 160
+Lacabale34 posts small blind 700
+MoyoPivo posts big blind 1400
+Dealt to YL_ML_GL_42 [Qh 6s]
+*** PRE-FLOP *** 
+LeeMoonIx folds
+YL_ML_GL_42 raises 1746 to 3146 and is all-in
+PAPYTUXX folds
+CEDRICOALA2 folds
+Lacabale34 calls 2446
+MoyoPivo folds
+*** FLOP *** [9h Th As]
+*** TURN *** [9h Th As][4c]
+*** RIVER *** [9h Th As 4c][9s]
+*** SHOW DOWN ***
+Lacabale34 shows [3c 7c] (One pair : 9)
+YL_ML_GL_42 shows [Qh 6s] (One pair : 9)
+YL_ML_GL_42 collected 8652 from pot
+*** SUMMARY ***
+Total pot 8652 | No rake
+Board: [9h Th As 4c 9s]
+Seat 2: YL_ML_GL_42 showed [Qh 6s] and won 8652 with One pair : 9
+Seat 5: Lacabale34 (small blind) showed [3c 7c] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 12 - HandId: #2543160697009733643-91-1668806117 - Holdem no limit (160/700/1400) - 2022/11/18 21:15:17 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: LeeMoonIx (65640)
+Seat 2: YL_ML_GL_42 (8652)
+Seat 3: PAPYTUXX (36479)
+Seat 4: CEDRICOALA2 (29680)
+Seat 5: Lacabale34 (57282)
+Seat 6: MoyoPivo (21548)
+*** ANTE/BLINDS ***
+MoyoPivo posts ante 160
+LeeMoonIx posts ante 160
+YL_ML_GL_42 posts ante 160
+PAPYTUXX posts ante 160
+CEDRICOALA2 posts ante 160
+Lacabale34 posts ante 160
+MoyoPivo posts small blind 700
+LeeMoonIx posts big blind 1400
+Dealt to YL_ML_GL_42 [8d Ah]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 7092 to 8492 and is all-in
+PAPYTUXX folds
+CEDRICOALA2 folds
+Lacabale34 folds
+MoyoPivo raises 12896 to 21388 and is all-in
+LeeMoonIx folds
+*** FLOP *** [8s 7s Qd]
+*** TURN *** [8s 7s Qd][Ks]
+*** RIVER *** [8s 7s Qd Ks][Qs]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [8d Ah] (Two pairs : Queens and 8)
+MoyoPivo shows [Ac Tc] (One pair : Queens)
+MoyoPivo collected 12896 from side pot 1
+YL_ML_GL_42 collected 19344 from main pot
+*** SUMMARY ***
+Total pot 32240 | No rake
+Board: [8s 7s Qd Ks Qs]
+Seat 2: YL_ML_GL_42 showed [8d Ah] and won 19344 with Two pairs : Queens and 8
+Seat 6: MoyoPivo (small blind) showed [Ac Tc] and won 12896 with One pair : Queens
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 12 - HandId: #2543160697009733643-92-1668806146 - Holdem no limit (160/700/1400) - 2022/11/18 21:15:46 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: LeeMoonIx (64080)
+Seat 2: YL_ML_GL_42 (19344)
+Seat 3: PAPYTUXX (36319)
+Seat 4: CEDRICOALA2 (29520)
+Seat 5: Lacabale34 (57122)
+Seat 6: MoyoPivo (12896)
+*** ANTE/BLINDS ***
+LeeMoonIx posts ante 160
+YL_ML_GL_42 posts ante 160
+PAPYTUXX posts ante 160
+CEDRICOALA2 posts ante 160
+Lacabale34 posts ante 160
+MoyoPivo posts ante 160
+LeeMoonIx posts small blind 700
+YL_ML_GL_42 posts big blind 1400
+Dealt to YL_ML_GL_42 [4c Kc]
+*** PRE-FLOP *** 
+PAPYTUXX folds
+CEDRICOALA2 folds
+Lacabale34 calls 1400
+MoyoPivo folds
+LeeMoonIx calls 700
+YL_ML_GL_42 checks
+*** FLOP *** [9c Qh 9h]
+LeeMoonIx checks
+YL_ML_GL_42 checks
+Lacabale34 bets 1400
+LeeMoonIx calls 1400
+YL_ML_GL_42 folds
+*** TURN *** [9c Qh 9h][2c]
+LeeMoonIx checks
+Lacabale34 bets 2786
+LeeMoonIx calls 2786
+*** RIVER *** [9c Qh 9h 2c][Ah]
+LeeMoonIx checks
+Lacabale34 checks
+*** SHOW DOWN ***
+LeeMoonIx shows [Jc Ks] (One pair : 9)
+Lacabale34 shows [Th Ts] (Two pairs : Tens and 9)
+Lacabale34 collected 13532 from pot
+*** SUMMARY ***
+Total pot 13532 | No rake
+Board: [9c Qh 9h 2c Ah]
+Seat 1: LeeMoonIx (small blind) showed [Jc Ks] and lost with One pair : 9
+Seat 5: Lacabale34 showed [Th Ts] and won 13532 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 12 - HandId: #2543160697009733643-93-1668806184 - Holdem no limit (160/700/1400) - 2022/11/18 21:16:24 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: LeeMoonIx (58334)
+Seat 2: YL_ML_GL_42 (17784)
+Seat 3: PAPYTUXX (36159)
+Seat 4: CEDRICOALA2 (29360)
+Seat 5: Lacabale34 (64908)
+Seat 6: MoyoPivo (12736)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 160
+PAPYTUXX posts ante 160
+LeeMoonIx posts ante 160
+CEDRICOALA2 posts ante 160
+Lacabale34 posts ante 160
+MoyoPivo posts ante 160
+YL_ML_GL_42 posts small blind 700
+PAPYTUXX posts big blind 1400
+Dealt to YL_ML_GL_42 [6d Kc]
+*** PRE-FLOP *** 
+CEDRICOALA2 raises 1400 to 2800
+Lacabale34 calls 2800
+MoyoPivo folds
+LeeMoonIx folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+*** FLOP *** [9c Js 2h]
+CEDRICOALA2 checks
+Lacabale34 bets 1400
+CEDRICOALA2 calls 1400
+*** TURN *** [9c Js 2h][Jh]
+CEDRICOALA2 checks
+Lacabale34 checks
+*** RIVER *** [9c Js 2h Jh][6s]
+CEDRICOALA2 bets 4011
+Lacabale34 raises 4212 to 8223
+CEDRICOALA2 calls 4212
+*** SHOW DOWN ***
+CEDRICOALA2 shows [9d Qd] (Two pairs : Jacks and 9)
+Lacabale34 shows [As Ad] (Two pairs : Aces and Jacks)
+Lacabale34 collected 27906 from pot
+*** SUMMARY ***
+Total pot 27906 | No rake
+Board: [9c Js 2h Jh 6s]
+Seat 4: CEDRICOALA2 showed [9d Qd] and lost with Two pairs : Jacks and 9
+Seat 5: Lacabale34 showed [As Ad] and won 27906 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 12 - HandId: #2543160697009733643-94-1668806240 - Holdem no limit (160/700/1400) - 2022/11/18 21:17:20 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: LeeMoonIx (58174)
+Seat 2: YL_ML_GL_42 (16924)
+Seat 3: PAPYTUXX (34599)
+Seat 4: CEDRICOALA2 (16777)
+Seat 5: Lacabale34 (80231)
+Seat 6: MoyoPivo (12576)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 160
+CEDRICOALA2 posts ante 160
+LeeMoonIx posts ante 160
+YL_ML_GL_42 posts ante 160
+Lacabale34 posts ante 160
+MoyoPivo posts ante 160
+PAPYTUXX posts small blind 700
+CEDRICOALA2 posts big blind 1400
+Dealt to YL_ML_GL_42 [6c 3s]
+*** PRE-FLOP *** 
+Lacabale34 calls 1400
+MoyoPivo folds
+LeeMoonIx folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+CEDRICOALA2 checks
+*** FLOP *** [Ks 2s 8s]
+CEDRICOALA2 checks
+Lacabale34 bets 1400
+CEDRICOALA2 folds
+Lacabale34 collected 5860 from pot
+*** SUMMARY ***
+Total pot 5860 | No rake
+Board: [Ks 2s 8s]
+Seat 5: Lacabale34 won 5860
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 12 - HandId: #2543160697009733643-95-1668806294 - Holdem no limit (160/700/1400) - 2022/11/18 21:18:14 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: LeeMoonIx (58014)
+Seat 2: YL_ML_GL_42 (16764)
+Seat 3: PAPYTUXX (33739)
+Seat 4: CEDRICOALA2 (15217)
+Seat 5: Lacabale34 (83131)
+Seat 6: MoyoPivo (12416)
+*** ANTE/BLINDS ***
+CEDRICOALA2 posts ante 160
+Lacabale34 posts ante 160
+LeeMoonIx posts ante 160
+YL_ML_GL_42 posts ante 160
+PAPYTUXX posts ante 160
+MoyoPivo posts ante 160
+CEDRICOALA2 posts small blind 700
+Lacabale34 posts big blind 1400
+Dealt to YL_ML_GL_42 [4c 2d]
+*** PRE-FLOP *** 
+MoyoPivo folds
+LeeMoonIx folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+CEDRICOALA2 raises 13657 to 15057 and is all-in
+Lacabale34 folds
+CEDRICOALA2 collected 17417 from pot
+*** SUMMARY ***
+Total pot 17417 | No rake
+Seat 4: CEDRICOALA2 (small blind) won 17417
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 13 - HandId: #2543160697009733643-96-1668806330 - Holdem no limit (200/800/1600) - 2022/11/18 21:18:50 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: LeeMoonIx (57854)
+Seat 2: YL_ML_GL_42 (16604)
+Seat 3: PAPYTUXX (33579)
+Seat 4: CEDRICOALA2 (17417)
+Seat 5: Lacabale34 (81571)
+Seat 6: MoyoPivo (12256)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 200
+MoyoPivo posts ante 200
+LeeMoonIx posts ante 200
+YL_ML_GL_42 posts ante 200
+PAPYTUXX posts ante 200
+CEDRICOALA2 posts ante 200
+Lacabale34 posts small blind 800
+MoyoPivo posts big blind 1600
+Dealt to YL_ML_GL_42 [3s Ad]
+*** PRE-FLOP *** 
+LeeMoonIx folds
+YL_ML_GL_42 raises 14804 to 16404 and is all-in
+PAPYTUXX folds
+CEDRICOALA2 folds
+Lacabale34 folds
+MoyoPivo folds
+YL_ML_GL_42 collected 20004 from pot
+*** SUMMARY ***
+Total pot 20004 | No rake
+Seat 2: YL_ML_GL_42 won 20004
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 13 - HandId: #2543160697009733643-97-1668806363 - Holdem no limit (200/800/1600) - 2022/11/18 21:19:23 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: LeeMoonIx (57654)
+Seat 2: YL_ML_GL_42 (20004)
+Seat 3: PAPYTUXX (33379)
+Seat 4: CEDRICOALA2 (17217)
+Seat 5: Lacabale34 (80571)
+Seat 6: MoyoPivo (10456)
+*** ANTE/BLINDS ***
+MoyoPivo posts ante 200
+LeeMoonIx posts ante 200
+YL_ML_GL_42 posts ante 200
+PAPYTUXX posts ante 200
+CEDRICOALA2 posts ante 200
+Lacabale34 posts ante 200
+MoyoPivo posts small blind 800
+LeeMoonIx posts big blind 1600
+Dealt to YL_ML_GL_42 [Ac Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 18204 to 19804 and is all-in
+PAPYTUXX folds
+CEDRICOALA2 folds
+Lacabale34 folds
+MoyoPivo folds
+LeeMoonIx folds
+YL_ML_GL_42 collected 23404 from pot
+*** SUMMARY ***
+Total pot 23404 | No rake
+Seat 2: YL_ML_GL_42 won 23404
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 13 - HandId: #2543160697009733643-98-1668806412 - Holdem no limit (200/800/1600) - 2022/11/18 21:20:12 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: LeeMoonIx (55854)
+Seat 2: YL_ML_GL_42 (23404)
+Seat 3: PAPYTUXX (33179)
+Seat 4: CEDRICOALA2 (17017)
+Seat 5: Lacabale34 (80371)
+Seat 6: MoyoPivo (9456)
+*** ANTE/BLINDS ***
+LeeMoonIx posts ante 200
+YL_ML_GL_42 posts ante 200
+PAPYTUXX posts ante 200
+CEDRICOALA2 posts ante 200
+Lacabale34 posts ante 200
+MoyoPivo posts ante 200
+LeeMoonIx posts small blind 800
+YL_ML_GL_42 posts big blind 1600
+Dealt to YL_ML_GL_42 [9h Ts]
+*** PRE-FLOP *** 
+PAPYTUXX folds
+CEDRICOALA2 folds
+Lacabale34 folds
+MoyoPivo folds
+LeeMoonIx raises 54054 to 55654 and is all-in
+YL_ML_GL_42 folds
+LeeMoonIx collected 58454 from pot
+*** SUMMARY ***
+Total pot 58454 | No rake
+Seat 1: LeeMoonIx (small blind) won 58454
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 13 - HandId: #2543160697009733643-99-1668806441 - Holdem no limit (200/800/1600) - 2022/11/18 21:20:41 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: LeeMoonIx (58454)
+Seat 2: YL_ML_GL_42 (21604)
+Seat 3: PAPYTUXX (32979)
+Seat 4: CEDRICOALA2 (16817)
+Seat 5: Lacabale34 (80171)
+Seat 6: MoyoPivo (9256)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 200
+PAPYTUXX posts ante 200
+LeeMoonIx posts ante 200
+CEDRICOALA2 posts ante 200
+Lacabale34 posts ante 200
+MoyoPivo posts ante 200
+YL_ML_GL_42 posts small blind 800
+PAPYTUXX posts big blind 1600
+Dealt to YL_ML_GL_42 [As Qh]
+*** PRE-FLOP *** 
+CEDRICOALA2 raises 15017 to 16617 and is all-in
+Lacabale34 folds
+MoyoPivo folds
+LeeMoonIx folds
+YL_ML_GL_42 calls 15817
+PAPYTUXX folds
+*** FLOP *** [Jh 7h 2s]
+*** TURN *** [Jh 7h 2s][8h]
+*** RIVER *** [Jh 7h 2s 8h][Kc]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [As Qh] (High card : Ace)
+CEDRICOALA2 shows [Qd Qs] (One pair : Queens)
+CEDRICOALA2 collected 36034 from pot
+*** SUMMARY ***
+Total pot 36034 | No rake
+Board: [Jh 7h 2s 8h Kc]
+Seat 2: YL_ML_GL_42 (small blind) showed [As Qh] and lost with High card : Ace
+Seat 4: CEDRICOALA2 showed [Qd Qs] and won 36034 with One pair : Queens
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 13 - HandId: #2543160697009733643-100-1668806473 - Holdem no limit (200/800/1600) - 2022/11/18 21:21:13 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: LeeMoonIx (58254)
+Seat 2: YL_ML_GL_42 (4787)
+Seat 3: PAPYTUXX (31179)
+Seat 4: CEDRICOALA2 (36034)
+Seat 5: Lacabale34 (79971)
+Seat 6: MoyoPivo (9056)
+*** ANTE/BLINDS ***
+PAPYTUXX posts ante 200
+CEDRICOALA2 posts ante 200
+LeeMoonIx posts ante 200
+YL_ML_GL_42 posts ante 200
+Lacabale34 posts ante 200
+MoyoPivo posts ante 200
+PAPYTUXX posts small blind 800
+CEDRICOALA2 posts big blind 1600
+Dealt to YL_ML_GL_42 [5d Qc]
+*** PRE-FLOP *** 
+Lacabale34 folds
+MoyoPivo raises 7256 to 8856 and is all-in
+LeeMoonIx folds
+YL_ML_GL_42 folds
+PAPYTUXX folds
+CEDRICOALA2 folds
+MoyoPivo collected 12456 from pot
+*** SUMMARY ***
+Total pot 12456 | No rake
+Seat 6: MoyoPivo won 12456
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 13 - HandId: #2543160697009733643-101-1668806503 - Holdem no limit (200/800/1600) - 2022/11/18 21:21:43 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: LeeMoonIx (58054)
+Seat 2: YL_ML_GL_42 (4587)
+Seat 3: PAPYTUXX (30179)
+Seat 4: CEDRICOALA2 (34234)
+Seat 5: Lacabale34 (79771)
+Seat 6: MoyoPivo (12456)
+*** ANTE/BLINDS ***
+CEDRICOALA2 posts ante 200
+Lacabale34 posts ante 200
+LeeMoonIx posts ante 200
+YL_ML_GL_42 posts ante 200
+PAPYTUXX posts ante 200
+MoyoPivo posts ante 200
+CEDRICOALA2 posts small blind 800
+Lacabale34 posts big blind 1600
+Dealt to YL_ML_GL_42 [Kh 5s]
+*** PRE-FLOP *** 
+MoyoPivo raises 10656 to 12256 and is all-in
+LeeMoonIx folds
+YL_ML_GL_42 folds
+PAPYTUXX raises 17723 to 29979 and is all-in
+CEDRICOALA2 folds
+Lacabale34 folds
+*** FLOP *** [Jd 5h 7c]
+*** TURN *** [Jd 5h 7c][Td]
+*** RIVER *** [Jd 5h 7c Td][4d]
+*** SHOW DOWN ***
+MoyoPivo shows [Ac 8s] (High card : Ace)
+PAPYTUXX shows [Ts Th] (Trips of Tens)
+PAPYTUXX collected 45835 from pot
+*** SUMMARY ***
+Total pot 45835 | No rake
+Board: [Jd 5h 7c Td 4d]
+Seat 3: PAPYTUXX (button) showed [Ts Th] and won 45835 with Trips of Tens
+Seat 6: MoyoPivo showed [Ac 8s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 13 - HandId: #2543160697009733643-102-1668806530 - Holdem no limit (200/800/1600) - 2022/11/18 21:22:10 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: LeeMoonIx (57854)
+Seat 2: YL_ML_GL_42 (4387)
+Seat 3: PAPYTUXX (45835)
+Seat 4: CEDRICOALA2 (33234)
+Seat 5: Lacabale34 (77971)
+*** ANTE/BLINDS ***
+Lacabale34 posts ante 200
+LeeMoonIx posts ante 200
+YL_ML_GL_42 posts ante 200
+PAPYTUXX posts ante 200
+CEDRICOALA2 posts ante 200
+Lacabale34 posts small blind 800
+LeeMoonIx posts big blind 1600
+Dealt to YL_ML_GL_42 [Js Kd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 2587 to 4187 and is all-in
+PAPYTUXX folds
+CEDRICOALA2 folds
+Lacabale34 folds
+LeeMoonIx calls 2587
+*** FLOP *** [Qd Ts 8h]
+*** TURN *** [Qd Ts 8h][Jc]
+*** RIVER *** [Qd Ts 8h Jc][Ah]
+*** SHOW DOWN ***
+LeeMoonIx shows [3d Kh] (Straight Ace high)
+YL_ML_GL_42 shows [Js Kd] (Straight Ace high)
+YL_ML_GL_42 collected 5087 from pot
+LeeMoonIx collected 5087 from pot
+*** SUMMARY ***
+Total pot 10174 | No rake
+Board: [Qd Ts 8h Jc Ah]
+Seat 1: LeeMoonIx (big blind) showed [3d Kh] and won 5087 with Straight Ace high
+Seat 2: YL_ML_GL_42 showed [Js Kd] and won 5087 with Straight Ace high
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 9€ + 1€ level: 13 - HandId: #2543160697009733643-103-1668806557 - Holdem no limit (200/800/1600) - 2022/11/18 21:22:37 UTC
+Table: 'MYSTERY KO(592125742)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: LeeMoonIx (58554)
+Seat 2: YL_ML_GL_42 (5087)
+Seat 3: PAPYTUXX (45635)
+Seat 4: CEDRICOALA2 (33034)
+Seat 5: Lacabale34 (76971)
+Seat 6: jpchirurgien (21488)
+*** ANTE/BLINDS ***
+LeeMoonIx posts ante 200
+YL_ML_GL_42 posts ante 200
+PAPYTUXX posts ante 200
+CEDRICOALA2 posts ante 200
+Lacabale34 posts ante 200
+LeeMoonIx posts small blind 800
+YL_ML_GL_42 posts big blind 1600
+Dealt to YL_ML_GL_42 [8d Ad]
+*** PRE-FLOP *** 
+PAPYTUXX raises 2000 to 3600
+CEDRICOALA2 folds
+Lacabale34 folds
+LeeMoonIx folds
+YL_ML_GL_42 raises 1287 to 4887 and is all-in
+PAPYTUXX calls 1287
+*** FLOP *** [Kd Ah 2h]
+*** TURN *** [Kd Ah 2h][4d]
+*** RIVER *** [Kd Ah 2h 4d][5h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [8d Ad] (One pair : Aces)
+PAPYTUXX shows [3s 3h] (Straight 5 high)
+PAPYTUXX collected 11574 from pot
+*** SUMMARY ***
+Total pot 11574 | No rake
+Board: [Kd Ah 2h 4d 5h]
+Seat 2: YL_ML_GL_42 (big blind) showed [8d Ad] and lost with One pair : Aces
+Seat 3: PAPYTUXX showed [3s 3h] and won 11574 with Straight 5 high
+
+

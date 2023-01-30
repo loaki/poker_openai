@@ -1,0 +1,145 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2608720340536262657-1-1670002338 - Holdem no limit (10/20) - 2022/12/02 17:32:18 UTC
+Table: 'Expresso(607390036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: DR Blakoboy (500)
+Seat 3: Go&Spin (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+DR Blakoboy posts big blind 20
+Dealt to YL_ML_GL_42 [Jc Qh]
+*** PRE-FLOP *** 
+Go&Spin folds
+YL_ML_GL_42 folds
+DR Blakoboy collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: DR Blakoboy (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2608720340536262657-2-1670002371 - Holdem no limit (10/20) - 2022/12/02 17:32:51 UTC
+Table: 'Expresso(607390036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (490)
+Seat 2: DR Blakoboy (510)
+Seat 3: Go&Spin (500)
+*** ANTE/BLINDS ***
+DR Blakoboy posts small blind 10
+Go&Spin posts big blind 20
+Dealt to YL_ML_GL_42 [Ad Kh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+DR Blakoboy calls 60
+Go&Spin folds
+*** FLOP *** [6d 7h Ah]
+DR Blakoboy checks
+YL_ML_GL_42 checks
+*** TURN *** [6d 7h Ah][9d]
+DR Blakoboy checks
+YL_ML_GL_42 bets 104
+DR Blakoboy calls 104
+*** RIVER *** [6d 7h Ah 9d][5h]
+DR Blakoboy checks
+YL_ML_GL_42 bets 92
+DR Blakoboy folds
+YL_ML_GL_42 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [6d 7h Ah 9d 5h]
+Seat 1: YL_ML_GL_42 (button) won 460
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2608720340536262657-3-1670002407 - Holdem no limit (10/20) - 2022/12/02 17:33:27 UTC
+Table: 'Expresso(607390036)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (684)
+Seat 2: DR Blakoboy (336)
+Seat 3: Go&Spin (480)
+*** ANTE/BLINDS ***
+Go&Spin posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Qd 5d]
+*** PRE-FLOP *** 
+DR Blakoboy folds
+Go&Spin raises 30 to 50
+YL_ML_GL_42 calls 30
+*** FLOP *** [Td Qs 7s]
+Go&Spin bets 60
+YL_ML_GL_42 raises 220 to 280
+Go&Spin folds
+YL_ML_GL_42 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [Td Qs 7s]
+Seat 1: YL_ML_GL_42 (big blind) won 440
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2608720340536262657-4-1670002431 - Holdem no limit (15/30) - 2022/12/02 17:33:51 UTC
+Table: 'Expresso(607390036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (794)
+Seat 2: DR Blakoboy (336)
+Seat 3: Go&Spin (370)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+DR Blakoboy posts big blind 30
+Dealt to YL_ML_GL_42 [2s 8h]
+*** PRE-FLOP *** 
+Go&Spin folds
+YL_ML_GL_42 folds
+DR Blakoboy collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: DR Blakoboy (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2608720340536262657-5-1670002438 - Holdem no limit (15/30) - 2022/12/02 17:33:58 UTC
+Table: 'Expresso(607390036)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (779)
+Seat 2: DR Blakoboy (351)
+Seat 3: Go&Spin (370)
+*** ANTE/BLINDS ***
+DR Blakoboy posts small blind 15
+Go&Spin posts big blind 30
+Dealt to YL_ML_GL_42 [7c 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 75 to 105
+DR Blakoboy calls 90
+Go&Spin folds
+*** FLOP *** [3h 6d 4d]
+DR Blakoboy bets 246 and is all-in
+YL_ML_GL_42 calls 246
+*** TURN *** [3h 6d 4d][8h]
+*** RIVER *** [3h 6d 4d 8h][6c]
+*** SHOW DOWN ***
+DR Blakoboy shows [5s Qd] (One pair : 6)
+YL_ML_GL_42 shows [7c 4c] (Two pairs : 6 and 4)
+YL_ML_GL_42 collected 732 from pot
+*** SUMMARY ***
+Total pot 732 | No rake
+Board: [3h 6d 4d 8h 6c]
+Seat 1: YL_ML_GL_42 (button) showed [7c 4c] and won 732 with Two pairs : 6 and 4
+Seat 2: DR Blakoboy (small blind) showed [5s Qd] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2608720340536262657-6-1670002473 - Holdem no limit (15/30) - 2022/12/02 17:34:33 UTC
+Table: 'Expresso(607390036)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (1160)
+Seat 3: Go&Spin (340)
+*** ANTE/BLINDS ***
+Go&Spin posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [6d 6s]
+*** PRE-FLOP *** 
+Go&Spin raises 310 to 340 and is all-in
+YL_ML_GL_42 calls 310
+*** FLOP *** [3c 7h 5s]
+*** TURN *** [3c 7h 5s][Qd]
+*** RIVER *** [3c 7h 5s Qd][2c]
+*** SHOW DOWN ***
+Go&Spin shows [Kd 8h] (High card : King)
+YL_ML_GL_42 shows [6d 6s] (One pair : 6)
+YL_ML_GL_42 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [3c 7h 5s Qd 2c]
+Seat 1: YL_ML_GL_42 (big blind) showed [6d 6s] and won 680 with One pair : 6
+Seat 3: Go&Spin (small blind) (button) showed [Kd 8h] and lost with High card : King
+
+

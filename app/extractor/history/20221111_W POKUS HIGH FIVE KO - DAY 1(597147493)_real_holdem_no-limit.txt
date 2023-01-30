@@ -1,0 +1,243 @@
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 34 - HandId: #2564728953323389000-1-1668193265 - Holdem no limit (12/50/100) - 2022/11/11 19:01:05 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147493)#0071' 6-max (real money) Seat #3 is the button
+Seat 1: spewseries (10000, 2.25€ bounty)
+Seat 2: blueshark27 (9988, 2.25€ bounty)
+Seat 3: NovaxDjcovid (9988, 2.25€ bounty)
+Seat 4: Cerdito (10000, 2.25€ bounty)
+Seat 5: olezha555 (10000, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (10000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Cerdito posts ante 12
+olezha555 posts ante 12
+blueshark27 posts ante 12
+NovaxDjcovid posts ante 12
+YL_ML_GL_42 posts ante 12
+Cerdito posts small blind 50
+olezha555 posts big blind 100
+Dealt to YL_ML_GL_42 [2d 9h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+blueshark27 raises 150 to 250
+NovaxDjcovid folds
+Cerdito calls 200
+olezha555 folds
+*** FLOP *** [Js 4s Kh]
+Cerdito checks
+blueshark27 bets 200
+Cerdito calls 200
+*** TURN *** [Js 4s Kh][Jc]
+Cerdito checks
+blueshark27 checks
+*** RIVER *** [Js 4s Kh Jc][Tc]
+Cerdito bets 1060
+blueshark27 raises 8466 to 9526 and is all-in
+Cerdito calls 8466
+*** SHOW DOWN ***
+Cerdito shows [Qh Jh] (Trips of Jacks)
+blueshark27 shows [Kd Ks] (Full of Kings and Jacks)
+blueshark27 collected 20112 from pot
+*** SUMMARY ***
+Total pot 20112 | No rake
+Board: [Js 4s Kh Jc Tc]
+Seat 2: blueshark27 showed [Kd Ks] and won 20112 with Full of Kings and Jacks
+Seat 4: Cerdito (small blind) showed [Qh Jh] and lost with Trips of Jacks
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 34 - HandId: #2564728953323389000-2-1668193356 - Holdem no limit (12/50/100) - 2022/11/11 19:02:36 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147493)#0071' 6-max (real money) Seat #4 is the button
+Seat 1: spewseries (10000, 2.25€ bounty)
+Seat 2: blueshark27 (20112, 2.25€ bounty)
+Seat 3: NovaxDjcovid (9976, 2.25€ bounty)
+Seat 4: Cerdito (12, 2.25€ bounty)
+Seat 5: olezha555 (9888, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (9988, 2.25€ bounty)
+*** ANTE/BLINDS ***
+olezha555 posts ante 12
+YL_ML_GL_42 posts ante 12
+spewseries posts ante 12
+blueshark27 posts ante 12
+NovaxDjcovid posts ante 12
+Cerdito posts ante 12 and is all-in
+olezha555 posts small blind 50
+YL_ML_GL_42 posts big blind 100
+Dealt to YL_ML_GL_42 [3c 5c]
+*** PRE-FLOP *** 
+spewseries folds
+blueshark27 folds
+NovaxDjcovid folds
+olezha555 raises 300 to 400
+YL_ML_GL_42 folds
+*** FLOP *** [3h Kd 5d]
+*** TURN *** [3h Kd 5d][7h]
+*** RIVER *** [3h Kd 5d 7h][9d]
+*** SHOW DOWN ***
+Cerdito shows [Qh 4c] (High card : King)
+olezha555 shows [Jd Ks] (One pair : Kings)
+olezha555 collected 572 from pot
+*** SUMMARY ***
+Total pot 572 | No rake
+Board: [3h Kd 5d 7h 9d]
+Seat 4: Cerdito (button) showed [Qh 4c] and lost with High card : King
+Seat 5: olezha555 (small blind) showed [Jd Ks] and won 572 with One pair : Kings
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 34 - HandId: #2564728953323389000-3-1668193402 - Holdem no limit (12/50/100) - 2022/11/11 19:03:22 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147493)#0071' 6-max (real money) Seat #5 is the button
+Seat 1: spewseries (9988, 2.25€ bounty)
+Seat 2: blueshark27 (20100, 2.25€ bounty)
+Seat 3: NovaxDjcovid (9964, 2.25€ bounty)
+Seat 5: olezha555 (10048, 3.37€ bounty)
+Seat 6: YL_ML_GL_42 (9876, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 12
+spewseries posts ante 12
+blueshark27 posts ante 12
+NovaxDjcovid posts ante 12
+olezha555 posts ante 12
+YL_ML_GL_42 posts small blind 50
+spewseries posts big blind 100
+Dealt to YL_ML_GL_42 [Ah 7c]
+*** PRE-FLOP *** 
+blueshark27 folds
+NovaxDjcovid folds
+olezha555 folds
+YL_ML_GL_42 raises 260 to 360
+spewseries folds
+YL_ML_GL_42 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 6: YL_ML_GL_42 (small blind) won 520
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 34 - HandId: #2564728953323389000-4-1668193429 - Holdem no limit (12/50/100) - 2022/11/11 19:03:49 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147493)#0071' 6-max (real money) Seat #6 is the button
+Seat 1: spewseries (9876, 2.25€ bounty)
+Seat 2: blueshark27 (20088, 2.25€ bounty)
+Seat 4: Bourbiz95 (10000, 2.25€ bounty)
+Seat 5: olezha555 (10036, 3.37€ bounty)
+Seat 6: YL_ML_GL_42 (10024, 2.25€ bounty)
+*** ANTE/BLINDS ***
+spewseries posts ante 12
+blueshark27 posts ante 12
+Bourbiz95 posts ante 12
+olezha555 posts ante 12
+YL_ML_GL_42 posts ante 12
+spewseries posts small blind 50
+blueshark27 posts big blind 100
+Dealt to YL_ML_GL_42 [6c Ts]
+*** PRE-FLOP *** 
+Bourbiz95 folds
+olezha555 raises 100 to 200
+YL_ML_GL_42 folds
+spewseries folds
+blueshark27 calls 100
+*** FLOP *** [9c 7h 6s]
+blueshark27 checks
+olezha555 bets 400
+blueshark27 calls 400
+*** TURN *** [9c 7h 6s][8c]
+blueshark27 checks
+olezha555 checks
+*** RIVER *** [9c 7h 6s 8c][Js]
+blueshark27 checks
+olezha555 checks
+*** SHOW DOWN ***
+olezha555 shows [Jd 7d] (Two pairs : Jacks and 7)
+blueshark27 shows [Jh 8d] (Two pairs : Jacks and 8)
+blueshark27 collected 1310 from pot
+*** SUMMARY ***
+Total pot 1310 | No rake
+Board: [9c 7h 6s 8c Js]
+Seat 2: blueshark27 (big blind) showed [Jh 8d] and won 1310 with Two pairs : Jacks and 8
+Seat 5: olezha555 showed [Jd 7d] and lost with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 34 - HandId: #2564728953323389000-5-1668193473 - Holdem no limit (12/50/100) - 2022/11/11 19:04:33 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147493)#0071' 6-max (real money) Seat #1 is the button
+Seat 1: spewseries (9814, 2.25€ bounty)
+Seat 2: blueshark27 (20786, 2.25€ bounty)
+Seat 3: tazmaniack26 (10000, 2.25€ bounty)
+Seat 4: Bourbiz95 (9988, 2.25€ bounty)
+Seat 5: olezha555 (9424, 3.37€ bounty)
+Seat 6: YL_ML_GL_42 (10012, 2.25€ bounty)
+*** ANTE/BLINDS ***
+blueshark27 posts ante 12
+tazmaniack26 posts ante 12
+spewseries posts ante 12
+Bourbiz95 posts ante 12
+olezha555 posts ante 12
+YL_ML_GL_42 posts ante 12
+blueshark27 posts small blind 50
+tazmaniack26 posts big blind 100
+Dealt to YL_ML_GL_42 [As 6d]
+*** PRE-FLOP *** 
+Bourbiz95 folds
+olezha555 folds
+YL_ML_GL_42 raises 100 to 200
+spewseries raises 500 to 700
+blueshark27 folds
+tazmaniack26 folds
+YL_ML_GL_42 raises 2858 to 3558
+spewseries raises 6244 to 9802 and is all-in
+YL_ML_GL_42 calls 6244
+*** FLOP *** [Qs 8c Ts]
+*** TURN *** [Qs 8c Ts][4d]
+*** RIVER *** [Qs 8c Ts 4d][Ah]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [As 6d] (One pair : Aces)
+spewseries shows [Kd Ac] (One pair : Aces)
+spewseries collected 19826 from pot
+*** SUMMARY ***
+Total pot 19826 | No rake
+Board: [Qs 8c Ts 4d Ah]
+Seat 1: spewseries (button) showed [Kd Ac] and won 19826 with One pair : Aces
+Seat 6: YL_ML_GL_42 showed [As 6d] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 34 - HandId: #2564728953323389000-6-1668193518 - Holdem no limit (12/50/100) - 2022/11/11 19:05:18 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147493)#0071' 6-max (real money) Seat #2 is the button
+Seat 1: spewseries (19826, 2.25€ bounty)
+Seat 2: blueshark27 (20724, 2.25€ bounty)
+Seat 3: tazmaniack26 (9888, 2.25€ bounty)
+Seat 4: Bourbiz95 (9976, 2.25€ bounty)
+Seat 5: olezha555 (9412, 3.37€ bounty)
+Seat 6: YL_ML_GL_42 (198, 2.25€ bounty)
+*** ANTE/BLINDS ***
+tazmaniack26 posts ante 12
+Bourbiz95 posts ante 12
+spewseries posts ante 12
+blueshark27 posts ante 12
+olezha555 posts ante 12
+YL_ML_GL_42 posts ante 12
+tazmaniack26 posts small blind 50
+Bourbiz95 posts big blind 100
+Dealt to YL_ML_GL_42 [3h Th]
+*** PRE-FLOP *** 
+olezha555 raises 100 to 200
+YL_ML_GL_42 calls 186 and is all-in
+spewseries calls 200
+blueshark27 raises 20512 to 20712 and is all-in
+tazmaniack26 calls 9826 and is all-in
+Bourbiz95 calls 9864 and is all-in
+olezha555 folds
+spewseries folds
+*** FLOP *** [Ac 3d 4h]
+*** TURN *** [Ac 3d 4h][Ts]
+*** RIVER *** [Ac 3d 4h Ts][Qd]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [3h Th] (Two pairs : Tens and 3)
+blueshark27 shows [5c 5d] (One pair : 5)
+tazmaniack26 shows [4d As] (Two pairs : Aces and 4)
+Bourbiz95 shows [Tc 8s] (One pair : Tens)
+Bourbiz95 collected 176 from side pot 1
+tazmaniack26 collected 30286 from main pot
+blueshark27 collected 10748 from side pot 2
+*** SUMMARY ***
+Total pot 41210 | No rake
+Board: [Ac 3d 4h Ts Qd]
+Seat 2: blueshark27 (button) showed [5c 5d] and won 10748 with One pair : 5
+Seat 3: tazmaniack26 (small blind) showed [4d As] and won 30286 with Two pairs : Aces and 4
+Seat 4: Bourbiz95 (big blind) showed [Tc 8s] and won 176 with One pair : Tens
+Seat 6: YL_ML_GL_42 showed [3h Th] and lost with Two pairs : Tens and 3
+
+

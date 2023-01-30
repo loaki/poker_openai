@@ -1,0 +1,155 @@
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2523048039472431107-1-1667503826 - Holdem no limit (25/100/200) - 2022/11/03 19:30:26 UTC
+Table: 'POUR LA DARONNE(587442899)#0002' 6-max (real money) Seat #5 is the button
+Seat 1: Belfrisco06 (20000, 2.25€ bounty)
+Seat 2: Dragon 66 (20000, 2.25€ bounty)
+Seat 3: Tutan Camone (20000, 2.25€ bounty)
+Seat 4: ZavodTV (20000, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (20000, 2.25€ bounty)
+Seat 6: Nicaud2016 (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Nicaud2016 posts ante 25
+Belfrisco06 posts ante 25
+Dragon 66 posts ante 25
+Tutan Camone posts ante 25
+ZavodTV posts ante 25
+YL_ML_GL_42 posts ante 25
+Nicaud2016 posts small blind 100
+Belfrisco06 posts big blind 200
+Dealt to YL_ML_GL_42 [Qd 7d]
+*** PRE-FLOP *** 
+Dragon 66 raises 650 to 850
+Tutan Camone folds
+ZavodTV folds
+YL_ML_GL_42 folds
+Nicaud2016 folds
+Belfrisco06 folds
+Dragon 66 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Seat 2: Dragon 66 won 1300
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2523048039472431107-2-1667503860 - Holdem no limit (25/100/200) - 2022/11/03 19:31:00 UTC
+Table: 'POUR LA DARONNE(587442899)#0002' 6-max (real money) Seat #6 is the button
+Seat 1: Belfrisco06 (19775, 2.25€ bounty)
+Seat 2: Dragon 66 (20425, 2.25€ bounty)
+Seat 4: ZavodTV (19975, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19975, 2.25€ bounty)
+Seat 6: Nicaud2016 (19875, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Belfrisco06 posts ante 25
+Dragon 66 posts ante 25
+ZavodTV posts ante 25
+YL_ML_GL_42 posts ante 25
+Nicaud2016 posts ante 25
+Belfrisco06 posts small blind 100
+Dragon 66 posts big blind 200
+Dealt to YL_ML_GL_42 [Kh 7h]
+*** PRE-FLOP *** 
+ZavodTV folds
+YL_ML_GL_42 folds
+Nicaud2016 folds
+Belfrisco06 calls 100
+Dragon 66 checks
+*** FLOP *** [Js 3c 3d]
+Belfrisco06 checks
+Dragon 66 bets 525
+Belfrisco06 folds
+Dragon 66 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [Js 3c 3d]
+Seat 2: Dragon 66 (big blind) won 1050
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2523048039472431107-3-1667503888 - Holdem no limit (25/100/200) - 2022/11/03 19:31:28 UTC
+Table: 'POUR LA DARONNE(587442899)#0002' 6-max (real money) Seat #1 is the button
+Seat 1: Belfrisco06 (19550, 2.25€ bounty)
+Seat 2: Dragon 66 (20725, 2.25€ bounty)
+Seat 3: Raizmysteri0 (20000, 2.25€ bounty)
+Seat 4: ZavodTV (19950, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19950, 2.25€ bounty)
+Seat 6: Nicaud2016 (19850, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Dragon 66 posts ante 25
+Raizmysteri0 posts ante 25
+Belfrisco06 posts ante 25
+ZavodTV posts ante 25
+YL_ML_GL_42 posts ante 25
+Nicaud2016 posts ante 25
+Dragon 66 posts small blind 100
+Raizmysteri0 posts big blind 200
+Dealt to YL_ML_GL_42 [Tc Ks]
+*** PRE-FLOP *** 
+ZavodTV folds
+YL_ML_GL_42 folds
+Nicaud2016 folds
+Belfrisco06 calls 200
+Dragon 66 calls 100
+Raizmysteri0 checks
+*** FLOP *** [6h 7h 9d]
+Dragon 66 checks
+Raizmysteri0 checks
+Belfrisco06 checks
+*** TURN *** [6h 7h 9d][Jd]
+Dragon 66 checks
+Raizmysteri0 checks
+Belfrisco06 checks
+*** RIVER *** [6h 7h 9d Jd][3h]
+Dragon 66 bets 1500
+Raizmysteri0 folds
+Belfrisco06 folds
+Dragon 66 collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | No rake
+Board: [6h 7h 9d Jd 3h]
+Seat 2: Dragon 66 (small blind) won 2250
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2523048039472431294-1-1667503951 - Holdem no limit (25/100/200) - 2022/11/03 19:32:31 UTC
+Table: 'POUR LA DARONNE(587442899)#0189' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (19925, 2.25€ bounty)
+Seat 2: PeterAlaaoui (20775, 2.25€ bounty)
+Seat 3: FlipUnMaaax (20000, 2.25€ bounty)
+Seat 4: fhamel92i (20000, 2.25€ bounty)
+Seat 5: u1timate (19975, 2.25€ bounty)
+Seat 6: PBL236 (20250, 2.25€ bounty)
+*** ANTE/BLINDS ***
+u1timate posts ante 25
+PBL236 posts ante 25
+YL_ML_GL_42 posts ante 25
+PeterAlaaoui posts ante 25
+FlipUnMaaax posts ante 25
+fhamel92i posts ante 25
+u1timate posts small blind 100
+PBL236 posts big blind 200
+Dealt to YL_ML_GL_42 [Jc Jh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 200 to 400
+PeterAlaaoui folds
+FlipUnMaaax folds
+fhamel92i calls 400
+u1timate folds
+PBL236 calls 200
+*** FLOP *** [Kc 9c 7c]
+PBL236 checks
+YL_ML_GL_42 bets 725
+fhamel92i calls 725
+PBL236 folds
+*** TURN *** [Kc 9c 7c][3s]
+YL_ML_GL_42 bets 2320
+fhamel92i raises 7540 to 9860
+YL_ML_GL_42 raises 8915 to 18775 and is all-in
+fhamel92i raises 75 to 18850 and is all-in
+*** RIVER *** [Kc 9c 7c 3s][Kd]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Jc Jh] (Two pairs : Kings and Jacks)
+fhamel92i shows [Ks Qd] (Trips of Kings)
+fhamel92i collected 40525 from pot
+*** SUMMARY ***
+Total pot 40525 | No rake
+Board: [Kc 9c 7c 3s Kd]
+Seat 1: YL_ML_GL_42 showed [Jc Jh] and lost with Two pairs : Kings and Jacks
+Seat 4: fhamel92i (button) showed [Ks Qd] and won 40525 with Trips of Kings
+
+

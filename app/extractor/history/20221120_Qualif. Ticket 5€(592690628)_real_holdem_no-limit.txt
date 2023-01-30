@@ -1,0 +1,219 @@
+Winamax Poker - Tournament "Qualif. Ticket 5€" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #2545586863905701889-52-1668962351 - Holdem no limit (16/70/140) - 2022/11/20 16:39:11 UTC
+Table: 'Qualif. Ticket 5€(592690628)#000' 8-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (3000)
+Seat 2: ANDRF70 (2512)
+Seat 3: Day0fDefeat (1627)
+Seat 4: Tiltless (3296)
+Seat 5: -BZH-MarLev- (1961)
+Seat 6: Croq_le_fish (2984)
+Seat 7: salvaM (2737)
+Seat 8: Rigged34 (14352)
+*** ANTE/BLINDS ***
+-BZH-MarLev- posts ante 16
+Croq_le_fish posts ante 16
+YL_ML_GL_42 posts ante 16
+ANDRF70 posts ante 16
+Day0fDefeat posts ante 16
+Tiltless posts ante 16
+salvaM posts ante 16
+Rigged34 posts ante 16
+-BZH-MarLev- posts small blind 70
+Croq_le_fish posts big blind 140
+Dealt to YL_ML_GL_42 [6d 6h]
+*** PRE-FLOP *** 
+salvaM folds
+Rigged34 folds
+YL_ML_GL_42 raises 2844 to 2984 and is all-in
+ANDRF70 folds
+Day0fDefeat folds
+Tiltless folds
+-BZH-MarLev- folds
+Croq_le_fish folds
+YL_ML_GL_42 collected 3322 from pot
+*** SUMMARY ***
+Total pot 3322 | No rake
+Seat 1: YL_ML_GL_42 won 3322
+
+
+Winamax Poker - Tournament "Qualif. Ticket 5€" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #2545586863905701889-53-1668962413 - Holdem no limit (16/70/140) - 2022/11/20 16:40:13 UTC
+Table: 'Qualif. Ticket 5€(592690628)#000' 8-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (3322)
+Seat 2: ANDRF70 (2496)
+Seat 3: Day0fDefeat (1611)
+Seat 4: Tiltless (3280)
+Seat 5: -BZH-MarLev- (1875)
+Seat 6: Croq_le_fish (2828)
+Seat 7: salvaM (2721)
+Seat 8: Rigged34 (14336)
+*** ANTE/BLINDS ***
+Croq_le_fish posts ante 16
+salvaM posts ante 16
+YL_ML_GL_42 posts ante 16
+ANDRF70 posts ante 16
+Day0fDefeat posts ante 16
+Tiltless posts ante 16
+-BZH-MarLev- posts ante 16
+Rigged34 posts ante 16
+Croq_le_fish posts small blind 70
+salvaM posts big blind 140
+Dealt to YL_ML_GL_42 [7d Ac]
+*** PRE-FLOP *** 
+Rigged34 folds
+YL_ML_GL_42 raises 3166 to 3306 and is all-in
+ANDRF70 folds
+Day0fDefeat folds
+Tiltless folds
+-BZH-MarLev- calls 1859 and is all-in
+Croq_le_fish folds
+salvaM calls 2565 and is all-in
+*** FLOP *** [6s 6c Ks]
+*** TURN *** [6s 6c Ks][2d]
+*** RIVER *** [6s 6c Ks 2d][8c]
+*** SHOW DOWN ***
+-BZH-MarLev- shows [As Jh] (One pair : 6)
+YL_ML_GL_42 shows [7d Ac] (One pair : 6)
+salvaM shows [Kh Kd] (Full of Kings and 6)
+salvaM collected 7467 from main pot
+YL_ML_GL_42 collected 601 from side pot 1
+*** SUMMARY ***
+Total pot 8068 | No rake
+Board: [6s 6c Ks 2d 8c]
+Seat 1: YL_ML_GL_42 showed [7d Ac] and won 601 with One pair : 6
+Seat 5: -BZH-MarLev- (button) showed [As Jh] and lost with One pair : 6
+Seat 7: salvaM (big blind) showed [Kh Kd] and won 7467 with Full of Kings and 6
+
+
+Winamax Poker - Tournament "Qualif. Ticket 5€" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #2545586863905701889-54-1668962469 - Holdem no limit (20/80/160) - 2022/11/20 16:41:09 UTC
+Table: 'Qualif. Ticket 5€(592690628)#000' 8-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (601)
+Seat 2: ANDRF70 (2480)
+Seat 3: Day0fDefeat (1595)
+Seat 4: Tiltless (3264)
+Seat 6: Croq_le_fish (2742)
+Seat 7: salvaM (7467)
+Seat 8: Rigged34 (14320)
+*** ANTE/BLINDS ***
+salvaM posts ante 20
+Rigged34 posts ante 20
+YL_ML_GL_42 posts ante 20
+ANDRF70 posts ante 20
+Day0fDefeat posts ante 20
+Tiltless posts ante 20
+Croq_le_fish posts ante 20
+salvaM posts small blind 80
+Rigged34 posts big blind 160
+Dealt to YL_ML_GL_42 [6d 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ANDRF70 folds
+Day0fDefeat folds
+Tiltless raises 160 to 320
+Croq_le_fish folds
+salvaM folds
+Rigged34 calls 160
+*** FLOP *** [2d 5s 9d]
+Rigged34 checks
+Tiltless checks
+*** TURN *** [2d 5s 9d][Ac]
+Rigged34 checks
+Tiltless checks
+*** RIVER *** [2d 5s 9d Ac][Qd]
+Rigged34 checks
+Tiltless bets 1299
+Rigged34 folds
+Tiltless collected 2159 from pot
+*** SUMMARY ***
+Total pot 2159 | No rake
+Board: [2d 5s 9d Ac Qd]
+Seat 4: Tiltless won 2159
+
+
+Winamax Poker - Tournament "Qualif. Ticket 5€" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #2545586863905701889-55-1668962519 - Holdem no limit (20/80/160) - 2022/11/20 16:41:59 UTC
+Table: 'Qualif. Ticket 5€(592690628)#000' 8-max (real money) Seat #7 is the button
+Seat 1: YL_ML_GL_42 (581)
+Seat 2: ANDRF70 (2460)
+Seat 3: Day0fDefeat (1575)
+Seat 4: Tiltless (3784)
+Seat 6: Croq_le_fish (2722)
+Seat 7: salvaM (7367)
+Seat 8: Rigged34 (13980)
+*** ANTE/BLINDS ***
+Rigged34 posts ante 20
+YL_ML_GL_42 posts ante 20
+ANDRF70 posts ante 20
+Day0fDefeat posts ante 20
+Tiltless posts ante 20
+Croq_le_fish posts ante 20
+salvaM posts ante 20
+Rigged34 posts small blind 80
+YL_ML_GL_42 posts big blind 160
+Dealt to YL_ML_GL_42 [9c Tc]
+*** PRE-FLOP *** 
+ANDRF70 calls 160
+Day0fDefeat folds
+Tiltless folds
+Croq_le_fish folds
+salvaM calls 160
+Rigged34 folds
+YL_ML_GL_42 checks
+*** FLOP *** [9h 4d 2c]
+YL_ML_GL_42 bets 401 and is all-in
+ANDRF70 folds
+salvaM folds
+YL_ML_GL_42 collected 1101 from pot
+*** SUMMARY ***
+Total pot 1101 | No rake
+Board: [9h 4d 2c]
+Seat 1: YL_ML_GL_42 (big blind) won 1101
+
+
+Winamax Poker - Tournament "Qualif. Ticket 5€" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #2545586863905701889-56-1668962579 - Holdem no limit (20/80/160) - 2022/11/20 16:42:59 UTC
+Table: 'Qualif. Ticket 5€(592690628)#000' 8-max (real money) Seat #8 is the button
+Seat 1: YL_ML_GL_42 (1101)
+Seat 2: ANDRF70 (2280)
+Seat 3: Day0fDefeat (1555)
+Seat 4: Tiltless (3764)
+Seat 6: Croq_le_fish (2702)
+Seat 7: salvaM (7187)
+Seat 8: Rigged34 (13880)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 20
+ANDRF70 posts ante 20
+Day0fDefeat posts ante 20
+Tiltless posts ante 20
+Croq_le_fish posts ante 20
+salvaM posts ante 20
+Rigged34 posts ante 20
+YL_ML_GL_42 posts small blind 80
+ANDRF70 posts big blind 160
+Dealt to YL_ML_GL_42 [Th Jh]
+*** PRE-FLOP *** 
+Day0fDefeat folds
+Tiltless folds
+Croq_le_fish folds
+salvaM calls 160
+Rigged34 folds
+YL_ML_GL_42 raises 921 to 1081 and is all-in
+ANDRF70 calls 921
+salvaM raises 921 to 2002
+ANDRF70 calls 921
+*** FLOP *** [Tc Ah Ad]
+ANDRF70 checks
+salvaM bets 250
+ANDRF70 raises 8 to 258 and is all-in
+salvaM calls 8
+*** TURN *** [Tc Ah Ad][9d]
+*** RIVER *** [Tc Ah Ad 9d][Jc]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Th Jh] (Two pairs : Aces and Jacks)
+salvaM shows [6h 6d] (Two pairs : Aces and 6)
+ANDRF70 shows [Qd 8d] (Straight Queen high)
+ANDRF70 collected 5741 from pot
+*** SUMMARY ***
+Total pot 5741 | No rake
+Board: [Tc Ah Ad 9d Jc]
+Seat 1: YL_ML_GL_42 (small blind) showed [Th Jh] and lost with Two pairs : Aces and Jacks
+Seat 2: ANDRF70 (big blind) showed [Qd 8d] and won 5741 with Straight Queen high
+Seat 7: salvaM showed [6h 6d] and lost with Two pairs : Aces and 6
+
+

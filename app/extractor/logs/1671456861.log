@@ -1,0 +1,175 @@
+1671456861843 inf [app] Launch
+1671456861971 inf [scene] Bridge initialize
+1671456861987 inf [scene] Scene open
+1671456861998 inf [scene] Scene create
+1671456862027 inf [scene.1] Scene loading
+1671456862040 inf [app] Checking for update
+1671456862373 inf [app] Found version 1.26.2 (url: winamax-setup-1.26.2.exe)
+1671456862391 inf [router] Navigate: wam://popup?type=update
+1671456862394 inf [router] Navigation done: wam://popup?type=update
+1671456863268 inf [scene.1] Browser loaded
+1671456863284 inf [scene.1] Bridge loaded
+1671456863344 inf [tracker] Listening on port: 8003
+1671456865436 inf [router] Execute: wam://updater-download?background=true
+1671456865437 inf [app] Download
+1671456865438 inf [app] Downloading update from winamax-setup-1.26.2.exe
+1671456865439 inf [router] Execution done: wam://updater-download?background=true
+1671456865458 inf [app] Cached update sha512 checksum doesn't match the latest available update. New update must be downloaded. Cached: 8JNSZl92yJRN7CFHy0zZ9wAViEnSN8dCz6X65SYVGjYPnmr1U0fkYDeGxYQqTnve/ZaGj9JypFIR+T3l64ZWVQ==, expected: UOmzX/yk+la2Gsgqopl3zTyiIS6Alzb7rVTk3tKLq3tufxuwbjs8fuAfAf2O9dT5DwoMfBHRLR74UR2tM6POvw==. Directory for cached update will be cleaned
+1671456865469 inf [app] Download block maps (old: "https://dl.winamax.fr/client/electron/win/all/winamax-setup-1.25.2.exe.blockmap", new: https://dl.winamax.fr/client/electron/win/all/winamax-setup-1.26.2.exe.blockmap)
+1671456866522 inf [app] File has 179 changed blocks
+1671456866538 inf [app] Full: 351,473.64 KB, To download: 3,774.76 KB (1%)
+1671456866553 inf [api] < Service core/authentication/token/generate
+1671456866555 inf [network] > Http https://wapi.winamax.fr/core/authentication/token/generate post
+1671456866882 inf [network] > Http https://wapi.winamax.fr/core/authentication/token/generate ok
+1671456866884 inf [api] > Service core/authentication/token/generate
+1671456866885 inf [api] < Service poker/public/config/preauth {"client":"poker","application":"desktop","opid":"wam","device":"electron","ver":"1.25.2.1670589810","os":"win32","cid":"b94b276db79aabbcbfbe64cabbfea685"}
+1671456866887 inf [network] > Http https://api.winamax.fr/poker/public/config/preauth?client=poker&application=desktop&opid=wam&device=electron&ver=1.25.2.1670589810&os=win32&cid=b94b276db79aabbcbfbe64cabbfea685 get
+1671456867396 inf [network] > Http https://api.winamax.fr/poker/public/config/preauth?client=poker&application=desktop&opid=wam&device=electron&ver=1.25.2.1670589810&os=win32&cid=b94b276db79aabbcbfbe64cabbfea685 ok
+1671456867400 inf [api] > Service poker/public/config/preauth {"core":{"type":"wss","retry":{"count":3,"timeout":10000,"delay":2000,"random":1000},"hosts":["wapi.winamax.fr:443/poker/front/ws/websocket"],"enable":true,"zombie":{"duration":45000},"socket":{"sleep":10,"buffer":16384},"monitor":{"interrupted":true}},"features":{"vm":false,"playground":{"threshold":1000},"time":{"duration":10}},"serverstatus":{"status":"up","polling":300,"i18n":{"de_DE":{"title":"","info":"Alle Dienste sind verfügbar"},"fr_FR":{"title":"","info":"Tous les services sont fonctionnels"},"en_GB":{"title":"","info":"All services are operational."},"*":{"title":"","info":"All services are operational."},"en_US":{"title":"","info":"All services are operational."},"es_ES":{"title":"","info":"All services are operational."},"pt_PT":{"title":"","info":"All services are operational."}}},"auth":{"version":2,"timeout":6000,"refresh":{"count":3,"delay":2500}}}
+1671456867411 inf [network] Registering channel prefs
+1671456867412 inf [network] Enqueuing AUTH:SIGNIN
+1671456867415 inf [network] Creating socket wss://wapi.winamax.fr:443/poker/front/ws/websocket
+1671456867417 inf [network] Connection status: 1
+1671456867774 inf [network] Socket opened
+1671456867776 inf [network] Connection status: 2
+1671456867777 inf [network] Connection status: 3
+1671456867779 inf [network] < prefs AUTH:SIGNIN
+1671456868093 inf [network] > prefs AUTH:SIGNIN_OK
+1671456868095 inf [network] Connection status: 4
+1671456868099 inf [network] > prefs NOTIFICATION:POST_INFO
+1671456868101 inf [network] < prefs TIME:GET
+1671456868110 inf [network] < prefs GAMESTATS:JOIN
+1671456868173 inf [network] > prefs TIME:GET_OK
+1671456868189 inf [api] < Service poker/client/prefs
+1671456868190 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs post
+1671456868267 inf [network] > prefs GAMESTATS:JOIN_OK
+1671456868439 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs ok
+1671456868439 inf [api] > Service poker/client/prefs
+1671456868455 inf [router] Execute: wam://preload-ok
+1671456868456 inf [router] Navigate: wam://lobbies
+1671456868460 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/config.1624292306 get
+1671456868463 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/ressource.1624283658 get
+1671456868466 inf [router] Navigation done: wam://lobbies
+1671456868468 inf [router] Execution done: wam://preload-ok
+1671456868469 inf [network] Registering channel subscriptions
+1671456868475 inf [api] < Service operator/userdata
+1671456868476 inf [network] > Http https://wapi.winamax.fr/operator/userdata post
+1671456868480 inf [api] < Service operator/winamax-tv/public
+1671456868480 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public post
+1671456868483 inf [network] < prefs SRM:JOIN
+1671456868484 inf [network] < prefs NEWS:GET
+1671456868485 inf [network] < prefs DATA:GET
+1671456868486 inf [network] < prefs BUDDY:GET
+1671456868486 inf [network] < prefs BUDDYROOM:JOIN
+1671456868498 inf [network] < prefs TIME:GET
+1671456868500 inf [network] < prefs CASHIER:GET
+1671456868501 inf [network] < prefs CASHIER:LIST
+1671456868503 inf [network] < prefs CASHIER:GET
+1671456868504 inf [network] < prefs CASHIER:LIST
+1671456868510 inf [network] < subscriptions FILTERLIST:CREATE
+1671456868512 inf [network] < subscriptions FILTERLIST:CREATE
+1671456868513 inf [network] < subscriptions FILTERLIST:CREATE
+1671456868552 inf [network] > prefs SRM:JOIN_OK
+1671456868555 inf [network] > prefs TIME:GET_OK
+1671456868559 inf [network] > prefs CASHIER:GET_OK
+1671456868560 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1671456868562 inf [network] > prefs CASHIER:LIST_OK
+1671456868563 inf [network] > subscriptions FILTERLIST:SET
+1671456868564 inf [network] > prefs CASHIER:GET_OK
+1671456868597 inf [network] > prefs CASHIER:LIST_OK
+1671456868598 inf [network] > prefs BUDDYROOM:JOIN_OK
+1671456868600 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1671456868601 inf [network] > subscriptions FILTERLIST:SET
+1671456868602 inf [network] > subscriptions FILTERLIST:CREATE_OK
+1671456868602 inf [network] > subscriptions FILTERLIST:SET
+1671456868605 inf [network] > prefs NEWS:GET_OK
+1671456868607 inf [network] > prefs DATA:GET_ERR
+1671456868622 inf [network] > prefs NOTIFICATION:POST_INFO
+1671456868626 inf [network] > prefs NOTIFICATION:POST_INFO
+1671456868643 inf [network] Registering channel wam.general.t1
+1671456868644 inf [network] < wam.general.t1 CHATROOM:JOIN
+1671456868654 inf [network] > prefs BUDDY:GET_OK
+1671456868664 inf [network] < prefs BUDDYROOM:JOIN
+1671456868703 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/ressource.1624283658 ok
+1671456868706 inf [network] > Http https://dl.winamax.fr/client/attr/settings/wam/config.1624292306 ok
+1671456868709 inf [network] > wam.general.t1 CHATROOM:JOIN_OK
+1671456868719 inf [network] > Http https://wapi.winamax.fr/operator/winamax-tv/public ok
+1671456868719 inf [api] > Service operator/winamax-tv/public
+1671456868722 inf [network] > prefs BUDDYROOM:JOIN_OK
+1671456868780 inf [network] > Http https://wapi.winamax.fr/operator/userdata ok
+1671456868782 inf [api] > Service operator/userdata
+1671456869143 inf [app] Differential download: https://dl.winamax.fr/client/electron/win/all/winamax-setup-1.26.2.exe
+1671456869223 inf [app] Downloading: 0%
+1671456869326 inf [app] Downloading: 1%
+1671456869414 inf [app] Downloading: 2%
+1671456870455 inf [api] < Service poker/client/prefs
+1671456870456 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs post
+1671456870652 inf [network] > Http https://wapi.winamax.fr/poker/client/prefs ok
+1671456870653 inf [api] > Service poker/client/prefs
+1671456871186 inf [app] Downloading: 2%
+1671456871291 inf [app] Downloading: 4%
+1671456872430 inf [app] Downloading: 5%
+1671456873430 inf [app] Downloading: 14%
+1671456874462 inf [app] Downloading: 27%
+1671456875392 inf [app] Downloading: 39%
+1671456876591 inf [app] Downloading: 40%
+1671456876619 inf [app] Downloading: 40%
+1671456876954 inf [app] Downloading: 42%
+1671456877288 inf [network] < prefs FILTERLIST:CREATE
+1671456877462 inf [network] > prefs FILTERLIST:CREATE_OK
+1671456877465 inf [network] > prefs FILTERLIST:SET
+1671456877592 inf [app] Downloading: 49%
+1671456878021 inf [app] Downloading: 57%
+1671456878210 inf [app] Downloading: 59%
+1671456878458 inf [network] < prefs TIME:GET
+1671456878547 inf [network] > prefs TIME:GET_OK
+1671456878848 inf [app] Downloading: 60%
+1671456880119 inf [app] Downloading: 69%
+1671456881119 inf [app] Downloading: 85%
+1671456881465 inf [app] Downloading: 90%
+1671456881656 inf [app] Downloading: 92%
+1671456881823 inf [app] Downloading: 94%
+1671456882160 inf [app] Downloading: 95%
+1671456882302 inf [app] Downloading: 96%
+1671456882703 inf [app] Downloading: 100%
+1671456884982 inf [router] Navigate: wam://tournament?ttrk=tt2.ttmgr.tt2_9.t612467335&name=VIP%20Freeroll%3A%20Aluminium
+1671456884988 inf [router] Navigation done: wam://tournament?ttrk=tt2.ttmgr.tt2_9.t612467335&name=VIP%20Freeroll%3A%20Aluminium
+1671456884989 inf [network] Registering channel tt2.ttmgr.tt2_9.t612467335
+1671456885018 inf [network] < tt2.ttmgr.tt2_9.t612467335 TOURNAMENT:JOIN
+1671456885157 inf [network] > tt2.ttmgr.tt2_9.t612467335 TOURNAMENT:JOIN_OK
+1671456885159 inf [network] > tt2.ttmgr.tt2_9.t612467335 CHATROOM:JOIN_OK
+1671456885191 inf [network] < tt2.ttmgr.tt2_9.t612467335 FILTERLIST:CREATE
+1671456885253 inf [network] > tt2.ttmgr.tt2_9.t612467335 FILTERLIST:CREATE_OK
+1671456885254 inf [network] > tt2.ttmgr.tt2_9.t612467335 FILTERLIST:SET
+1671456888475 inf [network] < prefs TIME:GET
+1671456888521 inf [network] > prefs TIME:GET_OK
+1671456888765 wrn Signature validated using only CN Winamax SA. Please add your full Distinguished Name (DN) to publisherNames configuration
+1671456888767 inf [app] New version 1.26.2 has been downloaded to C:\Users\YaminLEGZOULI\AppData\Local\winamax-updater\pending\winamax-setup-1.26.2.exe
+1671456890959 inf [router] Execute: wam://tournament-close?ttid=1
+1671456890963 inf [router] Execution done: wam://tournament-close?ttid=1
+1671456890964 inf [network] < tt2.ttmgr.tt2_9.t612467335 TOURNAMENT:LEAVE
+1671456890965 inf [network] Leaving channel tt2.ttmgr.tt2_9.t612467335
+1671456890966 inf [network] Registering channel tt2.ttmgr.tt2_9.t612467335
+1671456890966 inf [network] < tt2.ttmgr.tt2_9.t612467335 FILTERLIST:DELETE
+1671456895538 inf [router] Navigate: wam://contacts?tab=buddies
+1671456895540 inf [router] Navigation done: wam://contacts?tab=buddies
+1671456896708 inf [network] < prefs FILTERLIST:FIND
+1671456896710 inf [network] < prefs FILTERLIST:FIND
+1671456896710 inf [network] < prefs FILTERLIST:FIND
+1671456896711 inf [network] < prefs FILTERLIST:FIND
+1671456896711 inf [network] < prefs FILTERLIST:FIND
+1671456896711 inf [network] < prefs FILTERLIST:FIND
+1671456896784 inf [network] > prefs FILTERLIST:FIND_OK
+1671456896786 inf [network] > prefs FILTERLIST:FIND_OK
+1671456896786 inf [network] > prefs FILTERLIST:FIND_OK
+1671456896787 inf [network] > prefs FILTERLIST:FIND_OK
+1671456896787 inf [network] > prefs FILTERLIST:FIND_OK
+1671456896788 inf [network] > prefs FILTERLIST:FIND_OK
+1671456898489 inf [network] < prefs TIME:GET
+1671456898555 inf [network] > prefs TIME:GET_OK
+1671456898810 inf [app] Exit
+1671456898816 inf [tracker] Closed
+1671456898820 inf [app] Auto install update on quit
+1671456898821 inf [app] Install: isSilent: true, isForceRunAfter: false
+1671456901744 inf [network] Registering channel subscriptions
+1671456901745 inf [network] Registering channel prefs

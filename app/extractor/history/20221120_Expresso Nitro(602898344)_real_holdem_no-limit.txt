@@ -1,0 +1,67 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2589428670292557825-1-1668980166 - Holdem no limit (10/20) - 2022/11/20 21:36:06 UTC
+Table: 'Expresso Nitro(602898344)#0' 3-max (real money) Seat #1 is the button
+Seat 1: KayZer-Soz3 (300)
+Seat 2: Lanzastur (300)
+Seat 3: YL_ML_GL_42 (300)
+*** ANTE/BLINDS ***
+Lanzastur posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [6h 9h]
+*** PRE-FLOP *** 
+KayZer-Soz3 raises 280 to 300 and is all-in
+Lanzastur folds
+YL_ML_GL_42 folds
+KayZer-Soz3 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: KayZer-Soz3 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2589428670292557825-2-1668980179 - Holdem no limit (10/20) - 2022/11/20 21:36:19 UTC
+Table: 'Expresso Nitro(602898344)#0' 3-max (real money) Seat #2 is the button
+Seat 1: KayZer-Soz3 (330)
+Seat 2: Lanzastur (290)
+Seat 3: YL_ML_GL_42 (280)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+KayZer-Soz3 posts big blind 20
+Dealt to YL_ML_GL_42 [2s 3c]
+*** PRE-FLOP *** 
+Lanzastur folds
+YL_ML_GL_42 folds
+KayZer-Soz3 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: KayZer-Soz3 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2589428670292557825-3-1668980189 - Holdem no limit (10/20) - 2022/11/20 21:36:29 UTC
+Table: 'Expresso Nitro(602898344)#0' 3-max (real money) Seat #3 is the button
+Seat 1: KayZer-Soz3 (340)
+Seat 2: Lanzastur (290)
+Seat 3: YL_ML_GL_42 (270)
+*** ANTE/BLINDS ***
+KayZer-Soz3 posts small blind 10
+Lanzastur posts big blind 20
+Dealt to YL_ML_GL_42 [4s 4h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 250 to 270 and is all-in
+KayZer-Soz3 raises 70 to 340 and is all-in
+Lanzastur calls 270 and is all-in
+*** FLOP *** [Td 7h Qs]
+*** TURN *** [Td 7h Qs][Qh]
+*** RIVER *** [Td 7h Qs Qh][Tc]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [4s 4h] (Two pairs : Queens and Tens)
+KayZer-Soz3 shows [6c 6h] (Two pairs : Queens and Tens)
+Lanzastur shows [Ac 6s] (Two pairs : Queens and Tens)
+Lanzastur collected 850 from main pot
+KayZer-Soz3 collected 50 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Td 7h Qs Qh Tc]
+Seat 1: KayZer-Soz3 (small blind) showed [6c 6h] and won 50 with Two pairs : Queens and Tens
+Seat 2: Lanzastur (big blind) showed [Ac 6s] and won 850 with Two pairs : Queens and Tens
+Seat 3: YL_ML_GL_42 (button) showed [4s 4h] and lost with Two pairs : Queens and Tens
+
+

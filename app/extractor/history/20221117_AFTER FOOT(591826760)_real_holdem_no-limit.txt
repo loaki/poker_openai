@@ -1,0 +1,952 @@
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 41 - HandId: #2541876579097641066-2-1668722019 - Holdem no limit (25/100/200) - 2022/11/17 21:53:39 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (20000, 0.90€ bounty)
+Seat 2: FCSB78 (20400, 0.90€ bounty)
+Seat 3: --ProDeal-- (18447, 0.90€ bounty)
+Seat 4: mr yanos (17547, 0.90€ bounty)
+Seat 5: DamarisLuan (20675, 0.90€ bounty)
+Seat 6: Night-Killer (17496, 0.90€ bounty)
+*** ANTE/BLINDS ***
+mr yanos posts ante 25
+DamarisLuan posts ante 25
+YL_ML_GL_42 posts ante 25
+FCSB78 posts ante 25
+--ProDeal-- posts ante 25
+Night-Killer posts ante 25
+mr yanos posts small blind 100
+DamarisLuan posts big blind 200
+Dealt to YL_ML_GL_42 [Ts Kc]
+*** PRE-FLOP *** 
+Night-Killer folds
+YL_ML_GL_42 folds
+FCSB78 folds
+--ProDeal-- raises 300 to 500
+mr yanos calls 400
+DamarisLuan calls 300
+*** FLOP *** [8s 8c 7c]
+mr yanos checks
+DamarisLuan checks
+--ProDeal-- checks
+*** TURN *** [8s 8c 7c][Qd]
+mr yanos checks
+DamarisLuan checks
+--ProDeal-- checks
+*** RIVER *** [8s 8c 7c Qd][9c]
+mr yanos checks
+DamarisLuan bets 1650
+--ProDeal-- folds
+mr yanos folds
+DamarisLuan collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Board: [8s 8c 7c Qd 9c]
+Seat 5: DamarisLuan (big blind) won 3300
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 41 - HandId: #2541876579097641066-3-1668722096 - Holdem no limit (25/100/200) - 2022/11/17 21:54:56 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (19975, 0.90€ bounty)
+Seat 2: FCSB78 (20375, 0.90€ bounty)
+Seat 3: --ProDeal-- (17922, 0.90€ bounty)
+Seat 4: mr yanos (17022, 0.90€ bounty)
+Seat 5: DamarisLuan (21800, 0.90€ bounty)
+Seat 6: Night-Killer (17471, 0.90€ bounty)
+*** ANTE/BLINDS ***
+DamarisLuan posts ante 25
+Night-Killer posts ante 25
+YL_ML_GL_42 posts ante 25
+FCSB78 posts ante 25
+--ProDeal-- posts ante 25
+mr yanos posts ante 25
+DamarisLuan posts small blind 100
+Night-Killer posts big blind 200
+Dealt to YL_ML_GL_42 [Ts 5h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+FCSB78 folds
+--ProDeal-- folds
+mr yanos raises 300 to 500
+DamarisLuan folds
+Night-Killer calls 300
+*** FLOP *** [9s Kc 7h]
+Night-Killer checks
+mr yanos checks
+*** TURN *** [9s Kc 7h][Qh]
+Night-Killer checks
+mr yanos bets 1250
+Night-Killer folds
+mr yanos collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Board: [9s Kc 7h Qh]
+Seat 4: mr yanos (button) won 2500
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2541876579097641066-4-1668722463 - Holdem no limit (25/100/200) - 2022/11/17 22:01:03 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (19950, 0.90€ bounty)
+Seat 2: FCSB78 (20350, 0.90€ bounty)
+Seat 3: --ProDeal-- (17897, 0.90€ bounty)
+Seat 4: mr yanos (17747, 0.90€ bounty)
+Seat 5: DamarisLuan (21675, 0.90€ bounty)
+Seat 6: Night-Killer (16946, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Night-Killer posts ante 25
+YL_ML_GL_42 posts ante 25
+FCSB78 posts ante 25
+--ProDeal-- posts ante 25
+mr yanos posts ante 25
+DamarisLuan posts ante 25
+Night-Killer posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [5c Ts]
+*** PRE-FLOP *** 
+FCSB78 folds
+--ProDeal-- folds
+mr yanos calls 200
+DamarisLuan calls 200
+Night-Killer raises 16721 to 16921 and is all-in
+YL_ML_GL_42 folds
+mr yanos folds
+DamarisLuan folds
+Night-Killer collected 17671 from pot
+*** SUMMARY ***
+Total pot 17671 | No rake
+Seat 6: Night-Killer (small blind) won 17671
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2541876579097641066-5-1668722516 - Holdem no limit (25/100/200) - 2022/11/17 22:01:56 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (19725, 0.90€ bounty)
+Seat 2: FCSB78 (20325, 0.90€ bounty)
+Seat 3: --ProDeal-- (17872, 0.90€ bounty)
+Seat 4: mr yanos (17522, 0.90€ bounty)
+Seat 5: DamarisLuan (21450, 0.90€ bounty)
+Seat 6: Night-Killer (17671, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+FCSB78 posts ante 25
+--ProDeal-- posts ante 25
+mr yanos posts ante 25
+DamarisLuan posts ante 25
+Night-Killer posts ante 25
+YL_ML_GL_42 posts small blind 100
+FCSB78 posts big blind 200
+Dealt to YL_ML_GL_42 [4d Th]
+*** PRE-FLOP *** 
+--ProDeal-- folds
+mr yanos folds
+DamarisLuan calls 200
+Night-Killer folds
+YL_ML_GL_42 folds
+FCSB78 checks
+*** FLOP *** [7h Ad 7c]
+FCSB78 checks
+DamarisLuan checks
+*** TURN *** [7h Ad 7c][3d]
+FCSB78 checks
+DamarisLuan checks
+*** RIVER *** [7h Ad 7c 3d][As]
+FCSB78 checks
+DamarisLuan bets 650
+FCSB78 folds
+DamarisLuan collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Board: [7h Ad 7c 3d As]
+Seat 5: DamarisLuan won 1300
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2541876579097641066-6-1668722595 - Holdem no limit (25/100/200) - 2022/11/17 22:03:15 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (19600, 0.90€ bounty)
+Seat 2: FCSB78 (20100, 0.90€ bounty)
+Seat 3: --ProDeal-- (17847, 0.90€ bounty)
+Seat 4: mr yanos (17497, 0.90€ bounty)
+Seat 5: DamarisLuan (21875, 0.90€ bounty)
+Seat 6: Night-Killer (17646, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FCSB78 posts ante 25
+--ProDeal-- posts ante 25
+YL_ML_GL_42 posts ante 25
+mr yanos posts ante 25
+DamarisLuan posts ante 25
+Night-Killer posts ante 25
+FCSB78 posts small blind 100
+--ProDeal-- posts big blind 200
+Dealt to YL_ML_GL_42 [8c 6h]
+*** PRE-FLOP *** 
+mr yanos raises 200 to 400
+DamarisLuan folds
+Night-Killer folds
+YL_ML_GL_42 folds
+FCSB78 folds
+--ProDeal-- folds
+mr yanos collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 4: mr yanos won 850
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2541876579097641066-7-1668722635 - Holdem no limit (25/100/200) - 2022/11/17 22:03:55 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (19575, 0.90€ bounty)
+Seat 2: FCSB78 (19975, 0.90€ bounty)
+Seat 3: --ProDeal-- (17622, 0.90€ bounty)
+Seat 4: mr yanos (17922, 0.90€ bounty)
+Seat 5: DamarisLuan (21850, 0.90€ bounty)
+Seat 6: Night-Killer (17621, 0.90€ bounty)
+*** ANTE/BLINDS ***
+--ProDeal-- posts ante 25
+mr yanos posts ante 25
+YL_ML_GL_42 posts ante 25
+FCSB78 posts ante 25
+DamarisLuan posts ante 25
+Night-Killer posts ante 25
+--ProDeal-- posts small blind 100
+mr yanos posts big blind 200
+Dealt to YL_ML_GL_42 [Ad 9d]
+*** PRE-FLOP *** 
+DamarisLuan folds
+Night-Killer folds
+YL_ML_GL_42 raises 250 to 450
+FCSB78 calls 450
+--ProDeal-- folds
+mr yanos calls 250
+*** FLOP *** [7h Kh 5c]
+mr yanos checks
+YL_ML_GL_42 checks
+FCSB78 checks
+*** TURN *** [7h Kh 5c][8d]
+mr yanos checks
+YL_ML_GL_42 checks
+FCSB78 checks
+*** RIVER *** [7h Kh 5c 8d][Tc]
+mr yanos checks
+YL_ML_GL_42 checks
+FCSB78 bets 560
+mr yanos calls 560
+YL_ML_GL_42 folds
+*** SHOW DOWN ***
+FCSB78 shows [Td Jd] (One pair : Tens)
+mr yanos shows [Qc Ts] (One pair : Tens)
+mr yanos collected 2720 from pot
+*** SUMMARY ***
+Total pot 2720 | No rake
+Board: [7h Kh 5c 8d Tc]
+Seat 2: FCSB78 (button) showed [Td Jd] and lost with One pair : Tens
+Seat 4: mr yanos (big blind) showed [Qc Ts] and won 2720 with One pair : Tens
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2541876579097641066-8-1668722756 - Holdem no limit (30/125/250) - 2022/11/17 22:05:56 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (19100, 0.90€ bounty)
+Seat 2: FCSB78 (18940, 0.90€ bounty)
+Seat 3: --ProDeal-- (17497, 0.90€ bounty)
+Seat 4: mr yanos (19607, 0.90€ bounty)
+Seat 5: DamarisLuan (21825, 0.90€ bounty)
+Seat 6: Night-Killer (17596, 0.90€ bounty)
+*** ANTE/BLINDS ***
+mr yanos posts ante 30
+DamarisLuan posts ante 30
+YL_ML_GL_42 posts ante 30
+FCSB78 posts ante 30
+--ProDeal-- posts ante 30
+Night-Killer posts ante 30
+mr yanos posts small blind 125
+DamarisLuan posts big blind 250
+Dealt to YL_ML_GL_42 [Tc 7h]
+*** PRE-FLOP *** 
+Night-Killer folds
+YL_ML_GL_42 folds
+FCSB78 raises 375 to 625
+--ProDeal-- folds
+mr yanos folds
+DamarisLuan calls 375
+*** FLOP *** [Kc 6h 8d]
+DamarisLuan checks
+FCSB78 checks
+*** TURN *** [Kc 6h 8d][Qc]
+DamarisLuan checks
+FCSB78 checks
+*** RIVER *** [Kc 6h 8d Qc][2d]
+DamarisLuan checks
+FCSB78 checks
+*** SHOW DOWN ***
+FCSB78 shows [7c As] (High card : Ace)
+DamarisLuan shows [Ad 2h] (One pair : 2)
+DamarisLuan collected 1555 from pot
+*** SUMMARY ***
+Total pot 1555 | No rake
+Board: [Kc 6h 8d Qc 2d]
+Seat 2: FCSB78 showed [7c As] and lost with High card : Ace
+Seat 5: DamarisLuan (big blind) showed [Ad 2h] and won 1555 with One pair : 2
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2541876579097641066-9-1668722839 - Holdem no limit (35/150/300) - 2022/11/17 22:07:19 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (19070, 0.90€ bounty)
+Seat 2: FCSB78 (18285, 0.90€ bounty)
+Seat 3: --ProDeal-- (17467, 0.90€ bounty)
+Seat 4: mr yanos (19452, 0.90€ bounty)
+Seat 5: DamarisLuan (22725, 0.90€ bounty)
+Seat 6: Night-Killer (17566, 0.90€ bounty)
+*** ANTE/BLINDS ***
+DamarisLuan posts ante 35
+Night-Killer posts ante 35
+YL_ML_GL_42 posts ante 35
+FCSB78 posts ante 35
+--ProDeal-- posts ante 35
+mr yanos posts ante 35
+DamarisLuan posts small blind 150
+Night-Killer posts big blind 300
+Dealt to YL_ML_GL_42 [6d 4h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+FCSB78 raises 450 to 750
+--ProDeal-- folds
+mr yanos calls 750
+DamarisLuan folds
+Night-Killer calls 450
+*** FLOP *** [2s Th Js]
+Night-Killer checks
+FCSB78 bets 1697
+mr yanos folds
+Night-Killer folds
+FCSB78 collected 4307 from pot
+*** SUMMARY ***
+Total pot 4307 | No rake
+Board: [2s Th Js]
+Seat 2: FCSB78 won 4307
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2541876579097641066-10-1668722892 - Holdem no limit (35/150/300) - 2022/11/17 22:08:12 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (19035, 0.90€ bounty)
+Seat 2: FCSB78 (20110, 0.90€ bounty)
+Seat 3: --ProDeal-- (17432, 0.90€ bounty)
+Seat 4: mr yanos (18667, 0.90€ bounty)
+Seat 5: DamarisLuan (22540, 0.90€ bounty)
+Seat 6: Night-Killer (16781, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Night-Killer posts ante 35
+YL_ML_GL_42 posts ante 35
+FCSB78 posts ante 35
+--ProDeal-- posts ante 35
+mr yanos posts ante 35
+DamarisLuan posts ante 35
+Night-Killer posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [Js Qc]
+*** PRE-FLOP *** 
+FCSB78 folds
+--ProDeal-- folds
+mr yanos raises 300 to 600
+DamarisLuan folds
+Night-Killer folds
+YL_ML_GL_42 calls 300
+*** FLOP *** [6c 6h 4s]
+YL_ML_GL_42 checks
+mr yanos checks
+*** TURN *** [6c 6h 4s][9h]
+YL_ML_GL_42 checks
+mr yanos checks
+*** RIVER *** [6c 6h 4s 9h][Qh]
+YL_ML_GL_42 bets 1014
+mr yanos folds
+YL_ML_GL_42 collected 2574 from pot
+*** SUMMARY ***
+Total pot 2574 | No rake
+Board: [6c 6h 4s 9h Qh]
+Seat 1: YL_ML_GL_42 (big blind) won 2574
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2541876579097641066-11-1668722953 - Holdem no limit (40/175/350) - 2022/11/17 22:09:13 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (19960, 0.90€ bounty)
+Seat 2: FCSB78 (20075, 0.90€ bounty)
+Seat 3: --ProDeal-- (17397, 0.90€ bounty)
+Seat 4: mr yanos (18032, 0.90€ bounty)
+Seat 5: DamarisLuan (22505, 0.90€ bounty)
+Seat 6: Night-Killer (16596, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 40
+FCSB78 posts ante 40
+--ProDeal-- posts ante 40
+mr yanos posts ante 40
+DamarisLuan posts ante 40
+Night-Killer posts ante 40
+YL_ML_GL_42 posts small blind 175
+FCSB78 posts big blind 350
+Dealt to YL_ML_GL_42 [Qs 5h]
+*** PRE-FLOP *** 
+--ProDeal-- folds
+mr yanos folds
+DamarisLuan folds
+Night-Killer folds
+YL_ML_GL_42 folds
+FCSB78 collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 2: FCSB78 (big blind) won 765
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2541876579097641066-12-1668722999 - Holdem no limit (40/175/350) - 2022/11/17 22:09:59 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (19745, 0.90€ bounty)
+Seat 2: FCSB78 (20450, 0.90€ bounty)
+Seat 3: --ProDeal-- (17357, 0.90€ bounty)
+Seat 4: mr yanos (17992, 0.90€ bounty)
+Seat 5: DamarisLuan (22465, 0.90€ bounty)
+Seat 6: Night-Killer (16556, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FCSB78 posts ante 40
+--ProDeal-- posts ante 40
+YL_ML_GL_42 posts ante 40
+mr yanos posts ante 40
+DamarisLuan posts ante 40
+Night-Killer posts ante 40
+FCSB78 posts small blind 175
+--ProDeal-- posts big blind 350
+Dealt to YL_ML_GL_42 [2c 2d]
+*** PRE-FLOP *** 
+mr yanos folds
+DamarisLuan raises 700 to 1050
+Night-Killer folds
+YL_ML_GL_42 calls 1050
+FCSB78 folds
+--ProDeal-- folds
+*** FLOP *** [Kd 7d As]
+DamarisLuan bets 2865
+YL_ML_GL_42 folds
+DamarisLuan collected 5730 from pot
+*** SUMMARY ***
+Total pot 5730 | No rake
+Board: [Kd 7d As]
+Seat 5: DamarisLuan won 5730
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2541876579097641066-13-1668723040 - Holdem no limit (40/175/350) - 2022/11/17 22:10:40 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (18655, 0.90€ bounty)
+Seat 2: FCSB78 (20235, 0.90€ bounty)
+Seat 3: --ProDeal-- (16967, 0.90€ bounty)
+Seat 4: mr yanos (17952, 0.90€ bounty)
+Seat 5: DamarisLuan (24240, 0.90€ bounty)
+Seat 6: Night-Killer (16516, 0.90€ bounty)
+*** ANTE/BLINDS ***
+--ProDeal-- posts ante 40
+mr yanos posts ante 40
+YL_ML_GL_42 posts ante 40
+FCSB78 posts ante 40
+DamarisLuan posts ante 40
+Night-Killer posts ante 40
+--ProDeal-- posts small blind 175
+mr yanos posts big blind 350
+Dealt to YL_ML_GL_42 [Qd 4s]
+*** PRE-FLOP *** 
+DamarisLuan folds
+Night-Killer folds
+YL_ML_GL_42 folds
+FCSB78 calls 350
+--ProDeal-- calls 175
+mr yanos checks
+*** FLOP *** [8h 5c 6h]
+--ProDeal-- checks
+mr yanos checks
+FCSB78 checks
+*** TURN *** [8h 5c 6h][9d]
+--ProDeal-- checks
+mr yanos checks
+FCSB78 bets 451
+--ProDeal-- calls 451
+mr yanos calls 451
+*** RIVER *** [8h 5c 6h 9d][2c]
+--ProDeal-- checks
+mr yanos checks
+FCSB78 checks
+*** SHOW DOWN ***
+FCSB78 shows [9h Kd] (One pair : 9)
+--ProDeal-- shows [Js Tc] (High card : Jack)
+mr yanos shows [Qc 7d] (Straight 9 high)
+mr yanos collected 2643 from pot
+*** SUMMARY ***
+Total pot 2643 | No rake
+Board: [8h 5c 6h 9d 2c]
+Seat 2: FCSB78 (button) showed [9h Kd] and lost with One pair : 9
+Seat 3: --ProDeal-- (small blind) showed [Js Tc] and lost with High card : Jack
+Seat 4: mr yanos (big blind) showed [Qc 7d] and won 2643 with Straight 9 high
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2541876579097641066-14-1668723138 - Holdem no limit (50/200/400) - 2022/11/17 22:12:18 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (18615, 0.90€ bounty)
+Seat 2: FCSB78 (19394, 0.90€ bounty)
+Seat 3: --ProDeal-- (16126, 0.90€ bounty)
+Seat 4: mr yanos (19754, 0.90€ bounty)
+Seat 5: DamarisLuan (24200, 0.90€ bounty)
+Seat 6: Night-Killer (16476, 0.90€ bounty)
+*** ANTE/BLINDS ***
+mr yanos posts ante 50
+DamarisLuan posts ante 50
+YL_ML_GL_42 posts ante 50
+FCSB78 posts ante 50
+--ProDeal-- posts ante 50
+Night-Killer posts ante 50
+mr yanos posts small blind 200
+DamarisLuan posts big blind 400
+Dealt to YL_ML_GL_42 [9d 6s]
+*** PRE-FLOP *** 
+Night-Killer folds
+YL_ML_GL_42 folds
+FCSB78 raises 600 to 1000
+--ProDeal-- calls 1000
+mr yanos calls 800
+DamarisLuan calls 600
+*** FLOP *** [As 3h Qc]
+mr yanos checks
+DamarisLuan bets 4300
+FCSB78 folds
+--ProDeal-- folds
+mr yanos folds
+DamarisLuan collected 8600 from pot
+*** SUMMARY ***
+Total pot 8600 | No rake
+Board: [As 3h Qc]
+Seat 5: DamarisLuan (big blind) won 8600
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2541876579097641066-15-1668723198 - Holdem no limit (50/200/400) - 2022/11/17 22:13:18 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (18565, 0.90€ bounty)
+Seat 2: FCSB78 (18344, 0.90€ bounty)
+Seat 3: --ProDeal-- (15076, 0.90€ bounty)
+Seat 4: mr yanos (18704, 0.90€ bounty)
+Seat 5: DamarisLuan (27450, 0.90€ bounty)
+Seat 6: Night-Killer (16426, 0.90€ bounty)
+*** ANTE/BLINDS ***
+DamarisLuan posts ante 50
+Night-Killer posts ante 50
+YL_ML_GL_42 posts ante 50
+FCSB78 posts ante 50
+--ProDeal-- posts ante 50
+mr yanos posts ante 50
+DamarisLuan posts small blind 200
+Night-Killer posts big blind 400
+Dealt to YL_ML_GL_42 [9h 2d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+FCSB78 folds
+--ProDeal-- folds
+mr yanos folds
+DamarisLuan calls 200
+Night-Killer checks
+*** FLOP *** [5d 4h 6d]
+DamarisLuan checks
+Night-Killer checks
+*** TURN *** [5d 4h 6d][8h]
+DamarisLuan checks
+Night-Killer bets 1100
+DamarisLuan folds
+Night-Killer collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | No rake
+Board: [5d 4h 6d 8h]
+Seat 6: Night-Killer (big blind) won 2200
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2541876579097641066-16-1668723243 - Holdem no limit (60/250/500) - 2022/11/17 22:14:03 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (18515, 0.90€ bounty)
+Seat 2: FCSB78 (18294, 0.90€ bounty)
+Seat 3: --ProDeal-- (15026, 0.90€ bounty)
+Seat 4: mr yanos (18654, 0.90€ bounty)
+Seat 5: DamarisLuan (27000, 0.90€ bounty)
+Seat 6: Night-Killer (17076, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Night-Killer posts ante 60
+YL_ML_GL_42 posts ante 60
+FCSB78 posts ante 60
+--ProDeal-- posts ante 60
+mr yanos posts ante 60
+DamarisLuan posts ante 60
+Night-Killer posts small blind 250
+YL_ML_GL_42 posts big blind 500
+Dealt to YL_ML_GL_42 [Ks 2d]
+*** PRE-FLOP *** 
+FCSB78 calls 500
+--ProDeal-- folds
+mr yanos folds
+DamarisLuan folds
+Night-Killer calls 250
+YL_ML_GL_42 checks
+*** FLOP *** [Ad 7h 5h]
+Night-Killer checks
+YL_ML_GL_42 checks
+FCSB78 checks
+*** TURN *** [Ad 7h 5h][9h]
+Night-Killer bets 1860
+YL_ML_GL_42 folds
+FCSB78 calls 1860
+*** RIVER *** [Ad 7h 5h 9h][Ac]
+Night-Killer bets 5580
+FCSB78 folds
+Night-Killer collected 11160 from pot
+*** SUMMARY ***
+Total pot 11160 | No rake
+Board: [Ad 7h 5h 9h Ac]
+Seat 6: Night-Killer (small blind) won 11160
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2541876579097641066-17-1668723318 - Holdem no limit (60/250/500) - 2022/11/17 22:15:18 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (17955, 0.90€ bounty)
+Seat 2: FCSB78 (15874, 0.90€ bounty)
+Seat 3: --ProDeal-- (14966, 0.90€ bounty)
+Seat 4: mr yanos (18594, 0.90€ bounty)
+Seat 5: DamarisLuan (26940, 0.90€ bounty)
+Seat 6: Night-Killer (20236, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+FCSB78 posts ante 60
+--ProDeal-- posts ante 60
+mr yanos posts ante 60
+DamarisLuan posts ante 60
+Night-Killer posts ante 60
+YL_ML_GL_42 posts small blind 250
+FCSB78 posts big blind 500
+Dealt to YL_ML_GL_42 [Qc Kd]
+*** PRE-FLOP *** 
+--ProDeal-- folds
+mr yanos calls 500
+DamarisLuan calls 500
+Night-Killer folds
+YL_ML_GL_42 raises 500 to 1000
+FCSB78 folds
+mr yanos calls 500
+DamarisLuan calls 500
+*** FLOP *** [Tc 4d 3c]
+YL_ML_GL_42 checks
+mr yanos checks
+DamarisLuan bets 500
+YL_ML_GL_42 folds
+mr yanos folds
+DamarisLuan collected 4360 from pot
+*** SUMMARY ***
+Total pot 4360 | No rake
+Board: [Tc 4d 3c]
+Seat 5: DamarisLuan won 4360
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2541876579097641066-18-1668723385 - Holdem no limit (60/250/500) - 2022/11/17 22:16:25 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (16895, 0.90€ bounty)
+Seat 2: FCSB78 (15314, 0.90€ bounty)
+Seat 3: --ProDeal-- (14906, 0.90€ bounty)
+Seat 4: mr yanos (17534, 0.90€ bounty)
+Seat 5: DamarisLuan (29740, 0.90€ bounty)
+Seat 6: Night-Killer (20176, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FCSB78 posts ante 60
+--ProDeal-- posts ante 60
+YL_ML_GL_42 posts ante 60
+mr yanos posts ante 60
+DamarisLuan posts ante 60
+Night-Killer posts ante 60
+FCSB78 posts small blind 250
+--ProDeal-- posts big blind 500
+Dealt to YL_ML_GL_42 [2s Jc]
+*** PRE-FLOP *** 
+mr yanos calls 500
+DamarisLuan calls 500
+Night-Killer folds
+YL_ML_GL_42 folds
+FCSB78 folds
+--ProDeal-- checks
+*** FLOP *** [2c 8d 7c]
+--ProDeal-- bets 1055
+mr yanos folds
+DamarisLuan folds
+--ProDeal-- collected 3165 from pot
+*** SUMMARY ***
+Total pot 3165 | No rake
+Board: [2c 8d 7c]
+Seat 3: --ProDeal-- (big blind) won 3165
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2541876579097641066-19-1668723427 - Holdem no limit (70/300/600) - 2022/11/17 22:17:07 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (16835, 0.90€ bounty)
+Seat 2: FCSB78 (15004, 0.90€ bounty)
+Seat 3: --ProDeal-- (16456, 0.90€ bounty)
+Seat 4: mr yanos (16974, 0.90€ bounty)
+Seat 5: DamarisLuan (29180, 0.90€ bounty)
+Seat 6: Night-Killer (20116, 0.90€ bounty)
+*** ANTE/BLINDS ***
+--ProDeal-- posts ante 70
+mr yanos posts ante 70
+YL_ML_GL_42 posts ante 70
+FCSB78 posts ante 70
+DamarisLuan posts ante 70
+Night-Killer posts ante 70
+--ProDeal-- posts small blind 300
+mr yanos posts big blind 600
+Dealt to YL_ML_GL_42 [7d Jd]
+*** PRE-FLOP *** 
+DamarisLuan raises 1920 to 2520
+Night-Killer folds
+YL_ML_GL_42 folds
+FCSB78 folds
+--ProDeal-- folds
+mr yanos folds
+DamarisLuan collected 3840 from pot
+*** SUMMARY ***
+Total pot 3840 | No rake
+Seat 5: DamarisLuan won 3840
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2541876579097641066-20-1668723465 - Holdem no limit (70/300/600) - 2022/11/17 22:17:45 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (16765, 0.90€ bounty)
+Seat 2: FCSB78 (14934, 0.90€ bounty)
+Seat 3: --ProDeal-- (16086, 0.90€ bounty)
+Seat 4: mr yanos (16304, 0.90€ bounty)
+Seat 5: DamarisLuan (30430, 0.90€ bounty)
+Seat 6: Night-Killer (20046, 0.90€ bounty)
+*** ANTE/BLINDS ***
+mr yanos posts ante 70
+DamarisLuan posts ante 70
+YL_ML_GL_42 posts ante 70
+FCSB78 posts ante 70
+--ProDeal-- posts ante 70
+Night-Killer posts ante 70
+mr yanos posts small blind 300
+DamarisLuan posts big blind 600
+Dealt to YL_ML_GL_42 [Kc Jd]
+*** PRE-FLOP *** 
+Night-Killer folds
+YL_ML_GL_42 raises 600 to 1200
+FCSB78 folds
+--ProDeal-- folds
+mr yanos calls 900
+DamarisLuan folds
+*** FLOP *** [Td 6h 8h]
+mr yanos checks
+YL_ML_GL_42 checks
+*** TURN *** [Td 6h 8h][3h]
+mr yanos bets 2223
+YL_ML_GL_42 folds
+mr yanos collected 5643 from pot
+*** SUMMARY ***
+Total pot 5643 | No rake
+Board: [Td 6h 8h 3h]
+Seat 4: mr yanos (small blind) won 5643
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2541876579097641066-21-1668723527 - Holdem no limit (70/300/600) - 2022/11/17 22:18:47 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (15495, 0.90€ bounty)
+Seat 2: FCSB78 (14864, 0.90€ bounty)
+Seat 3: --ProDeal-- (16016, 0.90€ bounty)
+Seat 4: mr yanos (18454, 0.90€ bounty)
+Seat 5: DamarisLuan (29760, 0.90€ bounty)
+Seat 6: Night-Killer (19976, 0.90€ bounty)
+*** ANTE/BLINDS ***
+DamarisLuan posts ante 70
+Night-Killer posts ante 70
+YL_ML_GL_42 posts ante 70
+FCSB78 posts ante 70
+--ProDeal-- posts ante 70
+mr yanos posts ante 70
+DamarisLuan posts small blind 300
+Night-Killer posts big blind 600
+Dealt to YL_ML_GL_42 [7h 5h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+FCSB78 folds
+--ProDeal-- folds
+mr yanos folds
+DamarisLuan folds
+Night-Killer collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Seat 6: Night-Killer (big blind) won 1320
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2541876579097641066-22-1668723540 - Holdem no limit (70/300/600) - 2022/11/17 22:19:00 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (15425, 0.90€ bounty)
+Seat 2: FCSB78 (14794, 0.90€ bounty)
+Seat 3: --ProDeal-- (15946, 0.90€ bounty)
+Seat 4: mr yanos (18384, 0.90€ bounty)
+Seat 5: DamarisLuan (29390, 0.90€ bounty)
+Seat 6: Night-Killer (20626, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Night-Killer posts ante 70
+YL_ML_GL_42 posts ante 70
+FCSB78 posts ante 70
+--ProDeal-- posts ante 70
+mr yanos posts ante 70
+DamarisLuan posts ante 70
+Night-Killer posts small blind 300
+YL_ML_GL_42 posts big blind 600
+Dealt to YL_ML_GL_42 [Qh 3s]
+*** PRE-FLOP *** 
+FCSB78 folds
+--ProDeal-- raises 750 to 1350
+mr yanos calls 1350
+DamarisLuan folds
+Night-Killer folds
+YL_ML_GL_42 folds
+*** FLOP *** [Qs 4c Jh]
+--ProDeal-- bets 1407
+mr yanos calls 1407
+*** TURN *** [Qs 4c Jh][As]
+--ProDeal-- checks
+mr yanos checks
+*** RIVER *** [Qs 4c Jh As][9s]
+--ProDeal-- checks
+mr yanos checks
+*** SHOW DOWN ***
+mr yanos shows [8c Jc] (One pair : Jacks)
+--ProDeal-- shows [Kh Js] (One pair : Jacks)
+--ProDeal-- collected 6834 from pot
+*** SUMMARY ***
+Total pot 6834 | No rake
+Board: [Qs 4c Jh As 9s]
+Seat 3: --ProDeal-- showed [Kh Js] and won 6834 with One pair : Jacks
+Seat 4: mr yanos showed [8c Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2541876579097641066-23-1668723585 - Holdem no limit (80/350/700) - 2022/11/17 22:19:45 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (14755, 0.90€ bounty)
+Seat 2: FCSB78 (14724, 0.90€ bounty)
+Seat 3: --ProDeal-- (19953, 0.90€ bounty)
+Seat 4: mr yanos (15557, 0.90€ bounty)
+Seat 5: DamarisLuan (29320, 0.90€ bounty)
+Seat 6: Night-Killer (20256, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+FCSB78 posts ante 80
+--ProDeal-- posts ante 80
+mr yanos posts ante 80
+DamarisLuan posts ante 80
+Night-Killer posts ante 80
+YL_ML_GL_42 posts small blind 350
+FCSB78 posts big blind 700
+Dealt to YL_ML_GL_42 [2c Ks]
+*** PRE-FLOP *** 
+--ProDeal-- folds
+mr yanos calls 700
+DamarisLuan folds
+Night-Killer raises 2930 to 3630
+YL_ML_GL_42 folds
+FCSB78 folds
+mr yanos calls 2930
+*** FLOP *** [9s 2h Js]
+mr yanos checks
+Night-Killer bets 6593
+mr yanos raises 5254 to 11847 and is all-in
+Night-Killer calls 5254
+*** TURN *** [9s 2h Js][2d]
+*** RIVER *** [9s 2h Js 2d][8h]
+*** SHOW DOWN ***
+Night-Killer shows [As Qc] (One pair : 2)
+mr yanos shows [Qs Ts] (Straight Queen high)
+mr yanos collected 32484 from pot
+*** SUMMARY ***
+Total pot 32484 | No rake
+Board: [9s 2h Js 2d 8h]
+Seat 4: mr yanos showed [Qs Ts] and won 32484 with Straight Queen high
+Seat 6: Night-Killer (button) showed [As Qc] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2541876579097641066-24-1668723647 - Holdem no limit (80/350/700) - 2022/11/17 22:20:47 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (14325, 0.90€ bounty)
+Seat 2: FCSB78 (13944, 0.90€ bounty)
+Seat 3: --ProDeal-- (19873, 0.90€ bounty)
+Seat 4: mr yanos (32484, 0.90€ bounty)
+Seat 5: DamarisLuan (29240, 0.90€ bounty)
+Seat 6: Night-Killer (4699, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FCSB78 posts ante 80
+--ProDeal-- posts ante 80
+YL_ML_GL_42 posts ante 80
+mr yanos posts ante 80
+DamarisLuan posts ante 80
+Night-Killer posts ante 80
+FCSB78 posts small blind 350
+--ProDeal-- posts big blind 700
+Dealt to YL_ML_GL_42 [Ac 2s]
+*** PRE-FLOP *** 
+mr yanos calls 700
+DamarisLuan folds
+Night-Killer folds
+YL_ML_GL_42 calls 700
+FCSB78 folds
+--ProDeal-- checks
+*** FLOP *** [7h Ah Qd]
+--ProDeal-- checks
+mr yanos checks
+YL_ML_GL_42 bets 1905
+--ProDeal-- folds
+mr yanos calls 1905
+*** TURN *** [7h Ah Qd][5c]
+mr yanos checks
+YL_ML_GL_42 bets 2359
+mr yanos calls 2359
+*** RIVER *** [7h Ah Qd 5c][4c]
+mr yanos checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ac 2s] (One pair : Aces)
+mr yanos shows [Th Ad] (One pair : Aces)
+mr yanos collected 11458 from pot
+*** SUMMARY ***
+Total pot 11458 | No rake
+Board: [7h Ah Qd 5c 4c]
+Seat 1: YL_ML_GL_42 (button) showed [Ac 2s] and lost with One pair : Aces
+Seat 4: mr yanos showed [Th Ad] and won 11458 with One pair : Aces
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2541876579097641066-25-1668723702 - Holdem no limit (100/400/800) - 2022/11/17 22:21:42 UTC
+Table: 'AFTER FOOT(591826760)#105' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (9281, 0.90€ bounty)
+Seat 2: FCSB78 (13514, 0.90€ bounty)
+Seat 3: --ProDeal-- (19093, 0.90€ bounty)
+Seat 4: mr yanos (38898, 0.90€ bounty)
+Seat 5: DamarisLuan (29160, 0.90€ bounty)
+Seat 6: Night-Killer (4619, 0.90€ bounty)
+*** ANTE/BLINDS ***
+--ProDeal-- posts ante 100
+mr yanos posts ante 100
+YL_ML_GL_42 posts ante 100
+FCSB78 posts ante 100
+DamarisLuan posts ante 100
+Night-Killer posts ante 100
+--ProDeal-- posts small blind 400
+mr yanos posts big blind 800
+Dealt to YL_ML_GL_42 [Ah 3h]
+*** PRE-FLOP *** 
+DamarisLuan folds
+Night-Killer folds
+YL_ML_GL_42 raises 8381 to 9181 and is all-in
+FCSB78 raises 4233 to 13414 and is all-in
+--ProDeal-- folds
+mr yanos folds
+*** FLOP *** [7c 5c Jc]
+*** TURN *** [7c 5c Jc][7d]
+*** RIVER *** [7c 5c Jc 7d][Kd]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ah 3h] (One pair : 7)
+FCSB78 shows [Qd Qh] (Two pairs : Queens and 7)
+FCSB78 collected 24395 from pot
+*** SUMMARY ***
+Total pot 24395 | No rake
+Board: [7c 5c Jc 7d Kd]
+Seat 1: YL_ML_GL_42 showed [Ah 3h] and lost with One pair : 7
+Seat 2: FCSB78 (button) showed [Qd Qh] and won 24395 with Two pairs : Queens and 7
+
+

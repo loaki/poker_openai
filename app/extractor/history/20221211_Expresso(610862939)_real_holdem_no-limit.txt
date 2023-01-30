@@ -1,0 +1,28 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2623636345343442945-1-1670795320 - Holdem no limit (10/20) - 2022/12/11 21:48:40 UTC
+Table: 'Expresso(610862939)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Lolopeche (500)
+Seat 2: laulau18100 (500)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Lolopeche posts big blind 20
+Dealt to YL_ML_GL_42 [4d Qd]
+*** PRE-FLOP *** 
+laulau18100 calls 20
+YL_ML_GL_42 raises 480 to 500 and is all-in
+Lolopeche calls 480 and is all-in
+laulau18100 folds
+*** FLOP *** [5h Ad 9d]
+*** TURN *** [5h Ad 9d][8c]
+*** RIVER *** [5h Ad 9d 8c][8s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [4d Qd] (One pair : 8)
+Lolopeche shows [Ah 2d] (Two pairs : Aces and 8)
+Lolopeche collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [5h Ad 9d 8c 8s]
+Seat 1: Lolopeche (big blind) showed [Ah 2d] and won 1020 with Two pairs : Aces and 8
+Seat 3: YL_ML_GL_42 (small blind) showed [4d Qd] and lost with One pair : 8
+
+

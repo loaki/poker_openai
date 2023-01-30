@@ -1,0 +1,1381 @@
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 1 - HandId: #2545584454429050300-1-1668974440 - Holdem no limit (12/50/100) - 2022/11/20 20:00:40 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#1467' 6-max (real money) Seat #4 is the button
+Seat 1: monkeyman27 (20000)
+Seat 2: jeanpeplus (20000)
+Seat 3: Ah.98 (20000)
+Seat 4: YL_ML_GL_42 (20000)
+Seat 5: ibis226 (20000)
+Seat 6: Djamesbond19 (20000)
+*** ANTE/BLINDS ***
+ibis226 posts ante 12
+Djamesbond19 posts ante 12
+monkeyman27 posts ante 12
+jeanpeplus posts ante 12
+Ah.98 posts ante 12
+YL_ML_GL_42 posts ante 12
+ibis226 posts small blind 50
+Djamesbond19 posts big blind 100
+Dealt to YL_ML_GL_42 [4d 6s]
+*** PRE-FLOP *** 
+monkeyman27 folds
+jeanpeplus folds
+Ah.98 folds
+YL_ML_GL_42 folds
+ibis226 calls 50
+Djamesbond19 checks
+*** FLOP *** [Js Qc 3s]
+ibis226 checks
+Djamesbond19 checks
+*** TURN *** [Js Qc 3s][2h]
+ibis226 checks
+Djamesbond19 bets 100
+ibis226 folds
+Djamesbond19 collected 372 from pot
+*** SUMMARY ***
+Total pot 372 | No rake
+Board: [Js Qc 3s 2h]
+Seat 6: Djamesbond19 (big blind) won 372
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 1 - HandId: #2545584454429050300-2-1668974502 - Holdem no limit (12/50/100) - 2022/11/20 20:01:42 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#1467' 6-max (real money) Seat #5 is the button
+Seat 1: monkeyman27 (19988)
+Seat 2: jeanpeplus (19988)
+Seat 3: Ah.98 (19988)
+Seat 4: YL_ML_GL_42 (19988)
+Seat 5: ibis226 (19888)
+Seat 6: Djamesbond19 (20160)
+*** ANTE/BLINDS ***
+Djamesbond19 posts ante 12
+monkeyman27 posts ante 12
+jeanpeplus posts ante 12
+Ah.98 posts ante 12
+YL_ML_GL_42 posts ante 12
+ibis226 posts ante 12
+Djamesbond19 posts small blind 50
+monkeyman27 posts big blind 100
+Dealt to YL_ML_GL_42 [4c 2h]
+*** PRE-FLOP *** 
+jeanpeplus calls 100
+Ah.98 calls 100
+YL_ML_GL_42 folds
+ibis226 calls 100
+Djamesbond19 folds
+monkeyman27 checks
+*** FLOP *** [3h 7s 7c]
+monkeyman27 checks
+jeanpeplus checks
+Ah.98 checks
+ibis226 checks
+*** TURN *** [3h 7s 7c][9c]
+monkeyman27 bets 183
+jeanpeplus folds
+Ah.98 folds
+ibis226 folds
+monkeyman27 collected 705 from pot
+*** SUMMARY ***
+Total pot 705 | No rake
+Board: [3h 7s 7c 9c]
+Seat 1: monkeyman27 (big blind) won 705
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 2 - HandId: #2545584454429050300-3-1668974586 - Holdem no limit (14/60/120) - 2022/11/20 20:03:06 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#1467' 6-max (real money) Seat #6 is the button
+Seat 1: monkeyman27 (20398)
+Seat 2: jeanpeplus (19876)
+Seat 3: Ah.98 (19876)
+Seat 4: YL_ML_GL_42 (19976)
+Seat 5: ibis226 (19776)
+Seat 6: Djamesbond19 (20098)
+*** ANTE/BLINDS ***
+monkeyman27 posts ante 14
+jeanpeplus posts ante 14
+Ah.98 posts ante 14
+YL_ML_GL_42 posts ante 14
+ibis226 posts ante 14
+Djamesbond19 posts ante 14
+monkeyman27 posts small blind 60
+jeanpeplus posts big blind 120
+Dealt to YL_ML_GL_42 [9d Ac]
+*** PRE-FLOP *** 
+Ah.98 calls 120
+YL_ML_GL_42 raises 120 to 240
+ibis226 folds
+Djamesbond19 folds
+monkeyman27 calls 180
+jeanpeplus calls 120
+Ah.98 calls 120
+*** FLOP *** [6h Tc 8s]
+monkeyman27 checks
+jeanpeplus checks
+Ah.98 checks
+YL_ML_GL_42 checks
+*** TURN *** [6h Tc 8s][8c]
+monkeyman27 checks
+jeanpeplus checks
+Ah.98 checks
+YL_ML_GL_42 checks
+*** RIVER *** [6h Tc 8s 8c][Ad]
+monkeyman27 checks
+jeanpeplus checks
+Ah.98 checks
+YL_ML_GL_42 bets 835
+monkeyman27 folds
+jeanpeplus folds
+Ah.98 folds
+YL_ML_GL_42 collected 1879 from pot
+*** SUMMARY ***
+Total pot 1879 | No rake
+Board: [6h Tc 8s 8c Ad]
+Seat 4: YL_ML_GL_42 won 1879
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 2 - HandId: #2545584454429050300-4-1668974677 - Holdem no limit (14/60/120) - 2022/11/20 20:04:37 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#1467' 6-max (real money) Seat #1 is the button
+Seat 1: monkeyman27 (20144)
+Seat 2: jeanpeplus (19622)
+Seat 3: Ah.98 (19622)
+Seat 4: YL_ML_GL_42 (20766)
+Seat 5: ibis226 (19762)
+Seat 6: Djamesbond19 (20084)
+*** ANTE/BLINDS ***
+jeanpeplus posts ante 14
+Ah.98 posts ante 14
+monkeyman27 posts ante 14
+YL_ML_GL_42 posts ante 14
+ibis226 posts ante 14
+Djamesbond19 posts ante 14
+jeanpeplus posts small blind 60
+Ah.98 posts big blind 120
+Dealt to YL_ML_GL_42 [5d 7s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ibis226 folds
+Djamesbond19 calls 120
+monkeyman27 folds
+jeanpeplus calls 60
+Ah.98 checks
+*** FLOP *** [3d Kh Jc]
+jeanpeplus checks
+Ah.98 bets 120
+Djamesbond19 calls 120
+jeanpeplus calls 120
+*** TURN *** [3d Kh Jc][Kc]
+jeanpeplus checks
+Ah.98 bets 120
+Djamesbond19 calls 120
+jeanpeplus calls 120
+*** RIVER *** [3d Kh Jc Kc][4d]
+jeanpeplus checks
+Ah.98 bets 180
+Djamesbond19 folds
+jeanpeplus folds
+Ah.98 collected 1344 from pot
+*** SUMMARY ***
+Total pot 1344 | No rake
+Board: [3d Kh Jc Kc 4d]
+Seat 3: Ah.98 (big blind) won 1344
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 3 - HandId: #2545584454429050300-5-1668974764 - Holdem no limit (16/70/140) - 2022/11/20 20:06:04 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#1467' 6-max (real money) Seat #2 is the button
+Seat 1: monkeyman27 (20130)
+Seat 2: jeanpeplus (19248)
+Seat 3: Ah.98 (20412)
+Seat 4: YL_ML_GL_42 (20752)
+Seat 5: ibis226 (19748)
+Seat 6: Djamesbond19 (19710)
+*** ANTE/BLINDS ***
+Ah.98 posts ante 16
+YL_ML_GL_42 posts ante 16
+monkeyman27 posts ante 16
+jeanpeplus posts ante 16
+ibis226 posts ante 16
+Djamesbond19 posts ante 16
+Ah.98 posts small blind 70
+YL_ML_GL_42 posts big blind 140
+Dealt to YL_ML_GL_42 [7d 7s]
+*** PRE-FLOP *** 
+ibis226 folds
+Djamesbond19 calls 140
+monkeyman27 raises 280 to 420
+jeanpeplus calls 420
+Ah.98 folds
+YL_ML_GL_42 raises 20316 to 20736 and is all-in
+Djamesbond19 folds
+monkeyman27 folds
+jeanpeplus folds
+YL_ML_GL_42 collected 21882 from pot
+*** SUMMARY ***
+Total pot 21882 | No rake
+Seat 4: YL_ML_GL_42 (big blind) won 21882
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 3 - HandId: #2545584454429050300-6-1668974818 - Holdem no limit (16/70/140) - 2022/11/20 20:06:58 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#1467' 6-max (real money) Seat #3 is the button
+Seat 1: monkeyman27 (19694)
+Seat 2: jeanpeplus (18812)
+Seat 3: Ah.98 (20326)
+Seat 4: YL_ML_GL_42 (21882)
+Seat 5: ibis226 (19732)
+Seat 6: Djamesbond19 (19554)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 16
+ibis226 posts ante 16
+monkeyman27 posts ante 16
+jeanpeplus posts ante 16
+Ah.98 posts ante 16
+Djamesbond19 posts ante 16
+YL_ML_GL_42 posts small blind 70
+ibis226 posts big blind 140
+Dealt to YL_ML_GL_42 [6c 7s]
+*** PRE-FLOP *** 
+Djamesbond19 calls 140
+monkeyman27 folds
+jeanpeplus calls 140
+Ah.98 folds
+YL_ML_GL_42 folds
+ibis226 checks
+*** FLOP *** [8s Th 3s]
+ibis226 checks
+Djamesbond19 bets 140
+jeanpeplus folds
+ibis226 folds
+Djamesbond19 collected 726 from pot
+*** SUMMARY ***
+Total pot 726 | No rake
+Board: [8s Th 3s]
+Seat 6: Djamesbond19 won 726
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 4 - HandId: #2545584454429050300-7-1668974897 - Holdem no limit (20/80/160) - 2022/11/20 20:08:17 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#1467' 6-max (real money) Seat #4 is the button
+Seat 1: monkeyman27 (19678)
+Seat 2: jeanpeplus (18656)
+Seat 3: Ah.98 (20310)
+Seat 4: YL_ML_GL_42 (21796)
+Seat 5: ibis226 (19576)
+Seat 6: Djamesbond19 (19984)
+*** ANTE/BLINDS ***
+ibis226 posts ante 20
+Djamesbond19 posts ante 20
+monkeyman27 posts ante 20
+jeanpeplus posts ante 20
+Ah.98 posts ante 20
+YL_ML_GL_42 posts ante 20
+ibis226 posts small blind 80
+Djamesbond19 posts big blind 160
+Dealt to YL_ML_GL_42 [9d 4c]
+*** PRE-FLOP *** 
+monkeyman27 raises 240 to 400
+jeanpeplus calls 400
+Ah.98 folds
+YL_ML_GL_42 folds
+ibis226 calls 320
+Djamesbond19 folds
+*** FLOP *** [6d 2c 8d]
+ibis226 checks
+monkeyman27 checks
+jeanpeplus bets 160
+ibis226 calls 160
+monkeyman27 calls 160
+*** TURN *** [6d 2c 8d][4s]
+ibis226 checks
+monkeyman27 checks
+jeanpeplus checks
+*** RIVER *** [6d 2c 8d 4s][Ks]
+ibis226 checks
+monkeyman27 checks
+jeanpeplus checks
+*** SHOW DOWN ***
+monkeyman27 shows [Jd Qs] (High card : King)
+ibis226 shows [7c Ad] (High card : Ace)
+jeanpeplus shows [As 8c] (One pair : 8)
+jeanpeplus collected 1960 from pot
+*** SUMMARY ***
+Total pot 1960 | No rake
+Board: [6d 2c 8d 4s Ks]
+Seat 1: monkeyman27 showed [Jd Qs] and lost with High card : King
+Seat 2: jeanpeplus showed [As 8c] and won 1960 with One pair : 8
+Seat 5: ibis226 (small blind) showed [7c Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 5 - HandId: #2545584454429050300-8-1668975054 - Holdem no limit (25/100/200) - 2022/11/20 20:10:54 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#1467' 6-max (real money) Seat #5 is the button
+Seat 1: monkeyman27 (19098)
+Seat 2: jeanpeplus (20036)
+Seat 3: Ah.98 (20290)
+Seat 4: YL_ML_GL_42 (21776)
+Seat 5: ibis226 (18996)
+Seat 6: Djamesbond19 (19804)
+*** ANTE/BLINDS ***
+Djamesbond19 posts ante 25
+monkeyman27 posts ante 25
+jeanpeplus posts ante 25
+Ah.98 posts ante 25
+YL_ML_GL_42 posts ante 25
+ibis226 posts ante 25
+Djamesbond19 posts small blind 100
+monkeyman27 posts big blind 200
+Dealt to YL_ML_GL_42 [5c 8s]
+*** PRE-FLOP *** 
+jeanpeplus calls 200
+Ah.98 calls 200
+YL_ML_GL_42 folds
+ibis226 folds
+Djamesbond19 calls 100
+monkeyman27 checks
+*** FLOP *** [9h 6s 8h]
+Djamesbond19 checks
+monkeyman27 bets 333
+jeanpeplus folds
+Ah.98 folds
+Djamesbond19 calls 333
+*** TURN *** [9h 6s 8h][8c]
+Djamesbond19 checks
+monkeyman27 checks
+*** RIVER *** [9h 6s 8h 8c][Ah]
+Djamesbond19 bets 1616
+monkeyman27 folds
+Djamesbond19 collected 3232 from pot
+*** SUMMARY ***
+Total pot 3232 | No rake
+Board: [9h 6s 8h 8c Ah]
+Seat 6: Djamesbond19 (small blind) won 3232
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 5 - HandId: #2545584454429050300-9-1668975142 - Holdem no limit (25/100/200) - 2022/11/20 20:12:22 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#1467' 6-max (real money) Seat #6 is the button
+Seat 1: monkeyman27 (18540)
+Seat 2: jeanpeplus (19811)
+Seat 3: Ah.98 (20065)
+Seat 4: YL_ML_GL_42 (21751)
+Seat 5: ibis226 (18971)
+Seat 6: Djamesbond19 (20862)
+*** ANTE/BLINDS ***
+monkeyman27 posts ante 25
+jeanpeplus posts ante 25
+Ah.98 posts ante 25
+YL_ML_GL_42 posts ante 25
+ibis226 posts ante 25
+Djamesbond19 posts ante 25
+monkeyman27 posts small blind 100
+jeanpeplus posts big blind 200
+Dealt to YL_ML_GL_42 [Th Kd]
+*** PRE-FLOP *** 
+Ah.98 folds
+YL_ML_GL_42 raises 200 to 400
+ibis226 folds
+Djamesbond19 folds
+monkeyman27 calls 300
+jeanpeplus calls 200
+*** FLOP *** [4c Ah Qs]
+monkeyman27 checks
+jeanpeplus bets 200
+YL_ML_GL_42 calls 200
+monkeyman27 folds
+*** TURN *** [4c Ah Qs][Jd]
+jeanpeplus checks
+YL_ML_GL_42 checks
+*** RIVER *** [4c Ah Qs Jd][7d]
+jeanpeplus checks
+YL_ML_GL_42 bets 1400
+jeanpeplus folds
+YL_ML_GL_42 collected 3150 from pot
+*** SUMMARY ***
+Total pot 3150 | No rake
+Board: [4c Ah Qs Jd 7d]
+Seat 4: YL_ML_GL_42 won 3150
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 6 - HandId: #2545584454429050300-10-1668975230 - Holdem no limit (30/125/250) - 2022/11/20 20:13:50 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#1467' 6-max (real money) Seat #1 is the button
+Seat 1: monkeyman27 (18115)
+Seat 2: jeanpeplus (19186)
+Seat 3: Ah.98 (20040)
+Seat 4: YL_ML_GL_42 (22876)
+Seat 5: ibis226 (18946)
+Seat 6: Djamesbond19 (20837)
+*** ANTE/BLINDS ***
+jeanpeplus posts ante 30
+Ah.98 posts ante 30
+monkeyman27 posts ante 30
+YL_ML_GL_42 posts ante 30
+ibis226 posts ante 30
+Djamesbond19 posts ante 30
+jeanpeplus posts small blind 125
+Ah.98 posts big blind 250
+Dealt to YL_ML_GL_42 [Kh 8c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ibis226 folds
+Djamesbond19 calls 250
+monkeyman27 calls 250
+jeanpeplus calls 125
+Ah.98 raises 375 to 625
+Djamesbond19 calls 375
+monkeyman27 calls 375
+jeanpeplus calls 375
+*** FLOP *** [3d 5d 9c]
+jeanpeplus checks
+Ah.98 bets 938
+Djamesbond19 folds
+monkeyman27 calls 938
+jeanpeplus calls 938
+*** TURN *** [3d 5d 9c][8s]
+jeanpeplus checks
+Ah.98 bets 1923
+monkeyman27 calls 1923
+jeanpeplus calls 1923
+*** RIVER *** [3d 5d 9c 8s][2d]
+jeanpeplus bets 15670 and is all-in
+Ah.98 folds
+monkeyman27 folds
+jeanpeplus collected 26933 from pot
+*** SUMMARY ***
+Total pot 26933 | No rake
+Board: [3d 5d 9c 8s 2d]
+Seat 2: jeanpeplus (small blind) won 26933
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 7 - HandId: #2545584454429050300-11-1668975375 - Holdem no limit (35/150/300) - 2022/11/20 20:16:15 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#1467' 6-max (real money) Seat #2 is the button
+Seat 1: monkeyman27 (14599)
+Seat 2: jeanpeplus (26933)
+Seat 3: Ah.98 (16524)
+Seat 4: YL_ML_GL_42 (22846)
+Seat 5: ibis226 (18916)
+Seat 6: Djamesbond19 (20182)
+*** ANTE/BLINDS ***
+Ah.98 posts ante 35
+YL_ML_GL_42 posts ante 35
+monkeyman27 posts ante 35
+jeanpeplus posts ante 35
+ibis226 posts ante 35
+Djamesbond19 posts ante 35
+Ah.98 posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [6s 8c]
+*** PRE-FLOP *** 
+ibis226 folds
+Djamesbond19 folds
+monkeyman27 calls 300
+jeanpeplus calls 300
+Ah.98 calls 150
+YL_ML_GL_42 checks
+*** FLOP *** [5d 2d Kd]
+Ah.98 checks
+YL_ML_GL_42 checks
+monkeyman27 checks
+jeanpeplus checks
+*** TURN *** [5d 2d Kd][7c]
+Ah.98 bets 917
+YL_ML_GL_42 calls 917
+monkeyman27 folds
+jeanpeplus calls 917
+*** RIVER *** [5d 2d Kd 7c][Js]
+Ah.98 checks
+YL_ML_GL_42 checks
+jeanpeplus checks
+*** SHOW DOWN ***
+jeanpeplus shows [4c Ad] (High card : Ace)
+YL_ML_GL_42 shows [6s 8c] (High card : King)
+Ah.98 shows [7d 4s] (One pair : 7)
+Ah.98 collected 4161 from pot
+*** SUMMARY ***
+Total pot 4161 | No rake
+Board: [5d 2d Kd 7c Js]
+Seat 2: jeanpeplus (button) showed [4c Ad] and lost with High card : Ace
+Seat 3: Ah.98 (small blind) showed [7d 4s] and won 4161 with One pair : 7
+Seat 4: YL_ML_GL_42 (big blind) showed [6s 8c] and lost with High card : King
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 8 - HandId: #2545584454429050300-12-1668975537 - Holdem no limit (40/175/350) - 2022/11/20 20:18:57 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#1467' 6-max (real money) Seat #3 is the button
+Seat 1: monkeyman27 (14264)
+Seat 2: jeanpeplus (25681)
+Seat 3: Ah.98 (19433)
+Seat 4: YL_ML_GL_42 (21594)
+Seat 5: ibis226 (18881)
+Seat 6: Djamesbond19 (20147)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 40
+ibis226 posts ante 40
+monkeyman27 posts ante 40
+jeanpeplus posts ante 40
+Ah.98 posts ante 40
+Djamesbond19 posts ante 40
+YL_ML_GL_42 posts small blind 175
+ibis226 posts big blind 350
+Dealt to YL_ML_GL_42 [8d 9h]
+*** PRE-FLOP *** 
+Djamesbond19 calls 350
+monkeyman27 folds
+jeanpeplus folds
+Ah.98 folds
+YL_ML_GL_42 folds
+ibis226 checks
+*** FLOP *** [Kd Td 9c]
+ibis226 checks
+Djamesbond19 bets 350
+ibis226 folds
+Djamesbond19 collected 1465 from pot
+*** SUMMARY ***
+Total pot 1465 | No rake
+Board: [Kd Td 9c]
+Seat 6: Djamesbond19 won 1465
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 8 - HandId: #2545584454429050300-13-1668975605 - Holdem no limit (40/175/350) - 2022/11/20 20:20:05 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#1467' 6-max (real money) Seat #4 is the button
+Seat 1: monkeyman27 (14224)
+Seat 2: jeanpeplus (25641)
+Seat 3: Ah.98 (19393)
+Seat 4: YL_ML_GL_42 (21379)
+Seat 5: ibis226 (18491)
+Seat 6: Djamesbond19 (20872)
+*** ANTE/BLINDS ***
+ibis226 posts ante 40
+Djamesbond19 posts ante 40
+monkeyman27 posts ante 40
+jeanpeplus posts ante 40
+Ah.98 posts ante 40
+YL_ML_GL_42 posts ante 40
+ibis226 posts small blind 175
+Djamesbond19 posts big blind 350
+Dealt to YL_ML_GL_42 [Kh Kc]
+*** PRE-FLOP *** 
+monkeyman27 calls 350
+jeanpeplus calls 350
+Ah.98 calls 350
+YL_ML_GL_42 raises 700 to 1050
+ibis226 folds
+Djamesbond19 folds
+monkeyman27 calls 700
+jeanpeplus folds
+Ah.98 folds
+*** FLOP *** [Ts 2h 7c]
+monkeyman27 checks
+YL_ML_GL_42 bets 1248
+monkeyman27 folds
+YL_ML_GL_42 collected 4813 from pot
+*** SUMMARY ***
+Total pot 4813 | No rake
+Board: [Ts 2h 7c]
+Seat 4: YL_ML_GL_42 (button) won 4813
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 9 - HandId: #2545584454429050300-14-1668975744 - Holdem no limit (50/200/400) - 2022/11/20 20:22:24 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#1467' 6-max (real money) Seat #5 is the button
+Seat 1: monkeyman27 (13134)
+Seat 2: jeanpeplus (25251)
+Seat 3: Ah.98 (19003)
+Seat 4: YL_ML_GL_42 (23854)
+Seat 5: ibis226 (18276)
+Seat 6: Djamesbond19 (20482)
+*** ANTE/BLINDS ***
+Djamesbond19 posts ante 50
+monkeyman27 posts ante 50
+jeanpeplus posts ante 50
+Ah.98 posts ante 50
+YL_ML_GL_42 posts ante 50
+ibis226 posts ante 50
+Djamesbond19 posts small blind 200
+monkeyman27 posts big blind 400
+Dealt to YL_ML_GL_42 [4d Jd]
+*** PRE-FLOP *** 
+jeanpeplus calls 400
+Ah.98 calls 400
+YL_ML_GL_42 folds
+ibis226 folds
+Djamesbond19 calls 200
+monkeyman27 raises 12684 to 13084 and is all-in
+jeanpeplus folds
+Ah.98 folds
+Djamesbond19 folds
+monkeyman27 collected 14584 from pot
+*** SUMMARY ***
+Total pot 14584 | No rake
+Seat 1: monkeyman27 (big blind) won 14584
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 10 - HandId: #2545584454429050300-15-1668975838 - Holdem no limit (60/250/500) - 2022/11/20 20:23:58 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#1467' 6-max (real money) Seat #6 is the button
+Seat 1: monkeyman27 (14584)
+Seat 2: jeanpeplus (24801)
+Seat 3: Ah.98 (18553)
+Seat 4: YL_ML_GL_42 (23804)
+Seat 5: ibis226 (18226)
+Seat 6: Djamesbond19 (20032)
+*** ANTE/BLINDS ***
+monkeyman27 posts ante 60
+jeanpeplus posts ante 60
+Ah.98 posts ante 60
+YL_ML_GL_42 posts ante 60
+ibis226 posts ante 60
+Djamesbond19 posts ante 60
+monkeyman27 posts small blind 250
+jeanpeplus posts big blind 500
+Dealt to YL_ML_GL_42 [As Jd]
+*** PRE-FLOP *** 
+Ah.98 calls 500
+YL_ML_GL_42 raises 2110 to 2610
+ibis226 folds
+Djamesbond19 folds
+monkeyman27 calls 2360
+jeanpeplus folds
+Ah.98 calls 2110
+*** FLOP *** [8s Kd 4s]
+monkeyman27 checks
+Ah.98 checks
+YL_ML_GL_42 checks
+*** TURN *** [8s Kd 4s][Jc]
+monkeyman27 checks
+Ah.98 bets 500
+YL_ML_GL_42 calls 500
+monkeyman27 folds
+*** RIVER *** [8s Kd 4s Jc][9d]
+Ah.98 bets 3392
+YL_ML_GL_42 calls 3392
+*** SHOW DOWN ***
+Ah.98 shows [7c Ad] (High card : Ace)
+YL_ML_GL_42 shows [As Jd] (One pair : Jacks)
+YL_ML_GL_42 collected 16474 from pot
+*** SUMMARY ***
+Total pot 16474 | No rake
+Board: [8s Kd 4s Jc 9d]
+Seat 3: Ah.98 showed [7c Ad] and lost with High card : Ace
+Seat 4: YL_ML_GL_42 showed [As Jd] and won 16474 with One pair : Jacks
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 11 - HandId: #2545584454429049579-24-1668976007 - Holdem no limit (70/300/600) - 2022/11/20 20:26:47 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #2 is the button
+Seat 1: xSalvi (48370)
+Seat 2: Bastien231 (48740)
+Seat 3: O.T.NAK (18012)
+Seat 4: YL_ML_GL_42 (33716)
+Seat 5: Ourson_Tetu (24878)
+Seat 6: Laptitepuput (5347)
+*** ANTE/BLINDS ***
+O.T.NAK posts ante 70
+YL_ML_GL_42 posts ante 70
+xSalvi posts ante 70
+Bastien231 posts ante 70
+Ourson_Tetu posts ante 70
+Laptitepuput posts ante 70
+O.T.NAK posts small blind 300
+YL_ML_GL_42 posts big blind 600
+Dealt to YL_ML_GL_42 [5d 8c]
+*** PRE-FLOP *** 
+Ourson_Tetu calls 600
+Laptitepuput folds
+xSalvi folds
+Bastien231 folds
+O.T.NAK folds
+YL_ML_GL_42 checks
+*** FLOP *** [Kd 5s 2h]
+YL_ML_GL_42 bets 1920
+Ourson_Tetu folds
+YL_ML_GL_42 collected 3840 from pot
+*** SUMMARY ***
+Total pot 3840 | No rake
+Board: [Kd 5s 2h]
+Seat 4: YL_ML_GL_42 (big blind) won 3840
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 11 - HandId: #2545584454429049579-25-1668976057 - Holdem no limit (70/300/600) - 2022/11/20 20:27:37 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #3 is the button
+Seat 1: xSalvi (48300)
+Seat 2: Bastien231 (48670)
+Seat 3: O.T.NAK (17642)
+Seat 4: YL_ML_GL_42 (34966)
+Seat 5: Ourson_Tetu (24208)
+Seat 6: Laptitepuput (5277)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 70
+Ourson_Tetu posts ante 70
+xSalvi posts ante 70
+Bastien231 posts ante 70
+O.T.NAK posts ante 70
+Laptitepuput posts ante 70
+YL_ML_GL_42 posts small blind 300
+Ourson_Tetu posts big blind 600
+Dealt to YL_ML_GL_42 [Js Td]
+*** PRE-FLOP *** 
+Laptitepuput raises 4607 to 5207 and is all-in
+xSalvi folds
+Bastien231 calls 5207
+O.T.NAK folds
+YL_ML_GL_42 folds
+Ourson_Tetu folds
+*** FLOP *** [7h 4h 6c]
+*** TURN *** [7h 4h 6c][2c]
+*** RIVER *** [7h 4h 6c 2c][5s]
+*** SHOW DOWN ***
+Bastien231 shows [As 6s] (One pair : 6)
+Laptitepuput shows [9d 8d] (Straight 9 high)
+Laptitepuput collected 11734 from pot
+*** SUMMARY ***
+Total pot 11734 | No rake
+Board: [7h 4h 6c 2c 5s]
+Seat 2: Bastien231 showed [As 6s] and lost with One pair : 6
+Seat 6: Laptitepuput showed [9d 8d] and won 11734 with Straight 9 high
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 12 - HandId: #2545584454429049579-26-1668976108 - Holdem no limit (80/350/700) - 2022/11/20 20:28:28 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #4 is the button
+Seat 1: xSalvi (48230)
+Seat 2: Bastien231 (43393)
+Seat 3: O.T.NAK (17572)
+Seat 4: YL_ML_GL_42 (34596)
+Seat 5: Ourson_Tetu (23538)
+Seat 6: Laptitepuput (11734)
+*** ANTE/BLINDS ***
+Ourson_Tetu posts ante 80
+Laptitepuput posts ante 80
+xSalvi posts ante 80
+Bastien231 posts ante 80
+O.T.NAK posts ante 80
+YL_ML_GL_42 posts ante 80
+Ourson_Tetu posts small blind 350
+Laptitepuput posts big blind 700
+Dealt to YL_ML_GL_42 [9h 3c]
+*** PRE-FLOP *** 
+xSalvi calls 700
+Bastien231 folds
+O.T.NAK folds
+YL_ML_GL_42 folds
+Ourson_Tetu folds
+Laptitepuput checks
+*** FLOP *** [As 8c Ks]
+Laptitepuput checks
+xSalvi checks
+*** TURN *** [As 8c Ks][8s]
+Laptitepuput checks
+xSalvi bets 1450
+Laptitepuput folds
+xSalvi collected 3680 from pot
+*** SUMMARY ***
+Total pot 3680 | No rake
+Board: [As 8c Ks 8s]
+Seat 1: xSalvi won 3680
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 12 - HandId: #2545584454429049579-27-1668976167 - Holdem no limit (80/350/700) - 2022/11/20 20:29:27 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #5 is the button
+Seat 1: xSalvi (49680)
+Seat 2: Bastien231 (43313)
+Seat 3: O.T.NAK (17492)
+Seat 4: YL_ML_GL_42 (34516)
+Seat 5: Ourson_Tetu (23108)
+Seat 6: Laptitepuput (10954)
+*** ANTE/BLINDS ***
+Laptitepuput posts ante 80
+xSalvi posts ante 80
+Bastien231 posts ante 80
+O.T.NAK posts ante 80
+YL_ML_GL_42 posts ante 80
+Ourson_Tetu posts ante 80
+Laptitepuput posts small blind 350
+xSalvi posts big blind 700
+Dealt to YL_ML_GL_42 [8c Kh]
+*** PRE-FLOP *** 
+Bastien231 calls 700
+O.T.NAK folds
+YL_ML_GL_42 folds
+Ourson_Tetu raises 1400 to 2100
+Laptitepuput folds
+xSalvi calls 1400
+Bastien231 calls 1400
+*** FLOP *** [Qs 5s 2d]
+xSalvi checks
+Bastien231 checks
+Ourson_Tetu bets 2800
+xSalvi calls 2800
+Bastien231 calls 2800
+*** TURN *** [Qs 5s 2d][5h]
+xSalvi checks
+Bastien231 checks
+Ourson_Tetu checks
+*** RIVER *** [Qs 5s 2d 5h][6s]
+xSalvi bets 7765
+Bastien231 calls 7765
+Ourson_Tetu folds
+*** SHOW DOWN ***
+Bastien231 shows [9c Qc] (Two pairs : Queens and 5)
+xSalvi shows [Kc Qh] (Two pairs : Queens and 5)
+xSalvi collected 31060 from pot
+*** SUMMARY ***
+Total pot 31060 | No rake
+Board: [Qs 5s 2d 5h 6s]
+Seat 1: xSalvi (big blind) showed [Kc Qh] and won 31060 with Two pairs : Queens and 5
+Seat 2: Bastien231 showed [9c Qc] and lost with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 13 - HandId: #2545584454429049579-28-1668976315 - Holdem no limit (100/400/800) - 2022/11/20 20:31:55 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #6 is the button
+Seat 1: xSalvi (67995)
+Seat 2: Bastien231 (30568)
+Seat 3: O.T.NAK (17412)
+Seat 4: YL_ML_GL_42 (34436)
+Seat 5: Ourson_Tetu (18128)
+Seat 6: Laptitepuput (10524)
+*** ANTE/BLINDS ***
+xSalvi posts ante 100
+Bastien231 posts ante 100
+O.T.NAK posts ante 100
+YL_ML_GL_42 posts ante 100
+Ourson_Tetu posts ante 100
+Laptitepuput posts ante 100
+xSalvi posts small blind 400
+Bastien231 posts big blind 800
+Dealt to YL_ML_GL_42 [Jc 7c]
+*** PRE-FLOP *** 
+O.T.NAK folds
+YL_ML_GL_42 raises 1200 to 2000
+Ourson_Tetu folds
+Laptitepuput folds
+xSalvi calls 1600
+Bastien231 raises 28468 to 30468 and is all-in
+YL_ML_GL_42 folds
+xSalvi folds
+Bastien231 collected 35068 from pot
+*** SUMMARY ***
+Total pot 35068 | No rake
+Seat 2: Bastien231 (big blind) won 35068
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 13 - HandId: #2545584454429049579-29-1668976363 - Holdem no limit (100/400/800) - 2022/11/20 20:32:43 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #1 is the button
+Seat 1: xSalvi (65895)
+Seat 2: Bastien231 (35068)
+Seat 3: O.T.NAK (17312)
+Seat 4: YL_ML_GL_42 (32336)
+Seat 5: Ourson_Tetu (18028)
+Seat 6: Laptitepuput (10424)
+*** ANTE/BLINDS ***
+Bastien231 posts ante 100
+O.T.NAK posts ante 100
+xSalvi posts ante 100
+YL_ML_GL_42 posts ante 100
+Ourson_Tetu posts ante 100
+Laptitepuput posts ante 100
+Bastien231 posts small blind 400
+O.T.NAK posts big blind 800
+Dealt to YL_ML_GL_42 [5h 5d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 2600 to 3400
+Ourson_Tetu raises 14528 to 17928 and is all-in
+Laptitepuput folds
+xSalvi folds
+Bastien231 folds
+O.T.NAK folds
+YL_ML_GL_42 calls 14528
+*** FLOP *** [3d Jd Th]
+*** TURN *** [3d Jd Th][2d]
+*** RIVER *** [3d Jd Th 2d][6s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [5h 5d] (One pair : 5)
+Ourson_Tetu shows [8h 8d] (One pair : 8)
+Ourson_Tetu collected 37656 from pot
+*** SUMMARY ***
+Total pot 37656 | No rake
+Board: [3d Jd Th 2d 6s]
+Seat 4: YL_ML_GL_42 showed [5h 5d] and lost with One pair : 5
+Seat 5: Ourson_Tetu showed [8h 8d] and won 37656 with One pair : 8
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 14 - HandId: #2545584454429049579-30-1668976418 - Holdem no limit (120/500/1000) - 2022/11/20 20:33:38 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #2 is the button
+Seat 1: xSalvi (65795)
+Seat 2: Bastien231 (34568)
+Seat 3: O.T.NAK (16412)
+Seat 4: YL_ML_GL_42 (14308)
+Seat 5: Ourson_Tetu (37656)
+Seat 6: Laptitepuput (10324)
+*** ANTE/BLINDS ***
+O.T.NAK posts ante 120
+YL_ML_GL_42 posts ante 120
+xSalvi posts ante 120
+Bastien231 posts ante 120
+Ourson_Tetu posts ante 120
+Laptitepuput posts ante 120
+O.T.NAK posts small blind 500
+YL_ML_GL_42 posts big blind 1000
+Dealt to YL_ML_GL_42 [6d 9h]
+*** PRE-FLOP *** 
+Ourson_Tetu folds
+Laptitepuput folds
+xSalvi raises 1500 to 2500
+Bastien231 raises 1500 to 4000
+O.T.NAK folds
+YL_ML_GL_42 folds
+xSalvi raises 61675 to 65675 and is all-in
+Bastien231 calls 30448 and is all-in
+*** FLOP *** [4h 3c 9c]
+*** TURN *** [4h 3c 9c][5d]
+*** RIVER *** [4h 3c 9c 5d][Js]
+*** SHOW DOWN ***
+Bastien231 shows [8s As] (High card : Ace)
+xSalvi shows [Qs Ad] (High card : Ace)
+xSalvi collected 102343 from pot
+*** SUMMARY ***
+Total pot 102343 | No rake
+Board: [4h 3c 9c 5d Js]
+Seat 1: xSalvi showed [Qs Ad] and won 102343 with High card : Ace
+Seat 2: Bastien231 (button) showed [8s As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 14 - HandId: #2545584454429049579-31-1668976475 - Holdem no limit (120/500/1000) - 2022/11/20 20:34:35 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #3 is the button
+Seat 1: xSalvi (102343)
+Seat 2: Winamax73000 (17057)
+Seat 3: O.T.NAK (15792)
+Seat 4: YL_ML_GL_42 (13188)
+Seat 5: Ourson_Tetu (37536)
+Seat 6: Laptitepuput (10204)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 120
+Ourson_Tetu posts ante 120
+xSalvi posts ante 120
+Winamax73000 posts ante 120
+O.T.NAK posts ante 120
+Laptitepuput posts ante 120
+YL_ML_GL_42 posts small blind 500
+Ourson_Tetu posts big blind 1000
+Dealt to YL_ML_GL_42 [Kh Jh]
+*** PRE-FLOP *** 
+Laptitepuput calls 1000
+xSalvi folds
+Winamax73000 folds
+O.T.NAK folds
+YL_ML_GL_42 raises 12068 to 13068 and is all-in
+Ourson_Tetu folds
+Laptitepuput calls 9084 and is all-in
+*** FLOP *** [4c 7d 9s]
+*** TURN *** [4c 7d 9s][8c]
+*** RIVER *** [4c 7d 9s 8c][Qs]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kh Jh] (High card : King)
+Laptitepuput shows [5h 5c] (One pair : 5)
+Laptitepuput collected 21888 from main pot
+YL_ML_GL_42 collected 2984 from side pot 1
+*** SUMMARY ***
+Total pot 24872 | No rake
+Board: [4c 7d 9s 8c Qs]
+Seat 4: YL_ML_GL_42 (small blind) showed [Kh Jh] and won 2984 with High card : King
+Seat 6: Laptitepuput showed [5h 5c] and won 21888 with One pair : 5
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 14 - HandId: #2545584454429049579-32-1668976520 - Holdem no limit (120/500/1000) - 2022/11/20 20:35:20 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #4 is the button
+Seat 1: xSalvi (102223)
+Seat 2: Winamax73000 (16937)
+Seat 3: O.T.NAK (15672)
+Seat 4: YL_ML_GL_42 (2984)
+Seat 5: Ourson_Tetu (36416)
+Seat 6: Laptitepuput (21888)
+*** ANTE/BLINDS ***
+Ourson_Tetu posts ante 120
+Laptitepuput posts ante 120
+xSalvi posts ante 120
+Winamax73000 posts ante 120
+O.T.NAK posts ante 120
+YL_ML_GL_42 posts ante 120
+Ourson_Tetu posts small blind 500
+Laptitepuput posts big blind 1000
+Dealt to YL_ML_GL_42 [7c As]
+*** PRE-FLOP *** 
+xSalvi folds
+Winamax73000 folds
+O.T.NAK folds
+YL_ML_GL_42 raises 1864 to 2864 and is all-in
+Ourson_Tetu folds
+Laptitepuput folds
+YL_ML_GL_42 collected 5084 from pot
+*** SUMMARY ***
+Total pot 5084 | No rake
+Seat 4: YL_ML_GL_42 (button) won 5084
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 15 - HandId: #2545584454429049579-33-1668976552 - Holdem no limit (140/600/1200) - 2022/11/20 20:35:52 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #5 is the button
+Seat 1: xSalvi (102103)
+Seat 2: Winamax73000 (16817)
+Seat 3: O.T.NAK (15552)
+Seat 4: YL_ML_GL_42 (5084)
+Seat 5: Ourson_Tetu (35796)
+Seat 6: Laptitepuput (20768)
+*** ANTE/BLINDS ***
+Laptitepuput posts ante 140
+xSalvi posts ante 140
+Winamax73000 posts ante 140
+O.T.NAK posts ante 140
+YL_ML_GL_42 posts ante 140
+Ourson_Tetu posts ante 140
+Laptitepuput posts small blind 600
+xSalvi posts big blind 1200
+Dealt to YL_ML_GL_42 [4s 5d]
+*** PRE-FLOP *** 
+Winamax73000 folds
+O.T.NAK folds
+YL_ML_GL_42 folds
+Ourson_Tetu folds
+Laptitepuput folds
+xSalvi collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 1: xSalvi (big blind) won 2640
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 15 - HandId: #2545584454429049579-34-1668976579 - Holdem no limit (140/600/1200) - 2022/11/20 20:36:19 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #6 is the button
+Seat 1: xSalvi (103403)
+Seat 2: Winamax73000 (16677)
+Seat 3: O.T.NAK (15412)
+Seat 4: YL_ML_GL_42 (4944)
+Seat 5: Ourson_Tetu (35656)
+Seat 6: Laptitepuput (20028)
+*** ANTE/BLINDS ***
+xSalvi posts ante 140
+Winamax73000 posts ante 140
+O.T.NAK posts ante 140
+YL_ML_GL_42 posts ante 140
+Ourson_Tetu posts ante 140
+Laptitepuput posts ante 140
+xSalvi posts small blind 600
+Winamax73000 posts big blind 1200
+Dealt to YL_ML_GL_42 [Ad 4h]
+*** PRE-FLOP *** 
+O.T.NAK folds
+YL_ML_GL_42 raises 3604 to 4804 and is all-in
+Ourson_Tetu folds
+Laptitepuput folds
+xSalvi calls 4204
+Winamax73000 folds
+*** FLOP *** [6d As 9c]
+*** TURN *** [6d As 9c][Jc]
+*** RIVER *** [6d As 9c Jc][Qh]
+*** SHOW DOWN ***
+xSalvi shows [3h Jh] (One pair : Jacks)
+YL_ML_GL_42 shows [Ad 4h] (One pair : Aces)
+YL_ML_GL_42 collected 11648 from pot
+*** SUMMARY ***
+Total pot 11648 | No rake
+Board: [6d As 9c Jc Qh]
+Seat 1: xSalvi (small blind) showed [3h Jh] and lost with One pair : Jacks
+Seat 4: YL_ML_GL_42 showed [Ad 4h] and won 11648 with One pair : Aces
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 15 - HandId: #2545584454429049579-35-1668976624 - Holdem no limit (140/600/1200) - 2022/11/20 20:37:04 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #1 is the button
+Seat 1: xSalvi (98459)
+Seat 2: Winamax73000 (15337)
+Seat 3: O.T.NAK (15272)
+Seat 4: YL_ML_GL_42 (11648)
+Seat 5: Ourson_Tetu (35516)
+Seat 6: Laptitepuput (19888)
+*** ANTE/BLINDS ***
+Winamax73000 posts ante 140
+O.T.NAK posts ante 140
+xSalvi posts ante 140
+YL_ML_GL_42 posts ante 140
+Ourson_Tetu posts ante 140
+Laptitepuput posts ante 140
+Winamax73000 posts small blind 600
+O.T.NAK posts big blind 1200
+Dealt to YL_ML_GL_42 [6h 2d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Ourson_Tetu calls 1200
+Laptitepuput calls 1200
+xSalvi calls 1200
+Winamax73000 folds
+O.T.NAK folds
+*** FLOP *** [8d 8s 2h]
+Ourson_Tetu checks
+Laptitepuput checks
+xSalvi checks
+*** TURN *** [8d 8s 2h][7s]
+Ourson_Tetu checks
+Laptitepuput checks
+xSalvi bets 3600
+Ourson_Tetu folds
+Laptitepuput folds
+xSalvi collected 9840 from pot
+*** SUMMARY ***
+Total pot 9840 | No rake
+Board: [8d 8s 2h 7s]
+Seat 1: xSalvi (button) won 9840
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 16 - HandId: #2545584454429049579-36-1668976721 - Holdem no limit (160/700/1400) - 2022/11/20 20:38:41 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #2 is the button
+Seat 1: xSalvi (103359)
+Seat 2: Winamax73000 (14597)
+Seat 3: O.T.NAK (13932)
+Seat 4: YL_ML_GL_42 (11508)
+Seat 5: Ourson_Tetu (34176)
+Seat 6: Laptitepuput (18548)
+*** ANTE/BLINDS ***
+O.T.NAK posts ante 160
+YL_ML_GL_42 posts ante 160
+xSalvi posts ante 160
+Winamax73000 posts ante 160
+Ourson_Tetu posts ante 160
+Laptitepuput posts ante 160
+O.T.NAK posts small blind 700
+YL_ML_GL_42 posts big blind 1400
+Dealt to YL_ML_GL_42 [9s Kh]
+*** PRE-FLOP *** 
+Ourson_Tetu folds
+Laptitepuput folds
+xSalvi raises 2100 to 3500
+Winamax73000 folds
+O.T.NAK folds
+YL_ML_GL_42 folds
+xSalvi collected 6560 from pot
+*** SUMMARY ***
+Total pot 6560 | No rake
+Seat 1: xSalvi won 6560
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 16 - HandId: #2545584454429049579-37-1668976750 - Holdem no limit (160/700/1400) - 2022/11/20 20:39:10 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #3 is the button
+Seat 1: xSalvi (106259)
+Seat 2: Winamax73000 (14437)
+Seat 3: O.T.NAK (13072)
+Seat 4: YL_ML_GL_42 (9948)
+Seat 5: Ourson_Tetu (34016)
+Seat 6: Laptitepuput (18388)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 160
+Ourson_Tetu posts ante 160
+xSalvi posts ante 160
+Winamax73000 posts ante 160
+O.T.NAK posts ante 160
+Laptitepuput posts ante 160
+YL_ML_GL_42 posts small blind 700
+Ourson_Tetu posts big blind 1400
+Dealt to YL_ML_GL_42 [8h 6s]
+*** PRE-FLOP *** 
+Laptitepuput calls 1400
+xSalvi calls 1400
+Winamax73000 folds
+O.T.NAK folds
+YL_ML_GL_42 folds
+Ourson_Tetu raises 4200 to 5600
+Laptitepuput calls 4200
+xSalvi folds
+*** FLOP *** [Ts 5c 9c]
+Ourson_Tetu checks
+Laptitepuput checks
+*** TURN *** [Ts 5c 9c][9h]
+Ourson_Tetu checks
+Laptitepuput bets 4991
+Ourson_Tetu calls 4991
+*** RIVER *** [Ts 5c 9c 9h][Jh]
+Ourson_Tetu checks
+Laptitepuput bets 7637 and is all-in
+Ourson_Tetu folds
+Laptitepuput collected 31879 from pot
+*** SUMMARY ***
+Total pot 31879 | No rake
+Board: [Ts 5c 9c 9h Jh]
+Seat 6: Laptitepuput won 31879
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 17 - HandId: #2545584454429049579-38-1668976893 - Holdem no limit (200/800/1600) - 2022/11/20 20:41:33 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #4 is the button
+Seat 1: xSalvi (104699)
+Seat 2: Winamax73000 (14277)
+Seat 3: O.T.NAK (12912)
+Seat 4: YL_ML_GL_42 (9088)
+Seat 5: Ourson_Tetu (23265)
+Seat 6: Laptitepuput (31879)
+*** ANTE/BLINDS ***
+Ourson_Tetu posts ante 200
+Laptitepuput posts ante 200
+xSalvi posts ante 200
+Winamax73000 posts ante 200
+O.T.NAK posts ante 200
+YL_ML_GL_42 posts ante 200
+Ourson_Tetu posts small blind 800
+Laptitepuput posts big blind 1600
+Dealt to YL_ML_GL_42 [7h 3h]
+*** PRE-FLOP *** 
+xSalvi folds
+Winamax73000 folds
+O.T.NAK folds
+YL_ML_GL_42 folds
+Ourson_Tetu folds
+Laptitepuput collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 6: Laptitepuput (big blind) won 3600
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 17 - HandId: #2545584454429049579-39-1668976929 - Holdem no limit (200/800/1600) - 2022/11/20 20:42:09 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #5 is the button
+Seat 1: xSalvi (104499)
+Seat 2: Winamax73000 (14077)
+Seat 3: O.T.NAK (12712)
+Seat 4: YL_ML_GL_42 (8888)
+Seat 5: Ourson_Tetu (22265)
+Seat 6: Laptitepuput (33679)
+*** ANTE/BLINDS ***
+Laptitepuput posts ante 200
+xSalvi posts ante 200
+Winamax73000 posts ante 200
+O.T.NAK posts ante 200
+YL_ML_GL_42 posts ante 200
+Ourson_Tetu posts ante 200
+Laptitepuput posts small blind 800
+xSalvi posts big blind 1600
+Dealt to YL_ML_GL_42 [Jc 5c]
+*** PRE-FLOP *** 
+Winamax73000 folds
+O.T.NAK folds
+YL_ML_GL_42 folds
+Ourson_Tetu raises 20465 to 22065 and is all-in
+Laptitepuput folds
+xSalvi folds
+Ourson_Tetu collected 25665 from pot
+*** SUMMARY ***
+Total pot 25665 | No rake
+Seat 5: Ourson_Tetu (button) won 25665
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 17 - HandId: #2545584454429049579-40-1668976954 - Holdem no limit (200/800/1600) - 2022/11/20 20:42:34 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #6 is the button
+Seat 1: xSalvi (102699)
+Seat 2: Winamax73000 (13877)
+Seat 3: O.T.NAK (12512)
+Seat 4: YL_ML_GL_42 (8688)
+Seat 5: Ourson_Tetu (25665)
+Seat 6: Laptitepuput (32679)
+*** ANTE/BLINDS ***
+xSalvi posts ante 200
+Winamax73000 posts ante 200
+O.T.NAK posts ante 200
+YL_ML_GL_42 posts ante 200
+Ourson_Tetu posts ante 200
+Laptitepuput posts ante 200
+xSalvi posts small blind 800
+Winamax73000 posts big blind 1600
+Dealt to YL_ML_GL_42 [Tc As]
+*** PRE-FLOP *** 
+O.T.NAK folds
+YL_ML_GL_42 raises 6888 to 8488 and is all-in
+Ourson_Tetu folds
+Laptitepuput folds
+xSalvi folds
+Winamax73000 folds
+YL_ML_GL_42 collected 12088 from pot
+*** SUMMARY ***
+Total pot 12088 | No rake
+Seat 4: YL_ML_GL_42 won 12088
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 18 - HandId: #2545584454429049579-41-1668976990 - Holdem no limit (250/1000/2000) - 2022/11/20 20:43:10 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #1 is the button
+Seat 1: xSalvi (101699)
+Seat 2: Winamax73000 (12077)
+Seat 3: O.T.NAK (12312)
+Seat 4: YL_ML_GL_42 (12088)
+Seat 5: Ourson_Tetu (25465)
+Seat 6: Laptitepuput (32479)
+*** ANTE/BLINDS ***
+Winamax73000 posts ante 250
+O.T.NAK posts ante 250
+xSalvi posts ante 250
+YL_ML_GL_42 posts ante 250
+Ourson_Tetu posts ante 250
+Laptitepuput posts ante 250
+Winamax73000 posts small blind 1000
+O.T.NAK posts big blind 2000
+Dealt to YL_ML_GL_42 [Qs Kc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 9838 to 11838 and is all-in
+Ourson_Tetu folds
+Laptitepuput folds
+xSalvi folds
+Winamax73000 folds
+O.T.NAK folds
+YL_ML_GL_42 collected 16338 from pot
+*** SUMMARY ***
+Total pot 16338 | No rake
+Seat 4: YL_ML_GL_42 won 16338
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 18 - HandId: #2545584454429049579-42-1668977039 - Holdem no limit (250/1000/2000) - 2022/11/20 20:43:59 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #2 is the button
+Seat 1: xSalvi (101449)
+Seat 2: Winamax73000 (10827)
+Seat 3: O.T.NAK (10062)
+Seat 4: YL_ML_GL_42 (16338)
+Seat 5: Ourson_Tetu (25215)
+Seat 6: Laptitepuput (32229)
+*** ANTE/BLINDS ***
+O.T.NAK posts ante 250
+YL_ML_GL_42 posts ante 250
+xSalvi posts ante 250
+Winamax73000 posts ante 250
+Ourson_Tetu posts ante 250
+Laptitepuput posts ante 250
+O.T.NAK posts small blind 1000
+YL_ML_GL_42 posts big blind 2000
+Dealt to YL_ML_GL_42 [3c 9s]
+*** PRE-FLOP *** 
+Ourson_Tetu folds
+Laptitepuput folds
+xSalvi raises 4000 to 6000
+Winamax73000 folds
+O.T.NAK folds
+YL_ML_GL_42 folds
+xSalvi collected 10500 from pot
+*** SUMMARY ***
+Total pot 10500 | No rake
+Seat 1: xSalvi won 10500
+
+
+Winamax Poker - Tournament "VIP Freeroll: Aluminium" buyIn: 0€ + 0€ level: 18 - HandId: #2545584454429049579-43-1668977077 - Holdem no limit (250/1000/2000) - 2022/11/20 20:44:37 UTC
+Table: 'VIP Freeroll: Aluminium(592690067)#0746' 6-max (real money) Seat #3 is the button
+Seat 1: xSalvi (105699)
+Seat 2: Winamax73000 (10577)
+Seat 3: O.T.NAK (8812)
+Seat 4: YL_ML_GL_42 (14088)
+Seat 5: Ourson_Tetu (24965)
+Seat 6: Laptitepuput (31979)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 250
+Ourson_Tetu posts ante 250
+xSalvi posts ante 250
+Winamax73000 posts ante 250
+O.T.NAK posts ante 250
+Laptitepuput posts ante 250
+YL_ML_GL_42 posts small blind 1000
+Ourson_Tetu posts big blind 2000
+Dealt to YL_ML_GL_42 [Ah Td]
+*** PRE-FLOP *** 
+Laptitepuput calls 2000
+xSalvi folds
+Winamax73000 folds
+O.T.NAK folds
+YL_ML_GL_42 raises 11838 to 13838 and is all-in
+Ourson_Tetu folds
+Laptitepuput calls 11838
+*** FLOP *** [8d 9c 9h]
+*** TURN *** [8d 9c 9h][9s]
+*** RIVER *** [8d 9c 9h 9s][Jd]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ah Td] (Trips of 9)
+Laptitepuput shows [Ks Kh] (Full of 9 and Kings)
+Laptitepuput collected 31176 from pot
+*** SUMMARY ***
+Total pot 31176 | No rake
+Board: [8d 9c 9h 9s Jd]
+Seat 4: YL_ML_GL_42 (small blind) showed [Ah Td] and lost with Trips of 9
+Seat 6: Laptitepuput showed [Ks Kh] and won 31176 with Full of 9 and Kings
+
+

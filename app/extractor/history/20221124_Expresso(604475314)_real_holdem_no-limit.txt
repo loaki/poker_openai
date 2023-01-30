@@ -1,0 +1,336 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2596201704869330945-1-1669329804 - Holdem no limit (10/20) - 2022/11/24 22:43:24 UTC
+Table: 'Expresso(604475314)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Romu de sucy (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Flush4FanTsy (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Flush4FanTsy posts big blind 20
+Dealt to YL_ML_GL_42 [Jd 8c]
+*** PRE-FLOP *** 
+Romu de sucy calls 20
+YL_ML_GL_42 folds
+Flush4FanTsy checks
+*** FLOP *** [7h 9d 2h]
+Flush4FanTsy checks
+Romu de sucy checks
+*** TURN *** [7h 9d 2h][4s]
+Flush4FanTsy bets 20
+Romu de sucy calls 20
+*** RIVER *** [7h 9d 2h 4s][5c]
+Flush4FanTsy bets 20
+Romu de sucy folds
+Flush4FanTsy collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [7h 9d 2h 4s 5c]
+Seat 3: Flush4FanTsy (big blind) won 110
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2596201704869330945-2-1669329826 - Holdem no limit (10/20) - 2022/11/24 22:43:46 UTC
+Table: 'Expresso(604475314)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Romu de sucy (460)
+Seat 2: YL_ML_GL_42 (490)
+Seat 3: Flush4FanTsy (550)
+*** ANTE/BLINDS ***
+Flush4FanTsy posts small blind 10
+Romu de sucy posts big blind 20
+Dealt to YL_ML_GL_42 [Kh 3h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+Flush4FanTsy folds
+Romu de sucy folds
+YL_ML_GL_42 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 2: YL_ML_GL_42 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2596201704869330945-3-1669329836 - Holdem no limit (10/20) - 2022/11/24 22:43:56 UTC
+Table: 'Expresso(604475314)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Romu de sucy (440)
+Seat 2: YL_ML_GL_42 (520)
+Seat 3: Flush4FanTsy (540)
+*** ANTE/BLINDS ***
+Romu de sucy posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [2c Qd]
+*** PRE-FLOP *** 
+Flush4FanTsy folds
+Romu de sucy raises 20 to 40
+YL_ML_GL_42 folds
+Romu de sucy collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Romu de sucy (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2596201704869330945-4-1669329847 - Holdem no limit (10/20) - 2022/11/24 22:44:07 UTC
+Table: 'Expresso(604475314)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Romu de sucy (460)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Flush4FanTsy (540)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Flush4FanTsy posts big blind 20
+Dealt to YL_ML_GL_42 [5h 6s]
+*** PRE-FLOP *** 
+Romu de sucy raises 30 to 50
+YL_ML_GL_42 folds
+Flush4FanTsy calls 30
+*** FLOP *** [Qs Kc 9d]
+Flush4FanTsy checks
+Romu de sucy checks
+*** TURN *** [Qs Kc 9d][Td]
+Flush4FanTsy bets 39
+Romu de sucy calls 39
+*** RIVER *** [Qs Kc 9d Td][Ad]
+Flush4FanTsy checks
+Romu de sucy checks
+*** SHOW DOWN ***
+Flush4FanTsy shows [5d 4s] (High card : Ace)
+Romu de sucy shows [7c 7s] (One pair : 7)
+Romu de sucy collected 188 from pot
+*** SUMMARY ***
+Total pot 188 | No rake
+Board: [Qs Kc 9d Td Ad]
+Seat 1: Romu de sucy (button) showed [7c 7s] and won 188 with One pair : 7
+Seat 3: Flush4FanTsy (big blind) showed [5d 4s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2596201704869330945-5-1669329880 - Holdem no limit (10/20) - 2022/11/24 22:44:40 UTC
+Table: 'Expresso(604475314)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Romu de sucy (559)
+Seat 2: YL_ML_GL_42 (490)
+Seat 3: Flush4FanTsy (451)
+*** ANTE/BLINDS ***
+Flush4FanTsy posts small blind 10
+Romu de sucy posts big blind 20
+Dealt to YL_ML_GL_42 [5h 2c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Flush4FanTsy calls 10
+Romu de sucy checks
+*** FLOP *** [2h Js Kd]
+Flush4FanTsy checks
+Romu de sucy checks
+*** TURN *** [2h Js Kd][Jh]
+Flush4FanTsy checks
+Romu de sucy checks
+*** RIVER *** [2h Js Kd Jh][Tc]
+Flush4FanTsy checks
+Romu de sucy checks
+*** SHOW DOWN ***
+Romu de sucy shows [3c Qc] (One pair : Jacks)
+Flush4FanTsy shows [Ah 4s] (One pair : Jacks)
+Flush4FanTsy collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [2h Js Kd Jh Tc]
+Seat 1: Romu de sucy (big blind) showed [3c Qc] and lost with One pair : Jacks
+Seat 3: Flush4FanTsy (small blind) showed [Ah 4s] and won 40 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2596201704869330945-6-1669329899 - Holdem no limit (15/30) - 2022/11/24 22:44:59 UTC
+Table: 'Expresso(604475314)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Romu de sucy (539)
+Seat 2: YL_ML_GL_42 (490)
+Seat 3: Flush4FanTsy (471)
+*** ANTE/BLINDS ***
+Romu de sucy posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [4d 5h]
+*** PRE-FLOP *** 
+Flush4FanTsy folds
+Romu de sucy folds
+YL_ML_GL_42 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2596201704869330945-7-1669329903 - Holdem no limit (15/30) - 2022/11/24 22:45:03 UTC
+Table: 'Expresso(604475314)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Romu de sucy (524)
+Seat 2: YL_ML_GL_42 (505)
+Seat 3: Flush4FanTsy (471)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Flush4FanTsy posts big blind 30
+Dealt to YL_ML_GL_42 [Kh 9s]
+*** PRE-FLOP *** 
+Romu de sucy raises 30 to 60
+YL_ML_GL_42 raises 445 to 505 and is all-in
+Flush4FanTsy folds
+Romu de sucy folds
+YL_ML_GL_42 collected 595 from pot
+*** SUMMARY ***
+Total pot 595 | No rake
+Seat 2: YL_ML_GL_42 (small blind) won 595
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2596201704869330945-8-1669329914 - Holdem no limit (15/30) - 2022/11/24 22:45:14 UTC
+Table: 'Expresso(604475314)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Romu de sucy (464)
+Seat 2: YL_ML_GL_42 (595)
+Seat 3: Flush4FanTsy (441)
+*** ANTE/BLINDS ***
+Flush4FanTsy posts small blind 15
+Romu de sucy posts big blind 30
+Dealt to YL_ML_GL_42 [Jc Ks]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 75 to 105
+Flush4FanTsy folds
+Romu de sucy folds
+YL_ML_GL_42 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 2: YL_ML_GL_42 (button) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2596201704869330945-9-1669329921 - Holdem no limit (15/30) - 2022/11/24 22:45:21 UTC
+Table: 'Expresso(604475314)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Romu de sucy (434)
+Seat 2: YL_ML_GL_42 (640)
+Seat 3: Flush4FanTsy (426)
+*** ANTE/BLINDS ***
+Romu de sucy posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [6s 3h]
+*** PRE-FLOP *** 
+Flush4FanTsy raises 45 to 75
+Romu de sucy folds
+YL_ML_GL_42 folds
+Flush4FanTsy collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Flush4FanTsy (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2596201704869330945-10-1669329930 - Holdem no limit (15/30) - 2022/11/24 22:45:30 UTC
+Table: 'Expresso(604475314)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Romu de sucy (419)
+Seat 2: YL_ML_GL_42 (610)
+Seat 3: Flush4FanTsy (471)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Flush4FanTsy posts big blind 30
+Dealt to YL_ML_GL_42 [Jh 9h]
+*** PRE-FLOP *** 
+Romu de sucy folds
+YL_ML_GL_42 raises 60 to 90
+Flush4FanTsy raises 381 to 471 and is all-in
+YL_ML_GL_42 calls 381
+*** FLOP *** [5h Qd 9d]
+*** TURN *** [5h Qd 9d][Tc]
+*** RIVER *** [5h Qd 9d Tc][6s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Jh 9h] (One pair : 9)
+Flush4FanTsy shows [9c 9s] (Trips of 9)
+Flush4FanTsy collected 942 from pot
+*** SUMMARY ***
+Total pot 942 | No rake
+Board: [5h Qd 9d Tc 6s]
+Seat 2: YL_ML_GL_42 (small blind) showed [Jh 9h] and lost with One pair : 9
+Seat 3: Flush4FanTsy (big blind) showed [9c 9s] and won 942 with Trips of 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2596201704869330945-11-1669329948 - Holdem no limit (15/30) - 2022/11/24 22:45:48 UTC
+Table: 'Expresso(604475314)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Romu de sucy (419)
+Seat 2: YL_ML_GL_42 (139)
+Seat 3: Flush4FanTsy (942)
+*** ANTE/BLINDS ***
+Flush4FanTsy posts small blind 15
+Romu de sucy posts big blind 30
+Dealt to YL_ML_GL_42 [5s Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Flush4FanTsy folds
+Romu de sucy collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Romu de sucy (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2596201704869330945-12-1669329954 - Holdem no limit (15/30) - 2022/11/24 22:45:54 UTC
+Table: 'Expresso(604475314)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Romu de sucy (434)
+Seat 2: YL_ML_GL_42 (139)
+Seat 3: Flush4FanTsy (927)
+*** ANTE/BLINDS ***
+Romu de sucy posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Kh 7d]
+*** PRE-FLOP *** 
+Flush4FanTsy raises 30 to 60
+Romu de sucy calls 45
+YL_ML_GL_42 calls 30
+*** FLOP *** [5d Ah 3d]
+Romu de sucy checks
+YL_ML_GL_42 checks
+Flush4FanTsy bets 63
+Romu de sucy folds
+YL_ML_GL_42 folds
+Flush4FanTsy collected 243 from pot
+*** SUMMARY ***
+Total pot 243 | No rake
+Board: [5d Ah 3d]
+Seat 3: Flush4FanTsy (button) won 243
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2596201704869330945-13-1669329971 - Holdem no limit (15/30) - 2022/11/24 22:46:11 UTC
+Table: 'Expresso(604475314)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Romu de sucy (374)
+Seat 2: YL_ML_GL_42 (79)
+Seat 3: Flush4FanTsy (1047)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Flush4FanTsy posts big blind 30
+Dealt to YL_ML_GL_42 [Td 8d]
+*** PRE-FLOP *** 
+Romu de sucy raises 45 to 75
+YL_ML_GL_42 raises 4 to 79 and is all-in
+Flush4FanTsy folds
+Romu de sucy calls 4
+*** FLOP *** [Js 5s 6d]
+*** TURN *** [Js 5s 6d][2s]
+*** RIVER *** [Js 5s 6d 2s][2c]
+*** SHOW DOWN ***
+Romu de sucy shows [8h 9s] (One pair : 2)
+YL_ML_GL_42 shows [Td 8d] (One pair : 2)
+YL_ML_GL_42 collected 188 from pot
+*** SUMMARY ***
+Total pot 188 | No rake
+Board: [Js 5s 6d 2s 2c]
+Seat 1: Romu de sucy (button) showed [8h 9s] and lost with One pair : 2
+Seat 2: YL_ML_GL_42 (small blind) showed [Td 8d] and won 188 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2596201704869330945-14-1669329990 - Holdem no limit (20/40) - 2022/11/24 22:46:30 UTC
+Table: 'Expresso(604475314)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Romu de sucy (295)
+Seat 2: YL_ML_GL_42 (188)
+Seat 3: Flush4FanTsy (1017)
+*** ANTE/BLINDS ***
+Flush4FanTsy posts small blind 20
+Romu de sucy posts big blind 40
+Dealt to YL_ML_GL_42 [Js 6s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 148 to 188 and is all-in
+Flush4FanTsy calls 168
+Romu de sucy folds
+*** FLOP *** [9c 4d Qs]
+*** TURN *** [9c 4d Qs][2h]
+*** RIVER *** [9c 4d Qs 2h][7s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Js 6s] (High card : Queen)
+Flush4FanTsy shows [Ad 3h] (High card : Ace)
+Flush4FanTsy collected 416 from pot
+*** SUMMARY ***
+Total pot 416 | No rake
+Board: [9c 4d Qs 2h 7s]
+Seat 2: YL_ML_GL_42 (button) showed [Js 6s] and lost with High card : Queen
+Seat 3: Flush4FanTsy (small blind) showed [Ad 3h] and won 416 with High card : Ace
+
+

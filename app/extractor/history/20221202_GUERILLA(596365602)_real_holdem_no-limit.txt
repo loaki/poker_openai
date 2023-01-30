@@ -1,0 +1,964 @@
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-1-1670002305 - Holdem no limit (25/100/200) - 2022/12/02 17:31:45 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #2 is the button
+Seat 1: lepokmino (20000, 2.25€ bounty)
+Seat 2: Cobra95 (20000, 2.25€ bounty)
+Seat 3: RSfaker (20000, 2.25€ bounty)
+Seat 4: jolololo (19950, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (20000, 2.25€ bounty)
+Seat 6: WW.LS (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+RSfaker posts ante 25
+YL_ML_GL_42 posts ante 25
+lepokmino posts ante 25
+Cobra95 posts ante 25
+RSfaker posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [7s 8h]
+*** PRE-FLOP *** 
+lepokmino raises 19775 to 19975 and is all-in
+Cobra95 folds
+RSfaker folds
+YL_ML_GL_42 folds
+lepokmino collected 20375 from pot
+*** SUMMARY ***
+Total pot 20375 | No rake
+Seat 1: lepokmino won 20375
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-2-1670002323 - Holdem no limit (25/100/200) - 2022/12/02 17:32:03 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #3 is the button
+Seat 1: lepokmino (20375, 2.25€ bounty)
+Seat 2: Cobra95 (19975, 2.25€ bounty)
+Seat 3: RSfaker (19875, 2.25€ bounty)
+Seat 4: jolololo (19950, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19775, 2.25€ bounty)
+Seat 6: WW.LS (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+WW.LS posts ante 25
+lepokmino posts ante 25
+Cobra95 posts ante 25
+RSfaker posts ante 25
+YL_ML_GL_42 posts small blind 100
+WW.LS posts big blind 200
+Dealt to YL_ML_GL_42 [2s Qh]
+*** PRE-FLOP *** 
+lepokmino folds
+Cobra95 raises 625 to 825
+RSfaker folds
+YL_ML_GL_42 folds
+WW.LS folds
+Cobra95 collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Seat 2: Cobra95 won 1250
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-3-1670002334 - Holdem no limit (25/100/200) - 2022/12/02 17:32:14 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #5 is the button
+Seat 1: lepokmino (20350, 2.25€ bounty)
+Seat 2: Cobra95 (20375, 2.25€ bounty)
+Seat 3: RSfaker (19850, 2.25€ bounty)
+Seat 4: jolololo (19950, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19650, 2.25€ bounty)
+Seat 6: WW.LS (19775, 2.25€ bounty)
+*** ANTE/BLINDS ***
+WW.LS posts ante 25
+lepokmino posts ante 25
+Cobra95 posts ante 25
+RSfaker posts ante 25
+jolololo posts ante 25
+YL_ML_GL_42 posts ante 25
+WW.LS posts small blind 100
+lepokmino posts big blind 200
+Dealt to YL_ML_GL_42 [7s 6s]
+*** PRE-FLOP *** 
+Cobra95 raises 400 to 600
+RSfaker calls 600
+jolololo calls 600
+YL_ML_GL_42 folds
+WW.LS folds
+lepokmino calls 400
+*** FLOP *** [7d Td Qs]
+lepokmino bets 1723
+Cobra95 folds
+RSfaker folds
+jolololo calls 1723
+*** TURN *** [7d Td Qs][3h]
+lepokmino bets 6096
+jolololo folds
+lepokmino collected 12192 from pot
+*** SUMMARY ***
+Total pot 12192 | No rake
+Board: [7d Td Qs 3h]
+Seat 1: lepokmino (big blind) won 12192
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-4-1670002424 - Holdem no limit (25/100/200) - 2022/12/02 17:33:44 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #6 is the button
+Seat 1: lepokmino (24098, 2.25€ bounty)
+Seat 2: Cobra95 (19750, 2.25€ bounty)
+Seat 3: RSfaker (19225, 2.25€ bounty)
+Seat 4: jolololo (17602, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19625, 2.25€ bounty)
+Seat 6: WW.LS (19650, 2.25€ bounty)
+*** ANTE/BLINDS ***
+lepokmino posts ante 25
+Cobra95 posts ante 25
+RSfaker posts ante 25
+jolololo posts ante 25
+YL_ML_GL_42 posts ante 25
+WW.LS posts ante 25
+lepokmino posts small blind 100
+Cobra95 posts big blind 200
+Dealt to YL_ML_GL_42 [Qd 6d]
+*** PRE-FLOP *** 
+RSfaker folds
+jolololo folds
+YL_ML_GL_42 folds
+WW.LS raises 200 to 400
+lepokmino folds
+Cobra95 calls 200
+*** FLOP *** [5s Kc Kh]
+Cobra95 bets 683
+WW.LS folds
+Cobra95 collected 1733 from pot
+*** SUMMARY ***
+Total pot 1733 | No rake
+Board: [5s Kc Kh]
+Seat 2: Cobra95 (big blind) won 1733
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-5-1670002467 - Holdem no limit (25/100/200) - 2022/12/02 17:34:27 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #1 is the button
+Seat 1: lepokmino (23973, 2.25€ bounty)
+Seat 2: Cobra95 (20375, 2.25€ bounty)
+Seat 3: RSfaker (19200, 2.25€ bounty)
+Seat 4: jolololo (17577, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19600, 2.25€ bounty)
+Seat 6: WW.LS (19225, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Cobra95 posts ante 25
+RSfaker posts ante 25
+lepokmino posts ante 25
+jolololo posts ante 25
+YL_ML_GL_42 posts ante 25
+WW.LS posts ante 25
+Cobra95 posts small blind 100
+RSfaker posts big blind 200
+Dealt to YL_ML_GL_42 [Tc 9d]
+*** PRE-FLOP *** 
+jolololo folds
+YL_ML_GL_42 folds
+WW.LS folds
+lepokmino raises 650 to 850
+Cobra95 calls 750
+RSfaker folds
+*** FLOP *** [Ks Ad 9s]
+Cobra95 checks
+lepokmino bets 2050
+Cobra95 folds
+lepokmino collected 4100 from pot
+*** SUMMARY ***
+Total pot 4100 | No rake
+Board: [Ks Ad 9s]
+Seat 1: lepokmino (button) won 4100
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-6-1670002504 - Holdem no limit (25/100/200) - 2022/12/02 17:35:04 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #2 is the button
+Seat 1: lepokmino (25148, 2.25€ bounty)
+Seat 2: Cobra95 (19500, 2.25€ bounty)
+Seat 3: RSfaker (18975, 2.25€ bounty)
+Seat 4: jolololo (17552, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19575, 2.25€ bounty)
+Seat 6: WW.LS (19200, 2.25€ bounty)
+*** ANTE/BLINDS ***
+RSfaker posts ante 25
+jolololo posts ante 25
+lepokmino posts ante 25
+Cobra95 posts ante 25
+YL_ML_GL_42 posts ante 25
+WW.LS posts ante 25
+RSfaker posts small blind 100
+jolololo posts big blind 200
+Dealt to YL_ML_GL_42 [7d 6d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+WW.LS calls 200
+lepokmino raises 850 to 1050
+Cobra95 calls 1050
+RSfaker folds
+jolololo raises 3350 to 4400
+WW.LS folds
+lepokmino raises 20723 to 25123 and is all-in
+Cobra95 folds
+jolololo calls 13127 and is all-in
+*** FLOP *** [6c 6h 9c]
+*** TURN *** [6c 6h 9c][2d]
+*** RIVER *** [6c 6h 9c 2d][3d]
+*** SHOW DOWN ***
+jolololo shows [As Kc] (One pair : 6)
+lepokmino shows [Ah Ad] (Two pairs : Aces and 6)
+lepokmino collected 44150 from pot
+*** SUMMARY ***
+Total pot 44150 | No rake
+Board: [6c 6h 9c 2d 3d]
+Seat 1: lepokmino showed [Ah Ad] and won 44150 with Two pairs : Aces and 6
+Seat 4: jolololo (big blind) showed [As Kc] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-7-1670002590 - Holdem no limit (25/100/200) - 2022/12/02 17:36:30 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #3 is the button
+Seat 1: lepokmino (44150, 3.37€ bounty)
+Seat 2: Cobra95 (18425, 2.25€ bounty)
+Seat 3: RSfaker (18850, 2.25€ bounty)
+Seat 4: D.DeRozan (20000, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19550, 2.25€ bounty)
+Seat 6: WW.LS (18975, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+lepokmino posts ante 25
+Cobra95 posts ante 25
+RSfaker posts ante 25
+WW.LS posts ante 25
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Js Tc]
+*** PRE-FLOP *** 
+WW.LS calls 200
+lepokmino raises 600 to 800
+Cobra95 calls 800
+RSfaker folds
+YL_ML_GL_42 calls 600
+WW.LS folds
+*** FLOP *** [4h 4c Qd]
+YL_ML_GL_42 checks
+lepokmino bets 1200
+Cobra95 calls 1200
+YL_ML_GL_42 folds
+*** TURN *** [4h 4c Qd][3s]
+lepokmino checks
+Cobra95 bets 5125
+lepokmino folds
+Cobra95 collected 10250 from pot
+*** SUMMARY ***
+Total pot 10250 | No rake
+Board: [4h 4c Qd 3s]
+Seat 2: Cobra95 won 10250
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-8-1670002655 - Holdem no limit (25/100/200) - 2022/12/02 17:37:35 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #4 is the button
+Seat 1: lepokmino (42125, 3.37€ bounty)
+Seat 2: Cobra95 (21525, 2.25€ bounty)
+Seat 3: RSfaker (18825, 2.25€ bounty)
+Seat 4: D.DeRozan (20000, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (18725, 2.25€ bounty)
+Seat 6: WW.LS (18750, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+WW.LS posts ante 25
+lepokmino posts ante 25
+Cobra95 posts ante 25
+RSfaker posts ante 25
+YL_ML_GL_42 posts small blind 100
+WW.LS posts big blind 200
+Dealt to YL_ML_GL_42 [2s 3h]
+*** PRE-FLOP *** 
+lepokmino folds
+Cobra95 folds
+RSfaker folds
+YL_ML_GL_42 folds
+WW.LS collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 6: WW.LS (big blind) won 425
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-9-1670002684 - Holdem no limit (25/100/200) - 2022/12/02 17:38:04 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #5 is the button
+Seat 1: lepokmino (42100, 3.37€ bounty)
+Seat 2: Cobra95 (21500, 2.25€ bounty)
+Seat 3: RSfaker (18800, 2.25€ bounty)
+Seat 4: D.DeRozan (20000, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (18600, 2.25€ bounty)
+Seat 6: WW.LS (18950, 2.25€ bounty)
+*** ANTE/BLINDS ***
+WW.LS posts ante 25
+lepokmino posts ante 25
+Cobra95 posts ante 25
+RSfaker posts ante 25
+D.DeRozan posts ante 25
+YL_ML_GL_42 posts ante 25
+WW.LS posts small blind 100
+lepokmino posts big blind 200
+Dealt to YL_ML_GL_42 [4h 4s]
+*** PRE-FLOP *** 
+Cobra95 folds
+RSfaker folds
+D.DeRozan folds
+YL_ML_GL_42 raises 400 to 600
+WW.LS calls 500
+lepokmino folds
+*** FLOP *** [5d 7h 9s]
+WW.LS checks
+YL_ML_GL_42 checks
+*** TURN *** [5d 7h 9s][3s]
+WW.LS checks
+YL_ML_GL_42 checks
+*** RIVER *** [5d 7h 9s 3s][2h]
+WW.LS checks
+YL_ML_GL_42 bets 1008
+WW.LS folds
+YL_ML_GL_42 collected 2558 from pot
+*** SUMMARY ***
+Total pot 2558 | No rake
+Board: [5d 7h 9s 3s 2h]
+Seat 5: YL_ML_GL_42 (button) won 2558
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-10-1670002750 - Holdem no limit (25/100/200) - 2022/12/02 17:39:10 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #6 is the button
+Seat 1: lepokmino (41875, 3.37€ bounty)
+Seat 2: Cobra95 (21475, 2.25€ bounty)
+Seat 3: RSfaker (18775, 2.25€ bounty)
+Seat 4: D.DeRozan (19975, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19525, 2.25€ bounty)
+Seat 6: WW.LS (18325, 2.25€ bounty)
+*** ANTE/BLINDS ***
+lepokmino posts ante 25
+Cobra95 posts ante 25
+RSfaker posts ante 25
+D.DeRozan posts ante 25
+YL_ML_GL_42 posts ante 25
+WW.LS posts ante 25
+lepokmino posts small blind 100
+Cobra95 posts big blind 200
+Dealt to YL_ML_GL_42 [7s Js]
+*** PRE-FLOP *** 
+RSfaker folds
+D.DeRozan folds
+YL_ML_GL_42 raises 400 to 600
+WW.LS calls 600
+lepokmino calls 500
+Cobra95 calls 400
+*** FLOP *** [Qc 7c Ks]
+lepokmino checks
+Cobra95 checks
+YL_ML_GL_42 checks
+WW.LS checks
+*** TURN *** [Qc 7c Ks][4c]
+lepokmino checks
+Cobra95 bets 893
+YL_ML_GL_42 folds
+WW.LS calls 893
+lepokmino calls 893
+*** RIVER *** [Qc 7c Ks 4c][Th]
+lepokmino checks
+Cobra95 checks
+WW.LS checks
+*** SHOW DOWN ***
+lepokmino shows [3d 3c] (One pair : 3)
+WW.LS shows [Jd 4d] (One pair : 4)
+Cobra95 shows [7h Ac] (One pair : 7)
+Cobra95 collected 5229 from pot
+*** SUMMARY ***
+Total pot 5229 | No rake
+Board: [Qc 7c Ks 4c Th]
+Seat 1: lepokmino (small blind) showed [3d 3c] and lost with One pair : 3
+Seat 2: Cobra95 (big blind) showed [7h Ac] and won 5229 with One pair : 7
+Seat 6: WW.LS (button) showed [Jd 4d] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-11-1670002829 - Holdem no limit (25/100/200) - 2022/12/02 17:40:29 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #1 is the button
+Seat 1: lepokmino (40357, 3.37€ bounty)
+Seat 2: Cobra95 (25186, 2.25€ bounty)
+Seat 3: RSfaker (18750, 2.25€ bounty)
+Seat 4: D.DeRozan (19950, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (18900, 2.25€ bounty)
+Seat 6: WW.LS (16807, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Cobra95 posts ante 25
+RSfaker posts ante 25
+lepokmino posts ante 25
+D.DeRozan posts ante 25
+YL_ML_GL_42 posts ante 25
+WW.LS posts ante 25
+Cobra95 posts small blind 100
+RSfaker posts big blind 200
+Dealt to YL_ML_GL_42 [2h 8c]
+*** PRE-FLOP *** 
+D.DeRozan raises 300 to 500
+YL_ML_GL_42 folds
+WW.LS folds
+lepokmino folds
+Cobra95 folds
+RSfaker calls 300
+*** FLOP *** [Jd 4s Qh]
+RSfaker checks
+D.DeRozan checks
+*** TURN *** [Jd 4s Qh][6h]
+RSfaker checks
+D.DeRozan bets 938
+RSfaker folds
+D.DeRozan collected 2188 from pot
+*** SUMMARY ***
+Total pot 2188 | No rake
+Board: [Jd 4s Qh 6h]
+Seat 4: D.DeRozan won 2188
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-12-1670002918 - Holdem no limit (25/100/200) - 2022/12/02 17:41:58 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #2 is the button
+Seat 1: lepokmino (40332, 3.37€ bounty)
+Seat 2: Cobra95 (25061, 2.25€ bounty)
+Seat 3: RSfaker (18225, 2.25€ bounty)
+Seat 4: D.DeRozan (20675, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (18875, 2.25€ bounty)
+Seat 6: WW.LS (16782, 2.25€ bounty)
+*** ANTE/BLINDS ***
+RSfaker posts ante 25
+D.DeRozan posts ante 25
+lepokmino posts ante 25
+Cobra95 posts ante 25
+YL_ML_GL_42 posts ante 25
+WW.LS posts ante 25
+RSfaker posts small blind 100
+D.DeRozan posts big blind 200
+Dealt to YL_ML_GL_42 [Qc 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+WW.LS calls 200
+lepokmino folds
+Cobra95 calls 200
+RSfaker folds
+D.DeRozan checks
+*** FLOP *** [Tc 8h Ks]
+D.DeRozan checks
+WW.LS checks
+Cobra95 checks
+*** TURN *** [Tc 8h Ks][6h]
+D.DeRozan checks
+WW.LS checks
+Cobra95 checks
+*** RIVER *** [Tc 8h Ks 6h][Qd]
+D.DeRozan checks
+WW.LS checks
+Cobra95 checks
+*** SHOW DOWN ***
+Cobra95 shows [2s 2h] (One pair : 2)
+WW.LS shows [5d 4d] (High card : King)
+D.DeRozan shows [Jh 6d] (One pair : 6)
+D.DeRozan collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Board: [Tc 8h Ks 6h Qd]
+Seat 2: Cobra95 (button) showed [2s 2h] and lost with One pair : 2
+Seat 4: D.DeRozan (big blind) showed [Jh 6d] and won 850 with One pair : 6
+Seat 6: WW.LS showed [5d 4d] and lost with High card : King
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-13-1670002961 - Holdem no limit (25/100/200) - 2022/12/02 17:42:41 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #3 is the button
+Seat 1: lepokmino (40307, 3.37€ bounty)
+Seat 2: Cobra95 (24836, 2.25€ bounty)
+Seat 3: RSfaker (18100, 2.25€ bounty)
+Seat 4: D.DeRozan (21300, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (18850, 2.25€ bounty)
+Seat 6: WW.LS (16557, 2.25€ bounty)
+*** ANTE/BLINDS ***
+D.DeRozan posts ante 25
+YL_ML_GL_42 posts ante 25
+lepokmino posts ante 25
+Cobra95 posts ante 25
+RSfaker posts ante 25
+WW.LS posts ante 25
+D.DeRozan posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [6d Ks]
+*** PRE-FLOP *** 
+WW.LS raises 650 to 850
+lepokmino folds
+Cobra95 calls 850
+RSfaker folds
+D.DeRozan folds
+YL_ML_GL_42 folds
+*** FLOP *** [Qs Th 8c]
+WW.LS bets 753
+Cobra95 calls 753
+*** TURN *** [Qs Th 8c][2s]
+WW.LS bets 914
+Cobra95 folds
+WW.LS collected 4570 from pot
+*** SUMMARY ***
+Total pot 4570 | No rake
+Board: [Qs Th 8c 2s]
+Seat 6: WW.LS won 4570
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-14-1670003004 - Holdem no limit (25/100/200) - 2022/12/02 17:43:24 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #4 is the button
+Seat 1: lepokmino (40282, 3.37€ bounty)
+Seat 2: Cobra95 (23208, 2.25€ bounty)
+Seat 3: RSfaker (18075, 2.25€ bounty)
+Seat 4: D.DeRozan (21175, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (18625, 2.25€ bounty)
+Seat 6: WW.LS (18585, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+WW.LS posts ante 25
+lepokmino posts ante 25
+Cobra95 posts ante 25
+RSfaker posts ante 25
+D.DeRozan posts ante 25
+YL_ML_GL_42 posts small blind 100
+WW.LS posts big blind 200
+Dealt to YL_ML_GL_42 [8d 3d]
+*** PRE-FLOP *** 
+lepokmino folds
+Cobra95 calls 200
+RSfaker calls 200
+D.DeRozan folds
+YL_ML_GL_42 calls 100
+WW.LS checks
+*** FLOP *** [Qc 6c 5c]
+YL_ML_GL_42 checks
+WW.LS checks
+Cobra95 checks
+RSfaker checks
+*** TURN *** [Qc 6c 5c][7h]
+YL_ML_GL_42 checks
+WW.LS checks
+Cobra95 checks
+RSfaker checks
+*** RIVER *** [Qc 6c 5c 7h][8c]
+YL_ML_GL_42 checks
+WW.LS checks
+Cobra95 checks
+RSfaker checks
+*** SHOW DOWN ***
+Cobra95 shows [Ks 3s] (High card : King)
+RSfaker shows [Kh Td] (High card : King)
+YL_ML_GL_42 shows [8d 3d] (One pair : 8)
+WW.LS shows [Ah 3c] (Flush Queen high)
+WW.LS collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Board: [Qc 6c 5c 7h 8c]
+Seat 2: Cobra95 showed [Ks 3s] and lost with High card : King
+Seat 3: RSfaker showed [Kh Td] and lost with High card : King
+Seat 5: YL_ML_GL_42 (small blind) showed [8d 3d] and lost with One pair : 8
+Seat 6: WW.LS (big blind) showed [Ah 3c] and won 950 with Flush Queen high
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-15-1670003071 - Holdem no limit (25/100/200) - 2022/12/02 17:44:31 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #5 is the button
+Seat 1: lepokmino (40257, 3.37€ bounty)
+Seat 2: Cobra95 (22983, 2.25€ bounty)
+Seat 3: RSfaker (17850, 2.25€ bounty)
+Seat 4: D.DeRozan (21150, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (18400, 2.25€ bounty)
+Seat 6: WW.LS (19310, 2.25€ bounty)
+*** ANTE/BLINDS ***
+WW.LS posts ante 25
+lepokmino posts ante 25
+Cobra95 posts ante 25
+RSfaker posts ante 25
+D.DeRozan posts ante 25
+YL_ML_GL_42 posts ante 25
+WW.LS posts small blind 100
+lepokmino posts big blind 200
+Dealt to YL_ML_GL_42 [3s 2d]
+*** PRE-FLOP *** 
+Cobra95 calls 200
+RSfaker folds
+D.DeRozan folds
+YL_ML_GL_42 folds
+WW.LS calls 100
+lepokmino checks
+*** FLOP *** [2s Ts 8d]
+WW.LS checks
+lepokmino bets 750
+Cobra95 calls 750
+WW.LS calls 750
+*** TURN *** [2s Ts 8d][7h]
+WW.LS checks
+lepokmino bets 3000
+Cobra95 calls 3000
+WW.LS folds
+*** RIVER *** [2s Ts 8d 7h][5s]
+lepokmino checks
+Cobra95 bets 9000
+lepokmino calls 9000
+*** SHOW DOWN ***
+Cobra95 shows [Ah 9c] (High card : Ace)
+lepokmino shows [2h Tc] (Two pairs : Tens and 2)
+lepokmino collected 27000 from pot
+*** SUMMARY ***
+Total pot 27000 | No rake
+Board: [2s Ts 8d 7h 5s]
+Seat 1: lepokmino (big blind) showed [2h Tc] and won 27000 with Two pairs : Tens and 2
+Seat 2: Cobra95 showed [Ah 9c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-16-1670003133 - Holdem no limit (25/100/200) - 2022/12/02 17:45:33 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #6 is the button
+Seat 1: lepokmino (54282, 3.37€ bounty)
+Seat 2: Cobra95 (10008, 2.25€ bounty)
+Seat 3: RSfaker (17825, 2.25€ bounty)
+Seat 4: D.DeRozan (21125, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (18375, 2.25€ bounty)
+Seat 6: WW.LS (18335, 2.25€ bounty)
+*** ANTE/BLINDS ***
+lepokmino posts ante 25
+Cobra95 posts ante 25
+RSfaker posts ante 25
+D.DeRozan posts ante 25
+YL_ML_GL_42 posts ante 25
+WW.LS posts ante 25
+lepokmino posts small blind 100
+Cobra95 posts big blind 200
+Dealt to YL_ML_GL_42 [6d 2c]
+*** PRE-FLOP *** 
+RSfaker calls 200
+D.DeRozan folds
+YL_ML_GL_42 folds
+WW.LS folds
+lepokmino folds
+Cobra95 raises 650 to 850
+RSfaker calls 650
+*** FLOP *** [8c Kc Qs]
+Cobra95 bets 683
+RSfaker calls 683
+*** TURN *** [8c Kc Qs][Qc]
+Cobra95 checks
+RSfaker bets 1161
+Cobra95 folds
+RSfaker collected 4477 from pot
+*** SUMMARY ***
+Total pot 4477 | No rake
+Board: [8c Kc Qs Qc]
+Seat 3: RSfaker won 4477
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-17-1670003169 - Holdem no limit (25/100/200) - 2022/12/02 17:46:09 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #1 is the button
+Seat 1: lepokmino (54157, 3.37€ bounty)
+Seat 2: Cobra95 (8450, 2.25€ bounty)
+Seat 3: RSfaker (19583, 2.25€ bounty)
+Seat 4: D.DeRozan (21100, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (18350, 2.25€ bounty)
+Seat 6: WW.LS (18310, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Cobra95 posts ante 25
+RSfaker posts ante 25
+lepokmino posts ante 25
+D.DeRozan posts ante 25
+YL_ML_GL_42 posts ante 25
+WW.LS posts ante 25
+Cobra95 posts small blind 100
+RSfaker posts big blind 200
+Dealt to YL_ML_GL_42 [9c 2c]
+*** PRE-FLOP *** 
+D.DeRozan raises 300 to 500
+YL_ML_GL_42 folds
+WW.LS calls 500
+lepokmino folds
+Cobra95 raises 1850 to 2350
+RSfaker folds
+D.DeRozan raises 2650 to 5000
+WW.LS folds
+Cobra95 calls 2650
+*** FLOP *** [5s 7s 8s]
+Cobra95 bets 3425 and is all-in
+D.DeRozan calls 3425
+*** TURN *** [5s 7s 8s][Qh]
+*** RIVER *** [5s 7s 8s Qh][6h]
+*** SHOW DOWN ***
+Cobra95 shows [3d Td] (High card : Queen)
+D.DeRozan shows [Ks Kc] (One pair : Kings)
+D.DeRozan collected 17700 from pot
+*** SUMMARY ***
+Total pot 17700 | No rake
+Board: [5s 7s 8s Qh 6h]
+Seat 2: Cobra95 (small blind) showed [3d Td] and lost with High card : Queen
+Seat 4: D.DeRozan showed [Ks Kc] and won 17700 with One pair : Kings
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-18-1670003233 - Holdem no limit (25/100/200) - 2022/12/02 17:47:13 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #2 is the button
+Seat 1: lepokmino (54132, 3.37€ bounty)
+Seat 3: RSfaker (19358, 2.25€ bounty)
+Seat 4: D.DeRozan (30350, 3.37€ bounty)
+Seat 5: YL_ML_GL_42 (18325, 2.25€ bounty)
+Seat 6: WW.LS (17785, 2.25€ bounty)
+*** ANTE/BLINDS ***
+RSfaker posts ante 25
+D.DeRozan posts ante 25
+lepokmino posts ante 25
+YL_ML_GL_42 posts ante 25
+WW.LS posts ante 25
+RSfaker posts small blind 100
+D.DeRozan posts big blind 200
+Dealt to YL_ML_GL_42 [Ac 8d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+WW.LS calls 200
+lepokmino raises 825 to 1025
+RSfaker folds
+D.DeRozan folds
+WW.LS calls 825
+*** FLOP *** [6d 5s 8c]
+WW.LS bets 866
+lepokmino raises 52216 to 53082 and is all-in
+WW.LS calls 15869 and is all-in
+*** TURN *** [6d 5s 8c][Tc]
+*** RIVER *** [6d 5s 8c Tc][Jh]
+*** SHOW DOWN ***
+WW.LS shows [Qc 6c] (One pair : 6)
+lepokmino shows [Td Th] (Trips of Tens)
+lepokmino collected 72292 from pot
+*** SUMMARY ***
+Total pot 72292 | No rake
+Board: [6d 5s 8c Tc Jh]
+Seat 1: lepokmino showed [Td Th] and won 72292 with Trips of Tens
+Seat 6: WW.LS showed [Qc 6c] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-19-1670003296 - Holdem no limit (25/100/200) - 2022/12/02 17:48:16 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #3 is the button
+Seat 1: lepokmino (72292, 4.49€ bounty)
+Seat 2: Postle0max (20000, 2.25€ bounty)
+Seat 3: RSfaker (19233, 2.25€ bounty)
+Seat 4: D.DeRozan (30125, 3.37€ bounty)
+Seat 5: YL_ML_GL_42 (18300, 2.25€ bounty)
+*** ANTE/BLINDS ***
+D.DeRozan posts ante 25
+YL_ML_GL_42 posts ante 25
+lepokmino posts ante 25
+Postle0max posts ante 25
+RSfaker posts ante 25
+D.DeRozan posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [5h Qc]
+*** PRE-FLOP *** 
+lepokmino folds
+Postle0max folds
+RSfaker folds
+D.DeRozan calls 100
+YL_ML_GL_42 checks
+*** FLOP *** [Jc 2c Js]
+D.DeRozan bets 200
+YL_ML_GL_42 folds
+D.DeRozan collected 725 from pot
+*** SUMMARY ***
+Total pot 725 | No rake
+Board: [Jc 2c Js]
+Seat 4: D.DeRozan (small blind) won 725
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-20-1670003348 - Holdem no limit (25/100/200) - 2022/12/02 17:49:08 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #4 is the button
+Seat 1: lepokmino (72267, 4.49€ bounty)
+Seat 2: Postle0max (19975, 2.25€ bounty)
+Seat 3: RSfaker (19208, 2.25€ bounty)
+Seat 4: D.DeRozan (30425, 3.37€ bounty)
+Seat 5: YL_ML_GL_42 (18075, 2.25€ bounty)
+Seat 6: pumba28 (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+pumba28 posts ante 25
+lepokmino posts ante 25
+Postle0max posts ante 25
+RSfaker posts ante 25
+D.DeRozan posts ante 25
+YL_ML_GL_42 posts small blind 100
+pumba28 posts big blind 200
+Dealt to YL_ML_GL_42 [4s As]
+*** PRE-FLOP *** 
+lepokmino folds
+Postle0max raises 300 to 500
+RSfaker folds
+D.DeRozan folds
+YL_ML_GL_42 calls 400
+pumba28 raises 1650 to 2150
+Postle0max calls 1650
+YL_ML_GL_42 raises 15900 to 18050 and is all-in
+pumba28 folds
+Postle0max folds
+YL_ML_GL_42 collected 22500 from pot
+*** SUMMARY ***
+Total pot 22500 | No rake
+Seat 5: YL_ML_GL_42 (small blind) won 22500
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-21-1670003409 - Holdem no limit (25/100/200) - 2022/12/02 17:50:09 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #5 is the button
+Seat 1: lepokmino (72242, 4.49€ bounty)
+Seat 2: Postle0max (17800, 2.25€ bounty)
+Seat 3: RSfaker (19183, 2.25€ bounty)
+Seat 4: D.DeRozan (30400, 3.37€ bounty)
+Seat 5: YL_ML_GL_42 (22500, 2.25€ bounty)
+Seat 6: pumba28 (17825, 2.25€ bounty)
+*** ANTE/BLINDS ***
+pumba28 posts ante 25
+lepokmino posts ante 25
+Postle0max posts ante 25
+RSfaker posts ante 25
+D.DeRozan posts ante 25
+YL_ML_GL_42 posts ante 25
+pumba28 posts small blind 100
+lepokmino posts big blind 200
+Dealt to YL_ML_GL_42 [8d Jc]
+*** PRE-FLOP *** 
+Postle0max folds
+RSfaker calls 200
+D.DeRozan raises 500 to 700
+YL_ML_GL_42 folds
+pumba28 calls 600
+lepokmino folds
+RSfaker calls 500
+*** FLOP *** [3s Ts Ac]
+pumba28 checks
+RSfaker checks
+D.DeRozan checks
+*** TURN *** [3s Ts Ac][5s]
+pumba28 checks
+RSfaker checks
+D.DeRozan checks
+*** RIVER *** [3s Ts Ac 5s][Tc]
+pumba28 bets 2450
+RSfaker folds
+D.DeRozan folds
+pumba28 collected 4900 from pot
+*** SUMMARY ***
+Total pot 4900 | No rake
+Board: [3s Ts Ac 5s Tc]
+Seat 6: pumba28 (small blind) won 4900
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-22-1670003497 - Holdem no limit (25/100/200) - 2022/12/02 17:51:37 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #6 is the button
+Seat 1: lepokmino (72017, 4.49€ bounty)
+Seat 2: Postle0max (17775, 2.25€ bounty)
+Seat 3: RSfaker (18458, 2.25€ bounty)
+Seat 4: D.DeRozan (29675, 3.37€ bounty)
+Seat 5: YL_ML_GL_42 (22475, 2.25€ bounty)
+Seat 6: pumba28 (19550, 2.25€ bounty)
+*** ANTE/BLINDS ***
+lepokmino posts ante 25
+Postle0max posts ante 25
+RSfaker posts ante 25
+D.DeRozan posts ante 25
+YL_ML_GL_42 posts ante 25
+pumba28 posts ante 25
+lepokmino posts small blind 100
+Postle0max posts big blind 200
+Dealt to YL_ML_GL_42 [9h 5s]
+*** PRE-FLOP *** 
+RSfaker folds
+D.DeRozan folds
+YL_ML_GL_42 folds
+pumba28 raises 650 to 850
+lepokmino folds
+Postle0max calls 650
+*** FLOP *** [3h 7h 9c]
+Postle0max checks
+pumba28 checks
+*** TURN *** [3h 7h 9c][Qs]
+Postle0max checks
+pumba28 checks
+*** RIVER *** [3h 7h 9c Qs][2c]
+Postle0max checks
+pumba28 bets 1950
+Postle0max folds
+pumba28 collected 3900 from pot
+*** SUMMARY ***
+Total pot 3900 | No rake
+Board: [3h 7h 9c Qs 2c]
+Seat 6: pumba28 (button) won 3900
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-23-1670003536 - Holdem no limit (25/100/200) - 2022/12/02 17:52:16 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #1 is the button
+Seat 1: lepokmino (71892, 4.49€ bounty)
+Seat 2: Postle0max (16900, 2.25€ bounty)
+Seat 3: RSfaker (18433, 2.25€ bounty)
+Seat 4: D.DeRozan (29650, 3.37€ bounty)
+Seat 5: YL_ML_GL_42 (22450, 2.25€ bounty)
+Seat 6: pumba28 (20625, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Postle0max posts ante 25
+RSfaker posts ante 25
+lepokmino posts ante 25
+D.DeRozan posts ante 25
+YL_ML_GL_42 posts ante 25
+pumba28 posts ante 25
+Postle0max posts small blind 100
+RSfaker posts big blind 200
+Dealt to YL_ML_GL_42 [Ac Kc]
+*** PRE-FLOP *** 
+D.DeRozan folds
+YL_ML_GL_42 raises 650 to 850
+pumba28 folds
+lepokmino folds
+Postle0max raises 2050 to 2900
+RSfaker raises 15508 to 18408 and is all-in
+YL_ML_GL_42 raises 4017 to 22425 and is all-in
+Postle0max calls 13975 and is all-in
+*** FLOP *** [3s 6h 6d]
+*** TURN *** [3s 6h 6d][2s]
+*** RIVER *** [3s 6h 6d 2s][4h]
+*** SHOW DOWN ***
+RSfaker shows [Jd Ad] (One pair : 6)
+Postle0max shows [Ah 3h] (Two pairs : 6 and 3)
+YL_ML_GL_42 shows [Ac Kc] (One pair : 6)
+YL_ML_GL_42 collected 7083 from side pot 1
+Postle0max collected 50775 from main pot
+*** SUMMARY ***
+Total pot 57858 | No rake
+Board: [3s 6h 6d 2s 4h]
+Seat 2: Postle0max (small blind) showed [Ah 3h] and won 50775 with Two pairs : 6 and 3
+Seat 3: RSfaker (big blind) showed [Jd Ad] and lost with One pair : 6
+Seat 5: YL_ML_GL_42 showed [Ac Kc] and won 7083 with One pair : 6
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2561370757049352333-24-1670003572 - Holdem no limit (25/100/200) - 2022/12/02 17:52:52 UTC
+Table: 'GUERILLA(596365602)#140' 6-max (real money) Seat #2 is the button
+Seat 1: lepokmino (71867, 4.49€ bounty)
+Seat 2: Postle0max (50775, 2.25€ bounty)
+Seat 3: djamel-ouche (20000, 2.25€ bounty)
+Seat 4: D.DeRozan (29625, 3.37€ bounty)
+Seat 5: YL_ML_GL_42 (7083, 3.37€ bounty)
+Seat 6: pumba28 (20600, 2.25€ bounty)
+*** ANTE/BLINDS ***
+D.DeRozan posts ante 25
+lepokmino posts ante 25
+Postle0max posts ante 25
+YL_ML_GL_42 posts ante 25
+pumba28 posts ante 25
+D.DeRozan posts big blind 200
+Dealt to YL_ML_GL_42 [Qc Qh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 6858 to 7058 and is all-in
+pumba28 raises 13517 to 20575 and is all-in
+lepokmino folds
+Postle0max raises 30175 to 50750 and is all-in
+D.DeRozan folds
+*** FLOP *** [9s Ks 6d]
+*** TURN *** [9s Ks 6d][9c]
+*** RIVER *** [9s Ks 6d 9c][4h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Qc Qh] (Two pairs : Queens and 9)
+pumba28 shows [Qd Ah] (One pair : 9)
+Postle0max shows [Kc Js] (Two pairs : Kings and 9)
+Postle0max collected 78708 from pot
+*** SUMMARY ***
+Total pot 78708 | No rake
+Board: [9s Ks 6d 9c 4h]
+Seat 2: Postle0max (button) showed [Kc Js] and won 78708 with Two pairs : Kings and 9
+Seat 5: YL_ML_GL_42 showed [Qc Qh] and lost with Two pairs : Queens and 9
+Seat 6: pumba28 showed [Qd Ah] and lost with One pair : 9
+
+

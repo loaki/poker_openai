@@ -1,0 +1,29 @@
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2622882312295022593-1-1670765989 - Holdem no limit (10/20) - 2022/12/11 13:39:49 UTC
+Table: 'Expresso(610687377)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mastadri (500)
+Seat 2: cristek13 (500)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+Mastadri posts small blind 10
+cristek13 posts big blind 20
+Dealt to YL_ML_GL_42 [9d 9c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 480 to 500 and is all-in
+Mastadri calls 490 and is all-in
+cristek13 calls 480 and is all-in
+*** FLOP *** [4s 5c Ts]
+*** TURN *** [4s 5c Ts][4c]
+*** RIVER *** [4s 5c Ts 4c][Kh]
+*** SHOW DOWN ***
+Mastadri shows [Ac 8s] (One pair : 4)
+YL_ML_GL_42 shows [9d 9c] (Two pairs : 9 and 4)
+cristek13 shows [Th Ah] (Two pairs : Tens and 4)
+cristek13 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [4s 5c Ts 4c Kh]
+Seat 1: Mastadri (small blind) showed [Ac 8s] and lost with One pair : 4
+Seat 2: cristek13 (big blind) showed [Th Ah] and won 1500 with Two pairs : Tens and 4
+Seat 3: YL_ML_GL_42 (button) showed [9d 9c] and lost with Two pairs : 9 and 4
+
+

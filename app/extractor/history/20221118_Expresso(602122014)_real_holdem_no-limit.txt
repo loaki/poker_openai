@@ -1,0 +1,142 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2586094358331654145-1-1668806638 - Holdem no limit (10/20) - 2022/11/18 21:23:58 UTC
+Table: 'Expresso(602122014)#0' 3-max (real money) Seat #2 is the button
+Seat 1: BabeLeCochon (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: kaya 13 (500)
+*** ANTE/BLINDS ***
+kaya 13 posts small blind 10
+BabeLeCochon posts big blind 20
+Dealt to YL_ML_GL_42 [6c Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+kaya 13 calls 10
+BabeLeCochon checks
+*** FLOP *** [5h 7h 7c]
+kaya 13 checks
+BabeLeCochon bets 20
+kaya 13 calls 20
+*** TURN *** [5h 7h 7c][8h]
+kaya 13 bets 20
+BabeLeCochon folds
+kaya 13 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [5h 7h 7c 8h]
+Seat 3: kaya 13 (small blind) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2586094358331654145-2-1668806662 - Holdem no limit (10/20) - 2022/11/18 21:24:22 UTC
+Table: 'Expresso(602122014)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BabeLeCochon (460)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: kaya 13 (540)
+*** ANTE/BLINDS ***
+BabeLeCochon posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [7s 6c]
+*** PRE-FLOP *** 
+kaya 13 calls 20
+BabeLeCochon folds
+YL_ML_GL_42 checks
+*** FLOP *** [Qs 7h Jh]
+YL_ML_GL_42 bets 33
+kaya 13 folds
+YL_ML_GL_42 collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [Qs 7h Jh]
+Seat 2: YL_ML_GL_42 (big blind) won 83
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2586094358331654145-3-1668806681 - Holdem no limit (10/20) - 2022/11/18 21:24:41 UTC
+Table: 'Expresso(602122014)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BabeLeCochon (450)
+Seat 2: YL_ML_GL_42 (530)
+Seat 3: kaya 13 (520)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+kaya 13 posts big blind 20
+Dealt to YL_ML_GL_42 [9s 5c]
+*** PRE-FLOP *** 
+BabeLeCochon folds
+YL_ML_GL_42 folds
+kaya 13 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: kaya 13 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2586094358331654145-4-1668806689 - Holdem no limit (10/20) - 2022/11/18 21:24:49 UTC
+Table: 'Expresso(602122014)#0' 3-max (real money) Seat #2 is the button
+Seat 1: BabeLeCochon (450)
+Seat 2: YL_ML_GL_42 (520)
+Seat 3: kaya 13 (530)
+*** ANTE/BLINDS ***
+kaya 13 posts small blind 10
+BabeLeCochon posts big blind 20
+Dealt to YL_ML_GL_42 [Ah Ks]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 500 to 520 and is all-in
+kaya 13 folds
+BabeLeCochon folds
+YL_ML_GL_42 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 2: YL_ML_GL_42 (button) won 550
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2586094358331654145-5-1668806704 - Holdem no limit (10/20) - 2022/11/18 21:25:04 UTC
+Table: 'Expresso(602122014)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BabeLeCochon (430)
+Seat 2: YL_ML_GL_42 (550)
+Seat 3: kaya 13 (520)
+*** ANTE/BLINDS ***
+BabeLeCochon posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Js 8d]
+*** PRE-FLOP *** 
+kaya 13 calls 20
+BabeLeCochon folds
+YL_ML_GL_42 raises 530 to 550 and is all-in
+kaya 13 calls 500 and is all-in
+*** FLOP *** [Tc Ts 3d]
+*** TURN *** [Tc Ts 3d][Qd]
+*** RIVER *** [Tc Ts 3d Qd][5s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Js 8d] (One pair : Tens)
+kaya 13 shows [Kh 9c] (One pair : Tens)
+kaya 13 collected 1050 from main pot
+YL_ML_GL_42 collected 30 from side pot 1
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [Tc Ts 3d Qd 5s]
+Seat 2: YL_ML_GL_42 (big blind) showed [Js 8d] and won 30 with One pair : Tens
+Seat 3: kaya 13 (button) showed [Kh 9c] and won 1050 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2586094358331654145-6-1668806729 - Holdem no limit (15/30) - 2022/11/18 21:25:29 UTC
+Table: 'Expresso(602122014)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BabeLeCochon (420)
+Seat 2: YL_ML_GL_42 (30)
+Seat 3: kaya 13 (1050)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+kaya 13 posts big blind 30
+Dealt to YL_ML_GL_42 [Td Kd]
+*** PRE-FLOP *** 
+BabeLeCochon folds
+YL_ML_GL_42 calls 15 and is all-in
+*** FLOP *** [9s 2h 7h]
+*** TURN *** [9s 2h 7h][Qs]
+*** RIVER *** [9s 2h 7h Qs][9h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Td Kd] (One pair : 9)
+kaya 13 shows [5h Jh] (Flush Jack high)
+kaya 13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9s 2h 7h Qs 9h]
+Seat 2: YL_ML_GL_42 (small blind) showed [Td Kd] and lost with One pair : 9
+Seat 3: kaya 13 (big blind) showed [5h Jh] and won 60 with Flush Jack high
+
+

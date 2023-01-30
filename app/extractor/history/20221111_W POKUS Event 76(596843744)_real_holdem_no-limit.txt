@@ -1,0 +1,1558 @@
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 38 - HandId: #2563424361302196361-1-1668193247 - Holdem no limit (100/500/1000) - 2022/11/11 19:00:47 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #2 is the button
+Seat 1: RASCAR_CAPAC (30000)
+Seat 2: BAr0n Rouge (29900)
+Seat 3: D1v1deByZer0 (30000)
+Seat 4: YL_ML_GL_42 (30000)
+Seat 5: Clem_Fraiche (30000)
+Seat 6: DrHutz23 (30000)
+*** ANTE/BLINDS ***
+D1v1deByZer0 posts ante 100
+YL_ML_GL_42 posts ante 100
+RASCAR_CAPAC posts ante 100
+BAr0n Rouge posts ante 100
+Clem_Fraiche posts ante 100
+DrHutz23 posts ante 100
+D1v1deByZer0 posts small blind 500
+YL_ML_GL_42 posts big blind 1000
+Dealt to YL_ML_GL_42 [Tc Td]
+*** PRE-FLOP *** 
+Clem_Fraiche folds
+DrHutz23 folds
+RASCAR_CAPAC raises 1000 to 2000
+BAr0n Rouge raises 27800 to 29800 and is all-in
+D1v1deByZer0 folds
+YL_ML_GL_42 raises 100 to 29900 and is all-in
+RASCAR_CAPAC folds
+*** FLOP *** [3d Ks 5d]
+*** TURN *** [3d Ks 5d][5h]
+*** RIVER *** [3d Ks 5d 5h][3s]
+*** SHOW DOWN ***
+BAr0n Rouge shows [6s 6h] (Two pairs : 6 and 5)
+YL_ML_GL_42 shows [Tc Td] (Two pairs : Tens and 5)
+YL_ML_GL_42 collected 62800 from pot
+*** SUMMARY ***
+Total pot 62800 | No rake
+Board: [3d Ks 5d 5h 3s]
+Seat 2: BAr0n Rouge (button) showed [6s 6h] and lost with Two pairs : 6 and 5
+Seat 4: YL_ML_GL_42 (big blind) showed [Tc Td] and won 62800 with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 38 - HandId: #2563424361302196361-2-1668193291 - Holdem no limit (100/500/1000) - 2022/11/11 19:01:31 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #3 is the button
+Seat 1: RASCAR_CAPAC (27900)
+Seat 2: 05TRA 10CA (30000)
+Seat 3: D1v1deByZer0 (29400)
+Seat 4: YL_ML_GL_42 (62800)
+Seat 5: Clem_Fraiche (29900)
+Seat 6: DrHutz23 (29900)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 100
+Clem_Fraiche posts ante 100
+RASCAR_CAPAC posts ante 100
+05TRA 10CA posts ante 100
+D1v1deByZer0 posts ante 100
+DrHutz23 posts ante 100
+YL_ML_GL_42 posts small blind 500
+Clem_Fraiche posts big blind 1000
+Dealt to YL_ML_GL_42 [3h 6c]
+*** PRE-FLOP *** 
+DrHutz23 raises 1250 to 2250
+RASCAR_CAPAC folds
+05TRA 10CA folds
+D1v1deByZer0 folds
+YL_ML_GL_42 folds
+Clem_Fraiche folds
+DrHutz23 collected 4350 from pot
+*** SUMMARY ***
+Total pot 4350 | No rake
+Seat 6: DrHutz23 won 4350
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 38 - HandId: #2563424361302196361-3-1668193324 - Holdem no limit (100/500/1000) - 2022/11/11 19:02:04 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #4 is the button
+Seat 1: RASCAR_CAPAC (27800)
+Seat 2: 05TRA 10CA (29900)
+Seat 3: D1v1deByZer0 (29300)
+Seat 4: YL_ML_GL_42 (62200)
+Seat 5: Clem_Fraiche (28800)
+Seat 6: DrHutz23 (31900)
+*** ANTE/BLINDS ***
+Clem_Fraiche posts ante 100
+DrHutz23 posts ante 100
+RASCAR_CAPAC posts ante 100
+05TRA 10CA posts ante 100
+D1v1deByZer0 posts ante 100
+YL_ML_GL_42 posts ante 100
+Clem_Fraiche posts small blind 500
+DrHutz23 posts big blind 1000
+Dealt to YL_ML_GL_42 [4h 6c]
+*** PRE-FLOP *** 
+RASCAR_CAPAC folds
+05TRA 10CA folds
+D1v1deByZer0 folds
+YL_ML_GL_42 folds
+Clem_Fraiche folds
+DrHutz23 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 6: DrHutz23 (big blind) won 2100
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 38 - HandId: #2563424361302196361-4-1668193334 - Holdem no limit (100/500/1000) - 2022/11/11 19:02:14 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #5 is the button
+Seat 1: RASCAR_CAPAC (27700)
+Seat 2: Sephiroth 65 (30000)
+Seat 3: D1v1deByZer0 (29200)
+Seat 4: YL_ML_GL_42 (62100)
+Seat 5: Clem_Fraiche (28200)
+Seat 6: DrHutz23 (32900)
+*** ANTE/BLINDS ***
+DrHutz23 posts ante 100
+RASCAR_CAPAC posts ante 100
+Sephiroth 65 posts ante 100
+D1v1deByZer0 posts ante 100
+YL_ML_GL_42 posts ante 100
+Clem_Fraiche posts ante 100
+DrHutz23 posts small blind 500
+RASCAR_CAPAC posts big blind 1000
+Dealt to YL_ML_GL_42 [4s Ah]
+*** PRE-FLOP *** 
+Sephiroth 65 folds
+D1v1deByZer0 folds
+YL_ML_GL_42 folds
+Clem_Fraiche folds
+DrHutz23 raises 2000 to 3000
+RASCAR_CAPAC raises 24600 to 27600 and is all-in
+DrHutz23 folds
+RASCAR_CAPAC collected 31200 from pot
+*** SUMMARY ***
+Total pot 31200 | No rake
+Seat 1: RASCAR_CAPAC (big blind) won 31200
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 38 - HandId: #2563424361302196361-5-1668193369 - Holdem no limit (100/500/1000) - 2022/11/11 19:02:49 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #6 is the button
+Seat 1: RASCAR_CAPAC (31200)
+Seat 2: Sephiroth 65 (29900)
+Seat 3: D1v1deByZer0 (29100)
+Seat 4: YL_ML_GL_42 (62000)
+Seat 5: Clem_Fraiche (28100)
+Seat 6: DrHutz23 (29800)
+*** ANTE/BLINDS ***
+RASCAR_CAPAC posts ante 100
+Sephiroth 65 posts ante 100
+D1v1deByZer0 posts ante 100
+YL_ML_GL_42 posts ante 100
+Clem_Fraiche posts ante 100
+DrHutz23 posts ante 100
+RASCAR_CAPAC posts small blind 500
+Sephiroth 65 posts big blind 1000
+Dealt to YL_ML_GL_42 [Qc 7c]
+*** PRE-FLOP *** 
+D1v1deByZer0 raises 1200 to 2200
+YL_ML_GL_42 folds
+Clem_Fraiche calls 2200
+DrHutz23 folds
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+*** FLOP *** [Ac Qs 9c]
+D1v1deByZer0 bets 4000
+Clem_Fraiche folds
+D1v1deByZer0 collected 10500 from pot
+*** SUMMARY ***
+Total pot 10500 | No rake
+Board: [Ac Qs 9c]
+Seat 3: D1v1deByZer0 won 10500
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 38 - HandId: #2563424361302196361-6-1668193403 - Holdem no limit (100/500/1000) - 2022/11/11 19:03:23 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #1 is the button
+Seat 1: RASCAR_CAPAC (30600)
+Seat 2: Sephiroth 65 (28800)
+Seat 3: D1v1deByZer0 (33300)
+Seat 4: YL_ML_GL_42 (61900)
+Seat 5: Clem_Fraiche (25800)
+Seat 6: DrHutz23 (29700)
+*** ANTE/BLINDS ***
+Sephiroth 65 posts ante 100
+D1v1deByZer0 posts ante 100
+RASCAR_CAPAC posts ante 100
+YL_ML_GL_42 posts ante 100
+Clem_Fraiche posts ante 100
+DrHutz23 posts ante 100
+Sephiroth 65 posts small blind 500
+D1v1deByZer0 posts big blind 1000
+Dealt to YL_ML_GL_42 [5c Qc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Clem_Fraiche calls 1000
+DrHutz23 raises 2500 to 3500
+RASCAR_CAPAC folds
+Sephiroth 65 raises 4500 to 8000
+D1v1deByZer0 folds
+Clem_Fraiche folds
+DrHutz23 folds
+Sephiroth 65 collected 14100 from pot
+*** SUMMARY ***
+Total pot 14100 | No rake
+Seat 2: Sephiroth 65 (small blind) won 14100
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 38 - HandId: #2563424361302196361-7-1668193440 - Holdem no limit (100/500/1000) - 2022/11/11 19:04:00 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #2 is the button
+Seat 1: RASCAR_CAPAC (30500)
+Seat 2: Sephiroth 65 (34800)
+Seat 3: D1v1deByZer0 (32200)
+Seat 4: YL_ML_GL_42 (61800)
+Seat 5: Clem_Fraiche (24700)
+Seat 6: DrHutz23 (26100)
+*** ANTE/BLINDS ***
+D1v1deByZer0 posts ante 100
+YL_ML_GL_42 posts ante 100
+RASCAR_CAPAC posts ante 100
+Sephiroth 65 posts ante 100
+Clem_Fraiche posts ante 100
+DrHutz23 posts ante 100
+D1v1deByZer0 posts small blind 500
+YL_ML_GL_42 posts big blind 1000
+Dealt to YL_ML_GL_42 [7d Ts]
+*** PRE-FLOP *** 
+Clem_Fraiche folds
+DrHutz23 folds
+RASCAR_CAPAC folds
+Sephiroth 65 raises 1000 to 2000
+D1v1deByZer0 raises 4200 to 6200
+YL_ML_GL_42 folds
+Sephiroth 65 raises 28500 to 34700 and is all-in
+D1v1deByZer0 calls 25900 and is all-in
+*** FLOP *** [5c 7h 4h]
+*** TURN *** [5c 7h 4h][2c]
+*** RIVER *** [5c 7h 4h 2c][5s]
+*** SHOW DOWN ***
+D1v1deByZer0 shows [Kc Jd] (One pair : 5)
+Sephiroth 65 shows [Th Ah] (One pair : 5)
+Sephiroth 65 collected 68400 from pot
+*** SUMMARY ***
+Total pot 68400 | No rake
+Board: [5c 7h 4h 2c 5s]
+Seat 2: Sephiroth 65 (button) showed [Th Ah] and won 68400 with One pair : 5
+Seat 3: D1v1deByZer0 (small blind) showed [Kc Jd] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 38 - HandId: #2563424361302196361-8-1668193482 - Holdem no limit (100/500/1000) - 2022/11/11 19:04:42 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #3 is the button
+Seat 1: RASCAR_CAPAC (30400)
+Seat 2: Sephiroth 65 (68400)
+Seat 4: YL_ML_GL_42 (60700)
+Seat 5: Clem_Fraiche (24600)
+Seat 6: DrHutz23 (26000)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 100
+Clem_Fraiche posts ante 100
+RASCAR_CAPAC posts ante 100
+Sephiroth 65 posts ante 100
+DrHutz23 posts ante 100
+YL_ML_GL_42 posts small blind 500
+Clem_Fraiche posts big blind 1000
+Dealt to YL_ML_GL_42 [Kh 6c]
+*** PRE-FLOP *** 
+DrHutz23 folds
+RASCAR_CAPAC folds
+Sephiroth 65 raises 1000 to 2000
+YL_ML_GL_42 folds
+Clem_Fraiche calls 1000
+*** FLOP *** [Th Jd 3h]
+Clem_Fraiche checks
+Sephiroth 65 checks
+*** TURN *** [Th Jd 3h][5c]
+Clem_Fraiche bets 1000
+Sephiroth 65 calls 1000
+*** RIVER *** [Th Jd 3h 5c][7c]
+Clem_Fraiche bets 1000
+Sephiroth 65 calls 1000
+*** SHOW DOWN ***
+Sephiroth 65 shows [4h 4d] (One pair : 4)
+Clem_Fraiche shows [5h 8h] (One pair : 5)
+Clem_Fraiche collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Board: [Th Jd 3h 5c 7c]
+Seat 2: Sephiroth 65 showed [4h 4d] and lost with One pair : 4
+Seat 5: Clem_Fraiche (big blind) showed [5h 8h] and won 9000 with One pair : 5
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 38 - HandId: #2563424361302196361-9-1668193523 - Holdem no limit (100/500/1000) - 2022/11/11 19:05:23 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #4 is the button
+Seat 1: RASCAR_CAPAC (30300)
+Seat 2: Sephiroth 65 (64300)
+Seat 3: Ti mac (30000)
+Seat 4: YL_ML_GL_42 (60100)
+Seat 5: Clem_Fraiche (29500)
+Seat 6: DrHutz23 (25900)
+*** ANTE/BLINDS ***
+Clem_Fraiche posts ante 100
+DrHutz23 posts ante 100
+RASCAR_CAPAC posts ante 100
+Sephiroth 65 posts ante 100
+Ti mac posts ante 100
+YL_ML_GL_42 posts ante 100
+Clem_Fraiche posts small blind 500
+DrHutz23 posts big blind 1000
+Dealt to YL_ML_GL_42 [9h 8d]
+*** PRE-FLOP *** 
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+Ti mac raises 1250 to 2250
+YL_ML_GL_42 folds
+Clem_Fraiche folds
+DrHutz23 calls 1250
+*** FLOP *** [Th 7c 4c]
+DrHutz23 checks
+Ti mac bets 1960
+DrHutz23 raises 3540 to 5500
+Ti mac calls 3540
+*** TURN *** [Th 7c 4c][9d]
+DrHutz23 bets 5310
+Ti mac calls 5310
+*** RIVER *** [Th 7c 4c 9d][5c]
+DrHutz23 bets 12740 and is all-in
+Ti mac calls 12740
+*** SHOW DOWN ***
+DrHutz23 shows [6s 4d] (One pair : 4)
+Ti mac shows [Kc 2c] (Flush King high)
+Ti mac collected 52700 from pot
+*** SUMMARY ***
+Total pot 52700 | No rake
+Board: [Th 7c 4c 9d 5c]
+Seat 3: Ti mac showed [Kc 2c] and won 52700 with Flush King high
+Seat 6: DrHutz23 (big blind) showed [6s 4d] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2563424361302196361-10-1668193634 - Holdem no limit (110/550/1100) - 2022/11/11 19:07:14 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #5 is the button
+Seat 1: RASCAR_CAPAC (30200)
+Seat 2: Sephiroth 65 (64200)
+Seat 3: Ti mac (56800)
+Seat 4: YL_ML_GL_42 (60000)
+Seat 5: Clem_Fraiche (28900)
+Seat 6: L4MBORGHINI (30000)
+*** ANTE/BLINDS ***
+RASCAR_CAPAC posts ante 110
+Sephiroth 65 posts ante 110
+Ti mac posts ante 110
+YL_ML_GL_42 posts ante 110
+Clem_Fraiche posts ante 110
+RASCAR_CAPAC posts big blind 1100
+Dealt to YL_ML_GL_42 [5h 4s]
+*** PRE-FLOP *** 
+Sephiroth 65 raises 1100 to 2200
+Ti mac folds
+YL_ML_GL_42 folds
+Clem_Fraiche calls 2200
+RASCAR_CAPAC folds
+*** FLOP *** [4d Td 3d]
+Sephiroth 65 bets 2118
+Clem_Fraiche calls 2118
+*** TURN *** [4d Td 3d][5d]
+Sephiroth 65 checks
+Clem_Fraiche bets 3600
+Sephiroth 65 calls 3600
+*** RIVER *** [4d Td 3d 5d][Ad]
+Sephiroth 65 checks
+Clem_Fraiche checks
+*** SHOW DOWN ***
+Clem_Fraiche shows [8c Kc] (Flush Ace high)
+Sephiroth 65 shows [9d Jd] (Flush Ace high)
+Sephiroth 65 collected 17486 from pot
+*** SUMMARY ***
+Total pot 17486 | No rake
+Board: [4d Td 3d 5d Ad]
+Seat 2: Sephiroth 65 showed [9d Jd] and won 17486 with Flush Ace high
+Seat 5: Clem_Fraiche (button) showed [8c Kc] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2563424361302196361-11-1668193692 - Holdem no limit (110/550/1100) - 2022/11/11 19:08:12 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #6 is the button
+Seat 1: RASCAR_CAPAC (28990)
+Seat 2: Sephiroth 65 (73658)
+Seat 4: YL_ML_GL_42 (59890)
+Seat 5: Clem_Fraiche (20872)
+Seat 6: L4MBORGHINI (30000)
+*** ANTE/BLINDS ***
+RASCAR_CAPAC posts ante 110
+Sephiroth 65 posts ante 110
+YL_ML_GL_42 posts ante 110
+Clem_Fraiche posts ante 110
+RASCAR_CAPAC posts small blind 550
+Sephiroth 65 posts big blind 1100
+Dealt to YL_ML_GL_42 [Kd As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 1100 to 2200
+Clem_Fraiche folds
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+YL_ML_GL_42 collected 4290 from pot
+*** SUMMARY ***
+Total pot 4290 | No rake
+Seat 4: YL_ML_GL_42 won 4290
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2563424361302196361-12-1668193707 - Holdem no limit (110/550/1100) - 2022/11/11 19:08:27 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #1 is the button
+Seat 1: RASCAR_CAPAC (28330)
+Seat 2: Sephiroth 65 (72448)
+Seat 3: Lekanibal19 (30000)
+Seat 4: YL_ML_GL_42 (61870)
+Seat 5: Clem_Fraiche (20762)
+Seat 6: L4MBORGHINI (30000)
+*** ANTE/BLINDS ***
+Sephiroth 65 posts ante 110
+Lekanibal19 posts ante 110
+RASCAR_CAPAC posts ante 110
+YL_ML_GL_42 posts ante 110
+Clem_Fraiche posts ante 110
+L4MBORGHINI posts ante 110
+Sephiroth 65 posts small blind 550
+Lekanibal19 posts big blind 1100
+Dealt to YL_ML_GL_42 [3h Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Clem_Fraiche folds
+L4MBORGHINI raises 1100 to 2200
+RASCAR_CAPAC folds
+Sephiroth 65 calls 1650
+Lekanibal19 folds
+*** FLOP *** [Ks 8d 8h]
+Sephiroth 65 checks
+L4MBORGHINI bets 1540
+Sephiroth 65 folds
+L4MBORGHINI collected 7700 from pot
+*** SUMMARY ***
+Total pot 7700 | No rake
+Board: [Ks 8d 8h]
+Seat 6: L4MBORGHINI won 7700
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2563424361302196361-13-1668193756 - Holdem no limit (110/550/1100) - 2022/11/11 19:09:16 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #2 is the button
+Seat 1: RASCAR_CAPAC (28220)
+Seat 2: Sephiroth 65 (70138)
+Seat 3: Lekanibal19 (28790)
+Seat 4: YL_ML_GL_42 (61760)
+Seat 5: Clem_Fraiche (20652)
+Seat 6: L4MBORGHINI (33850)
+*** ANTE/BLINDS ***
+Lekanibal19 posts ante 110
+YL_ML_GL_42 posts ante 110
+RASCAR_CAPAC posts ante 110
+Sephiroth 65 posts ante 110
+Clem_Fraiche posts ante 110
+L4MBORGHINI posts ante 110
+Lekanibal19 posts small blind 550
+YL_ML_GL_42 posts big blind 1100
+Dealt to YL_ML_GL_42 [4h Ah]
+*** PRE-FLOP *** 
+Clem_Fraiche folds
+L4MBORGHINI folds
+RASCAR_CAPAC raises 1100 to 2200
+Sephiroth 65 folds
+Lekanibal19 folds
+YL_ML_GL_42 calls 1100
+*** FLOP *** [2c 3d 8s]
+YL_ML_GL_42 bets 3647
+RASCAR_CAPAC calls 3647
+*** TURN *** [2c 3d 8s][4s]
+YL_ML_GL_42 bets 8388
+RASCAR_CAPAC folds
+YL_ML_GL_42 collected 21292 from pot
+*** SUMMARY ***
+Total pot 21292 | No rake
+Board: [2c 3d 8s 4s]
+Seat 4: YL_ML_GL_42 (big blind) won 21292
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2563424361302196361-14-1668193823 - Holdem no limit (110/550/1100) - 2022/11/11 19:10:23 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #3 is the button
+Seat 1: RASCAR_CAPAC (22263)
+Seat 2: Sephiroth 65 (70028)
+Seat 3: Lekanibal19 (28130)
+Seat 4: YL_ML_GL_42 (68707)
+Seat 5: Clem_Fraiche (20542)
+Seat 6: L4MBORGHINI (33740)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 110
+Clem_Fraiche posts ante 110
+RASCAR_CAPAC posts ante 110
+Sephiroth 65 posts ante 110
+Lekanibal19 posts ante 110
+L4MBORGHINI posts ante 110
+YL_ML_GL_42 posts small blind 550
+Clem_Fraiche posts big blind 1100
+Dealt to YL_ML_GL_42 [Qh 6d]
+*** PRE-FLOP *** 
+L4MBORGHINI folds
+RASCAR_CAPAC raises 1100 to 2200
+Sephiroth 65 folds
+Lekanibal19 folds
+YL_ML_GL_42 folds
+Clem_Fraiche calls 1100
+*** FLOP *** [6c Qs 7s]
+Clem_Fraiche checks
+RASCAR_CAPAC bets 1683
+Clem_Fraiche calls 1683
+*** TURN *** [6c Qs 7s][5c]
+Clem_Fraiche checks
+RASCAR_CAPAC checks
+*** RIVER *** [6c Qs 7s 5c][Jc]
+Clem_Fraiche checks
+RASCAR_CAPAC bets 6193
+Clem_Fraiche calls 6193
+*** SHOW DOWN ***
+RASCAR_CAPAC shows [Ah Kc] (High card : Ace)
+Clem_Fraiche shows [8h 7d] (One pair : 7)
+Clem_Fraiche collected 21362 from pot
+*** SUMMARY ***
+Total pot 21362 | No rake
+Board: [6c Qs 7s 5c Jc]
+Seat 1: RASCAR_CAPAC showed [Ah Kc] and lost with High card : Ace
+Seat 5: Clem_Fraiche (big blind) showed [8h 7d] and won 21362 with One pair : 7
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2563424361302196361-15-1668193895 - Holdem no limit (120/600/1200) - 2022/11/11 19:11:35 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #4 is the button
+Seat 1: RASCAR_CAPAC (12077)
+Seat 2: Sephiroth 65 (69918)
+Seat 3: Lekanibal19 (28020)
+Seat 4: YL_ML_GL_42 (68047)
+Seat 5: Clem_Fraiche (31718)
+Seat 6: L4MBORGHINI (33630)
+*** ANTE/BLINDS ***
+Clem_Fraiche posts ante 120
+L4MBORGHINI posts ante 120
+RASCAR_CAPAC posts ante 120
+Sephiroth 65 posts ante 120
+Lekanibal19 posts ante 120
+YL_ML_GL_42 posts ante 120
+Clem_Fraiche posts small blind 600
+L4MBORGHINI posts big blind 1200
+Dealt to YL_ML_GL_42 [8s Qs]
+*** PRE-FLOP *** 
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+Lekanibal19 folds
+YL_ML_GL_42 raises 3720 to 4920
+Clem_Fraiche folds
+L4MBORGHINI raises 28590 to 33510 and is all-in
+YL_ML_GL_42 folds
+L4MBORGHINI collected 39750 from pot
+*** SUMMARY ***
+Total pot 39750 | No rake
+Seat 6: L4MBORGHINI (big blind) won 39750
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2563424361302196361-16-1668193949 - Holdem no limit (120/600/1200) - 2022/11/11 19:12:29 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #5 is the button
+Seat 1: RASCAR_CAPAC (11957)
+Seat 2: Sephiroth 65 (69798)
+Seat 3: Lekanibal19 (27900)
+Seat 4: YL_ML_GL_42 (63007)
+Seat 5: Clem_Fraiche (30998)
+Seat 6: L4MBORGHINI (39750)
+*** ANTE/BLINDS ***
+L4MBORGHINI posts ante 120
+RASCAR_CAPAC posts ante 120
+Sephiroth 65 posts ante 120
+Lekanibal19 posts ante 120
+YL_ML_GL_42 posts ante 120
+Clem_Fraiche posts ante 120
+L4MBORGHINI posts small blind 600
+RASCAR_CAPAC posts big blind 1200
+Dealt to YL_ML_GL_42 [Ad 4s]
+*** PRE-FLOP *** 
+Sephiroth 65 folds
+Lekanibal19 folds
+YL_ML_GL_42 raises 1200 to 2400
+Clem_Fraiche raises 4800 to 7200
+L4MBORGHINI folds
+RASCAR_CAPAC folds
+YL_ML_GL_42 raises 55687 to 62887 and is all-in
+Clem_Fraiche calls 23678 and is all-in
+*** FLOP *** [9c 8s 5s]
+*** TURN *** [9c 8s 5s][7s]
+*** RIVER *** [9c 8s 5s 7s][5h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ad 4s] (One pair : 5)
+Clem_Fraiche shows [Kc Ks] (Two pairs : Kings and 5)
+Clem_Fraiche collected 64276 from main pot
+YL_ML_GL_42 collected 32009 from side pot 1
+*** SUMMARY ***
+Total pot 96285 | No rake
+Board: [9c 8s 5s 7s 5h]
+Seat 4: YL_ML_GL_42 showed [Ad 4s] and won 32009 with One pair : 5
+Seat 5: Clem_Fraiche (button) showed [Kc Ks] and won 64276 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2563424361302196361-17-1668194002 - Holdem no limit (120/600/1200) - 2022/11/11 19:13:22 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #6 is the button
+Seat 1: RASCAR_CAPAC (10637)
+Seat 2: Sephiroth 65 (69678)
+Seat 3: Lekanibal19 (27780)
+Seat 4: YL_ML_GL_42 (32009)
+Seat 5: Clem_Fraiche (64276)
+Seat 6: L4MBORGHINI (39030)
+*** ANTE/BLINDS ***
+RASCAR_CAPAC posts ante 120
+Sephiroth 65 posts ante 120
+Lekanibal19 posts ante 120
+YL_ML_GL_42 posts ante 120
+Clem_Fraiche posts ante 120
+L4MBORGHINI posts ante 120
+RASCAR_CAPAC posts small blind 600
+Sephiroth 65 posts big blind 1200
+Dealt to YL_ML_GL_42 [Kh 4d]
+*** PRE-FLOP *** 
+Lekanibal19 folds
+YL_ML_GL_42 folds
+Clem_Fraiche raises 1500 to 2700
+L4MBORGHINI raises 3900 to 6600
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+Clem_Fraiche folds
+L4MBORGHINI collected 11820 from pot
+*** SUMMARY ***
+Total pot 11820 | No rake
+Seat 6: L4MBORGHINI (button) won 11820
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2563424361302196361-18-1668194065 - Holdem no limit (120/600/1200) - 2022/11/11 19:14:25 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #1 is the button
+Seat 1: RASCAR_CAPAC (9917)
+Seat 2: Sephiroth 65 (68358)
+Seat 3: Lekanibal19 (27660)
+Seat 4: YL_ML_GL_42 (31889)
+Seat 5: Clem_Fraiche (61456)
+Seat 6: L4MBORGHINI (44130)
+*** ANTE/BLINDS ***
+Sephiroth 65 posts ante 120
+Lekanibal19 posts ante 120
+RASCAR_CAPAC posts ante 120
+YL_ML_GL_42 posts ante 120
+Clem_Fraiche posts ante 120
+L4MBORGHINI posts ante 120
+Sephiroth 65 posts small blind 600
+Lekanibal19 posts big blind 1200
+Dealt to YL_ML_GL_42 [7c 9d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Clem_Fraiche folds
+L4MBORGHINI folds
+RASCAR_CAPAC raises 8400 to 9600
+Sephiroth 65 raises 58638 to 68238 and is all-in
+Lekanibal19 folds
+RASCAR_CAPAC calls 197 and is all-in
+*** FLOP *** [8h 8s Jd]
+*** TURN *** [8h 8s Jd][5d]
+*** RIVER *** [8h 8s Jd 5d][6h]
+*** SHOW DOWN ***
+RASCAR_CAPAC shows [8c 6c] (Full of 8 and 6)
+Sephiroth 65 shows [Ad 9s] (One pair : 8)
+Sephiroth 65 collected 58441 from side pot 1
+RASCAR_CAPAC collected 21514 from main pot
+*** SUMMARY ***
+Total pot 79955 | No rake
+Board: [8h 8s Jd 5d 6h]
+Seat 1: RASCAR_CAPAC (button) showed [8c 6c] and won 21514 with Full of 8 and 6
+Seat 2: Sephiroth 65 (small blind) showed [Ad 9s] and won 58441 with One pair : 8
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2563424361302196361-19-1668194099 - Holdem no limit (120/600/1200) - 2022/11/11 19:14:59 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #2 is the button
+Seat 1: RASCAR_CAPAC (21514)
+Seat 2: Sephiroth 65 (58441)
+Seat 3: Lekanibal19 (26340)
+Seat 4: YL_ML_GL_42 (31769)
+Seat 5: Clem_Fraiche (61336)
+Seat 6: L4MBORGHINI (44010)
+*** ANTE/BLINDS ***
+Lekanibal19 posts ante 120
+YL_ML_GL_42 posts ante 120
+RASCAR_CAPAC posts ante 120
+Sephiroth 65 posts ante 120
+Clem_Fraiche posts ante 120
+L4MBORGHINI posts ante 120
+Lekanibal19 posts small blind 600
+YL_ML_GL_42 posts big blind 1200
+Dealt to YL_ML_GL_42 [Ad Jc]
+*** PRE-FLOP *** 
+Clem_Fraiche folds
+L4MBORGHINI folds
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+Lekanibal19 raises 1200 to 2400
+YL_ML_GL_42 raises 29249 to 31649 and is all-in
+Lekanibal19 folds
+YL_ML_GL_42 collected 34769 from pot
+*** SUMMARY ***
+Total pot 34769 | No rake
+Seat 4: YL_ML_GL_42 (big blind) won 34769
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2563424361302196361-20-1668194131 - Holdem no limit (120/600/1200) - 2022/11/11 19:15:31 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #3 is the button
+Seat 1: RASCAR_CAPAC (21394)
+Seat 2: Sephiroth 65 (58321)
+Seat 3: Lekanibal19 (23820)
+Seat 4: YL_ML_GL_42 (34769)
+Seat 5: Clem_Fraiche (61216)
+Seat 6: L4MBORGHINI (43890)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 120
+Clem_Fraiche posts ante 120
+RASCAR_CAPAC posts ante 120
+Sephiroth 65 posts ante 120
+Lekanibal19 posts ante 120
+L4MBORGHINI posts ante 120
+YL_ML_GL_42 posts small blind 600
+Clem_Fraiche posts big blind 1200
+Dealt to YL_ML_GL_42 [5d 8s]
+*** PRE-FLOP *** 
+L4MBORGHINI folds
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+Lekanibal19 raises 22500 to 23700 and is all-in
+YL_ML_GL_42 folds
+Clem_Fraiche folds
+Lekanibal19 collected 26220 from pot
+*** SUMMARY ***
+Total pot 26220 | No rake
+Seat 3: Lekanibal19 (button) won 26220
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2563424361302196361-21-1668194156 - Holdem no limit (120/600/1200) - 2022/11/11 19:15:56 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #4 is the button
+Seat 1: RASCAR_CAPAC (21274)
+Seat 2: Sephiroth 65 (58201)
+Seat 3: Lekanibal19 (26220)
+Seat 4: YL_ML_GL_42 (34049)
+Seat 5: Clem_Fraiche (59896)
+Seat 6: L4MBORGHINI (43770)
+*** ANTE/BLINDS ***
+Clem_Fraiche posts ante 120
+L4MBORGHINI posts ante 120
+RASCAR_CAPAC posts ante 120
+Sephiroth 65 posts ante 120
+Lekanibal19 posts ante 120
+YL_ML_GL_42 posts ante 120
+Clem_Fraiche posts small blind 600
+L4MBORGHINI posts big blind 1200
+Dealt to YL_ML_GL_42 [3d 7c]
+*** PRE-FLOP *** 
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+Lekanibal19 folds
+YL_ML_GL_42 folds
+Clem_Fraiche folds
+L4MBORGHINI collected 2520 from pot
+*** SUMMARY ***
+Total pot 2520 | No rake
+Seat 6: L4MBORGHINI (big blind) won 2520
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2563424361302196361-22-1668194179 - Holdem no limit (120/600/1200) - 2022/11/11 19:16:19 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #5 is the button
+Seat 1: RASCAR_CAPAC (21154)
+Seat 2: Sephiroth 65 (58081)
+Seat 3: Lekanibal19 (26100)
+Seat 4: YL_ML_GL_42 (33929)
+Seat 5: Clem_Fraiche (59176)
+Seat 6: L4MBORGHINI (44970)
+*** ANTE/BLINDS ***
+L4MBORGHINI posts ante 120
+RASCAR_CAPAC posts ante 120
+Sephiroth 65 posts ante 120
+Lekanibal19 posts ante 120
+YL_ML_GL_42 posts ante 120
+Clem_Fraiche posts ante 120
+L4MBORGHINI posts small blind 600
+RASCAR_CAPAC posts big blind 1200
+Dealt to YL_ML_GL_42 [3d 9d]
+*** PRE-FLOP *** 
+Sephiroth 65 folds
+Lekanibal19 folds
+YL_ML_GL_42 folds
+Clem_Fraiche folds
+L4MBORGHINI raises 43650 to 44850 and is all-in
+RASCAR_CAPAC folds
+L4MBORGHINI collected 46770 from pot
+*** SUMMARY ***
+Total pot 46770 | No rake
+Seat 6: L4MBORGHINI (small blind) won 46770
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2563424361302196361-23-1668194226 - Holdem no limit (130/650/1300) - 2022/11/11 19:17:06 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #6 is the button
+Seat 1: RASCAR_CAPAC (19834)
+Seat 2: Sephiroth 65 (57961)
+Seat 3: Lekanibal19 (25980)
+Seat 4: YL_ML_GL_42 (33809)
+Seat 5: Clem_Fraiche (59056)
+Seat 6: L4MBORGHINI (46770)
+*** ANTE/BLINDS ***
+RASCAR_CAPAC posts ante 130
+Sephiroth 65 posts ante 130
+Lekanibal19 posts ante 130
+YL_ML_GL_42 posts ante 130
+Clem_Fraiche posts ante 130
+L4MBORGHINI posts ante 130
+RASCAR_CAPAC posts small blind 650
+Sephiroth 65 posts big blind 1300
+Dealt to YL_ML_GL_42 [Kd Jd]
+*** PRE-FLOP *** 
+Lekanibal19 folds
+YL_ML_GL_42 raises 32379 to 33679 and is all-in
+Clem_Fraiche folds
+L4MBORGHINI folds
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+YL_ML_GL_42 collected 36409 from pot
+*** SUMMARY ***
+Total pot 36409 | No rake
+Seat 4: YL_ML_GL_42 won 36409
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2563424361302196361-24-1668194238 - Holdem no limit (130/650/1300) - 2022/11/11 19:17:18 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #1 is the button
+Seat 1: RASCAR_CAPAC (19054)
+Seat 2: Sephiroth 65 (56531)
+Seat 3: Lekanibal19 (25850)
+Seat 4: YL_ML_GL_42 (36409)
+Seat 5: Clem_Fraiche (58926)
+Seat 6: L4MBORGHINI (46640)
+*** ANTE/BLINDS ***
+Sephiroth 65 posts ante 130
+Lekanibal19 posts ante 130
+RASCAR_CAPAC posts ante 130
+YL_ML_GL_42 posts ante 130
+Clem_Fraiche posts ante 130
+L4MBORGHINI posts ante 130
+Sephiroth 65 posts small blind 650
+Lekanibal19 posts big blind 1300
+Dealt to YL_ML_GL_42 [Qc Kc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 34979 to 36279 and is all-in
+Clem_Fraiche folds
+L4MBORGHINI folds
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+Lekanibal19 folds
+YL_ML_GL_42 collected 39009 from pot
+*** SUMMARY ***
+Total pot 39009 | No rake
+Seat 4: YL_ML_GL_42 won 39009
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2563424361302196361-25-1668194259 - Holdem no limit (130/650/1300) - 2022/11/11 19:17:39 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #2 is the button
+Seat 1: RASCAR_CAPAC (18924)
+Seat 2: Sephiroth 65 (55751)
+Seat 3: Lekanibal19 (24420)
+Seat 4: YL_ML_GL_42 (39009)
+Seat 5: Clem_Fraiche (58796)
+Seat 6: L4MBORGHINI (46510)
+*** ANTE/BLINDS ***
+Lekanibal19 posts ante 130
+YL_ML_GL_42 posts ante 130
+RASCAR_CAPAC posts ante 130
+Sephiroth 65 posts ante 130
+Clem_Fraiche posts ante 130
+L4MBORGHINI posts ante 130
+Lekanibal19 posts small blind 650
+YL_ML_GL_42 posts big blind 1300
+Dealt to YL_ML_GL_42 [As 3d]
+*** PRE-FLOP *** 
+Clem_Fraiche folds
+L4MBORGHINI folds
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+Lekanibal19 folds
+YL_ML_GL_42 collected 2730 from pot
+*** SUMMARY ***
+Total pot 2730 | No rake
+Seat 4: YL_ML_GL_42 (big blind) won 2730
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2563424361302196361-26-1668194293 - Holdem no limit (130/650/1300) - 2022/11/11 19:18:13 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #3 is the button
+Seat 1: RASCAR_CAPAC (18794)
+Seat 2: Sephiroth 65 (55621)
+Seat 3: Lekanibal19 (23640)
+Seat 4: YL_ML_GL_42 (40309)
+Seat 5: Clem_Fraiche (58666)
+Seat 6: L4MBORGHINI (46380)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 130
+Clem_Fraiche posts ante 130
+RASCAR_CAPAC posts ante 130
+Sephiroth 65 posts ante 130
+Lekanibal19 posts ante 130
+L4MBORGHINI posts ante 130
+YL_ML_GL_42 posts small blind 650
+Clem_Fraiche posts big blind 1300
+Dealt to YL_ML_GL_42 [5s Kc]
+*** PRE-FLOP *** 
+L4MBORGHINI folds
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+Lekanibal19 folds
+YL_ML_GL_42 raises 3380 to 4680
+Clem_Fraiche folds
+YL_ML_GL_42 collected 6760 from pot
+*** SUMMARY ***
+Total pot 6760 | No rake
+Seat 4: YL_ML_GL_42 (small blind) won 6760
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2563424361302196361-27-1668194318 - Holdem no limit (130/650/1300) - 2022/11/11 19:18:38 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #4 is the button
+Seat 1: RASCAR_CAPAC (18664)
+Seat 2: Sephiroth 65 (55491)
+Seat 3: Lekanibal19 (23510)
+Seat 4: YL_ML_GL_42 (42259)
+Seat 5: Clem_Fraiche (57236)
+Seat 6: L4MBORGHINI (46250)
+*** ANTE/BLINDS ***
+Clem_Fraiche posts ante 130
+L4MBORGHINI posts ante 130
+RASCAR_CAPAC posts ante 130
+Sephiroth 65 posts ante 130
+Lekanibal19 posts ante 130
+YL_ML_GL_42 posts ante 130
+Clem_Fraiche posts small blind 650
+L4MBORGHINI posts big blind 1300
+Dealt to YL_ML_GL_42 [3c As]
+*** PRE-FLOP *** 
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+Lekanibal19 folds
+YL_ML_GL_42 raises 2600 to 3900
+Clem_Fraiche folds
+L4MBORGHINI folds
+YL_ML_GL_42 collected 6630 from pot
+*** SUMMARY ***
+Total pot 6630 | No rake
+Seat 4: YL_ML_GL_42 (button) won 6630
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2563424361302196361-28-1668194343 - Holdem no limit (130/650/1300) - 2022/11/11 19:19:03 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #5 is the button
+Seat 1: RASCAR_CAPAC (18534)
+Seat 2: Sephiroth 65 (55361)
+Seat 3: Lekanibal19 (23380)
+Seat 4: YL_ML_GL_42 (44859)
+Seat 5: Clem_Fraiche (56456)
+Seat 6: L4MBORGHINI (44820)
+*** ANTE/BLINDS ***
+L4MBORGHINI posts ante 130
+RASCAR_CAPAC posts ante 130
+Sephiroth 65 posts ante 130
+Lekanibal19 posts ante 130
+YL_ML_GL_42 posts ante 130
+Clem_Fraiche posts ante 130
+L4MBORGHINI posts small blind 650
+RASCAR_CAPAC posts big blind 1300
+Dealt to YL_ML_GL_42 [7h 5c]
+*** PRE-FLOP *** 
+Sephiroth 65 folds
+Lekanibal19 raises 1300 to 2600
+YL_ML_GL_42 folds
+Clem_Fraiche folds
+L4MBORGHINI folds
+RASCAR_CAPAC calls 1300
+*** FLOP *** [Td 2h Ts]
+RASCAR_CAPAC checks
+Lekanibal19 checks
+*** TURN *** [Td 2h Ts][9c]
+RASCAR_CAPAC checks
+Lekanibal19 checks
+*** RIVER *** [Td 2h Ts 9c][2s]
+RASCAR_CAPAC checks
+Lekanibal19 checks
+*** SHOW DOWN ***
+RASCAR_CAPAC shows [8d 3d] (Two pairs : Tens and 2)
+Lekanibal19 shows [Ac Jd] (Two pairs : Tens and 2)
+Lekanibal19 collected 6630 from pot
+*** SUMMARY ***
+Total pot 6630 | No rake
+Board: [Td 2h Ts 9c 2s]
+Seat 1: RASCAR_CAPAC (big blind) showed [8d 3d] and lost with Two pairs : Tens and 2
+Seat 3: Lekanibal19 showed [Ac Jd] and won 6630 with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2563424361302196361-29-1668194434 - Holdem no limit (140/700/1400) - 2022/11/11 19:20:34 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #6 is the button
+Seat 1: RASCAR_CAPAC (15804)
+Seat 2: Sephiroth 65 (55231)
+Seat 3: Lekanibal19 (27280)
+Seat 4: YL_ML_GL_42 (44729)
+Seat 5: Clem_Fraiche (56326)
+Seat 6: L4MBORGHINI (44040)
+*** ANTE/BLINDS ***
+RASCAR_CAPAC posts ante 140
+Sephiroth 65 posts ante 140
+Lekanibal19 posts ante 140
+YL_ML_GL_42 posts ante 140
+Clem_Fraiche posts ante 140
+L4MBORGHINI posts ante 140
+RASCAR_CAPAC posts small blind 700
+Sephiroth 65 posts big blind 1400
+Dealt to YL_ML_GL_42 [Jd 5c]
+*** PRE-FLOP *** 
+Lekanibal19 raises 1400 to 2800
+YL_ML_GL_42 folds
+Clem_Fraiche raises 5600 to 8400
+L4MBORGHINI folds
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+Lekanibal19 calls 5600
+*** FLOP *** [Td 2h 8s]
+Lekanibal19 checks
+Clem_Fraiche checks
+*** TURN *** [Td 2h 8s][Ts]
+Lekanibal19 bets 6909
+Clem_Fraiche raises 40877 to 47786 and is all-in
+Lekanibal19 calls 11831 and is all-in
+*** RIVER *** [Td 2h 8s Ts][3d]
+*** SHOW DOWN ***
+Lekanibal19 shows [Ac Qc] (One pair : Tens)
+Clem_Fraiche shows [Qh As] (One pair : Tens)
+Clem_Fraiche collected 57656 from side pot 1
+Lekanibal19 collected 28610 from main pot
+*** SUMMARY ***
+Total pot 86266 | No rake
+Board: [Td 2h 8s Ts 3d]
+Seat 3: Lekanibal19 showed [Ac Qc] and won 28610 with One pair : Tens
+Seat 5: Clem_Fraiche showed [Qh As] and won 57656 with One pair : Tens
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2563424361302196361-30-1668194546 - Holdem no limit (140/700/1400) - 2022/11/11 19:22:26 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #1 is the button
+Seat 1: RASCAR_CAPAC (14964)
+Seat 2: Sephiroth 65 (53691)
+Seat 3: Lekanibal19 (28610)
+Seat 4: YL_ML_GL_42 (44589)
+Seat 5: Clem_Fraiche (57656)
+Seat 6: L4MBORGHINI (43900)
+*** ANTE/BLINDS ***
+Sephiroth 65 posts ante 140
+Lekanibal19 posts ante 140
+RASCAR_CAPAC posts ante 140
+YL_ML_GL_42 posts ante 140
+Clem_Fraiche posts ante 140
+L4MBORGHINI posts ante 140
+Sephiroth 65 posts small blind 700
+Lekanibal19 posts big blind 1400
+Dealt to YL_ML_GL_42 [2d 7s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Clem_Fraiche folds
+L4MBORGHINI folds
+RASCAR_CAPAC folds
+Sephiroth 65 raises 1582 to 2982
+Lekanibal19 calls 1582
+*** FLOP *** [5s 8h 7h]
+Sephiroth 65 checks
+Lekanibal19 bets 2381
+Sephiroth 65 calls 2381
+*** TURN *** [5s 8h 7h][Qc]
+Sephiroth 65 checks
+Lekanibal19 checks
+*** RIVER *** [5s 8h 7h Qc][3d]
+Sephiroth 65 checks
+Lekanibal19 bets 4048
+Sephiroth 65 calls 4048
+*** SHOW DOWN ***
+Sephiroth 65 shows [Kd 5c] (One pair : 5)
+Lekanibal19 shows [9d 8d] (One pair : 8)
+Lekanibal19 collected 19662 from pot
+*** SUMMARY ***
+Total pot 19662 | No rake
+Board: [5s 8h 7h Qc 3d]
+Seat 2: Sephiroth 65 (small blind) showed [Kd 5c] and lost with One pair : 5
+Seat 3: Lekanibal19 (big blind) showed [9d 8d] and won 19662 with One pair : 8
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2563424361302196361-31-1668194632 - Holdem no limit (140/700/1400) - 2022/11/11 19:23:52 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #2 is the button
+Seat 1: RASCAR_CAPAC (14824)
+Seat 2: Sephiroth 65 (44140)
+Seat 3: Lekanibal19 (38721)
+Seat 4: YL_ML_GL_42 (44449)
+Seat 5: Clem_Fraiche (57516)
+Seat 6: L4MBORGHINI (43760)
+*** ANTE/BLINDS ***
+Lekanibal19 posts ante 140
+YL_ML_GL_42 posts ante 140
+RASCAR_CAPAC posts ante 140
+Sephiroth 65 posts ante 140
+Clem_Fraiche posts ante 140
+L4MBORGHINI posts ante 140
+Lekanibal19 posts small blind 700
+YL_ML_GL_42 posts big blind 1400
+Dealt to YL_ML_GL_42 [Kh Ah]
+*** PRE-FLOP *** 
+Clem_Fraiche raises 1750 to 3150
+L4MBORGHINI folds
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+Lekanibal19 calls 2450
+YL_ML_GL_42 raises 41159 to 44309 and is all-in
+Clem_Fraiche folds
+Lekanibal19 folds
+YL_ML_GL_42 collected 51449 from pot
+*** SUMMARY ***
+Total pot 51449 | No rake
+Seat 4: YL_ML_GL_42 (big blind) won 51449
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2563424361302196361-32-1668194687 - Holdem no limit (150/750/1500) - 2022/11/11 19:24:47 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #3 is the button
+Seat 1: RASCAR_CAPAC (14684)
+Seat 2: Sephiroth 65 (44000)
+Seat 3: Lekanibal19 (35431)
+Seat 4: YL_ML_GL_42 (51449)
+Seat 5: Clem_Fraiche (54226)
+Seat 6: L4MBORGHINI (43620)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 150
+Clem_Fraiche posts ante 150
+RASCAR_CAPAC posts ante 150
+Sephiroth 65 posts ante 150
+Lekanibal19 posts ante 150
+L4MBORGHINI posts ante 150
+YL_ML_GL_42 posts small blind 750
+Clem_Fraiche posts big blind 1500
+Dealt to YL_ML_GL_42 [7d Ks]
+*** PRE-FLOP *** 
+L4MBORGHINI folds
+RASCAR_CAPAC folds
+Sephiroth 65 raises 1500 to 3000
+Lekanibal19 calls 3000
+YL_ML_GL_42 folds
+Clem_Fraiche folds
+*** FLOP *** [4d 7h 4h]
+Sephiroth 65 bets 3203
+Lekanibal19 folds
+Sephiroth 65 collected 12353 from pot
+*** SUMMARY ***
+Total pot 12353 | No rake
+Board: [4d 7h 4h]
+Seat 2: Sephiroth 65 won 12353
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2563424361302196361-33-1668194723 - Holdem no limit (150/750/1500) - 2022/11/11 19:25:23 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #4 is the button
+Seat 1: RASCAR_CAPAC (14534)
+Seat 2: Sephiroth 65 (50000)
+Seat 3: Lekanibal19 (32281)
+Seat 4: YL_ML_GL_42 (50549)
+Seat 5: Clem_Fraiche (52576)
+Seat 6: L4MBORGHINI (43470)
+*** ANTE/BLINDS ***
+Clem_Fraiche posts ante 150
+L4MBORGHINI posts ante 150
+RASCAR_CAPAC posts ante 150
+Sephiroth 65 posts ante 150
+Lekanibal19 posts ante 150
+YL_ML_GL_42 posts ante 150
+Clem_Fraiche posts small blind 750
+L4MBORGHINI posts big blind 1500
+Dealt to YL_ML_GL_42 [Jc Qc]
+*** PRE-FLOP *** 
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+Lekanibal19 folds
+YL_ML_GL_42 raises 3000 to 4500
+Clem_Fraiche calls 3750
+L4MBORGHINI raises 38820 to 43320 and is all-in
+YL_ML_GL_42 calls 38820
+Clem_Fraiche folds
+*** FLOP *** [7d Ks 5d]
+*** TURN *** [7d Ks 5d][8s]
+*** RIVER *** [7d Ks 5d 8s][5c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Jc Qc] (One pair : 5)
+L4MBORGHINI shows [Ac 9d] (One pair : 5)
+L4MBORGHINI collected 92040 from pot
+*** SUMMARY ***
+Total pot 92040 | No rake
+Board: [7d Ks 5d 8s 5c]
+Seat 4: YL_ML_GL_42 (button) showed [Jc Qc] and lost with One pair : 5
+Seat 6: L4MBORGHINI (big blind) showed [Ac 9d] and won 92040 with One pair : 5
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2563424361302196361-34-1668194763 - Holdem no limit (150/750/1500) - 2022/11/11 19:26:03 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #5 is the button
+Seat 1: RASCAR_CAPAC (14384)
+Seat 2: Sephiroth 65 (49850)
+Seat 3: Lekanibal19 (32131)
+Seat 4: YL_ML_GL_42 (7079)
+Seat 5: Clem_Fraiche (47926)
+Seat 6: L4MBORGHINI (92040)
+*** ANTE/BLINDS ***
+L4MBORGHINI posts ante 150
+RASCAR_CAPAC posts ante 150
+Sephiroth 65 posts ante 150
+Lekanibal19 posts ante 150
+YL_ML_GL_42 posts ante 150
+Clem_Fraiche posts ante 150
+L4MBORGHINI posts small blind 750
+RASCAR_CAPAC posts big blind 1500
+Dealt to YL_ML_GL_42 [Qs 4c]
+*** PRE-FLOP *** 
+Sephiroth 65 folds
+Lekanibal19 folds
+YL_ML_GL_42 raises 5429 to 6929 and is all-in
+Clem_Fraiche folds
+L4MBORGHINI raises 8071 to 15000
+RASCAR_CAPAC folds
+*** FLOP *** [Ks 4d 2c]
+*** TURN *** [Ks 4d 2c][8d]
+*** RIVER *** [Ks 4d 2c 8d][3c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Qs 4c] (One pair : 4)
+L4MBORGHINI shows [Qc Ah] (High card : Ace)
+L4MBORGHINI collected 8071 from side pot 1
+YL_ML_GL_42 collected 16258 from main pot
+*** SUMMARY ***
+Total pot 24329 | No rake
+Board: [Ks 4d 2c 8d 3c]
+Seat 4: YL_ML_GL_42 showed [Qs 4c] and won 16258 with One pair : 4
+Seat 6: L4MBORGHINI (small blind) showed [Qc Ah] and won 8071 with High card : Ace
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2563424361302196361-35-1668194801 - Holdem no limit (150/750/1500) - 2022/11/11 19:26:41 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #6 is the button
+Seat 1: RASCAR_CAPAC (12734)
+Seat 2: Sephiroth 65 (49700)
+Seat 3: Lekanibal19 (31981)
+Seat 4: YL_ML_GL_42 (16258)
+Seat 5: Clem_Fraiche (47776)
+Seat 6: L4MBORGHINI (84961)
+*** ANTE/BLINDS ***
+RASCAR_CAPAC posts ante 150
+Sephiroth 65 posts ante 150
+Lekanibal19 posts ante 150
+YL_ML_GL_42 posts ante 150
+Clem_Fraiche posts ante 150
+L4MBORGHINI posts ante 150
+RASCAR_CAPAC posts small blind 750
+Sephiroth 65 posts big blind 1500
+Dealt to YL_ML_GL_42 [8c 3c]
+*** PRE-FLOP *** 
+Lekanibal19 folds
+YL_ML_GL_42 raises 14608 to 16108 and is all-in
+Clem_Fraiche folds
+L4MBORGHINI folds
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+YL_ML_GL_42 collected 19258 from pot
+*** SUMMARY ***
+Total pot 19258 | No rake
+Seat 4: YL_ML_GL_42 won 19258
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2563424361302196361-36-1668194817 - Holdem no limit (150/750/1500) - 2022/11/11 19:26:57 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #1 is the button
+Seat 1: RASCAR_CAPAC (11834)
+Seat 2: Sephiroth 65 (48050)
+Seat 3: Lekanibal19 (31831)
+Seat 4: YL_ML_GL_42 (19258)
+Seat 5: Clem_Fraiche (47626)
+Seat 6: L4MBORGHINI (84811)
+*** ANTE/BLINDS ***
+Sephiroth 65 posts ante 150
+Lekanibal19 posts ante 150
+RASCAR_CAPAC posts ante 150
+YL_ML_GL_42 posts ante 150
+Clem_Fraiche posts ante 150
+L4MBORGHINI posts ante 150
+Sephiroth 65 posts small blind 750
+Lekanibal19 posts big blind 1500
+Dealt to YL_ML_GL_42 [Td 4h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Clem_Fraiche folds
+L4MBORGHINI folds
+RASCAR_CAPAC raises 10184 to 11684 and is all-in
+Sephiroth 65 folds
+Lekanibal19 folds
+RASCAR_CAPAC collected 14834 from pot
+*** SUMMARY ***
+Total pot 14834 | No rake
+Seat 1: RASCAR_CAPAC (button) won 14834
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2563424361302196361-37-1668194833 - Holdem no limit (150/750/1500) - 2022/11/11 19:27:13 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #2 is the button
+Seat 1: RASCAR_CAPAC (14834)
+Seat 2: Sephiroth 65 (47150)
+Seat 3: Lekanibal19 (30181)
+Seat 4: YL_ML_GL_42 (19108)
+Seat 5: Clem_Fraiche (47476)
+Seat 6: L4MBORGHINI (84661)
+*** ANTE/BLINDS ***
+Lekanibal19 posts ante 150
+YL_ML_GL_42 posts ante 150
+RASCAR_CAPAC posts ante 150
+Sephiroth 65 posts ante 150
+Clem_Fraiche posts ante 150
+L4MBORGHINI posts ante 150
+Lekanibal19 posts small blind 750
+YL_ML_GL_42 posts big blind 1500
+Dealt to YL_ML_GL_42 [2c Kd]
+*** PRE-FLOP *** 
+Clem_Fraiche folds
+L4MBORGHINI raises 1500 to 3000
+RASCAR_CAPAC folds
+Sephiroth 65 raises 44000 to 47000 and is all-in
+Lekanibal19 folds
+YL_ML_GL_42 folds
+L4MBORGHINI folds
+Sephiroth 65 collected 53150 from pot
+*** SUMMARY ***
+Total pot 53150 | No rake
+Seat 2: Sephiroth 65 (button) won 53150
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2563424361302196361-38-1668194878 - Holdem no limit (160/800/1600) - 2022/11/11 19:27:58 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #3 is the button
+Seat 1: RASCAR_CAPAC (14684)
+Seat 2: Sephiroth 65 (53150)
+Seat 3: Lekanibal19 (29281)
+Seat 4: YL_ML_GL_42 (17458)
+Seat 5: Clem_Fraiche (47326)
+Seat 6: L4MBORGHINI (81511)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 160
+Clem_Fraiche posts ante 160
+RASCAR_CAPAC posts ante 160
+Sephiroth 65 posts ante 160
+Lekanibal19 posts ante 160
+L4MBORGHINI posts ante 160
+YL_ML_GL_42 posts small blind 800
+Clem_Fraiche posts big blind 1600
+Dealt to YL_ML_GL_42 [2h 7c]
+*** PRE-FLOP *** 
+L4MBORGHINI folds
+RASCAR_CAPAC raises 12924 to 14524 and is all-in
+Sephiroth 65 raises 38466 to 52990 and is all-in
+Lekanibal19 folds
+YL_ML_GL_42 folds
+Clem_Fraiche folds
+*** FLOP *** [Qc 6s Jd]
+*** TURN *** [Qc 6s Jd][Tc]
+*** RIVER *** [Qc 6s Jd Tc][Ah]
+*** SHOW DOWN ***
+RASCAR_CAPAC shows [5d Kd] (Straight Ace high)
+Sephiroth 65 shows [As Js] (Two pairs : Aces and Jacks)
+Sephiroth 65 collected 38466 from side pot 1
+RASCAR_CAPAC collected 32408 from main pot
+*** SUMMARY ***
+Total pot 70874 | No rake
+Board: [Qc 6s Jd Tc Ah]
+Seat 1: RASCAR_CAPAC showed [5d Kd] and won 32408 with Straight Ace high
+Seat 2: Sephiroth 65 showed [As Js] and won 38466 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2563424361302196361-39-1668194908 - Holdem no limit (160/800/1600) - 2022/11/11 19:28:28 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #4 is the button
+Seat 1: RASCAR_CAPAC (32408)
+Seat 2: Sephiroth 65 (38466)
+Seat 3: Lekanibal19 (29121)
+Seat 4: YL_ML_GL_42 (16498)
+Seat 5: Clem_Fraiche (45566)
+Seat 6: L4MBORGHINI (81351)
+*** ANTE/BLINDS ***
+Clem_Fraiche posts ante 160
+L4MBORGHINI posts ante 160
+RASCAR_CAPAC posts ante 160
+Sephiroth 65 posts ante 160
+Lekanibal19 posts ante 160
+YL_ML_GL_42 posts ante 160
+Clem_Fraiche posts small blind 800
+L4MBORGHINI posts big blind 1600
+Dealt to YL_ML_GL_42 [3s Kh]
+*** PRE-FLOP *** 
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+Lekanibal19 raises 1600 to 3200
+YL_ML_GL_42 folds
+Clem_Fraiche calls 2400
+L4MBORGHINI raises 77991 to 81191 and is all-in
+Lekanibal19 calls 25761 and is all-in
+Clem_Fraiche folds
+*** FLOP *** [8c Td 7s]
+*** TURN *** [8c Td 7s][6c]
+*** RIVER *** [8c Td 7s 6c][9d]
+*** SHOW DOWN ***
+Lekanibal19 shows [Jd As] (Straight Jack high)
+L4MBORGHINI shows [Ah 9h] (Straight Ten high)
+L4MBORGHINI collected 52230 from side pot 1
+Lekanibal19 collected 62082 from main pot
+*** SUMMARY ***
+Total pot 114312 | No rake
+Board: [8c Td 7s 6c 9d]
+Seat 3: Lekanibal19 showed [Jd As] and won 62082 with Straight Jack high
+Seat 6: L4MBORGHINI (big blind) showed [Ah 9h] and won 52230 with Straight Ten high
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2563424361302196361-40-1668194938 - Holdem no limit (160/800/1600) - 2022/11/11 19:28:58 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #5 is the button
+Seat 1: RASCAR_CAPAC (32248)
+Seat 2: Sephiroth 65 (38306)
+Seat 3: Lekanibal19 (62082)
+Seat 4: YL_ML_GL_42 (16338)
+Seat 5: Clem_Fraiche (42206)
+Seat 6: L4MBORGHINI (52230)
+*** ANTE/BLINDS ***
+L4MBORGHINI posts ante 160
+RASCAR_CAPAC posts ante 160
+Sephiroth 65 posts ante 160
+Lekanibal19 posts ante 160
+YL_ML_GL_42 posts ante 160
+Clem_Fraiche posts ante 160
+L4MBORGHINI posts small blind 800
+RASCAR_CAPAC posts big blind 1600
+Dealt to YL_ML_GL_42 [2c 9c]
+*** PRE-FLOP *** 
+Sephiroth 65 folds
+Lekanibal19 folds
+YL_ML_GL_42 folds
+Clem_Fraiche calls 1600
+L4MBORGHINI raises 6400 to 8000
+RASCAR_CAPAC folds
+Clem_Fraiche folds
+L4MBORGHINI collected 12160 from pot
+*** SUMMARY ***
+Total pot 12160 | No rake
+Seat 6: L4MBORGHINI (small blind) won 12160
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2563424361302196361-41-1668194963 - Holdem no limit (160/800/1600) - 2022/11/11 19:29:23 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #6 is the button
+Seat 1: RASCAR_CAPAC (30488)
+Seat 2: Sephiroth 65 (38146)
+Seat 3: Lekanibal19 (61922)
+Seat 4: YL_ML_GL_42 (16178)
+Seat 5: Clem_Fraiche (40446)
+Seat 6: L4MBORGHINI (56230)
+*** ANTE/BLINDS ***
+RASCAR_CAPAC posts ante 160
+Sephiroth 65 posts ante 160
+Lekanibal19 posts ante 160
+YL_ML_GL_42 posts ante 160
+Clem_Fraiche posts ante 160
+L4MBORGHINI posts ante 160
+RASCAR_CAPAC posts small blind 800
+Sephiroth 65 posts big blind 1600
+Dealt to YL_ML_GL_42 [8c Th]
+*** PRE-FLOP *** 
+Lekanibal19 folds
+YL_ML_GL_42 folds
+Clem_Fraiche folds
+L4MBORGHINI folds
+RASCAR_CAPAC calls 800
+Sephiroth 65 raises 36386 to 37986 and is all-in
+RASCAR_CAPAC folds
+Sephiroth 65 collected 40546 from pot
+*** SUMMARY ***
+Total pot 40546 | No rake
+Seat 2: Sephiroth 65 (big blind) won 40546
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2563424361302196361-42-1668194985 - Holdem no limit (160/800/1600) - 2022/11/11 19:29:45 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #1 is the button
+Seat 1: RASCAR_CAPAC (28728)
+Seat 2: Sephiroth 65 (40546)
+Seat 3: Lekanibal19 (61762)
+Seat 4: YL_ML_GL_42 (16018)
+Seat 5: Clem_Fraiche (40286)
+Seat 6: L4MBORGHINI (56070)
+*** ANTE/BLINDS ***
+Sephiroth 65 posts ante 160
+Lekanibal19 posts ante 160
+RASCAR_CAPAC posts ante 160
+YL_ML_GL_42 posts ante 160
+Clem_Fraiche posts ante 160
+L4MBORGHINI posts ante 160
+Sephiroth 65 posts small blind 800
+Lekanibal19 posts big blind 1600
+Dealt to YL_ML_GL_42 [4c 6h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Clem_Fraiche folds
+L4MBORGHINI folds
+RASCAR_CAPAC folds
+Sephiroth 65 calls 800
+Lekanibal19 checks
+*** FLOP *** [4d 7c Ks]
+Sephiroth 65 bets 1600
+Lekanibal19 calls 1600
+*** TURN *** [4d 7c Ks][Jh]
+Sephiroth 65 checks
+Lekanibal19 checks
+*** RIVER *** [4d 7c Ks Jh][8s]
+Sephiroth 65 checks
+Lekanibal19 checks
+*** SHOW DOWN ***
+Lekanibal19 shows [Ah 9d] (High card : Ace)
+Sephiroth 65 shows [4h As] (One pair : 4)
+Sephiroth 65 collected 7360 from pot
+*** SUMMARY ***
+Total pot 7360 | No rake
+Board: [4d 7c Ks Jh 8s]
+Seat 2: Sephiroth 65 (small blind) showed [4h As] and won 7360 with One pair : 4
+Seat 3: Lekanibal19 (big blind) showed [Ah 9d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "W POKUS Event 76" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2563424361302196361-43-1668195052 - Holdem no limit (160/800/1600) - 2022/11/11 19:30:52 UTC
+Table: 'W POKUS Event 76(596843744)#0136' 6-max (real money) Seat #2 is the button
+Seat 1: RASCAR_CAPAC (28568)
+Seat 2: Sephiroth 65 (44546)
+Seat 3: Lekanibal19 (58402)
+Seat 4: YL_ML_GL_42 (15858)
+Seat 5: Clem_Fraiche (40126)
+Seat 6: L4MBORGHINI (55910)
+*** ANTE/BLINDS ***
+Lekanibal19 posts ante 160
+YL_ML_GL_42 posts ante 160
+RASCAR_CAPAC posts ante 160
+Sephiroth 65 posts ante 160
+Clem_Fraiche posts ante 160
+L4MBORGHINI posts ante 160
+Lekanibal19 posts small blind 800
+YL_ML_GL_42 posts big blind 1600
+Dealt to YL_ML_GL_42 [3s 5s]
+*** PRE-FLOP *** 
+Clem_Fraiche folds
+L4MBORGHINI folds
+RASCAR_CAPAC folds
+Sephiroth 65 folds
+Lekanibal19 raises 1600 to 3200
+YL_ML_GL_42 raises 12498 to 15698 and is all-in
+Lekanibal19 calls 12498
+*** FLOP *** [9d 2c 8c]
+*** TURN *** [9d 2c 8c][Qh]
+*** RIVER *** [9d 2c 8c Qh][8h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [3s 5s] (One pair : 8)
+Lekanibal19 shows [Tc As] (One pair : 8)
+Lekanibal19 collected 32356 from pot
+*** SUMMARY ***
+Total pot 32356 | No rake
+Board: [9d 2c 8c Qh 8h]
+Seat 3: Lekanibal19 (small blind) showed [Tc As] and won 32356 with One pair : 8
+Seat 4: YL_ML_GL_42 (big blind) showed [3s 5s] and lost with One pair : 8
+
+

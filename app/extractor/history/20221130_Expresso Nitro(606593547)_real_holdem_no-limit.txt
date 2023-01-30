@@ -1,0 +1,202 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2605299446329638913-1-1669828622 - Holdem no limit (10/20) - 2022/11/30 17:17:02 UTC
+Table: 'Expresso Nitro(606593547)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AuroreRiver (300)
+Seat 2: VIRIHOA (300)
+Seat 3: YL_ML_GL_42 (300)
+*** ANTE/BLINDS ***
+AuroreRiver posts small blind 10
+VIRIHOA posts big blind 20
+Dealt to YL_ML_GL_42 [Js 8d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+AuroreRiver raises 280 to 300 and is all-in
+VIRIHOA calls 280 and is all-in
+*** FLOP *** [4h Ac 9c]
+*** TURN *** [4h Ac 9c][7d]
+*** RIVER *** [4h Ac 9c 7d][Jd]
+*** SHOW DOWN ***
+VIRIHOA shows [Qc Ts] (High card : Ace)
+AuroreRiver shows [Ad Kc] (One pair : Aces)
+AuroreRiver collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [4h Ac 9c 7d Jd]
+Seat 1: AuroreRiver (small blind) showed [Ad Kc] and won 600 with One pair : Aces
+Seat 2: VIRIHOA (big blind) showed [Qc Ts] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2605299446329638913-2-1669828661 - Holdem no limit (10/20) - 2022/11/30 17:17:41 UTC
+Table: 'Expresso Nitro(606593547)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AuroreRiver (600)
+Seat 3: YL_ML_GL_42 (300)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+AuroreRiver posts big blind 20
+Dealt to YL_ML_GL_42 [6s Js]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 280 to 300 and is all-in
+AuroreRiver calls 280
+*** FLOP *** [9c 9h 7d]
+*** TURN *** [9c 9h 7d][Ah]
+*** RIVER *** [9c 9h 7d Ah][Qc]
+*** SHOW DOWN ***
+AuroreRiver shows [Jc 3c] (One pair : 9)
+YL_ML_GL_42 shows [6s Js] (One pair : 9)
+YL_ML_GL_42 collected 300 from pot
+AuroreRiver collected 300 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [9c 9h 7d Ah Qc]
+Seat 1: AuroreRiver (big blind) showed [Jc 3c] and won 300 with One pair : 9
+Seat 3: YL_ML_GL_42 (small blind) (button) showed [6s Js] and won 300 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2605299446329638913-3-1669828673 - Holdem no limit (10/20) - 2022/11/30 17:17:53 UTC
+Table: 'Expresso Nitro(606593547)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AuroreRiver (600)
+Seat 3: YL_ML_GL_42 (300)
+*** ANTE/BLINDS ***
+AuroreRiver posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [5d Th]
+*** PRE-FLOP *** 
+AuroreRiver folds
+YL_ML_GL_42 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: YL_ML_GL_42 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2605299446329638913-4-1669828676 - Holdem no limit (10/20) - 2022/11/30 17:17:56 UTC
+Table: 'Expresso Nitro(606593547)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AuroreRiver (590)
+Seat 3: YL_ML_GL_42 (310)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+AuroreRiver posts big blind 20
+Dealt to YL_ML_GL_42 [7s 6d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+AuroreRiver collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: AuroreRiver (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2605299446329638913-5-1669828680 - Holdem no limit (15/30) - 2022/11/30 17:18:00 UTC
+Table: 'Expresso Nitro(606593547)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AuroreRiver (600)
+Seat 3: YL_ML_GL_42 (300)
+*** ANTE/BLINDS ***
+AuroreRiver posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [6d 9d]
+*** PRE-FLOP *** 
+AuroreRiver folds
+YL_ML_GL_42 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: YL_ML_GL_42 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2605299446329638913-6-1669828684 - Holdem no limit (15/30) - 2022/11/30 17:18:04 UTC
+Table: 'Expresso Nitro(606593547)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AuroreRiver (585)
+Seat 3: YL_ML_GL_42 (315)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+AuroreRiver posts big blind 30
+Dealt to YL_ML_GL_42 [3d Td]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 285 to 315 and is all-in
+AuroreRiver folds
+YL_ML_GL_42 collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Seat 3: YL_ML_GL_42 (small blind) (button) won 345
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2605299446329638913-7-1669828691 - Holdem no limit (15/30) - 2022/11/30 17:18:11 UTC
+Table: 'Expresso Nitro(606593547)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AuroreRiver (555)
+Seat 3: YL_ML_GL_42 (345)
+*** ANTE/BLINDS ***
+AuroreRiver posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [As 8h]
+*** PRE-FLOP *** 
+AuroreRiver calls 15
+YL_ML_GL_42 raises 315 to 345 and is all-in
+AuroreRiver calls 315
+*** FLOP *** [5d Tc 2h]
+*** TURN *** [5d Tc 2h][2c]
+*** RIVER *** [5d Tc 2h 2c][2s]
+*** SHOW DOWN ***
+AuroreRiver shows [Ks 9d] (Trips of 2)
+YL_ML_GL_42 shows [As 8h] (Trips of 2)
+YL_ML_GL_42 collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [5d Tc 2h 2c 2s]
+Seat 1: AuroreRiver (small blind) (button) showed [Ks 9d] and lost with Trips of 2
+Seat 3: YL_ML_GL_42 (big blind) showed [As 8h] and won 690 with Trips of 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2605299446329638913-8-1669828706 - Holdem no limit (15/30) - 2022/11/30 17:18:26 UTC
+Table: 'Expresso Nitro(606593547)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AuroreRiver (210)
+Seat 3: YL_ML_GL_42 (690)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+AuroreRiver posts big blind 30
+Dealt to YL_ML_GL_42 [5h 2d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+AuroreRiver collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: AuroreRiver (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2605299446329638913-9-1669828710 - Holdem no limit (15/30) - 2022/11/30 17:18:30 UTC
+Table: 'Expresso Nitro(606593547)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AuroreRiver (225)
+Seat 3: YL_ML_GL_42 (675)
+*** ANTE/BLINDS ***
+AuroreRiver posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [3c Jh]
+*** PRE-FLOP *** 
+AuroreRiver folds
+YL_ML_GL_42 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: YL_ML_GL_42 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2605299446329638913-10-1669828714 - Holdem no limit (15/30) - 2022/11/30 17:18:34 UTC
+Table: 'Expresso Nitro(606593547)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AuroreRiver (210)
+Seat 3: YL_ML_GL_42 (690)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+AuroreRiver posts big blind 30
+Dealt to YL_ML_GL_42 [Td 6h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+AuroreRiver raises 120 to 210 and is all-in
+YL_ML_GL_42 calls 120
+*** FLOP *** [6c Ad 7s]
+*** TURN *** [6c Ad 7s][Tc]
+*** RIVER *** [6c Ad 7s Tc][4d]
+*** SHOW DOWN ***
+AuroreRiver shows [Kh Jc] (High card : Ace)
+YL_ML_GL_42 shows [Td 6h] (Two pairs : Tens and 6)
+YL_ML_GL_42 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [6c Ad 7s Tc 4d]
+Seat 1: AuroreRiver (big blind) showed [Kh Jc] and lost with High card : Ace
+Seat 3: YL_ML_GL_42 (small blind) (button) showed [Td 6h] and won 420 with Two pairs : Tens and 6
+
+

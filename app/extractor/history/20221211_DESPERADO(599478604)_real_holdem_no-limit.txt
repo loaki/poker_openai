@@ -1,0 +1,1831 @@
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734856-1-1670762706 - Holdem no limit (25/100/200) - 2022/12/11 12:45:06 UTC
+Table: 'DESPERADO(599478604)#0071' 6-max (real money) Seat #2 is the button
+Seat 1: DydyCaro89 (20000, 2.25€ bounty)
+Seat 2: top1joueur (20000, 2.25€ bounty)
+Seat 3: mouskitos57 (20000, 2.25€ bounty)
+Seat 4: Harvester 28 (20000, 2.25€ bounty)
+Seat 5: MatMoute16 (20000, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+mouskitos57 posts ante 25
+Harvester 28 posts ante 25
+DydyCaro89 posts ante 25
+top1joueur posts ante 25
+MatMoute16 posts ante 25
+YL_ML_GL_42 posts ante 25
+mouskitos57 posts small blind 100
+Harvester 28 posts big blind 200
+Dealt to YL_ML_GL_42 [4h 3h]
+*** PRE-FLOP *** 
+MatMoute16 calls 200
+YL_ML_GL_42 folds
+DydyCaro89 calls 200
+top1joueur folds
+mouskitos57 raises 19775 to 19975 and is all-in
+Harvester 28 folds
+MatMoute16 calls 19775 and is all-in
+DydyCaro89 folds
+*** FLOP *** [9s As 9h]
+*** TURN *** [9s As 9h][4s]
+*** RIVER *** [9s As 9h 4s][Qh]
+*** SHOW DOWN ***
+mouskitos57 shows [7c 7d] (Two pairs : 9 and 7)
+MatMoute16 shows [Qs Ac] (Two pairs : Aces and Queens)
+MatMoute16 collected 40500 from pot
+*** SUMMARY ***
+Total pot 40500 | No rake
+Board: [9s As 9h 4s Qh]
+Seat 3: mouskitos57 (small blind) showed [7c 7d] and lost with Two pairs : 9 and 7
+Seat 5: MatMoute16 showed [Qs Ac] and won 40500 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734856-2-1670762823 - Holdem no limit (25/100/200) - 2022/12/11 12:47:03 UTC
+Table: 'DESPERADO(599478604)#0071' 6-max (real money) Seat #3 is the button
+Seat 1: DydyCaro89 (19775, 2.25€ bounty)
+Seat 2: top1joueur (19975, 2.25€ bounty)
+Seat 3: Jouz (20000, 2.25€ bounty)
+Seat 4: Harvester 28 (19775, 2.25€ bounty)
+Seat 5: MatMoute16 (40500, 3.37€ bounty)
+Seat 6: YL_ML_GL_42 (19975, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Harvester 28 posts ante 25
+MatMoute16 posts ante 25
+DydyCaro89 posts ante 25
+top1joueur posts ante 25
+YL_ML_GL_42 posts ante 25
+Harvester 28 posts small blind 100
+MatMoute16 posts big blind 200
+Dealt to YL_ML_GL_42 [Ks 4d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DydyCaro89 raises 300 to 500
+top1joueur folds
+Harvester 28 folds
+MatMoute16 calls 300
+*** FLOP *** [Th Ts 9s]
+MatMoute16 checks
+DydyCaro89 bets 700
+MatMoute16 calls 700
+*** TURN *** [Th Ts 9s][Qs]
+MatMoute16 checks
+DydyCaro89 bets 1313
+MatMoute16 raises 1987 to 3300
+DydyCaro89 calls 1987
+*** RIVER *** [Th Ts 9s Qs][6h]
+MatMoute16 bets 3229
+DydyCaro89 folds
+MatMoute16 collected 12454 from pot
+*** SUMMARY ***
+Total pot 12454 | No rake
+Board: [Th Ts 9s Qs 6h]
+Seat 5: MatMoute16 (big blind) won 12454
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734856-3-1670762979 - Holdem no limit (25/100/200) - 2022/12/11 12:49:39 UTC
+Table: 'DESPERADO(599478604)#0071' 6-max (real money) Seat #4 is the button
+Seat 1: DydyCaro89 (15250, 2.25€ bounty)
+Seat 2: top1joueur (19950, 2.25€ bounty)
+Seat 3: Jouz (20000, 2.25€ bounty)
+Seat 4: Harvester 28 (19650, 2.25€ bounty)
+Seat 5: MatMoute16 (45200, 3.37€ bounty)
+Seat 6: YL_ML_GL_42 (19950, 2.25€ bounty)
+*** ANTE/BLINDS ***
+MatMoute16 posts ante 25
+YL_ML_GL_42 posts ante 25
+DydyCaro89 posts ante 25
+top1joueur posts ante 25
+Jouz posts ante 25
+Harvester 28 posts ante 25
+MatMoute16 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [8d 3s]
+*** PRE-FLOP *** 
+DydyCaro89 calls 200
+top1joueur folds
+Jouz folds
+Harvester 28 calls 200
+MatMoute16 folds
+YL_ML_GL_42 checks
+*** FLOP *** [5c Ah 7c]
+YL_ML_GL_42 checks
+DydyCaro89 checks
+Harvester 28 bets 289
+YL_ML_GL_42 folds
+DydyCaro89 folds
+Harvester 28 collected 1139 from pot
+*** SUMMARY ***
+Total pot 1139 | No rake
+Board: [5c Ah 7c]
+Seat 4: Harvester 28 (button) won 1139
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734856-4-1670763026 - Holdem no limit (25/100/200) - 2022/12/11 12:50:26 UTC
+Table: 'DESPERADO(599478604)#0071' 6-max (real money) Seat #5 is the button
+Seat 1: DydyCaro89 (15025, 2.25€ bounty)
+Seat 2: top1joueur (19925, 2.25€ bounty)
+Seat 3: Jouz (19975, 2.25€ bounty)
+Seat 4: Harvester 28 (20275, 2.25€ bounty)
+Seat 5: MatMoute16 (45075, 3.37€ bounty)
+Seat 6: YL_ML_GL_42 (19725, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+DydyCaro89 posts ante 25
+top1joueur posts ante 25
+Jouz posts ante 25
+Harvester 28 posts ante 25
+MatMoute16 posts ante 25
+YL_ML_GL_42 posts small blind 100
+DydyCaro89 posts big blind 200
+Dealt to YL_ML_GL_42 [6h Qd]
+*** PRE-FLOP *** 
+top1joueur folds
+Jouz folds
+Harvester 28 folds
+MatMoute16 raises 300 to 500
+YL_ML_GL_42 folds
+DydyCaro89 folds
+MatMoute16 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 5: MatMoute16 (button) won 950
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734856-5-1670763044 - Holdem no limit (25/100/200) - 2022/12/11 12:50:44 UTC
+Table: 'DESPERADO(599478604)#0071' 6-max (real money) Seat #6 is the button
+Seat 1: DydyCaro89 (14800, 2.25€ bounty)
+Seat 2: top1joueur (19900, 2.25€ bounty)
+Seat 3: Jouz (19950, 2.25€ bounty)
+Seat 4: Harvester 28 (20250, 2.25€ bounty)
+Seat 5: MatMoute16 (45500, 3.37€ bounty)
+Seat 6: YL_ML_GL_42 (19600, 2.25€ bounty)
+*** ANTE/BLINDS ***
+DydyCaro89 posts ante 25
+top1joueur posts ante 25
+Jouz posts ante 25
+Harvester 28 posts ante 25
+MatMoute16 posts ante 25
+YL_ML_GL_42 posts ante 25
+DydyCaro89 posts small blind 100
+top1joueur posts big blind 200
+Dealt to YL_ML_GL_42 [Qh 6c]
+*** PRE-FLOP *** 
+Jouz folds
+Harvester 28 folds
+MatMoute16 folds
+YL_ML_GL_42 folds
+DydyCaro89 raises 200 to 400
+top1joueur folds
+DydyCaro89 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Seat 1: DydyCaro89 (small blind) won 750
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734856-6-1670763078 - Holdem no limit (25/100/200) - 2022/12/11 12:51:18 UTC
+Table: 'DESPERADO(599478604)#0071' 6-max (real money) Seat #1 is the button
+Seat 1: DydyCaro89 (15125, 2.25€ bounty)
+Seat 2: top1joueur (19675, 2.25€ bounty)
+Seat 3: Jouz (19925, 2.25€ bounty)
+Seat 4: Harvester 28 (20225, 2.25€ bounty)
+Seat 5: MatMoute16 (45475, 3.37€ bounty)
+Seat 6: YL_ML_GL_42 (19575, 2.25€ bounty)
+*** ANTE/BLINDS ***
+top1joueur posts ante 25
+Jouz posts ante 25
+DydyCaro89 posts ante 25
+Harvester 28 posts ante 25
+MatMoute16 posts ante 25
+YL_ML_GL_42 posts ante 25
+top1joueur posts small blind 100
+Jouz posts big blind 200
+Dealt to YL_ML_GL_42 [5s 6h]
+*** PRE-FLOP *** 
+Harvester 28 folds
+MatMoute16 folds
+YL_ML_GL_42 folds
+DydyCaro89 folds
+top1joueur folds
+Jouz collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 3: Jouz (big blind) won 450
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734856-7-1670763090 - Holdem no limit (25/100/200) - 2022/12/11 12:51:30 UTC
+Table: 'DESPERADO(599478604)#0071' 6-max (real money) Seat #2 is the button
+Seat 1: DydyCaro89 (15100, 2.25€ bounty)
+Seat 2: top1joueur (19550, 2.25€ bounty)
+Seat 3: Jouz (20150, 2.25€ bounty)
+Seat 4: Harvester 28 (20200, 2.25€ bounty)
+Seat 5: MatMoute16 (45450, 3.37€ bounty)
+Seat 6: YL_ML_GL_42 (19550, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Jouz posts ante 25
+Harvester 28 posts ante 25
+DydyCaro89 posts ante 25
+top1joueur posts ante 25
+MatMoute16 posts ante 25
+YL_ML_GL_42 posts ante 25
+Jouz posts small blind 100
+Harvester 28 posts big blind 200
+Dealt to YL_ML_GL_42 [Th Kd]
+*** PRE-FLOP *** 
+MatMoute16 folds
+YL_ML_GL_42 raises 400 to 600
+DydyCaro89 calls 600
+top1joueur folds
+Jouz calls 500
+Harvester 28 folds
+*** FLOP *** [3c Ad 5c]
+Jouz checks
+YL_ML_GL_42 checks
+DydyCaro89 checks
+*** TURN *** [3c Ad 5c][2h]
+Jouz checks
+YL_ML_GL_42 checks
+DydyCaro89 bets 1720
+Jouz folds
+YL_ML_GL_42 folds
+DydyCaro89 collected 3870 from pot
+*** SUMMARY ***
+Total pot 3870 | No rake
+Board: [3c Ad 5c 2h]
+Seat 1: DydyCaro89 won 3870
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 33 - HandId: #2574740998831734888-1-1670763155 - Holdem no limit (25/100/200) - 2022/12/11 12:52:35 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (18925, 2.25€ bounty)
+Seat 2: Roule-Zun1 (20000, 2.25€ bounty)
+Seat 3: Braquage95 (22168, 2.25€ bounty)
+Seat 4: Le Gros Oeil (20200, 2.25€ bounty)
+Seat 5: HulkSkyWalk (20000, 2.25€ bounty)
+Seat 6: Rectale (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Roule-Zun1 posts ante 25
+Braquage95 posts ante 25
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts ante 25
+Rectale posts ante 25
+YL_ML_GL_42 posts small blind 100
+Roule-Zun1 posts big blind 200
+Dealt to YL_ML_GL_42 [7s 7c]
+*** PRE-FLOP *** 
+Braquage95 folds
+Le Gros Oeil raises 250 to 450
+HulkSkyWalk folds
+Rectale calls 450
+YL_ML_GL_42 calls 350
+Roule-Zun1 folds
+*** FLOP *** [Ts 5h 5s]
+YL_ML_GL_42 bets 1360
+Le Gros Oeil calls 1360
+Rectale raises 3681 to 5041
+YL_ML_GL_42 folds
+Le Gros Oeil raises 14684 to 19725 and is all-in
+Rectale calls 14484 and is all-in
+*** TURN *** [Ts 5h 5s][Kh]
+*** RIVER *** [Ts 5h 5s Kh][3d]
+*** SHOW DOWN ***
+Rectale shows [2s Ks] (Two pairs : Kings and 5)
+Le Gros Oeil shows [Kc Kd] (Full of Kings and 5)
+Le Gros Oeil collected 42310 from pot
+*** SUMMARY ***
+Total pot 42310 | No rake
+Board: [Ts 5h 5s Kh 3d]
+Seat 4: Le Gros Oeil showed [Kc Kd] and won 42310 with Full of Kings and 5
+Seat 6: Rectale (button) showed [2s Ks] and lost with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 33 - HandId: #2574740998831734888-2-1670763288 - Holdem no limit (25/100/200) - 2022/12/11 12:54:48 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (17090, 2.25€ bounty)
+Seat 2: Roule-Zun1 (19775, 2.25€ bounty)
+Seat 3: Braquage95 (22143, 2.25€ bounty)
+Seat 4: Le Gros Oeil (42310, 3.37€ bounty)
+Seat 5: HulkSkyWalk (19975, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Roule-Zun1 posts ante 25
+Braquage95 posts ante 25
+YL_ML_GL_42 posts ante 25
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts ante 25
+Roule-Zun1 posts small blind 100
+Braquage95 posts big blind 200
+Dealt to YL_ML_GL_42 [9s Ad]
+*** PRE-FLOP *** 
+Le Gros Oeil folds
+HulkSkyWalk folds
+YL_ML_GL_42 raises 400 to 600
+Roule-Zun1 folds
+Braquage95 calls 400
+*** FLOP *** [7d Jh 3h]
+Braquage95 checks
+YL_ML_GL_42 bets 926
+Braquage95 folds
+YL_ML_GL_42 collected 2351 from pot
+*** SUMMARY ***
+Total pot 2351 | No rake
+Board: [7d Jh 3h]
+Seat 1: YL_ML_GL_42 (button) won 2351
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-3-1670763663 - Holdem no limit (25/100/200) - 2022/12/11 13:01:03 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (17890, 2.25€ bounty)
+Seat 2: Roule-Zun1 (19650, 2.25€ bounty)
+Seat 3: Braquage95 (21518, 2.25€ bounty)
+Seat 4: Le Gros Oeil (42285, 3.37€ bounty)
+Seat 5: HulkSkyWalk (19950, 2.25€ bounty)
+Seat 6: K.Benzema49 (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Braquage95 posts ante 25
+Le Gros Oeil posts ante 25
+YL_ML_GL_42 posts ante 25
+Roule-Zun1 posts ante 25
+HulkSkyWalk posts ante 25
+K.Benzema49 posts ante 25
+Braquage95 posts small blind 100
+Le Gros Oeil posts big blind 200
+Dealt to YL_ML_GL_42 [5d 9c]
+*** PRE-FLOP *** 
+HulkSkyWalk folds
+K.Benzema49 folds
+YL_ML_GL_42 folds
+Roule-Zun1 folds
+Braquage95 folds
+Le Gros Oeil collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 4: Le Gros Oeil (big blind) won 450
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-4-1670763694 - Holdem no limit (25/100/200) - 2022/12/11 13:01:34 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (17865, 2.25€ bounty)
+Seat 2: Roule-Zun1 (19625, 2.25€ bounty)
+Seat 3: Braquage95 (21393, 2.25€ bounty)
+Seat 4: Le Gros Oeil (42510, 3.37€ bounty)
+Seat 5: HulkSkyWalk (19925, 2.25€ bounty)
+Seat 6: KKdansQQ69 (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts ante 25
+YL_ML_GL_42 posts ante 25
+Roule-Zun1 posts ante 25
+Braquage95 posts ante 25
+KKdansQQ69 posts ante 25
+Le Gros Oeil posts small blind 100
+HulkSkyWalk posts big blind 200
+Dealt to YL_ML_GL_42 [8d 8s]
+*** PRE-FLOP *** 
+KKdansQQ69 raises 400 to 600
+YL_ML_GL_42 calls 600
+Roule-Zun1 folds
+Braquage95 folds
+Le Gros Oeil calls 500
+HulkSkyWalk folds
+*** FLOP *** [2d 5h Td]
+Le Gros Oeil checks
+KKdansQQ69 bets 753
+YL_ML_GL_42 raises 3656 to 4409
+Le Gros Oeil folds
+KKdansQQ69 folds
+YL_ML_GL_42 collected 7312 from pot
+*** SUMMARY ***
+Total pot 7312 | No rake
+Board: [2d 5h Td]
+Seat 1: YL_ML_GL_42 won 7312
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-5-1670763736 - Holdem no limit (25/100/200) - 2022/12/11 13:02:16 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (20143, 2.25€ bounty)
+Seat 2: Roule-Zun1 (19600, 2.25€ bounty)
+Seat 3: Braquage95 (21368, 2.25€ bounty)
+Seat 4: Le Gros Oeil (41885, 3.37€ bounty)
+Seat 5: HulkSkyWalk (19700, 2.25€ bounty)
+Seat 6: KKdansQQ69 (18622, 2.25€ bounty)
+*** ANTE/BLINDS ***
+HulkSkyWalk posts ante 25
+KKdansQQ69 posts ante 25
+YL_ML_GL_42 posts ante 25
+Roule-Zun1 posts ante 25
+Braquage95 posts ante 25
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts small blind 100
+KKdansQQ69 posts big blind 200
+Dealt to YL_ML_GL_42 [7s 6s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Roule-Zun1 raises 200 to 400
+Braquage95 folds
+Le Gros Oeil folds
+HulkSkyWalk folds
+KKdansQQ69 calls 200
+*** FLOP *** [6c 2c Ah]
+KKdansQQ69 checks
+Roule-Zun1 checks
+*** TURN *** [6c 2c Ah][Th]
+KKdansQQ69 bets 525
+Roule-Zun1 raises 525 to 1050
+KKdansQQ69 calls 525
+*** RIVER *** [6c 2c Ah Th][5c]
+KKdansQQ69 checks
+Roule-Zun1 bets 2048
+KKdansQQ69 folds
+Roule-Zun1 collected 5198 from pot
+*** SUMMARY ***
+Total pot 5198 | No rake
+Board: [6c 2c Ah Th 5c]
+Seat 2: Roule-Zun1 won 5198
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-6-1670763783 - Holdem no limit (25/100/200) - 2022/12/11 13:03:03 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (20118, 2.25€ bounty)
+Seat 2: Roule-Zun1 (21275, 2.25€ bounty)
+Seat 3: Braquage95 (21343, 2.25€ bounty)
+Seat 4: Le Gros Oeil (41860, 3.37€ bounty)
+Seat 5: HulkSkyWalk (19575, 2.25€ bounty)
+Seat 6: KKdansQQ69 (17147, 2.25€ bounty)
+*** ANTE/BLINDS ***
+KKdansQQ69 posts ante 25
+YL_ML_GL_42 posts ante 25
+Roule-Zun1 posts ante 25
+Braquage95 posts ante 25
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts ante 25
+KKdansQQ69 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [2c Th]
+*** PRE-FLOP *** 
+Roule-Zun1 folds
+Braquage95 folds
+Le Gros Oeil raises 250 to 450
+HulkSkyWalk folds
+KKdansQQ69 calls 350
+YL_ML_GL_42 folds
+*** FLOP *** [Ts 5d Qs]
+KKdansQQ69 checks
+Le Gros Oeil bets 813
+KKdansQQ69 folds
+Le Gros Oeil collected 2063 from pot
+*** SUMMARY ***
+Total pot 2063 | No rake
+Board: [Ts 5d Qs]
+Seat 4: Le Gros Oeil won 2063
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-7-1670763821 - Holdem no limit (25/100/200) - 2022/12/11 13:03:41 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (19893, 2.25€ bounty)
+Seat 2: Roule-Zun1 (21250, 2.25€ bounty)
+Seat 3: Braquage95 (21318, 2.25€ bounty)
+Seat 4: Le Gros Oeil (42635, 3.37€ bounty)
+Seat 5: HulkSkyWalk (19550, 2.25€ bounty)
+Seat 6: KKdansQQ69 (16672, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Roule-Zun1 posts ante 25
+Braquage95 posts ante 25
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts ante 25
+KKdansQQ69 posts ante 25
+YL_ML_GL_42 posts small blind 100
+Roule-Zun1 posts big blind 200
+Dealt to YL_ML_GL_42 [9d Kd]
+*** PRE-FLOP *** 
+Braquage95 folds
+Le Gros Oeil raises 250 to 450
+HulkSkyWalk calls 450
+KKdansQQ69 folds
+YL_ML_GL_42 calls 350
+Roule-Zun1 folds
+*** FLOP *** [5s 4s Ad]
+YL_ML_GL_42 checks
+Le Gros Oeil bets 850
+HulkSkyWalk folds
+YL_ML_GL_42 folds
+Le Gros Oeil collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Board: [5s 4s Ad]
+Seat 4: Le Gros Oeil won 2550
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-8-1670763889 - Holdem no limit (25/100/200) - 2022/12/11 13:04:49 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (19418, 2.25€ bounty)
+Seat 2: Roule-Zun1 (21025, 2.25€ bounty)
+Seat 3: Braquage95 (21293, 2.25€ bounty)
+Seat 4: Le Gros Oeil (43860, 3.37€ bounty)
+Seat 5: HulkSkyWalk (19075, 2.25€ bounty)
+Seat 6: KKdansQQ69 (16647, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Roule-Zun1 posts ante 25
+Braquage95 posts ante 25
+YL_ML_GL_42 posts ante 25
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts ante 25
+KKdansQQ69 posts ante 25
+Roule-Zun1 posts small blind 100
+Braquage95 posts big blind 200
+Dealt to YL_ML_GL_42 [5c 6h]
+*** PRE-FLOP *** 
+Le Gros Oeil folds
+HulkSkyWalk folds
+KKdansQQ69 folds
+YL_ML_GL_42 folds
+Roule-Zun1 folds
+Braquage95 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 3: Braquage95 (big blind) won 450
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-9-1670763921 - Holdem no limit (25/100/200) - 2022/12/11 13:05:21 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (19393, 2.25€ bounty)
+Seat 2: Roule-Zun1 (20900, 2.25€ bounty)
+Seat 3: Braquage95 (21518, 2.25€ bounty)
+Seat 4: Le Gros Oeil (43835, 3.37€ bounty)
+Seat 5: HulkSkyWalk (19050, 2.25€ bounty)
+Seat 6: KKdansQQ69 (16622, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Braquage95 posts ante 25
+Le Gros Oeil posts ante 25
+YL_ML_GL_42 posts ante 25
+Roule-Zun1 posts ante 25
+HulkSkyWalk posts ante 25
+KKdansQQ69 posts ante 25
+Braquage95 posts small blind 100
+Le Gros Oeil posts big blind 200
+Dealt to YL_ML_GL_42 [4s 2h]
+*** PRE-FLOP *** 
+HulkSkyWalk raises 300 to 500
+KKdansQQ69 folds
+YL_ML_GL_42 folds
+Roule-Zun1 folds
+Braquage95 folds
+Le Gros Oeil calls 300
+*** FLOP *** [Ah 6s 3c]
+Le Gros Oeil checks
+HulkSkyWalk bets 438
+Le Gros Oeil folds
+HulkSkyWalk collected 1688 from pot
+*** SUMMARY ***
+Total pot 1688 | No rake
+Board: [Ah 6s 3c]
+Seat 5: HulkSkyWalk won 1688
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-10-1670763949 - Holdem no limit (25/100/200) - 2022/12/11 13:05:49 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (19368, 2.25€ bounty)
+Seat 2: Roule-Zun1 (20875, 2.25€ bounty)
+Seat 3: Braquage95 (21393, 2.25€ bounty)
+Seat 4: Le Gros Oeil (43310, 3.37€ bounty)
+Seat 5: HulkSkyWalk (19775, 2.25€ bounty)
+Seat 6: KKdansQQ69 (16597, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts ante 25
+YL_ML_GL_42 posts ante 25
+Roule-Zun1 posts ante 25
+Braquage95 posts ante 25
+KKdansQQ69 posts ante 25
+Le Gros Oeil posts small blind 100
+HulkSkyWalk posts big blind 200
+Dealt to YL_ML_GL_42 [8h 3c]
+*** PRE-FLOP *** 
+KKdansQQ69 folds
+YL_ML_GL_42 folds
+Roule-Zun1 calls 200
+Braquage95 folds
+Le Gros Oeil calls 100
+HulkSkyWalk checks
+*** FLOP *** [Ah Kc 5d]
+Le Gros Oeil checks
+HulkSkyWalk checks
+Roule-Zun1 bets 263
+Le Gros Oeil calls 263
+HulkSkyWalk calls 263
+*** TURN *** [Ah Kc 5d][Js]
+Le Gros Oeil checks
+HulkSkyWalk checks
+Roule-Zun1 checks
+*** RIVER *** [Ah Kc 5d Js][Jh]
+Le Gros Oeil bets 1231
+HulkSkyWalk folds
+Roule-Zun1 folds
+Le Gros Oeil collected 2770 from pot
+*** SUMMARY ***
+Total pot 2770 | No rake
+Board: [Ah Kc 5d Js Jh]
+Seat 4: Le Gros Oeil (small blind) won 2770
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-11-1670764021 - Holdem no limit (25/100/200) - 2022/12/11 13:07:01 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (19343, 2.25€ bounty)
+Seat 2: Roule-Zun1 (20387, 2.25€ bounty)
+Seat 3: Braquage95 (21368, 2.25€ bounty)
+Seat 4: Le Gros Oeil (44361, 3.37€ bounty)
+Seat 5: HulkSkyWalk (19287, 2.25€ bounty)
+Seat 6: KKdansQQ69 (16572, 2.25€ bounty)
+*** ANTE/BLINDS ***
+HulkSkyWalk posts ante 25
+KKdansQQ69 posts ante 25
+YL_ML_GL_42 posts ante 25
+Roule-Zun1 posts ante 25
+Braquage95 posts ante 25
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts small blind 100
+KKdansQQ69 posts big blind 200
+Dealt to YL_ML_GL_42 [8h Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Roule-Zun1 folds
+Braquage95 folds
+Le Gros Oeil folds
+HulkSkyWalk raises 300 to 500
+KKdansQQ69 calls 300
+*** FLOP *** [5h 7c 9h]
+HulkSkyWalk bets 748
+KKdansQQ69 calls 748
+*** TURN *** [5h 7c 9h][5s]
+HulkSkyWalk bets 926
+KKdansQQ69 calls 926
+*** RIVER *** [5h 7c 9h 5s][Ks]
+HulkSkyWalk bets 1574
+KKdansQQ69 folds
+HulkSkyWalk collected 6072 from pot
+*** SUMMARY ***
+Total pot 6072 | No rake
+Board: [5h 7c 9h 5s Ks]
+Seat 5: HulkSkyWalk (small blind) won 6072
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-12-1670764054 - Holdem no limit (25/100/200) - 2022/12/11 13:07:34 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (19318, 2.25€ bounty)
+Seat 2: Roule-Zun1 (20362, 2.25€ bounty)
+Seat 3: Braquage95 (21343, 2.25€ bounty)
+Seat 4: Le Gros Oeil (44336, 3.37€ bounty)
+Seat 5: HulkSkyWalk (21586, 2.25€ bounty)
+Seat 6: KKdansQQ69 (14373, 2.25€ bounty)
+*** ANTE/BLINDS ***
+KKdansQQ69 posts ante 25
+YL_ML_GL_42 posts ante 25
+Roule-Zun1 posts ante 25
+Braquage95 posts ante 25
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts ante 25
+KKdansQQ69 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [3d Th]
+*** PRE-FLOP *** 
+Roule-Zun1 folds
+Braquage95 calls 200
+Le Gros Oeil folds
+HulkSkyWalk folds
+KKdansQQ69 folds
+YL_ML_GL_42 checks
+*** FLOP *** [Ks Js 4c]
+YL_ML_GL_42 checks
+Braquage95 checks
+*** TURN *** [Ks Js 4c][Kh]
+YL_ML_GL_42 checks
+Braquage95 checks
+*** RIVER *** [Ks Js 4c Kh][2h]
+YL_ML_GL_42 checks
+Braquage95 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [3d Th] (One pair : Kings)
+Braquage95 shows [2d Ad] (Two pairs : Kings and 2)
+Braquage95 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Ks Js 4c Kh 2h]
+Seat 1: YL_ML_GL_42 (big blind) showed [3d Th] and lost with One pair : Kings
+Seat 3: Braquage95 showed [2d Ad] and won 650 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-13-1670764097 - Holdem no limit (25/100/200) - 2022/12/11 13:08:17 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (19093, 2.25€ bounty)
+Seat 2: Roule-Zun1 (20337, 2.25€ bounty)
+Seat 3: Braquage95 (21768, 2.25€ bounty)
+Seat 4: Le Gros Oeil (44311, 3.37€ bounty)
+Seat 5: HulkSkyWalk (21561, 2.25€ bounty)
+Seat 6: KKdansQQ69 (14248, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Roule-Zun1 posts ante 25
+Braquage95 posts ante 25
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts ante 25
+KKdansQQ69 posts ante 25
+YL_ML_GL_42 posts small blind 100
+Roule-Zun1 posts big blind 200
+Dealt to YL_ML_GL_42 [Kd 2d]
+*** PRE-FLOP *** 
+Braquage95 calls 200
+Le Gros Oeil folds
+HulkSkyWalk calls 200
+KKdansQQ69 folds
+YL_ML_GL_42 calls 100
+Roule-Zun1 raises 400 to 600
+Braquage95 calls 400
+HulkSkyWalk calls 400
+YL_ML_GL_42 calls 400
+*** FLOP *** [7h Th 3h]
+YL_ML_GL_42 checks
+Roule-Zun1 bets 1658
+Braquage95 folds
+HulkSkyWalk calls 1658
+YL_ML_GL_42 folds
+*** TURN *** [7h Th 3h][9s]
+Roule-Zun1 bets 18054 and is all-in
+HulkSkyWalk calls 18054
+*** RIVER *** [7h Th 3h 9s][4c]
+*** SHOW DOWN ***
+Roule-Zun1 shows [Qh As] (High card : Ace)
+HulkSkyWalk shows [3d Td] (Two pairs : Tens and 3)
+HulkSkyWalk collected 41974 from pot
+*** SUMMARY ***
+Total pot 41974 | No rake
+Board: [7h Th 3h 9s 4c]
+Seat 2: Roule-Zun1 (big blind) showed [Qh As] and lost with High card : Ace
+Seat 5: HulkSkyWalk showed [3d Td] and won 41974 with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-14-1670764177 - Holdem no limit (25/100/200) - 2022/12/11 13:09:37 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (18468, 2.25€ bounty)
+Seat 3: Braquage95 (21143, 2.25€ bounty)
+Seat 4: Le Gros Oeil (44286, 3.37€ bounty)
+Seat 5: HulkSkyWalk (43198, 3.37€ bounty)
+Seat 6: KKdansQQ69 (14223, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Braquage95 posts ante 25
+YL_ML_GL_42 posts ante 25
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts ante 25
+KKdansQQ69 posts ante 25
+Braquage95 posts big blind 200
+Dealt to YL_ML_GL_42 [2s 5c]
+*** PRE-FLOP *** 
+Le Gros Oeil calls 200
+HulkSkyWalk folds
+KKdansQQ69 folds
+YL_ML_GL_42 folds
+Braquage95 checks
+*** FLOP *** [7c 4d Kh]
+Braquage95 checks
+Le Gros Oeil bets 341
+Braquage95 folds
+Le Gros Oeil collected 866 from pot
+*** SUMMARY ***
+Total pot 866 | No rake
+Board: [7c 4d Kh]
+Seat 4: Le Gros Oeil won 866
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-15-1670764220 - Holdem no limit (25/100/200) - 2022/12/11 13:10:20 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (18443, 2.25€ bounty)
+Seat 2: badishMTT (20000, 2.25€ bounty)
+Seat 3: Braquage95 (20918, 2.25€ bounty)
+Seat 4: Le Gros Oeil (44586, 3.37€ bounty)
+Seat 5: HulkSkyWalk (43173, 3.37€ bounty)
+Seat 6: KKdansQQ69 (14198, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Braquage95 posts ante 25
+Le Gros Oeil posts ante 25
+YL_ML_GL_42 posts ante 25
+HulkSkyWalk posts ante 25
+KKdansQQ69 posts ante 25
+Braquage95 posts small blind 100
+Le Gros Oeil posts big blind 200
+Dealt to YL_ML_GL_42 [Td 9h]
+*** PRE-FLOP *** 
+HulkSkyWalk folds
+KKdansQQ69 folds
+YL_ML_GL_42 folds
+Braquage95 folds
+Le Gros Oeil collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 4: Le Gros Oeil (big blind) won 425
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-16-1670764257 - Holdem no limit (25/100/200) - 2022/12/11 13:10:57 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (18418, 2.25€ bounty)
+Seat 2: badishMTT (20000, 2.25€ bounty)
+Seat 3: Braquage95 (20793, 2.25€ bounty)
+Seat 4: Le Gros Oeil (44786, 3.37€ bounty)
+Seat 5: HulkSkyWalk (43148, 3.37€ bounty)
+Seat 6: KKdansQQ69 (14173, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts ante 25
+YL_ML_GL_42 posts ante 25
+badishMTT posts ante 25
+Braquage95 posts ante 25
+KKdansQQ69 posts ante 25
+Le Gros Oeil posts small blind 100
+HulkSkyWalk posts big blind 200
+Dealt to YL_ML_GL_42 [5s 4s]
+*** PRE-FLOP *** 
+KKdansQQ69 folds
+YL_ML_GL_42 folds
+badishMTT raises 300 to 500
+Braquage95 calls 500
+Le Gros Oeil folds
+HulkSkyWalk raises 750 to 1250
+badishMTT folds
+Braquage95 calls 750
+*** FLOP *** [8d 6h 4d]
+HulkSkyWalk bets 1138
+Braquage95 calls 1138
+*** TURN *** [8d 6h 4d][5c]
+HulkSkyWalk bets 1934
+Braquage95 calls 1934
+*** RIVER *** [8d 6h 4d 5c][3c]
+HulkSkyWalk bets 1842
+Braquage95 raises 14604 to 16446 and is all-in
+HulkSkyWalk folds
+Braquage95 collected 27682 from pot
+*** SUMMARY ***
+Total pot 27682 | No rake
+Board: [8d 6h 4d 5c 3c]
+Seat 3: Braquage95 (button) won 27682
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-17-1670764360 - Holdem no limit (25/100/200) - 2022/12/11 13:12:40 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (18393, 2.25€ bounty)
+Seat 2: badishMTT (19475, 2.25€ bounty)
+Seat 3: Braquage95 (27682, 2.25€ bounty)
+Seat 4: Le Gros Oeil (44661, 3.37€ bounty)
+Seat 5: HulkSkyWalk (36959, 3.37€ bounty)
+Seat 6: KKdansQQ69 (14148, 2.25€ bounty)
+*** ANTE/BLINDS ***
+HulkSkyWalk posts ante 25
+KKdansQQ69 posts ante 25
+YL_ML_GL_42 posts ante 25
+badishMTT posts ante 25
+Braquage95 posts ante 25
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts small blind 100
+KKdansQQ69 posts big blind 200
+Dealt to YL_ML_GL_42 [Js 9h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+badishMTT folds
+Braquage95 folds
+Le Gros Oeil raises 250 to 450
+HulkSkyWalk folds
+KKdansQQ69 folds
+Le Gros Oeil collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 4: Le Gros Oeil (button) won 900
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-18-1670764382 - Holdem no limit (25/100/200) - 2022/12/11 13:13:02 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (18368, 2.25€ bounty)
+Seat 2: badishMTT (19450, 2.25€ bounty)
+Seat 3: Braquage95 (27657, 2.25€ bounty)
+Seat 4: Le Gros Oeil (45086, 3.37€ bounty)
+Seat 5: HulkSkyWalk (36834, 3.37€ bounty)
+Seat 6: KKdansQQ69 (13923, 2.25€ bounty)
+*** ANTE/BLINDS ***
+KKdansQQ69 posts ante 25
+YL_ML_GL_42 posts ante 25
+badishMTT posts ante 25
+Braquage95 posts ante 25
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts ante 25
+KKdansQQ69 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Ks Kc]
+*** PRE-FLOP *** 
+badishMTT raises 300 to 500
+Braquage95 folds
+Le Gros Oeil folds
+HulkSkyWalk folds
+KKdansQQ69 calls 400
+YL_ML_GL_42 calls 300
+*** FLOP *** [4d 8c Qs]
+KKdansQQ69 checks
+YL_ML_GL_42 checks
+badishMTT checks
+*** TURN *** [4d 8c Qs][As]
+KKdansQQ69 checks
+YL_ML_GL_42 checks
+badishMTT checks
+*** RIVER *** [4d 8c Qs As][7d]
+KKdansQQ69 checks
+YL_ML_GL_42 bets 1320
+badishMTT folds
+KKdansQQ69 folds
+YL_ML_GL_42 collected 2970 from pot
+*** SUMMARY ***
+Total pot 2970 | No rake
+Board: [4d 8c Qs As 7d]
+Seat 1: YL_ML_GL_42 (big blind) won 2970
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-19-1670764440 - Holdem no limit (25/100/200) - 2022/12/11 13:14:00 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (19493, 2.25€ bounty)
+Seat 2: badishMTT (18925, 2.25€ bounty)
+Seat 3: Braquage95 (27632, 2.25€ bounty)
+Seat 4: Le Gros Oeil (45061, 3.37€ bounty)
+Seat 5: HulkSkyWalk (36809, 3.37€ bounty)
+Seat 6: KKdansQQ69 (13398, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+badishMTT posts ante 25
+Braquage95 posts ante 25
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts ante 25
+KKdansQQ69 posts ante 25
+YL_ML_GL_42 posts small blind 100
+badishMTT posts big blind 200
+Dealt to YL_ML_GL_42 [4c 5h]
+*** PRE-FLOP *** 
+Braquage95 calls 200
+Le Gros Oeil calls 200
+HulkSkyWalk calls 200
+KKdansQQ69 folds
+YL_ML_GL_42 folds
+badishMTT checks
+*** FLOP *** [3h Th 2s]
+badishMTT checks
+Braquage95 checks
+Le Gros Oeil checks
+HulkSkyWalk bets 683
+badishMTT folds
+Braquage95 folds
+Le Gros Oeil calls 683
+*** TURN *** [3h Th 2s][4h]
+Le Gros Oeil checks
+HulkSkyWalk checks
+*** RIVER *** [3h Th 2s 4h][Ts]
+Le Gros Oeil checks
+HulkSkyWalk bets 846
+Le Gros Oeil calls 846
+*** SHOW DOWN ***
+Le Gros Oeil shows [Js Ah] (One pair : Tens)
+HulkSkyWalk shows [As 2d] (Two pairs : Tens and 2)
+HulkSkyWalk collected 4108 from pot
+*** SUMMARY ***
+Total pot 4108 | No rake
+Board: [3h Th 2s 4h Ts]
+Seat 4: Le Gros Oeil showed [Js Ah] and lost with One pair : Tens
+Seat 5: HulkSkyWalk showed [As 2d] and won 4108 with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-20-1670764630 - Holdem no limit (25/100/200) - 2022/12/11 13:17:10 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (19368, 2.25€ bounty)
+Seat 2: badishMTT (18700, 2.25€ bounty)
+Seat 3: Braquage95 (27407, 2.25€ bounty)
+Seat 4: Le Gros Oeil (43307, 3.37€ bounty)
+Seat 5: HulkSkyWalk (39163, 3.37€ bounty)
+Seat 6: KKdansQQ69 (13373, 2.25€ bounty)
+*** ANTE/BLINDS ***
+badishMTT posts ante 25
+Braquage95 posts ante 25
+YL_ML_GL_42 posts ante 25
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts ante 25
+KKdansQQ69 posts ante 25
+badishMTT posts small blind 100
+Braquage95 posts big blind 200
+Dealt to YL_ML_GL_42 [Ks 9c]
+*** PRE-FLOP *** 
+Le Gros Oeil folds
+HulkSkyWalk folds
+KKdansQQ69 raises 400 to 600
+YL_ML_GL_42 folds
+badishMTT folds
+Braquage95 calls 400
+*** FLOP *** [Qc 7c 6h]
+Braquage95 checks
+KKdansQQ69 bets 725
+Braquage95 folds
+KKdansQQ69 collected 2175 from pot
+*** SUMMARY ***
+Total pot 2175 | No rake
+Board: [Qc 7c 6h]
+Seat 6: KKdansQQ69 won 2175
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-21-1670764686 - Holdem no limit (25/100/200) - 2022/12/11 13:18:06 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (19343, 2.25€ bounty)
+Seat 2: badishMTT (18575, 2.25€ bounty)
+Seat 3: Braquage95 (26782, 2.25€ bounty)
+Seat 4: Le Gros Oeil (43282, 3.37€ bounty)
+Seat 5: HulkSkyWalk (39138, 3.37€ bounty)
+Seat 6: KKdansQQ69 (14198, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Braquage95 posts ante 25
+Le Gros Oeil posts ante 25
+YL_ML_GL_42 posts ante 25
+badishMTT posts ante 25
+HulkSkyWalk posts ante 25
+KKdansQQ69 posts ante 25
+Braquage95 posts small blind 100
+Le Gros Oeil posts big blind 200
+Dealt to YL_ML_GL_42 [Ts 2c]
+*** PRE-FLOP *** 
+HulkSkyWalk raises 300 to 500
+KKdansQQ69 folds
+YL_ML_GL_42 folds
+badishMTT calls 500
+Braquage95 calls 400
+Le Gros Oeil calls 300
+*** FLOP *** [3s 4s 5h]
+Braquage95 bets 200
+Le Gros Oeil raises 1588 to 1788
+HulkSkyWalk folds
+badishMTT calls 1788
+Braquage95 folds
+*** TURN *** [3s 4s 5h][7s]
+Le Gros Oeil checks
+badishMTT bets 2963
+Le Gros Oeil raises 4445 to 7408
+badishMTT calls 4445
+*** RIVER *** [3s 4s 5h 7s][9d]
+Le Gros Oeil checks
+badishMTT bets 8854 and is all-in
+Le Gros Oeil calls 8854
+*** SHOW DOWN ***
+badishMTT shows [Jh As] (High card : Ace)
+Le Gros Oeil shows [Ad 6s] (Straight 7 high)
+Le Gros Oeil collected 38450 from pot
+*** SUMMARY ***
+Total pot 38450 | No rake
+Board: [3s 4s 5h 7s 9d]
+Seat 2: badishMTT (button) showed [Jh As] and lost with High card : Ace
+Seat 4: Le Gros Oeil (big blind) showed [Ad 6s] and won 38450 with Straight 7 high
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2574740998831734888-22-1670764821 - Holdem no limit (25/100/200) - 2022/12/11 13:20:21 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (19318, 2.25€ bounty)
+Seat 3: Braquage95 (26057, 2.25€ bounty)
+Seat 4: Le Gros Oeil (63157, 4.49€ bounty)
+Seat 5: HulkSkyWalk (38613, 3.37€ bounty)
+Seat 6: KKdansQQ69 (14173, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Le Gros Oeil posts ante 25
+HulkSkyWalk posts ante 25
+YL_ML_GL_42 posts ante 25
+Braquage95 posts ante 25
+KKdansQQ69 posts ante 25
+Le Gros Oeil posts small blind 100
+HulkSkyWalk posts big blind 200
+Dealt to YL_ML_GL_42 [Qs 9c]
+*** PRE-FLOP *** 
+KKdansQQ69 folds
+YL_ML_GL_42 folds
+Braquage95 folds
+Le Gros Oeil raises 500 to 700
+HulkSkyWalk calls 500
+*** FLOP *** [5d 7h 8d]
+Le Gros Oeil bets 1525
+HulkSkyWalk calls 1525
+*** TURN *** [5d 7h 8d][6h]
+Le Gros Oeil checks
+HulkSkyWalk checks
+*** RIVER *** [5d 7h 8d 6h][7d]
+Le Gros Oeil bets 3860
+HulkSkyWalk folds
+Le Gros Oeil collected 8435 from pot
+*** SUMMARY ***
+Total pot 8435 | No rake
+Board: [5d 7h 8d 6h 7d]
+Seat 4: Le Gros Oeil (small blind) won 8435
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2574740998831734888-23-1670764897 - Holdem no limit (30/125/250) - 2022/12/11 13:21:37 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (19293, 2.25€ bounty)
+Seat 2: Pokerdu11e (20000, 2.25€ bounty)
+Seat 3: Braquage95 (26032, 2.25€ bounty)
+Seat 4: Le Gros Oeil (65482, 4.49€ bounty)
+Seat 5: HulkSkyWalk (36363, 3.37€ bounty)
+Seat 6: KKdansQQ69 (14148, 2.25€ bounty)
+*** ANTE/BLINDS ***
+HulkSkyWalk posts ante 30
+KKdansQQ69 posts ante 30
+YL_ML_GL_42 posts ante 30
+Pokerdu11e posts ante 30
+Braquage95 posts ante 30
+Le Gros Oeil posts ante 30
+HulkSkyWalk posts small blind 125
+KKdansQQ69 posts big blind 250
+Dealt to YL_ML_GL_42 [8d 7c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Pokerdu11e folds
+Braquage95 folds
+Le Gros Oeil folds
+HulkSkyWalk raises 375 to 625
+KKdansQQ69 folds
+HulkSkyWalk collected 1055 from pot
+*** SUMMARY ***
+Total pot 1055 | No rake
+Seat 5: HulkSkyWalk (small blind) won 1055
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2574740998831734888-24-1670764924 - Holdem no limit (30/125/250) - 2022/12/11 13:22:04 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (19263, 2.25€ bounty)
+Seat 2: Pokerdu11e (19970, 2.25€ bounty)
+Seat 3: Braquage95 (26002, 2.25€ bounty)
+Seat 4: Le Gros Oeil (65452, 4.49€ bounty)
+Seat 5: HulkSkyWalk (36763, 3.37€ bounty)
+Seat 6: KKdansQQ69 (13868, 2.25€ bounty)
+*** ANTE/BLINDS ***
+KKdansQQ69 posts ante 30
+YL_ML_GL_42 posts ante 30
+Pokerdu11e posts ante 30
+Braquage95 posts ante 30
+Le Gros Oeil posts ante 30
+HulkSkyWalk posts ante 30
+KKdansQQ69 posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [5h 8h]
+*** PRE-FLOP *** 
+Pokerdu11e folds
+Braquage95 folds
+Le Gros Oeil folds
+HulkSkyWalk calls 250
+KKdansQQ69 folds
+YL_ML_GL_42 checks
+*** FLOP *** [Kd Qd Td]
+YL_ML_GL_42 checks
+HulkSkyWalk checks
+*** TURN *** [Kd Qd Td][7c]
+YL_ML_GL_42 checks
+HulkSkyWalk bets 523
+YL_ML_GL_42 folds
+HulkSkyWalk collected 1328 from pot
+*** SUMMARY ***
+Total pot 1328 | No rake
+Board: [Kd Qd Td 7c]
+Seat 5: HulkSkyWalk (button) won 1328
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2574740998831734888-25-1670764994 - Holdem no limit (30/125/250) - 2022/12/11 13:23:14 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (18983, 2.25€ bounty)
+Seat 2: Pokerdu11e (19940, 2.25€ bounty)
+Seat 3: Braquage95 (25972, 2.25€ bounty)
+Seat 4: Le Gros Oeil (65422, 4.49€ bounty)
+Seat 5: HulkSkyWalk (37288, 3.37€ bounty)
+Seat 6: KKdansQQ69 (13713, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 30
+Pokerdu11e posts ante 30
+Braquage95 posts ante 30
+Le Gros Oeil posts ante 30
+HulkSkyWalk posts ante 30
+KKdansQQ69 posts ante 30
+YL_ML_GL_42 posts small blind 125
+Pokerdu11e posts big blind 250
+Dealt to YL_ML_GL_42 [5d 3s]
+*** PRE-FLOP *** 
+Braquage95 calls 250
+Le Gros Oeil folds
+HulkSkyWalk folds
+KKdansQQ69 raises 500 to 750
+YL_ML_GL_42 folds
+Pokerdu11e calls 500
+Braquage95 calls 500
+*** FLOP *** [4d 6c Ad]
+Pokerdu11e checks
+Braquage95 bets 250
+KKdansQQ69 folds
+Pokerdu11e folds
+Braquage95 collected 2805 from pot
+*** SUMMARY ***
+Total pot 2805 | No rake
+Board: [4d 6c Ad]
+Seat 3: Braquage95 won 2805
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2574740998831734888-26-1670765059 - Holdem no limit (30/125/250) - 2022/12/11 13:24:19 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (18828, 2.25€ bounty)
+Seat 2: Pokerdu11e (19160, 2.25€ bounty)
+Seat 3: Braquage95 (27747, 2.25€ bounty)
+Seat 4: Le Gros Oeil (65392, 4.49€ bounty)
+Seat 5: HulkSkyWalk (37258, 3.37€ bounty)
+Seat 6: KKdansQQ69 (12933, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Pokerdu11e posts ante 30
+Braquage95 posts ante 30
+YL_ML_GL_42 posts ante 30
+Le Gros Oeil posts ante 30
+HulkSkyWalk posts ante 30
+KKdansQQ69 posts ante 30
+Pokerdu11e posts small blind 125
+Braquage95 posts big blind 250
+Dealt to YL_ML_GL_42 [8c Tc]
+*** PRE-FLOP *** 
+Le Gros Oeil folds
+HulkSkyWalk calls 250
+KKdansQQ69 raises 250 to 500
+YL_ML_GL_42 folds
+Pokerdu11e calls 375
+Braquage95 calls 250
+HulkSkyWalk calls 250
+*** FLOP *** [9c 7h 9h]
+Pokerdu11e checks
+Braquage95 checks
+HulkSkyWalk bets 763
+KKdansQQ69 folds
+Pokerdu11e folds
+Braquage95 folds
+HulkSkyWalk collected 2943 from pot
+*** SUMMARY ***
+Total pot 2943 | No rake
+Board: [9c 7h 9h]
+Seat 5: HulkSkyWalk won 2943
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2574740998831734888-27-1670765137 - Holdem no limit (30/125/250) - 2022/12/11 13:25:37 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (18798, 2.25€ bounty)
+Seat 2: Pokerdu11e (18630, 2.25€ bounty)
+Seat 3: Braquage95 (27217, 2.25€ bounty)
+Seat 4: Le Gros Oeil (65362, 4.49€ bounty)
+Seat 5: HulkSkyWalk (38908, 3.37€ bounty)
+Seat 6: KKdansQQ69 (12403, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Braquage95 posts ante 30
+Le Gros Oeil posts ante 30
+YL_ML_GL_42 posts ante 30
+Pokerdu11e posts ante 30
+HulkSkyWalk posts ante 30
+KKdansQQ69 posts ante 30
+Braquage95 posts small blind 125
+Le Gros Oeil posts big blind 250
+Dealt to YL_ML_GL_42 [Qh 9s]
+*** PRE-FLOP *** 
+HulkSkyWalk calls 250
+KKdansQQ69 folds
+YL_ML_GL_42 folds
+Pokerdu11e folds
+Braquage95 folds
+Le Gros Oeil checks
+*** FLOP *** [Ts 5h Qd]
+Le Gros Oeil checks
+HulkSkyWalk checks
+*** TURN *** [Ts 5h Qd][Td]
+Le Gros Oeil checks
+HulkSkyWalk checks
+*** RIVER *** [Ts 5h Qd Td][4c]
+Le Gros Oeil checks
+HulkSkyWalk checks
+*** SHOW DOWN ***
+Le Gros Oeil shows [3c Ks] (One pair : Tens)
+HulkSkyWalk shows [Ad 8s] (One pair : Tens)
+HulkSkyWalk collected 805 from pot
+*** SUMMARY ***
+Total pot 805 | No rake
+Board: [Ts 5h Qd Td 4c]
+Seat 4: Le Gros Oeil (big blind) showed [3c Ks] and lost with One pair : Tens
+Seat 5: HulkSkyWalk showed [Ad 8s] and won 805 with One pair : Tens
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2574740998831734888-28-1670765192 - Holdem no limit (30/125/250) - 2022/12/11 13:26:32 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (18768, 2.25€ bounty)
+Seat 2: Pokerdu11e (18600, 2.25€ bounty)
+Seat 3: Braquage95 (27062, 2.25€ bounty)
+Seat 4: Le Gros Oeil (65082, 4.49€ bounty)
+Seat 5: HulkSkyWalk (39433, 3.37€ bounty)
+Seat 6: KKdansQQ69 (12373, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Le Gros Oeil posts ante 30
+HulkSkyWalk posts ante 30
+YL_ML_GL_42 posts ante 30
+Pokerdu11e posts ante 30
+Braquage95 posts ante 30
+KKdansQQ69 posts ante 30
+Le Gros Oeil posts small blind 125
+HulkSkyWalk posts big blind 250
+Dealt to YL_ML_GL_42 [Js 7d]
+*** PRE-FLOP *** 
+KKdansQQ69 folds
+YL_ML_GL_42 folds
+Pokerdu11e calls 250
+Braquage95 folds
+Le Gros Oeil folds
+HulkSkyWalk checks
+*** FLOP *** [2h Kc 8s]
+HulkSkyWalk checks
+Pokerdu11e checks
+*** TURN *** [2h Kc 8s][2s]
+HulkSkyWalk checks
+Pokerdu11e checks
+*** RIVER *** [2h Kc 8s 2s][4h]
+HulkSkyWalk checks
+Pokerdu11e checks
+*** SHOW DOWN ***
+Pokerdu11e shows [5d 6d] (One pair : 2)
+HulkSkyWalk shows [Qh 5s] (One pair : 2)
+HulkSkyWalk collected 805 from pot
+*** SUMMARY ***
+Total pot 805 | No rake
+Board: [2h Kc 8s 2s 4h]
+Seat 2: Pokerdu11e showed [5d 6d] and lost with One pair : 2
+Seat 5: HulkSkyWalk (big blind) showed [Qh 5s] and won 805 with One pair : 2
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2574740998831734888-29-1670765250 - Holdem no limit (35/150/300) - 2022/12/11 13:27:30 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (18738, 2.25€ bounty)
+Seat 2: Pokerdu11e (18320, 2.25€ bounty)
+Seat 3: Braquage95 (27032, 2.25€ bounty)
+Seat 4: Le Gros Oeil (64927, 4.49€ bounty)
+Seat 5: HulkSkyWalk (39958, 3.37€ bounty)
+Seat 6: KKdansQQ69 (12343, 2.25€ bounty)
+*** ANTE/BLINDS ***
+HulkSkyWalk posts ante 35
+KKdansQQ69 posts ante 35
+YL_ML_GL_42 posts ante 35
+Pokerdu11e posts ante 35
+Braquage95 posts ante 35
+Le Gros Oeil posts ante 35
+HulkSkyWalk posts small blind 150
+KKdansQQ69 posts big blind 300
+Dealt to YL_ML_GL_42 [2c 7h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Pokerdu11e calls 300
+Braquage95 folds
+Le Gros Oeil folds
+HulkSkyWalk folds
+KKdansQQ69 raises 12008 to 12308 and is all-in
+Pokerdu11e folds
+KKdansQQ69 collected 12968 from pot
+*** SUMMARY ***
+Total pot 12968 | No rake
+Seat 6: KKdansQQ69 (big blind) won 12968
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2574740998831734888-30-1670765276 - Holdem no limit (35/150/300) - 2022/12/11 13:27:56 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (18703, 2.25€ bounty)
+Seat 2: Pokerdu11e (17985, 2.25€ bounty)
+Seat 3: Braquage95 (26997, 2.25€ bounty)
+Seat 4: Le Gros Oeil (64892, 4.49€ bounty)
+Seat 5: HulkSkyWalk (39773, 3.37€ bounty)
+Seat 6: KKdansQQ69 (12968, 2.25€ bounty)
+*** ANTE/BLINDS ***
+KKdansQQ69 posts ante 35
+YL_ML_GL_42 posts ante 35
+Pokerdu11e posts ante 35
+Braquage95 posts ante 35
+Le Gros Oeil posts ante 35
+HulkSkyWalk posts ante 35
+KKdansQQ69 posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [6d Qh]
+*** PRE-FLOP *** 
+Pokerdu11e calls 300
+Braquage95 calls 300
+Le Gros Oeil folds
+HulkSkyWalk calls 300
+KKdansQQ69 folds
+YL_ML_GL_42 checks
+*** FLOP *** [9s 9c 9h]
+YL_ML_GL_42 checks
+Pokerdu11e checks
+Braquage95 checks
+HulkSkyWalk checks
+*** TURN *** [9s 9c 9h][Kd]
+YL_ML_GL_42 checks
+Pokerdu11e bets 1560
+Braquage95 folds
+HulkSkyWalk calls 1560
+YL_ML_GL_42 folds
+*** RIVER *** [9s 9c 9h Kd][8c]
+Pokerdu11e bets 4680
+HulkSkyWalk calls 4680
+*** SHOW DOWN ***
+HulkSkyWalk shows [Ks 6s] (Full of 9 and Kings)
+Pokerdu11e shows [Ac Ad] (Full of 9 and Aces)
+Pokerdu11e collected 14040 from pot
+*** SUMMARY ***
+Total pot 14040 | No rake
+Board: [9s 9c 9h Kd 8c]
+Seat 2: Pokerdu11e showed [Ac Ad] and won 14040 with Full of 9 and Aces
+Seat 5: HulkSkyWalk (button) showed [Ks 6s] and lost with Full of 9 and Kings
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2574740998831734888-31-1670765342 - Holdem no limit (35/150/300) - 2022/12/11 13:29:02 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (18368, 2.25€ bounty)
+Seat 2: Pokerdu11e (25450, 2.25€ bounty)
+Seat 3: Braquage95 (26662, 2.25€ bounty)
+Seat 4: Le Gros Oeil (64857, 4.49€ bounty)
+Seat 5: HulkSkyWalk (33198, 3.37€ bounty)
+Seat 6: KKdansQQ69 (12783, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+Pokerdu11e posts ante 35
+Braquage95 posts ante 35
+Le Gros Oeil posts ante 35
+HulkSkyWalk posts ante 35
+KKdansQQ69 posts ante 35
+YL_ML_GL_42 posts small blind 150
+Pokerdu11e posts big blind 300
+Dealt to YL_ML_GL_42 [2c 8h]
+*** PRE-FLOP *** 
+Braquage95 calls 300
+Le Gros Oeil calls 300
+HulkSkyWalk calls 300
+KKdansQQ69 calls 300
+YL_ML_GL_42 folds
+Pokerdu11e checks
+*** FLOP *** [7d 3d 8d]
+Pokerdu11e checks
+Braquage95 checks
+Le Gros Oeil checks
+HulkSkyWalk bets 651
+KKdansQQ69 folds
+Pokerdu11e folds
+Braquage95 folds
+Le Gros Oeil folds
+HulkSkyWalk collected 2511 from pot
+*** SUMMARY ***
+Total pot 2511 | No rake
+Board: [7d 3d 8d]
+Seat 5: HulkSkyWalk won 2511
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2574740998831734888-32-1670765443 - Holdem no limit (35/150/300) - 2022/12/11 13:30:43 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (18183, 2.25€ bounty)
+Seat 2: Pokerdu11e (25115, 2.25€ bounty)
+Seat 3: Braquage95 (26327, 2.25€ bounty)
+Seat 4: Le Gros Oeil (64522, 4.49€ bounty)
+Seat 5: HulkSkyWalk (34723, 3.37€ bounty)
+Seat 6: KKdansQQ69 (12448, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Pokerdu11e posts ante 35
+Braquage95 posts ante 35
+YL_ML_GL_42 posts ante 35
+Le Gros Oeil posts ante 35
+HulkSkyWalk posts ante 35
+KKdansQQ69 posts ante 35
+Pokerdu11e posts small blind 150
+Braquage95 posts big blind 300
+Dealt to YL_ML_GL_42 [4d 3h]
+*** PRE-FLOP *** 
+Le Gros Oeil folds
+HulkSkyWalk folds
+KKdansQQ69 folds
+YL_ML_GL_42 folds
+Pokerdu11e calls 150
+Braquage95 checks
+*** FLOP *** [8h Td 9d]
+Pokerdu11e bets 527
+Braquage95 calls 527
+*** TURN *** [8h Td 9d][5s]
+Pokerdu11e bets 652
+Braquage95 calls 652
+*** RIVER *** [8h Td 9d 5s][Ac]
+Pokerdu11e checks
+Braquage95 bets 24813 and is all-in
+Pokerdu11e folds
+Braquage95 collected 27981 from pot
+*** SUMMARY ***
+Total pot 27981 | No rake
+Board: [8h Td 9d 5s Ac]
+Seat 3: Braquage95 (big blind) won 27981
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2574740998831734888-33-1670765517 - Holdem no limit (35/150/300) - 2022/12/11 13:31:57 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (18148, 2.25€ bounty)
+Seat 2: Pokerdu11e (23601, 2.25€ bounty)
+Seat 3: Braquage95 (27981, 2.25€ bounty)
+Seat 4: Le Gros Oeil (64487, 4.49€ bounty)
+Seat 5: HulkSkyWalk (34688, 3.37€ bounty)
+Seat 6: KKdansQQ69 (12413, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Braquage95 posts ante 35
+Le Gros Oeil posts ante 35
+YL_ML_GL_42 posts ante 35
+Pokerdu11e posts ante 35
+HulkSkyWalk posts ante 35
+KKdansQQ69 posts ante 35
+Braquage95 posts small blind 150
+Le Gros Oeil posts big blind 300
+Dealt to YL_ML_GL_42 [6s 3d]
+*** PRE-FLOP *** 
+HulkSkyWalk calls 300
+KKdansQQ69 folds
+YL_ML_GL_42 folds
+Pokerdu11e calls 300
+Braquage95 calls 150
+Le Gros Oeil checks
+*** FLOP *** [7d Ad 4c]
+Braquage95 checks
+Le Gros Oeil checks
+HulkSkyWalk checks
+Pokerdu11e checks
+*** TURN *** [7d Ad 4c][9h]
+Braquage95 checks
+Le Gros Oeil checks
+HulkSkyWalk checks
+Pokerdu11e checks
+*** RIVER *** [7d Ad 4c 9h][Kc]
+Braquage95 checks
+Le Gros Oeil checks
+HulkSkyWalk checks
+Pokerdu11e checks
+*** SHOW DOWN ***
+Braquage95 shows [8s 8c] (One pair : 8)
+Le Gros Oeil shows [2c 5c] (High card : Ace)
+HulkSkyWalk shows [Js 2s] (High card : Ace)
+Pokerdu11e shows [Kh 8d] (One pair : Kings)
+Pokerdu11e collected 1410 from pot
+*** SUMMARY ***
+Total pot 1410 | No rake
+Board: [7d Ad 4c 9h Kc]
+Seat 2: Pokerdu11e (button) showed [Kh 8d] and won 1410 with One pair : Kings
+Seat 3: Braquage95 (small blind) showed [8s 8c] and lost with One pair : 8
+Seat 4: Le Gros Oeil (big blind) showed [2c 5c] and lost with High card : Ace
+Seat 5: HulkSkyWalk showed [Js 2s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2574740998831734888-34-1670765623 - Holdem no limit (40/175/350) - 2022/12/11 13:33:43 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (18113, 2.25€ bounty)
+Seat 2: Pokerdu11e (24676, 2.25€ bounty)
+Seat 3: Braquage95 (27646, 2.25€ bounty)
+Seat 4: Le Gros Oeil (64152, 4.49€ bounty)
+Seat 5: HulkSkyWalk (34353, 3.37€ bounty)
+Seat 6: KKdansQQ69 (12378, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Le Gros Oeil posts ante 40
+HulkSkyWalk posts ante 40
+YL_ML_GL_42 posts ante 40
+Pokerdu11e posts ante 40
+Braquage95 posts ante 40
+KKdansQQ69 posts ante 40
+Le Gros Oeil posts small blind 175
+HulkSkyWalk posts big blind 350
+Dealt to YL_ML_GL_42 [9c 5h]
+*** PRE-FLOP *** 
+KKdansQQ69 raises 525 to 875
+YL_ML_GL_42 folds
+Pokerdu11e calls 875
+Braquage95 folds
+Le Gros Oeil folds
+HulkSkyWalk calls 525
+*** FLOP *** [Th Ad 7s]
+HulkSkyWalk bets 1064
+KKdansQQ69 folds
+Pokerdu11e folds
+HulkSkyWalk collected 4104 from pot
+*** SUMMARY ***
+Total pot 4104 | No rake
+Board: [Th Ad 7s]
+Seat 5: HulkSkyWalk (big blind) won 4104
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2574740998831734888-35-1670765655 - Holdem no limit (40/175/350) - 2022/12/11 13:34:15 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (18073, 2.25€ bounty)
+Seat 2: Pokerdu11e (23761, 2.25€ bounty)
+Seat 3: Braquage95 (27606, 2.25€ bounty)
+Seat 4: Le Gros Oeil (63937, 4.49€ bounty)
+Seat 5: HulkSkyWalk (36478, 3.37€ bounty)
+Seat 6: KKdansQQ69 (11463, 2.25€ bounty)
+*** ANTE/BLINDS ***
+HulkSkyWalk posts ante 40
+KKdansQQ69 posts ante 40
+YL_ML_GL_42 posts ante 40
+Pokerdu11e posts ante 40
+Braquage95 posts ante 40
+Le Gros Oeil posts ante 40
+HulkSkyWalk posts small blind 175
+KKdansQQ69 posts big blind 350
+Dealt to YL_ML_GL_42 [Ac 9s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Pokerdu11e folds
+Braquage95 folds
+Le Gros Oeil folds
+HulkSkyWalk raises 525 to 875
+KKdansQQ69 calls 525
+*** FLOP *** [5s Qd Ad]
+HulkSkyWalk bets 1294
+KKdansQQ69 folds
+HulkSkyWalk collected 3284 from pot
+*** SUMMARY ***
+Total pot 3284 | No rake
+Board: [5s Qd Ad]
+Seat 5: HulkSkyWalk (small blind) won 3284
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2574740998831734888-36-1670765710 - Holdem no limit (40/175/350) - 2022/12/11 13:35:10 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (18033, 2.25€ bounty)
+Seat 2: Pokerdu11e (23721, 2.25€ bounty)
+Seat 3: Braquage95 (27566, 2.25€ bounty)
+Seat 4: Le Gros Oeil (63897, 4.49€ bounty)
+Seat 5: HulkSkyWalk (37553, 3.37€ bounty)
+Seat 6: KKdansQQ69 (10548, 2.25€ bounty)
+*** ANTE/BLINDS ***
+KKdansQQ69 posts ante 40
+YL_ML_GL_42 posts ante 40
+Pokerdu11e posts ante 40
+Braquage95 posts ante 40
+Le Gros Oeil posts ante 40
+HulkSkyWalk posts ante 40
+KKdansQQ69 posts small blind 175
+YL_ML_GL_42 posts big blind 350
+Dealt to YL_ML_GL_42 [3s 9h]
+*** PRE-FLOP *** 
+Pokerdu11e folds
+Braquage95 folds
+Le Gros Oeil folds
+HulkSkyWalk folds
+KKdansQQ69 calls 175
+YL_ML_GL_42 checks
+*** FLOP *** [9c 7c Kc]
+KKdansQQ69 bets 350
+YL_ML_GL_42 folds
+KKdansQQ69 collected 1290 from pot
+*** SUMMARY ***
+Total pot 1290 | No rake
+Board: [9c 7c Kc]
+Seat 6: KKdansQQ69 (small blind) won 1290
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2574740998831734888-37-1670765751 - Holdem no limit (40/175/350) - 2022/12/11 13:35:51 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (17643, 2.25€ bounty)
+Seat 2: Pokerdu11e (23681, 2.25€ bounty)
+Seat 3: Braquage95 (27526, 2.25€ bounty)
+Seat 4: Le Gros Oeil (63857, 4.49€ bounty)
+Seat 5: HulkSkyWalk (37513, 3.37€ bounty)
+Seat 6: KKdansQQ69 (11098, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 40
+Pokerdu11e posts ante 40
+Braquage95 posts ante 40
+Le Gros Oeil posts ante 40
+HulkSkyWalk posts ante 40
+KKdansQQ69 posts ante 40
+YL_ML_GL_42 posts small blind 175
+Pokerdu11e posts big blind 350
+Dealt to YL_ML_GL_42 [2c 7h]
+*** PRE-FLOP *** 
+Braquage95 calls 350
+Le Gros Oeil folds
+HulkSkyWalk folds
+KKdansQQ69 calls 350
+YL_ML_GL_42 folds
+Pokerdu11e checks
+*** FLOP *** [Td 4h Ac]
+Pokerdu11e checks
+Braquage95 checks
+KKdansQQ69 checks
+*** TURN *** [Td 4h Ac][Qh]
+Pokerdu11e bets 952
+Braquage95 calls 952
+KKdansQQ69 folds
+*** RIVER *** [Td 4h Ac Qh][3h]
+Pokerdu11e bets 3369
+Braquage95 folds
+Pokerdu11e collected 6738 from pot
+*** SUMMARY ***
+Total pot 6738 | No rake
+Board: [Td 4h Ac Qh 3h]
+Seat 2: Pokerdu11e (big blind) won 6738
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2574740998831734888-38-1670765849 - Holdem no limit (40/175/350) - 2022/12/11 13:37:29 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (17428, 2.25€ bounty)
+Seat 2: Pokerdu11e (25708, 2.25€ bounty)
+Seat 3: Braquage95 (26184, 2.25€ bounty)
+Seat 4: Le Gros Oeil (63817, 4.49€ bounty)
+Seat 5: HulkSkyWalk (37473, 3.37€ bounty)
+Seat 6: KKdansQQ69 (10708, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Pokerdu11e posts ante 40
+Braquage95 posts ante 40
+YL_ML_GL_42 posts ante 40
+Le Gros Oeil posts ante 40
+HulkSkyWalk posts ante 40
+KKdansQQ69 posts ante 40
+Pokerdu11e posts small blind 175
+Braquage95 posts big blind 350
+Dealt to YL_ML_GL_42 [2d 6s]
+*** PRE-FLOP *** 
+Le Gros Oeil folds
+HulkSkyWalk folds
+KKdansQQ69 folds
+YL_ML_GL_42 folds
+Pokerdu11e folds
+Braquage95 collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 3: Braquage95 (big blind) won 765
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2574740998831734888-39-1670765869 - Holdem no limit (40/175/350) - 2022/12/11 13:37:49 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (17388, 2.25€ bounty)
+Seat 2: Pokerdu11e (25493, 2.25€ bounty)
+Seat 3: Braquage95 (26559, 2.25€ bounty)
+Seat 4: Le Gros Oeil (63777, 4.49€ bounty)
+Seat 5: HulkSkyWalk (37433, 3.37€ bounty)
+Seat 6: KKdansQQ69 (10668, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Braquage95 posts ante 40
+Le Gros Oeil posts ante 40
+YL_ML_GL_42 posts ante 40
+Pokerdu11e posts ante 40
+HulkSkyWalk posts ante 40
+KKdansQQ69 posts ante 40
+Braquage95 posts small blind 175
+Le Gros Oeil posts big blind 350
+Dealt to YL_ML_GL_42 [6h 8h]
+*** PRE-FLOP *** 
+HulkSkyWalk folds
+KKdansQQ69 folds
+YL_ML_GL_42 folds
+Pokerdu11e folds
+Braquage95 folds
+Le Gros Oeil collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 4: Le Gros Oeil (big blind) won 765
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2574740998831734888-40-1670765904 - Holdem no limit (40/175/350) - 2022/12/11 13:38:24 UTC
+Table: 'DESPERADO(599478604)#0103' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (17348, 2.25€ bounty)
+Seat 2: Pokerdu11e (25453, 2.25€ bounty)
+Seat 3: Braquage95 (26344, 2.25€ bounty)
+Seat 4: Le Gros Oeil (64152, 4.49€ bounty)
+Seat 5: HulkSkyWalk (37393, 3.37€ bounty)
+Seat 6: KKdansQQ69 (10628, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Le Gros Oeil posts ante 40
+HulkSkyWalk posts ante 40
+YL_ML_GL_42 posts ante 40
+Pokerdu11e posts ante 40
+Braquage95 posts ante 40
+KKdansQQ69 posts ante 40
+Le Gros Oeil posts small blind 175
+HulkSkyWalk posts big blind 350
+Dealt to YL_ML_GL_42 [Kc Ks]
+*** PRE-FLOP *** 
+KKdansQQ69 folds
+YL_ML_GL_42 raises 700 to 1050
+Pokerdu11e calls 1050
+Braquage95 calls 1050
+Le Gros Oeil folds
+HulkSkyWalk calls 700
+*** FLOP *** [6d 8d 2d]
+HulkSkyWalk bets 1615
+YL_ML_GL_42 raises 14643 to 16258 and is all-in
+Pokerdu11e folds
+Braquage95 folds
+HulkSkyWalk calls 14643
+*** TURN *** [6d 8d 2d][Qc]
+*** RIVER *** [6d 8d 2d Qc][9c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kc Ks] (One pair : Kings)
+HulkSkyWalk shows [8s 8h] (Trips of 8)
+HulkSkyWalk collected 37131 from pot
+*** SUMMARY ***
+Total pot 37131 | No rake
+Board: [6d 8d 2d Qc 9c]
+Seat 1: YL_ML_GL_42 showed [Kc Ks] and lost with One pair : Kings
+Seat 5: HulkSkyWalk (big blind) showed [8s 8h] and won 37131 with Trips of 8
+
+

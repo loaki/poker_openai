@@ -1,0 +1,562 @@
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2583421149211788038-1-1668972631 - Holdem no limit (25/100/200) - 2022/11/20 19:30:31 UTC
+Table: 'SUNDAY KO SURPRISE 100K(601499609)#0773' 6-max (real money) Seat #5 is the button
+Seat 1: -SakAil- (20000, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (20000, 4.50€ bounty)
+Seat 3: bAAbouille (20000, 4.50€ bounty)
+Seat 4: Carolingien1 (20000, 4.50€ bounty)
+Seat 5: Hall-in8z (20000, 4.50€ bounty)
+Seat 6: L1comprisVL (20000, 4.50€ bounty)
+*** ANTE/BLINDS ***
+L1comprisVL posts ante 25
+-SakAil- posts ante 25
+YL_ML_GL_42 posts ante 25
+bAAbouille posts ante 25
+Carolingien1 posts ante 25
+Hall-in8z posts ante 25
+L1comprisVL posts small blind 100
+-SakAil- posts big blind 200
+Dealt to YL_ML_GL_42 [7d 4h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+bAAbouille folds
+Carolingien1 raises 400 to 600
+Hall-in8z folds
+L1comprisVL calls 500
+-SakAil- calls 400
+*** FLOP *** [9d 6h 7c]
+L1comprisVL checks
+-SakAil- bets 1268
+Carolingien1 folds
+L1comprisVL folds
+-SakAil- collected 3218 from pot
+*** SUMMARY ***
+Total pot 3218 | No rake
+Board: [9d 6h 7c]
+Seat 1: -SakAil- (big blind) won 3218
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2583421149211788038-2-1668972658 - Holdem no limit (25/100/200) - 2022/11/20 19:30:58 UTC
+Table: 'SUNDAY KO SURPRISE 100K(601499609)#0773' 6-max (real money) Seat #6 is the button
+Seat 1: -SakAil- (21325, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19975, 4.50€ bounty)
+Seat 3: bAAbouille (19975, 4.50€ bounty)
+Seat 4: Carolingien1 (19375, 4.50€ bounty)
+Seat 5: Hall-in8z (19975, 4.50€ bounty)
+Seat 6: L1comprisVL (19375, 4.50€ bounty)
+*** ANTE/BLINDS ***
+-SakAil- posts ante 25
+YL_ML_GL_42 posts ante 25
+bAAbouille posts ante 25
+Carolingien1 posts ante 25
+Hall-in8z posts ante 25
+L1comprisVL posts ante 25
+-SakAil- posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [7h 9c]
+*** PRE-FLOP *** 
+bAAbouille folds
+Carolingien1 raises 300 to 500
+Hall-in8z folds
+L1comprisVL calls 500
+-SakAil- folds
+YL_ML_GL_42 folds
+*** FLOP *** [Td 4h 8s]
+Carolingien1 bets 508
+L1comprisVL calls 508
+*** TURN *** [Td 4h 8s][Qc]
+Carolingien1 bets 863
+L1comprisVL calls 863
+*** RIVER *** [Td 4h 8s Qc][5d]
+Carolingien1 bets 2096
+L1comprisVL folds
+Carolingien1 collected 6288 from pot
+*** SUMMARY ***
+Total pot 6288 | No rake
+Board: [Td 4h 8s Qc 5d]
+Seat 4: Carolingien1 won 6288
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2583421149211788038-3-1668972719 - Holdem no limit (25/100/200) - 2022/11/20 19:31:59 UTC
+Table: 'SUNDAY KO SURPRISE 100K(601499609)#0773' 6-max (real money) Seat #1 is the button
+Seat 1: -SakAil- (21200, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19750, 4.50€ bounty)
+Seat 3: bAAbouille (19950, 4.50€ bounty)
+Seat 4: Carolingien1 (21671, 4.50€ bounty)
+Seat 5: Hall-in8z (19950, 4.50€ bounty)
+Seat 6: L1comprisVL (17479, 4.50€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+bAAbouille posts ante 25
+-SakAil- posts ante 25
+Carolingien1 posts ante 25
+Hall-in8z posts ante 25
+L1comprisVL posts ante 25
+YL_ML_GL_42 posts small blind 100
+bAAbouille posts big blind 200
+Dealt to YL_ML_GL_42 [4c 7s]
+*** PRE-FLOP *** 
+Carolingien1 folds
+Hall-in8z folds
+L1comprisVL folds
+-SakAil- calls 200
+YL_ML_GL_42 folds
+bAAbouille checks
+*** FLOP *** [9h Kh 8c]
+bAAbouille checks
+-SakAil- checks
+*** TURN *** [9h Kh 8c][9d]
+bAAbouille checks
+-SakAil- checks
+*** RIVER *** [9h Kh 8c 9d][8h]
+bAAbouille checks
+-SakAil- bets 423
+bAAbouille calls 423
+*** SHOW DOWN ***
+bAAbouille shows [Tc 5d] (Two pairs : 9 and 8)
+-SakAil- shows [As 3c] (Two pairs : 9 and 8)
+-SakAil- collected 1496 from pot
+*** SUMMARY ***
+Total pot 1496 | No rake
+Board: [9h Kh 8c 9d 8h]
+Seat 1: -SakAil- (button) showed [As 3c] and won 1496 with Two pairs : 9 and 8
+Seat 3: bAAbouille (big blind) showed [Tc 5d] and lost with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2583421149211788038-4-1668972799 - Holdem no limit (25/100/200) - 2022/11/20 19:33:19 UTC
+Table: 'SUNDAY KO SURPRISE 100K(601499609)#0773' 6-max (real money) Seat #2 is the button
+Seat 1: -SakAil- (22048, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19625, 4.50€ bounty)
+Seat 3: bAAbouille (19302, 4.50€ bounty)
+Seat 4: Carolingien1 (21646, 4.50€ bounty)
+Seat 5: Hall-in8z (19925, 4.50€ bounty)
+Seat 6: L1comprisVL (17454, 4.50€ bounty)
+*** ANTE/BLINDS ***
+bAAbouille posts ante 25
+Carolingien1 posts ante 25
+-SakAil- posts ante 25
+YL_ML_GL_42 posts ante 25
+Hall-in8z posts ante 25
+L1comprisVL posts ante 25
+bAAbouille posts small blind 100
+Carolingien1 posts big blind 200
+Dealt to YL_ML_GL_42 [Td 9d]
+*** PRE-FLOP *** 
+Hall-in8z raises 200 to 400
+L1comprisVL folds
+-SakAil- folds
+YL_ML_GL_42 calls 400
+bAAbouille folds
+Carolingien1 calls 200
+*** FLOP *** [Kd Jh 5c]
+Carolingien1 checks
+Hall-in8z checks
+YL_ML_GL_42 checks
+*** TURN *** [Kd Jh 5c][Ac]
+Carolingien1 bets 508
+Hall-in8z calls 508
+YL_ML_GL_42 folds
+*** RIVER *** [Kd Jh 5c Ac][8s]
+Carolingien1 bets 1603
+Hall-in8z calls 1603
+*** SHOW DOWN ***
+Hall-in8z shows [Ah 9c] (One pair : Aces)
+Carolingien1 shows [5s Ad] (Two pairs : Aces and 5)
+Carolingien1 collected 5672 from pot
+*** SUMMARY ***
+Total pot 5672 | No rake
+Board: [Kd Jh 5c Ac 8s]
+Seat 4: Carolingien1 (big blind) showed [5s Ad] and won 5672 with Two pairs : Aces and 5
+Seat 5: Hall-in8z showed [Ah 9c] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2583421149211788038-5-1668972860 - Holdem no limit (25/100/200) - 2022/11/20 19:34:20 UTC
+Table: 'SUNDAY KO SURPRISE 100K(601499609)#0773' 6-max (real money) Seat #3 is the button
+Seat 1: -SakAil- (22023, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19200, 4.50€ bounty)
+Seat 3: bAAbouille (19177, 4.50€ bounty)
+Seat 4: Carolingien1 (24782, 4.50€ bounty)
+Seat 5: Hall-in8z (17389, 4.50€ bounty)
+Seat 6: L1comprisVL (17429, 4.50€ bounty)
+*** ANTE/BLINDS ***
+Carolingien1 posts ante 25
+Hall-in8z posts ante 25
+-SakAil- posts ante 25
+YL_ML_GL_42 posts ante 25
+bAAbouille posts ante 25
+L1comprisVL posts ante 25
+Carolingien1 posts small blind 100
+Hall-in8z posts big blind 200
+Dealt to YL_ML_GL_42 [4s Qc]
+*** PRE-FLOP *** 
+L1comprisVL folds
+-SakAil- folds
+YL_ML_GL_42 folds
+bAAbouille folds
+Carolingien1 folds
+Hall-in8z collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 5: Hall-in8z (big blind) won 450
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2583421149211788038-6-1668972886 - Holdem no limit (25/100/200) - 2022/11/20 19:34:46 UTC
+Table: 'SUNDAY KO SURPRISE 100K(601499609)#0773' 6-max (real money) Seat #4 is the button
+Seat 1: -SakAil- (21998, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19175, 4.50€ bounty)
+Seat 3: bAAbouille (19152, 4.50€ bounty)
+Seat 4: Carolingien1 (24657, 4.50€ bounty)
+Seat 5: Hall-in8z (17614, 4.50€ bounty)
+Seat 6: L1comprisVL (17404, 4.50€ bounty)
+*** ANTE/BLINDS ***
+Hall-in8z posts ante 25
+L1comprisVL posts ante 25
+-SakAil- posts ante 25
+YL_ML_GL_42 posts ante 25
+bAAbouille posts ante 25
+Carolingien1 posts ante 25
+Hall-in8z posts small blind 100
+L1comprisVL posts big blind 200
+Dealt to YL_ML_GL_42 [8s Kh]
+*** PRE-FLOP *** 
+-SakAil- folds
+YL_ML_GL_42 folds
+bAAbouille folds
+Carolingien1 raises 24432 to 24632 and is all-in
+Hall-in8z folds
+L1comprisVL folds
+Carolingien1 collected 25082 from pot
+*** SUMMARY ***
+Total pot 25082 | No rake
+Seat 4: Carolingien1 (button) won 25082
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2583421149211788038-7-1668972907 - Holdem no limit (25/100/200) - 2022/11/20 19:35:07 UTC
+Table: 'SUNDAY KO SURPRISE 100K(601499609)#0773' 6-max (real money) Seat #5 is the button
+Seat 1: -SakAil- (21973, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19150, 4.50€ bounty)
+Seat 3: bAAbouille (19127, 4.50€ bounty)
+Seat 4: Carolingien1 (25082, 4.50€ bounty)
+Seat 5: Hall-in8z (17489, 4.50€ bounty)
+Seat 6: L1comprisVL (17179, 4.50€ bounty)
+*** ANTE/BLINDS ***
+L1comprisVL posts ante 25
+-SakAil- posts ante 25
+YL_ML_GL_42 posts ante 25
+bAAbouille posts ante 25
+Carolingien1 posts ante 25
+Hall-in8z posts ante 25
+L1comprisVL posts small blind 100
+-SakAil- posts big blind 200
+Dealt to YL_ML_GL_42 [8c Th]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+bAAbouille folds
+Carolingien1 raises 200 to 400
+Hall-in8z folds
+L1comprisVL calls 300
+-SakAil- calls 200
+*** FLOP *** [Qs Ah 3c]
+L1comprisVL checks
+-SakAil- checks
+Carolingien1 checks
+*** TURN *** [Qs Ah 3c][5d]
+L1comprisVL checks
+-SakAil- checks
+Carolingien1 checks
+*** RIVER *** [Qs Ah 3c 5d][4d]
+L1comprisVL bets 1350
+-SakAil- folds
+Carolingien1 folds
+L1comprisVL collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [Qs Ah 3c 5d 4d]
+Seat 6: L1comprisVL (small blind) won 2700
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2583421149211788038-8-1668972989 - Holdem no limit (25/100/200) - 2022/11/20 19:36:29 UTC
+Table: 'SUNDAY KO SURPRISE 100K(601499609)#0773' 6-max (real money) Seat #6 is the button
+Seat 1: -SakAil- (21548, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19125, 4.50€ bounty)
+Seat 3: bAAbouille (19102, 4.50€ bounty)
+Seat 4: Carolingien1 (24657, 4.50€ bounty)
+Seat 5: Hall-in8z (17464, 4.50€ bounty)
+Seat 6: L1comprisVL (18104, 4.50€ bounty)
+*** ANTE/BLINDS ***
+-SakAil- posts ante 25
+YL_ML_GL_42 posts ante 25
+bAAbouille posts ante 25
+Carolingien1 posts ante 25
+Hall-in8z posts ante 25
+L1comprisVL posts ante 25
+-SakAil- posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [8h 2d]
+*** PRE-FLOP *** 
+bAAbouille folds
+Carolingien1 folds
+Hall-in8z folds
+L1comprisVL folds
+-SakAil- raises 300 to 500
+YL_ML_GL_42 folds
+-SakAil- collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 1: -SakAil- (small blind) won 850
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2583421149211788038-9-1668973016 - Holdem no limit (25/100/200) - 2022/11/20 19:36:56 UTC
+Table: 'SUNDAY KO SURPRISE 100K(601499609)#0773' 6-max (real money) Seat #1 is the button
+Seat 1: -SakAil- (21873, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18900, 4.50€ bounty)
+Seat 3: bAAbouille (19077, 4.50€ bounty)
+Seat 4: Carolingien1 (24632, 4.50€ bounty)
+Seat 5: Hall-in8z (17439, 4.50€ bounty)
+Seat 6: L1comprisVL (18079, 4.50€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+bAAbouille posts ante 25
+-SakAil- posts ante 25
+Carolingien1 posts ante 25
+Hall-in8z posts ante 25
+L1comprisVL posts ante 25
+YL_ML_GL_42 posts small blind 100
+bAAbouille posts big blind 200
+Dealt to YL_ML_GL_42 [Ks Ts]
+*** PRE-FLOP *** 
+Carolingien1 folds
+Hall-in8z folds
+L1comprisVL folds
+-SakAil- raises 200 to 400
+YL_ML_GL_42 raises 1290 to 1690
+bAAbouille folds
+-SakAil- calls 1290
+*** FLOP *** [8s 2c Jh]
+YL_ML_GL_42 bets 1306
+-SakAil- folds
+YL_ML_GL_42 collected 5036 from pot
+*** SUMMARY ***
+Total pot 5036 | No rake
+Board: [8s 2c Jh]
+Seat 2: YL_ML_GL_42 (small blind) won 5036
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2583421149211788038-10-1668973061 - Holdem no limit (25/100/200) - 2022/11/20 19:37:41 UTC
+Table: 'SUNDAY KO SURPRISE 100K(601499609)#0773' 6-max (real money) Seat #2 is the button
+Seat 1: -SakAil- (20158, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (20915, 4.50€ bounty)
+Seat 3: bAAbouille (18852, 4.50€ bounty)
+Seat 4: Carolingien1 (24607, 4.50€ bounty)
+Seat 5: Hall-in8z (17414, 4.50€ bounty)
+Seat 6: L1comprisVL (18054, 4.50€ bounty)
+*** ANTE/BLINDS ***
+bAAbouille posts ante 25
+Carolingien1 posts ante 25
+-SakAil- posts ante 25
+YL_ML_GL_42 posts ante 25
+Hall-in8z posts ante 25
+L1comprisVL posts ante 25
+bAAbouille posts small blind 100
+Carolingien1 posts big blind 200
+Dealt to YL_ML_GL_42 [Jh 6c]
+*** PRE-FLOP *** 
+Hall-in8z raises 250 to 450
+L1comprisVL folds
+-SakAil- folds
+YL_ML_GL_42 folds
+bAAbouille folds
+Carolingien1 folds
+Hall-in8z collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 5: Hall-in8z won 900
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2583421149211788038-11-1668973081 - Holdem no limit (25/100/200) - 2022/11/20 19:38:01 UTC
+Table: 'SUNDAY KO SURPRISE 100K(601499609)#0773' 6-max (real money) Seat #3 is the button
+Seat 1: -SakAil- (20133, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (20890, 4.50€ bounty)
+Seat 3: bAAbouille (18727, 4.50€ bounty)
+Seat 4: Carolingien1 (24382, 4.50€ bounty)
+Seat 5: Hall-in8z (17839, 4.50€ bounty)
+Seat 6: L1comprisVL (18029, 4.50€ bounty)
+*** ANTE/BLINDS ***
+Carolingien1 posts ante 25
+Hall-in8z posts ante 25
+-SakAil- posts ante 25
+YL_ML_GL_42 posts ante 25
+bAAbouille posts ante 25
+L1comprisVL posts ante 25
+Carolingien1 posts small blind 100
+Hall-in8z posts big blind 200
+Dealt to YL_ML_GL_42 [6h 6c]
+*** PRE-FLOP *** 
+L1comprisVL raises 400 to 600
+-SakAil- folds
+YL_ML_GL_42 calls 600
+bAAbouille folds
+Carolingien1 folds
+Hall-in8z folds
+*** FLOP *** [Jc 7s 8h]
+L1comprisVL bets 578
+YL_ML_GL_42 folds
+L1comprisVL collected 2228 from pot
+*** SUMMARY ***
+Total pot 2228 | No rake
+Board: [Jc 7s 8h]
+Seat 6: L1comprisVL won 2228
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2583421149211788038-12-1668973172 - Holdem no limit (25/100/200) - 2022/11/20 19:39:32 UTC
+Table: 'SUNDAY KO SURPRISE 100K(601499609)#0773' 6-max (real money) Seat #4 is the button
+Seat 1: -SakAil- (20108, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (20265, 4.50€ bounty)
+Seat 3: bAAbouille (18702, 4.50€ bounty)
+Seat 4: Carolingien1 (24257, 4.50€ bounty)
+Seat 5: Hall-in8z (17614, 4.50€ bounty)
+Seat 6: L1comprisVL (19054, 4.50€ bounty)
+*** ANTE/BLINDS ***
+Hall-in8z posts ante 25
+L1comprisVL posts ante 25
+-SakAil- posts ante 25
+YL_ML_GL_42 posts ante 25
+bAAbouille posts ante 25
+Carolingien1 posts ante 25
+Hall-in8z posts small blind 100
+L1comprisVL posts big blind 200
+Dealt to YL_ML_GL_42 [5d 6d]
+*** PRE-FLOP *** 
+-SakAil- folds
+YL_ML_GL_42 folds
+bAAbouille folds
+Carolingien1 raises 200 to 400
+Hall-in8z folds
+L1comprisVL folds
+Carolingien1 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 4: Carolingien1 (button) won 850
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2583421149211788038-13-1668973204 - Holdem no limit (25/100/200) - 2022/11/20 19:40:04 UTC
+Table: 'SUNDAY KO SURPRISE 100K(601499609)#0773' 6-max (real money) Seat #5 is the button
+Seat 1: -SakAil- (20083, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (20240, 4.50€ bounty)
+Seat 3: bAAbouille (18677, 4.50€ bounty)
+Seat 4: Carolingien1 (24682, 4.50€ bounty)
+Seat 5: Hall-in8z (17489, 4.50€ bounty)
+Seat 6: L1comprisVL (18829, 4.50€ bounty)
+*** ANTE/BLINDS ***
+L1comprisVL posts ante 25
+-SakAil- posts ante 25
+YL_ML_GL_42 posts ante 25
+bAAbouille posts ante 25
+Carolingien1 posts ante 25
+Hall-in8z posts ante 25
+L1comprisVL posts small blind 100
+-SakAil- posts big blind 200
+Dealt to YL_ML_GL_42 [Jd Qd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 250 to 450
+bAAbouille raises 1350 to 1800
+Carolingien1 folds
+Hall-in8z folds
+L1comprisVL folds
+-SakAil- folds
+YL_ML_GL_42 raises 18415 to 20215 and is all-in
+bAAbouille calls 16852 and is all-in
+*** FLOP *** [3h Ks 4d]
+*** TURN *** [3h Ks 4d][Jc]
+*** RIVER *** [3h Ks 4d Jc][Kh]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Jd Qd] (Two pairs : Kings and Jacks)
+bAAbouille shows [Kc Ac] (Trips of Kings)
+bAAbouille collected 37754 from main pot
+YL_ML_GL_42 collected 1563 from side pot 1
+*** SUMMARY ***
+Total pot 39317 | No rake
+Board: [3h Ks 4d Jc Kh]
+Seat 2: YL_ML_GL_42 showed [Jd Qd] and won 1563 with Two pairs : Kings and Jacks
+Seat 3: bAAbouille showed [Kc Ac] and won 37754 with Trips of Kings
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2583421149211788038-14-1668973280 - Holdem no limit (25/100/200) - 2022/11/20 19:41:20 UTC
+Table: 'SUNDAY KO SURPRISE 100K(601499609)#0773' 6-max (real money) Seat #6 is the button
+Seat 1: -SakAil- (19858, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (1563, 4.50€ bounty)
+Seat 3: bAAbouille (37754, 4.50€ bounty)
+Seat 4: Carolingien1 (24657, 4.50€ bounty)
+Seat 5: Hall-in8z (17464, 4.50€ bounty)
+Seat 6: L1comprisVL (18704, 4.50€ bounty)
+*** ANTE/BLINDS ***
+-SakAil- posts ante 25
+YL_ML_GL_42 posts ante 25
+bAAbouille posts ante 25
+Carolingien1 posts ante 25
+Hall-in8z posts ante 25
+L1comprisVL posts ante 25
+-SakAil- posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [8d Ah]
+*** PRE-FLOP *** 
+bAAbouille folds
+Carolingien1 folds
+Hall-in8z raises 300 to 500
+L1comprisVL folds
+-SakAil- folds
+YL_ML_GL_42 raises 1038 to 1538 and is all-in
+Hall-in8z calls 1038
+*** FLOP *** [Ac Ad 3h]
+*** TURN *** [Ac Ad 3h][6d]
+*** RIVER *** [Ac Ad 3h 6d][2d]
+*** SHOW DOWN ***
+Hall-in8z shows [Kc Ks] (Two pairs : Aces and Kings)
+YL_ML_GL_42 shows [8d Ah] (Trips of Aces)
+YL_ML_GL_42 collected 3326 from pot
+*** SUMMARY ***
+Total pot 3326 | No rake
+Board: [Ac Ad 3h 6d 2d]
+Seat 2: YL_ML_GL_42 (big blind) showed [8d Ah] and won 3326 with Trips of Aces
+Seat 5: Hall-in8z showed [Kc Ks] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "SUNDAY KO SURPRISE 100K" buyIn: 9€ + 1€ level: 1 - HandId: #2583421149211788038-15-1668973317 - Holdem no limit (25/100/200) - 2022/11/20 19:41:57 UTC
+Table: 'SUNDAY KO SURPRISE 100K(601499609)#0773' 6-max (real money) Seat #1 is the button
+Seat 1: -SakAil- (19733, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (3326, 4.50€ bounty)
+Seat 3: bAAbouille (37729, 4.50€ bounty)
+Seat 4: Carolingien1 (24632, 4.50€ bounty)
+Seat 5: Hall-in8z (15901, 4.50€ bounty)
+Seat 6: L1comprisVL (18679, 4.50€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+bAAbouille posts ante 25
+-SakAil- posts ante 25
+Carolingien1 posts ante 25
+Hall-in8z posts ante 25
+L1comprisVL posts ante 25
+YL_ML_GL_42 posts small blind 100
+bAAbouille posts big blind 200
+Dealt to YL_ML_GL_42 [9s Ah]
+*** PRE-FLOP *** 
+Carolingien1 folds
+Hall-in8z folds
+L1comprisVL folds
+-SakAil- raises 200 to 400
+YL_ML_GL_42 raises 2901 to 3301 and is all-in
+bAAbouille folds
+-SakAil- calls 2901
+*** FLOP *** [Th Qd Tc]
+*** TURN *** [Th Qd Tc][3h]
+*** RIVER *** [Th Qd Tc 3h][Ac]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9s Ah] (Two pairs : Aces and Tens)
+-SakAil- shows [Jh Kh] (Straight Ace high)
+-SakAil- collected 6952 from pot
+*** SUMMARY ***
+Total pot 6952 | No rake
+Board: [Th Qd Tc 3h Ac]
+Seat 1: -SakAil- (button) showed [Jh Kh] and won 6952 with Straight Ace high
+Seat 2: YL_ML_GL_42 (small blind) showed [9s Ah] and lost with Two pairs : Aces and Tens
+
+

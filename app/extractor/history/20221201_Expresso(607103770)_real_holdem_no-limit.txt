@@ -1,0 +1,262 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2607490837428305921-1-1669931934 - Holdem no limit (10/20) - 2022/12/01 21:58:54 UTC
+Table: 'Expresso(607103770)#0' 3-max (real money) Seat #1 is the button
+Seat 1: rafal08 (500)
+Seat 2: WinaToiKev (500)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+WinaToiKev posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Qh Kd]
+*** PRE-FLOP *** 
+rafal08 folds
+WinaToiKev calls 10
+YL_ML_GL_42 raises 40 to 60
+WinaToiKev folds
+YL_ML_GL_42 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: YL_ML_GL_42 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2607490837428305921-2-1669931952 - Holdem no limit (10/20) - 2022/12/01 21:59:12 UTC
+Table: 'Expresso(607103770)#0' 3-max (real money) Seat #2 is the button
+Seat 1: rafal08 (500)
+Seat 2: WinaToiKev (480)
+Seat 3: YL_ML_GL_42 (520)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+rafal08 posts big blind 20
+Dealt to YL_ML_GL_42 [Tc Jc]
+*** PRE-FLOP *** 
+WinaToiKev folds
+YL_ML_GL_42 raises 40 to 60
+rafal08 folds
+YL_ML_GL_42 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: YL_ML_GL_42 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2607490837428305921-3-1669931969 - Holdem no limit (10/20) - 2022/12/01 21:59:29 UTC
+Table: 'Expresso(607103770)#0' 3-max (real money) Seat #3 is the button
+Seat 1: rafal08 (480)
+Seat 2: WinaToiKev (480)
+Seat 3: YL_ML_GL_42 (540)
+*** ANTE/BLINDS ***
+rafal08 posts small blind 10
+WinaToiKev posts big blind 20
+Dealt to YL_ML_GL_42 [5s Qs]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+rafal08 folds
+WinaToiKev folds
+YL_ML_GL_42 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 3: YL_ML_GL_42 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2607490837428305921-4-1669931984 - Holdem no limit (10/20) - 2022/12/01 21:59:44 UTC
+Table: 'Expresso(607103770)#0' 3-max (real money) Seat #1 is the button
+Seat 1: rafal08 (470)
+Seat 2: WinaToiKev (460)
+Seat 3: YL_ML_GL_42 (570)
+*** ANTE/BLINDS ***
+WinaToiKev posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [As 6h]
+*** PRE-FLOP *** 
+rafal08 folds
+WinaToiKev raises 40 to 60
+YL_ML_GL_42 raises 120 to 180
+WinaToiKev folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: YL_ML_GL_42 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2607490837428305921-5-1669932012 - Holdem no limit (10/20) - 2022/12/01 22:00:12 UTC
+Table: 'Expresso(607103770)#0' 3-max (real money) Seat #2 is the button
+Seat 1: rafal08 (470)
+Seat 2: WinaToiKev (400)
+Seat 3: YL_ML_GL_42 (630)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+rafal08 posts big blind 20
+Dealt to YL_ML_GL_42 [6s 7h]
+*** PRE-FLOP *** 
+WinaToiKev folds
+YL_ML_GL_42 folds
+rafal08 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: rafal08 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2607490837428305921-6-1669932032 - Holdem no limit (15/30) - 2022/12/01 22:00:32 UTC
+Table: 'Expresso(607103770)#0' 3-max (real money) Seat #3 is the button
+Seat 1: rafal08 (480)
+Seat 2: WinaToiKev (400)
+Seat 3: YL_ML_GL_42 (620)
+*** ANTE/BLINDS ***
+rafal08 posts small blind 15
+WinaToiKev posts big blind 30
+Dealt to YL_ML_GL_42 [8h 7c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+rafal08 folds
+WinaToiKev collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: WinaToiKev (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2607490837428305921-7-1669932037 - Holdem no limit (15/30) - 2022/12/01 22:00:37 UTC
+Table: 'Expresso(607103770)#0' 3-max (real money) Seat #1 is the button
+Seat 1: rafal08 (465)
+Seat 2: WinaToiKev (415)
+Seat 3: YL_ML_GL_42 (620)
+*** ANTE/BLINDS ***
+WinaToiKev posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [6c 9h]
+*** PRE-FLOP *** 
+rafal08 folds
+WinaToiKev folds
+YL_ML_GL_42 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: YL_ML_GL_42 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2607490837428305921-8-1669932049 - Holdem no limit (15/30) - 2022/12/01 22:00:49 UTC
+Table: 'Expresso(607103770)#0' 3-max (real money) Seat #2 is the button
+Seat 1: rafal08 (465)
+Seat 2: WinaToiKev (400)
+Seat 3: YL_ML_GL_42 (635)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+rafal08 posts big blind 30
+Dealt to YL_ML_GL_42 [Qs 3d]
+*** PRE-FLOP *** 
+WinaToiKev folds
+YL_ML_GL_42 raises 60 to 90
+rafal08 calls 60
+*** FLOP *** [7d Jh Ks]
+YL_ML_GL_42 checks
+rafal08 bets 117
+YL_ML_GL_42 folds
+rafal08 collected 297 from pot
+*** SUMMARY ***
+Total pot 297 | No rake
+Board: [7d Jh Ks]
+Seat 1: rafal08 (big blind) won 297
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2607490837428305921-9-1669932063 - Holdem no limit (15/30) - 2022/12/01 22:01:03 UTC
+Table: 'Expresso(607103770)#0' 3-max (real money) Seat #3 is the button
+Seat 1: rafal08 (555)
+Seat 2: WinaToiKev (400)
+Seat 3: YL_ML_GL_42 (545)
+*** ANTE/BLINDS ***
+rafal08 posts small blind 15
+WinaToiKev posts big blind 30
+Dealt to YL_ML_GL_42 [Qc 7c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 75 to 105
+rafal08 calls 90
+WinaToiKev raises 295 to 400 and is all-in
+YL_ML_GL_42 calls 295
+rafal08 folds
+*** FLOP *** [3s 8c Kh]
+*** TURN *** [3s 8c Kh][3d]
+*** RIVER *** [3s 8c Kh 3d][Qd]
+*** SHOW DOWN ***
+WinaToiKev shows [As Th] (One pair : 3)
+YL_ML_GL_42 shows [Qc 7c] (Two pairs : Queens and 3)
+YL_ML_GL_42 collected 905 from pot
+*** SUMMARY ***
+Total pot 905 | No rake
+Board: [3s 8c Kh 3d Qd]
+Seat 2: WinaToiKev (big blind) showed [As Th] and lost with One pair : 3
+Seat 3: YL_ML_GL_42 (button) showed [Qc 7c] and won 905 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2607490837428305921-10-1669932087 - Holdem no limit (15/30) - 2022/12/01 22:01:27 UTC
+Table: 'Expresso(607103770)#0' 3-max (real money) Seat #3 is the button
+Seat 1: rafal08 (450)
+Seat 3: YL_ML_GL_42 (1050)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+rafal08 posts big blind 30
+Dealt to YL_ML_GL_42 [3c 6c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+rafal08 raises 180 to 270
+YL_ML_GL_42 folds
+rafal08 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: rafal08 (big blind) won 360
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2607490837428305921-11-1669932097 - Holdem no limit (15/30) - 2022/12/01 22:01:37 UTC
+Table: 'Expresso(607103770)#0' 3-max (real money) Seat #1 is the button
+Seat 1: rafal08 (540)
+Seat 3: YL_ML_GL_42 (960)
+*** ANTE/BLINDS ***
+rafal08 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [4s Jh]
+*** PRE-FLOP *** 
+rafal08 raises 30 to 60
+YL_ML_GL_42 calls 30
+*** FLOP *** [Jc 5d 6d]
+YL_ML_GL_42 checks
+rafal08 checks
+*** TURN *** [Jc 5d 6d][8d]
+YL_ML_GL_42 checks
+rafal08 bets 78
+YL_ML_GL_42 calls 78
+*** RIVER *** [Jc 5d 6d 8d][Th]
+YL_ML_GL_42 bets 276
+rafal08 calls 276
+*** SHOW DOWN ***
+rafal08 shows [8h 9c] (One pair : 8)
+YL_ML_GL_42 shows [4s Jh] (One pair : Jacks)
+YL_ML_GL_42 collected 828 from pot
+*** SUMMARY ***
+Total pot 828 | No rake
+Board: [Jc 5d 6d 8d Th]
+Seat 1: rafal08 (small blind) (button) showed [8h 9c] and lost with One pair : 8
+Seat 3: YL_ML_GL_42 (big blind) showed [4s Jh] and won 828 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2607490837428305921-12-1669932124 - Holdem no limit (20/40) - 2022/12/01 22:02:04 UTC
+Table: 'Expresso(607103770)#0' 3-max (real money) Seat #3 is the button
+Seat 1: rafal08 (126)
+Seat 3: YL_ML_GL_42 (1374)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+rafal08 posts big blind 40
+Dealt to YL_ML_GL_42 [2c Js]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+rafal08 calls 80
+*** FLOP *** [2d Jd 6d]
+rafal08 bets 6 and is all-in
+YL_ML_GL_42 calls 6
+*** TURN *** [2d Jd 6d][3h]
+*** RIVER *** [2d Jd 6d 3h][7s]
+*** SHOW DOWN ***
+rafal08 shows [6s 7d] (Two pairs : 7 and 6)
+YL_ML_GL_42 shows [2c Js] (Two pairs : Jacks and 2)
+YL_ML_GL_42 collected 252 from pot
+*** SUMMARY ***
+Total pot 252 | No rake
+Board: [2d Jd 6d 3h 7s]
+Seat 1: rafal08 (big blind) showed [6s 7d] and lost with Two pairs : 7 and 6
+Seat 3: YL_ML_GL_42 (small blind) (button) showed [2c Js] and won 252 with Two pairs : Jacks and 2
+
+

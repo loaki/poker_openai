@@ -1,0 +1,114 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2607499577686753281-1-1669932167 - Holdem no limit (10/20) - 2022/12/01 22:02:47 UTC
+Table: 'Expresso(607105805)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Nacio19 (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: FO_Pichichi8 (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+FO_Pichichi8 posts big blind 20
+Dealt to YL_ML_GL_42 [Kc Ts]
+*** PRE-FLOP *** 
+Nacio19 folds
+YL_ML_GL_42 raises 40 to 60
+FO_Pichichi8 calls 40
+*** FLOP *** [8d As 6h]
+YL_ML_GL_42 checks
+FO_Pichichi8 checks
+*** TURN *** [8d As 6h][Ks]
+YL_ML_GL_42 checks
+FO_Pichichi8 checks
+*** RIVER *** [8d As 6h Ks][6d]
+YL_ML_GL_42 bets 120
+FO_Pichichi8 calls 120
+*** SHOW DOWN ***
+FO_Pichichi8 shows [4c 3h] (One pair : 6)
+YL_ML_GL_42 shows [Kc Ts] (Two pairs : Kings and 6)
+YL_ML_GL_42 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [8d As 6h Ks 6d]
+Seat 2: YL_ML_GL_42 (small blind) showed [Kc Ts] and won 360 with Two pairs : Kings and 6
+Seat 3: FO_Pichichi8 (big blind) showed [4c 3h] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2607499577686753281-2-1669932195 - Holdem no limit (10/20) - 2022/12/01 22:03:15 UTC
+Table: 'Expresso(607105805)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Nacio19 (500)
+Seat 2: YL_ML_GL_42 (680)
+Seat 3: FO_Pichichi8 (320)
+*** ANTE/BLINDS ***
+FO_Pichichi8 posts small blind 10
+Nacio19 posts big blind 20
+Dealt to YL_ML_GL_42 [As 2d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+FO_Pichichi8 folds
+Nacio19 folds
+YL_ML_GL_42 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 2: YL_ML_GL_42 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2607499577686753281-3-1669932203 - Holdem no limit (10/20) - 2022/12/01 22:03:23 UTC
+Table: 'Expresso(607105805)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Nacio19 (480)
+Seat 2: YL_ML_GL_42 (710)
+Seat 3: FO_Pichichi8 (310)
+*** ANTE/BLINDS ***
+Nacio19 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [7d 9d]
+*** PRE-FLOP *** 
+FO_Pichichi8 calls 20
+Nacio19 folds
+YL_ML_GL_42 checks
+*** FLOP *** [4c Td 8d]
+YL_ML_GL_42 bets 50
+FO_Pichichi8 calls 50
+*** TURN *** [4c Td 8d][2c]
+YL_ML_GL_42 bets 150
+FO_Pichichi8 calls 150
+*** RIVER *** [4c Td 8d 2c][Kd]
+YL_ML_GL_42 bets 490 and is all-in
+FO_Pichichi8 calls 90 and is all-in
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7d 9d] (Flush King high)
+FO_Pichichi8 shows [Qd 5d] (Flush King high)
+FO_Pichichi8 collected 630 from main pot
+YL_ML_GL_42 collected 400 from side pot 1
+*** SUMMARY ***
+Total pot 1030 | No rake
+Board: [4c Td 8d 2c Kd]
+Seat 2: YL_ML_GL_42 (big blind) showed [7d 9d] and won 400 with Flush King high
+Seat 3: FO_Pichichi8 (button) showed [Qd 5d] and won 630 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2607499577686753281-4-1669932241 - Holdem no limit (10/20) - 2022/12/01 22:04:01 UTC
+Table: 'Expresso(607105805)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Nacio19 (470)
+Seat 2: YL_ML_GL_42 (400)
+Seat 3: FO_Pichichi8 (630)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+FO_Pichichi8 posts big blind 20
+Dealt to YL_ML_GL_42 [Jc 4c]
+*** PRE-FLOP *** 
+Nacio19 raises 20 to 40
+YL_ML_GL_42 raises 360 to 400 and is all-in
+FO_Pichichi8 folds
+Nacio19 raises 70 to 470 and is all-in
+*** FLOP *** [2s 7c 5h]
+*** TURN *** [2s 7c 5h][Kd]
+*** RIVER *** [2s 7c 5h Kd][Tc]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Jc 4c] (High card : King)
+Nacio19 shows [Kc Ac] (One pair : Kings)
+Nacio19 collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [2s 7c 5h Kd Tc]
+Seat 1: Nacio19 (button) showed [Kc Ac] and won 890 with One pair : Kings
+Seat 2: YL_ML_GL_42 (small blind) showed [Jc 4c] and lost with High card : King
+
+

@@ -1,0 +1,417 @@
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157086577623164-1-1670009429 - Holdem no limit (25/100/200) - 2022/12/02 19:30:29 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094740)#0123' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (20000, 1.80€ bounty)
+Seat 2: pascal falko (20000, 1.80€ bounty)
+Seat 3: -HAT TRICK- (20000, 1.80€ bounty)
+Seat 4: Funky_Play (20000, 1.80€ bounty)
+Seat 5: Pantsakou (20000, 1.80€ bounty)
+Seat 6: RiverAAin (20000, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Funky_Play posts ante 25
+Pantsakou posts ante 25
+YL_ML_GL_42 posts ante 25
+pascal falko posts ante 25
+-HAT TRICK- posts ante 25
+RiverAAin posts ante 25
+Funky_Play posts small blind 100
+Pantsakou posts big blind 200
+Dealt to YL_ML_GL_42 [Ks 9s]
+*** PRE-FLOP *** 
+RiverAAin folds
+YL_ML_GL_42 folds
+pascal falko folds
+-HAT TRICK- folds
+Funky_Play raises 550 to 750
+Pantsakou calls 550
+*** FLOP *** [3c 6d Kc]
+Funky_Play bets 578
+Pantsakou calls 578
+*** TURN *** [3c 6d Kc][3s]
+Funky_Play bets 1824
+Pantsakou calls 1824
+*** RIVER *** [3c 6d Kc 3s][2s]
+Funky_Play checks
+Pantsakou checks
+*** SHOW DOWN ***
+Funky_Play shows [8c As] (One pair : 3)
+Pantsakou shows [6c 9h] (Two pairs : 6 and 3)
+Pantsakou collected 6454 from pot
+*** SUMMARY ***
+Total pot 6454 | No rake
+Board: [3c 6d Kc 3s 2s]
+Seat 4: Funky_Play (small blind) showed [8c As] and lost with One pair : 3
+Seat 5: Pantsakou (big blind) showed [6c 9h] and won 6454 with Two pairs : 6 and 3
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157086577623164-2-1670009501 - Holdem no limit (25/100/200) - 2022/12/02 19:31:41 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094740)#0123' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (19975, 1.80€ bounty)
+Seat 2: pascal falko (19975, 1.80€ bounty)
+Seat 3: -HAT TRICK- (19975, 1.80€ bounty)
+Seat 4: Funky_Play (16823, 1.80€ bounty)
+Seat 5: Pantsakou (23277, 1.80€ bounty)
+Seat 6: RiverAAin (19975, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Pantsakou posts ante 25
+RiverAAin posts ante 25
+YL_ML_GL_42 posts ante 25
+pascal falko posts ante 25
+-HAT TRICK- posts ante 25
+Funky_Play posts ante 25
+Pantsakou posts small blind 100
+RiverAAin posts big blind 200
+Dealt to YL_ML_GL_42 [Ac 3s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+pascal falko folds
+-HAT TRICK- folds
+Funky_Play folds
+Pantsakou raises 500 to 700
+RiverAAin calls 500
+*** FLOP *** [Th Td 3d]
+Pantsakou checks
+RiverAAin bets 600
+Pantsakou calls 600
+*** TURN *** [Th Td 3d][7d]
+Pantsakou checks
+RiverAAin bets 963
+Pantsakou calls 963
+*** RIVER *** [Th Td 3d 7d][Qs]
+Pantsakou checks
+RiverAAin checks
+*** SHOW DOWN ***
+Pantsakou shows [Jh 8h] (One pair : Tens)
+RiverAAin shows [9s Js] (One pair : Tens)
+RiverAAin collected 4676 from pot
+*** SUMMARY ***
+Total pot 4676 | No rake
+Board: [Th Td 3d 7d Qs]
+Seat 5: Pantsakou (small blind) showed [Jh 8h] and lost with One pair : Tens
+Seat 6: RiverAAin (big blind) showed [9s Js] and won 4676 with One pair : Tens
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157086577623164-3-1670009620 - Holdem no limit (25/100/200) - 2022/12/02 19:33:40 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094740)#0123' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (19950, 1.80€ bounty)
+Seat 2: pascal falko (19950, 1.80€ bounty)
+Seat 3: -HAT TRICK- (19950, 1.80€ bounty)
+Seat 4: Funky_Play (16798, 1.80€ bounty)
+Seat 5: Pantsakou (20989, 1.80€ bounty)
+Seat 6: RiverAAin (22363, 1.80€ bounty)
+*** ANTE/BLINDS ***
+RiverAAin posts ante 25
+YL_ML_GL_42 posts ante 25
+pascal falko posts ante 25
+-HAT TRICK- posts ante 25
+Funky_Play posts ante 25
+Pantsakou posts ante 25
+RiverAAin posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [4d 8s]
+*** PRE-FLOP *** 
+pascal falko calls 200
+-HAT TRICK- folds
+Funky_Play raises 400 to 600
+Pantsakou folds
+RiverAAin folds
+YL_ML_GL_42 folds
+pascal falko raises 19325 to 19925 and is all-in
+Funky_Play folds
+pascal falko collected 20975 from pot
+*** SUMMARY ***
+Total pot 20975 | No rake
+Seat 2: pascal falko won 20975
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157086577623164-4-1670009686 - Holdem no limit (25/100/200) - 2022/12/02 19:34:46 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094740)#0123' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (19725, 1.80€ bounty)
+Seat 2: pascal falko (20975, 1.80€ bounty)
+Seat 3: -HAT TRICK- (19925, 1.80€ bounty)
+Seat 4: Funky_Play (16173, 1.80€ bounty)
+Seat 5: Pantsakou (20964, 1.80€ bounty)
+Seat 6: RiverAAin (22238, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+pascal falko posts ante 25
+-HAT TRICK- posts ante 25
+Funky_Play posts ante 25
+Pantsakou posts ante 25
+RiverAAin posts ante 25
+YL_ML_GL_42 posts small blind 100
+pascal falko posts big blind 200
+Dealt to YL_ML_GL_42 [Ad 4d]
+*** PRE-FLOP *** 
+-HAT TRICK- folds
+Funky_Play raises 300 to 500
+Pantsakou folds
+RiverAAin raises 1250 to 1750
+YL_ML_GL_42 folds
+pascal falko folds
+Funky_Play folds
+RiverAAin collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Seat 6: RiverAAin (button) won 2700
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157086577623164-5-1670009760 - Holdem no limit (25/100/200) - 2022/12/02 19:36:00 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094740)#0123' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (19600, 1.80€ bounty)
+Seat 2: pascal falko (20750, 1.80€ bounty)
+Seat 3: -HAT TRICK- (19900, 1.80€ bounty)
+Seat 4: Funky_Play (15648, 1.80€ bounty)
+Seat 5: Pantsakou (20939, 1.80€ bounty)
+Seat 6: RiverAAin (23163, 1.80€ bounty)
+*** ANTE/BLINDS ***
+pascal falko posts ante 25
+-HAT TRICK- posts ante 25
+YL_ML_GL_42 posts ante 25
+Funky_Play posts ante 25
+Pantsakou posts ante 25
+RiverAAin posts ante 25
+pascal falko posts small blind 100
+-HAT TRICK- posts big blind 200
+Dealt to YL_ML_GL_42 [7d Ks]
+*** PRE-FLOP *** 
+Funky_Play folds
+Pantsakou folds
+RiverAAin folds
+YL_ML_GL_42 raises 400 to 600
+pascal falko folds
+-HAT TRICK- calls 400
+*** FLOP *** [5s 9d 3d]
+-HAT TRICK- checks
+YL_ML_GL_42 checks
+*** TURN *** [5s 9d 3d][Ad]
+-HAT TRICK- bets 479
+YL_ML_GL_42 calls 479
+*** RIVER *** [5s 9d 3d Ad][6s]
+-HAT TRICK- bets 1889
+YL_ML_GL_42 folds
+-HAT TRICK- collected 4297 from pot
+*** SUMMARY ***
+Total pot 4297 | No rake
+Board: [5s 9d 3d Ad 6s]
+Seat 3: -HAT TRICK- (big blind) won 4297
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157086577623164-6-1670009852 - Holdem no limit (25/100/200) - 2022/12/02 19:37:32 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094740)#0123' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (18496, 1.80€ bounty)
+Seat 2: pascal falko (20625, 1.80€ bounty)
+Seat 3: -HAT TRICK- (21204, 1.80€ bounty)
+Seat 4: Funky_Play (15623, 1.80€ bounty)
+Seat 5: Pantsakou (20914, 1.80€ bounty)
+Seat 6: RiverAAin (23138, 1.80€ bounty)
+*** ANTE/BLINDS ***
+-HAT TRICK- posts ante 25
+Funky_Play posts ante 25
+YL_ML_GL_42 posts ante 25
+pascal falko posts ante 25
+Pantsakou posts ante 25
+RiverAAin posts ante 25
+-HAT TRICK- posts small blind 100
+Funky_Play posts big blind 200
+Dealt to YL_ML_GL_42 [3h 9c]
+*** PRE-FLOP *** 
+Pantsakou folds
+RiverAAin folds
+YL_ML_GL_42 folds
+pascal falko raises 20400 to 20600 and is all-in
+-HAT TRICK- raises 579 to 21179 and is all-in
+Funky_Play folds
+*** FLOP *** [8s Kd As]
+*** TURN *** [8s Kd As][9s]
+*** RIVER *** [8s Kd As 9s][6h]
+*** SHOW DOWN ***
+pascal falko shows [Kc Ts] (One pair : Kings)
+-HAT TRICK- shows [Qh Qd] (One pair : Queens)
+-HAT TRICK- collected 579 from side pot 1
+pascal falko collected 41550 from main pot
+*** SUMMARY ***
+Total pot 42129 | No rake
+Board: [8s Kd As 9s 6h]
+Seat 2: pascal falko (button) showed [Kc Ts] and won 41550 with One pair : Kings
+Seat 3: -HAT TRICK- (small blind) showed [Qh Qd] and won 579 with One pair : Queens
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2603157086577623164-7-1670009909 - Holdem no limit (25/100/200) - 2022/12/02 19:38:29 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094740)#0123' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (18471, 1.80€ bounty)
+Seat 2: pascal falko (41550, 1.80€ bounty)
+Seat 3: -HAT TRICK- (579, 1.80€ bounty)
+Seat 4: Funky_Play (15398, 1.80€ bounty)
+Seat 5: Pantsakou (20889, 1.80€ bounty)
+Seat 6: djoudjou1124 (20000, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Funky_Play posts ante 25
+Pantsakou posts ante 25
+YL_ML_GL_42 posts ante 25
+pascal falko posts ante 25
+-HAT TRICK- posts ante 25
+djoudjou1124 posts ante 25
+Funky_Play posts small blind 100
+Pantsakou posts big blind 200
+Dealt to YL_ML_GL_42 [2d 6d]
+*** PRE-FLOP *** 
+djoudjou1124 folds
+YL_ML_GL_42 folds
+pascal falko calls 200
+-HAT TRICK- folds
+Funky_Play calls 100
+Pantsakou raises 1000 to 1200
+pascal falko raises 40325 to 41525 and is all-in
+Funky_Play folds
+Pantsakou folds
+pascal falko collected 43075 from pot
+*** SUMMARY ***
+Total pot 43075 | No rake
+Seat 2: pascal falko won 43075
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 45 - HandId: #2603157086577623292-1-1670009942 - Holdem no limit (25/100/200) - 2022/12/02 19:39:02 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094740)#0251' 6-max (real money) Seat #6 is the button
+Seat 1: kif the kif (4893, 1.80€ bounty)
+Seat 2: Gassy2603 (20000, 1.80€ bounty)
+Seat 3: PopFish (20000, 1.80€ bounty)
+Seat 4: ToufiK-69 (23400, 1.80€ bounty)
+Seat 5: ZillaDeNada (19450, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (18446, 1.80€ bounty)
+*** ANTE/BLINDS ***
+kif the kif posts ante 25
+Gassy2603 posts ante 25
+PopFish posts ante 25
+ToufiK-69 posts ante 25
+ZillaDeNada posts ante 25
+YL_ML_GL_42 posts ante 25
+kif the kif posts small blind 100
+Gassy2603 posts big blind 200
+Dealt to YL_ML_GL_42 [Ac 9d]
+*** PRE-FLOP *** 
+PopFish folds
+ToufiK-69 folds
+ZillaDeNada folds
+YL_ML_GL_42 raises 400 to 600
+kif the kif calls 500
+Gassy2603 calls 400
+*** FLOP *** [Jc 6c 3h]
+kif the kif checks
+Gassy2603 bets 1560
+YL_ML_GL_42 folds
+kif the kif folds
+Gassy2603 collected 3510 from pot
+*** SUMMARY ***
+Total pot 3510 | No rake
+Board: [Jc 6c 3h]
+Seat 2: Gassy2603 (big blind) won 3510
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 45 - HandId: #2603157086577623292-2-1670009981 - Holdem no limit (25/100/200) - 2022/12/02 19:39:41 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094740)#0251' 6-max (real money) Seat #1 is the button
+Seat 1: kif the kif (4268, 1.80€ bounty)
+Seat 2: Gassy2603 (21325, 1.80€ bounty)
+Seat 3: PopFish (19975, 1.80€ bounty)
+Seat 4: Max1959 (20000, 1.80€ bounty)
+Seat 5: ZillaDeNada (19425, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (17821, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Gassy2603 posts ante 25
+PopFish posts ante 25
+kif the kif posts ante 25
+Max1959 posts ante 25
+ZillaDeNada posts ante 25
+YL_ML_GL_42 posts ante 25
+Gassy2603 posts small blind 100
+PopFish posts big blind 200
+Dealt to YL_ML_GL_42 [4h 9d]
+*** PRE-FLOP *** 
+Max1959 folds
+ZillaDeNada raises 300 to 500
+YL_ML_GL_42 folds
+kif the kif calls 500
+Gassy2603 folds
+PopFish folds
+*** FLOP *** [8h 4c Ac]
+ZillaDeNada bets 725
+kif the kif folds
+ZillaDeNada collected 2175 from pot
+*** SUMMARY ***
+Total pot 2175 | No rake
+Board: [8h 4c Ac]
+Seat 5: ZillaDeNada won 2175
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 45 - HandId: #2603157086577623292-3-1670010017 - Holdem no limit (25/100/200) - 2022/12/02 19:40:17 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094740)#0251' 6-max (real money) Seat #2 is the button
+Seat 1: kif the kif (3743, 1.80€ bounty)
+Seat 2: Gassy2603 (21200, 1.80€ bounty)
+Seat 3: PopFish (19750, 1.80€ bounty)
+Seat 4: Max1959 (19975, 1.80€ bounty)
+Seat 5: loulhino (20000, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (17796, 1.80€ bounty)
+*** ANTE/BLINDS ***
+PopFish posts ante 25
+Max1959 posts ante 25
+kif the kif posts ante 25
+Gassy2603 posts ante 25
+loulhino posts ante 25
+YL_ML_GL_42 posts ante 25
+PopFish posts small blind 100
+Max1959 posts big blind 200
+Dealt to YL_ML_GL_42 [Ad 6c]
+*** PRE-FLOP *** 
+loulhino folds
+YL_ML_GL_42 folds
+kif the kif folds
+Gassy2603 raises 650 to 850
+PopFish folds
+Max1959 folds
+Gassy2603 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Seat 2: Gassy2603 (button) won 1300
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 45 - HandId: #2603157086577623292-4-1670010092 - Holdem no limit (25/100/200) - 2022/12/02 19:41:32 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094740)#0251' 6-max (real money) Seat #3 is the button
+Seat 1: kif the kif (3718, 1.80€ bounty)
+Seat 2: Gassy2603 (21625, 1.80€ bounty)
+Seat 3: PopFish (19625, 1.80€ bounty)
+Seat 4: Max1959 (19750, 1.80€ bounty)
+Seat 5: loulhino (19975, 1.80€ bounty)
+Seat 6: YL_ML_GL_42 (17771, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Max1959 posts ante 25
+loulhino posts ante 25
+kif the kif posts ante 25
+Gassy2603 posts ante 25
+PopFish posts ante 25
+YL_ML_GL_42 posts ante 25
+Max1959 posts small blind 100
+loulhino posts big blind 200
+Dealt to YL_ML_GL_42 [3s As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 400 to 600
+kif the kif folds
+Gassy2603 raises 900 to 1500
+PopFish folds
+Max1959 calls 1400
+loulhino folds
+YL_ML_GL_42 raises 16246 to 17746 and is all-in
+Gassy2603 raises 3854 to 21600 and is all-in
+Max1959 folds
+*** FLOP *** [Qh 3c Jh]
+*** TURN *** [Qh 3c Jh][8s]
+*** RIVER *** [Qh 3c Jh 8s][Td]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [3s As] (One pair : 3)
+Gassy2603 shows [Jc Ac] (One pair : Jacks)
+Gassy2603 collected 41196 from pot
+*** SUMMARY ***
+Total pot 41196 | No rake
+Board: [Qh 3c Jh 8s Td]
+Seat 2: Gassy2603 showed [Jc Ac] and won 41196 with One pair : Jacks
+Seat 6: YL_ML_GL_42 showed [3s As] and lost with One pair : 3
+
+

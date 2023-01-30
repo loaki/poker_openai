@@ -1,13 +1,15 @@
 import os
 import tkinter as tk
 from dotenv import load_dotenv
-from tkinter import ttk
+from tkinter import ttk, filedialog
 import openai
 from PIL import ImageTk, Image
-
+from extractor.extractor import extract_info
 load_dotenv()
 
 OPENAI_KEY = os.getenv('OPENAI_KEY')
+HISTORY_PATH=''
+LOG_PATH=''
 
 class Table_data():
     def __init__(self):
@@ -68,34 +70,34 @@ def forms(root, data):
     n_y+=1
 
     stack_label = tk.Label(root, text='stack')
-    stack_label.place(x=start_x+pad_x*0, y=start_y+pad_y*(n_y+1))
+    stack_label.place(x=start_x+pad_x*0, y=start_y+pad_y*(n_y))
     stack_val = tk.DoubleVar(value=data.stack)
     stack_input = ttk.Entry(root, textvariable=stack_val, width=6)
-    stack_input.place(x=start_x+pad_x*1, y=start_y+pad_y*(n_y+1))
+    stack_input.place(x=start_x+pad_x*1, y=start_y+pad_y*(n_y))
     stack_max = 100 if data.stack < 100 else (int(data.stack / 100) + 1) * 100
-    stack_scale = tk.Scale(root, from_=0, to=stack_max, orient=tk.HORIZONTAL, length=100, variable=stack_val)
+    stack_scale = tk.Scale(root, from_=0, to=stack_max, orient=tk.HORIZONTAL, length=100, variable=stack_val, showvalue=0)
     stack_scale.place(x=start_x+pad_x*1+50, y=start_y+pad_y*n_y)
-    n_y+=2
+    n_y+=1
 
     pot_label = tk.Label(root, text='pot size')
-    pot_label.place(x=start_x+pad_x*0, y=start_y+pad_y*(n_y+1))
+    pot_label.place(x=start_x+pad_x*0, y=start_y+pad_y*(n_y))
     pot_val = tk.DoubleVar(value=data.pot)
     pot_input = ttk.Entry(root, textvariable=pot_val, width=6)
-    pot_input.place(x=start_x+pad_x*1, y=start_y+pad_y*(n_y+1))
+    pot_input.place(x=start_x+pad_x*1, y=start_y+pad_y*(n_y))
     pot_max = 100 if data.pot < 100 else (int(data.pot / 100) + 1) * 100
-    pot_scale = tk.Scale(root, from_=0, to=pot_max, orient=tk.HORIZONTAL, length=100, variable=pot_val)
+    pot_scale = tk.Scale(root, from_=0, to=pot_max, orient=tk.HORIZONTAL, length=100, variable=pot_val, showvalue=0)
     pot_scale.place(x=start_x+pad_x*1+50, y=start_y+pad_y*n_y)
-    n_y+=2
+    n_y+=1
 
     call_label = tk.Label(root, text='min to call')
-    call_label.place(x=start_x+pad_x*0, y=start_y+pad_y*(n_y+1))
+    call_label.place(x=start_x+pad_x*0, y=start_y+pad_y*(n_y))
     call_val = tk.DoubleVar(value=data.call)
     call_input = ttk.Entry(root, textvariable=call_val, width=6)
-    call_input.place(x=start_x+pad_x*1, y=start_y+pad_y*(n_y+1))
+    call_input.place(x=start_x+pad_x*1, y=start_y+pad_y*(n_y))
     call_max = 100 if data.call < 100 else (int(data.call / 100) + 1) * 100
-    call_scall = tk.Scale(root, from_=0, to=call_max, orient=tk.HORIZONTAL, length=100, variable=call_val)
+    call_scall = tk.Scale(root, from_=0, to=call_max, orient=tk.HORIZONTAL, length=100, variable=call_val, showvalue=0)
     call_scall.place(x=start_x+pad_x*1+50, y=start_y+pad_y*n_y)
-    n_y+=2
+    n_y+=1
 
     hand1_label = tk.Label(root, text='hand1')
     hand1_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
@@ -205,36 +207,74 @@ def forms(root, data):
         card_v5_drop.get(),
         card_s5_drop.get()
     ))
-    send_btn.grid(row=14, column=1, sticky='NESW')
+    send_btn.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
 
     answer_label = tk.Text(root, width=42, height= 20)
     answer_label.insert(tk.INSERT, 'hello')
     answer_label.place(x=370, y=360)
 
 def detection(root):
+    start_x = 300
+    start_y = 0
+    pad_x = 100
+    pad_y = 25
+    n_y = 0
     window_pos = []
     window_selected = tk.IntVar(value=0)
 
     detection_label = tk.Label(root, text='tables')
-    detection_label.grid(row=0, column=4, padx=10, pady=10)
+    detection_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
+    n_y += 1
 
     add_btn = tk.Button(root, text='add', command=lambda: add_win(
         root,
         window_pos,
         window_selected))
-    add_btn.grid(row=1, column=4)
+    add_btn.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
+    n_y += 1
 
     del_btn = tk.Button(root, text='del', command=lambda: del_win(
         root,
         window_pos,
         window_selected.get()))
-    del_btn.grid(row=2, column=4)
+    del_btn.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
+    n_y += 1
 
     select_btn = tk.Button(root, text='select', command=lambda: select_win(
         root,
         window_pos,
         window_selected.get()))
-    select_btn.grid(row=3, column=4)
+    select_btn.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
+    n_y += 1
+    
+    select_log_dir = tk.Button(root, text='log', command=lambda: select_log_path(root))
+    select_log_dir.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
+    n_y += 1
+
+    select_history_dir = tk.Button(root, text='histo', command=lambda: select_history_path(root))
+    select_history_dir.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
+    n_y += 1
+
+    print_dir = tk.Button(root, text='print', command=lambda: extract_info(
+        tournament_id='',
+        log_path=LOG_PATH,
+        history_path=HISTORY_PATH))
+    print_dir.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
+
+def print_dire():
+    print(LOG_PATH)
+
+def select_log_path(root):
+    global LOG_PATH
+    LOG_PATH = filedialog.askdirectory()
+    history_path_label = tk.Label(root, text=LOG_PATH)
+    history_path_label.place(x=400, y=0)
+
+def select_history_path(root):
+    global HISTORY_PATH
+    HISTORY_PATH = filedialog.askdirectory()
+    history_path_label = tk.Label(root, text=HISTORY_PATH)
+    history_path_label.place(x=400, y=25)
 
 def add_win(root, window_pos, window_selected):
     if len(window_pos) >= 6:
@@ -336,7 +376,7 @@ def app():
     root.geometry('730x720')
     table_data = Table_data()
     forms(root, table_data)
-    # detection(root)
+    detection(root)
     root.mainloop()
 
 if __name__ == '__main__':

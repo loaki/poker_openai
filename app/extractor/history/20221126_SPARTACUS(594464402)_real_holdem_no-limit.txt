@@ -1,0 +1,459 @@
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2553205165226197062-24-1669491145 - Holdem no limit (80/350/700) - 2022/11/26 19:32:25 UTC
+Table: 'SPARTACUS(594464402)#0069' 8-max (real money) Seat #2 is the button
+Seat 1: jimsid (53811, 1.80€ bounty)
+Seat 2: Bigsean (23370, 0.90€ bounty)
+Seat 3: Max34090 (91443, 2.25€ bounty)
+Seat 4: YL_ML_GL_42 (20000, 0.90€ bounty)
+Seat 5: ALSPIRUS (101741, 2.25€ bounty)
+Seat 6: le stig 02 (17205, 0.90€ bounty)
+Seat 7: Bubisky (52727, 2.25€ bounty)
+Seat 8: PARFUMER (36076, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Max34090 posts ante 80
+YL_ML_GL_42 posts ante 80
+jimsid posts ante 80
+Bigsean posts ante 80
+ALSPIRUS posts ante 80
+le stig 02 posts ante 80
+Bubisky posts ante 80
+PARFUMER posts ante 80
+Max34090 posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [6h Ts]
+*** PRE-FLOP *** 
+ALSPIRUS folds
+le stig 02 folds
+Bubisky folds
+PARFUMER folds
+jimsid folds
+Bigsean folds
+Max34090 folds
+YL_ML_GL_42 collected 1690 from pot
+*** SUMMARY ***
+Total pot 1690 | No rake
+Seat 4: YL_ML_GL_42 (big blind) won 1690
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2553205165226197062-25-1669491178 - Holdem no limit (80/350/700) - 2022/11/26 19:32:58 UTC
+Table: 'SPARTACUS(594464402)#0069' 8-max (real money) Seat #3 is the button
+Seat 1: jimsid (53731, 1.80€ bounty)
+Seat 2: Bigsean (23290, 0.90€ bounty)
+Seat 3: Max34090 (91013, 2.25€ bounty)
+Seat 4: YL_ML_GL_42 (20910, 0.90€ bounty)
+Seat 5: ALSPIRUS (101661, 2.25€ bounty)
+Seat 6: le stig 02 (17125, 0.90€ bounty)
+Seat 7: Bubisky (52647, 2.25€ bounty)
+Seat 8: PARFUMER (35996, 1.35€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+ALSPIRUS posts ante 80
+jimsid posts ante 80
+Bigsean posts ante 80
+Max34090 posts ante 80
+le stig 02 posts ante 80
+Bubisky posts ante 80
+PARFUMER posts ante 80
+YL_ML_GL_42 posts small blind 350
+ALSPIRUS posts big blind 700
+Dealt to YL_ML_GL_42 [2d 8s]
+*** PRE-FLOP *** 
+le stig 02 calls 700
+Bubisky folds
+PARFUMER folds
+jimsid folds
+Bigsean folds
+Max34090 folds
+YL_ML_GL_42 folds
+ALSPIRUS raises 700 to 1400
+le stig 02 calls 700
+*** FLOP *** [Ts Ac 4c]
+ALSPIRUS checks
+le stig 02 checks
+*** TURN *** [Ts Ac 4c][7s]
+ALSPIRUS bets 2464
+le stig 02 folds
+ALSPIRUS collected 6254 from pot
+*** SUMMARY ***
+Total pot 6254 | No rake
+Board: [Ts Ac 4c 7s]
+Seat 5: ALSPIRUS (big blind) won 6254
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2553205165226197062-26-1669491261 - Holdem no limit (80/350/700) - 2022/11/26 19:34:21 UTC
+Table: 'SPARTACUS(594464402)#0069' 8-max (real money) Seat #4 is the button
+Seat 1: jimsid (53651, 1.80€ bounty)
+Seat 2: Bigsean (23210, 0.90€ bounty)
+Seat 3: Max34090 (90933, 2.25€ bounty)
+Seat 4: YL_ML_GL_42 (20480, 0.90€ bounty)
+Seat 5: ALSPIRUS (103971, 2.25€ bounty)
+Seat 6: le stig 02 (15645, 0.90€ bounty)
+Seat 7: Bubisky (52567, 2.25€ bounty)
+Seat 8: PARFUMER (35916, 1.35€ bounty)
+*** ANTE/BLINDS ***
+ALSPIRUS posts ante 80
+le stig 02 posts ante 80
+jimsid posts ante 80
+Bigsean posts ante 80
+Max34090 posts ante 80
+YL_ML_GL_42 posts ante 80
+Bubisky posts ante 80
+PARFUMER posts ante 80
+ALSPIRUS posts small blind 350
+le stig 02 posts big blind 700
+Dealt to YL_ML_GL_42 [Qs 2d]
+*** PRE-FLOP *** 
+Bubisky folds
+PARFUMER folds
+jimsid folds
+Bigsean folds
+Max34090 calls 700
+YL_ML_GL_42 folds
+ALSPIRUS calls 350
+le stig 02 checks
+*** FLOP *** [4d 5s Jh]
+ALSPIRUS checks
+le stig 02 bets 2740
+Max34090 folds
+ALSPIRUS folds
+le stig 02 collected 5480 from pot
+*** SUMMARY ***
+Total pot 5480 | No rake
+Board: [4d 5s Jh]
+Seat 6: le stig 02 (big blind) won 5480
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2553205165226197062-27-1669491321 - Holdem no limit (80/350/700) - 2022/11/26 19:35:21 UTC
+Table: 'SPARTACUS(594464402)#0069' 8-max (real money) Seat #5 is the button
+Seat 1: jimsid (53571, 1.80€ bounty)
+Seat 2: Bigsean (23130, 0.90€ bounty)
+Seat 3: Max34090 (90153, 2.25€ bounty)
+Seat 4: YL_ML_GL_42 (20400, 0.90€ bounty)
+Seat 5: ALSPIRUS (103191, 2.25€ bounty)
+Seat 6: le stig 02 (17605, 0.90€ bounty)
+Seat 7: Bubisky (52487, 2.25€ bounty)
+Seat 8: PARFUMER (35836, 1.35€ bounty)
+*** ANTE/BLINDS ***
+le stig 02 posts ante 80
+Bubisky posts ante 80
+jimsid posts ante 80
+Bigsean posts ante 80
+Max34090 posts ante 80
+YL_ML_GL_42 posts ante 80
+ALSPIRUS posts ante 80
+PARFUMER posts ante 80
+le stig 02 posts small blind 350
+Bubisky posts big blind 700
+Dealt to YL_ML_GL_42 [Qc Ts]
+*** PRE-FLOP *** 
+PARFUMER folds
+jimsid calls 700
+Bigsean folds
+Max34090 calls 700
+YL_ML_GL_42 calls 700
+ALSPIRUS calls 700
+le stig 02 calls 350
+Bubisky checks
+*** FLOP *** [4d 2c 7s]
+le stig 02 bets 1694
+Bubisky folds
+jimsid calls 1694
+Max34090 calls 1694
+YL_ML_GL_42 folds
+ALSPIRUS calls 1694
+*** TURN *** [4d 2c 7s][5c]
+le stig 02 checks
+jimsid bets 2904
+Max34090 calls 2904
+ALSPIRUS calls 2904
+le stig 02 folds
+*** RIVER *** [4d 2c 7s 5c][Ah]
+jimsid bets 10164
+Max34090 folds
+ALSPIRUS folds
+jimsid collected 30492 from pot
+*** SUMMARY ***
+Total pot 30492 | No rake
+Board: [4d 2c 7s 5c Ah]
+Seat 1: jimsid won 30492
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2553205165226197062-28-1669491447 - Holdem no limit (100/400/800) - 2022/11/26 19:37:27 UTC
+Table: 'SPARTACUS(594464402)#0069' 8-max (real money) Seat #6 is the button
+Seat 1: jimsid (68521, 1.80€ bounty)
+Seat 2: Bigsean (23050, 0.90€ bounty)
+Seat 3: Max34090 (84775, 2.25€ bounty)
+Seat 4: YL_ML_GL_42 (19620, 0.90€ bounty)
+Seat 5: ALSPIRUS (97813, 2.25€ bounty)
+Seat 6: le stig 02 (15131, 0.90€ bounty)
+Seat 7: Bubisky (51707, 2.25€ bounty)
+Seat 8: PARFUMER (35756, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Bubisky posts ante 100
+PARFUMER posts ante 100
+jimsid posts ante 100
+Bigsean posts ante 100
+Max34090 posts ante 100
+YL_ML_GL_42 posts ante 100
+ALSPIRUS posts ante 100
+le stig 02 posts ante 100
+Bubisky posts small blind 400
+PARFUMER posts big blind 800
+Dealt to YL_ML_GL_42 [4h 3h]
+*** PRE-FLOP *** 
+jimsid folds
+Bigsean folds
+Max34090 folds
+YL_ML_GL_42 folds
+ALSPIRUS folds
+le stig 02 calls 800
+Bubisky calls 400
+PARFUMER checks
+*** FLOP *** [6s Qc 2h]
+Bubisky bets 1120
+PARFUMER calls 1120
+le stig 02 folds
+*** TURN *** [6s Qc 2h][7s]
+Bubisky checks
+PARFUMER bets 2720
+Bubisky calls 2720
+*** RIVER *** [6s Qc 2h 7s][As]
+Bubisky checks
+PARFUMER checks
+*** SHOW DOWN ***
+Bubisky shows [Td 9c] (High card : Ace)
+PARFUMER shows [8c Qh] (One pair : Queens)
+PARFUMER collected 10880 from pot
+*** SUMMARY ***
+Total pot 10880 | No rake
+Board: [6s Qc 2h 7s As]
+Seat 7: Bubisky (small blind) showed [Td 9c] and lost with High card : Ace
+Seat 8: PARFUMER (big blind) showed [8c Qh] and won 10880 with One pair : Queens
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2553205165226197058-41-1669491565 - Holdem no limit (100/400/800) - 2022/11/26 19:39:25 UTC
+Table: 'SPARTACUS(594464402)#0065' 8-max (real money) Seat #8 is the button
+Seat 2: 6eskauxo9 (85115, 3.37€ bounty)
+Seat 3: 0pain0agame (11210, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (19520, 0.90€ bounty)
+Seat 5: caroles0606 (49432, 0.90€ bounty)
+Seat 6: Perisin (97170, 1.35€ bounty)
+Seat 7: Zephyra79 (31340, 0.90€ bounty)
+Seat 8: MIROT68 (19070, 1.35€ bounty)
+*** ANTE/BLINDS ***
+6eskauxo9 posts ante 100
+0pain0agame posts ante 100
+YL_ML_GL_42 posts ante 100
+caroles0606 posts ante 100
+Perisin posts ante 100
+Zephyra79 posts ante 100
+MIROT68 posts ante 100
+6eskauxo9 posts small blind 400
+0pain0agame posts big blind 800
+Dealt to YL_ML_GL_42 [Qh Kd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 1600 to 2400
+caroles0606 folds
+Perisin folds
+Zephyra79 calls 2400
+MIROT68 folds
+6eskauxo9 folds
+0pain0agame folds
+*** FLOP *** [7h 3s 3h]
+YL_ML_GL_42 checks
+Zephyra79 bets 6700
+YL_ML_GL_42 folds
+Zephyra79 collected 13400 from pot
+*** SUMMARY ***
+Total pot 13400 | No rake
+Board: [7h 3s 3h]
+Seat 7: Zephyra79 won 13400
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2553205165226197058-42-1669491637 - Holdem no limit (100/400/800) - 2022/11/26 19:40:37 UTC
+Table: 'SPARTACUS(594464402)#0065' 8-max (real money) Seat #2 is the button
+Seat 2: 6eskauxo9 (84615, 3.37€ bounty)
+Seat 3: 0pain0agame (10310, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (17020, 0.90€ bounty)
+Seat 5: caroles0606 (49332, 0.90€ bounty)
+Seat 6: Perisin (97070, 1.35€ bounty)
+Seat 7: Zephyra79 (35540, 0.90€ bounty)
+Seat 8: MIROT68 (18970, 1.35€ bounty)
+*** ANTE/BLINDS ***
+0pain0agame posts ante 100
+YL_ML_GL_42 posts ante 100
+6eskauxo9 posts ante 100
+caroles0606 posts ante 100
+Perisin posts ante 100
+Zephyra79 posts ante 100
+MIROT68 posts ante 100
+0pain0agame posts small blind 400
+YL_ML_GL_42 posts big blind 800
+Dealt to YL_ML_GL_42 [Js Tc]
+*** PRE-FLOP *** 
+caroles0606 folds
+Perisin calls 800
+Zephyra79 folds
+MIROT68 folds
+6eskauxo9 raises 800 to 1600
+0pain0agame folds
+YL_ML_GL_42 calls 800
+Perisin calls 800
+*** FLOP *** [7s 7c 4d]
+YL_ML_GL_42 checks
+Perisin checks
+6eskauxo9 bets 1475
+YL_ML_GL_42 calls 1475
+Perisin calls 1475
+*** TURN *** [7s 7c 4d][Qs]
+YL_ML_GL_42 checks
+Perisin checks
+6eskauxo9 checks
+*** RIVER *** [7s 7c 4d Qs][2h]
+YL_ML_GL_42 checks
+Perisin checks
+6eskauxo9 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Js Tc] (One pair : 7)
+Perisin shows [As 8h] (One pair : 7)
+6eskauxo9 shows [4h Ah] (Two pairs : 7 and 4)
+6eskauxo9 collected 10325 from pot
+*** SUMMARY ***
+Total pot 10325 | No rake
+Board: [7s 7c 4d Qs 2h]
+Seat 2: 6eskauxo9 (button) showed [4h Ah] and won 10325 with Two pairs : 7 and 4
+Seat 4: YL_ML_GL_42 (big blind) showed [Js Tc] and lost with One pair : 7
+Seat 6: Perisin showed [As 8h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2553205165226197058-43-1669491710 - Holdem no limit (120/500/1000) - 2022/11/26 19:41:50 UTC
+Table: 'SPARTACUS(594464402)#0065' 8-max (real money) Seat #3 is the button
+Seat 1: tschounus (20000, 0.90€ bounty)
+Seat 2: 6eskauxo9 (91765, 3.37€ bounty)
+Seat 3: 0pain0agame (9810, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (13845, 0.90€ bounty)
+Seat 5: caroles0606 (49232, 0.90€ bounty)
+Seat 6: Perisin (93895, 1.35€ bounty)
+Seat 7: Zephyra79 (35440, 0.90€ bounty)
+Seat 8: MIROT68 (18870, 1.35€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 120
+caroles0606 posts ante 120
+tschounus posts ante 120
+6eskauxo9 posts ante 120
+0pain0agame posts ante 120
+Perisin posts ante 120
+Zephyra79 posts ante 120
+MIROT68 posts ante 120
+YL_ML_GL_42 posts small blind 500
+caroles0606 posts big blind 1000
+Dealt to YL_ML_GL_42 [Qs 9h]
+*** PRE-FLOP *** 
+Perisin calls 1000
+Zephyra79 raises 34320 to 35320 and is all-in
+MIROT68 folds
+tschounus folds
+6eskauxo9 folds
+0pain0agame calls 9690 and is all-in
+YL_ML_GL_42 folds
+caroles0606 folds
+Perisin folds
+*** FLOP *** [4d 5d 4c]
+*** TURN *** [4d 5d 4c][2h]
+*** RIVER *** [4d 5d 4c 2h][2d]
+*** SHOW DOWN ***
+0pain0agame shows [5h 5s] (Full of 5 and 4)
+Zephyra79 shows [Jd Ad] (Flush Ace high)
+Zephyra79 collected 25630 from side pot 1
+0pain0agame collected 22840 from main pot
+*** SUMMARY ***
+Total pot 48470 | No rake
+Board: [4d 5d 4c 2h 2d]
+Seat 3: 0pain0agame (button) showed [5h 5s] and won 22840 with Full of 5 and 4
+Seat 7: Zephyra79 showed [Jd Ad] and won 25630 with Flush Ace high
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2553205165226197058-44-1669491761 - Holdem no limit (120/500/1000) - 2022/11/26 19:42:41 UTC
+Table: 'SPARTACUS(594464402)#0065' 8-max (real money) Seat #4 is the button
+Seat 1: tschounus (19880, 0.90€ bounty)
+Seat 2: 6eskauxo9 (91645, 3.37€ bounty)
+Seat 3: 0pain0agame (22840, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (13225, 0.90€ bounty)
+Seat 5: caroles0606 (48112, 0.90€ bounty)
+Seat 6: Perisin (92775, 1.35€ bounty)
+Seat 7: Zephyra79 (25630, 0.90€ bounty)
+Seat 8: MIROT68 (18750, 1.35€ bounty)
+*** ANTE/BLINDS ***
+caroles0606 posts ante 120
+Perisin posts ante 120
+tschounus posts ante 120
+6eskauxo9 posts ante 120
+0pain0agame posts ante 120
+YL_ML_GL_42 posts ante 120
+Zephyra79 posts ante 120
+MIROT68 posts ante 120
+caroles0606 posts small blind 500
+Perisin posts big blind 1000
+Dealt to YL_ML_GL_42 [2c 6c]
+*** PRE-FLOP *** 
+Zephyra79 raises 24510 to 25510 and is all-in
+MIROT68 folds
+tschounus folds
+6eskauxo9 folds
+0pain0agame folds
+YL_ML_GL_42 folds
+caroles0606 folds
+Perisin folds
+Zephyra79 collected 27970 from pot
+*** SUMMARY ***
+Total pot 27970 | No rake
+Seat 7: Zephyra79 won 27970
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2553205165226197058-45-1669491790 - Holdem no limit (120/500/1000) - 2022/11/26 19:43:10 UTC
+Table: 'SPARTACUS(594464402)#0065' 8-max (real money) Seat #5 is the button
+Seat 1: tschounus (19760, 0.90€ bounty)
+Seat 2: 6eskauxo9 (91525, 3.37€ bounty)
+Seat 3: 0pain0agame (22720, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (13105, 0.90€ bounty)
+Seat 5: caroles0606 (47492, 0.90€ bounty)
+Seat 6: Perisin (91655, 1.35€ bounty)
+Seat 7: Zephyra79 (27970, 0.90€ bounty)
+Seat 8: MIROT68 (18630, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Perisin posts ante 120
+Zephyra79 posts ante 120
+tschounus posts ante 120
+6eskauxo9 posts ante 120
+0pain0agame posts ante 120
+YL_ML_GL_42 posts ante 120
+caroles0606 posts ante 120
+MIROT68 posts ante 120
+Perisin posts small blind 500
+Zephyra79 posts big blind 1000
+Dealt to YL_ML_GL_42 [2c As]
+*** PRE-FLOP *** 
+MIROT68 folds
+tschounus calls 1000
+6eskauxo9 folds
+0pain0agame folds
+YL_ML_GL_42 raises 4460 to 5460
+caroles0606 folds
+Perisin calls 4960
+Zephyra79 raises 22390 to 27850 and is all-in
+tschounus folds
+YL_ML_GL_42 calls 7525 and is all-in
+Perisin folds
+*** FLOP *** [7s 9d 8d]
+*** TURN *** [7s 9d 8d][2s]
+*** RIVER *** [7s 9d 8d 2s][5h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [2c As] (One pair : 2)
+Zephyra79 shows [6h 6d] (Straight 9 high)
+Zephyra79 collected 48255 from pot
+*** SUMMARY ***
+Total pot 48255 | No rake
+Board: [7s 9d 8d 2s 5h]
+Seat 4: YL_ML_GL_42 showed [2c As] and lost with One pair : 2
+Seat 7: Zephyra79 (big blind) showed [6h 6d] and won 48255 with Straight 9 high
+
+

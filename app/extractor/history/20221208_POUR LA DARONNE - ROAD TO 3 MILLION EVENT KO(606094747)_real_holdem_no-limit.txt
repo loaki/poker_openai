@@ -1,0 +1,1909 @@
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2603157116642394180-29-1670529910 - Holdem no limit (30/125/250) - 2022/12/08 20:05:10 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #5 is the button
+Seat 1: Eagle.Four (55679, 3.60€ bounty)
+Seat 2: YL_ML_GL_42 (20000, 1.80€ bounty)
+Seat 3: Djamilab (229, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (49687, 1.80€ bounty)
+Seat 5: Tiph.n (38319, 2.70€ bounty)
+Seat 6: Tacapas (25270, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Tacapas posts ante 30
+Eagle.Four posts ante 30
+YL_ML_GL_42 posts ante 30
+Djamilab posts ante 30
+G0Ld3nFin93R posts ante 30
+Tiph.n posts ante 30
+Tacapas posts small blind 125
+Eagle.Four posts big blind 250
+Dealt to YL_ML_GL_42 [7c Kc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Djamilab calls 199 and is all-in
+G0Ld3nFin93R calls 250
+Tiph.n folds
+Tacapas calls 125
+Eagle.Four checks
+*** FLOP *** [5s Ts 5c]
+Tacapas checks
+Eagle.Four bets 500
+G0Ld3nFin93R folds
+Tacapas calls 500
+*** TURN *** [5s Ts 5c][Qh]
+Tacapas checks
+Eagle.Four checks
+*** RIVER *** [5s Ts 5c Qh][9c]
+Tacapas checks
+Eagle.Four checks
+*** SHOW DOWN ***
+Tacapas shows [7s Js] (One pair : 5)
+Eagle.Four shows [8s Td] (Two pairs : Tens and 5)
+Djamilab shows [Qc 5h] (Full of 5 and Queens)
+Djamilab collected 976 from main pot
+Eagle.Four collected 1153 from side pot 1
+*** SUMMARY ***
+Total pot 2129 | No rake
+Board: [5s Ts 5c Qh 9c]
+Seat 1: Eagle.Four (big blind) showed [8s Td] and won 1153 with Two pairs : Tens and 5
+Seat 3: Djamilab showed [Qc 5h] and won 976 with Full of 5 and Queens
+Seat 6: Tacapas (small blind) showed [7s Js] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2603157116642394180-30-1670529982 - Holdem no limit (30/125/250) - 2022/12/08 20:06:22 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #6 is the button
+Seat 1: Eagle.Four (56052, 3.60€ bounty)
+Seat 2: YL_ML_GL_42 (19970, 1.80€ bounty)
+Seat 3: Djamilab (976, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (49407, 1.80€ bounty)
+Seat 5: Tiph.n (38289, 2.70€ bounty)
+Seat 6: Tacapas (24490, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Eagle.Four posts ante 30
+YL_ML_GL_42 posts ante 30
+Djamilab posts ante 30
+G0Ld3nFin93R posts ante 30
+Tiph.n posts ante 30
+Tacapas posts ante 30
+Eagle.Four posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [7d 4c]
+*** PRE-FLOP *** 
+Djamilab raises 696 to 946 and is all-in
+G0Ld3nFin93R folds
+Tiph.n folds
+Tacapas folds
+Eagle.Four calls 821
+YL_ML_GL_42 folds
+*** FLOP *** [4h Ah Ac]
+*** TURN *** [4h Ah Ac][9c]
+*** RIVER *** [4h Ah Ac 9c][Jh]
+*** SHOW DOWN ***
+Eagle.Four shows [Jc 9s] (Two pairs : Aces and Jacks)
+Djamilab shows [7s Ad] (Trips of Aces)
+Djamilab collected 2322 from pot
+*** SUMMARY ***
+Total pot 2322 | No rake
+Board: [4h Ah Ac 9c Jh]
+Seat 1: Eagle.Four (small blind) showed [Jc 9s] and lost with Two pairs : Aces and Jacks
+Seat 3: Djamilab showed [7s Ad] and won 2322 with Trips of Aces
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157116642394180-31-1670530034 - Holdem no limit (35/150/300) - 2022/12/08 20:07:14 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #1 is the button
+Seat 1: Eagle.Four (55076, 3.60€ bounty)
+Seat 2: YL_ML_GL_42 (19690, 1.80€ bounty)
+Seat 3: Djamilab (2322, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (49377, 1.80€ bounty)
+Seat 5: Tiph.n (38259, 2.70€ bounty)
+Seat 6: Tacapas (24460, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+Djamilab posts ante 35
+Eagle.Four posts ante 35
+G0Ld3nFin93R posts ante 35
+Tiph.n posts ante 35
+Tacapas posts ante 35
+YL_ML_GL_42 posts small blind 150
+Djamilab posts big blind 300
+Dealt to YL_ML_GL_42 [3s 8s]
+*** PRE-FLOP *** 
+G0Ld3nFin93R folds
+Tiph.n folds
+Tacapas folds
+Eagle.Four raises 600 to 900
+YL_ML_GL_42 folds
+Djamilab raises 1387 to 2287 and is all-in
+Eagle.Four calls 1387
+*** FLOP *** [Kh 6d 6h]
+*** TURN *** [Kh 6d 6h][Js]
+*** RIVER *** [Kh 6d 6h Js][Jc]
+*** SHOW DOWN ***
+Djamilab shows [Ts 9h] (Two pairs : Jacks and 6)
+Eagle.Four shows [Th As] (Two pairs : Jacks and 6)
+Eagle.Four collected 4934 from pot
+*** SUMMARY ***
+Total pot 4934 | No rake
+Board: [Kh 6d 6h Js Jc]
+Seat 1: Eagle.Four (button) showed [Th As] and won 4934 with Two pairs : Jacks and 6
+Seat 3: Djamilab (big blind) showed [Ts 9h] and lost with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157116642394180-32-1670530066 - Holdem no limit (35/150/300) - 2022/12/08 20:07:46 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #2 is the button
+Seat 1: Eagle.Four (57688, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19505, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (49342, 1.80€ bounty)
+Seat 5: Tiph.n (38224, 2.70€ bounty)
+Seat 6: Tacapas (24425, 1.80€ bounty)
+*** ANTE/BLINDS ***
+G0Ld3nFin93R posts ante 35
+Eagle.Four posts ante 35
+YL_ML_GL_42 posts ante 35
+Tiph.n posts ante 35
+Tacapas posts ante 35
+G0Ld3nFin93R posts big blind 300
+Dealt to YL_ML_GL_42 [Ad 9c]
+*** PRE-FLOP *** 
+Tiph.n folds
+Tacapas folds
+Eagle.Four folds
+YL_ML_GL_42 raises 600 to 900
+G0Ld3nFin93R folds
+YL_ML_GL_42 collected 1375 from pot
+*** SUMMARY ***
+Total pot 1375 | No rake
+Seat 2: YL_ML_GL_42 (button) won 1375
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157116642394180-33-1670530127 - Holdem no limit (35/150/300) - 2022/12/08 20:08:47 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #3 is the button
+Seat 1: Eagle.Four (57653, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19945, 1.80€ bounty)
+Seat 3: pelotAAzo (20000, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (49007, 1.80€ bounty)
+Seat 5: Tiph.n (38189, 2.70€ bounty)
+Seat 6: Tacapas (24390, 1.80€ bounty)
+*** ANTE/BLINDS ***
+G0Ld3nFin93R posts ante 35
+Tiph.n posts ante 35
+Eagle.Four posts ante 35
+YL_ML_GL_42 posts ante 35
+Tacapas posts ante 35
+G0Ld3nFin93R posts small blind 150
+Tiph.n posts big blind 300
+Dealt to YL_ML_GL_42 [7c 8c]
+*** PRE-FLOP *** 
+Tacapas folds
+Eagle.Four raises 450 to 750
+YL_ML_GL_42 folds
+G0Ld3nFin93R folds
+Tiph.n folds
+Eagle.Four collected 1375 from pot
+*** SUMMARY ***
+Total pot 1375 | No rake
+Seat 1: Eagle.Four won 1375
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157116642394180-34-1670530155 - Holdem no limit (35/150/300) - 2022/12/08 20:09:15 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #4 is the button
+Seat 1: Eagle.Four (58243, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19910, 1.80€ bounty)
+Seat 3: pelotAAzo (20000, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (48822, 1.80€ bounty)
+Seat 5: Tiph.n (37854, 2.70€ bounty)
+Seat 6: Tacapas (24355, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Tiph.n posts ante 35
+Tacapas posts ante 35
+Eagle.Four posts ante 35
+YL_ML_GL_42 posts ante 35
+pelotAAzo posts ante 35
+G0Ld3nFin93R posts ante 35
+Tiph.n posts small blind 150
+Tacapas posts big blind 300
+Dealt to YL_ML_GL_42 [4s 2c]
+*** PRE-FLOP *** 
+Eagle.Four folds
+YL_ML_GL_42 folds
+pelotAAzo raises 450 to 750
+G0Ld3nFin93R folds
+Tiph.n folds
+Tacapas folds
+pelotAAzo collected 1410 from pot
+*** SUMMARY ***
+Total pot 1410 | No rake
+Seat 3: pelotAAzo won 1410
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157116642394180-35-1670530194 - Holdem no limit (35/150/300) - 2022/12/08 20:09:54 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #5 is the button
+Seat 1: Eagle.Four (58208, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19875, 1.80€ bounty)
+Seat 3: pelotAAzo (20625, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (48787, 1.80€ bounty)
+Seat 5: Tiph.n (37669, 2.70€ bounty)
+Seat 6: Tacapas (24020, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Tacapas posts ante 35
+Eagle.Four posts ante 35
+YL_ML_GL_42 posts ante 35
+pelotAAzo posts ante 35
+G0Ld3nFin93R posts ante 35
+Tiph.n posts ante 35
+Tacapas posts small blind 150
+Eagle.Four posts big blind 300
+Dealt to YL_ML_GL_42 [9c Qd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+pelotAAzo folds
+G0Ld3nFin93R folds
+Tiph.n folds
+Tacapas raises 450 to 750
+Eagle.Four calls 450
+*** FLOP *** [2s 6d 7c]
+Tacapas bets 599
+Eagle.Four calls 599
+*** TURN *** [2s 6d 7c][9s]
+Tacapas bets 1018
+Eagle.Four calls 1018
+*** RIVER *** [2s 6d 7c 9s][6c]
+Tacapas bets 1730
+Eagle.Four folds
+Tacapas collected 6674 from pot
+*** SUMMARY ***
+Total pot 6674 | No rake
+Board: [2s 6d 7c 9s 6c]
+Seat 6: Tacapas (small blind) won 6674
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157116642394180-36-1670530226 - Holdem no limit (35/150/300) - 2022/12/08 20:10:26 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #6 is the button
+Seat 1: Eagle.Four (55806, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19840, 1.80€ bounty)
+Seat 3: pelotAAzo (20590, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (48752, 1.80€ bounty)
+Seat 5: Tiph.n (37634, 2.70€ bounty)
+Seat 6: Tacapas (26562, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Eagle.Four posts ante 35
+YL_ML_GL_42 posts ante 35
+pelotAAzo posts ante 35
+G0Ld3nFin93R posts ante 35
+Tiph.n posts ante 35
+Tacapas posts ante 35
+Eagle.Four posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [7h 8d]
+*** PRE-FLOP *** 
+pelotAAzo raises 450 to 750
+G0Ld3nFin93R folds
+Tiph.n folds
+Tacapas folds
+Eagle.Four folds
+YL_ML_GL_42 folds
+pelotAAzo collected 1410 from pot
+*** SUMMARY ***
+Total pot 1410 | No rake
+Seat 3: pelotAAzo won 1410
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157116642394180-37-1670530238 - Holdem no limit (35/150/300) - 2022/12/08 20:10:38 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #1 is the button
+Seat 1: Eagle.Four (55621, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19505, 1.80€ bounty)
+Seat 3: pelotAAzo (21215, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (48717, 1.80€ bounty)
+Seat 5: Tiph.n (37599, 2.70€ bounty)
+Seat 6: Tacapas (26527, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+pelotAAzo posts ante 35
+Eagle.Four posts ante 35
+G0Ld3nFin93R posts ante 35
+Tiph.n posts ante 35
+Tacapas posts ante 35
+YL_ML_GL_42 posts small blind 150
+pelotAAzo posts big blind 300
+Dealt to YL_ML_GL_42 [2c 8d]
+*** PRE-FLOP *** 
+G0Ld3nFin93R folds
+Tiph.n raises 300 to 600
+Tacapas folds
+Eagle.Four folds
+YL_ML_GL_42 folds
+pelotAAzo calls 300
+*** FLOP *** [7s 2h 9s]
+pelotAAzo checks
+Tiph.n bets 300
+pelotAAzo calls 300
+*** TURN *** [7s 2h 9s][As]
+pelotAAzo checks
+Tiph.n bets 300
+pelotAAzo raises 771 to 1071
+Tiph.n calls 771
+*** RIVER *** [7s 2h 9s As][Qc]
+pelotAAzo bets 2796
+Tiph.n calls 2796
+*** SHOW DOWN ***
+pelotAAzo shows [Kh Tc] (High card : Ace)
+Tiph.n shows [Ac Ad] (Trips of Aces)
+Tiph.n collected 9894 from pot
+*** SUMMARY ***
+Total pot 9894 | No rake
+Board: [7s 2h 9s As Qc]
+Seat 3: pelotAAzo (big blind) showed [Kh Tc] and lost with High card : Ace
+Seat 5: Tiph.n showed [Ac Ad] and won 9894 with Trips of Aces
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2603157116642394180-38-1670530276 - Holdem no limit (35/150/300) - 2022/12/08 20:11:16 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #2 is the button
+Seat 1: Eagle.Four (55586, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19320, 1.80€ bounty)
+Seat 3: pelotAAzo (16413, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (48682, 1.80€ bounty)
+Seat 5: Tiph.n (42691, 2.70€ bounty)
+Seat 6: Tacapas (26492, 1.80€ bounty)
+*** ANTE/BLINDS ***
+pelotAAzo posts ante 35
+G0Ld3nFin93R posts ante 35
+Eagle.Four posts ante 35
+YL_ML_GL_42 posts ante 35
+Tiph.n posts ante 35
+Tacapas posts ante 35
+pelotAAzo posts small blind 150
+G0Ld3nFin93R posts big blind 300
+Dealt to YL_ML_GL_42 [4h Qc]
+*** PRE-FLOP *** 
+Tiph.n raises 300 to 600
+Tacapas folds
+Eagle.Four folds
+YL_ML_GL_42 folds
+pelotAAzo folds
+G0Ld3nFin93R calls 300
+*** FLOP *** [9c 2c 2s]
+G0Ld3nFin93R checks
+Tiph.n checks
+*** TURN *** [9c 2c 2s][9d]
+G0Ld3nFin93R checks
+Tiph.n bets 300
+G0Ld3nFin93R calls 300
+*** RIVER *** [9c 2c 2s 9d][8c]
+G0Ld3nFin93R checks
+Tiph.n checks
+*** SHOW DOWN ***
+G0Ld3nFin93R shows [Kc 6d] (Two pairs : 9 and 2)
+Tiph.n shows [Ad 7d] (Two pairs : 9 and 2)
+Tiph.n collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | No rake
+Board: [9c 2c 2s 9d 8c]
+Seat 4: G0Ld3nFin93R (big blind) showed [Kc 6d] and lost with Two pairs : 9 and 2
+Seat 5: Tiph.n showed [Ad 7d] and won 2160 with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2603157116642394180-39-1670530319 - Holdem no limit (40/175/350) - 2022/12/08 20:11:59 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #3 is the button
+Seat 1: Eagle.Four (55551, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19285, 1.80€ bounty)
+Seat 3: pelotAAzo (16228, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (47747, 1.80€ bounty)
+Seat 5: Tiph.n (43916, 2.70€ bounty)
+Seat 6: Tacapas (26457, 1.80€ bounty)
+*** ANTE/BLINDS ***
+G0Ld3nFin93R posts ante 40
+Tiph.n posts ante 40
+Eagle.Four posts ante 40
+YL_ML_GL_42 posts ante 40
+pelotAAzo posts ante 40
+Tacapas posts ante 40
+G0Ld3nFin93R posts small blind 175
+Tiph.n posts big blind 350
+Dealt to YL_ML_GL_42 [9s 3c]
+*** PRE-FLOP *** 
+Tacapas folds
+Eagle.Four raises 525 to 875
+YL_ML_GL_42 folds
+pelotAAzo calls 875
+G0Ld3nFin93R calls 700
+Tiph.n folds
+*** FLOP *** [9h Ah 6c]
+G0Ld3nFin93R checks
+Eagle.Four checks
+pelotAAzo bets 1125
+G0Ld3nFin93R folds
+Eagle.Four folds
+pelotAAzo collected 4340 from pot
+*** SUMMARY ***
+Total pot 4340 | No rake
+Board: [9h Ah 6c]
+Seat 3: pelotAAzo (button) won 4340
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2603157116642394180-40-1670530376 - Holdem no limit (40/175/350) - 2022/12/08 20:12:56 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #4 is the button
+Seat 1: Eagle.Four (54636, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19245, 1.80€ bounty)
+Seat 3: pelotAAzo (18528, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (46832, 1.80€ bounty)
+Seat 5: Tiph.n (43526, 2.70€ bounty)
+Seat 6: Tacapas (26417, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Tiph.n posts ante 40
+Tacapas posts ante 40
+Eagle.Four posts ante 40
+YL_ML_GL_42 posts ante 40
+pelotAAzo posts ante 40
+G0Ld3nFin93R posts ante 40
+Tiph.n posts small blind 175
+Tacapas posts big blind 350
+Dealt to YL_ML_GL_42 [4c 3h]
+*** PRE-FLOP *** 
+Eagle.Four raises 525 to 875
+YL_ML_GL_42 folds
+pelotAAzo folds
+G0Ld3nFin93R folds
+Tiph.n folds
+Tacapas calls 525
+*** FLOP *** [9h Kh Qd]
+Tacapas checks
+Eagle.Four bets 758
+Tacapas calls 758
+*** TURN *** [9h Kh Qd][Ah]
+Tacapas checks
+Eagle.Four checks
+*** RIVER *** [9h Kh Qd Ah][6c]
+Tacapas checks
+Eagle.Four checks
+*** SHOW DOWN ***
+Eagle.Four shows [Td 8d] (High card : Ace)
+Tacapas shows [Jc Jh] (One pair : Jacks)
+Tacapas collected 3681 from pot
+*** SUMMARY ***
+Total pot 3681 | No rake
+Board: [9h Kh Qd Ah 6c]
+Seat 1: Eagle.Four showed [Td 8d] and lost with High card : Ace
+Seat 6: Tacapas (big blind) showed [Jc Jh] and won 3681 with One pair : Jacks
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2603157116642394180-41-1670530424 - Holdem no limit (40/175/350) - 2022/12/08 20:13:44 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #5 is the button
+Seat 1: Eagle.Four (52963, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19205, 1.80€ bounty)
+Seat 3: pelotAAzo (18488, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (46792, 1.80€ bounty)
+Seat 5: Tiph.n (43311, 2.70€ bounty)
+Seat 6: Tacapas (28425, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Tacapas posts ante 40
+Eagle.Four posts ante 40
+YL_ML_GL_42 posts ante 40
+pelotAAzo posts ante 40
+G0Ld3nFin93R posts ante 40
+Tiph.n posts ante 40
+Tacapas posts small blind 175
+Eagle.Four posts big blind 350
+Dealt to YL_ML_GL_42 [Js Kh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 700 to 1050
+pelotAAzo folds
+G0Ld3nFin93R calls 1050
+Tiph.n folds
+Tacapas folds
+Eagle.Four folds
+*** FLOP *** [7s 6c 9s]
+YL_ML_GL_42 bets 2292
+G0Ld3nFin93R folds
+YL_ML_GL_42 collected 5157 from pot
+*** SUMMARY ***
+Total pot 5157 | No rake
+Board: [7s 6c 9s]
+Seat 2: YL_ML_GL_42 won 5157
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2603157116642394180-42-1670530462 - Holdem no limit (40/175/350) - 2022/12/08 20:14:22 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #6 is the button
+Seat 1: Eagle.Four (52573, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (20980, 1.80€ bounty)
+Seat 3: pelotAAzo (18448, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (45702, 1.80€ bounty)
+Seat 5: Tiph.n (43271, 2.70€ bounty)
+Seat 6: Tacapas (28210, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Eagle.Four posts ante 40
+YL_ML_GL_42 posts ante 40
+pelotAAzo posts ante 40
+G0Ld3nFin93R posts ante 40
+Tiph.n posts ante 40
+Tacapas posts ante 40
+Eagle.Four posts small blind 175
+YL_ML_GL_42 posts big blind 350
+Dealt to YL_ML_GL_42 [Jd Th]
+*** PRE-FLOP *** 
+pelotAAzo folds
+G0Ld3nFin93R folds
+Tiph.n folds
+Tacapas folds
+Eagle.Four folds
+YL_ML_GL_42 collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 765
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2603157116642394180-43-1670530475 - Holdem no limit (40/175/350) - 2022/12/08 20:14:35 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #1 is the button
+Seat 1: Eagle.Four (52358, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (21355, 1.80€ bounty)
+Seat 3: pelotAAzo (18408, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (45662, 1.80€ bounty)
+Seat 5: Tiph.n (43231, 2.70€ bounty)
+Seat 6: Tacapas (28170, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 40
+pelotAAzo posts ante 40
+Eagle.Four posts ante 40
+G0Ld3nFin93R posts ante 40
+Tiph.n posts ante 40
+Tacapas posts ante 40
+YL_ML_GL_42 posts small blind 175
+pelotAAzo posts big blind 350
+Dealt to YL_ML_GL_42 [Js 4d]
+*** PRE-FLOP *** 
+G0Ld3nFin93R raises 700 to 1050
+Tiph.n folds
+Tacapas folds
+Eagle.Four calls 1050
+YL_ML_GL_42 folds
+pelotAAzo raises 3565 to 4615
+G0Ld3nFin93R calls 3565
+Eagle.Four folds
+*** FLOP *** [4c 6c 3s]
+pelotAAzo bets 3743
+G0Ld3nFin93R raises 13664 to 17407
+pelotAAzo calls 10010 and is all-in
+*** TURN *** [4c 6c 3s][Ad]
+*** RIVER *** [4c 6c 3s Ad][7s]
+*** SHOW DOWN ***
+pelotAAzo shows [Jd Jc] (One pair : Jacks)
+G0Ld3nFin93R shows [7c Ac] (Two pairs : Aces and 7)
+G0Ld3nFin93R collected 41855 from pot
+*** SUMMARY ***
+Total pot 41855 | No rake
+Board: [4c 6c 3s Ad 7s]
+Seat 3: pelotAAzo (big blind) showed [Jd Jc] and lost with One pair : Jacks
+Seat 4: G0Ld3nFin93R showed [7c Ac] and won 41855 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2603157116642394180-44-1670530570 - Holdem no limit (40/175/350) - 2022/12/08 20:16:10 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #2 is the button
+Seat 1: Eagle.Four (51268, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (21140, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (65455, 2.70€ bounty)
+Seat 5: Tiph.n (43191, 2.70€ bounty)
+Seat 6: Tacapas (28130, 1.80€ bounty)
+*** ANTE/BLINDS ***
+G0Ld3nFin93R posts ante 40
+Eagle.Four posts ante 40
+YL_ML_GL_42 posts ante 40
+Tiph.n posts ante 40
+Tacapas posts ante 40
+G0Ld3nFin93R posts big blind 350
+Dealt to YL_ML_GL_42 [Tc 5s]
+*** PRE-FLOP *** 
+Tiph.n folds
+Tacapas raises 525 to 875
+Eagle.Four folds
+YL_ML_GL_42 folds
+G0Ld3nFin93R calls 525
+*** FLOP *** [Jd Ac Jc]
+G0Ld3nFin93R checks
+Tacapas bets 683
+G0Ld3nFin93R folds
+Tacapas collected 2633 from pot
+*** SUMMARY ***
+Total pot 2633 | No rake
+Board: [Jd Ac Jc]
+Seat 6: Tacapas won 2633
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2603157116642394180-45-1670530618 - Holdem no limit (50/200/400) - 2022/12/08 20:16:58 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #3 is the button
+Seat 1: Eagle.Four (51228, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (21100, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (64540, 2.70€ bounty)
+Seat 5: Tiph.n (43151, 2.70€ bounty)
+Seat 6: Tacapas (29165, 1.80€ bounty)
+*** ANTE/BLINDS ***
+G0Ld3nFin93R posts ante 50
+Tiph.n posts ante 50
+Eagle.Four posts ante 50
+YL_ML_GL_42 posts ante 50
+Tacapas posts ante 50
+G0Ld3nFin93R posts small blind 200
+Tiph.n posts big blind 400
+Dealt to YL_ML_GL_42 [6c Ks]
+*** PRE-FLOP *** 
+Tacapas folds
+Eagle.Four folds
+YL_ML_GL_42 folds
+G0Ld3nFin93R calls 200
+Tiph.n checks
+*** FLOP *** [3s 3d 9s]
+G0Ld3nFin93R checks
+Tiph.n checks
+*** TURN *** [3s 3d 9s][9d]
+G0Ld3nFin93R bets 683
+Tiph.n folds
+G0Ld3nFin93R collected 1733 from pot
+*** SUMMARY ***
+Total pot 1733 | No rake
+Board: [3s 3d 9s 9d]
+Seat 4: G0Ld3nFin93R (small blind) won 1733
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2603157116642394180-46-1670530678 - Holdem no limit (50/200/400) - 2022/12/08 20:17:58 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #4 is the button
+Seat 1: Eagle.Four (51178, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (21050, 1.80€ bounty)
+Seat 3: alpchino65 (20000, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (65140, 2.70€ bounty)
+Seat 5: Tiph.n (42701, 2.70€ bounty)
+Seat 6: Tacapas (29115, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Tiph.n posts ante 50
+Tacapas posts ante 50
+Eagle.Four posts ante 50
+YL_ML_GL_42 posts ante 50
+alpchino65 posts ante 50
+G0Ld3nFin93R posts ante 50
+Tiph.n posts small blind 200
+Tacapas posts big blind 400
+Dealt to YL_ML_GL_42 [3c Qc]
+*** PRE-FLOP *** 
+Eagle.Four folds
+YL_ML_GL_42 folds
+alpchino65 calls 400
+G0Ld3nFin93R raises 1200 to 1600
+Tiph.n folds
+Tacapas folds
+alpchino65 calls 1200
+*** FLOP *** [As Ad 5h]
+alpchino65 checks
+G0Ld3nFin93R bets 1435
+alpchino65 folds
+G0Ld3nFin93R collected 5535 from pot
+*** SUMMARY ***
+Total pot 5535 | No rake
+Board: [As Ad 5h]
+Seat 4: G0Ld3nFin93R (button) won 5535
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2603157116642394180-47-1670530745 - Holdem no limit (50/200/400) - 2022/12/08 20:19:05 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #5 is the button
+Seat 1: Eagle.Four (51128, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (21000, 1.80€ bounty)
+Seat 3: alpchino65 (18350, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (67590, 2.70€ bounty)
+Seat 5: Tiph.n (42451, 2.70€ bounty)
+Seat 6: Tacapas (28665, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Tacapas posts ante 50
+Eagle.Four posts ante 50
+YL_ML_GL_42 posts ante 50
+alpchino65 posts ante 50
+G0Ld3nFin93R posts ante 50
+Tiph.n posts ante 50
+Tacapas posts small blind 200
+Eagle.Four posts big blind 400
+Dealt to YL_ML_GL_42 [Qc 2h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+alpchino65 calls 400
+G0Ld3nFin93R folds
+Tiph.n folds
+Tacapas calls 200
+Eagle.Four checks
+*** FLOP *** [4c Kh 8c]
+Tacapas checks
+Eagle.Four bets 600
+alpchino65 calls 600
+Tacapas raises 1350 to 1950
+Eagle.Four calls 1350
+alpchino65 folds
+*** TURN *** [4c Kh 8c][3c]
+Tacapas bets 2100
+Eagle.Four folds
+Tacapas collected 8100 from pot
+*** SUMMARY ***
+Total pot 8100 | No rake
+Board: [4c Kh 8c 3c]
+Seat 6: Tacapas (small blind) won 8100
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2603157116642394180-48-1670530813 - Holdem no limit (50/200/400) - 2022/12/08 20:20:13 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #6 is the button
+Seat 1: Eagle.Four (48728, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (20950, 1.80€ bounty)
+Seat 3: alpchino65 (17300, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (67540, 2.70€ bounty)
+Seat 5: Tiph.n (42401, 2.70€ bounty)
+Seat 6: Tacapas (32265, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Eagle.Four posts ante 50
+YL_ML_GL_42 posts ante 50
+alpchino65 posts ante 50
+G0Ld3nFin93R posts ante 50
+Tiph.n posts ante 50
+Tacapas posts ante 50
+Eagle.Four posts small blind 200
+YL_ML_GL_42 posts big blind 400
+Dealt to YL_ML_GL_42 [Jc 3c]
+*** PRE-FLOP *** 
+alpchino65 folds
+G0Ld3nFin93R folds
+Tiph.n folds
+Tacapas raises 600 to 1000
+Eagle.Four folds
+YL_ML_GL_42 calls 600
+*** FLOP *** [7d 8c Kd]
+YL_ML_GL_42 checks
+Tacapas bets 875
+YL_ML_GL_42 folds
+Tacapas collected 3375 from pot
+*** SUMMARY ***
+Total pot 3375 | No rake
+Board: [7d 8c Kd]
+Seat 6: Tacapas (button) won 3375
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2603157116642394180-49-1670530882 - Holdem no limit (50/200/400) - 2022/12/08 20:21:22 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #1 is the button
+Seat 1: Eagle.Four (48478, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19900, 1.80€ bounty)
+Seat 3: alpchino65 (17250, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (67490, 2.70€ bounty)
+Seat 5: Tiph.n (42351, 2.70€ bounty)
+Seat 6: Tacapas (33715, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 50
+alpchino65 posts ante 50
+Eagle.Four posts ante 50
+G0Ld3nFin93R posts ante 50
+Tiph.n posts ante 50
+Tacapas posts ante 50
+YL_ML_GL_42 posts small blind 200
+alpchino65 posts big blind 400
+Dealt to YL_ML_GL_42 [7c 3c]
+*** PRE-FLOP *** 
+G0Ld3nFin93R folds
+Tiph.n raises 400 to 800
+Tacapas folds
+Eagle.Four folds
+YL_ML_GL_42 calls 600
+alpchino65 calls 400
+*** FLOP *** [Th Qs 6s]
+YL_ML_GL_42 checks
+alpchino65 checks
+Tiph.n checks
+*** TURN *** [Th Qs 6s][Tc]
+YL_ML_GL_42 checks
+alpchino65 checks
+Tiph.n checks
+*** RIVER *** [Th Qs 6s Tc][Jc]
+YL_ML_GL_42 checks
+alpchino65 checks
+Tiph.n checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7c 3c] (One pair : Tens)
+alpchino65 shows [Ac 5h] (One pair : Tens)
+Tiph.n shows [Ad 9h] (One pair : Tens)
+Tiph.n collected 1350 from pot
+alpchino65 collected 1350 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [Th Qs 6s Tc Jc]
+Seat 2: YL_ML_GL_42 (small blind) showed [7c 3c] and lost with One pair : Tens
+Seat 3: alpchino65 (big blind) showed [Ac 5h] and won 1350 with One pair : Tens
+Seat 5: Tiph.n showed [Ad 9h] and won 1350 with One pair : Tens
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2603157116642394180-50-1670530928 - Holdem no limit (60/250/500) - 2022/12/08 20:22:08 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #2 is the button
+Seat 1: Eagle.Four (48428, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (19050, 1.80€ bounty)
+Seat 3: alpchino65 (17750, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (67440, 2.70€ bounty)
+Seat 5: Tiph.n (42851, 2.70€ bounty)
+Seat 6: Tacapas (33665, 1.80€ bounty)
+*** ANTE/BLINDS ***
+alpchino65 posts ante 60
+G0Ld3nFin93R posts ante 60
+Eagle.Four posts ante 60
+YL_ML_GL_42 posts ante 60
+Tiph.n posts ante 60
+Tacapas posts ante 60
+alpchino65 posts small blind 250
+G0Ld3nFin93R posts big blind 500
+Dealt to YL_ML_GL_42 [2s 9d]
+*** PRE-FLOP *** 
+Tiph.n raises 1000 to 1500
+Tacapas folds
+Eagle.Four folds
+YL_ML_GL_42 folds
+alpchino65 folds
+G0Ld3nFin93R folds
+Tiph.n collected 2610 from pot
+*** SUMMARY ***
+Total pot 2610 | No rake
+Seat 5: Tiph.n won 2610
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2603157116642394180-51-1670530943 - Holdem no limit (60/250/500) - 2022/12/08 20:22:23 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #3 is the button
+Seat 1: Eagle.Four (48368, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18990, 1.80€ bounty)
+Seat 3: alpchino65 (17440, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (66880, 2.70€ bounty)
+Seat 5: Tiph.n (43901, 2.70€ bounty)
+Seat 6: Tacapas (33605, 1.80€ bounty)
+*** ANTE/BLINDS ***
+G0Ld3nFin93R posts ante 60
+Tiph.n posts ante 60
+Eagle.Four posts ante 60
+YL_ML_GL_42 posts ante 60
+alpchino65 posts ante 60
+Tacapas posts ante 60
+G0Ld3nFin93R posts small blind 250
+Tiph.n posts big blind 500
+Dealt to YL_ML_GL_42 [Tc 8c]
+*** PRE-FLOP *** 
+Tacapas folds
+Eagle.Four raises 750 to 1250
+YL_ML_GL_42 folds
+alpchino65 folds
+G0Ld3nFin93R calls 1000
+Tiph.n calls 750
+*** FLOP *** [6c 6d 5h]
+G0Ld3nFin93R bets 2672
+Tiph.n folds
+Eagle.Four calls 2672
+*** TURN *** [6c 6d 5h][4c]
+G0Ld3nFin93R bets 3309
+Eagle.Four calls 3309
+*** RIVER *** [6c 6d 5h 4c][2d]
+G0Ld3nFin93R bets 5625
+Eagle.Four calls 5625
+*** SHOW DOWN ***
+G0Ld3nFin93R shows [Th Kh] (One pair : 6)
+Eagle.Four shows [7d 7h] (Two pairs : 7 and 6)
+Eagle.Four collected 27322 from pot
+*** SUMMARY ***
+Total pot 27322 | No rake
+Board: [6c 6d 5h 4c 2d]
+Seat 1: Eagle.Four showed [7d 7h] and won 27322 with Two pairs : 7 and 6
+Seat 4: G0Ld3nFin93R (small blind) showed [Th Kh] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2603157116642394180-52-1670531002 - Holdem no limit (60/250/500) - 2022/12/08 20:23:22 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #4 is the button
+Seat 1: Eagle.Four (62774, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18930, 1.80€ bounty)
+Seat 3: alpchino65 (17380, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (53964, 2.70€ bounty)
+Seat 5: Tiph.n (42591, 2.70€ bounty)
+Seat 6: Tacapas (33545, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Tiph.n posts ante 60
+Tacapas posts ante 60
+Eagle.Four posts ante 60
+YL_ML_GL_42 posts ante 60
+alpchino65 posts ante 60
+G0Ld3nFin93R posts ante 60
+Tiph.n posts small blind 250
+Tacapas posts big blind 500
+Dealt to YL_ML_GL_42 [Tc 2c]
+*** PRE-FLOP *** 
+Eagle.Four raises 750 to 1250
+YL_ML_GL_42 folds
+alpchino65 folds
+G0Ld3nFin93R folds
+Tiph.n folds
+Tacapas calls 750
+*** FLOP *** [3c Ac Jd]
+Tacapas checks
+Eagle.Four bets 1089
+Tacapas calls 1089
+*** TURN *** [3c Ac Jd][8s]
+Tacapas checks
+Eagle.Four bets 3966
+Tacapas calls 3966
+*** RIVER *** [3c Ac Jd 8s][9c]
+Tacapas bets 4627
+Eagle.Four calls 4627
+*** SHOW DOWN ***
+Tacapas shows [Ah Th] (One pair : Aces)
+Eagle.Four shows [Ad Kh] (One pair : Aces)
+Eagle.Four collected 22474 from pot
+*** SUMMARY ***
+Total pot 22474 | No rake
+Board: [3c Ac Jd 8s 9c]
+Seat 1: Eagle.Four showed [Ad Kh] and won 22474 with One pair : Aces
+Seat 6: Tacapas (big blind) showed [Ah Th] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2603157116642394180-53-1670531043 - Holdem no limit (60/250/500) - 2022/12/08 20:24:03 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #5 is the button
+Seat 1: Eagle.Four (74256, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18870, 1.80€ bounty)
+Seat 3: alpchino65 (17320, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (53904, 2.70€ bounty)
+Seat 5: Tiph.n (42281, 2.70€ bounty)
+Seat 6: Tacapas (22553, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Tacapas posts ante 60
+Eagle.Four posts ante 60
+YL_ML_GL_42 posts ante 60
+alpchino65 posts ante 60
+G0Ld3nFin93R posts ante 60
+Tiph.n posts ante 60
+Tacapas posts small blind 250
+Eagle.Four posts big blind 500
+Dealt to YL_ML_GL_42 [Tc 7c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+alpchino65 folds
+G0Ld3nFin93R folds
+Tiph.n folds
+Tacapas calls 250
+Eagle.Four checks
+*** FLOP *** [Kc 7d Qc]
+Tacapas checks
+Eagle.Four checks
+*** TURN *** [Kc 7d Qc][Js]
+Tacapas bets 500
+Eagle.Four calls 500
+*** RIVER *** [Kc 7d Qc Js][Qd]
+Tacapas bets 2360
+Eagle.Four folds
+Tacapas collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Board: [Kc 7d Qc Js Qd]
+Seat 6: Tacapas (small blind) won 4720
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2603157116642394180-54-1670531086 - Holdem no limit (60/250/500) - 2022/12/08 20:24:46 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #6 is the button
+Seat 1: Eagle.Four (73196, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18810, 1.80€ bounty)
+Seat 3: alpchino65 (17260, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (53844, 2.70€ bounty)
+Seat 5: Tiph.n (42221, 2.70€ bounty)
+Seat 6: Tacapas (23853, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Eagle.Four posts ante 60
+YL_ML_GL_42 posts ante 60
+alpchino65 posts ante 60
+G0Ld3nFin93R posts ante 60
+Tiph.n posts ante 60
+Tacapas posts ante 60
+Eagle.Four posts small blind 250
+YL_ML_GL_42 posts big blind 500
+Dealt to YL_ML_GL_42 [9d 3c]
+*** PRE-FLOP *** 
+alpchino65 calls 500
+G0Ld3nFin93R folds
+Tiph.n folds
+Tacapas folds
+Eagle.Four raises 1250 to 1750
+YL_ML_GL_42 folds
+alpchino65 calls 1250
+*** FLOP *** [Kh 5h Qc]
+Eagle.Four bets 1090
+alpchino65 raises 6540 to 7630
+Eagle.Four folds
+alpchino65 collected 13080 from pot
+*** SUMMARY ***
+Total pot 13080 | No rake
+Board: [Kh 5h Qc]
+Seat 3: alpchino65 won 13080
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2603157116642394180-55-1670531130 - Holdem no limit (60/250/500) - 2022/12/08 20:25:30 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #1 is the button
+Seat 1: Eagle.Four (70296, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18250, 1.80€ bounty)
+Seat 3: alpchino65 (20900, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (53784, 2.70€ bounty)
+Seat 5: Tiph.n (42161, 2.70€ bounty)
+Seat 6: Tacapas (23793, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+alpchino65 posts ante 60
+Eagle.Four posts ante 60
+G0Ld3nFin93R posts ante 60
+Tiph.n posts ante 60
+Tacapas posts ante 60
+YL_ML_GL_42 posts small blind 250
+alpchino65 posts big blind 500
+Dealt to YL_ML_GL_42 [Th 6d]
+*** PRE-FLOP *** 
+G0Ld3nFin93R raises 625 to 1125
+Tiph.n folds
+Tacapas calls 1125
+Eagle.Four folds
+YL_ML_GL_42 folds
+alpchino65 calls 625
+*** FLOP *** [Tc 8d 8s]
+alpchino65 checks
+G0Ld3nFin93R checks
+Tacapas checks
+*** TURN *** [Tc 8d 8s][2h]
+alpchino65 checks
+G0Ld3nFin93R bets 1395
+Tacapas folds
+alpchino65 folds
+G0Ld3nFin93R collected 5380 from pot
+*** SUMMARY ***
+Total pot 5380 | No rake
+Board: [Tc 8d 8s 2h]
+Seat 4: G0Ld3nFin93R won 5380
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2603157116642394180-56-1670531190 - Holdem no limit (70/300/600) - 2022/12/08 20:26:30 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #2 is the button
+Seat 1: Eagle.Four (70236, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (17940, 1.80€ bounty)
+Seat 3: alpchino65 (19715, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (56584, 2.70€ bounty)
+Seat 5: Tiph.n (42101, 2.70€ bounty)
+Seat 6: Tacapas (22608, 1.80€ bounty)
+*** ANTE/BLINDS ***
+alpchino65 posts ante 70
+G0Ld3nFin93R posts ante 70
+Eagle.Four posts ante 70
+YL_ML_GL_42 posts ante 70
+Tiph.n posts ante 70
+Tacapas posts ante 70
+alpchino65 posts small blind 300
+G0Ld3nFin93R posts big blind 600
+Dealt to YL_ML_GL_42 [2d 3d]
+*** PRE-FLOP *** 
+Tiph.n folds
+Tacapas raises 750 to 1350
+Eagle.Four folds
+YL_ML_GL_42 folds
+alpchino65 folds
+G0Ld3nFin93R calls 750
+*** FLOP *** [Jc As 9c]
+G0Ld3nFin93R checks
+Tacapas bets 1197
+G0Ld3nFin93R folds
+Tacapas collected 4617 from pot
+*** SUMMARY ***
+Total pot 4617 | No rake
+Board: [Jc As 9c]
+Seat 6: Tacapas won 4617
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2603157116642394180-57-1670531218 - Holdem no limit (70/300/600) - 2022/12/08 20:26:58 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #3 is the button
+Seat 1: Eagle.Four (70166, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (17870, 1.80€ bounty)
+Seat 3: alpchino65 (19345, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (55164, 2.70€ bounty)
+Seat 5: Tiph.n (42031, 2.70€ bounty)
+Seat 6: Tacapas (24608, 1.80€ bounty)
+*** ANTE/BLINDS ***
+G0Ld3nFin93R posts ante 70
+Tiph.n posts ante 70
+Eagle.Four posts ante 70
+YL_ML_GL_42 posts ante 70
+alpchino65 posts ante 70
+Tacapas posts ante 70
+G0Ld3nFin93R posts small blind 300
+Tiph.n posts big blind 600
+Dealt to YL_ML_GL_42 [Qc 7h]
+*** PRE-FLOP *** 
+Tacapas folds
+Eagle.Four folds
+YL_ML_GL_42 folds
+alpchino65 folds
+G0Ld3nFin93R calls 300
+Tiph.n checks
+*** FLOP *** [6c 3c 7d]
+G0Ld3nFin93R bets 810
+Tiph.n calls 810
+*** TURN *** [6c 3c 7d][Qs]
+G0Ld3nFin93R bets 2106
+Tiph.n calls 2106
+*** RIVER *** [6c 3c 7d Qs][9d]
+G0Ld3nFin93R checks
+Tiph.n bets 7452
+G0Ld3nFin93R calls 7452
+*** SHOW DOWN ***
+G0Ld3nFin93R shows [7c 5d] (One pair : 7)
+Tiph.n shows [Qd Ks] (One pair : Queens)
+Tiph.n collected 22356 from pot
+*** SUMMARY ***
+Total pot 22356 | No rake
+Board: [6c 3c 7d Qs 9d]
+Seat 4: G0Ld3nFin93R (small blind) showed [7c 5d] and lost with One pair : 7
+Seat 5: Tiph.n (big blind) showed [Qd Ks] and won 22356 with One pair : Queens
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2603157116642394180-58-1670531278 - Holdem no limit (70/300/600) - 2022/12/08 20:27:58 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #4 is the button
+Seat 1: Eagle.Four (70096, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (17800, 1.80€ bounty)
+Seat 3: alpchino65 (19275, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (44126, 2.70€ bounty)
+Seat 5: Tiph.n (53349, 2.70€ bounty)
+Seat 6: Tacapas (24538, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Tiph.n posts ante 70
+Tacapas posts ante 70
+Eagle.Four posts ante 70
+YL_ML_GL_42 posts ante 70
+alpchino65 posts ante 70
+G0Ld3nFin93R posts ante 70
+Tiph.n posts small blind 300
+Tacapas posts big blind 600
+Dealt to YL_ML_GL_42 [8h 5s]
+*** PRE-FLOP *** 
+Eagle.Four raises 900 to 1500
+YL_ML_GL_42 folds
+alpchino65 folds
+G0Ld3nFin93R calls 1500
+Tiph.n folds
+Tacapas folds
+*** FLOP *** [Jc Jh 5d]
+Eagle.Four checks
+G0Ld3nFin93R checks
+*** TURN *** [Jc Jh 5d][3s]
+Eagle.Four bets 1800
+G0Ld3nFin93R folds
+Eagle.Four collected 6120 from pot
+*** SUMMARY ***
+Total pot 6120 | No rake
+Board: [Jc Jh 5d 3s]
+Seat 1: Eagle.Four won 6120
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2603157116642394180-59-1670531332 - Holdem no limit (70/300/600) - 2022/12/08 20:28:52 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #5 is the button
+Seat 1: Eagle.Four (72846, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (17730, 1.80€ bounty)
+Seat 3: alpchino65 (19205, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (42556, 2.70€ bounty)
+Seat 5: Tiph.n (52979, 2.70€ bounty)
+Seat 6: Tacapas (23868, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Tacapas posts ante 70
+Eagle.Four posts ante 70
+YL_ML_GL_42 posts ante 70
+alpchino65 posts ante 70
+G0Ld3nFin93R posts ante 70
+Tiph.n posts ante 70
+Tacapas posts small blind 300
+Eagle.Four posts big blind 600
+Dealt to YL_ML_GL_42 [2h 7c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+alpchino65 folds
+G0Ld3nFin93R raises 750 to 1350
+Tiph.n calls 1350
+Tacapas folds
+Eagle.Four calls 750
+*** FLOP *** [Th Kc 7s]
+Eagle.Four checks
+G0Ld3nFin93R bets 1193
+Tiph.n calls 1193
+Eagle.Four calls 1193
+*** TURN *** [Th Kc 7s][6s]
+Eagle.Four checks
+G0Ld3nFin93R bets 6679
+Tiph.n calls 6679
+Eagle.Four folds
+*** RIVER *** [Th Kc 7s 6s][6c]
+G0Ld3nFin93R checks
+Tiph.n bets 7597
+G0Ld3nFin93R folds
+Tiph.n collected 29304 from pot
+*** SUMMARY ***
+Total pot 29304 | No rake
+Board: [Th Kc 7s 6s 6c]
+Seat 5: Tiph.n (button) won 29304
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2603157116642394180-60-1670531398 - Holdem no limit (70/300/600) - 2022/12/08 20:29:58 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #6 is the button
+Seat 1: Eagle.Four (70233, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (17660, 1.80€ bounty)
+Seat 3: alpchino65 (19135, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (33264, 2.70€ bounty)
+Seat 5: Tiph.n (65394, 2.70€ bounty)
+Seat 6: Tacapas (23498, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Eagle.Four posts ante 70
+YL_ML_GL_42 posts ante 70
+alpchino65 posts ante 70
+G0Ld3nFin93R posts ante 70
+Tiph.n posts ante 70
+Tacapas posts ante 70
+Eagle.Four posts small blind 300
+YL_ML_GL_42 posts big blind 600
+Dealt to YL_ML_GL_42 [2c 6s]
+*** PRE-FLOP *** 
+alpchino65 folds
+G0Ld3nFin93R raises 600 to 1200
+Tiph.n folds
+Tacapas calls 1200
+Eagle.Four raises 3600 to 4800
+YL_ML_GL_42 folds
+G0Ld3nFin93R calls 3600
+Tacapas calls 3600
+*** FLOP *** [Ac 3c 8s]
+Eagle.Four bets 3600
+G0Ld3nFin93R calls 3600
+Tacapas raises 15028 to 18628 and is all-in
+Eagle.Four folds
+G0Ld3nFin93R calls 15028
+*** TURN *** [Ac 3c 8s][3d]
+*** RIVER *** [Ac 3c 8s 3d][Qs]
+*** SHOW DOWN ***
+G0Ld3nFin93R shows [6d Ad] (Two pairs : Aces and 3)
+Tacapas shows [As 3s] (Full of 3 and Aces)
+Tacapas collected 56276 from pot
+*** SUMMARY ***
+Total pot 56276 | No rake
+Board: [Ac 3c 8s 3d Qs]
+Seat 4: G0Ld3nFin93R showed [6d Ad] and lost with Two pairs : Aces and 3
+Seat 6: Tacapas (button) showed [As 3s] and won 56276 with Full of 3 and Aces
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2603157116642394180-61-1670531466 - Holdem no limit (70/300/600) - 2022/12/08 20:31:06 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #1 is the button
+Seat 1: Eagle.Four (61763, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (16990, 1.80€ bounty)
+Seat 3: alpchino65 (19065, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (9766, 2.70€ bounty)
+Seat 5: Tiph.n (65324, 2.70€ bounty)
+Seat 6: Tacapas (56276, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 70
+alpchino65 posts ante 70
+Eagle.Four posts ante 70
+G0Ld3nFin93R posts ante 70
+Tiph.n posts ante 70
+Tacapas posts ante 70
+YL_ML_GL_42 posts small blind 300
+alpchino65 posts big blind 600
+Dealt to YL_ML_GL_42 [3c 4c]
+*** PRE-FLOP *** 
+G0Ld3nFin93R folds
+Tiph.n folds
+Tacapas folds
+Eagle.Four raises 600 to 1200
+YL_ML_GL_42 folds
+alpchino65 calls 600
+*** FLOP *** [Kc 7h Jh]
+alpchino65 checks
+Eagle.Four bets 1200
+alpchino65 calls 1200
+*** TURN *** [Kc 7h Jh][Kh]
+alpchino65 checks
+Eagle.Four bets 3000
+alpchino65 folds
+Eagle.Four collected 8520 from pot
+*** SUMMARY ***
+Total pot 8520 | No rake
+Board: [Kc 7h Jh Kh]
+Seat 1: Eagle.Four (button) won 8520
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2603157116642394180-62-1670531526 - Holdem no limit (80/350/700) - 2022/12/08 20:32:06 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #2 is the button
+Seat 1: Eagle.Four (64813, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (16620, 1.80€ bounty)
+Seat 3: alpchino65 (16595, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (9696, 2.70€ bounty)
+Seat 5: Tiph.n (65254, 2.70€ bounty)
+Seat 6: Tacapas (56206, 1.80€ bounty)
+*** ANTE/BLINDS ***
+alpchino65 posts ante 80
+G0Ld3nFin93R posts ante 80
+Eagle.Four posts ante 80
+YL_ML_GL_42 posts ante 80
+Tiph.n posts ante 80
+Tacapas posts ante 80
+alpchino65 posts small blind 350
+G0Ld3nFin93R posts big blind 700
+Dealt to YL_ML_GL_42 [9s Ad]
+*** PRE-FLOP *** 
+Tiph.n folds
+Tacapas folds
+Eagle.Four raises 1050 to 1750
+YL_ML_GL_42 raises 14790 to 16540 and is all-in
+alpchino65 folds
+G0Ld3nFin93R calls 8916 and is all-in
+Eagle.Four folds
+*** FLOP *** [8c 6h 2c]
+*** TURN *** [8c 6h 2c][9d]
+*** RIVER *** [8c 6h 2c 9d][Qd]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9s Ad] (One pair : 9)
+G0Ld3nFin93R shows [Jd Js] (One pair : Jacks)
+G0Ld3nFin93R collected 21812 from main pot
+YL_ML_GL_42 collected 6924 from side pot 1
+*** SUMMARY ***
+Total pot 28736 | No rake
+Board: [8c 6h 2c 9d Qd]
+Seat 2: YL_ML_GL_42 (button) showed [9s Ad] and won 6924 with One pair : 9
+Seat 4: G0Ld3nFin93R (big blind) showed [Jd Js] and won 21812 with One pair : Jacks
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2603157116642394180-63-1670531574 - Holdem no limit (80/350/700) - 2022/12/08 20:32:54 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #3 is the button
+Seat 1: Eagle.Four (62983, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (6924, 1.80€ bounty)
+Seat 3: alpchino65 (16165, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (21812, 2.70€ bounty)
+Seat 5: Tiph.n (65174, 2.70€ bounty)
+Seat 6: Tacapas (56126, 1.80€ bounty)
+*** ANTE/BLINDS ***
+G0Ld3nFin93R posts ante 80
+Tiph.n posts ante 80
+Eagle.Four posts ante 80
+YL_ML_GL_42 posts ante 80
+alpchino65 posts ante 80
+Tacapas posts ante 80
+G0Ld3nFin93R posts small blind 350
+Tiph.n posts big blind 700
+Dealt to YL_ML_GL_42 [3d Jc]
+*** PRE-FLOP *** 
+Tacapas calls 700
+Eagle.Four folds
+YL_ML_GL_42 folds
+alpchino65 folds
+G0Ld3nFin93R calls 350
+Tiph.n checks
+*** FLOP *** [4h 2h 5h]
+G0Ld3nFin93R checks
+Tiph.n checks
+Tacapas bets 1290
+G0Ld3nFin93R calls 1290
+Tiph.n folds
+*** TURN *** [4h 2h 5h][8h]
+G0Ld3nFin93R checks
+Tacapas bets 2580
+G0Ld3nFin93R calls 2580
+*** RIVER *** [4h 2h 5h 8h][9s]
+G0Ld3nFin93R checks
+Tacapas checks
+*** SHOW DOWN ***
+Tacapas shows [As 2s] (One pair : 2)
+G0Ld3nFin93R shows [6h Js] (Flush 8 high)
+G0Ld3nFin93R collected 10320 from pot
+*** SUMMARY ***
+Total pot 10320 | No rake
+Board: [4h 2h 5h 8h 9s]
+Seat 4: G0Ld3nFin93R (small blind) showed [6h Js] and won 10320 with Flush 8 high
+Seat 6: Tacapas showed [As 2s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2603157116642394180-64-1670531641 - Holdem no limit (80/350/700) - 2022/12/08 20:34:01 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #4 is the button
+Seat 1: Eagle.Four (62903, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (6844, 1.80€ bounty)
+Seat 3: alpchino65 (16085, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (27482, 2.70€ bounty)
+Seat 5: Tiph.n (64394, 2.70€ bounty)
+Seat 6: Tacapas (51476, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Tiph.n posts ante 80
+Tacapas posts ante 80
+Eagle.Four posts ante 80
+YL_ML_GL_42 posts ante 80
+alpchino65 posts ante 80
+G0Ld3nFin93R posts ante 80
+Tiph.n posts small blind 350
+Tacapas posts big blind 700
+Dealt to YL_ML_GL_42 [5d Kh]
+*** PRE-FLOP *** 
+Eagle.Four folds
+YL_ML_GL_42 folds
+alpchino65 folds
+G0Ld3nFin93R raises 1050 to 1750
+Tiph.n calls 1400
+Tacapas folds
+*** FLOP *** [Jh 2s 9c]
+Tiph.n checks
+G0Ld3nFin93R checks
+*** TURN *** [Jh 2s 9c][4s]
+Tiph.n bets 1638
+G0Ld3nFin93R calls 1638
+*** RIVER *** [Jh 2s 9c 4s][6d]
+Tiph.n bets 7956
+G0Ld3nFin93R folds
+Tiph.n collected 15912 from pot
+*** SUMMARY ***
+Total pot 15912 | No rake
+Board: [Jh 2s 9c 4s 6d]
+Seat 5: Tiph.n (small blind) won 15912
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2603157116642394180-65-1670531687 - Holdem no limit (80/350/700) - 2022/12/08 20:34:47 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #5 is the button
+Seat 1: Eagle.Four (62823, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (6764, 1.80€ bounty)
+Seat 3: alpchino65 (16005, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (24014, 2.70€ bounty)
+Seat 5: Tiph.n (68882, 2.70€ bounty)
+Seat 6: Tacapas (50696, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Tacapas posts ante 80
+Eagle.Four posts ante 80
+YL_ML_GL_42 posts ante 80
+alpchino65 posts ante 80
+G0Ld3nFin93R posts ante 80
+Tiph.n posts ante 80
+Tacapas posts small blind 350
+Eagle.Four posts big blind 700
+Dealt to YL_ML_GL_42 [Kh 9c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+alpchino65 folds
+G0Ld3nFin93R raises 1050 to 1750
+Tiph.n calls 1750
+Tacapas folds
+Eagle.Four calls 1050
+*** FLOP *** [9s 2d 2s]
+Eagle.Four checks
+G0Ld3nFin93R bets 3952
+Tiph.n folds
+Eagle.Four folds
+G0Ld3nFin93R collected 10032 from pot
+*** SUMMARY ***
+Total pot 10032 | No rake
+Board: [9s 2d 2s]
+Seat 4: G0Ld3nFin93R won 10032
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2603157116642394180-66-1670531720 - Holdem no limit (80/350/700) - 2022/12/08 20:35:20 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #6 is the button
+Seat 1: Eagle.Four (60993, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (6684, 1.80€ bounty)
+Seat 3: alpchino65 (15925, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (28264, 2.70€ bounty)
+Seat 5: Tiph.n (67052, 2.70€ bounty)
+Seat 6: Tacapas (50266, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Eagle.Four posts ante 80
+YL_ML_GL_42 posts ante 80
+alpchino65 posts ante 80
+G0Ld3nFin93R posts ante 80
+Tiph.n posts ante 80
+Tacapas posts ante 80
+Eagle.Four posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [Qc 5d]
+*** PRE-FLOP *** 
+alpchino65 folds
+G0Ld3nFin93R folds
+Tiph.n folds
+Tacapas folds
+Eagle.Four folds
+YL_ML_GL_42 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 1530
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2603157116642394180-67-1670531746 - Holdem no limit (80/350/700) - 2022/12/08 20:35:46 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #1 is the button
+Seat 1: Eagle.Four (60563, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (7434, 1.80€ bounty)
+Seat 3: alpchino65 (15845, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (28184, 2.70€ bounty)
+Seat 5: Tiph.n (66972, 2.70€ bounty)
+Seat 6: Tacapas (50186, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+alpchino65 posts ante 80
+Eagle.Four posts ante 80
+G0Ld3nFin93R posts ante 80
+Tiph.n posts ante 80
+Tacapas posts ante 80
+YL_ML_GL_42 posts small blind 350
+alpchino65 posts big blind 700
+Dealt to YL_ML_GL_42 [Td 7s]
+*** PRE-FLOP *** 
+G0Ld3nFin93R raises 875 to 1575
+Tiph.n folds
+Tacapas folds
+Eagle.Four folds
+YL_ML_GL_42 folds
+alpchino65 calls 875
+*** FLOP *** [Kd 2h Js]
+alpchino65 checks
+G0Ld3nFin93R bets 995
+alpchino65 calls 995
+*** TURN *** [Kd 2h Js][7d]
+alpchino65 checks
+G0Ld3nFin93R checks
+*** RIVER *** [Kd 2h Js 7d][Jc]
+alpchino65 checks
+G0Ld3nFin93R checks
+*** SHOW DOWN ***
+alpchino65 shows [9h Qc] (One pair : Jacks)
+G0Ld3nFin93R shows [As 7h] (Two pairs : Jacks and 7)
+G0Ld3nFin93R collected 5970 from pot
+*** SUMMARY ***
+Total pot 5970 | No rake
+Board: [Kd 2h Js 7d Jc]
+Seat 3: alpchino65 (big blind) showed [9h Qc] and lost with One pair : Jacks
+Seat 4: G0Ld3nFin93R showed [As 7h] and won 5970 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2603157116642394180-68-1670531798 - Holdem no limit (100/400/800) - 2022/12/08 20:36:38 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #2 is the button
+Seat 1: Eagle.Four (60483, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (7004, 1.80€ bounty)
+Seat 3: alpchino65 (13195, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (31504, 2.70€ bounty)
+Seat 5: Tiph.n (66892, 2.70€ bounty)
+Seat 6: Tacapas (50106, 1.80€ bounty)
+*** ANTE/BLINDS ***
+alpchino65 posts ante 100
+G0Ld3nFin93R posts ante 100
+Eagle.Four posts ante 100
+YL_ML_GL_42 posts ante 100
+Tiph.n posts ante 100
+Tacapas posts ante 100
+alpchino65 posts small blind 400
+G0Ld3nFin93R posts big blind 800
+Dealt to YL_ML_GL_42 [2s 4s]
+*** PRE-FLOP *** 
+Tiph.n folds
+Tacapas folds
+Eagle.Four raises 800 to 1600
+YL_ML_GL_42 folds
+alpchino65 raises 11495 to 13095 and is all-in
+G0Ld3nFin93R folds
+Eagle.Four calls 11495
+*** FLOP *** [8d Ts 9d]
+*** TURN *** [8d Ts 9d][9s]
+*** RIVER *** [8d Ts 9d 9s][Th]
+*** SHOW DOWN ***
+Eagle.Four shows [3s Ad] (Two pairs : Tens and 9)
+alpchino65 shows [Qc Jh] (Straight Queen high)
+alpchino65 collected 27590 from pot
+*** SUMMARY ***
+Total pot 27590 | No rake
+Board: [8d Ts 9d 9s Th]
+Seat 1: Eagle.Four showed [3s Ad] and lost with Two pairs : Tens and 9
+Seat 3: alpchino65 (small blind) showed [Qc Jh] and won 27590 with Straight Queen high
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2603157116642394180-69-1670531829 - Holdem no limit (100/400/800) - 2022/12/08 20:37:09 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #3 is the button
+Seat 1: Eagle.Four (47288, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (6904, 1.80€ bounty)
+Seat 3: alpchino65 (27590, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (30604, 2.70€ bounty)
+Seat 5: Tiph.n (66792, 2.70€ bounty)
+Seat 6: Tacapas (50006, 1.80€ bounty)
+*** ANTE/BLINDS ***
+G0Ld3nFin93R posts ante 100
+Tiph.n posts ante 100
+Eagle.Four posts ante 100
+YL_ML_GL_42 posts ante 100
+alpchino65 posts ante 100
+Tacapas posts ante 100
+G0Ld3nFin93R posts small blind 400
+Tiph.n posts big blind 800
+Dealt to YL_ML_GL_42 [As 2d]
+*** PRE-FLOP *** 
+Tacapas folds
+Eagle.Four folds
+YL_ML_GL_42 raises 6004 to 6804 and is all-in
+alpchino65 folds
+G0Ld3nFin93R folds
+Tiph.n folds
+YL_ML_GL_42 collected 8604 from pot
+*** SUMMARY ***
+Total pot 8604 | No rake
+Seat 2: YL_ML_GL_42 won 8604
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2603157116642394180-70-1670531855 - Holdem no limit (100/400/800) - 2022/12/08 20:37:35 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #4 is the button
+Seat 1: Eagle.Four (47188, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (8604, 1.80€ bounty)
+Seat 3: alpchino65 (27490, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (30104, 2.70€ bounty)
+Seat 5: Tiph.n (65892, 2.70€ bounty)
+Seat 6: Tacapas (49906, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Tiph.n posts ante 100
+Tacapas posts ante 100
+Eagle.Four posts ante 100
+YL_ML_GL_42 posts ante 100
+alpchino65 posts ante 100
+G0Ld3nFin93R posts ante 100
+Tiph.n posts small blind 400
+Tacapas posts big blind 800
+Dealt to YL_ML_GL_42 [2h Kh]
+*** PRE-FLOP *** 
+Eagle.Four folds
+YL_ML_GL_42 raises 7704 to 8504 and is all-in
+alpchino65 folds
+G0Ld3nFin93R folds
+Tiph.n calls 8104
+Tacapas folds
+*** FLOP *** [Ks 4h 5s]
+*** TURN *** [Ks 4h 5s][6d]
+*** RIVER *** [Ks 4h 5s 6d][8s]
+*** SHOW DOWN ***
+Tiph.n shows [Qh Ac] (High card : Ace)
+YL_ML_GL_42 shows [2h Kh] (One pair : Kings)
+YL_ML_GL_42 collected 18408 from pot
+*** SUMMARY ***
+Total pot 18408 | No rake
+Board: [Ks 4h 5s 6d 8s]
+Seat 2: YL_ML_GL_42 showed [2h Kh] and won 18408 with One pair : Kings
+Seat 5: Tiph.n (small blind) showed [Qh Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2603157116642394180-71-1670531886 - Holdem no limit (100/400/800) - 2022/12/08 20:38:06 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #5 is the button
+Seat 1: Eagle.Four (47088, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18408, 1.80€ bounty)
+Seat 3: alpchino65 (27390, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (30004, 2.70€ bounty)
+Seat 5: Tiph.n (57288, 2.70€ bounty)
+Seat 6: Tacapas (49006, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Tacapas posts ante 100
+Eagle.Four posts ante 100
+YL_ML_GL_42 posts ante 100
+alpchino65 posts ante 100
+G0Ld3nFin93R posts ante 100
+Tiph.n posts ante 100
+Tacapas posts small blind 400
+Eagle.Four posts big blind 800
+Dealt to YL_ML_GL_42 [Ts 9h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+alpchino65 folds
+G0Ld3nFin93R folds
+Tiph.n raises 800 to 1600
+Tacapas folds
+Eagle.Four folds
+Tiph.n collected 3400 from pot
+*** SUMMARY ***
+Total pot 3400 | No rake
+Seat 5: Tiph.n (button) won 3400
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2603157116642394180-72-1670531924 - Holdem no limit (100/400/800) - 2022/12/08 20:38:44 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #6 is the button
+Seat 1: Eagle.Four (46188, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18308, 1.80€ bounty)
+Seat 3: alpchino65 (27290, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (29904, 2.70€ bounty)
+Seat 5: Tiph.n (58988, 2.70€ bounty)
+Seat 6: Tacapas (48506, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Eagle.Four posts ante 100
+YL_ML_GL_42 posts ante 100
+alpchino65 posts ante 100
+G0Ld3nFin93R posts ante 100
+Tiph.n posts ante 100
+Tacapas posts ante 100
+Eagle.Four posts small blind 400
+YL_ML_GL_42 posts big blind 800
+Dealt to YL_ML_GL_42 [Jd 3h]
+*** PRE-FLOP *** 
+alpchino65 folds
+G0Ld3nFin93R raises 800 to 1600
+Tiph.n folds
+Tacapas calls 1600
+Eagle.Four calls 1200
+YL_ML_GL_42 folds
+*** FLOP *** [Th 3d 3s]
+Eagle.Four checks
+G0Ld3nFin93R checks
+Tacapas bets 4030
+Eagle.Four folds
+G0Ld3nFin93R folds
+Tacapas collected 10230 from pot
+*** SUMMARY ***
+Total pot 10230 | No rake
+Board: [Th 3d 3s]
+Seat 6: Tacapas (button) won 10230
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2603157116642394180-73-1670531987 - Holdem no limit (100/400/800) - 2022/12/08 20:39:47 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #1 is the button
+Seat 1: Eagle.Four (44488, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (17408, 1.80€ bounty)
+Seat 3: alpchino65 (27190, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (28204, 2.70€ bounty)
+Seat 5: Tiph.n (58888, 2.70€ bounty)
+Seat 6: Tacapas (53006, 1.80€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 100
+alpchino65 posts ante 100
+Eagle.Four posts ante 100
+G0Ld3nFin93R posts ante 100
+Tiph.n posts ante 100
+Tacapas posts ante 100
+YL_ML_GL_42 posts small blind 400
+alpchino65 posts big blind 800
+Dealt to YL_ML_GL_42 [Ts Qs]
+*** PRE-FLOP *** 
+G0Ld3nFin93R folds
+Tiph.n folds
+Tacapas folds
+Eagle.Four folds
+YL_ML_GL_42 raises 3546 to 4346
+alpchino65 folds
+YL_ML_GL_42 collected 5746 from pot
+*** SUMMARY ***
+Total pot 5746 | No rake
+Seat 2: YL_ML_GL_42 (small blind) won 5746
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2603157116642394180-74-1670532009 - Holdem no limit (100/400/800) - 2022/12/08 20:40:09 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0067' 6-max (real money) Seat #2 is the button
+Seat 1: Eagle.Four (44388, 4.50€ bounty)
+Seat 2: YL_ML_GL_42 (18708, 1.80€ bounty)
+Seat 3: alpchino65 (26290, 1.80€ bounty)
+Seat 4: G0Ld3nFin93R (28104, 2.70€ bounty)
+Seat 5: Tiph.n (58788, 2.70€ bounty)
+Seat 6: Tacapas (52906, 1.80€ bounty)
+*** ANTE/BLINDS ***
+alpchino65 posts ante 100
+G0Ld3nFin93R posts ante 100
+Eagle.Four posts ante 100
+YL_ML_GL_42 posts ante 100
+Tiph.n posts ante 100
+Tacapas posts ante 100
+alpchino65 posts small blind 400
+G0Ld3nFin93R posts big blind 800
+Dealt to YL_ML_GL_42 [As 3d]
+*** PRE-FLOP *** 
+Tiph.n folds
+Tacapas folds
+Eagle.Four folds
+YL_ML_GL_42 raises 2600 to 3400
+alpchino65 folds
+G0Ld3nFin93R calls 2600
+*** FLOP *** [Ks Qs 7s]
+G0Ld3nFin93R bets 2730
+YL_ML_GL_42 raises 10062 to 12792
+G0Ld3nFin93R raises 10062 to 22854
+YL_ML_GL_42 calls 2416 and is all-in
+*** TURN *** [Ks Qs 7s][Jc]
+*** RIVER *** [Ks Qs 7s Jc][4d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [As 3d] (High card : Ace)
+G0Ld3nFin93R shows [9d Ts] (Straight King high)
+G0Ld3nFin93R collected 45862 from pot
+*** SUMMARY ***
+Total pot 45862 | No rake
+Board: [Ks Qs 7s Jc 4d]
+Seat 2: YL_ML_GL_42 (button) showed [As 3d] and lost with High card : Ace
+Seat 4: G0Ld3nFin93R (big blind) showed [9d Ts] and won 45862 with Straight King high
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2603157116642394427-62-1670532075 - Holdem no limit (100/400/800) - 2022/12/08 20:41:15 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0314' 6-max (real money) Seat #4 is the button
+Seat 1: ikery2j90 (27789, 2.70€ bounty)
+Seat 2: D.Meadows (72349, 3.15€ bounty)
+Seat 3: YL_ML_GL_42 (20000, 1.80€ bounty)
+Seat 4: will62800 (26809, 2.70€ bounty)
+Seat 5: Sants141 (20000, 1.80€ bounty)
+Seat 6: Petpa2018 (49754, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Petpa2018 posts ante 100
+ikery2j90 posts ante 100
+D.Meadows posts ante 100
+YL_ML_GL_42 posts ante 100
+will62800 posts ante 100
+Petpa2018 posts big blind 800
+Dealt to YL_ML_GL_42 [6s 4c]
+*** PRE-FLOP *** 
+ikery2j90 folds
+D.Meadows folds
+YL_ML_GL_42 folds
+will62800 calls 800
+Petpa2018 checks
+*** FLOP *** [6d 7d 4h]
+Petpa2018 checks
+will62800 bets 1680
+Petpa2018 folds
+will62800 collected 3780 from pot
+*** SUMMARY ***
+Total pot 3780 | No rake
+Board: [6d 7d 4h]
+Seat 4: will62800 (button) won 3780
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2603157116642394427-63-1670532101 - Holdem no limit (120/500/1000) - 2022/12/08 20:41:41 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0314' 6-max (real money) Seat #5 is the button
+Seat 1: ikery2j90 (27689, 2.70€ bounty)
+Seat 2: D.Meadows (72249, 3.15€ bounty)
+Seat 3: YL_ML_GL_42 (19900, 1.80€ bounty)
+Seat 4: will62800 (28009, 2.70€ bounty)
+Seat 5: Sants141 (20000, 1.80€ bounty)
+Seat 6: Petpa2018 (48854, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Petpa2018 posts ante 120
+ikery2j90 posts ante 120
+D.Meadows posts ante 120
+YL_ML_GL_42 posts ante 120
+will62800 posts ante 120
+Petpa2018 posts small blind 500
+ikery2j90 posts big blind 1000
+Dealt to YL_ML_GL_42 [9d Kc]
+*** PRE-FLOP *** 
+D.Meadows raises 1000 to 2000
+YL_ML_GL_42 folds
+will62800 calls 2000
+Petpa2018 folds
+ikery2j90 calls 1000
+*** FLOP *** [2s 6s 6d]
+ikery2j90 checks
+D.Meadows bets 3550
+will62800 folds
+ikery2j90 folds
+D.Meadows collected 10650 from pot
+*** SUMMARY ***
+Total pot 10650 | No rake
+Board: [2s 6s 6d]
+Seat 2: D.Meadows won 10650
+
+
+Winamax Poker - Tournament "POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2603157116642394427-64-1670532126 - Holdem no limit (120/500/1000) - 2022/12/08 20:42:06 UTC
+Table: 'POUR LA DARONNE - ROAD TO 3 MILLION EVENT KO(606094747)#0314' 6-max (real money) Seat #6 is the button
+Seat 1: ikery2j90 (25569, 2.70€ bounty)
+Seat 2: D.Meadows (77229, 3.15€ bounty)
+Seat 3: YL_ML_GL_42 (19780, 1.80€ bounty)
+Seat 4: will62800 (25889, 2.70€ bounty)
+Seat 5: Sants141 (20000, 1.80€ bounty)
+Seat 6: Petpa2018 (48234, 2.70€ bounty)
+*** ANTE/BLINDS ***
+ikery2j90 posts ante 120
+D.Meadows posts ante 120
+YL_ML_GL_42 posts ante 120
+will62800 posts ante 120
+Sants141 posts ante 120
+Petpa2018 posts ante 120
+ikery2j90 posts small blind 500
+D.Meadows posts big blind 1000
+Dealt to YL_ML_GL_42 [Ad 5d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 18660 to 19660 and is all-in
+will62800 folds
+Sants141 raises 220 to 19880 and is all-in
+Petpa2018 folds
+ikery2j90 raises 5569 to 25449 and is all-in
+D.Meadows folds
+*** FLOP *** [6s Jc Qs]
+*** TURN *** [6s Jc Qs][6h]
+*** RIVER *** [6s Jc Qs 6h][Ts]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ad 5d] (One pair : 6)
+Sants141 shows [Kd Td] (Two pairs : Tens and 6)
+ikery2j90 shows [Th Tc] (Full of Tens and 6)
+ikery2j90 collected 66709 from pot
+*** SUMMARY ***
+Total pot 66709 | No rake
+Board: [6s Jc Qs 6h Ts]
+Seat 1: ikery2j90 (small blind) showed [Th Tc] and won 66709 with Full of Tens and 6
+Seat 3: YL_ML_GL_42 showed [Ad 5d] and lost with One pair : 6
+Seat 5: Sants141 showed [Kd Td] and lost with Two pairs : Tens and 6
+
+

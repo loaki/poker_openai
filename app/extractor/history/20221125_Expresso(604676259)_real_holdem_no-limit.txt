@@ -1,0 +1,497 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2597064757072625665-1-1669391336 - Holdem no limit (10/20) - 2022/11/25 15:48:56 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jogot (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Noir 9389624 (500)
+*** ANTE/BLINDS ***
+Jogot posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [9d 8d]
+*** PRE-FLOP *** 
+Noir 9389624 calls 20
+Jogot calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [2h Ac Ad]
+Jogot checks
+YL_ML_GL_42 checks
+Noir 9389624 checks
+*** TURN *** [2h Ac Ad][2c]
+Jogot bets 20
+YL_ML_GL_42 folds
+Noir 9389624 calls 20
+*** RIVER *** [2h Ac Ad 2c][4c]
+Jogot bets 20
+Noir 9389624 calls 20
+*** SHOW DOWN ***
+Noir 9389624 shows [3c 3d] (Two pairs : Aces and 3)
+Jogot shows [9h 2s] (Full of 2 and Aces)
+Jogot collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [2h Ac Ad 2c 4c]
+Seat 1: Jogot (small blind) showed [9h 2s] and won 140 with Full of 2 and Aces
+Seat 3: Noir 9389624 (button) showed [3c 3d] and lost with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2597064757072625665-2-1669391370 - Holdem no limit (10/20) - 2022/11/25 15:49:30 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jogot (580)
+Seat 2: YL_ML_GL_42 (480)
+Seat 3: Noir 9389624 (440)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Noir 9389624 posts big blind 20
+Dealt to YL_ML_GL_42 [6h Jc]
+*** PRE-FLOP *** 
+Jogot calls 20
+YL_ML_GL_42 folds
+Noir 9389624 checks
+*** FLOP *** [7d 9h Th]
+Noir 9389624 checks
+Jogot checks
+*** TURN *** [7d 9h Th][Kc]
+Noir 9389624 checks
+Jogot checks
+*** RIVER *** [7d 9h Th Kc][Ks]
+Noir 9389624 checks
+Jogot checks
+*** SHOW DOWN ***
+Noir 9389624 shows [4s Qs] (One pair : Kings)
+Jogot shows [Js 7c] (Two pairs : Kings and 7)
+Jogot collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [7d 9h Th Kc Ks]
+Seat 1: Jogot (button) showed [Js 7c] and won 50 with Two pairs : Kings and 7
+Seat 3: Noir 9389624 (big blind) showed [4s Qs] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2597064757072625665-3-1669391396 - Holdem no limit (10/20) - 2022/11/25 15:49:56 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jogot (610)
+Seat 2: YL_ML_GL_42 (470)
+Seat 3: Noir 9389624 (420)
+*** ANTE/BLINDS ***
+Noir 9389624 posts small blind 10
+Jogot posts big blind 20
+Dealt to YL_ML_GL_42 [Kd Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 40 to 60
+Noir 9389624 folds
+Jogot folds
+YL_ML_GL_42 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: YL_ML_GL_42 (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2597064757072625665-4-1669391409 - Holdem no limit (10/20) - 2022/11/25 15:50:09 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jogot (590)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Noir 9389624 (410)
+*** ANTE/BLINDS ***
+Jogot posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Qd 6h]
+*** PRE-FLOP *** 
+Noir 9389624 folds
+Jogot folds
+YL_ML_GL_42 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2597064757072625665-5-1669391424 - Holdem no limit (15/30) - 2022/11/25 15:50:24 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jogot (580)
+Seat 2: YL_ML_GL_42 (510)
+Seat 3: Noir 9389624 (410)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Noir 9389624 posts big blind 30
+Dealt to YL_ML_GL_42 [Qh Kh]
+*** PRE-FLOP *** 
+Jogot folds
+YL_ML_GL_42 raises 60 to 90
+Noir 9389624 calls 60
+*** FLOP *** [Kc As Ah]
+YL_ML_GL_42 bets 180
+Noir 9389624 folds
+YL_ML_GL_42 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Kc As Ah]
+Seat 2: YL_ML_GL_42 (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2597064757072625665-6-1669391446 - Holdem no limit (15/30) - 2022/11/25 15:50:46 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jogot (580)
+Seat 2: YL_ML_GL_42 (600)
+Seat 3: Noir 9389624 (320)
+*** ANTE/BLINDS ***
+Noir 9389624 posts small blind 15
+Jogot posts big blind 30
+Dealt to YL_ML_GL_42 [4s Kc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Noir 9389624 calls 15
+Jogot checks
+*** FLOP *** [8c Td Ah]
+Noir 9389624 bets 60
+Jogot folds
+Noir 9389624 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8c Td Ah]
+Seat 3: Noir 9389624 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2597064757072625665-7-1669391475 - Holdem no limit (15/30) - 2022/11/25 15:51:15 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jogot (550)
+Seat 2: YL_ML_GL_42 (600)
+Seat 3: Noir 9389624 (350)
+*** ANTE/BLINDS ***
+Jogot posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [5c 7h]
+*** PRE-FLOP *** 
+Noir 9389624 folds
+Jogot calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [3h 2d 8h]
+Jogot checks
+YL_ML_GL_42 checks
+*** TURN *** [3h 2d 8h][Jd]
+Jogot checks
+YL_ML_GL_42 checks
+*** RIVER *** [3h 2d 8h Jd][Js]
+Jogot checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [5c 7h] (One pair : Jacks)
+Jogot shows [Jh 6c] (Trips of Jacks)
+Jogot collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3h 2d 8h Jd Js]
+Seat 1: Jogot (small blind) showed [Jh 6c] and won 60 with Trips of Jacks
+Seat 2: YL_ML_GL_42 (big blind) showed [5c 7h] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #2597064757072625665-8-1669391520 - Holdem no limit (20/40) - 2022/11/25 15:52:00 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jogot (580)
+Seat 2: YL_ML_GL_42 (570)
+Seat 3: Noir 9389624 (350)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Noir 9389624 posts big blind 40
+Dealt to YL_ML_GL_42 [6s 7d]
+*** PRE-FLOP *** 
+Jogot calls 40
+YL_ML_GL_42 folds
+Noir 9389624 checks
+*** FLOP *** [Kh Jd 4h]
+Noir 9389624 checks
+Jogot bets 40
+Noir 9389624 calls 40
+*** TURN *** [Kh Jd 4h][7c]
+Noir 9389624 checks
+Jogot checks
+*** RIVER *** [Kh Jd 4h 7c][4c]
+Noir 9389624 bets 180
+Jogot calls 180
+*** SHOW DOWN ***
+Noir 9389624 shows [Tc Js] (Two pairs : Jacks and 4)
+Jogot shows [3c Kd] (Two pairs : Kings and 4)
+Jogot collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Kh Jd 4h 7c 4c]
+Seat 1: Jogot (button) showed [3c Kd] and won 540 with Two pairs : Kings and 4
+Seat 3: Noir 9389624 (big blind) showed [Tc Js] and lost with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #2597064757072625665-9-1669391548 - Holdem no limit (20/40) - 2022/11/25 15:52:28 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jogot (860)
+Seat 2: YL_ML_GL_42 (550)
+Seat 3: Noir 9389624 (90)
+*** ANTE/BLINDS ***
+Noir 9389624 posts small blind 20
+Jogot posts big blind 40
+Dealt to YL_ML_GL_42 [Qc Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 100 to 140
+Noir 9389624 calls 70 and is all-in
+Jogot calls 100
+*** FLOP *** [4s 2d 8h]
+Jogot checks
+YL_ML_GL_42 checks
+*** TURN *** [4s 2d 8h][Td]
+Jogot checks
+YL_ML_GL_42 bets 296
+Jogot folds
+*** RIVER *** [4s 2d 8h Td][6c]
+*** SHOW DOWN ***
+Noir 9389624 shows [8s Ks] (One pair : 8)
+YL_ML_GL_42 shows [Qc Ts] (One pair : Tens)
+YL_ML_GL_42 collected 666 from pot
+*** SUMMARY ***
+Total pot 666 | No rake
+Board: [4s 2d 8h Td 6c]
+Seat 2: YL_ML_GL_42 (button) showed [Qc Ts] and won 666 with One pair : Tens
+Seat 3: Noir 9389624 (small blind) showed [8s Ks] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #2597064757072625665-10-1669391574 - Holdem no limit (20/40) - 2022/11/25 15:52:54 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jogot (720)
+Seat 2: YL_ML_GL_42 (780)
+*** ANTE/BLINDS ***
+Jogot posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Qc 8c]
+*** PRE-FLOP *** 
+Jogot calls 20
+YL_ML_GL_42 raises 80 to 120
+Jogot folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #2597064757072625665-11-1669391584 - Holdem no limit (20/40) - 2022/11/25 15:53:04 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jogot (680)
+Seat 2: YL_ML_GL_42 (820)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Jogot posts big blind 40
+Dealt to YL_ML_GL_42 [Kc 3h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 20
+Jogot checks
+*** FLOP *** [Tc 2s 6h]
+Jogot checks
+YL_ML_GL_42 checks
+*** TURN *** [Tc 2s 6h][5d]
+Jogot checks
+YL_ML_GL_42 checks
+*** RIVER *** [Tc 2s 6h 5d][Qc]
+Jogot checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kc 3h] (High card : King)
+Jogot shows [5s 4h] (One pair : 5)
+Jogot collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Tc 2s 6h 5d Qc]
+Seat 1: Jogot (big blind) showed [5s 4h] and won 80 with One pair : 5
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [Kc 3h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #2597064757072625665-12-1669391606 - Holdem no limit (30/60) - 2022/11/25 15:53:26 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jogot (720)
+Seat 2: YL_ML_GL_42 (780)
+*** ANTE/BLINDS ***
+Jogot posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [As 2h]
+*** PRE-FLOP *** 
+Jogot folds
+YL_ML_GL_42 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #2597064757072625665-13-1669391616 - Holdem no limit (30/60) - 2022/11/25 15:53:36 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jogot (690)
+Seat 2: YL_ML_GL_42 (810)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+Jogot posts big blind 60
+Dealt to YL_ML_GL_42 [3d 4d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 120 to 180
+Jogot raises 510 to 690 and is all-in
+YL_ML_GL_42 folds
+Jogot collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Seat 1: Jogot (big blind) won 870
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #2597064757072625665-14-1669391624 - Holdem no limit (30/60) - 2022/11/25 15:53:44 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jogot (870)
+Seat 2: YL_ML_GL_42 (630)
+*** ANTE/BLINDS ***
+Jogot posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [2s As]
+*** PRE-FLOP *** 
+Jogot calls 30
+YL_ML_GL_42 raises 120 to 180
+Jogot folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #2597064757072625665-15-1669391638 - Holdem no limit (30/60) - 2022/11/25 15:53:58 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jogot (810)
+Seat 2: YL_ML_GL_42 (690)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+Jogot posts big blind 60
+Dealt to YL_ML_GL_42 [Ad As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 30
+Jogot checks
+*** FLOP *** [3h 8d 7d]
+Jogot bets 60
+YL_ML_GL_42 calls 60
+*** TURN *** [3h 8d 7d][Jh]
+Jogot checks
+YL_ML_GL_42 checks
+*** RIVER *** [3h 8d 7d Jh][6d]
+Jogot checks
+YL_ML_GL_42 bets 240
+Jogot calls 240
+*** SHOW DOWN ***
+Jogot shows [8h Kc] (One pair : 8)
+YL_ML_GL_42 shows [Ad As] (One pair : Aces)
+YL_ML_GL_42 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [3h 8d 7d Jh 6d]
+Seat 1: Jogot (big blind) showed [8h Kc] and lost with One pair : 8
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [Ad As] and won 720 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #2597064757072625665-16-1669391664 - Holdem no limit (30/60) - 2022/11/25 15:54:24 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jogot (450)
+Seat 2: YL_ML_GL_42 (1050)
+*** ANTE/BLINDS ***
+Jogot posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [2d Qh]
+*** PRE-FLOP *** 
+Jogot calls 30
+YL_ML_GL_42 checks
+*** FLOP *** [5h 8s 4h]
+YL_ML_GL_42 checks
+Jogot bets 390 and is all-in
+YL_ML_GL_42 folds
+Jogot collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [5h 8s 4h]
+Seat 1: Jogot (small blind) (button) won 510
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #2597064757072625665-17-1669391675 - Holdem no limit (30/60) - 2022/11/25 15:54:35 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jogot (510)
+Seat 2: YL_ML_GL_42 (990)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+Jogot posts big blind 60
+Dealt to YL_ML_GL_42 [8d Ac]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 120 to 180
+Jogot folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 2: YL_ML_GL_42 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #2597064757072625665-18-1669391681 - Holdem no limit (30/60) - 2022/11/25 15:54:41 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jogot (450)
+Seat 2: YL_ML_GL_42 (1050)
+*** ANTE/BLINDS ***
+Jogot posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [7d 3c]
+*** PRE-FLOP *** 
+Jogot folds
+YL_ML_GL_42 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #2597064757072625665-19-1669391687 - Holdem no limit (30/60) - 2022/11/25 15:54:47 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jogot (420)
+Seat 2: YL_ML_GL_42 (1080)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+Jogot posts big blind 60
+Dealt to YL_ML_GL_42 [4s Qd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 120 to 180
+Jogot folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 2: YL_ML_GL_42 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 5 - HandId: #2597064757072625665-20-1669391694 - Holdem no limit (40/80) - 2022/11/25 15:54:54 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jogot (360)
+Seat 2: YL_ML_GL_42 (1140)
+*** ANTE/BLINDS ***
+Jogot posts small blind 40
+YL_ML_GL_42 posts big blind 80
+Dealt to YL_ML_GL_42 [6c 5h]
+*** PRE-FLOP *** 
+Jogot folds
+YL_ML_GL_42 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 5 - HandId: #2597064757072625665-21-1669391700 - Holdem no limit (40/80) - 2022/11/25 15:55:00 UTC
+Table: 'Expresso(604676259)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jogot (320)
+Seat 2: YL_ML_GL_42 (1180)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 40
+Jogot posts big blind 80
+Dealt to YL_ML_GL_42 [Kd Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 160 to 240
+Jogot raises 80 to 320 and is all-in
+YL_ML_GL_42 calls 80
+*** FLOP *** [Th 3s 4c]
+*** TURN *** [Th 3s 4c][Js]
+*** RIVER *** [Th 3s 4c Js][Jc]
+*** SHOW DOWN ***
+Jogot shows [7c 9c] (One pair : Jacks)
+YL_ML_GL_42 shows [Kd Ts] (Two pairs : Jacks and Tens)
+YL_ML_GL_42 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Th 3s 4c Js Jc]
+Seat 1: Jogot (big blind) showed [7c 9c] and lost with One pair : Jacks
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [Kd Ts] and won 640 with Two pairs : Jacks and Tens
+
+

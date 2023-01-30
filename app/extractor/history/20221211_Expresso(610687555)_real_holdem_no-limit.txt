@@ -1,0 +1,57 @@
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2622883076799201281-1-1670766029 - Holdem no limit (10/20) - 2022/12/11 13:40:29 UTC
+Table: 'Expresso(610687555)#0' 3-max (real money) Seat #3 is the button
+Seat 1: guiot gasse (500)
+Seat 2: jblvc (500)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+guiot gasse posts small blind 10
+jblvc posts big blind 20
+Dealt to YL_ML_GL_42 [Qh 8h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+guiot gasse calls 60
+jblvc calls 50
+*** FLOP *** [Ah As 7d]
+guiot gasse checks
+jblvc checks
+YL_ML_GL_42 checks
+*** TURN *** [Ah As 7d][7c]
+guiot gasse checks
+jblvc bets 74
+YL_ML_GL_42 folds
+guiot gasse folds
+jblvc collected 284 from pot
+*** SUMMARY ***
+Total pot 284 | No rake
+Board: [Ah As 7d 7c]
+Seat 2: jblvc (big blind) won 284
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2622883076799201281-2-1670766051 - Holdem no limit (10/20) - 2022/12/11 13:40:51 UTC
+Table: 'Expresso(610687555)#0' 3-max (real money) Seat #1 is the button
+Seat 1: guiot gasse (430)
+Seat 2: jblvc (640)
+Seat 3: YL_ML_GL_42 (430)
+*** ANTE/BLINDS ***
+jblvc posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [7c 5c]
+*** PRE-FLOP *** 
+guiot gasse folds
+jblvc raises 40 to 60
+YL_ML_GL_42 raises 370 to 430 and is all-in
+jblvc calls 370
+*** FLOP *** [9c Qd 8h]
+*** TURN *** [9c Qd 8h][9d]
+*** RIVER *** [9c Qd 8h 9d][4d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7c 5c] (One pair : 9)
+jblvc shows [Ks Qc] (Two pairs : Queens and 9)
+jblvc collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [9c Qd 8h 9d 4d]
+Seat 2: jblvc (small blind) showed [Ks Qc] and won 860 with Two pairs : Queens and 9
+Seat 3: YL_ML_GL_42 (big blind) showed [7c 5c] and lost with One pair : 9
+
+

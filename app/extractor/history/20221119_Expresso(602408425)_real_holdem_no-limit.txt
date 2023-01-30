@@ -1,0 +1,213 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2587324484209868801-1-1668878366 - Holdem no limit (10/20) - 2022/11/19 17:19:26 UTC
+Table: 'Expresso(602408425)#0' 3-max (real money) Seat #2 is the button
+Seat 1: starlordbzn (500)
+Seat 2: StawnaX (500)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+starlordbzn posts big blind 20
+Dealt to YL_ML_GL_42 [2c Ks]
+*** PRE-FLOP *** 
+StawnaX raises 480 to 500 and is all-in
+YL_ML_GL_42 folds
+starlordbzn folds
+StawnaX collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 2: StawnaX (button) won 530
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2587324484209868801-2-1668878380 - Holdem no limit (10/20) - 2022/11/19 17:19:40 UTC
+Table: 'Expresso(602408425)#0' 3-max (real money) Seat #3 is the button
+Seat 1: starlordbzn (480)
+Seat 2: StawnaX (530)
+Seat 3: YL_ML_GL_42 (490)
+*** ANTE/BLINDS ***
+starlordbzn posts small blind 10
+StawnaX posts big blind 20
+Dealt to YL_ML_GL_42 [Ad Qc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 20 to 40
+starlordbzn folds
+StawnaX folds
+YL_ML_GL_42 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: YL_ML_GL_42 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2587324484209868801-3-1668878390 - Holdem no limit (10/20) - 2022/11/19 17:19:50 UTC
+Table: 'Expresso(602408425)#0' 3-max (real money) Seat #1 is the button
+Seat 1: starlordbzn (470)
+Seat 2: StawnaX (510)
+Seat 3: YL_ML_GL_42 (520)
+*** ANTE/BLINDS ***
+StawnaX posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [3d Qs]
+*** PRE-FLOP *** 
+starlordbzn folds
+StawnaX calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [7h 9d 7c]
+StawnaX bets 20
+YL_ML_GL_42 folds
+StawnaX collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [7h 9d 7c]
+Seat 2: StawnaX (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2587324484209868801-4-1668878406 - Holdem no limit (10/20) - 2022/11/19 17:20:06 UTC
+Table: 'Expresso(602408425)#0' 3-max (real money) Seat #2 is the button
+Seat 1: starlordbzn (470)
+Seat 2: StawnaX (530)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+starlordbzn posts big blind 20
+Dealt to YL_ML_GL_42 [Jh 8c]
+*** PRE-FLOP *** 
+StawnaX folds
+YL_ML_GL_42 folds
+starlordbzn collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: starlordbzn (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2587324484209868801-5-1668878414 - Holdem no limit (10/20) - 2022/11/19 17:20:14 UTC
+Table: 'Expresso(602408425)#0' 3-max (real money) Seat #3 is the button
+Seat 1: starlordbzn (480)
+Seat 2: StawnaX (530)
+Seat 3: YL_ML_GL_42 (490)
+*** ANTE/BLINDS ***
+starlordbzn posts small blind 10
+StawnaX posts big blind 20
+Dealt to YL_ML_GL_42 [4c 5d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+starlordbzn folds
+StawnaX collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: StawnaX (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2587324484209868801-6-1668878424 - Holdem no limit (10/20) - 2022/11/19 17:20:24 UTC
+Table: 'Expresso(602408425)#0' 3-max (real money) Seat #1 is the button
+Seat 1: starlordbzn (470)
+Seat 2: StawnaX (540)
+Seat 3: YL_ML_GL_42 (490)
+*** ANTE/BLINDS ***
+StawnaX posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [7d Td]
+*** PRE-FLOP *** 
+starlordbzn raises 20 to 40
+StawnaX folds
+YL_ML_GL_42 calls 20
+*** FLOP *** [7h Jh Ad]
+YL_ML_GL_42 bets 59
+starlordbzn folds
+YL_ML_GL_42 collected 149 from pot
+*** SUMMARY ***
+Total pot 149 | No rake
+Board: [7h Jh Ad]
+Seat 3: YL_ML_GL_42 (big blind) won 149
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2587324484209868801-7-1668878444 - Holdem no limit (10/20) - 2022/11/19 17:20:44 UTC
+Table: 'Expresso(602408425)#0' 3-max (real money) Seat #2 is the button
+Seat 1: starlordbzn (430)
+Seat 2: StawnaX (530)
+Seat 3: YL_ML_GL_42 (540)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+starlordbzn posts big blind 20
+Dealt to YL_ML_GL_42 [8d 8h]
+*** PRE-FLOP *** 
+StawnaX folds
+YL_ML_GL_42 raises 40 to 60
+starlordbzn folds
+YL_ML_GL_42 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: YL_ML_GL_42 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2587324484209868801-8-1668878455 - Holdem no limit (15/30) - 2022/11/19 17:20:55 UTC
+Table: 'Expresso(602408425)#0' 3-max (real money) Seat #3 is the button
+Seat 1: starlordbzn (410)
+Seat 2: StawnaX (530)
+Seat 3: YL_ML_GL_42 (560)
+*** ANTE/BLINDS ***
+starlordbzn posts small blind 15
+StawnaX posts big blind 30
+Dealt to YL_ML_GL_42 [2s 4h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+starlordbzn folds
+StawnaX collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: StawnaX (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2587324484209868801-9-1668878462 - Holdem no limit (15/30) - 2022/11/19 17:21:02 UTC
+Table: 'Expresso(602408425)#0' 3-max (real money) Seat #1 is the button
+Seat 1: starlordbzn (395)
+Seat 2: StawnaX (545)
+Seat 3: YL_ML_GL_42 (560)
+*** ANTE/BLINDS ***
+StawnaX posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Kh 8h]
+*** PRE-FLOP *** 
+starlordbzn raises 30 to 60
+StawnaX folds
+YL_ML_GL_42 raises 500 to 560 and is all-in
+starlordbzn calls 335 and is all-in
+*** FLOP *** [Qd 8c 3c]
+*** TURN *** [Qd 8c 3c][7c]
+*** RIVER *** [Qd 8c 3c 7c][7d]
+*** SHOW DOWN ***
+starlordbzn shows [9s 9h] (Two pairs : 9 and 7)
+YL_ML_GL_42 shows [Kh 8h] (Two pairs : 8 and 7)
+YL_ML_GL_42 collected 165 from side pot 1
+starlordbzn collected 805 from main pot
+*** SUMMARY ***
+Total pot 970 | No rake
+Board: [Qd 8c 3c 7c 7d]
+Seat 1: starlordbzn (button) showed [9s 9h] and won 805 with Two pairs : 9 and 7
+Seat 3: YL_ML_GL_42 (big blind) showed [Kh 8h] and won 165 with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #2587324484209868801-10-1668878480 - Holdem no limit (15/30) - 2022/11/19 17:21:20 UTC
+Table: 'Expresso(602408425)#0' 3-max (real money) Seat #2 is the button
+Seat 1: starlordbzn (805)
+Seat 2: StawnaX (530)
+Seat 3: YL_ML_GL_42 (165)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+starlordbzn posts big blind 30
+Dealt to YL_ML_GL_42 [2h 2d]
+*** PRE-FLOP *** 
+StawnaX folds
+YL_ML_GL_42 raises 135 to 165 and is all-in
+starlordbzn calls 135
+*** FLOP *** [Td Ks 4c]
+*** TURN *** [Td Ks 4c][Ac]
+*** RIVER *** [Td Ks 4c Ac][8d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [2h 2d] (One pair : 2)
+starlordbzn shows [8h 8s] (Trips of 8)
+starlordbzn collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Td Ks 4c Ac 8d]
+Seat 1: starlordbzn (big blind) showed [8h 8s] and won 330 with Trips of 8
+Seat 3: YL_ML_GL_42 (small blind) showed [2h 2d] and lost with One pair : 2
+
+

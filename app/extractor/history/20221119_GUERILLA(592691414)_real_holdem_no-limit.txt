@@ -1,0 +1,776 @@
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590239749996576-1-1668879027 - Holdem no limit (25/100/200) - 2022/11/19 17:30:27 UTC
+Table: 'GUERILLA(592691414)#031' 6-max (real money) Seat #2 is the button
+Seat 1: Entourloop77 (20000, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (20000, 2.25€ bounty)
+Seat 3: RETEGIIKER (20000, 2.25€ bounty)
+Seat 4: Riddickkk77 (20000, 2.25€ bounty)
+Seat 5: El_Miserias (20000, 2.25€ bounty)
+Seat 6: RATON705 (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+RETEGIIKER posts ante 25
+Riddickkk77 posts ante 25
+Entourloop77 posts ante 25
+YL_ML_GL_42 posts ante 25
+El_Miserias posts ante 25
+RATON705 posts ante 25
+RETEGIIKER posts small blind 100
+Riddickkk77 posts big blind 200
+Dealt to YL_ML_GL_42 [2d Jc]
+*** PRE-FLOP *** 
+El_Miserias raises 200 to 400
+RATON705 folds
+Entourloop77 folds
+YL_ML_GL_42 folds
+RETEGIIKER calls 300
+Riddickkk77 folds
+*** FLOP *** [Qh 2c 8d]
+RETEGIIKER checks
+El_Miserias bets 403
+RETEGIIKER calls 403
+*** TURN *** [Qh 2c 8d][7s]
+RETEGIIKER checks
+El_Miserias bets 1565
+RETEGIIKER calls 1565
+*** RIVER *** [Qh 2c 8d 7s][Th]
+RETEGIIKER checks
+El_Miserias bets 5086
+RETEGIIKER folds
+El_Miserias collected 10172 from pot
+*** SUMMARY ***
+Total pot 10172 | No rake
+Board: [Qh 2c 8d 7s Th]
+Seat 5: El_Miserias won 10172
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590239749996576-2-1668879151 - Holdem no limit (25/100/200) - 2022/11/19 17:32:31 UTC
+Table: 'GUERILLA(592691414)#031' 6-max (real money) Seat #3 is the button
+Seat 1: Entourloop77 (19975, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (19975, 2.25€ bounty)
+Seat 3: RETEGIIKER (17607, 2.25€ bounty)
+Seat 4: Riddickkk77 (19775, 2.25€ bounty)
+Seat 5: El_Miserias (22693, 2.25€ bounty)
+Seat 6: RATON705 (19975, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Riddickkk77 posts ante 25
+El_Miserias posts ante 25
+Entourloop77 posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+RATON705 posts ante 25
+Riddickkk77 posts small blind 100
+El_Miserias posts big blind 200
+Dealt to YL_ML_GL_42 [3d Ah]
+*** PRE-FLOP *** 
+RATON705 folds
+Entourloop77 folds
+YL_ML_GL_42 raises 250 to 450
+RETEGIIKER folds
+Riddickkk77 folds
+El_Miserias folds
+YL_ML_GL_42 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 2: YL_ML_GL_42 won 900
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590239749996576-3-1668879173 - Holdem no limit (25/100/200) - 2022/11/19 17:32:53 UTC
+Table: 'GUERILLA(592691414)#031' 6-max (real money) Seat #4 is the button
+Seat 2: YL_ML_GL_42 (20400, 2.25€ bounty)
+Seat 3: RETEGIIKER (17582, 2.25€ bounty)
+Seat 4: Riddickkk77 (19650, 2.25€ bounty)
+Seat 5: El_Miserias (22468, 2.25€ bounty)
+Seat 6: RATON705 (19950, 2.25€ bounty)
+*** ANTE/BLINDS ***
+El_Miserias posts ante 25
+RATON705 posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+Riddickkk77 posts ante 25
+El_Miserias posts small blind 100
+RATON705 posts big blind 200
+Dealt to YL_ML_GL_42 [Jc Th]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+RETEGIIKER folds
+Riddickkk77 folds
+El_Miserias raises 200 to 400
+RATON705 calls 200
+*** FLOP *** [Kc 9h Jd]
+El_Miserias checks
+RATON705 checks
+*** TURN *** [Kc 9h Jd][6s]
+El_Miserias bets 200
+RATON705 calls 200
+*** RIVER *** [Kc 9h Jd 6s][9d]
+El_Miserias checks
+RATON705 checks
+*** SHOW DOWN ***
+El_Miserias shows [Ac 4c] (One pair : 9)
+RATON705 shows [5d 5h] (Two pairs : 9 and 5)
+RATON705 collected 1325 from pot
+*** SUMMARY ***
+Total pot 1325 | No rake
+Board: [Kc 9h Jd 6s 9d]
+Seat 5: El_Miserias (small blind) showed [Ac 4c] and lost with One pair : 9
+Seat 6: RATON705 (big blind) showed [5d 5h] and won 1325 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590239749996576-4-1668879206 - Holdem no limit (25/100/200) - 2022/11/19 17:33:26 UTC
+Table: 'GUERILLA(592691414)#031' 6-max (real money) Seat #5 is the button
+Seat 1: 2Fish2Shark (20000, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (20375, 2.25€ bounty)
+Seat 3: RETEGIIKER (17557, 2.25€ bounty)
+Seat 4: Riddickkk77 (19625, 2.25€ bounty)
+Seat 5: El_Miserias (21843, 2.25€ bounty)
+Seat 6: RATON705 (20650, 2.25€ bounty)
+*** ANTE/BLINDS ***
+RATON705 posts ante 25
+2Fish2Shark posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+Riddickkk77 posts ante 25
+El_Miserias posts ante 25
+RATON705 posts small blind 100
+2Fish2Shark posts big blind 200
+Dealt to YL_ML_GL_42 [Qc Kc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 200 to 400
+RETEGIIKER folds
+Riddickkk77 folds
+El_Miserias folds
+RATON705 folds
+2Fish2Shark folds
+YL_ML_GL_42 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 2: YL_ML_GL_42 won 850
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590239749996576-5-1668879232 - Holdem no limit (25/100/200) - 2022/11/19 17:33:52 UTC
+Table: 'GUERILLA(592691414)#031' 6-max (real money) Seat #6 is the button
+Seat 1: 2Fish2Shark (19775, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (20800, 2.25€ bounty)
+Seat 3: RETEGIIKER (17532, 2.25€ bounty)
+Seat 4: Riddickkk77 (19600, 2.25€ bounty)
+Seat 5: El_Miserias (21818, 2.25€ bounty)
+Seat 6: RATON705 (20525, 2.25€ bounty)
+*** ANTE/BLINDS ***
+2Fish2Shark posts ante 25
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+Riddickkk77 posts ante 25
+El_Miserias posts ante 25
+RATON705 posts ante 25
+2Fish2Shark posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [8s 9h]
+*** PRE-FLOP *** 
+RETEGIIKER folds
+Riddickkk77 folds
+El_Miserias raises 200 to 400
+RATON705 raises 1250 to 1650
+2Fish2Shark raises 2640 to 4290
+YL_ML_GL_42 folds
+El_Miserias folds
+RATON705 raises 16210 to 20500 and is all-in
+2Fish2Shark calls 15460 and is all-in
+*** FLOP *** [Jd Qs 2s]
+*** TURN *** [Jd Qs 2s][8h]
+*** RIVER *** [Jd Qs 2s 8h][Kh]
+*** SHOW DOWN ***
+2Fish2Shark shows [Ac Ah] (One pair : Aces)
+RATON705 shows [Ks Kc] (Trips of Kings)
+RATON705 collected 41000 from pot
+*** SUMMARY ***
+Total pot 41000 | No rake
+Board: [Jd Qs 2s 8h Kh]
+Seat 1: 2Fish2Shark (small blind) showed [Ac Ah] and lost with One pair : Aces
+Seat 6: RATON705 (button) showed [Ks Kc] and won 41000 with Trips of Kings
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590239749996576-6-1668879293 - Holdem no limit (25/100/200) - 2022/11/19 17:34:53 UTC
+Table: 'GUERILLA(592691414)#031' 6-max (real money) Seat #1 is the button
+Seat 2: YL_ML_GL_42 (20575, 2.25€ bounty)
+Seat 3: RETEGIIKER (17507, 2.25€ bounty)
+Seat 4: Riddickkk77 (19575, 2.25€ bounty)
+Seat 5: El_Miserias (21393, 2.25€ bounty)
+Seat 6: RATON705 (41000, 3.37€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+RETEGIIKER posts ante 25
+Riddickkk77 posts ante 25
+El_Miserias posts ante 25
+RATON705 posts ante 25
+YL_ML_GL_42 posts small blind 100
+RETEGIIKER posts big blind 200
+Dealt to YL_ML_GL_42 [Td Qs]
+*** PRE-FLOP *** 
+Riddickkk77 calls 200
+El_Miserias folds
+RATON705 raises 200 to 400
+YL_ML_GL_42 folds
+RETEGIIKER calls 200
+Riddickkk77 calls 200
+*** FLOP *** [Qd 5c 2c]
+RETEGIIKER bets 713
+Riddickkk77 folds
+RATON705 folds
+RETEGIIKER collected 2138 from pot
+*** SUMMARY ***
+Total pot 2138 | No rake
+Board: [Qd 5c 2c]
+Seat 3: RETEGIIKER (big blind) won 2138
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590239749996576-7-1668879342 - Holdem no limit (25/100/200) - 2022/11/19 17:35:42 UTC
+Table: 'GUERILLA(592691414)#031' 6-max (real money) Seat #2 is the button
+Seat 1: Elettropbel (20000, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (20450, 2.25€ bounty)
+Seat 3: RETEGIIKER (18507, 2.25€ bounty)
+Seat 4: Riddickkk77 (19150, 2.25€ bounty)
+Seat 5: El_Miserias (21368, 2.25€ bounty)
+Seat 6: RATON705 (40575, 3.37€ bounty)
+*** ANTE/BLINDS ***
+RETEGIIKER posts ante 25
+Riddickkk77 posts ante 25
+Elettropbel posts ante 25
+YL_ML_GL_42 posts ante 25
+El_Miserias posts ante 25
+RATON705 posts ante 25
+RETEGIIKER posts small blind 100
+Riddickkk77 posts big blind 200
+Dealt to YL_ML_GL_42 [Ad Qs]
+*** PRE-FLOP *** 
+El_Miserias raises 200 to 400
+RATON705 folds
+Elettropbel calls 400
+YL_ML_GL_42 raises 1051 to 1451
+RETEGIIKER folds
+Riddickkk77 folds
+El_Miserias raises 3752 to 5203
+Elettropbel calls 4803
+YL_ML_GL_42 raises 15222 to 20425 and is all-in
+El_Miserias raises 918 to 21343 and is all-in
+Elettropbel calls 14772 and is all-in
+*** FLOP *** [Kc Ks Js]
+*** TURN *** [Kc Ks Js][5h]
+*** RIVER *** [Kc Ks Js 5h][As]
+*** SHOW DOWN ***
+Elettropbel shows [Kd 9d] (Trips of Kings)
+YL_ML_GL_42 shows [Ad Qs] (Two pairs : Aces and Kings)
+El_Miserias shows [Ac Ah] (Full of Aces and Kings)
+El_Miserias collected 62193 from pot
+*** SUMMARY ***
+Total pot 62193 | No rake
+Board: [Kc Ks Js 5h As]
+Seat 1: Elettropbel showed [Kd 9d] and lost with Trips of Kings
+Seat 2: YL_ML_GL_42 (button) showed [Ad Qs] and lost with Two pairs : Aces and Kings
+Seat 5: El_Miserias showed [Ac Ah] and won 62193 with Full of Aces and Kings
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2545590239749996729-1-1668879447 - Holdem no limit (25/100/200) - 2022/11/19 17:37:27 UTC
+Table: 'GUERILLA(592691414)#184' 6-max (real money) Seat #5 is the button
+Seat 1: nohan292 (18337, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (20000, 2.25€ bounty)
+Seat 3: CarlosKOS17 (19375, 2.25€ bounty)
+Seat 4: -Gib- (39975, 3.37€ bounty)
+Seat 5: Dragon 66 (20000, 2.25€ bounty)
+Seat 6: Tulipound (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Tulipound posts ante 25
+nohan292 posts ante 25
+YL_ML_GL_42 posts ante 25
+CarlosKOS17 posts ante 25
+-Gib- posts ante 25
+Dragon 66 posts ante 25
+Tulipound posts small blind 100
+nohan292 posts big blind 200
+Dealt to YL_ML_GL_42 [6d 3d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+CarlosKOS17 folds
+-Gib- folds
+Dragon 66 calls 200
+Tulipound folds
+nohan292 checks
+*** FLOP *** [3s Ac Jc]
+nohan292 checks
+Dragon 66 checks
+*** TURN *** [3s Ac Jc][Ks]
+nohan292 checks
+Dragon 66 bets 200
+nohan292 folds
+Dragon 66 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Board: [3s Ac Jc Ks]
+Seat 5: Dragon 66 (button) won 850
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2545590239749996729-2-1668879542 - Holdem no limit (25/100/200) - 2022/11/19 17:39:02 UTC
+Table: 'GUERILLA(592691414)#184' 6-max (real money) Seat #6 is the button
+Seat 1: nohan292 (18112, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (19975, 2.25€ bounty)
+Seat 3: CarlosKOS17 (19350, 2.25€ bounty)
+Seat 4: -Gib- (39950, 3.37€ bounty)
+Seat 5: Dragon 66 (20425, 2.25€ bounty)
+Seat 6: Tulipound (19875, 2.25€ bounty)
+*** ANTE/BLINDS ***
+nohan292 posts ante 25
+YL_ML_GL_42 posts ante 25
+CarlosKOS17 posts ante 25
+-Gib- posts ante 25
+Dragon 66 posts ante 25
+Tulipound posts ante 25
+nohan292 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Qh 4s]
+*** PRE-FLOP *** 
+CarlosKOS17 folds
+-Gib- folds
+Dragon 66 raises 200 to 400
+Tulipound folds
+nohan292 folds
+YL_ML_GL_42 folds
+Dragon 66 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 5: Dragon 66 won 850
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2545590239749996729-3-1668879584 - Holdem no limit (25/100/200) - 2022/11/19 17:39:44 UTC
+Table: 'GUERILLA(592691414)#184' 6-max (real money) Seat #1 is the button
+Seat 1: nohan292 (17987, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (19750, 2.25€ bounty)
+Seat 3: CarlosKOS17 (19325, 2.25€ bounty)
+Seat 4: -Gib- (39925, 3.37€ bounty)
+Seat 5: Dragon 66 (20850, 2.25€ bounty)
+Seat 6: Tulipound (19850, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+CarlosKOS17 posts ante 25
+nohan292 posts ante 25
+-Gib- posts ante 25
+Dragon 66 posts ante 25
+Tulipound posts ante 25
+YL_ML_GL_42 posts small blind 100
+CarlosKOS17 posts big blind 200
+Dealt to YL_ML_GL_42 [Qh 2h]
+*** PRE-FLOP *** 
+-Gib- raises 300 to 500
+Dragon 66 calls 500
+Tulipound folds
+nohan292 folds
+YL_ML_GL_42 folds
+CarlosKOS17 calls 300
+*** FLOP *** [8h 4s 9d]
+CarlosKOS17 checks
+-Gib- checks
+Dragon 66 bets 613
+CarlosKOS17 calls 613
+-Gib- folds
+*** TURN *** [8h 4s 9d][Kd]
+CarlosKOS17 checks
+Dragon 66 checks
+*** RIVER *** [8h 4s 9d Kd][7d]
+CarlosKOS17 checks
+Dragon 66 checks
+*** SHOW DOWN ***
+CarlosKOS17 shows [Th 7h] (One pair : 7)
+Dragon 66 shows [9h Qs] (One pair : 9)
+Dragon 66 collected 2976 from pot
+*** SUMMARY ***
+Total pot 2976 | No rake
+Board: [8h 4s 9d Kd 7d]
+Seat 3: CarlosKOS17 (big blind) showed [Th 7h] and lost with One pair : 7
+Seat 5: Dragon 66 showed [9h Qs] and won 2976 with One pair : 9
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2545590239749996729-4-1668879666 - Holdem no limit (25/100/200) - 2022/11/19 17:41:06 UTC
+Table: 'GUERILLA(592691414)#184' 6-max (real money) Seat #2 is the button
+Seat 1: nohan292 (17962, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (19625, 2.25€ bounty)
+Seat 3: CarlosKOS17 (18187, 2.25€ bounty)
+Seat 4: -Gib- (39400, 3.37€ bounty)
+Seat 5: Dragon 66 (22688, 2.25€ bounty)
+Seat 6: Tulipound (19825, 2.25€ bounty)
+*** ANTE/BLINDS ***
+CarlosKOS17 posts ante 25
+-Gib- posts ante 25
+nohan292 posts ante 25
+YL_ML_GL_42 posts ante 25
+Dragon 66 posts ante 25
+Tulipound posts ante 25
+CarlosKOS17 posts small blind 100
+-Gib- posts big blind 200
+Dealt to YL_ML_GL_42 [4s Kh]
+*** PRE-FLOP *** 
+Dragon 66 raises 200 to 400
+Tulipound folds
+nohan292 folds
+YL_ML_GL_42 folds
+CarlosKOS17 calls 300
+-Gib- folds
+*** FLOP *** [As 5d Qd]
+CarlosKOS17 checks
+Dragon 66 checks
+*** TURN *** [As 5d Qd][Ah]
+CarlosKOS17 checks
+Dragon 66 bets 403
+CarlosKOS17 folds
+Dragon 66 collected 1553 from pot
+*** SUMMARY ***
+Total pot 1553 | No rake
+Board: [As 5d Qd Ah]
+Seat 5: Dragon 66 won 1553
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2545590239749996729-5-1668879725 - Holdem no limit (25/100/200) - 2022/11/19 17:42:05 UTC
+Table: 'GUERILLA(592691414)#184' 6-max (real money) Seat #3 is the button
+Seat 1: nohan292 (17937, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (19600, 2.25€ bounty)
+Seat 3: CarlosKOS17 (17762, 2.25€ bounty)
+Seat 4: -Gib- (39175, 3.37€ bounty)
+Seat 5: Dragon 66 (23413, 2.25€ bounty)
+Seat 6: Tulipound (19800, 2.25€ bounty)
+*** ANTE/BLINDS ***
+-Gib- posts ante 25
+Dragon 66 posts ante 25
+nohan292 posts ante 25
+YL_ML_GL_42 posts ante 25
+CarlosKOS17 posts ante 25
+Tulipound posts ante 25
+-Gib- posts small blind 100
+Dragon 66 posts big blind 200
+Dealt to YL_ML_GL_42 [4s 7c]
+*** PRE-FLOP *** 
+Tulipound folds
+nohan292 calls 200
+YL_ML_GL_42 folds
+CarlosKOS17 folds
+-Gib- folds
+Dragon 66 checks
+*** FLOP *** [Qd 9c 9d]
+Dragon 66 checks
+nohan292 bets 200
+Dragon 66 calls 200
+*** TURN *** [Qd 9c 9d][Jc]
+Dragon 66 checks
+nohan292 bets 1050
+Dragon 66 calls 1050
+*** RIVER *** [Qd 9c 9d Jc][6s]
+Dragon 66 checks
+nohan292 bets 3150
+Dragon 66 folds
+nohan292 collected 6300 from pot
+*** SUMMARY ***
+Total pot 6300 | No rake
+Board: [Qd 9c 9d Jc 6s]
+Seat 1: nohan292 won 6300
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2545590239749996729-6-1668879806 - Holdem no limit (25/100/200) - 2022/11/19 17:43:26 UTC
+Table: 'GUERILLA(592691414)#184' 6-max (real money) Seat #4 is the button
+Seat 1: nohan292 (19612, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (19575, 2.25€ bounty)
+Seat 3: CarlosKOS17 (17737, 2.25€ bounty)
+Seat 4: -Gib- (39050, 3.37€ bounty)
+Seat 5: Dragon 66 (21938, 2.25€ bounty)
+Seat 6: Tulipound (19775, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Dragon 66 posts ante 25
+Tulipound posts ante 25
+nohan292 posts ante 25
+YL_ML_GL_42 posts ante 25
+CarlosKOS17 posts ante 25
+-Gib- posts ante 25
+Dragon 66 posts small blind 100
+Tulipound posts big blind 200
+Dealt to YL_ML_GL_42 [Kh 5h]
+*** PRE-FLOP *** 
+nohan292 calls 200
+YL_ML_GL_42 folds
+CarlosKOS17 calls 200
+-Gib- folds
+Dragon 66 raises 950 to 1150
+Tulipound folds
+nohan292 folds
+CarlosKOS17 calls 950
+*** FLOP *** [3d 6c 6s]
+Dragon 66 bets 1853
+CarlosKOS17 folds
+Dragon 66 collected 4703 from pot
+*** SUMMARY ***
+Total pot 4703 | No rake
+Board: [3d 6c 6s]
+Seat 5: Dragon 66 (small blind) won 4703
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2545590239749996729-7-1668879862 - Holdem no limit (25/100/200) - 2022/11/19 17:44:22 UTC
+Table: 'GUERILLA(592691414)#184' 6-max (real money) Seat #5 is the button
+Seat 1: nohan292 (19387, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (19550, 2.25€ bounty)
+Seat 3: CarlosKOS17 (16562, 2.25€ bounty)
+Seat 4: -Gib- (39025, 3.37€ bounty)
+Seat 5: Dragon 66 (23613, 2.25€ bounty)
+Seat 6: Tulipound (19550, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Tulipound posts ante 25
+nohan292 posts ante 25
+YL_ML_GL_42 posts ante 25
+CarlosKOS17 posts ante 25
+-Gib- posts ante 25
+Dragon 66 posts ante 25
+Tulipound posts small blind 100
+nohan292 posts big blind 200
+Dealt to YL_ML_GL_42 [Kc Ac]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 200 to 400
+CarlosKOS17 folds
+-Gib- folds
+Dragon 66 calls 400
+Tulipound folds
+nohan292 folds
+*** FLOP *** [3h 4s Ks]
+YL_ML_GL_42 bets 313
+Dragon 66 calls 313
+*** TURN *** [3h 4s Ks][5s]
+YL_ML_GL_42 bets 469
+Dragon 66 calls 469
+*** RIVER *** [3h 4s Ks 5s][6h]
+YL_ML_GL_42 bets 1407
+Dragon 66 raises 3166 to 4573
+YL_ML_GL_42 calls 3166
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kc Ac] (One pair : Kings)
+Dragon 66 shows [7d 4d] (Straight 7 high)
+Dragon 66 collected 11960 from pot
+*** SUMMARY ***
+Total pot 11960 | No rake
+Board: [3h 4s Ks 5s 6h]
+Seat 2: YL_ML_GL_42 showed [Kc Ac] and lost with One pair : Kings
+Seat 5: Dragon 66 (button) showed [7d 4d] and won 11960 with Straight 7 high
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2545590239749996729-8-1668879952 - Holdem no limit (25/100/200) - 2022/11/19 17:45:52 UTC
+Table: 'GUERILLA(592691414)#184' 6-max (real money) Seat #6 is the button
+Seat 1: nohan292 (19162, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (13770, 2.25€ bounty)
+Seat 3: CarlosKOS17 (16537, 2.25€ bounty)
+Seat 4: -Gib- (39000, 3.37€ bounty)
+Seat 5: Dragon 66 (29793, 2.25€ bounty)
+Seat 6: Tulipound (19425, 2.25€ bounty)
+*** ANTE/BLINDS ***
+nohan292 posts ante 25
+YL_ML_GL_42 posts ante 25
+CarlosKOS17 posts ante 25
+-Gib- posts ante 25
+Dragon 66 posts ante 25
+Tulipound posts ante 25
+nohan292 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [2s 9s]
+*** PRE-FLOP *** 
+CarlosKOS17 raises 200 to 400
+-Gib- folds
+Dragon 66 calls 400
+Tulipound raises 1500 to 1900
+nohan292 folds
+YL_ML_GL_42 folds
+CarlosKOS17 raises 3800 to 5700
+Dragon 66 calls 5300
+Tulipound calls 3800
+*** FLOP *** [5h 5c 6s]
+CarlosKOS17 bets 10812 and is all-in
+Dragon 66 calls 10812
+Tulipound folds
+*** TURN *** [5h 5c 6s][6h]
+*** RIVER *** [5h 5c 6s 6h][4d]
+*** SHOW DOWN ***
+CarlosKOS17 shows [Qh Qs] (Two pairs : Queens and 6)
+Dragon 66 shows [6c 3c] (Full of 6 and 5)
+Dragon 66 collected 39174 from pot
+*** SUMMARY ***
+Total pot 39174 | No rake
+Board: [5h 5c 6s 6h 4d]
+Seat 3: CarlosKOS17 showed [Qh Qs] and lost with Two pairs : Queens and 6
+Seat 5: Dragon 66 showed [6c 3c] and won 39174 with Full of 6 and 5
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2545590239749996729-9-1668880040 - Holdem no limit (25/100/200) - 2022/11/19 17:47:20 UTC
+Table: 'GUERILLA(592691414)#184' 6-max (real money) Seat #1 is the button
+Seat 1: nohan292 (19037, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (13545, 2.25€ bounty)
+Seat 3: licorbeirao (20000, 2.25€ bounty)
+Seat 4: -Gib- (38975, 3.37€ bounty)
+Seat 5: Dragon 66 (52430, 3.37€ bounty)
+Seat 6: Tulipound (13700, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+licorbeirao posts ante 25
+nohan292 posts ante 25
+-Gib- posts ante 25
+Dragon 66 posts ante 25
+Tulipound posts ante 25
+YL_ML_GL_42 posts small blind 100
+licorbeirao posts big blind 200
+Dealt to YL_ML_GL_42 [Td 7s]
+*** PRE-FLOP *** 
+-Gib- folds
+Dragon 66 calls 200
+Tulipound raises 300 to 500
+nohan292 folds
+YL_ML_GL_42 folds
+licorbeirao folds
+Dragon 66 calls 300
+*** FLOP *** [6s Jc 8c]
+Dragon 66 bets 200
+Tulipound raises 1133 to 1333
+Dragon 66 calls 1133
+*** TURN *** [6s Jc 8c][Qh]
+Dragon 66 checks
+Tulipound bets 3293
+Dragon 66 folds
+Tulipound collected 7409 from pot
+*** SUMMARY ***
+Total pot 7409 | No rake
+Board: [6s Jc 8c Qh]
+Seat 6: Tulipound won 7409
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2545590239749996729-10-1668880117 - Holdem no limit (25/100/200) - 2022/11/19 17:48:37 UTC
+Table: 'GUERILLA(592691414)#184' 6-max (real money) Seat #2 is the button
+Seat 1: nohan292 (19012, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (13420, 2.25€ bounty)
+Seat 3: licorbeirao (19775, 2.25€ bounty)
+Seat 4: -Gib- (38950, 3.37€ bounty)
+Seat 5: Dragon 66 (50572, 3.37€ bounty)
+Seat 6: Tulipound (15958, 2.25€ bounty)
+*** ANTE/BLINDS ***
+licorbeirao posts ante 25
+-Gib- posts ante 25
+nohan292 posts ante 25
+YL_ML_GL_42 posts ante 25
+Dragon 66 posts ante 25
+Tulipound posts ante 25
+licorbeirao posts small blind 100
+-Gib- posts big blind 200
+Dealt to YL_ML_GL_42 [4h 4s]
+*** PRE-FLOP *** 
+Dragon 66 folds
+Tulipound folds
+nohan292 calls 200
+YL_ML_GL_42 calls 200
+licorbeirao calls 100
+-Gib- checks
+*** FLOP *** [Ac 3d 9h]
+licorbeirao checks
+-Gib- checks
+nohan292 checks
+YL_ML_GL_42 checks
+*** TURN *** [Ac 3d 9h][2d]
+licorbeirao checks
+-Gib- checks
+nohan292 checks
+YL_ML_GL_42 bets 475
+licorbeirao folds
+-Gib- folds
+nohan292 folds
+YL_ML_GL_42 collected 1425 from pot
+*** SUMMARY ***
+Total pot 1425 | No rake
+Board: [Ac 3d 9h 2d]
+Seat 2: YL_ML_GL_42 (button) won 1425
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2545590239749996729-11-1668880246 - Holdem no limit (25/100/200) - 2022/11/19 17:50:46 UTC
+Table: 'GUERILLA(592691414)#184' 6-max (real money) Seat #3 is the button
+Seat 1: nohan292 (18787, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (14145, 2.25€ bounty)
+Seat 3: licorbeirao (19550, 2.25€ bounty)
+Seat 4: -Gib- (38725, 3.37€ bounty)
+Seat 5: Dragon 66 (50547, 3.37€ bounty)
+Seat 6: Tulipound (15933, 2.25€ bounty)
+*** ANTE/BLINDS ***
+-Gib- posts ante 25
+Dragon 66 posts ante 25
+nohan292 posts ante 25
+YL_ML_GL_42 posts ante 25
+licorbeirao posts ante 25
+Tulipound posts ante 25
+-Gib- posts small blind 100
+Dragon 66 posts big blind 200
+Dealt to YL_ML_GL_42 [7c Ad]
+*** PRE-FLOP *** 
+Tulipound folds
+nohan292 calls 200
+YL_ML_GL_42 calls 200
+licorbeirao folds
+-Gib- folds
+Dragon 66 checks
+*** FLOP *** [6s 3d 8h]
+Dragon 66 bets 200
+nohan292 calls 200
+YL_ML_GL_42 raises 873 to 1073
+Dragon 66 calls 873
+nohan292 folds
+*** TURN *** [6s 3d 8h][5s]
+Dragon 66 checks
+YL_ML_GL_42 bets 2077
+Dragon 66 calls 2077
+*** RIVER *** [6s 3d 8h 5s][4c]
+Dragon 66 checks
+YL_ML_GL_42 bets 4778
+Dragon 66 calls 4778
+*** SHOW DOWN ***
+Dragon 66 shows [Td 8d] (One pair : 8)
+YL_ML_GL_42 shows [7c Ad] (Straight 8 high)
+YL_ML_GL_42 collected 16906 from pot
+*** SUMMARY ***
+Total pot 16906 | No rake
+Board: [6s 3d 8h 5s 4c]
+Seat 2: YL_ML_GL_42 showed [7c Ad] and won 16906 with Straight 8 high
+Seat 5: Dragon 66 (big blind) showed [Td 8d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2545590239749996729-12-1668880378 - Holdem no limit (25/100/200) - 2022/11/19 17:52:58 UTC
+Table: 'GUERILLA(592691414)#184' 6-max (real money) Seat #4 is the button
+Seat 1: nohan292 (18362, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (22898, 2.25€ bounty)
+Seat 3: licorbeirao (19525, 2.25€ bounty)
+Seat 4: -Gib- (38600, 3.37€ bounty)
+Seat 5: Dragon 66 (42394, 3.37€ bounty)
+Seat 6: Tulipound (15908, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Dragon 66 posts ante 25
+Tulipound posts ante 25
+nohan292 posts ante 25
+YL_ML_GL_42 posts ante 25
+licorbeirao posts ante 25
+-Gib- posts ante 25
+Dragon 66 posts small blind 100
+Tulipound posts big blind 200
+Dealt to YL_ML_GL_42 [9c 9h]
+*** PRE-FLOP *** 
+nohan292 folds
+YL_ML_GL_42 raises 300 to 500
+licorbeirao folds
+-Gib- folds
+Dragon 66 raises 750 to 1250
+Tulipound folds
+YL_ML_GL_42 raises 21623 to 22873 and is all-in
+Dragon 66 calls 21623
+*** FLOP *** [3h 2d 5s]
+*** TURN *** [3h 2d 5s][5d]
+*** RIVER *** [3h 2d 5s 5d][6h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9c 9h] (Two pairs : 9 and 5)
+Dragon 66 shows [6d 4s] (Straight 6 high)
+Dragon 66 collected 46096 from pot
+*** SUMMARY ***
+Total pot 46096 | No rake
+Board: [3h 2d 5s 5d 6h]
+Seat 2: YL_ML_GL_42 showed [9c 9h] and lost with Two pairs : 9 and 5
+Seat 5: Dragon 66 (small blind) showed [6d 4s] and won 46096 with Straight 6 high
+
+

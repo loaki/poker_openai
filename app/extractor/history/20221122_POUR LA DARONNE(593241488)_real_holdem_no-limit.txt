@@ -1,0 +1,458 @@
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547952789590376452-1-1669145426 - Holdem no limit (25/100/200) - 2022/11/22 19:30:26 UTC
+Table: 'POUR LA DARONNE(593241488)#0003' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (20000, 2.25€ bounty)
+Seat 2: VDH-VA-O1 (20000, 2.25€ bounty)
+Seat 3: tyteuil  07 (20000, 2.25€ bounty)
+Seat 4: highwinner (20000, 2.25€ bounty)
+Seat 5: G-rien Gro (20000, 2.25€ bounty)
+Seat 6: redmoto (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+highwinner posts ante 25
+G-rien Gro posts ante 25
+YL_ML_GL_42 posts ante 25
+VDH-VA-O1 posts ante 25
+tyteuil  07 posts ante 25
+redmoto posts ante 25
+highwinner posts small blind 100
+G-rien Gro posts big blind 200
+Dealt to YL_ML_GL_42 [4c 5c]
+*** PRE-FLOP *** 
+redmoto folds
+YL_ML_GL_42 folds
+VDH-VA-O1 raises 400 to 600
+tyteuil  07 folds
+highwinner folds
+G-rien Gro calls 400
+*** FLOP *** [Qc Jh 7s]
+G-rien Gro checks
+VDH-VA-O1 bets 943
+G-rien Gro calls 943
+*** TURN *** [Qc Jh 7s][Ah]
+G-rien Gro checks
+VDH-VA-O1 bets 2669
+G-rien Gro folds
+VDH-VA-O1 collected 6005 from pot
+*** SUMMARY ***
+Total pot 6005 | No rake
+Board: [Qc Jh 7s Ah]
+Seat 2: VDH-VA-O1 won 6005
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 416913 - HandId: #2547952789590376564-1-1669145501 - Holdem no limit (25/100/200) - 2022/11/22 19:31:41 UTC
+Table: 'POUR LA DARONNE(593241488)#0115' 6-max (real money) Seat #6 is the button
+Seat 1: SuPeRiver (20000, 2.25€ bounty)
+Seat 2: flolerat23 (20000, 2.25€ bounty)
+Seat 3: IgivU2cost4m (20000, 2.25€ bounty)
+Seat 4: 7AraKoRn7 (19975, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19975, 2.25€ bounty)
+Seat 6: koisquad (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+SuPeRiver posts ante 25
+flolerat23 posts ante 25
+7AraKoRn7 posts ante 25
+YL_ML_GL_42 posts ante 25
+koisquad posts ante 25
+SuPeRiver posts small blind 100
+flolerat23 posts big blind 200
+Dealt to YL_ML_GL_42 [Kh 4d]
+*** PRE-FLOP *** 
+7AraKoRn7 raises 300 to 500
+YL_ML_GL_42 folds
+koisquad folds
+SuPeRiver calls 400
+flolerat23 calls 300
+*** FLOP *** [3s Jd 6c]
+SuPeRiver checks
+flolerat23 bets 1056
+7AraKoRn7 folds
+SuPeRiver folds
+flolerat23 shows [7c 2d] (High card : Jack)
+flolerat23 collected 2681 from pot
+*** SUMMARY ***
+Total pot 2681 | No rake
+Board: [3s Jd 6c]
+Seat 2: flolerat23 (big blind) showed [7c 2d] and won 2681 with High card : Jack
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 416913 - HandId: #2547952789590376564-2-1669145536 - Holdem no limit (25/100/200) - 2022/11/22 19:32:16 UTC
+Table: 'POUR LA DARONNE(593241488)#0115' 6-max (real money) Seat #1 is the button
+Seat 1: SuPeRiver (19475, 2.25€ bounty)
+Seat 2: flolerat23 (21100, 2.25€ bounty)
+Seat 3: IgivU2cost4m (20000, 2.25€ bounty)
+Seat 4: 7AraKoRn7 (19450, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19950, 2.25€ bounty)
+Seat 6: koisquad (19975, 2.25€ bounty)
+*** ANTE/BLINDS ***
+flolerat23 posts ante 25
+IgivU2cost4m posts ante 25
+SuPeRiver posts ante 25
+7AraKoRn7 posts ante 25
+YL_ML_GL_42 posts ante 25
+koisquad posts ante 25
+flolerat23 posts small blind 100
+IgivU2cost4m posts big blind 200
+Dealt to YL_ML_GL_42 [5h 2h]
+*** PRE-FLOP *** 
+7AraKoRn7 folds
+YL_ML_GL_42 folds
+koisquad raises 200 to 400
+SuPeRiver calls 400
+flolerat23 calls 300
+IgivU2cost4m folds
+*** FLOP *** [Tc 6d Qc]
+flolerat23 checks
+koisquad bets 500
+SuPeRiver calls 500
+flolerat23 calls 500
+*** TURN *** [Tc 6d Qc][5c]
+flolerat23 checks
+koisquad checks
+SuPeRiver checks
+*** RIVER *** [Tc 6d Qc 5c][9s]
+flolerat23 checks
+koisquad bets 1068
+SuPeRiver folds
+flolerat23 folds
+koisquad collected 4118 from pot
+*** SUMMARY ***
+Total pot 4118 | No rake
+Board: [Tc 6d Qc 5c 9s]
+Seat 6: koisquad won 4118
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 416913 - HandId: #2547952789590376564-3-1669145661 - Holdem no limit (25/100/200) - 2022/11/22 19:34:21 UTC
+Table: 'POUR LA DARONNE(593241488)#0115' 6-max (real money) Seat #2 is the button
+Seat 1: SuPeRiver (18550, 2.25€ bounty)
+Seat 2: flolerat23 (20175, 2.25€ bounty)
+Seat 3: IgivU2cost4m (19775, 2.25€ bounty)
+Seat 4: 7AraKoRn7 (19425, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19925, 2.25€ bounty)
+Seat 6: koisquad (22100, 2.25€ bounty)
+*** ANTE/BLINDS ***
+IgivU2cost4m posts ante 25
+7AraKoRn7 posts ante 25
+SuPeRiver posts ante 25
+flolerat23 posts ante 25
+YL_ML_GL_42 posts ante 25
+koisquad posts ante 25
+IgivU2cost4m posts small blind 100
+7AraKoRn7 posts big blind 200
+Dealt to YL_ML_GL_42 [8s 5h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+koisquad folds
+SuPeRiver calls 200
+flolerat23 raises 300 to 500
+IgivU2cost4m folds
+7AraKoRn7 folds
+SuPeRiver calls 300
+*** FLOP *** [Tc 2d 6s]
+SuPeRiver checks
+flolerat23 bets 943
+SuPeRiver folds
+flolerat23 collected 2393 from pot
+*** SUMMARY ***
+Total pot 2393 | No rake
+Board: [Tc 2d 6s]
+Seat 2: flolerat23 (button) won 2393
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 416913 - HandId: #2547952789590376564-4-1669145717 - Holdem no limit (25/100/200) - 2022/11/22 19:35:17 UTC
+Table: 'POUR LA DARONNE(593241488)#0115' 6-max (real money) Seat #3 is the button
+Seat 1: SuPeRiver (18025, 2.25€ bounty)
+Seat 2: flolerat23 (21100, 2.25€ bounty)
+Seat 3: IgivU2cost4m (19650, 2.25€ bounty)
+Seat 4: 7AraKoRn7 (19200, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19900, 2.25€ bounty)
+Seat 6: koisquad (22075, 2.25€ bounty)
+*** ANTE/BLINDS ***
+7AraKoRn7 posts ante 25
+YL_ML_GL_42 posts ante 25
+SuPeRiver posts ante 25
+flolerat23 posts ante 25
+IgivU2cost4m posts ante 25
+koisquad posts ante 25
+7AraKoRn7 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Ks Qh]
+*** PRE-FLOP *** 
+koisquad folds
+SuPeRiver calls 200
+flolerat23 folds
+IgivU2cost4m folds
+7AraKoRn7 folds
+YL_ML_GL_42 raises 650 to 850
+SuPeRiver calls 650
+*** FLOP *** [9d 7c 3d]
+YL_ML_GL_42 bets 1560
+SuPeRiver raises 15590 to 17150 and is all-in
+YL_ML_GL_42 folds
+SuPeRiver collected 20660 from pot
+*** SUMMARY ***
+Total pot 20660 | No rake
+Board: [9d 7c 3d]
+Seat 1: SuPeRiver won 20660
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 416913 - HandId: #2547952789590376564-5-1669145757 - Holdem no limit (25/100/200) - 2022/11/22 19:35:57 UTC
+Table: 'POUR LA DARONNE(593241488)#0115' 6-max (real money) Seat #4 is the button
+Seat 1: SuPeRiver (20660, 2.25€ bounty)
+Seat 2: flolerat23 (21075, 2.25€ bounty)
+Seat 3: IgivU2cost4m (19625, 2.25€ bounty)
+Seat 4: 7AraKoRn7 (19075, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17465, 2.25€ bounty)
+Seat 6: koisquad (22050, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+koisquad posts ante 25
+SuPeRiver posts ante 25
+flolerat23 posts ante 25
+IgivU2cost4m posts ante 25
+7AraKoRn7 posts ante 25
+YL_ML_GL_42 posts small blind 100
+koisquad posts big blind 200
+Dealt to YL_ML_GL_42 [Jd 3h]
+*** PRE-FLOP *** 
+SuPeRiver calls 200
+flolerat23 raises 300 to 500
+IgivU2cost4m folds
+7AraKoRn7 folds
+YL_ML_GL_42 folds
+koisquad folds
+SuPeRiver calls 300
+*** FLOP *** [6h 6s Ks]
+SuPeRiver checks
+flolerat23 bets 943
+SuPeRiver raises 19192 to 20135 and is all-in
+flolerat23 raises 415 to 20550 and is all-in
+*** TURN *** [6h 6s Ks][9c]
+*** RIVER *** [6h 6s Ks 9c][Ad]
+*** SHOW DOWN ***
+SuPeRiver shows [8s Kd] (Two pairs : Kings and 6)
+flolerat23 shows [Qc Ah] (Two pairs : Aces and 6)
+flolerat23 collected 42135 from pot
+*** SUMMARY ***
+Total pot 42135 | No rake
+Board: [6h 6s Ks 9c Ad]
+Seat 1: SuPeRiver showed [8s Kd] and lost with Two pairs : Kings and 6
+Seat 2: flolerat23 showed [Qc Ah] and won 42135 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 416913 - HandId: #2547952789590376564-6-1669145812 - Holdem no limit (25/100/200) - 2022/11/22 19:36:52 UTC
+Table: 'POUR LA DARONNE(593241488)#0115' 6-max (real money) Seat #5 is the button
+Seat 2: flolerat23 (42135, 3.37€ bounty)
+Seat 3: IgivU2cost4m (19600, 2.25€ bounty)
+Seat 4: 7AraKoRn7 (19050, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17340, 2.25€ bounty)
+Seat 6: koisquad (21825, 2.25€ bounty)
+*** ANTE/BLINDS ***
+koisquad posts ante 25
+flolerat23 posts ante 25
+IgivU2cost4m posts ante 25
+7AraKoRn7 posts ante 25
+YL_ML_GL_42 posts ante 25
+koisquad posts small blind 100
+flolerat23 posts big blind 200
+Dealt to YL_ML_GL_42 [5c 4c]
+*** PRE-FLOP *** 
+IgivU2cost4m folds
+7AraKoRn7 raises 300 to 500
+YL_ML_GL_42 folds
+koisquad folds
+flolerat23 calls 300
+*** FLOP *** [Qd 6h 8c]
+flolerat23 checks
+7AraKoRn7 bets 613
+flolerat23 calls 613
+*** TURN *** [Qd 6h 8c][2h]
+flolerat23 checks
+7AraKoRn7 checks
+*** RIVER *** [Qd 6h 8c 2h][Ah]
+flolerat23 checks
+7AraKoRn7 bets 1838
+flolerat23 folds
+7AraKoRn7 collected 4289 from pot
+*** SUMMARY ***
+Total pot 4289 | No rake
+Board: [Qd 6h 8c 2h Ah]
+Seat 4: 7AraKoRn7 won 4289
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 416913 - HandId: #2547952789590376564-7-1669145868 - Holdem no limit (25/100/200) - 2022/11/22 19:37:48 UTC
+Table: 'POUR LA DARONNE(593241488)#0115' 6-max (real money) Seat #6 is the button
+Seat 1: BogerZdar (20000, 2.25€ bounty)
+Seat 2: flolerat23 (40997, 3.37€ bounty)
+Seat 4: 7AraKoRn7 (20363, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17315, 2.25€ bounty)
+Seat 6: koisquad (21700, 2.25€ bounty)
+*** ANTE/BLINDS ***
+flolerat23 posts ante 25
+7AraKoRn7 posts ante 25
+YL_ML_GL_42 posts ante 25
+koisquad posts ante 25
+flolerat23 posts small blind 100
+7AraKoRn7 posts big blind 200
+Dealt to YL_ML_GL_42 [5c Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+koisquad folds
+flolerat23 raises 400 to 600
+7AraKoRn7 folds
+flolerat23 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 2: flolerat23 (small blind) won 900
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 416913 - HandId: #2547952789590376564-8-1669145899 - Holdem no limit (25/100/200) - 2022/11/22 19:38:19 UTC
+Table: 'POUR LA DARONNE(593241488)#0115' 6-max (real money) Seat #2 is the button
+Seat 1: BogerZdar (20000, 2.25€ bounty)
+Seat 2: flolerat23 (41272, 3.37€ bounty)
+Seat 3: Liagor (20000, 2.25€ bounty)
+Seat 4: 7AraKoRn7 (20138, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17290, 2.25€ bounty)
+Seat 6: koisquad (21675, 2.25€ bounty)
+*** ANTE/BLINDS ***
+7AraKoRn7 posts ante 25
+YL_ML_GL_42 posts ante 25
+BogerZdar posts ante 25
+flolerat23 posts ante 25
+koisquad posts ante 25
+7AraKoRn7 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Tc 3d]
+*** PRE-FLOP *** 
+koisquad folds
+BogerZdar folds
+flolerat23 raises 400 to 600
+7AraKoRn7 folds
+YL_ML_GL_42 folds
+flolerat23 collected 1025 from pot
+*** SUMMARY ***
+Total pot 1025 | No rake
+Seat 2: flolerat23 (button) won 1025
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 416913 - HandId: #2547952789590376564-9-1669145920 - Holdem no limit (25/100/200) - 2022/11/22 19:38:40 UTC
+Table: 'POUR LA DARONNE(593241488)#0115' 6-max (real money) Seat #4 is the button
+Seat 1: BogerZdar (19975, 2.25€ bounty)
+Seat 2: flolerat23 (41672, 3.37€ bounty)
+Seat 3: Liagor (20000, 2.25€ bounty)
+Seat 4: 7AraKoRn7 (20013, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17065, 2.25€ bounty)
+Seat 6: koisquad (21650, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+koisquad posts ante 25
+BogerZdar posts ante 25
+flolerat23 posts ante 25
+Liagor posts ante 25
+7AraKoRn7 posts ante 25
+YL_ML_GL_42 posts small blind 100
+koisquad posts big blind 200
+Dealt to YL_ML_GL_42 [4c 8c]
+*** PRE-FLOP *** 
+BogerZdar folds
+flolerat23 raises 400 to 600
+Liagor folds
+7AraKoRn7 folds
+YL_ML_GL_42 calls 500
+koisquad folds
+*** FLOP *** [9s 4h As]
+YL_ML_GL_42 bets 1240
+flolerat23 folds
+YL_ML_GL_42 collected 2790 from pot
+*** SUMMARY ***
+Total pot 2790 | No rake
+Board: [9s 4h As]
+Seat 5: YL_ML_GL_42 (small blind) won 2790
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 416913 - HandId: #2547952789590376564-10-1669145960 - Holdem no limit (25/100/200) - 2022/11/22 19:39:20 UTC
+Table: 'POUR LA DARONNE(593241488)#0115' 6-max (real money) Seat #5 is the button
+Seat 1: BogerZdar (19950, 2.25€ bounty)
+Seat 2: flolerat23 (41047, 3.37€ bounty)
+Seat 3: Liagor (19975, 2.25€ bounty)
+Seat 4: 7AraKoRn7 (19988, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17990, 2.25€ bounty)
+Seat 6: koisquad (21425, 2.25€ bounty)
+*** ANTE/BLINDS ***
+koisquad posts ante 25
+BogerZdar posts ante 25
+flolerat23 posts ante 25
+Liagor posts ante 25
+7AraKoRn7 posts ante 25
+YL_ML_GL_42 posts ante 25
+koisquad posts small blind 100
+BogerZdar posts big blind 200
+Dealt to YL_ML_GL_42 [3d 7h]
+*** PRE-FLOP *** 
+flolerat23 calls 200
+Liagor raises 400 to 600
+7AraKoRn7 folds
+YL_ML_GL_42 folds
+koisquad folds
+BogerZdar calls 400
+flolerat23 calls 400
+*** FLOP *** [Kc Ah 6s]
+BogerZdar checks
+flolerat23 checks
+Liagor bets 718
+BogerZdar raises 1682 to 2400
+flolerat23 folds
+Liagor calls 1682
+*** TURN *** [Kc Ah 6s][Ks]
+BogerZdar checks
+Liagor checks
+*** RIVER *** [Kc Ah 6s Ks][9h]
+BogerZdar bets 4521
+Liagor folds
+BogerZdar collected 11371 from pot
+*** SUMMARY ***
+Total pot 11371 | No rake
+Board: [Kc Ah 6s Ks 9h]
+Seat 1: BogerZdar (big blind) won 11371
+
+
+Winamax Poker - Tournament "POUR LA DARONNE" buyIn: 4.50€ + 0.50€ level: 416913 - HandId: #2547952789590376564-11-1669146051 - Holdem no limit (25/100/200) - 2022/11/22 19:40:51 UTC
+Table: 'POUR LA DARONNE(593241488)#0115' 6-max (real money) Seat #6 is the button
+Seat 1: BogerZdar (23775, 2.25€ bounty)
+Seat 2: flolerat23 (40422, 3.37€ bounty)
+Seat 3: Liagor (16950, 2.25€ bounty)
+Seat 4: 7AraKoRn7 (19963, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (17965, 2.25€ bounty)
+Seat 6: koisquad (21300, 2.25€ bounty)
+*** ANTE/BLINDS ***
+BogerZdar posts ante 25
+flolerat23 posts ante 25
+Liagor posts ante 25
+7AraKoRn7 posts ante 25
+YL_ML_GL_42 posts ante 25
+koisquad posts ante 25
+BogerZdar posts small blind 100
+flolerat23 posts big blind 200
+Dealt to YL_ML_GL_42 [4d 4h]
+*** PRE-FLOP *** 
+Liagor folds
+7AraKoRn7 folds
+YL_ML_GL_42 raises 400 to 600
+koisquad raises 1200 to 1800
+BogerZdar folds
+flolerat23 calls 1600
+YL_ML_GL_42 raises 16140 to 17940 and is all-in
+koisquad raises 3335 to 21275 and is all-in
+flolerat23 folds
+*** FLOP *** [6c 2s Tc]
+*** TURN *** [6c 2s Tc][7d]
+*** RIVER *** [6c 2s Tc 7d][Ad]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [4d 4h] (One pair : 4)
+koisquad shows [Qc As] (One pair : Aces)
+koisquad collected 41265 from pot
+*** SUMMARY ***
+Total pot 41265 | No rake
+Board: [6c 2s Tc 7d Ad]
+Seat 5: YL_ML_GL_42 showed [4d 4h] and lost with One pair : 4
+Seat 6: koisquad (button) showed [Qc As] and won 41265 with One pair : Aces
+
+

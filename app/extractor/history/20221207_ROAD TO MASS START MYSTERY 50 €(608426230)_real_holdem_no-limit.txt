@@ -1,0 +1,4578 @@
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-1-1670441508 - Holdem no limit (25/100/200) - 2022/12/07 19:31:48 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 1: AA.mahone. (20425)
+Seat 2: AXeL-2fois (19975)
+Seat 3: Ma_zing-wa.C (19975)
+Seat 4: patron18K (20000)
+Seat 5: YL_ML_GL_42 (20000)
+Seat 6: FileAilVie (20000)
+*** ANTE/BLINDS ***
+patron18K posts ante 25
+YL_ML_GL_42 posts ante 25
+AA.mahone. posts ante 25
+AXeL-2fois posts ante 25
+Ma_zing-wa.C posts ante 25
+FileAilVie posts ante 25
+patron18K posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Qc 5c]
+*** PRE-FLOP *** 
+FileAilVie folds
+AA.mahone. folds
+AXeL-2fois raises 250 to 450
+Ma_zing-wa.C folds
+patron18K calls 350
+YL_ML_GL_42 calls 250
+*** FLOP *** [Qd Jc Jh]
+patron18K bets 1500
+YL_ML_GL_42 raises 18025 to 19525 and is all-in
+AXeL-2fois folds
+patron18K folds
+YL_ML_GL_42 collected 22525 from pot
+*** SUMMARY ***
+Total pot 22525 | No rake
+Board: [Qd Jc Jh]
+Seat 5: YL_ML_GL_42 (big blind) won 22525
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-2-1670441566 - Holdem no limit (25/100/200) - 2022/12/07 19:32:46 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 1: AA.mahone. (20400)
+Seat 2: AXeL-2fois (19500)
+Seat 3: Ma_zing-wa.C (19950)
+Seat 4: patron18K (18025)
+Seat 5: YL_ML_GL_42 (22525)
+Seat 6: FileAilVie (19975)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+AA.mahone. posts ante 25
+AXeL-2fois posts ante 25
+Ma_zing-wa.C posts ante 25
+patron18K posts ante 25
+YL_ML_GL_42 posts small blind 100
+FileAilVie posts big blind 200
+Dealt to YL_ML_GL_42 [Qs Td]
+*** PRE-FLOP *** 
+AA.mahone. folds
+AXeL-2fois folds
+Ma_zing-wa.C folds
+patron18K raises 300 to 500
+YL_ML_GL_42 calls 400
+FileAilVie folds
+*** FLOP *** [Ks 5h 3c]
+YL_ML_GL_42 checks
+patron18K bets 1350
+YL_ML_GL_42 calls 1350
+*** TURN *** [Ks 5h 3c][4d]
+YL_ML_GL_42 checks
+patron18K checks
+*** RIVER *** [Ks 5h 3c 4d][Qh]
+YL_ML_GL_42 bets 4050
+patron18K folds
+YL_ML_GL_42 collected 8100 from pot
+*** SUMMARY ***
+Total pot 8100 | No rake
+Board: [Ks 5h 3c 4d Qh]
+Seat 5: YL_ML_GL_42 (small blind) won 8100
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-3-1670441614 - Holdem no limit (25/100/200) - 2022/12/07 19:33:34 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #5 is the button
+Seat 1: AA.mahone. (20375)
+Seat 2: AXeL-2fois (19475)
+Seat 3: Ma_zing-wa.C (19925)
+Seat 4: patron18K (16150)
+Seat 5: YL_ML_GL_42 (24700)
+Seat 6: FileAilVie (19750)
+*** ANTE/BLINDS ***
+FileAilVie posts ante 25
+AA.mahone. posts ante 25
+AXeL-2fois posts ante 25
+Ma_zing-wa.C posts ante 25
+patron18K posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts small blind 100
+AA.mahone. posts big blind 200
+Dealt to YL_ML_GL_42 [Ah As]
+*** PRE-FLOP *** 
+AXeL-2fois folds
+Ma_zing-wa.C raises 200 to 400
+patron18K calls 400
+YL_ML_GL_42 raises 1650 to 2050
+FileAilVie folds
+AA.mahone. folds
+Ma_zing-wa.C folds
+patron18K calls 1650
+*** FLOP *** [Ac 2c 6c]
+patron18K bets 14075 and is all-in
+YL_ML_GL_42 raises 8550 to 22625 and is all-in
+*** TURN *** [Ac 2c 6c][8d]
+*** RIVER *** [Ac 2c 6c 8d][5s]
+*** SHOW DOWN ***
+patron18K shows [Qh 2h] (One pair : 2)
+YL_ML_GL_42 shows [Ah As] (Trips of Aces)
+YL_ML_GL_42 collected 41650 from pot
+*** SUMMARY ***
+Total pot 41650 | No rake
+Board: [Ac 2c 6c 8d 5s]
+Seat 4: patron18K showed [Qh 2h] and lost with One pair : 2
+Seat 5: YL_ML_GL_42 (button) showed [Ah As] and won 41650 with Trips of Aces
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-4-1670441684 - Holdem no limit (25/100/200) - 2022/12/07 19:34:44 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #6 is the button
+Seat 1: AA.mahone. (20150)
+Seat 2: AXeL-2fois (19450)
+Seat 3: Ma_zing-wa.C (19500)
+Seat 5: YL_ML_GL_42 (41650)
+Seat 6: FileAilVie (19625)
+*** ANTE/BLINDS ***
+AA.mahone. posts ante 25
+AXeL-2fois posts ante 25
+Ma_zing-wa.C posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+AA.mahone. posts small blind 100
+AXeL-2fois posts big blind 200
+Dealt to YL_ML_GL_42 [Ac Jh]
+*** PRE-FLOP *** 
+Ma_zing-wa.C folds
+YL_ML_GL_42 raises 400 to 600
+FileAilVie folds
+AA.mahone. folds
+AXeL-2fois folds
+YL_ML_GL_42 collected 1025 from pot
+*** SUMMARY ***
+Total pot 1025 | No rake
+Seat 5: YL_ML_GL_42 won 1025
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-5-1670441721 - Holdem no limit (25/100/200) - 2022/12/07 19:35:21 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #1 is the button
+Seat 1: AA.mahone. (20025)
+Seat 2: AXeL-2fois (19225)
+Seat 3: Ma_zing-wa.C (19475)
+Seat 4: Kobz14 (20000)
+Seat 5: YL_ML_GL_42 (42050)
+Seat 6: FileAilVie (19600)
+*** ANTE/BLINDS ***
+AXeL-2fois posts ante 25
+Ma_zing-wa.C posts ante 25
+AA.mahone. posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+AXeL-2fois posts small blind 100
+Ma_zing-wa.C posts big blind 200
+Dealt to YL_ML_GL_42 [Ah 6d]
+*** PRE-FLOP *** 
+Kobz14 raises 650 to 850
+YL_ML_GL_42 folds
+FileAilVie folds
+AA.mahone. folds
+AXeL-2fois folds
+Ma_zing-wa.C calls 650
+*** FLOP *** [Ac 8s 3h]
+Ma_zing-wa.C checks
+Kobz14 checks
+*** TURN *** [Ac 8s 3h][9s]
+Ma_zing-wa.C checks
+Kobz14 checks
+*** RIVER *** [Ac 8s 3h 9s][6c]
+Ma_zing-wa.C bets 1268
+Kobz14 folds
+Ma_zing-wa.C collected 3218 from pot
+*** SUMMARY ***
+Total pot 3218 | No rake
+Board: [Ac 8s 3h 9s 6c]
+Seat 3: Ma_zing-wa.C (big blind) won 3218
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-6-1670441819 - Holdem no limit (25/100/200) - 2022/12/07 19:36:59 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #2 is the button
+Seat 1: AA.mahone. (20000)
+Seat 2: AXeL-2fois (19100)
+Seat 3: Ma_zing-wa.C (20550)
+Seat 4: Kobz14 (19125)
+Seat 5: YL_ML_GL_42 (42025)
+Seat 6: FileAilVie (19575)
+*** ANTE/BLINDS ***
+Ma_zing-wa.C posts ante 25
+Kobz14 posts ante 25
+AA.mahone. posts ante 25
+AXeL-2fois posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+Ma_zing-wa.C posts small blind 100
+Kobz14 posts big blind 200
+Dealt to YL_ML_GL_42 [Qc 9d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+FileAilVie raises 400 to 600
+AA.mahone. folds
+AXeL-2fois folds
+Ma_zing-wa.C folds
+Kobz14 folds
+FileAilVie collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 6: FileAilVie won 1050
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-7-1670441873 - Holdem no limit (25/100/200) - 2022/12/07 19:37:53 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 1: AA.mahone. (19975)
+Seat 2: AXeL-2fois (19075)
+Seat 3: Ma_zing-wa.C (20425)
+Seat 4: Kobz14 (18900)
+Seat 5: YL_ML_GL_42 (42000)
+Seat 6: FileAilVie (20000)
+*** ANTE/BLINDS ***
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+AA.mahone. posts ante 25
+AXeL-2fois posts ante 25
+Ma_zing-wa.C posts ante 25
+FileAilVie posts ante 25
+Kobz14 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [2c 2h]
+*** PRE-FLOP *** 
+FileAilVie folds
+AA.mahone. folds
+AXeL-2fois raises 250 to 450
+Ma_zing-wa.C folds
+Kobz14 folds
+YL_ML_GL_42 calls 250
+*** FLOP *** [8d 9c 9h]
+YL_ML_GL_42 checks
+AXeL-2fois checks
+*** TURN *** [8d 9c 9h][9d]
+YL_ML_GL_42 bets 1150
+AXeL-2fois calls 1150
+*** RIVER *** [8d 9c 9h 9d][Ad]
+YL_ML_GL_42 checks
+AXeL-2fois bets 2277
+YL_ML_GL_42 calls 2277
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [2c 2h] (Full of 9 and 2)
+AXeL-2fois shows [Ks Ac] (Full of 9 and Aces)
+AXeL-2fois collected 8004 from pot
+*** SUMMARY ***
+Total pot 8004 | No rake
+Board: [8d 9c 9h 9d Ad]
+Seat 2: AXeL-2fois showed [Ks Ac] and won 8004 with Full of 9 and Aces
+Seat 5: YL_ML_GL_42 (big blind) showed [2c 2h] and lost with Full of 9 and 2
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-8-1670441944 - Holdem no limit (25/100/200) - 2022/12/07 19:39:04 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 1: AA.mahone. (19950)
+Seat 2: AXeL-2fois (23177)
+Seat 3: Ma_zing-wa.C (20400)
+Seat 4: Kobz14 (18775)
+Seat 5: YL_ML_GL_42 (38098)
+Seat 6: FileAilVie (19975)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+AA.mahone. posts ante 25
+AXeL-2fois posts ante 25
+Ma_zing-wa.C posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts small blind 100
+FileAilVie posts big blind 200
+Dealt to YL_ML_GL_42 [8h Ah]
+*** PRE-FLOP *** 
+AA.mahone. folds
+AXeL-2fois folds
+Ma_zing-wa.C folds
+Kobz14 folds
+YL_ML_GL_42 raises 400 to 600
+FileAilVie folds
+YL_ML_GL_42 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 5: YL_ML_GL_42 (small blind) won 950
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-9-1670441959 - Holdem no limit (25/100/200) - 2022/12/07 19:39:19 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #5 is the button
+Seat 1: AA.mahone. (19925)
+Seat 2: AXeL-2fois (23152)
+Seat 3: Ma_zing-wa.C (20375)
+Seat 4: Kobz14 (18750)
+Seat 5: YL_ML_GL_42 (38423)
+Seat 6: FileAilVie (19750)
+*** ANTE/BLINDS ***
+FileAilVie posts ante 25
+AA.mahone. posts ante 25
+AXeL-2fois posts ante 25
+Ma_zing-wa.C posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts small blind 100
+AA.mahone. posts big blind 200
+Dealt to YL_ML_GL_42 [Qc Ts]
+*** PRE-FLOP *** 
+AXeL-2fois folds
+Ma_zing-wa.C folds
+Kobz14 folds
+YL_ML_GL_42 raises 400 to 600
+FileAilVie folds
+AA.mahone. raises 1400 to 2000
+YL_ML_GL_42 calls 1400
+*** FLOP *** [Qd Qh 2h]
+AA.mahone. bets 1700
+YL_ML_GL_42 calls 1700
+*** TURN *** [Qd Qh 2h][2d]
+AA.mahone. bets 16200 and is all-in
+YL_ML_GL_42 calls 16200
+*** RIVER *** [Qd Qh 2h 2d][9c]
+*** SHOW DOWN ***
+AA.mahone. shows [9h 9s] (Full of 9 and Queens)
+YL_ML_GL_42 shows [Qc Ts] (Full of Queens and 2)
+YL_ML_GL_42 collected 40050 from pot
+*** SUMMARY ***
+Total pot 40050 | No rake
+Board: [Qd Qh 2h 2d 9c]
+Seat 1: AA.mahone. (big blind) showed [9h 9s] and lost with Full of 9 and Queens
+Seat 5: YL_ML_GL_42 (button) showed [Qc Ts] and won 40050 with Full of Queens and 2
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-10-1670442001 - Holdem no limit (25/100/200) - 2022/12/07 19:40:01 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #6 is the button
+Seat 1: 1936frank (20000)
+Seat 2: AXeL-2fois (23127)
+Seat 3: Ma_zing-wa.C (20350)
+Seat 4: Kobz14 (18725)
+Seat 5: YL_ML_GL_42 (58548)
+Seat 6: FileAilVie (19625)
+*** ANTE/BLINDS ***
+AXeL-2fois posts ante 25
+Ma_zing-wa.C posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+AXeL-2fois posts big blind 200
+Dealt to YL_ML_GL_42 [6h 5s]
+*** PRE-FLOP *** 
+Ma_zing-wa.C folds
+Kobz14 folds
+YL_ML_GL_42 folds
+FileAilVie folds
+AXeL-2fois collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | No rake
+Seat 2: AXeL-2fois (big blind) won 325
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-11-1670442023 - Holdem no limit (25/100/200) - 2022/12/07 19:40:23 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #1 is the button
+Seat 1: 1936frank (20000)
+Seat 2: AXeL-2fois (23227)
+Seat 3: Ma_zing-wa.C (20325)
+Seat 4: Kobz14 (18700)
+Seat 5: YL_ML_GL_42 (58523)
+Seat 6: FileAilVie (19600)
+*** ANTE/BLINDS ***
+AXeL-2fois posts ante 25
+Ma_zing-wa.C posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+AXeL-2fois posts small blind 100
+Ma_zing-wa.C posts big blind 200
+Dealt to YL_ML_GL_42 [Ks Qd]
+*** PRE-FLOP *** 
+Kobz14 folds
+YL_ML_GL_42 raises 400 to 600
+FileAilVie folds
+AXeL-2fois folds
+Ma_zing-wa.C folds
+YL_ML_GL_42 collected 1025 from pot
+*** SUMMARY ***
+Total pot 1025 | No rake
+Seat 5: YL_ML_GL_42 won 1025
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-12-1670442038 - Holdem no limit (25/100/200) - 2022/12/07 19:40:38 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #2 is the button
+Seat 1: 1936frank (20000)
+Seat 2: AXeL-2fois (23102)
+Seat 3: Ma_zing-wa.C (20100)
+Seat 4: Kobz14 (18675)
+Seat 5: YL_ML_GL_42 (58923)
+Seat 6: FileAilVie (19575)
+*** ANTE/BLINDS ***
+Ma_zing-wa.C posts ante 25
+Kobz14 posts ante 25
+1936frank posts ante 25
+AXeL-2fois posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+Ma_zing-wa.C posts small blind 100
+Kobz14 posts big blind 200
+Dealt to YL_ML_GL_42 [Td 7h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+FileAilVie folds
+1936frank folds
+AXeL-2fois raises 250 to 450
+Ma_zing-wa.C raises 1125 to 1575
+Kobz14 folds
+AXeL-2fois folds
+Ma_zing-wa.C collected 2375 from pot
+*** SUMMARY ***
+Total pot 2375 | No rake
+Seat 3: Ma_zing-wa.C (small blind) won 2375
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-13-1670442076 - Holdem no limit (25/100/200) - 2022/12/07 19:41:16 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 1: 1936frank (19975)
+Seat 2: AXeL-2fois (22627)
+Seat 3: Ma_zing-wa.C (20875)
+Seat 4: Kobz14 (18450)
+Seat 5: YL_ML_GL_42 (58898)
+Seat 6: FileAilVie (19550)
+*** ANTE/BLINDS ***
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+1936frank posts ante 25
+AXeL-2fois posts ante 25
+Ma_zing-wa.C posts ante 25
+FileAilVie posts ante 25
+Kobz14 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Ac Jh]
+*** PRE-FLOP *** 
+FileAilVie raises 400 to 600
+1936frank folds
+AXeL-2fois folds
+Ma_zing-wa.C folds
+Kobz14 folds
+YL_ML_GL_42 raises 1450 to 2050
+FileAilVie calls 1450
+*** FLOP *** [Ad 2c 5c]
+YL_ML_GL_42 bets 3480
+FileAilVie calls 3480
+*** TURN *** [Ad 2c 5c][7h]
+YL_ML_GL_42 checks
+FileAilVie checks
+*** RIVER *** [Ad 2c 5c 7h][8s]
+YL_ML_GL_42 bets 9048
+FileAilVie calls 9048
+*** SHOW DOWN ***
+FileAilVie shows [As 3s] (One pair : Aces)
+YL_ML_GL_42 shows [Ac Jh] (One pair : Aces)
+YL_ML_GL_42 collected 29406 from pot
+*** SUMMARY ***
+Total pot 29406 | No rake
+Board: [Ad 2c 5c 7h 8s]
+Seat 5: YL_ML_GL_42 (big blind) showed [Ac Jh] and won 29406 with One pair : Aces
+Seat 6: FileAilVie showed [As 3s] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-14-1670442158 - Holdem no limit (25/100/200) - 2022/12/07 19:42:38 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 1: BraiaO (20000)
+Seat 2: AXeL-2fois (22602)
+Seat 3: Ma_zing-wa.C (20850)
+Seat 4: Kobz14 (18325)
+Seat 5: YL_ML_GL_42 (73701)
+Seat 6: FileAilVie (4947)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+BraiaO posts ante 25
+AXeL-2fois posts ante 25
+Ma_zing-wa.C posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts small blind 100
+FileAilVie posts big blind 200
+Dealt to YL_ML_GL_42 [Ts 3s]
+*** PRE-FLOP *** 
+BraiaO folds
+AXeL-2fois folds
+Ma_zing-wa.C folds
+Kobz14 folds
+YL_ML_GL_42 raises 400 to 600
+FileAilVie calls 400
+*** FLOP *** [8d 4h 6h]
+YL_ML_GL_42 checks
+FileAilVie bets 4322 and is all-in
+YL_ML_GL_42 folds
+FileAilVie collected 5672 from pot
+*** SUMMARY ***
+Total pot 5672 | No rake
+Board: [8d 4h 6h]
+Seat 6: FileAilVie (big blind) won 5672
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-15-1670442191 - Holdem no limit (25/100/200) - 2022/12/07 19:43:11 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #5 is the button
+Seat 1: BraiaO (19975)
+Seat 2: AXeL-2fois (22577)
+Seat 3: Ma_zing-wa.C (20825)
+Seat 4: Kobz14 (18300)
+Seat 5: YL_ML_GL_42 (73076)
+Seat 6: FileAilVie (5672)
+*** ANTE/BLINDS ***
+FileAilVie posts ante 25
+BraiaO posts ante 25
+AXeL-2fois posts ante 25
+Ma_zing-wa.C posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts small blind 100
+BraiaO posts big blind 200
+Dealt to YL_ML_GL_42 [Kh 8s]
+*** PRE-FLOP *** 
+AXeL-2fois folds
+Ma_zing-wa.C folds
+Kobz14 calls 200
+YL_ML_GL_42 folds
+FileAilVie folds
+BraiaO checks
+*** FLOP *** [6s Kd 8c]
+BraiaO checks
+Kobz14 checks
+*** TURN *** [6s Kd 8c][Th]
+BraiaO bets 338
+Kobz14 calls 338
+*** RIVER *** [6s Kd 8c Th][2s]
+BraiaO checks
+Kobz14 checks
+*** SHOW DOWN ***
+Kobz14 shows [5h 7h] (High card : King)
+BraiaO shows [5s 8h] (One pair : 8)
+BraiaO collected 1326 from pot
+*** SUMMARY ***
+Total pot 1326 | No rake
+Board: [6s Kd 8c Th 2s]
+Seat 1: BraiaO (big blind) showed [5s 8h] and won 1326 with One pair : 8
+Seat 4: Kobz14 showed [5h 7h] and lost with High card : King
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-16-1670442256 - Holdem no limit (25/100/200) - 2022/12/07 19:44:16 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #6 is the button
+Seat 1: BraiaO (20738)
+Seat 2: AXeL-2fois (22552)
+Seat 4: Kobz14 (17737)
+Seat 5: YL_ML_GL_42 (73051)
+Seat 6: FileAilVie (5547)
+*** ANTE/BLINDS ***
+BraiaO posts ante 25
+AXeL-2fois posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+BraiaO posts small blind 100
+AXeL-2fois posts big blind 200
+Dealt to YL_ML_GL_42 [4h Ts]
+*** PRE-FLOP *** 
+Kobz14 folds
+YL_ML_GL_42 folds
+FileAilVie folds
+BraiaO calls 100
+AXeL-2fois checks
+*** FLOP *** [8h 6d 8c]
+BraiaO checks
+AXeL-2fois bets 200
+BraiaO calls 200
+*** TURN *** [8h 6d 8c][4d]
+BraiaO checks
+AXeL-2fois bets 200
+BraiaO calls 200
+*** RIVER *** [8h 6d 8c 4d][Kh]
+BraiaO checks
+AXeL-2fois checks
+*** SHOW DOWN ***
+BraiaO shows [9d Qd] (One pair : 8)
+AXeL-2fois shows [2d 6s] (Two pairs : 8 and 6)
+AXeL-2fois collected 1325 from pot
+*** SUMMARY ***
+Total pot 1325 | No rake
+Board: [8h 6d 8c 4d Kh]
+Seat 1: BraiaO (small blind) showed [9d Qd] and lost with One pair : 8
+Seat 2: AXeL-2fois (big blind) showed [2d 6s] and won 1325 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-17-1670442302 - Holdem no limit (25/100/200) - 2022/12/07 19:45:02 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #1 is the button
+Seat 1: BraiaO (20113)
+Seat 2: AXeL-2fois (23252)
+Seat 3: raf-raf (20000)
+Seat 4: Kobz14 (17712)
+Seat 5: YL_ML_GL_42 (73026)
+Seat 6: FileAilVie (5522)
+*** ANTE/BLINDS ***
+AXeL-2fois posts ante 25
+raf-raf posts ante 25
+BraiaO posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+AXeL-2fois posts small blind 100
+raf-raf posts big blind 200
+Dealt to YL_ML_GL_42 [Ts Ac]
+*** PRE-FLOP *** 
+Kobz14 calls 200
+YL_ML_GL_42 raises 850 to 1050
+FileAilVie folds
+BraiaO folds
+AXeL-2fois raises 22177 to 23227 and is all-in
+raf-raf folds
+Kobz14 folds
+YL_ML_GL_42 calls 22177
+*** FLOP *** [9c 4s 5s]
+*** TURN *** [9c 4s 5s][3d]
+*** RIVER *** [9c 4s 5s 3d][Tc]
+*** SHOW DOWN ***
+AXeL-2fois shows [As Kd] (High card : Ace)
+YL_ML_GL_42 shows [Ts Ac] (One pair : Tens)
+YL_ML_GL_42 collected 47004 from pot
+*** SUMMARY ***
+Total pot 47004 | No rake
+Board: [9c 4s 5s 3d Tc]
+Seat 2: AXeL-2fois (small blind) showed [As Kd] and lost with High card : Ace
+Seat 5: YL_ML_GL_42 showed [Ts Ac] and won 47004 with One pair : Tens
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-18-1670442341 - Holdem no limit (25/100/200) - 2022/12/07 19:45:41 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #2 is the button
+Seat 1: BraiaO (20088)
+Seat 3: raf-raf (19775)
+Seat 4: Kobz14 (17487)
+Seat 5: YL_ML_GL_42 (96778)
+Seat 6: FileAilVie (5497)
+*** ANTE/BLINDS ***
+raf-raf posts ante 25
+Kobz14 posts ante 25
+BraiaO posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+raf-raf posts small blind 100
+Kobz14 posts big blind 200
+Dealt to YL_ML_GL_42 [2c 3c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+FileAilVie folds
+BraiaO folds
+raf-raf raises 200 to 400
+Kobz14 calls 200
+*** FLOP *** [4c 4h 8s]
+raf-raf checks
+Kobz14 checks
+*** TURN *** [4c 4h 8s][Qc]
+raf-raf bets 324
+Kobz14 folds
+raf-raf collected 1249 from pot
+*** SUMMARY ***
+Total pot 1249 | No rake
+Board: [4c 4h 8s Qc]
+Seat 3: raf-raf (small blind) won 1249
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-19-1670442391 - Holdem no limit (25/100/200) - 2022/12/07 19:46:31 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 1: BraiaO (20063)
+Seat 2: AAAActionMan (20000)
+Seat 3: raf-raf (20275)
+Seat 4: Kobz14 (17062)
+Seat 5: YL_ML_GL_42 (96753)
+Seat 6: FileAilVie (5472)
+*** ANTE/BLINDS ***
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+BraiaO posts ante 25
+AAAActionMan posts ante 25
+raf-raf posts ante 25
+FileAilVie posts ante 25
+Kobz14 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [5h Ah]
+*** PRE-FLOP *** 
+FileAilVie folds
+BraiaO folds
+AAAActionMan folds
+raf-raf raises 200 to 400
+Kobz14 calls 300
+YL_ML_GL_42 calls 200
+*** FLOP *** [Td 9s 4h]
+Kobz14 checks
+YL_ML_GL_42 checks
+raf-raf checks
+*** TURN *** [Td 9s 4h][4c]
+Kobz14 checks
+YL_ML_GL_42 checks
+raf-raf bets 473
+Kobz14 folds
+YL_ML_GL_42 folds
+raf-raf collected 1823 from pot
+*** SUMMARY ***
+Total pot 1823 | No rake
+Board: [Td 9s 4h 4c]
+Seat 3: raf-raf (button) won 1823
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-20-1670442457 - Holdem no limit (25/100/200) - 2022/12/07 19:47:37 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 1: BraiaO (20038)
+Seat 2: AAAActionMan (19975)
+Seat 3: raf-raf (21200)
+Seat 4: Kobz14 (16637)
+Seat 5: YL_ML_GL_42 (96328)
+Seat 6: FileAilVie (5447)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+BraiaO posts ante 25
+AAAActionMan posts ante 25
+raf-raf posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts small blind 100
+FileAilVie posts big blind 200
+Dealt to YL_ML_GL_42 [8c 5d]
+*** PRE-FLOP *** 
+BraiaO folds
+AAAActionMan folds
+raf-raf raises 200 to 400
+Kobz14 folds
+YL_ML_GL_42 folds
+FileAilVie folds
+raf-raf collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 3: raf-raf won 850
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-21-1670442483 - Holdem no limit (25/100/200) - 2022/12/07 19:48:03 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #5 is the button
+Seat 1: BraiaO (20013)
+Seat 2: AAAActionMan (19950)
+Seat 3: raf-raf (21625)
+Seat 4: Kobz14 (16612)
+Seat 5: YL_ML_GL_42 (96203)
+Seat 6: FileAilVie (5222)
+*** ANTE/BLINDS ***
+FileAilVie posts ante 25
+BraiaO posts ante 25
+AAAActionMan posts ante 25
+raf-raf posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts small blind 100
+BraiaO posts big blind 200
+Dealt to YL_ML_GL_42 [As 2h]
+*** PRE-FLOP *** 
+AAAActionMan folds
+raf-raf raises 200 to 400
+Kobz14 folds
+YL_ML_GL_42 calls 400
+FileAilVie folds
+BraiaO calls 200
+*** FLOP *** [8h Kc 9d]
+BraiaO checks
+raf-raf bets 508
+YL_ML_GL_42 folds
+BraiaO raises 1038 to 1546
+raf-raf calls 1038
+*** TURN *** [8h Kc 9d][4s]
+BraiaO bets 2952
+raf-raf calls 2952
+*** RIVER *** [8h Kc 9d 4s][4c]
+BraiaO checks
+raf-raf checks
+*** SHOW DOWN ***
+BraiaO shows [6h Th] (One pair : 4)
+raf-raf shows [Kd 7d] (Two pairs : Kings and 4)
+raf-raf collected 10446 from pot
+*** SUMMARY ***
+Total pot 10446 | No rake
+Board: [8h Kc 9d 4s 4c]
+Seat 1: BraiaO (big blind) showed [6h Th] and lost with One pair : 4
+Seat 3: raf-raf showed [Kd 7d] and won 10446 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-22-1670442549 - Holdem no limit (25/100/200) - 2022/12/07 19:49:09 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #6 is the button
+Seat 1: BraiaO (15090)
+Seat 2: AAAActionMan (19925)
+Seat 3: raf-raf (27148)
+Seat 4: Kobz14 (16587)
+Seat 5: YL_ML_GL_42 (95778)
+Seat 6: FileAilVie (5097)
+*** ANTE/BLINDS ***
+BraiaO posts ante 25
+AAAActionMan posts ante 25
+raf-raf posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+BraiaO posts small blind 100
+AAAActionMan posts big blind 200
+Dealt to YL_ML_GL_42 [Th Kh]
+*** PRE-FLOP *** 
+raf-raf folds
+Kobz14 folds
+YL_ML_GL_42 raises 400 to 600
+FileAilVie folds
+BraiaO folds
+AAAActionMan folds
+YL_ML_GL_42 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 5: YL_ML_GL_42 won 1050
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-23-1670442561 - Holdem no limit (25/100/200) - 2022/12/07 19:49:21 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #1 is the button
+Seat 1: BraiaO (14965)
+Seat 2: AAAActionMan (19700)
+Seat 3: raf-raf (27123)
+Seat 4: Kobz14 (16562)
+Seat 5: YL_ML_GL_42 (96203)
+Seat 6: FileAilVie (5072)
+*** ANTE/BLINDS ***
+AAAActionMan posts ante 25
+raf-raf posts ante 25
+BraiaO posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+AAAActionMan posts small blind 100
+raf-raf posts big blind 200
+Dealt to YL_ML_GL_42 [Ac 5s]
+*** PRE-FLOP *** 
+Kobz14 folds
+YL_ML_GL_42 folds
+FileAilVie folds
+BraiaO folds
+AAAActionMan folds
+raf-raf collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 3: raf-raf (big blind) won 450
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-24-1670442571 - Holdem no limit (25/100/200) - 2022/12/07 19:49:31 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #2 is the button
+Seat 1: BraiaO (14940)
+Seat 2: AAAActionMan (19575)
+Seat 3: raf-raf (27348)
+Seat 4: Kobz14 (16537)
+Seat 5: YL_ML_GL_42 (96178)
+Seat 6: FileAilVie (5047)
+*** ANTE/BLINDS ***
+raf-raf posts ante 25
+Kobz14 posts ante 25
+BraiaO posts ante 25
+AAAActionMan posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+raf-raf posts small blind 100
+Kobz14 posts big blind 200
+Dealt to YL_ML_GL_42 [9d 4h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+FileAilVie folds
+BraiaO folds
+AAAActionMan calls 200
+raf-raf calls 100
+Kobz14 checks
+*** FLOP *** [4s 3d Kh]
+raf-raf checks
+Kobz14 checks
+AAAActionMan checks
+*** TURN *** [4s 3d Kh][8d]
+raf-raf bets 375
+Kobz14 calls 375
+AAAActionMan folds
+*** RIVER *** [4s 3d Kh 8d][Td]
+raf-raf checks
+Kobz14 checks
+*** SHOW DOWN ***
+Kobz14 shows [Ah 2d] (High card : Ace)
+raf-raf shows [6d 8h] (One pair : 8)
+raf-raf collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [4s 3d Kh 8d Td]
+Seat 3: raf-raf (small blind) showed [6d 8h] and won 1500 with One pair : 8
+Seat 4: Kobz14 (big blind) showed [Ah 2d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-25-1670442635 - Holdem no limit (25/100/200) - 2022/12/07 19:50:35 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 1: BraiaO (14915)
+Seat 2: AAAActionMan (19350)
+Seat 3: raf-raf (28248)
+Seat 4: Kobz14 (15937)
+Seat 5: YL_ML_GL_42 (96153)
+Seat 6: FileAilVie (5022)
+*** ANTE/BLINDS ***
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+BraiaO posts ante 25
+AAAActionMan posts ante 25
+raf-raf posts ante 25
+FileAilVie posts ante 25
+Kobz14 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Qc 5d]
+*** PRE-FLOP *** 
+FileAilVie folds
+BraiaO folds
+AAAActionMan folds
+raf-raf folds
+Kobz14 calls 100
+YL_ML_GL_42 checks
+*** FLOP *** [8c 2s 9c]
+Kobz14 checks
+YL_ML_GL_42 checks
+*** TURN *** [8c 2s 9c][2h]
+Kobz14 bets 550
+YL_ML_GL_42 folds
+Kobz14 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | No rake
+Board: [8c 2s 9c 2h]
+Seat 4: Kobz14 (small blind) won 1100
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-26-1670442679 - Holdem no limit (25/100/200) - 2022/12/07 19:51:19 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 1: BraiaO (14890)
+Seat 2: AAAActionMan (19325)
+Seat 3: raf-raf (28223)
+Seat 4: Kobz14 (16262)
+Seat 5: YL_ML_GL_42 (95928)
+Seat 6: FileAilVie (4997)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+FileAilVie posts ante 25
+BraiaO posts ante 25
+AAAActionMan posts ante 25
+raf-raf posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts small blind 100
+FileAilVie posts big blind 200
+Dealt to YL_ML_GL_42 [7h 9h]
+*** PRE-FLOP *** 
+BraiaO folds
+AAAActionMan folds
+raf-raf raises 200 to 400
+Kobz14 calls 400
+YL_ML_GL_42 calls 300
+FileAilVie folds
+*** FLOP *** [4c 2d 5c]
+YL_ML_GL_42 checks
+raf-raf checks
+Kobz14 checks
+*** TURN *** [4c 2d 5c][Qs]
+YL_ML_GL_42 checks
+raf-raf checks
+Kobz14 bets 1550
+YL_ML_GL_42 folds
+raf-raf folds
+Kobz14 collected 3100 from pot
+*** SUMMARY ***
+Total pot 3100 | No rake
+Board: [4c 2d 5c Qs]
+Seat 4: Kobz14 (button) won 3100
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-27-1670442725 - Holdem no limit (25/100/200) - 2022/12/07 19:52:05 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #5 is the button
+Seat 1: BraiaO (14865)
+Seat 2: AAAActionMan (19300)
+Seat 3: raf-raf (27798)
+Seat 4: Kobz14 (17387)
+Seat 5: YL_ML_GL_42 (95503)
+Seat 6: FileAilVie (4772)
+*** ANTE/BLINDS ***
+FileAilVie posts ante 25
+BraiaO posts ante 25
+AAAActionMan posts ante 25
+raf-raf posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+FileAilVie posts small blind 100
+BraiaO posts big blind 200
+Dealt to YL_ML_GL_42 [9s Ac]
+*** PRE-FLOP *** 
+AAAActionMan raises 250 to 450
+raf-raf calls 450
+Kobz14 folds
+YL_ML_GL_42 folds
+FileAilVie raises 4297 to 4747 and is all-in
+BraiaO folds
+AAAActionMan calls 4297
+raf-raf folds
+*** FLOP *** [Kd 6s 2d]
+*** TURN *** [Kd 6s 2d][7d]
+*** RIVER *** [Kd 6s 2d 7d][Jc]
+*** SHOW DOWN ***
+FileAilVie shows [As 9h] (High card : Ace)
+AAAActionMan shows [6d Ad] (Flush Ace high)
+AAAActionMan collected 10294 from pot
+*** SUMMARY ***
+Total pot 10294 | No rake
+Board: [Kd 6s 2d 7d Jc]
+Seat 2: AAAActionMan showed [6d Ad] and won 10294 with Flush Ace high
+Seat 6: FileAilVie (small blind) showed [As 9h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-28-1670442812 - Holdem no limit (25/100/200) - 2022/12/07 19:53:32 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #6 is the button
+Seat 1: BraiaO (14640)
+Seat 2: AAAActionMan (24822)
+Seat 3: raf-raf (27323)
+Seat 4: Kobz14 (17362)
+Seat 5: YL_ML_GL_42 (95478)
+*** ANTE/BLINDS ***
+BraiaO posts ante 25
+AAAActionMan posts ante 25
+raf-raf posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+BraiaO posts small blind 100
+AAAActionMan posts big blind 200
+Dealt to YL_ML_GL_42 [4d Ah]
+*** PRE-FLOP *** 
+raf-raf folds
+Kobz14 calls 200
+YL_ML_GL_42 calls 200
+BraiaO calls 100
+AAAActionMan checks
+*** FLOP *** [9h Ks 2c]
+BraiaO checks
+AAAActionMan checks
+Kobz14 checks
+YL_ML_GL_42 checks
+*** TURN *** [9h Ks 2c][Ts]
+BraiaO checks
+AAAActionMan checks
+Kobz14 checks
+YL_ML_GL_42 checks
+*** RIVER *** [9h Ks 2c Ts][5h]
+BraiaO checks
+AAAActionMan checks
+Kobz14 checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+AAAActionMan shows [5d Jh] (One pair : 5)
+Kobz14 shows [6d 3d] (High card : King)
+YL_ML_GL_42 shows [4d Ah] (High card : Ace)
+BraiaO shows [Qs 5s] (One pair : 5)
+BraiaO collected 925 from pot
+*** SUMMARY ***
+Total pot 925 | No rake
+Board: [9h Ks 2c Ts 5h]
+Seat 1: BraiaO (small blind) showed [Qs 5s] and won 925 with One pair : 5
+Seat 2: AAAActionMan (big blind) showed [5d Jh] and lost with One pair : 5
+Seat 4: Kobz14 showed [6d 3d] and lost with High card : King
+Seat 5: YL_ML_GL_42 showed [4d Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 43 - HandId: #2613170759878574223-29-1670442892 - Holdem no limit (25/100/200) - 2022/12/07 19:54:52 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #1 is the button
+Seat 1: BraiaO (15340)
+Seat 2: AAAActionMan (24597)
+Seat 3: raf-raf (27298)
+Seat 4: Kobz14 (17137)
+Seat 5: YL_ML_GL_42 (95253)
+Seat 6: Vnezapnostb (20000)
+*** ANTE/BLINDS ***
+AAAActionMan posts ante 25
+raf-raf posts ante 25
+BraiaO posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+Vnezapnostb posts ante 25
+AAAActionMan posts small blind 100
+raf-raf posts big blind 200
+Dealt to YL_ML_GL_42 [Th Ts]
+*** PRE-FLOP *** 
+Kobz14 raises 1500 to 1700
+YL_ML_GL_42 raises 93528 to 95228 and is all-in
+Vnezapnostb folds
+BraiaO folds
+AAAActionMan folds
+raf-raf folds
+Kobz14 calls 15412 and is all-in
+*** FLOP *** [Kh 2h 7c]
+*** TURN *** [Kh 2h 7c][Qd]
+*** RIVER *** [Kh 2h 7c Qd][4s]
+*** SHOW DOWN ***
+Kobz14 shows [Js Jd] (One pair : Jacks)
+YL_ML_GL_42 shows [Th Ts] (One pair : Tens)
+YL_ML_GL_42 collected 78116 from side pot 1
+Kobz14 collected 34674 from main pot
+*** SUMMARY ***
+Total pot 112790 | No rake
+Board: [Kh 2h 7c Qd 4s]
+Seat 4: Kobz14 showed [Js Jd] and won 34674 with One pair : Jacks
+Seat 5: YL_ML_GL_42 showed [Th Ts] and won 78116 with One pair : Tens
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2613170759878574223-30-1670443263 - Holdem no limit (25/100/200) - 2022/12/07 20:01:03 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #2 is the button
+Seat 1: BraiaO (15315)
+Seat 2: AAAActionMan (24472)
+Seat 3: raf-raf (27073)
+Seat 4: Kobz14 (34674)
+Seat 5: YL_ML_GL_42 (78116)
+Seat 6: Vnezapnostb (19975)
+*** ANTE/BLINDS ***
+raf-raf posts ante 25
+Kobz14 posts ante 25
+BraiaO posts ante 25
+AAAActionMan posts ante 25
+YL_ML_GL_42 posts ante 25
+Vnezapnostb posts ante 25
+raf-raf posts small blind 100
+Kobz14 posts big blind 200
+Dealt to YL_ML_GL_42 [Kc Qh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Vnezapnostb raises 200 to 400
+BraiaO folds
+AAAActionMan folds
+raf-raf folds
+Kobz14 folds
+Vnezapnostb collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 6: Vnezapnostb won 850
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2613170759878574223-31-1670443404 - Holdem no limit (25/100/200) - 2022/12/07 20:03:24 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 1: BraiaO (15290)
+Seat 2: AAAActionMan (24447)
+Seat 3: raf-raf (26948)
+Seat 4: Kobz14 (34449)
+Seat 5: YL_ML_GL_42 (78091)
+Seat 6: Vnezapnostb (20400)
+*** ANTE/BLINDS ***
+Kobz14 posts ante 25
+YL_ML_GL_42 posts ante 25
+BraiaO posts ante 25
+AAAActionMan posts ante 25
+raf-raf posts ante 25
+Vnezapnostb posts ante 25
+Kobz14 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Kd Tc]
+*** PRE-FLOP *** 
+Vnezapnostb folds
+BraiaO folds
+AAAActionMan folds
+raf-raf raises 200 to 400
+Kobz14 folds
+YL_ML_GL_42 calls 200
+*** FLOP *** [Kh 3s 2d]
+YL_ML_GL_42 bets 683
+raf-raf folds
+YL_ML_GL_42 collected 1733 from pot
+*** SUMMARY ***
+Total pot 1733 | No rake
+Board: [Kh 3s 2d]
+Seat 5: YL_ML_GL_42 (big blind) won 1733
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2613170759878574223-32-1670443433 - Holdem no limit (25/100/200) - 2022/12/07 20:03:53 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 1: BraiaO (15265)
+Seat 2: AAAActionMan (24422)
+Seat 3: raf-raf (26523)
+Seat 4: Kobz14 (34324)
+Seat 5: YL_ML_GL_42 (78716)
+Seat 6: Vnezapnostb (20375)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Vnezapnostb posts ante 25
+BraiaO posts ante 25
+AAAActionMan posts ante 25
+raf-raf posts ante 25
+Kobz14 posts ante 25
+YL_ML_GL_42 posts small blind 100
+Vnezapnostb posts big blind 200
+Dealt to YL_ML_GL_42 [4s Tc]
+*** PRE-FLOP *** 
+BraiaO folds
+AAAActionMan raises 250 to 450
+raf-raf calls 450
+Kobz14 folds
+YL_ML_GL_42 folds
+Vnezapnostb calls 250
+*** FLOP *** [Ks 5h 2d]
+Vnezapnostb checks
+AAAActionMan checks
+raf-raf checks
+*** TURN *** [Ks 5h 2d][Jc]
+Vnezapnostb checks
+AAAActionMan checks
+raf-raf checks
+*** RIVER *** [Ks 5h 2d Jc][Ad]
+Vnezapnostb checks
+AAAActionMan checks
+raf-raf bets 800
+Vnezapnostb folds
+AAAActionMan calls 800
+*** SHOW DOWN ***
+AAAActionMan shows [7d Ac] (One pair : Aces)
+raf-raf shows [9d Ah] (One pair : Aces)
+raf-raf collected 3200 from pot
+*** SUMMARY ***
+Total pot 3200 | No rake
+Board: [Ks 5h 2d Jc Ad]
+Seat 2: AAAActionMan showed [7d Ac] and lost with One pair : Aces
+Seat 3: raf-raf showed [9d Ah] and won 3200 with One pair : Aces
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 6 - HandId: #2613170759878574223-64-1670445094 - Holdem no limit (60/250/500) - 2022/12/07 20:31:34 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #1 is the button
+Seat 1: Minosspart (34594)
+Seat 2: AAAActionMan (40234)
+Seat 3: raf-raf (27563)
+Seat 4: lamul (19140)
+Seat 5: YL_ML_GL_42 (117924)
+Seat 6: StrangerGio (20170)
+*** ANTE/BLINDS ***
+AAAActionMan posts ante 60
+raf-raf posts ante 60
+Minosspart posts ante 60
+lamul posts ante 60
+YL_ML_GL_42 posts ante 60
+StrangerGio posts ante 60
+AAAActionMan posts small blind 250
+raf-raf posts big blind 500
+Dealt to YL_ML_GL_42 [Qs 9d]
+*** PRE-FLOP *** 
+lamul raises 750 to 1250
+YL_ML_GL_42 folds
+StrangerGio folds
+Minosspart raises 2750 to 4000
+AAAActionMan folds
+raf-raf folds
+lamul calls 2750
+*** FLOP *** [2s 4d 9s]
+lamul bets 9110
+Minosspart folds
+lamul collected 18220 from pot
+*** SUMMARY ***
+Total pot 18220 | No rake
+Board: [2s 4d 9s]
+Seat 4: lamul won 18220
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 6 - HandId: #2613170759878574223-65-1670445148 - Holdem no limit (60/250/500) - 2022/12/07 20:32:28 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #2 is the button
+Seat 1: Minosspart (30534)
+Seat 2: AAAActionMan (39924)
+Seat 3: raf-raf (27003)
+Seat 4: lamul (24190)
+Seat 5: YL_ML_GL_42 (117864)
+Seat 6: StrangerGio (20110)
+*** ANTE/BLINDS ***
+raf-raf posts ante 60
+lamul posts ante 60
+Minosspart posts ante 60
+AAAActionMan posts ante 60
+YL_ML_GL_42 posts ante 60
+StrangerGio posts ante 60
+raf-raf posts small blind 250
+lamul posts big blind 500
+Dealt to YL_ML_GL_42 [9h 7s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+StrangerGio raises 500 to 1000
+Minosspart folds
+AAAActionMan folds
+raf-raf calls 750
+lamul folds
+*** FLOP *** [Js 6d 9s]
+raf-raf checks
+StrangerGio bets 1001
+raf-raf folds
+StrangerGio collected 3861 from pot
+*** SUMMARY ***
+Total pot 3861 | No rake
+Board: [Js 6d 9s]
+Seat 6: StrangerGio won 3861
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 6 - HandId: #2613170759878574223-66-1670445214 - Holdem no limit (60/250/500) - 2022/12/07 20:33:34 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 1: Minosspart (30474)
+Seat 2: AAAActionMan (39864)
+Seat 3: raf-raf (25943)
+Seat 4: lamul (23630)
+Seat 5: YL_ML_GL_42 (117804)
+Seat 6: StrangerGio (21910)
+*** ANTE/BLINDS ***
+lamul posts ante 60
+YL_ML_GL_42 posts ante 60
+Minosspart posts ante 60
+AAAActionMan posts ante 60
+raf-raf posts ante 60
+StrangerGio posts ante 60
+lamul posts small blind 250
+YL_ML_GL_42 posts big blind 500
+Dealt to YL_ML_GL_42 [5c Qc]
+*** PRE-FLOP *** 
+StrangerGio folds
+Minosspart folds
+AAAActionMan folds
+raf-raf raises 500 to 1000
+lamul calls 750
+YL_ML_GL_42 calls 500
+*** FLOP *** [8h 7d As]
+lamul checks
+YL_ML_GL_42 checks
+raf-raf bets 1176
+lamul calls 1176
+YL_ML_GL_42 folds
+*** TURN *** [8h 7d As][2c]
+lamul checks
+raf-raf checks
+*** RIVER *** [8h 7d As 2c][Ks]
+lamul checks
+raf-raf checks
+*** SHOW DOWN ***
+raf-raf shows [8d Qs] (One pair : 8)
+lamul shows [9s 9h] (One pair : 9)
+lamul collected 5712 from pot
+*** SUMMARY ***
+Total pot 5712 | No rake
+Board: [8h 7d As 2c Ks]
+Seat 3: raf-raf (button) showed [8d Qs] and lost with One pair : 8
+Seat 4: lamul (small blind) showed [9s 9h] and won 5712 with One pair : 9
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 6 - HandId: #2613170759878574223-67-1670445289 - Holdem no limit (60/250/500) - 2022/12/07 20:34:49 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 1: Minosspart (30414)
+Seat 2: AAAActionMan (39804)
+Seat 3: raf-raf (23707)
+Seat 4: lamul (27106)
+Seat 5: YL_ML_GL_42 (116744)
+Seat 6: StrangerGio (21850)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+StrangerGio posts ante 60
+Minosspart posts ante 60
+AAAActionMan posts ante 60
+raf-raf posts ante 60
+lamul posts ante 60
+YL_ML_GL_42 posts small blind 250
+StrangerGio posts big blind 500
+Dealt to YL_ML_GL_42 [4h 3c]
+*** PRE-FLOP *** 
+Minosspart raises 500 to 1000
+AAAActionMan folds
+raf-raf folds
+lamul folds
+YL_ML_GL_42 folds
+StrangerGio folds
+Minosspart collected 2110 from pot
+*** SUMMARY ***
+Total pot 2110 | No rake
+Seat 1: Minosspart won 2110
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 6 - HandId: #2613170759878574223-68-1670445310 - Holdem no limit (60/250/500) - 2022/12/07 20:35:10 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #5 is the button
+Seat 1: Minosspart (31464)
+Seat 2: AAAActionMan (39744)
+Seat 3: raf-raf (23647)
+Seat 4: lamul (27046)
+Seat 5: YL_ML_GL_42 (116434)
+Seat 6: StrangerGio (21290)
+*** ANTE/BLINDS ***
+StrangerGio posts ante 60
+Minosspart posts ante 60
+AAAActionMan posts ante 60
+raf-raf posts ante 60
+lamul posts ante 60
+YL_ML_GL_42 posts ante 60
+StrangerGio posts small blind 250
+Minosspart posts big blind 500
+Dealt to YL_ML_GL_42 [6h 5d]
+*** PRE-FLOP *** 
+AAAActionMan folds
+raf-raf raises 500 to 1000
+lamul folds
+YL_ML_GL_42 folds
+StrangerGio folds
+Minosspart folds
+raf-raf collected 2110 from pot
+*** SUMMARY ***
+Total pot 2110 | No rake
+Seat 3: raf-raf won 2110
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 6 - HandId: #2613170759878574223-69-1670445335 - Holdem no limit (60/250/500) - 2022/12/07 20:35:35 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #6 is the button
+Seat 1: Minosspart (30904)
+Seat 2: AAAActionMan (39684)
+Seat 3: raf-raf (24697)
+Seat 4: lamul (26986)
+Seat 5: YL_ML_GL_42 (116374)
+Seat 6: StrangerGio (20980)
+*** ANTE/BLINDS ***
+Minosspart posts ante 60
+AAAActionMan posts ante 60
+raf-raf posts ante 60
+lamul posts ante 60
+YL_ML_GL_42 posts ante 60
+StrangerGio posts ante 60
+Minosspart posts small blind 250
+AAAActionMan posts big blind 500
+Dealt to YL_ML_GL_42 [8d 6c]
+*** PRE-FLOP *** 
+raf-raf folds
+lamul raises 750 to 1250
+YL_ML_GL_42 folds
+StrangerGio folds
+Minosspart folds
+AAAActionMan calls 750
+*** FLOP *** [Qc 9h Ks]
+AAAActionMan bets 1089
+lamul calls 1089
+*** TURN *** [Qc 9h Ks][Td]
+AAAActionMan checks
+lamul bets 3437
+AAAActionMan raises 33848 to 37285 and is all-in
+lamul folds
+AAAActionMan collected 46010 from pot
+*** SUMMARY ***
+Total pot 46010 | No rake
+Board: [Qc 9h Ks Td]
+Seat 2: AAAActionMan (big blind) won 46010
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 7 - HandId: #2613170759878574223-70-1670445444 - Holdem no limit (70/300/600) - 2022/12/07 20:37:24 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #1 is the button
+Seat 1: Minosspart (30594)
+Seat 2: AAAActionMan (46010)
+Seat 3: raf-raf (24637)
+Seat 4: lamul (21150)
+Seat 5: YL_ML_GL_42 (116314)
+Seat 6: StrangerGio (20920)
+*** ANTE/BLINDS ***
+AAAActionMan posts ante 70
+raf-raf posts ante 70
+Minosspart posts ante 70
+lamul posts ante 70
+YL_ML_GL_42 posts ante 70
+StrangerGio posts ante 70
+AAAActionMan posts small blind 300
+raf-raf posts big blind 600
+Dealt to YL_ML_GL_42 [Ac 5c]
+*** PRE-FLOP *** 
+lamul raises 600 to 1200
+YL_ML_GL_42 calls 1200
+StrangerGio raises 2871 to 4071
+Minosspart folds
+AAAActionMan folds
+raf-raf folds
+lamul calls 2871
+YL_ML_GL_42 calls 2871
+*** FLOP *** [Jd 5s Ts]
+lamul bets 8796
+YL_ML_GL_42 folds
+StrangerGio raises 7983 to 16779 and is all-in
+lamul calls 7983
+*** TURN *** [Jd 5s Ts][8h]
+*** RIVER *** [Jd 5s Ts 8h][Kd]
+*** SHOW DOWN ***
+StrangerGio shows [Qc Kh] (One pair : Kings)
+lamul shows [Jc Th] (Two pairs : Jacks and Tens)
+lamul collected 47091 from pot
+*** SUMMARY ***
+Total pot 47091 | No rake
+Board: [Jd 5s Ts 8h Kd]
+Seat 4: lamul showed [Jc Th] and won 47091 with Two pairs : Jacks and Tens
+Seat 6: StrangerGio showed [Qc Kh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 7 - HandId: #2613170759878574223-71-1670445520 - Holdem no limit (70/300/600) - 2022/12/07 20:38:40 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #2 is the button
+Seat 1: Minosspart (30524)
+Seat 2: AAAActionMan (45640)
+Seat 3: raf-raf (23967)
+Seat 4: lamul (47321)
+Seat 5: YL_ML_GL_42 (112173)
+*** ANTE/BLINDS ***
+raf-raf posts ante 70
+lamul posts ante 70
+Minosspart posts ante 70
+AAAActionMan posts ante 70
+YL_ML_GL_42 posts ante 70
+raf-raf posts small blind 300
+lamul posts big blind 600
+Dealt to YL_ML_GL_42 [4d 3d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Minosspart folds
+AAAActionMan folds
+raf-raf calls 300
+lamul checks
+*** FLOP *** [4c Td 4h]
+raf-raf checks
+lamul checks
+*** TURN *** [4c Td 4h][Th]
+raf-raf checks
+lamul bets 1008
+raf-raf folds
+lamul collected 2558 from pot
+*** SUMMARY ***
+Total pot 2558 | No rake
+Board: [4c Td 4h Th]
+Seat 4: lamul (big blind) won 2558
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 7 - HandId: #2613170759878574223-72-1670445592 - Holdem no limit (70/300/600) - 2022/12/07 20:39:52 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 1: Minosspart (30454)
+Seat 2: AAAActionMan (45570)
+Seat 3: raf-raf (23297)
+Seat 4: lamul (48201)
+Seat 5: YL_ML_GL_42 (112103)
+Seat 6: 50__50 (20000)
+*** ANTE/BLINDS ***
+lamul posts ante 70
+YL_ML_GL_42 posts ante 70
+Minosspart posts ante 70
+AAAActionMan posts ante 70
+raf-raf posts ante 70
+50__50 posts ante 70
+lamul posts small blind 300
+YL_ML_GL_42 posts big blind 600
+Dealt to YL_ML_GL_42 [2h 6c]
+*** PRE-FLOP *** 
+50__50 folds
+Minosspart folds
+AAAActionMan folds
+raf-raf raises 600 to 1200
+lamul calls 900
+YL_ML_GL_42 folds
+*** FLOP *** [Tc Jc 5c]
+lamul checks
+raf-raf bets 1197
+lamul folds
+raf-raf collected 4617 from pot
+*** SUMMARY ***
+Total pot 4617 | No rake
+Board: [Tc Jc 5c]
+Seat 3: raf-raf (button) won 4617
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 7 - HandId: #2613170759878574223-73-1670445674 - Holdem no limit (70/300/600) - 2022/12/07 20:41:14 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 1: Minosspart (30384)
+Seat 2: AAAActionMan (45500)
+Seat 3: raf-raf (25447)
+Seat 4: lamul (46931)
+Seat 5: YL_ML_GL_42 (111433)
+Seat 6: 50__50 (19930)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 70
+50__50 posts ante 70
+Minosspart posts ante 70
+AAAActionMan posts ante 70
+raf-raf posts ante 70
+lamul posts ante 70
+YL_ML_GL_42 posts small blind 300
+50__50 posts big blind 600
+Dealt to YL_ML_GL_42 [5h Qc]
+*** PRE-FLOP *** 
+Minosspart folds
+AAAActionMan raises 900 to 1500
+raf-raf folds
+lamul folds
+YL_ML_GL_42 folds
+50__50 raises 3000 to 4500
+AAAActionMan raises 40930 to 45430 and is all-in
+50__50 calls 15360 and is all-in
+*** FLOP *** [7h 5s 3d]
+*** TURN *** [7h 5s 3d][2h]
+*** RIVER *** [7h 5s 3d 2h][Js]
+*** SHOW DOWN ***
+AAAActionMan shows [6d 6h] (One pair : 6)
+50__50 shows [Kh Kc] (One pair : Kings)
+50__50 collected 40440 from main pot
+AAAActionMan collected 25570 from side pot 1
+*** SUMMARY ***
+Total pot 66010 | No rake
+Board: [7h 5s 3d 2h Js]
+Seat 2: AAAActionMan showed [6d 6h] and won 25570 with One pair : 6
+Seat 6: 50__50 (big blind) showed [Kh Kc] and won 40440 with One pair : Kings
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 8 - HandId: #2613170759878574223-74-1670445741 - Holdem no limit (80/350/700) - 2022/12/07 20:42:21 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #5 is the button
+Seat 1: Minosspart (30314)
+Seat 2: AAAActionMan (25570)
+Seat 3: raf-raf (25377)
+Seat 4: lamul (46861)
+Seat 5: YL_ML_GL_42 (111063)
+Seat 6: 50__50 (40440)
+*** ANTE/BLINDS ***
+50__50 posts ante 80
+Minosspart posts ante 80
+AAAActionMan posts ante 80
+raf-raf posts ante 80
+lamul posts ante 80
+YL_ML_GL_42 posts ante 80
+50__50 posts small blind 350
+Minosspart posts big blind 700
+Dealt to YL_ML_GL_42 [3s 4c]
+*** PRE-FLOP *** 
+AAAActionMan folds
+raf-raf folds
+lamul raises 1050 to 1750
+YL_ML_GL_42 folds
+50__50 folds
+Minosspart folds
+lamul collected 3280 from pot
+*** SUMMARY ***
+Total pot 3280 | No rake
+Seat 4: lamul won 3280
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 8 - HandId: #2613170759878574223-75-1670445759 - Holdem no limit (80/350/700) - 2022/12/07 20:42:39 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #6 is the button
+Seat 1: Minosspart (29534)
+Seat 2: AAAActionMan (25490)
+Seat 3: raf-raf (25297)
+Seat 4: lamul (48311)
+Seat 5: YL_ML_GL_42 (110983)
+Seat 6: 50__50 (40010)
+*** ANTE/BLINDS ***
+Minosspart posts ante 80
+AAAActionMan posts ante 80
+raf-raf posts ante 80
+lamul posts ante 80
+YL_ML_GL_42 posts ante 80
+50__50 posts ante 80
+Minosspart posts small blind 350
+AAAActionMan posts big blind 700
+Dealt to YL_ML_GL_42 [9s Kd]
+*** PRE-FLOP *** 
+raf-raf folds
+lamul calls 700
+YL_ML_GL_42 folds
+50__50 calls 700
+Minosspart calls 350
+AAAActionMan checks
+*** FLOP *** [6h Tc 4s]
+Minosspart bets 1400
+AAAActionMan folds
+lamul folds
+50__50 calls 1400
+*** TURN *** [6h Tc 4s][6d]
+Minosspart bets 2128
+50__50 calls 2128
+*** RIVER *** [6h Tc 4s 6d][Ah]
+Minosspart checks
+50__50 checks
+*** SHOW DOWN ***
+Minosspart shows [Ks Th] (Two pairs : Tens and 6)
+50__50 shows [Td 7d] (Two pairs : Tens and 6)
+50__50 collected 5168 from pot
+Minosspart collected 5168 from pot
+*** SUMMARY ***
+Total pot 10336 | No rake
+Board: [6h Tc 4s 6d Ah]
+Seat 1: Minosspart (small blind) showed [Ks Th] and won 5168 with Two pairs : Tens and 6
+Seat 6: 50__50 (button) showed [Td 7d] and won 5168 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 8 - HandId: #2613170759878574223-76-1670445844 - Holdem no limit (80/350/700) - 2022/12/07 20:44:04 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #1 is the button
+Seat 1: Minosspart (30394)
+Seat 2: AAAActionMan (24710)
+Seat 3: raf-raf (25217)
+Seat 4: lamul (47531)
+Seat 5: YL_ML_GL_42 (110903)
+Seat 6: 50__50 (40870)
+*** ANTE/BLINDS ***
+AAAActionMan posts ante 80
+raf-raf posts ante 80
+Minosspart posts ante 80
+lamul posts ante 80
+YL_ML_GL_42 posts ante 80
+50__50 posts ante 80
+AAAActionMan posts small blind 350
+raf-raf posts big blind 700
+Dealt to YL_ML_GL_42 [Jc As]
+*** PRE-FLOP *** 
+lamul raises 1050 to 1750
+YL_ML_GL_42 raises 5030 to 6780
+50__50 folds
+Minosspart folds
+AAAActionMan folds
+raf-raf folds
+lamul calls 5030
+*** FLOP *** [Qd Ad Kc]
+lamul checks
+YL_ML_GL_42 bets 12072
+lamul folds
+YL_ML_GL_42 collected 27162 from pot
+*** SUMMARY ***
+Total pot 27162 | No rake
+Board: [Qd Ad Kc]
+Seat 5: YL_ML_GL_42 won 27162
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 8 - HandId: #2613170759878574223-77-1670445893 - Holdem no limit (80/350/700) - 2022/12/07 20:44:53 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #2 is the button
+Seat 1: Minosspart (30314)
+Seat 2: AAAActionMan (24280)
+Seat 3: raf-raf (24437)
+Seat 4: lamul (40671)
+Seat 5: YL_ML_GL_42 (119133)
+Seat 6: 50__50 (40790)
+*** ANTE/BLINDS ***
+raf-raf posts ante 80
+lamul posts ante 80
+Minosspart posts ante 80
+AAAActionMan posts ante 80
+YL_ML_GL_42 posts ante 80
+50__50 posts ante 80
+raf-raf posts small blind 350
+lamul posts big blind 700
+Dealt to YL_ML_GL_42 [8d Qs]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+50__50 folds
+Minosspart folds
+AAAActionMan folds
+raf-raf calls 350
+lamul checks
+*** FLOP *** [Js 2h 4h]
+raf-raf checks
+lamul bets 1880
+raf-raf calls 1880
+*** TURN *** [Js 2h 4h][5d]
+raf-raf checks
+lamul bets 5640
+raf-raf folds
+lamul collected 11280 from pot
+*** SUMMARY ***
+Total pot 11280 | No rake
+Board: [Js 2h 4h 5d]
+Seat 4: lamul (big blind) won 11280
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 8 - HandId: #2613170759878574223-78-1670445963 - Holdem no limit (80/350/700) - 2022/12/07 20:46:03 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 1: Minosspart (30234)
+Seat 2: AAAActionMan (24200)
+Seat 3: raf-raf (21777)
+Seat 4: lamul (43651)
+Seat 5: YL_ML_GL_42 (119053)
+Seat 6: 50__50 (40710)
+*** ANTE/BLINDS ***
+lamul posts ante 80
+YL_ML_GL_42 posts ante 80
+Minosspart posts ante 80
+AAAActionMan posts ante 80
+raf-raf posts ante 80
+50__50 posts ante 80
+lamul posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [6s 9c]
+*** PRE-FLOP *** 
+50__50 folds
+Minosspart raises 700 to 1400
+AAAActionMan folds
+raf-raf calls 1400
+lamul folds
+YL_ML_GL_42 folds
+*** FLOP *** [Ah Td 3s]
+Minosspart bets 1516
+raf-raf calls 1516
+*** TURN *** [Ah Td 3s][Ts]
+Minosspart bets 3681
+raf-raf folds
+Minosspart collected 11043 from pot
+*** SUMMARY ***
+Total pot 11043 | No rake
+Board: [Ah Td 3s Ts]
+Seat 1: Minosspart won 11043
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 8 - HandId: #2613170759878574223-79-1670446021 - Holdem no limit (80/350/700) - 2022/12/07 20:47:01 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 1: Minosspart (34600)
+Seat 2: AAAActionMan (24120)
+Seat 3: raf-raf (18781)
+Seat 4: lamul (43221)
+Seat 5: YL_ML_GL_42 (118273)
+Seat 6: 50__50 (40630)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+50__50 posts ante 80
+Minosspart posts ante 80
+AAAActionMan posts ante 80
+raf-raf posts ante 80
+lamul posts ante 80
+YL_ML_GL_42 posts small blind 350
+50__50 posts big blind 700
+Dealt to YL_ML_GL_42 [8c 5d]
+*** PRE-FLOP *** 
+Minosspart raises 700 to 1400
+AAAActionMan folds
+raf-raf folds
+lamul calls 1400
+YL_ML_GL_42 folds
+50__50 calls 700
+*** FLOP *** [Tc Ts Jh]
+50__50 checks
+Minosspart checks
+lamul bets 3270
+50__50 calls 3270
+Minosspart folds
+*** TURN *** [Tc Ts Jh][9s]
+50__50 checks
+lamul bets 7521
+50__50 folds
+lamul collected 19091 from pot
+*** SUMMARY ***
+Total pot 19091 | No rake
+Board: [Tc Ts Jh 9s]
+Seat 4: lamul (button) won 19091
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 9 - HandId: #2613170759878574223-80-1670446126 - Holdem no limit (100/400/800) - 2022/12/07 20:48:46 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #5 is the button
+Seat 1: Minosspart (33120)
+Seat 2: AAAActionMan (24040)
+Seat 3: raf-raf (18701)
+Seat 4: lamul (50041)
+Seat 5: YL_ML_GL_42 (117843)
+Seat 6: 50__50 (35880)
+*** ANTE/BLINDS ***
+50__50 posts ante 100
+Minosspart posts ante 100
+AAAActionMan posts ante 100
+raf-raf posts ante 100
+lamul posts ante 100
+YL_ML_GL_42 posts ante 100
+50__50 posts small blind 400
+Minosspart posts big blind 800
+Dealt to YL_ML_GL_42 [4c Qs]
+*** PRE-FLOP *** 
+AAAActionMan folds
+raf-raf raises 800 to 1600
+lamul folds
+YL_ML_GL_42 folds
+50__50 calls 1200
+Minosspart calls 800
+*** FLOP *** [9d Jd Js]
+50__50 checks
+Minosspart checks
+raf-raf bets 1890
+50__50 calls 1890
+Minosspart folds
+*** TURN *** [9d Jd Js][Qc]
+50__50 checks
+raf-raf checks
+*** RIVER *** [9d Jd Js Qc][4d]
+50__50 bets 3213
+raf-raf calls 3213
+*** SHOW DOWN ***
+raf-raf shows [Ks Kd] (Two pairs : Kings and Jacks)
+50__50 shows [Qh Jc] (Full of Jacks and Queens)
+50__50 collected 15606 from pot
+*** SUMMARY ***
+Total pot 15606 | No rake
+Board: [9d Jd Js Qc 4d]
+Seat 3: raf-raf showed [Ks Kd] and lost with Two pairs : Kings and Jacks
+Seat 6: 50__50 (small blind) showed [Qh Jc] and won 15606 with Full of Jacks and Queens
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 10 - HandId: #2613170759878574223-89-1670446863 - Holdem no limit (120/500/1000) - 2022/12/07 21:01:03 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #2 is the button
+Seat 1: Demuni.Deck0 (20000)
+Seat 2: AAAActionMan (38330)
+Seat 3: Kameleon0408 (39410)
+Seat 4: anton3815 (23686)
+Seat 5: YL_ML_GL_42 (177122)
+Seat 6: 50__50 (45123)
+*** ANTE/BLINDS ***
+Kameleon0408 posts ante 120
+anton3815 posts ante 120
+Demuni.Deck0 posts ante 120
+AAAActionMan posts ante 120
+YL_ML_GL_42 posts ante 120
+50__50 posts ante 120
+Kameleon0408 posts small blind 500
+anton3815 posts big blind 1000
+Dealt to YL_ML_GL_42 [5s Jc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+50__50 calls 1000
+Demuni.Deck0 calls 1000
+AAAActionMan raises 2000 to 3000
+Kameleon0408 calls 2500
+anton3815 folds
+50__50 calls 2000
+Demuni.Deck0 calls 2000
+*** FLOP *** [4s 8s Th]
+Kameleon0408 checks
+50__50 checks
+Demuni.Deck0 checks
+AAAActionMan checks
+*** TURN *** [4s 8s Th][As]
+Kameleon0408 checks
+50__50 bets 8918
+Demuni.Deck0 calls 8918
+AAAActionMan folds
+Kameleon0408 raises 27372 to 36290 and is all-in
+50__50 calls 27372
+Demuni.Deck0 calls 7962 and is all-in
+*** RIVER *** [4s 8s Th As][Jh]
+*** SHOW DOWN ***
+Demuni.Deck0 shows [8c 8d] (Trips of 8)
+50__50 shows [Ks Td] (One pair : Tens)
+Kameleon0408 shows [Ts 3s] (Flush Ace high)
+Kameleon0408 collected 103180 from pot
+*** SUMMARY ***
+Total pot 103180 | No rake
+Board: [4s 8s Th As Jh]
+Seat 1: Demuni.Deck0 showed [8c 8d] and lost with Trips of 8
+Seat 3: Kameleon0408 (small blind) showed [Ts 3s] and won 103180 with Flush Ace high
+Seat 6: 50__50 showed [Ks Td] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 10 - HandId: #2613170759878574223-90-1670447085 - Holdem no limit (120/500/1000) - 2022/12/07 21:04:45 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 2: AAAActionMan (35210)
+Seat 3: Kameleon0408 (103180)
+Seat 4: anton3815 (22566)
+Seat 5: YL_ML_GL_42 (177002)
+Seat 6: 50__50 (5713)
+*** ANTE/BLINDS ***
+anton3815 posts ante 120
+YL_ML_GL_42 posts ante 120
+AAAActionMan posts ante 120
+Kameleon0408 posts ante 120
+50__50 posts ante 120
+anton3815 posts small blind 500
+YL_ML_GL_42 posts big blind 1000
+Dealt to YL_ML_GL_42 [7s 4c]
+*** PRE-FLOP *** 
+50__50 raises 4593 to 5593 and is all-in
+AAAActionMan folds
+Kameleon0408 calls 5593
+anton3815 folds
+YL_ML_GL_42 folds
+*** FLOP *** [5d 7d Td]
+*** TURN *** [5d 7d Td][6s]
+*** RIVER *** [5d 7d Td 6s][5s]
+*** SHOW DOWN ***
+50__50 shows [Js 9s] (One pair : 5)
+Kameleon0408 shows [8s Qs] (One pair : 5)
+Kameleon0408 collected 13286 from pot
+*** SUMMARY ***
+Total pot 13286 | No rake
+Board: [5d 7d Td 6s 5s]
+Seat 3: Kameleon0408 (button) showed [8s Qs] and won 13286 with One pair : 5
+Seat 6: 50__50 showed [Js 9s] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 10 - HandId: #2613170759878574223-91-1670447127 - Holdem no limit (120/500/1000) - 2022/12/07 21:05:27 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 2: AAAActionMan (35090)
+Seat 3: Kameleon0408 (110753)
+Seat 4: anton3815 (21946)
+Seat 5: YL_ML_GL_42 (175882)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 120
+AAAActionMan posts ante 120
+Kameleon0408 posts ante 120
+anton3815 posts ante 120
+YL_ML_GL_42 posts small blind 500
+AAAActionMan posts big blind 1000
+Dealt to YL_ML_GL_42 [6s 2s]
+*** PRE-FLOP *** 
+Kameleon0408 folds
+anton3815 raises 20826 to 21826 and is all-in
+YL_ML_GL_42 folds
+AAAActionMan folds
+anton3815 collected 23806 from pot
+*** SUMMARY ***
+Total pot 23806 | No rake
+Seat 4: anton3815 (button) won 23806
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 10 - HandId: #2613170759878574223-92-1670447160 - Holdem no limit (120/500/1000) - 2022/12/07 21:06:00 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #5 is the button
+Seat 1: Break288 (29480)
+Seat 2: AAAActionMan (33970)
+Seat 3: Kameleon0408 (110633)
+Seat 4: anton3815 (23806)
+Seat 5: YL_ML_GL_42 (175262)
+*** ANTE/BLINDS ***
+AAAActionMan posts ante 120
+Kameleon0408 posts ante 120
+anton3815 posts ante 120
+YL_ML_GL_42 posts ante 120
+AAAActionMan posts small blind 500
+Kameleon0408 posts big blind 1000
+Dealt to YL_ML_GL_42 [2h 6s]
+*** PRE-FLOP *** 
+anton3815 folds
+YL_ML_GL_42 folds
+AAAActionMan folds
+Kameleon0408 collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | No rake
+Seat 3: Kameleon0408 (big blind) won 1980
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 10 - HandId: #2613170759878574223-93-1670447166 - Holdem no limit (120/500/1000) - 2022/12/07 21:06:06 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #2 is the button
+Seat 1: Break288 (29480)
+Seat 2: AAAActionMan (33350)
+Seat 3: Kameleon0408 (111493)
+Seat 4: anton3815 (23686)
+Seat 5: YL_ML_GL_42 (175142)
+*** ANTE/BLINDS ***
+Kameleon0408 posts ante 120
+anton3815 posts ante 120
+Break288 posts ante 120
+AAAActionMan posts ante 120
+YL_ML_GL_42 posts ante 120
+Kameleon0408 posts small blind 500
+anton3815 posts big blind 1000
+Dealt to YL_ML_GL_42 [Ad Jh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 2000 to 3000
+Break288 folds
+AAAActionMan folds
+Kameleon0408 calls 2500
+anton3815 calls 2000
+*** FLOP *** [2c 3d 3h]
+Kameleon0408 checks
+anton3815 checks
+YL_ML_GL_42 checks
+*** TURN *** [2c 3d 3h][6c]
+Kameleon0408 checks
+anton3815 checks
+YL_ML_GL_42 checks
+*** RIVER *** [2c 3d 3h 6c][5d]
+Kameleon0408 bets 3360
+anton3815 raises 6140 to 9500
+YL_ML_GL_42 folds
+Kameleon0408 folds
+anton3815 collected 22460 from pot
+*** SUMMARY ***
+Total pot 22460 | No rake
+Board: [2c 3d 3h 6c 5d]
+Seat 4: anton3815 (big blind) won 22460
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 11 - HandId: #2613170759878574223-94-1670447341 - Holdem no limit (140/600/1200) - 2022/12/07 21:09:01 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 1: Break288 (29360)
+Seat 2: AAAActionMan (33230)
+Seat 3: Kameleon0408 (105013)
+Seat 4: anton3815 (33526)
+Seat 5: YL_ML_GL_42 (172022)
+Seat 6: Taban (38340)
+*** ANTE/BLINDS ***
+anton3815 posts ante 140
+YL_ML_GL_42 posts ante 140
+Break288 posts ante 140
+AAAActionMan posts ante 140
+Kameleon0408 posts ante 140
+Taban posts ante 140
+anton3815 posts small blind 600
+YL_ML_GL_42 posts big blind 1200
+Dealt to YL_ML_GL_42 [8c 7c]
+*** PRE-FLOP *** 
+Taban folds
+Break288 folds
+AAAActionMan folds
+Kameleon0408 raises 3840 to 5040
+anton3815 folds
+YL_ML_GL_42 calls 3840
+*** FLOP *** [3s 5c 6h]
+YL_ML_GL_42 bets 9216
+Kameleon0408 raises 16243 to 25459
+YL_ML_GL_42 raises 141383 to 166842 and is all-in
+Kameleon0408 calls 74374 and is all-in
+*** TURN *** [3s 5c 6h][Jc]
+*** RIVER *** [3s 5c 6h Jc][7d]
+*** SHOW DOWN ***
+Kameleon0408 shows [Ah Jd] (One pair : Jacks)
+YL_ML_GL_42 shows [8c 7c] (One pair : 7)
+YL_ML_GL_42 collected 67009 from side pot 1
+Kameleon0408 collected 211186 from main pot
+*** SUMMARY ***
+Total pot 278195 | No rake
+Board: [3s 5c 6h Jc 7d]
+Seat 3: Kameleon0408 (button) showed [Ah Jd] and won 211186 with One pair : Jacks
+Seat 5: YL_ML_GL_42 (big blind) showed [8c 7c] and won 67009 with One pair : 7
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 11 - HandId: #2613170759878574223-95-1670447393 - Holdem no limit (140/600/1200) - 2022/12/07 21:09:53 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 1: Break288 (29220)
+Seat 2: AAAActionMan (33090)
+Seat 3: Kameleon0408 (211186)
+Seat 4: anton3815 (32786)
+Seat 5: YL_ML_GL_42 (67009)
+Seat 6: Taban (38200)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 140
+Taban posts ante 140
+Break288 posts ante 140
+AAAActionMan posts ante 140
+Kameleon0408 posts ante 140
+anton3815 posts ante 140
+YL_ML_GL_42 posts small blind 600
+Taban posts big blind 1200
+Dealt to YL_ML_GL_42 [7h 8d]
+*** PRE-FLOP *** 
+Break288 folds
+AAAActionMan raises 31750 to 32950 and is all-in
+Kameleon0408 folds
+anton3815 folds
+YL_ML_GL_42 folds
+Taban folds
+AAAActionMan collected 35590 from pot
+*** SUMMARY ***
+Total pot 35590 | No rake
+Seat 2: AAAActionMan won 35590
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 11 - HandId: #2613170759878574223-96-1670447436 - Holdem no limit (140/600/1200) - 2022/12/07 21:10:36 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #5 is the button
+Seat 1: Break288 (29080)
+Seat 2: AAAActionMan (35590)
+Seat 3: Kameleon0408 (211046)
+Seat 4: anton3815 (32646)
+Seat 5: YL_ML_GL_42 (66269)
+Seat 6: Taban (36860)
+*** ANTE/BLINDS ***
+Taban posts ante 140
+Break288 posts ante 140
+AAAActionMan posts ante 140
+Kameleon0408 posts ante 140
+anton3815 posts ante 140
+YL_ML_GL_42 posts ante 140
+Taban posts small blind 600
+Break288 posts big blind 1200
+Dealt to YL_ML_GL_42 [6c 7c]
+*** PRE-FLOP *** 
+AAAActionMan raises 1500 to 2700
+Kameleon0408 raises 5400 to 8100
+anton3815 folds
+YL_ML_GL_42 folds
+Taban folds
+Break288 folds
+AAAActionMan calls 5400
+*** FLOP *** [Qc Tc Js]
+AAAActionMan bets 27350 and is all-in
+Kameleon0408 calls 27350
+*** TURN *** [Qc Tc Js][Th]
+*** RIVER *** [Qc Tc Js Th][5h]
+*** SHOW DOWN ***
+Kameleon0408 shows [Ah 4h] (One pair : Tens)
+AAAActionMan shows [Kh Jc] (Two pairs : Jacks and Tens)
+AAAActionMan collected 73540 from pot
+*** SUMMARY ***
+Total pot 73540 | No rake
+Board: [Qc Tc Js Th 5h]
+Seat 2: AAAActionMan showed [Kh Jc] and won 73540 with Two pairs : Jacks and Tens
+Seat 3: Kameleon0408 showed [Ah 4h] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 11 - HandId: #2613170759878574223-97-1670447482 - Holdem no limit (140/600/1200) - 2022/12/07 21:11:22 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #6 is the button
+Seat 1: Break288 (27740)
+Seat 2: AAAActionMan (73540)
+Seat 3: Kameleon0408 (175456)
+Seat 4: anton3815 (32506)
+Seat 5: YL_ML_GL_42 (66129)
+Seat 6: Taban (36120)
+*** ANTE/BLINDS ***
+Break288 posts ante 140
+AAAActionMan posts ante 140
+Kameleon0408 posts ante 140
+anton3815 posts ante 140
+YL_ML_GL_42 posts ante 140
+Taban posts ante 140
+Break288 posts small blind 600
+AAAActionMan posts big blind 1200
+Dealt to YL_ML_GL_42 [Ad 2h]
+*** PRE-FLOP *** 
+Kameleon0408 folds
+anton3815 raises 1500 to 2700
+YL_ML_GL_42 folds
+Taban folds
+Break288 folds
+AAAActionMan calls 1500
+*** FLOP *** [9d Td 7c]
+AAAActionMan checks
+anton3815 checks
+*** TURN *** [9d Td 7c][Kh]
+AAAActionMan bets 2394
+anton3815 calls 2394
+*** RIVER *** [9d Td 7c Kh][Jh]
+AAAActionMan bets 4070
+anton3815 folds
+AAAActionMan collected 15698 from pot
+*** SUMMARY ***
+Total pot 15698 | No rake
+Board: [9d Td 7c Kh Jh]
+Seat 2: AAAActionMan (big blind) won 15698
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 12 - HandId: #2613170759878574223-98-1670447558 - Holdem no limit (160/700/1400) - 2022/12/07 21:12:38 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #1 is the button
+Seat 1: Break288 (27000)
+Seat 2: AAAActionMan (79934)
+Seat 3: Kameleon0408 (175316)
+Seat 4: anton3815 (27272)
+Seat 5: YL_ML_GL_42 (65989)
+Seat 6: Taban (35980)
+*** ANTE/BLINDS ***
+AAAActionMan posts ante 160
+Kameleon0408 posts ante 160
+Break288 posts ante 160
+anton3815 posts ante 160
+YL_ML_GL_42 posts ante 160
+Taban posts ante 160
+AAAActionMan posts small blind 700
+Kameleon0408 posts big blind 1400
+Dealt to YL_ML_GL_42 [4d 2c]
+*** PRE-FLOP *** 
+anton3815 folds
+YL_ML_GL_42 folds
+Taban folds
+Break288 folds
+AAAActionMan raises 2800 to 4200
+Kameleon0408 folds
+AAAActionMan shows [Ah Js] (High card : Ace)
+AAAActionMan collected 6560 from pot
+*** SUMMARY ***
+Total pot 6560 | No rake
+Seat 2: AAAActionMan (small blind) showed [Ah Js] and won 6560 with High card : Ace
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 12 - HandId: #2613170759878574223-99-1670447616 - Holdem no limit (160/700/1400) - 2022/12/07 21:13:36 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #2 is the button
+Seat 1: Break288 (26840)
+Seat 2: AAAActionMan (82134)
+Seat 3: Kameleon0408 (173756)
+Seat 4: anton3815 (27112)
+Seat 5: YL_ML_GL_42 (65829)
+Seat 6: Taban (35820)
+*** ANTE/BLINDS ***
+Kameleon0408 posts ante 160
+anton3815 posts ante 160
+Break288 posts ante 160
+AAAActionMan posts ante 160
+YL_ML_GL_42 posts ante 160
+Taban posts ante 160
+Kameleon0408 posts small blind 700
+anton3815 posts big blind 1400
+Dealt to YL_ML_GL_42 [5d Qd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Taban folds
+Break288 raises 1400 to 2800
+AAAActionMan folds
+Kameleon0408 calls 2100
+anton3815 calls 1400
+*** FLOP *** [8s 5c 5s]
+Kameleon0408 checks
+anton3815 checks
+Break288 checks
+*** TURN *** [8s 5c 5s][Kh]
+Kameleon0408 bets 3276
+anton3815 folds
+Break288 folds
+Kameleon0408 collected 12636 from pot
+*** SUMMARY ***
+Total pot 12636 | No rake
+Board: [8s 5c 5s Kh]
+Seat 3: Kameleon0408 (small blind) won 12636
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 12 - HandId: #2613170759878574223-100-1670447695 - Holdem no limit (160/700/1400) - 2022/12/07 21:14:55 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 1: Break288 (23880)
+Seat 2: AAAActionMan (81974)
+Seat 3: Kameleon0408 (180156)
+Seat 4: anton3815 (24152)
+Seat 5: YL_ML_GL_42 (65669)
+Seat 6: Taban (35660)
+*** ANTE/BLINDS ***
+anton3815 posts ante 160
+YL_ML_GL_42 posts ante 160
+Break288 posts ante 160
+AAAActionMan posts ante 160
+Kameleon0408 posts ante 160
+Taban posts ante 160
+anton3815 posts small blind 700
+YL_ML_GL_42 posts big blind 1400
+Dealt to YL_ML_GL_42 [Qs 8s]
+*** PRE-FLOP *** 
+Taban folds
+Break288 raises 22320 to 23720 and is all-in
+AAAActionMan folds
+Kameleon0408 folds
+anton3815 folds
+YL_ML_GL_42 folds
+Break288 collected 26780 from pot
+*** SUMMARY ***
+Total pot 26780 | No rake
+Seat 1: Break288 won 26780
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 12 - HandId: #2613170759878574223-101-1670447717 - Holdem no limit (160/700/1400) - 2022/12/07 21:15:17 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 1: Break288 (26780)
+Seat 2: AAAActionMan (81814)
+Seat 3: Kameleon0408 (179996)
+Seat 4: anton3815 (23292)
+Seat 5: YL_ML_GL_42 (64109)
+Seat 6: Taban (35500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 160
+Taban posts ante 160
+Break288 posts ante 160
+AAAActionMan posts ante 160
+Kameleon0408 posts ante 160
+anton3815 posts ante 160
+YL_ML_GL_42 posts small blind 700
+Taban posts big blind 1400
+Dealt to YL_ML_GL_42 [8d 4c]
+*** PRE-FLOP *** 
+Break288 folds
+AAAActionMan folds
+Kameleon0408 folds
+anton3815 raises 21732 to 23132 and is all-in
+YL_ML_GL_42 folds
+Taban folds
+anton3815 collected 26192 from pot
+*** SUMMARY ***
+Total pot 26192 | No rake
+Seat 4: anton3815 (button) won 26192
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 12 - HandId: #2613170759878574223-102-1670447766 - Holdem no limit (160/700/1400) - 2022/12/07 21:16:06 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #5 is the button
+Seat 1: Break288 (26620)
+Seat 2: AAAActionMan (81654)
+Seat 3: Kameleon0408 (179836)
+Seat 4: anton3815 (26192)
+Seat 5: YL_ML_GL_42 (63249)
+Seat 6: Taban (33940)
+*** ANTE/BLINDS ***
+Taban posts ante 160
+Break288 posts ante 160
+AAAActionMan posts ante 160
+Kameleon0408 posts ante 160
+anton3815 posts ante 160
+YL_ML_GL_42 posts ante 160
+Taban posts small blind 700
+Break288 posts big blind 1400
+Dealt to YL_ML_GL_42 [Ac 9c]
+*** PRE-FLOP *** 
+AAAActionMan folds
+Kameleon0408 raises 2800 to 4200
+anton3815 folds
+YL_ML_GL_42 raises 11460 to 15660
+Taban folds
+Break288 folds
+Kameleon0408 calls 11460
+*** FLOP *** [5c 3s 2s]
+Kameleon0408 checks
+YL_ML_GL_42 bets 47429 and is all-in
+Kameleon0408 calls 47429
+*** TURN *** [5c 3s 2s][Qc]
+*** RIVER *** [5c 3s 2s Qc][7c]
+*** SHOW DOWN ***
+Kameleon0408 shows [As Jc] (High card : Ace)
+YL_ML_GL_42 shows [Ac 9c] (Flush Ace high)
+YL_ML_GL_42 collected 129238 from pot
+*** SUMMARY ***
+Total pot 129238 | No rake
+Board: [5c 3s 2s Qc 7c]
+Seat 3: Kameleon0408 showed [As Jc] and lost with High card : Ace
+Seat 5: YL_ML_GL_42 (button) showed [Ac 9c] and won 129238 with Flush Ace high
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 12 - HandId: #2613170759878574223-103-1670447814 - Holdem no limit (160/700/1400) - 2022/12/07 21:16:54 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #6 is the button
+Seat 1: Break288 (25060)
+Seat 2: AAAActionMan (81494)
+Seat 3: Kameleon0408 (116587)
+Seat 4: anton3815 (26032)
+Seat 5: YL_ML_GL_42 (129238)
+Seat 6: Taban (33080)
+*** ANTE/BLINDS ***
+Break288 posts ante 160
+AAAActionMan posts ante 160
+Kameleon0408 posts ante 160
+anton3815 posts ante 160
+YL_ML_GL_42 posts ante 160
+Taban posts ante 160
+Break288 posts small blind 700
+AAAActionMan posts big blind 1400
+Dealt to YL_ML_GL_42 [9s 4h]
+*** PRE-FLOP *** 
+Kameleon0408 folds
+anton3815 folds
+YL_ML_GL_42 folds
+Taban raises 2800 to 4200
+Break288 folds
+AAAActionMan calls 2800
+*** FLOP *** [5h 7s 9c]
+AAAActionMan bets 3521
+Taban raises 25199 to 28720 and is all-in
+AAAActionMan calls 25199
+*** TURN *** [5h 7s 9c][9d]
+*** RIVER *** [5h 7s 9c 9d][6s]
+*** SHOW DOWN ***
+AAAActionMan shows [Qd 7d] (Two pairs : 9 and 7)
+Taban shows [8h 8d] (Straight 9 high)
+Taban collected 67500 from pot
+*** SUMMARY ***
+Total pot 67500 | No rake
+Board: [5h 7s 9c 9d 6s]
+Seat 2: AAAActionMan (big blind) showed [Qd 7d] and lost with Two pairs : 9 and 7
+Seat 6: Taban (button) showed [8h 8d] and won 67500 with Straight 9 high
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 12 - HandId: #2613170759878574223-104-1670447861 - Holdem no limit (160/700/1400) - 2022/12/07 21:17:41 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #1 is the button
+Seat 1: Break288 (24200)
+Seat 2: AAAActionMan (48414)
+Seat 3: Kameleon0408 (116427)
+Seat 4: anton3815 (25872)
+Seat 5: YL_ML_GL_42 (129078)
+Seat 6: Taban (67500)
+*** ANTE/BLINDS ***
+AAAActionMan posts ante 160
+Kameleon0408 posts ante 160
+Break288 posts ante 160
+anton3815 posts ante 160
+YL_ML_GL_42 posts ante 160
+Taban posts ante 160
+AAAActionMan posts small blind 700
+Kameleon0408 posts big blind 1400
+Dealt to YL_ML_GL_42 [4s Js]
+*** PRE-FLOP *** 
+anton3815 folds
+YL_ML_GL_42 folds
+Taban calls 1400
+Break288 folds
+AAAActionMan folds
+Kameleon0408 raises 4460 to 5860
+Taban folds
+Kameleon0408 collected 8920 from pot
+*** SUMMARY ***
+Total pot 8920 | No rake
+Seat 3: Kameleon0408 (big blind) won 8920
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 12 - HandId: #2613170759878574223-105-1670447888 - Holdem no limit (160/700/1400) - 2022/12/07 21:18:08 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #2 is the button
+Seat 1: Break288 (24040)
+Seat 2: AAAActionMan (47554)
+Seat 3: Kameleon0408 (119327)
+Seat 4: anton3815 (25712)
+Seat 5: YL_ML_GL_42 (128918)
+Seat 6: Taban (65940)
+*** ANTE/BLINDS ***
+Kameleon0408 posts ante 160
+anton3815 posts ante 160
+Break288 posts ante 160
+AAAActionMan posts ante 160
+YL_ML_GL_42 posts ante 160
+Taban posts ante 160
+Kameleon0408 posts small blind 700
+anton3815 posts big blind 1400
+Dealt to YL_ML_GL_42 [8d 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Taban calls 1400
+Break288 raises 22480 to 23880 and is all-in
+AAAActionMan folds
+Kameleon0408 calls 23180
+anton3815 folds
+Taban folds
+*** FLOP *** [As 3d 6s]
+*** TURN *** [As 3d 6s][4c]
+*** RIVER *** [As 3d 6s 4c][4s]
+*** SHOW DOWN ***
+Kameleon0408 shows [6h Tc] (Two pairs : 6 and 4)
+Break288 shows [Ah 9h] (Two pairs : Aces and 4)
+Break288 collected 51520 from pot
+*** SUMMARY ***
+Total pot 51520 | No rake
+Board: [As 3d 6s 4c 4s]
+Seat 1: Break288 showed [Ah 9h] and won 51520 with Two pairs : Aces and 4
+Seat 3: Kameleon0408 (small blind) showed [6h Tc] and lost with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 13 - HandId: #2613170759878574223-106-1670447921 - Holdem no limit (200/800/1600) - 2022/12/07 21:18:41 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 1: Break288 (51520)
+Seat 2: AAAActionMan (47394)
+Seat 3: Kameleon0408 (95287)
+Seat 4: anton3815 (24152)
+Seat 5: YL_ML_GL_42 (128758)
+Seat 6: Taban (64380)
+*** ANTE/BLINDS ***
+anton3815 posts ante 200
+YL_ML_GL_42 posts ante 200
+Break288 posts ante 200
+AAAActionMan posts ante 200
+Kameleon0408 posts ante 200
+Taban posts ante 200
+anton3815 posts small blind 800
+YL_ML_GL_42 posts big blind 1600
+Dealt to YL_ML_GL_42 [Kd 4h]
+*** PRE-FLOP *** 
+Taban folds
+Break288 folds
+AAAActionMan raises 2000 to 3600
+Kameleon0408 folds
+anton3815 raises 20352 to 23952 and is all-in
+YL_ML_GL_42 folds
+AAAActionMan calls 20352
+*** FLOP *** [Qc 5s As]
+*** TURN *** [Qc 5s As][5d]
+*** RIVER *** [Qc 5s As 5d][2d]
+*** SHOW DOWN ***
+anton3815 shows [Jh Th] (One pair : 5)
+AAAActionMan shows [Ad 7h] (Two pairs : Aces and 5)
+AAAActionMan collected 50704 from pot
+*** SUMMARY ***
+Total pot 50704 | No rake
+Board: [Qc 5s As 5d 2d]
+Seat 2: AAAActionMan showed [Ad 7h] and won 50704 with Two pairs : Aces and 5
+Seat 4: anton3815 (small blind) showed [Jh Th] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 13 - HandId: #2613170759878574223-107-1670447987 - Holdem no limit (200/800/1600) - 2022/12/07 21:19:47 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 1: Break288 (51320)
+Seat 2: AAAActionMan (73946)
+Seat 3: Kameleon0408 (95087)
+Seat 5: YL_ML_GL_42 (126958)
+Seat 6: Taban (64180)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 200
+Taban posts ante 200
+Break288 posts ante 200
+AAAActionMan posts ante 200
+Kameleon0408 posts ante 200
+YL_ML_GL_42 posts small blind 800
+Taban posts big blind 1600
+Dealt to YL_ML_GL_42 [3d Kd]
+*** PRE-FLOP *** 
+Break288 folds
+AAAActionMan folds
+Kameleon0408 raises 93287 to 94887 and is all-in
+YL_ML_GL_42 folds
+Taban folds
+Kameleon0408 collected 98287 from pot
+*** SUMMARY ***
+Total pot 98287 | No rake
+Seat 3: Kameleon0408 won 98287
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 13 - HandId: #2613170759878574223-108-1670447999 - Holdem no limit (200/800/1600) - 2022/12/07 21:19:59 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #5 is the button
+Seat 1: Break288 (51120)
+Seat 2: AAAActionMan (73746)
+Seat 3: Kameleon0408 (98287)
+Seat 5: YL_ML_GL_42 (125958)
+Seat 6: Taban (62380)
+*** ANTE/BLINDS ***
+Taban posts ante 200
+Break288 posts ante 200
+AAAActionMan posts ante 200
+Kameleon0408 posts ante 200
+YL_ML_GL_42 posts ante 200
+Taban posts small blind 800
+Break288 posts big blind 1600
+Dealt to YL_ML_GL_42 [Kc 3s]
+*** PRE-FLOP *** 
+AAAActionMan folds
+Kameleon0408 raises 5000 to 6600
+YL_ML_GL_42 folds
+Taban folds
+Break288 folds
+Kameleon0408 collected 10000 from pot
+*** SUMMARY ***
+Total pot 10000 | No rake
+Seat 3: Kameleon0408 won 10000
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 13 - HandId: #2613170759878574223-109-1670448050 - Holdem no limit (200/800/1600) - 2022/12/07 21:20:50 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #6 is the button
+Seat 1: Break288 (49320)
+Seat 2: AAAActionMan (73546)
+Seat 3: Kameleon0408 (101487)
+Seat 4: Yeyusfis (42810)
+Seat 5: YL_ML_GL_42 (125758)
+Seat 6: Taban (61380)
+*** ANTE/BLINDS ***
+Break288 posts ante 200
+AAAActionMan posts ante 200
+Kameleon0408 posts ante 200
+Yeyusfis posts ante 200
+YL_ML_GL_42 posts ante 200
+Taban posts ante 200
+Break288 posts small blind 800
+AAAActionMan posts big blind 1600
+Dealt to YL_ML_GL_42 [7d 6h]
+*** PRE-FLOP *** 
+Kameleon0408 folds
+Yeyusfis folds
+YL_ML_GL_42 folds
+Taban folds
+Break288 folds
+AAAActionMan shows [Td Ah] (High card : Ace)
+AAAActionMan collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 2: AAAActionMan (big blind) showed [Td Ah] and won 3600 with High card : Ace
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 13 - HandId: #2613170759878574223-110-1670448067 - Holdem no limit (200/800/1600) - 2022/12/07 21:21:07 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #1 is the button
+Seat 1: Break288 (48320)
+Seat 2: AAAActionMan (75346)
+Seat 3: Kameleon0408 (101287)
+Seat 4: Yeyusfis (42610)
+Seat 5: YL_ML_GL_42 (125558)
+Seat 6: Taban (61180)
+*** ANTE/BLINDS ***
+AAAActionMan posts ante 200
+Kameleon0408 posts ante 200
+Break288 posts ante 200
+Yeyusfis posts ante 200
+YL_ML_GL_42 posts ante 200
+Taban posts ante 200
+AAAActionMan posts small blind 800
+Kameleon0408 posts big blind 1600
+Dealt to YL_ML_GL_42 [4c Qs]
+*** PRE-FLOP *** 
+Yeyusfis calls 1600
+YL_ML_GL_42 folds
+Taban folds
+Break288 folds
+AAAActionMan folds
+Kameleon0408 raises 5200 to 6800
+Yeyusfis folds
+Kameleon0408 collected 10400 from pot
+*** SUMMARY ***
+Total pot 10400 | No rake
+Seat 3: Kameleon0408 (big blind) won 10400
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 13 - HandId: #2613170759878574223-111-1670448084 - Holdem no limit (200/800/1600) - 2022/12/07 21:21:24 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #2 is the button
+Seat 1: Break288 (48120)
+Seat 2: AAAActionMan (74346)
+Seat 3: Kameleon0408 (104687)
+Seat 4: Yeyusfis (40810)
+Seat 5: YL_ML_GL_42 (125358)
+Seat 6: Taban (60980)
+*** ANTE/BLINDS ***
+Kameleon0408 posts ante 200
+Yeyusfis posts ante 200
+Break288 posts ante 200
+AAAActionMan posts ante 200
+YL_ML_GL_42 posts ante 200
+Taban posts ante 200
+Kameleon0408 posts small blind 800
+Yeyusfis posts big blind 1600
+Dealt to YL_ML_GL_42 [3c Ks]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Taban raises 3200 to 4800
+Break288 folds
+AAAActionMan calls 4800
+Kameleon0408 calls 4000
+Yeyusfis folds
+*** FLOP *** [Kc Th As]
+Kameleon0408 bets 6020
+Taban folds
+AAAActionMan calls 6020
+*** TURN *** [Kc Th As][6h]
+Kameleon0408 bets 19006
+AAAActionMan calls 19006
+*** RIVER *** [Kc Th As 6h][Qc]
+Kameleon0408 bets 67252
+AAAActionMan folds
+Kameleon0408 collected 134504 from pot
+*** SUMMARY ***
+Total pot 134504 | No rake
+Board: [Kc Th As 6h Qc]
+Seat 3: Kameleon0408 (small blind) won 134504
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 13 - HandId: #2613170759878574223-112-1670448153 - Holdem no limit (200/800/1600) - 2022/12/07 21:22:33 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 1: Break288 (47920)
+Seat 2: AAAActionMan (44320)
+Seat 3: Kameleon0408 (141913)
+Seat 4: Yeyusfis (39010)
+Seat 5: YL_ML_GL_42 (125158)
+Seat 6: Taban (55980)
+*** ANTE/BLINDS ***
+Yeyusfis posts ante 200
+YL_ML_GL_42 posts ante 200
+Break288 posts ante 200
+AAAActionMan posts ante 200
+Kameleon0408 posts ante 200
+Taban posts ante 200
+Yeyusfis posts small blind 800
+YL_ML_GL_42 posts big blind 1600
+Dealt to YL_ML_GL_42 [9c Kh]
+*** PRE-FLOP *** 
+Taban folds
+Break288 folds
+AAAActionMan raises 42520 to 44120 and is all-in
+Kameleon0408 calls 44120
+Yeyusfis folds
+YL_ML_GL_42 folds
+*** FLOP *** [2s Qd 7s]
+*** TURN *** [2s Qd 7s][Js]
+*** RIVER *** [2s Qd 7s Js][Ac]
+*** SHOW DOWN ***
+Kameleon0408 shows [3h 7h] (One pair : 7)
+AAAActionMan shows [Ad 3d] (One pair : Aces)
+AAAActionMan collected 91840 from pot
+*** SUMMARY ***
+Total pot 91840 | No rake
+Board: [2s Qd 7s Js Ac]
+Seat 2: AAAActionMan showed [Ad 3d] and won 91840 with One pair : Aces
+Seat 3: Kameleon0408 (button) showed [3h 7h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 13 - HandId: #2613170759878574223-113-1670448195 - Holdem no limit (200/800/1600) - 2022/12/07 21:23:15 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 1: Break288 (47720)
+Seat 2: AAAActionMan (91840)
+Seat 3: Kameleon0408 (97593)
+Seat 4: Yeyusfis (38010)
+Seat 5: YL_ML_GL_42 (123358)
+Seat 6: Taban (55780)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 200
+Taban posts ante 200
+Break288 posts ante 200
+AAAActionMan posts ante 200
+Kameleon0408 posts ante 200
+Yeyusfis posts ante 200
+YL_ML_GL_42 posts small blind 800
+Taban posts big blind 1600
+Dealt to YL_ML_GL_42 [9d Qh]
+*** PRE-FLOP *** 
+Break288 folds
+AAAActionMan raises 90040 to 91640 and is all-in
+Kameleon0408 calls 91640
+Yeyusfis folds
+YL_ML_GL_42 folds
+Taban folds
+*** FLOP *** [Ac 3c Jd]
+*** TURN *** [Ac 3c Jd][3h]
+*** RIVER *** [Ac 3c Jd 3h][5d]
+*** SHOW DOWN ***
+Kameleon0408 shows [Qd 9s] (One pair : 3)
+AAAActionMan shows [As Jc] (Two pairs : Aces and Jacks)
+AAAActionMan collected 186880 from pot
+*** SUMMARY ***
+Total pot 186880 | No rake
+Board: [Ac 3c Jd 3h 5d]
+Seat 2: AAAActionMan showed [As Jc] and won 186880 with Two pairs : Aces and Jacks
+Seat 3: Kameleon0408 showed [Qd 9s] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 13 - HandId: #2613170759878574223-114-1670448222 - Holdem no limit (200/800/1600) - 2022/12/07 21:23:42 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #5 is the button
+Seat 1: Break288 (47520)
+Seat 2: AAAActionMan (186880)
+Seat 3: Kameleon0408 (5753)
+Seat 4: Yeyusfis (37810)
+Seat 5: YL_ML_GL_42 (122358)
+Seat 6: Taban (53980)
+*** ANTE/BLINDS ***
+Taban posts ante 200
+Break288 posts ante 200
+AAAActionMan posts ante 200
+Kameleon0408 posts ante 200
+Yeyusfis posts ante 200
+YL_ML_GL_42 posts ante 200
+Taban posts small blind 800
+Break288 posts big blind 1600
+Dealt to YL_ML_GL_42 [4d Ah]
+*** PRE-FLOP *** 
+AAAActionMan folds
+Kameleon0408 raises 3953 to 5553 and is all-in
+Yeyusfis folds
+YL_ML_GL_42 calls 5553
+Taban folds
+Break288 folds
+*** FLOP *** [8c 9h 8h]
+*** TURN *** [8c 9h 8h][Jc]
+*** RIVER *** [8c 9h 8h Jc][Ad]
+*** SHOW DOWN ***
+Kameleon0408 shows [5d 4s] (One pair : 8)
+YL_ML_GL_42 shows [4d Ah] (Two pairs : Aces and 8)
+YL_ML_GL_42 collected 14706 from pot
+*** SUMMARY ***
+Total pot 14706 | No rake
+Board: [8c 9h 8h Jc Ad]
+Seat 3: Kameleon0408 showed [5d 4s] and lost with One pair : 8
+Seat 5: YL_ML_GL_42 (button) showed [4d Ah] and won 14706 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 14 - HandId: #2613170759878574223-115-1670448268 - Holdem no limit (250/1000/2000) - 2022/12/07 21:24:28 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #6 is the button
+Seat 1: Break288 (45720)
+Seat 2: AAAActionMan (186680)
+Seat 4: Yeyusfis (37610)
+Seat 5: YL_ML_GL_42 (131311)
+Seat 6: Taban (52980)
+*** ANTE/BLINDS ***
+Break288 posts ante 250
+AAAActionMan posts ante 250
+Yeyusfis posts ante 250
+YL_ML_GL_42 posts ante 250
+Taban posts ante 250
+Break288 posts small blind 1000
+AAAActionMan posts big blind 2000
+Dealt to YL_ML_GL_42 [6s Ts]
+*** PRE-FLOP *** 
+Yeyusfis folds
+YL_ML_GL_42 folds
+Taban folds
+Break288 calls 1000
+AAAActionMan checks
+*** FLOP *** [Js As 5s]
+Break288 checks
+AAAActionMan checks
+*** TURN *** [Js As 5s][Qc]
+Break288 checks
+AAAActionMan bets 2000
+Break288 calls 2000
+*** RIVER *** [Js As 5s Qc][Jc]
+Break288 checks
+AAAActionMan bets 9250
+Break288 calls 9250
+*** SHOW DOWN ***
+Break288 shows [5c Kc] (Two pairs : Jacks and 5)
+AAAActionMan shows [4s 9s] (Flush Ace high)
+AAAActionMan collected 27750 from pot
+*** SUMMARY ***
+Total pot 27750 | No rake
+Board: [Js As 5s Qc Jc]
+Seat 1: Break288 (small blind) showed [5c Kc] and lost with Two pairs : Jacks and 5
+Seat 2: AAAActionMan (big blind) showed [4s 9s] and won 27750 with Flush Ace high
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 14 - HandId: #2613170759878574223-116-1670448390 - Holdem no limit (250/1000/2000) - 2022/12/07 21:26:30 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #1 is the button
+Seat 1: Break288 (32220)
+Seat 2: AAAActionMan (200930)
+Seat 3: Boubi75 (70319)
+Seat 4: Yeyusfis (37360)
+Seat 5: YL_ML_GL_42 (131061)
+Seat 6: Taban (52730)
+*** ANTE/BLINDS ***
+AAAActionMan posts ante 250
+Boubi75 posts ante 250
+Break288 posts ante 250
+Yeyusfis posts ante 250
+YL_ML_GL_42 posts ante 250
+Taban posts ante 250
+AAAActionMan posts small blind 1000
+Boubi75 posts big blind 2000
+Dealt to YL_ML_GL_42 [Jh Qc]
+*** PRE-FLOP *** 
+Yeyusfis folds
+YL_ML_GL_42 raises 4000 to 6000
+Taban folds
+Break288 folds
+AAAActionMan folds
+Boubi75 calls 4000
+*** FLOP *** [7h 8c Kd]
+Boubi75 checks
+YL_ML_GL_42 bets 11600
+Boubi75 calls 11600
+*** TURN *** [7h 8c Kd][Jd]
+Boubi75 bets 24505
+YL_ML_GL_42 raises 88706 to 113211 and is all-in
+Boubi75 calls 27964 and is all-in
+*** RIVER *** [7h 8c Kd Jd][4d]
+*** SHOW DOWN ***
+Boubi75 shows [Ts 9d] (Straight Jack high)
+YL_ML_GL_42 shows [Jh Qc] (One pair : Jacks)
+YL_ML_GL_42 collected 60742 from side pot 1
+Boubi75 collected 142638 from main pot
+*** SUMMARY ***
+Total pot 203380 | No rake
+Board: [7h 8c Kd Jd 4d]
+Seat 3: Boubi75 (big blind) showed [Ts 9d] and won 142638 with Straight Jack high
+Seat 5: YL_ML_GL_42 showed [Jh Qc] and won 60742 with One pair : Jacks
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 14 - HandId: #2613170759878574223-117-1670448439 - Holdem no limit (250/1000/2000) - 2022/12/07 21:27:19 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #2 is the button
+Seat 1: Break288 (31970)
+Seat 2: AAAActionMan (199680)
+Seat 3: Boubi75 (142638)
+Seat 4: Yeyusfis (37110)
+Seat 5: YL_ML_GL_42 (60742)
+Seat 6: Taban (52480)
+*** ANTE/BLINDS ***
+Boubi75 posts ante 250
+Yeyusfis posts ante 250
+Break288 posts ante 250
+AAAActionMan posts ante 250
+YL_ML_GL_42 posts ante 250
+Taban posts ante 250
+Boubi75 posts small blind 1000
+Yeyusfis posts big blind 2000
+Dealt to YL_ML_GL_42 [7c 2c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Taban raises 50230 to 52230 and is all-in
+Break288 folds
+AAAActionMan folds
+Boubi75 folds
+Yeyusfis folds
+Taban collected 56730 from pot
+*** SUMMARY ***
+Total pot 56730 | No rake
+Seat 6: Taban won 56730
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 14 - HandId: #2613170759878574223-118-1670448455 - Holdem no limit (250/1000/2000) - 2022/12/07 21:27:35 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 1: Break288 (31720)
+Seat 2: AAAActionMan (199430)
+Seat 3: Boubi75 (141388)
+Seat 4: Yeyusfis (34860)
+Seat 5: YL_ML_GL_42 (60492)
+Seat 6: Taban (56730)
+*** ANTE/BLINDS ***
+Yeyusfis posts ante 250
+YL_ML_GL_42 posts ante 250
+Break288 posts ante 250
+AAAActionMan posts ante 250
+Boubi75 posts ante 250
+Taban posts ante 250
+Yeyusfis posts small blind 1000
+YL_ML_GL_42 posts big blind 2000
+Dealt to YL_ML_GL_42 [Kd 2h]
+*** PRE-FLOP *** 
+Taban folds
+Break288 folds
+AAAActionMan raises 3000 to 5000
+Boubi75 calls 5000
+Yeyusfis folds
+YL_ML_GL_42 folds
+*** FLOP *** [Ks 9h Qh]
+AAAActionMan bets 5075
+Boubi75 folds
+AAAActionMan collected 19575 from pot
+*** SUMMARY ***
+Total pot 19575 | No rake
+Board: [Ks 9h Qh]
+Seat 2: AAAActionMan won 19575
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 14 - HandId: #2613170759878574223-119-1670448504 - Holdem no limit (250/1000/2000) - 2022/12/07 21:28:24 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 1: Break288 (31470)
+Seat 2: AAAActionMan (208680)
+Seat 3: Boubi75 (136138)
+Seat 4: Yeyusfis (33610)
+Seat 5: YL_ML_GL_42 (58242)
+Seat 6: Taban (56480)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 250
+Taban posts ante 250
+Break288 posts ante 250
+AAAActionMan posts ante 250
+Boubi75 posts ante 250
+Yeyusfis posts ante 250
+YL_ML_GL_42 posts small blind 1000
+Taban posts big blind 2000
+Dealt to YL_ML_GL_42 [8h 6c]
+*** PRE-FLOP *** 
+Break288 folds
+AAAActionMan folds
+Boubi75 calls 2000
+Yeyusfis folds
+YL_ML_GL_42 folds
+Taban checks
+*** FLOP *** [7d 4d Jd]
+Taban checks
+Boubi75 checks
+*** TURN *** [7d 4d Jd][7c]
+Taban checks
+Boubi75 checks
+*** RIVER *** [7d 4d Jd 7c][Ac]
+Taban bets 6500
+Boubi75 folds
+Taban collected 13000 from pot
+*** SUMMARY ***
+Total pot 13000 | No rake
+Board: [7d 4d Jd 7c Ac]
+Seat 6: Taban (big blind) won 13000
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 14 - HandId: #2613170759878574223-120-1670448554 - Holdem no limit (250/1000/2000) - 2022/12/07 21:29:14 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #5 is the button
+Seat 1: Break288 (31220)
+Seat 2: AAAActionMan (208430)
+Seat 3: Boubi75 (133888)
+Seat 4: Yeyusfis (33360)
+Seat 5: YL_ML_GL_42 (56992)
+Seat 6: Taban (60730)
+*** ANTE/BLINDS ***
+Taban posts ante 250
+Break288 posts ante 250
+AAAActionMan posts ante 250
+Boubi75 posts ante 250
+Yeyusfis posts ante 250
+YL_ML_GL_42 posts ante 250
+Taban posts small blind 1000
+Break288 posts big blind 2000
+Dealt to YL_ML_GL_42 [Ts Jh]
+*** PRE-FLOP *** 
+AAAActionMan folds
+Boubi75 raises 3000 to 5000
+Yeyusfis folds
+YL_ML_GL_42 raises 14500 to 19500
+Taban folds
+Break288 folds
+Boubi75 calls 14500
+*** FLOP *** [4h Jd 9c]
+Boubi75 bets 15225
+YL_ML_GL_42 raises 22017 to 37242 and is all-in
+Boubi75 folds
+YL_ML_GL_42 collected 95967 from pot
+*** SUMMARY ***
+Total pot 95967 | No rake
+Board: [4h Jd 9c]
+Seat 5: YL_ML_GL_42 (button) won 95967
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 14 - HandId: #2613170759878574223-121-1670448596 - Holdem no limit (250/1000/2000) - 2022/12/07 21:29:56 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #6 is the button
+Seat 1: Break288 (28970)
+Seat 2: AAAActionMan (208180)
+Seat 3: Boubi75 (98913)
+Seat 4: Yeyusfis (33110)
+Seat 5: YL_ML_GL_42 (95967)
+Seat 6: Taban (59480)
+*** ANTE/BLINDS ***
+Break288 posts ante 250
+AAAActionMan posts ante 250
+Boubi75 posts ante 250
+Yeyusfis posts ante 250
+YL_ML_GL_42 posts ante 250
+Taban posts ante 250
+Break288 posts small blind 1000
+AAAActionMan posts big blind 2000
+Dealt to YL_ML_GL_42 [8s 4h]
+*** PRE-FLOP *** 
+Boubi75 folds
+Yeyusfis folds
+YL_ML_GL_42 folds
+Taban raises 6500 to 8500
+Break288 folds
+AAAActionMan folds
+Taban collected 13000 from pot
+*** SUMMARY ***
+Total pot 13000 | No rake
+Seat 6: Taban (button) won 13000
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 15 - HandId: #2613170759878574223-122-1670448630 - Holdem no limit (300/1250/2500) - 2022/12/07 21:30:30 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #1 is the button
+Seat 1: Break288 (27720)
+Seat 2: AAAActionMan (205930)
+Seat 3: Boubi75 (98663)
+Seat 4: Yeyusfis (32860)
+Seat 5: YL_ML_GL_42 (95717)
+Seat 6: Taban (63730)
+*** ANTE/BLINDS ***
+AAAActionMan posts ante 300
+Boubi75 posts ante 300
+Break288 posts ante 300
+Yeyusfis posts ante 300
+YL_ML_GL_42 posts ante 300
+Taban posts ante 300
+AAAActionMan posts small blind 1250
+Boubi75 posts big blind 2500
+Dealt to YL_ML_GL_42 [7h Js]
+*** PRE-FLOP *** 
+Yeyusfis folds
+YL_ML_GL_42 folds
+Taban folds
+Break288 raises 24920 to 27420 and is all-in
+AAAActionMan folds
+Boubi75 folds
+Break288 collected 32970 from pot
+*** SUMMARY ***
+Total pot 32970 | No rake
+Seat 1: Break288 (button) won 32970
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 15 - HandId: #2613170759878574223-123-1670448662 - Holdem no limit (300/1250/2500) - 2022/12/07 21:31:02 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #2 is the button
+Seat 1: Break288 (32970)
+Seat 2: AAAActionMan (204380)
+Seat 3: Boubi75 (95863)
+Seat 4: Yeyusfis (32560)
+Seat 5: YL_ML_GL_42 (95417)
+Seat 6: Taban (63430)
+*** ANTE/BLINDS ***
+Boubi75 posts ante 300
+Yeyusfis posts ante 300
+Break288 posts ante 300
+AAAActionMan posts ante 300
+YL_ML_GL_42 posts ante 300
+Taban posts ante 300
+Boubi75 posts small blind 1250
+Yeyusfis posts big blind 2500
+Dealt to YL_ML_GL_42 [6h Qh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Taban folds
+Break288 folds
+AAAActionMan folds
+Boubi75 calls 1250
+Yeyusfis raises 29760 to 32260 and is all-in
+Boubi75 folds
+Yeyusfis collected 36560 from pot
+*** SUMMARY ***
+Total pot 36560 | No rake
+Seat 4: Yeyusfis (big blind) won 36560
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 15 - HandId: #2613170759878574223-124-1670448689 - Holdem no limit (300/1250/2500) - 2022/12/07 21:31:29 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 1: Break288 (32670)
+Seat 2: AAAActionMan (204080)
+Seat 3: Boubi75 (93063)
+Seat 4: Yeyusfis (36560)
+Seat 5: YL_ML_GL_42 (95117)
+Seat 6: Taban (63130)
+*** ANTE/BLINDS ***
+Yeyusfis posts ante 300
+YL_ML_GL_42 posts ante 300
+Break288 posts ante 300
+AAAActionMan posts ante 300
+Boubi75 posts ante 300
+Taban posts ante 300
+Yeyusfis posts small blind 1250
+YL_ML_GL_42 posts big blind 2500
+Dealt to YL_ML_GL_42 [Qs 2c]
+*** PRE-FLOP *** 
+Taban folds
+Break288 folds
+AAAActionMan raises 3125 to 5625
+Boubi75 folds
+Yeyusfis folds
+YL_ML_GL_42 folds
+AAAActionMan collected 11175 from pot
+*** SUMMARY ***
+Total pot 11175 | No rake
+Seat 2: AAAActionMan won 11175
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 15 - HandId: #2613170759878574223-125-1670448729 - Holdem no limit (300/1250/2500) - 2022/12/07 21:32:09 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 1: Break288 (32370)
+Seat 2: AAAActionMan (209330)
+Seat 3: Boubi75 (92763)
+Seat 4: Yeyusfis (35010)
+Seat 5: YL_ML_GL_42 (92317)
+Seat 6: Taban (62830)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 300
+Taban posts ante 300
+Break288 posts ante 300
+AAAActionMan posts ante 300
+Boubi75 posts ante 300
+Yeyusfis posts ante 300
+YL_ML_GL_42 posts small blind 1250
+Taban posts big blind 2500
+Dealt to YL_ML_GL_42 [2c 5d]
+*** PRE-FLOP *** 
+Break288 folds
+AAAActionMan raises 3750 to 6250
+Boubi75 calls 6250
+Yeyusfis folds
+YL_ML_GL_42 folds
+Taban folds
+*** FLOP *** [3s 8c Qc]
+AAAActionMan bets 6318
+Boubi75 calls 6318
+*** TURN *** [3s 8c Qc][5s]
+AAAActionMan bets 10740
+Boubi75 folds
+AAAActionMan shows [Qh Ac] (One pair : Queens)
+AAAActionMan collected 41426 from pot
+*** SUMMARY ***
+Total pot 41426 | No rake
+Board: [3s 8c Qc 5s]
+Seat 2: AAAActionMan showed [Qh Ac] and won 41426 with One pair : Queens
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 15 - HandId: #2613170759878574223-126-1670448806 - Holdem no limit (300/1250/2500) - 2022/12/07 21:33:26 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #5 is the button
+Seat 1: Break288 (32070)
+Seat 2: AAAActionMan (227148)
+Seat 3: Boubi75 (79895)
+Seat 4: Yeyusfis (34710)
+Seat 5: YL_ML_GL_42 (90767)
+Seat 6: Taban (60030)
+*** ANTE/BLINDS ***
+Taban posts ante 300
+Break288 posts ante 300
+AAAActionMan posts ante 300
+Boubi75 posts ante 300
+Yeyusfis posts ante 300
+YL_ML_GL_42 posts ante 300
+Taban posts small blind 1250
+Break288 posts big blind 2500
+Dealt to YL_ML_GL_42 [Tc Qc]
+*** PRE-FLOP *** 
+AAAActionMan folds
+Boubi75 folds
+Yeyusfis folds
+YL_ML_GL_42 raises 8050 to 10550
+Taban folds
+Break288 folds
+YL_ML_GL_42 collected 16100 from pot
+*** SUMMARY ***
+Total pot 16100 | No rake
+Seat 5: YL_ML_GL_42 (button) won 16100
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 15 - HandId: #2613170759878574223-127-1670448824 - Holdem no limit (300/1250/2500) - 2022/12/07 21:33:44 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #6 is the button
+Seat 1: Break288 (29270)
+Seat 2: AAAActionMan (226848)
+Seat 3: Boubi75 (79595)
+Seat 4: Yeyusfis (34410)
+Seat 5: YL_ML_GL_42 (96017)
+Seat 6: Taban (58480)
+*** ANTE/BLINDS ***
+Break288 posts ante 300
+AAAActionMan posts ante 300
+Boubi75 posts ante 300
+Yeyusfis posts ante 300
+YL_ML_GL_42 posts ante 300
+Taban posts ante 300
+Break288 posts small blind 1250
+AAAActionMan posts big blind 2500
+Dealt to YL_ML_GL_42 [Qs 4s]
+*** PRE-FLOP *** 
+Boubi75 folds
+Yeyusfis folds
+YL_ML_GL_42 raises 5000 to 7500
+Taban folds
+Break288 folds
+AAAActionMan calls 5000
+*** FLOP *** [9c Ac Qh]
+AAAActionMan checks
+YL_ML_GL_42 bets 18050
+AAAActionMan folds
+YL_ML_GL_42 collected 36100 from pot
+*** SUMMARY ***
+Total pot 36100 | No rake
+Board: [9c Ac Qh]
+Seat 5: YL_ML_GL_42 won 36100
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 15 - HandId: #2613170759878574223-128-1670448859 - Holdem no limit (300/1250/2500) - 2022/12/07 21:34:19 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #1 is the button
+Seat 1: Break288 (27720)
+Seat 2: AAAActionMan (219048)
+Seat 3: Boubi75 (79295)
+Seat 4: Yeyusfis (34110)
+Seat 5: YL_ML_GL_42 (106267)
+Seat 6: Taban (58180)
+*** ANTE/BLINDS ***
+AAAActionMan posts ante 300
+Boubi75 posts ante 300
+Break288 posts ante 300
+Yeyusfis posts ante 300
+YL_ML_GL_42 posts ante 300
+Taban posts ante 300
+AAAActionMan posts small blind 1250
+Boubi75 posts big blind 2500
+Dealt to YL_ML_GL_42 [Jc Jh]
+*** PRE-FLOP *** 
+Yeyusfis folds
+YL_ML_GL_42 raises 8050 to 10550
+Taban folds
+Break288 folds
+AAAActionMan folds
+Boubi75 folds
+YL_ML_GL_42 collected 16100 from pot
+*** SUMMARY ***
+Total pot 16100 | No rake
+Seat 5: YL_ML_GL_42 won 16100
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 15 - HandId: #2613170759878574223-129-1670448871 - Holdem no limit (300/1250/2500) - 2022/12/07 21:34:31 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #2 is the button
+Seat 1: Break288 (27420)
+Seat 2: AAAActionMan (217498)
+Seat 3: Boubi75 (76495)
+Seat 4: Yeyusfis (33810)
+Seat 5: YL_ML_GL_42 (111517)
+Seat 6: Taban (57880)
+*** ANTE/BLINDS ***
+Boubi75 posts ante 300
+Yeyusfis posts ante 300
+Break288 posts ante 300
+AAAActionMan posts ante 300
+YL_ML_GL_42 posts ante 300
+Taban posts ante 300
+Boubi75 posts small blind 1250
+Yeyusfis posts big blind 2500
+Dealt to YL_ML_GL_42 [Js Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 5000 to 7500
+Taban folds
+Break288 folds
+AAAActionMan folds
+Boubi75 folds
+Yeyusfis folds
+YL_ML_GL_42 collected 13050 from pot
+*** SUMMARY ***
+Total pot 13050 | No rake
+Seat 5: YL_ML_GL_42 won 13050
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 15 - HandId: #2613170759878574223-130-1670448893 - Holdem no limit (300/1250/2500) - 2022/12/07 21:34:53 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #3 is the button
+Seat 1: Break288 (27120)
+Seat 2: AAAActionMan (217198)
+Seat 3: Boubi75 (74945)
+Seat 4: Yeyusfis (31010)
+Seat 5: YL_ML_GL_42 (116767)
+Seat 6: Taban (57580)
+*** ANTE/BLINDS ***
+Yeyusfis posts ante 300
+YL_ML_GL_42 posts ante 300
+Break288 posts ante 300
+AAAActionMan posts ante 300
+Boubi75 posts ante 300
+Taban posts ante 300
+Yeyusfis posts small blind 1250
+YL_ML_GL_42 posts big blind 2500
+Dealt to YL_ML_GL_42 [Qh Qs]
+*** PRE-FLOP *** 
+Taban calls 2500
+Break288 raises 24320 to 26820 and is all-in
+AAAActionMan folds
+Boubi75 folds
+Yeyusfis folds
+YL_ML_GL_42 raises 89647 to 116467 and is all-in
+Taban folds
+*** FLOP *** [2h 6c 9c]
+*** TURN *** [2h 6c 9c][7d]
+*** RIVER *** [2h 6c 9c 7d][Ks]
+*** SHOW DOWN ***
+Break288 shows [Th Kh] (One pair : Kings)
+YL_ML_GL_42 shows [Qh Qs] (One pair : Queens)
+YL_ML_GL_42 collected 89647 from side pot 1
+Break288 collected 59190 from main pot
+*** SUMMARY ***
+Total pot 148837 | No rake
+Board: [2h 6c 9c 7d Ks]
+Seat 1: Break288 showed [Th Kh] and won 59190 with One pair : Kings
+Seat 5: YL_ML_GL_42 (big blind) showed [Qh Qs] and won 89647 with One pair : Queens
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 15 - HandId: #2613170759878574223-131-1670448926 - Holdem no limit (300/1250/2500) - 2022/12/07 21:35:26 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #4 is the button
+Seat 1: Break288 (59190)
+Seat 2: AAAActionMan (216898)
+Seat 3: Boubi75 (74645)
+Seat 4: Yeyusfis (29460)
+Seat 5: YL_ML_GL_42 (89647)
+Seat 6: Taban (54780)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 300
+Taban posts ante 300
+Break288 posts ante 300
+AAAActionMan posts ante 300
+Boubi75 posts ante 300
+Yeyusfis posts ante 300
+YL_ML_GL_42 posts small blind 1250
+Taban posts big blind 2500
+Dealt to YL_ML_GL_42 [5s Js]
+*** PRE-FLOP *** 
+Break288 folds
+AAAActionMan folds
+Boubi75 folds
+Yeyusfis folds
+YL_ML_GL_42 raises 5000 to 7500
+Taban folds
+YL_ML_GL_42 collected 11800 from pot
+*** SUMMARY ***
+Total pot 11800 | No rake
+Seat 5: YL_ML_GL_42 (small blind) won 11800
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 15 - HandId: #2613170759878574223-132-1670448944 - Holdem no limit (300/1250/2500) - 2022/12/07 21:35:44 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0142' 6-max (real money) Seat #5 is the button
+Seat 1: Break288 (58890)
+Seat 2: AAAActionMan (216598)
+Seat 3: Boubi75 (74345)
+Seat 4: Yeyusfis (29160)
+Seat 5: YL_ML_GL_42 (93647)
+Seat 6: Taban (51980)
+*** ANTE/BLINDS ***
+Taban posts ante 300
+Break288 posts ante 300
+AAAActionMan posts ante 300
+Boubi75 posts ante 300
+Yeyusfis posts ante 300
+YL_ML_GL_42 posts ante 300
+Taban posts small blind 1250
+Break288 posts big blind 2500
+Dealt to YL_ML_GL_42 [5d Js]
+*** PRE-FLOP *** 
+AAAActionMan folds
+Boubi75 calls 2500
+Yeyusfis raises 26360 to 28860 and is all-in
+YL_ML_GL_42 folds
+Taban folds
+Break288 folds
+Boubi75 folds
+Yeyusfis collected 36910 from pot
+*** SUMMARY ***
+Total pot 36910 | No rake
+Seat 4: Yeyusfis won 36910
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 16 - HandId: #2613170759878574142-125-1670449021 - Holdem no limit (350/1500/3000) - 2022/12/07 21:37:01 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #6 is the button
+Seat 1: Larafale1 (27452)
+Seat 2: Jijas (199727)
+Seat 3: GeRoHi (111436)
+Seat 4: piscem velim (90514)
+Seat 5: YL_ML_GL_42 (93347)
+Seat 6: REDJ92 (128645)
+*** ANTE/BLINDS ***
+Larafale1 posts ante 350
+Jijas posts ante 350
+GeRoHi posts ante 350
+piscem velim posts ante 350
+YL_ML_GL_42 posts ante 350
+REDJ92 posts ante 350
+Larafale1 posts small blind 1500
+Jijas posts big blind 3000
+Dealt to YL_ML_GL_42 [Tc 4s]
+*** PRE-FLOP *** 
+GeRoHi folds
+piscem velim folds
+YL_ML_GL_42 folds
+REDJ92 folds
+Larafale1 folds
+Jijas collected 6600 from pot
+*** SUMMARY ***
+Total pot 6600 | No rake
+Seat 2: Jijas (big blind) won 6600
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 16 - HandId: #2613170759878574142-126-1670449042 - Holdem no limit (350/1500/3000) - 2022/12/07 21:37:22 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #1 is the button
+Seat 1: Larafale1 (25602)
+Seat 2: Jijas (202977)
+Seat 3: GeRoHi (111086)
+Seat 4: piscem velim (90164)
+Seat 5: YL_ML_GL_42 (92997)
+Seat 6: REDJ92 (128295)
+*** ANTE/BLINDS ***
+Jijas posts ante 350
+GeRoHi posts ante 350
+Larafale1 posts ante 350
+piscem velim posts ante 350
+YL_ML_GL_42 posts ante 350
+REDJ92 posts ante 350
+Jijas posts small blind 1500
+GeRoHi posts big blind 3000
+Dealt to YL_ML_GL_42 [8d 7s]
+*** PRE-FLOP *** 
+piscem velim folds
+YL_ML_GL_42 folds
+REDJ92 folds
+Larafale1 raises 22252 to 25252 and is all-in
+Jijas folds
+GeRoHi folds
+Larafale1 collected 31852 from pot
+*** SUMMARY ***
+Total pot 31852 | No rake
+Seat 1: Larafale1 (button) won 31852
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 16 - HandId: #2613170759878574142-127-1670449089 - Holdem no limit (350/1500/3000) - 2022/12/07 21:38:09 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #2 is the button
+Seat 1: Larafale1 (31852)
+Seat 2: Jijas (201127)
+Seat 3: GeRoHi (107736)
+Seat 4: piscem velim (89814)
+Seat 5: YL_ML_GL_42 (92647)
+Seat 6: REDJ92 (127945)
+*** ANTE/BLINDS ***
+GeRoHi posts ante 350
+piscem velim posts ante 350
+Larafale1 posts ante 350
+Jijas posts ante 350
+YL_ML_GL_42 posts ante 350
+REDJ92 posts ante 350
+GeRoHi posts small blind 1500
+piscem velim posts big blind 3000
+Dealt to YL_ML_GL_42 [6d 9h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+REDJ92 folds
+Larafale1 folds
+Jijas folds
+GeRoHi raises 3780 to 6780
+piscem velim raises 8220 to 15000
+GeRoHi calls 8220
+*** FLOP *** [8c Jh 7s]
+GeRoHi checks
+piscem velim checks
+*** TURN *** [8c Jh 7s][Td]
+GeRoHi checks
+piscem velim bets 19500
+GeRoHi calls 19500
+*** RIVER *** [8c Jh 7s Td][3d]
+GeRoHi checks
+piscem velim checks
+*** SHOW DOWN ***
+GeRoHi shows [As Ah] (One pair : Aces)
+piscem velim shows [7c Th] (Two pairs : Tens and 7)
+piscem velim collected 71100 from pot
+*** SUMMARY ***
+Total pot 71100 | No rake
+Board: [8c Jh 7s Td 3d]
+Seat 3: GeRoHi (small blind) showed [As Ah] and lost with One pair : Aces
+Seat 4: piscem velim (big blind) showed [7c Th] and won 71100 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 16 - HandId: #2613170759878574142-128-1670449240 - Holdem no limit (350/1500/3000) - 2022/12/07 21:40:40 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #3 is the button
+Seat 1: Larafale1 (31502)
+Seat 2: Jijas (200777)
+Seat 3: GeRoHi (72886)
+Seat 4: piscem velim (126064)
+Seat 5: YL_ML_GL_42 (92297)
+Seat 6: REDJ92 (127595)
+*** ANTE/BLINDS ***
+piscem velim posts ante 350
+YL_ML_GL_42 posts ante 350
+Larafale1 posts ante 350
+Jijas posts ante 350
+GeRoHi posts ante 350
+REDJ92 posts ante 350
+piscem velim posts small blind 1500
+YL_ML_GL_42 posts big blind 3000
+Dealt to YL_ML_GL_42 [6h 2h]
+*** PRE-FLOP *** 
+REDJ92 folds
+Larafale1 folds
+Jijas raises 3600 to 6600
+GeRoHi folds
+piscem velim folds
+YL_ML_GL_42 calls 3600
+*** FLOP *** [6s Ah Jc]
+YL_ML_GL_42 checks
+Jijas bets 5040
+YL_ML_GL_42 calls 5040
+*** TURN *** [6s Ah Jc][8s]
+YL_ML_GL_42 checks
+Jijas bets 26880
+YL_ML_GL_42 folds
+Jijas collected 53760 from pot
+*** SUMMARY ***
+Total pot 53760 | No rake
+Board: [6s Ah Jc 8s]
+Seat 2: Jijas won 53760
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 16 - HandId: #2613170759878574142-129-1670449325 - Holdem no limit (350/1500/3000) - 2022/12/07 21:42:05 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #4 is the button
+Seat 1: Larafale1 (31152)
+Seat 2: Jijas (215667)
+Seat 3: GeRoHi (72536)
+Seat 4: piscem velim (124214)
+Seat 5: YL_ML_GL_42 (80307)
+Seat 6: REDJ92 (127245)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 350
+REDJ92 posts ante 350
+Larafale1 posts ante 350
+Jijas posts ante 350
+GeRoHi posts ante 350
+piscem velim posts ante 350
+YL_ML_GL_42 posts small blind 1500
+REDJ92 posts big blind 3000
+Dealt to YL_ML_GL_42 [Kc 6s]
+*** PRE-FLOP *** 
+Larafale1 folds
+Jijas folds
+GeRoHi raises 3450 to 6450
+piscem velim folds
+YL_ML_GL_42 folds
+REDJ92 calls 3450
+*** FLOP *** [4c 6d Jc]
+REDJ92 checks
+GeRoHi checks
+*** TURN *** [4c 6d Jc][8d]
+REDJ92 bets 9000
+GeRoHi folds
+REDJ92 collected 25500 from pot
+*** SUMMARY ***
+Total pot 25500 | No rake
+Board: [4c 6d Jc 8d]
+Seat 6: REDJ92 (big blind) won 25500
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 17 - HandId: #2613170759878574142-130-1670449426 - Holdem no limit (400/1750/3500) - 2022/12/07 21:43:46 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #5 is the button
+Seat 1: Larafale1 (30802)
+Seat 2: Jijas (215317)
+Seat 3: GeRoHi (65736)
+Seat 4: piscem velim (123864)
+Seat 5: YL_ML_GL_42 (78457)
+Seat 6: REDJ92 (136945)
+*** ANTE/BLINDS ***
+REDJ92 posts ante 400
+Larafale1 posts ante 400
+Jijas posts ante 400
+GeRoHi posts ante 400
+piscem velim posts ante 400
+YL_ML_GL_42 posts ante 400
+REDJ92 posts small blind 1750
+Larafale1 posts big blind 3500
+Dealt to YL_ML_GL_42 [3s 6s]
+*** PRE-FLOP *** 
+Jijas folds
+GeRoHi raises 3500 to 7000
+piscem velim folds
+YL_ML_GL_42 folds
+REDJ92 folds
+Larafale1 folds
+GeRoHi collected 14650 from pot
+*** SUMMARY ***
+Total pot 14650 | No rake
+Seat 3: GeRoHi won 14650
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 17 - HandId: #2613170759878574142-131-1670449454 - Holdem no limit (400/1750/3500) - 2022/12/07 21:44:14 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #6 is the button
+Seat 1: Larafale1 (26902)
+Seat 2: Jijas (214917)
+Seat 3: GeRoHi (72986)
+Seat 4: piscem velim (123464)
+Seat 5: YL_ML_GL_42 (78057)
+Seat 6: REDJ92 (134795)
+*** ANTE/BLINDS ***
+Larafale1 posts ante 400
+Jijas posts ante 400
+GeRoHi posts ante 400
+piscem velim posts ante 400
+YL_ML_GL_42 posts ante 400
+REDJ92 posts ante 400
+Larafale1 posts small blind 1750
+Jijas posts big blind 3500
+Dealt to YL_ML_GL_42 [Qh 6d]
+*** PRE-FLOP *** 
+GeRoHi folds
+piscem velim folds
+YL_ML_GL_42 folds
+REDJ92 folds
+Larafale1 folds
+Jijas collected 7650 from pot
+*** SUMMARY ***
+Total pot 7650 | No rake
+Seat 2: Jijas (big blind) won 7650
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 17 - HandId: #2613170759878574142-132-1670449473 - Holdem no limit (400/1750/3500) - 2022/12/07 21:44:33 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #1 is the button
+Seat 1: Larafale1 (24752)
+Seat 2: Jijas (218667)
+Seat 3: GeRoHi (72586)
+Seat 4: piscem velim (123064)
+Seat 5: YL_ML_GL_42 (77657)
+Seat 6: REDJ92 (134395)
+*** ANTE/BLINDS ***
+Jijas posts ante 400
+GeRoHi posts ante 400
+Larafale1 posts ante 400
+piscem velim posts ante 400
+YL_ML_GL_42 posts ante 400
+REDJ92 posts ante 400
+Jijas posts small blind 1750
+GeRoHi posts big blind 3500
+Dealt to YL_ML_GL_42 [3s 4h]
+*** PRE-FLOP *** 
+piscem velim folds
+YL_ML_GL_42 folds
+REDJ92 raises 5250 to 8750
+Larafale1 folds
+Jijas folds
+GeRoHi calls 5250
+*** FLOP *** [8h Jh Jc]
+GeRoHi checks
+REDJ92 bets 14073
+GeRoHi calls 14073
+*** TURN *** [8h Jh Jc][2d]
+GeRoHi checks
+REDJ92 checks
+*** RIVER *** [8h Jh Jc 2d][9s]
+GeRoHi checks
+REDJ92 checks
+*** SHOW DOWN ***
+REDJ92 shows [Ad Qs] (One pair : Jacks)
+GeRoHi shows [Ac As] (Two pairs : Aces and Jacks)
+GeRoHi collected 49796 from pot
+*** SUMMARY ***
+Total pot 49796 | No rake
+Board: [8h Jh Jc 2d 9s]
+Seat 3: GeRoHi (big blind) showed [Ac As] and won 49796 with Two pairs : Aces and Jacks
+Seat 6: REDJ92 showed [Ad Qs] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 17 - HandId: #2613170759878574142-133-1670449582 - Holdem no limit (400/1750/3500) - 2022/12/07 21:46:22 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #2 is the button
+Seat 1: Larafale1 (24352)
+Seat 2: Jijas (216517)
+Seat 3: GeRoHi (99159)
+Seat 4: piscem velim (122664)
+Seat 5: YL_ML_GL_42 (77257)
+Seat 6: REDJ92 (111172)
+*** ANTE/BLINDS ***
+GeRoHi posts ante 400
+piscem velim posts ante 400
+Larafale1 posts ante 400
+Jijas posts ante 400
+YL_ML_GL_42 posts ante 400
+REDJ92 posts ante 400
+GeRoHi posts small blind 1750
+piscem velim posts big blind 3500
+Dealt to YL_ML_GL_42 [8d 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+REDJ92 raises 3500 to 7000
+Larafale1 raises 16952 to 23952 and is all-in
+Jijas folds
+GeRoHi calls 22202
+piscem velim folds
+REDJ92 calls 16952
+*** FLOP *** [4d 3d 3c]
+GeRoHi bets 25659
+REDJ92 folds
+*** TURN *** [4d 3d 3c][2c]
+*** RIVER *** [4d 3d 3c 2c][5c]
+*** SHOW DOWN ***
+Larafale1 shows [Ah 7s] (Straight 5 high)
+GeRoHi shows [As Kd] (Straight 5 high)
+GeRoHi collected 64537 from side pot 1
+Larafale1 collected 38878 from main pot
+*** SUMMARY ***
+Total pot 103415 | No rake
+Board: [4d 3d 3c 2c 5c]
+Seat 1: Larafale1 showed [Ah 7s] and won 38878 with Straight 5 high
+Seat 3: GeRoHi (small blind) showed [As Kd] and won 64537 with Straight 5 high
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 17 - HandId: #2613170759878574142-134-1670449679 - Holdem no limit (400/1750/3500) - 2022/12/07 21:47:59 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #3 is the button
+Seat 1: Larafale1 (38878)
+Seat 2: Jijas (216117)
+Seat 3: GeRoHi (113685)
+Seat 4: piscem velim (118764)
+Seat 5: YL_ML_GL_42 (76857)
+Seat 6: REDJ92 (86820)
+*** ANTE/BLINDS ***
+piscem velim posts ante 400
+YL_ML_GL_42 posts ante 400
+Larafale1 posts ante 400
+Jijas posts ante 400
+GeRoHi posts ante 400
+REDJ92 posts ante 400
+piscem velim posts small blind 1750
+YL_ML_GL_42 posts big blind 3500
+Dealt to YL_ML_GL_42 [4d 3c]
+*** PRE-FLOP *** 
+REDJ92 folds
+Larafale1 folds
+Jijas folds
+GeRoHi folds
+piscem velim raises 7000 to 10500
+YL_ML_GL_42 folds
+piscem velim collected 16400 from pot
+*** SUMMARY ***
+Total pot 16400 | No rake
+Seat 4: piscem velim (small blind) won 16400
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 18 - HandId: #2613170759878574142-135-1670449716 - Holdem no limit (500/2000/4000) - 2022/12/07 21:48:36 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #4 is the button
+Seat 1: Larafale1 (38478)
+Seat 2: Jijas (215717)
+Seat 3: GeRoHi (113285)
+Seat 4: piscem velim (124264)
+Seat 5: YL_ML_GL_42 (72957)
+Seat 6: REDJ92 (86420)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 500
+REDJ92 posts ante 500
+Larafale1 posts ante 500
+Jijas posts ante 500
+GeRoHi posts ante 500
+piscem velim posts ante 500
+YL_ML_GL_42 posts small blind 2000
+REDJ92 posts big blind 4000
+Dealt to YL_ML_GL_42 [5h 3h]
+*** PRE-FLOP *** 
+Larafale1 folds
+Jijas folds
+GeRoHi raises 4000 to 8000
+piscem velim folds
+YL_ML_GL_42 folds
+REDJ92 calls 4000
+*** FLOP *** [7d Ac Qc]
+REDJ92 checks
+GeRoHi bets 6930
+REDJ92 folds
+GeRoHi collected 27930 from pot
+*** SUMMARY ***
+Total pot 27930 | No rake
+Board: [7d Ac Qc]
+Seat 3: GeRoHi won 27930
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 18 - HandId: #2613170759878574142-136-1670449796 - Holdem no limit (500/2000/4000) - 2022/12/07 21:49:56 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #5 is the button
+Seat 1: Larafale1 (37978)
+Seat 2: Jijas (215217)
+Seat 3: GeRoHi (125785)
+Seat 4: piscem velim (123764)
+Seat 5: YL_ML_GL_42 (70457)
+Seat 6: REDJ92 (77920)
+*** ANTE/BLINDS ***
+REDJ92 posts ante 500
+Larafale1 posts ante 500
+Jijas posts ante 500
+GeRoHi posts ante 500
+piscem velim posts ante 500
+YL_ML_GL_42 posts ante 500
+REDJ92 posts small blind 2000
+Larafale1 posts big blind 4000
+Dealt to YL_ML_GL_42 [Jd 8d]
+*** PRE-FLOP *** 
+Jijas folds
+GeRoHi folds
+piscem velim folds
+YL_ML_GL_42 raises 13000 to 17000
+REDJ92 folds
+Larafale1 folds
+YL_ML_GL_42 collected 26000 from pot
+*** SUMMARY ***
+Total pot 26000 | No rake
+Seat 5: YL_ML_GL_42 (button) won 26000
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 18 - HandId: #2613170759878574142-137-1670449827 - Holdem no limit (500/2000/4000) - 2022/12/07 21:50:27 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #6 is the button
+Seat 1: Larafale1 (33478)
+Seat 2: Jijas (214717)
+Seat 3: GeRoHi (125285)
+Seat 4: piscem velim (123264)
+Seat 5: YL_ML_GL_42 (78957)
+Seat 6: REDJ92 (75420)
+*** ANTE/BLINDS ***
+Larafale1 posts ante 500
+Jijas posts ante 500
+GeRoHi posts ante 500
+piscem velim posts ante 500
+YL_ML_GL_42 posts ante 500
+REDJ92 posts ante 500
+Larafale1 posts small blind 2000
+Jijas posts big blind 4000
+Dealt to YL_ML_GL_42 [7s 3h]
+*** PRE-FLOP *** 
+GeRoHi folds
+piscem velim raises 4400 to 8400
+YL_ML_GL_42 folds
+REDJ92 folds
+Larafale1 folds
+Jijas calls 4400
+*** FLOP *** [Jh 6c 4s]
+Jijas checks
+piscem velim bets 5668
+Jijas calls 5668
+*** TURN *** [Jh 6c 4s][3c]
+Jijas checks
+piscem velim checks
+*** RIVER *** [Jh 6c 4s 3c][9s]
+Jijas bets 9941
+piscem velim raises 18059 to 28000
+Jijas folds
+piscem velim collected 71077 from pot
+*** SUMMARY ***
+Total pot 71077 | No rake
+Board: [Jh 6c 4s 3c 9s]
+Seat 4: piscem velim won 71077
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 18 - HandId: #2613170759878574142-138-1670449914 - Holdem no limit (500/2000/4000) - 2022/12/07 21:51:54 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #1 is the button
+Seat 1: Larafale1 (30978)
+Seat 2: Jijas (190208)
+Seat 3: GeRoHi (124785)
+Seat 4: piscem velim (151773)
+Seat 5: YL_ML_GL_42 (78457)
+Seat 6: REDJ92 (74920)
+*** ANTE/BLINDS ***
+Jijas posts ante 500
+GeRoHi posts ante 500
+Larafale1 posts ante 500
+piscem velim posts ante 500
+YL_ML_GL_42 posts ante 500
+REDJ92 posts ante 500
+Jijas posts small blind 2000
+GeRoHi posts big blind 4000
+Dealt to YL_ML_GL_42 [7s Kd]
+*** PRE-FLOP *** 
+piscem velim folds
+YL_ML_GL_42 folds
+REDJ92 folds
+Larafale1 folds
+Jijas folds
+GeRoHi collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Seat 3: GeRoHi (big blind) won 9000
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 18 - HandId: #2613170759878574142-139-1670449933 - Holdem no limit (500/2000/4000) - 2022/12/07 21:52:13 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #2 is the button
+Seat 1: Larafale1 (30478)
+Seat 2: Jijas (187708)
+Seat 3: GeRoHi (129285)
+Seat 4: piscem velim (151273)
+Seat 5: YL_ML_GL_42 (77957)
+Seat 6: REDJ92 (74420)
+*** ANTE/BLINDS ***
+GeRoHi posts ante 500
+piscem velim posts ante 500
+Larafale1 posts ante 500
+Jijas posts ante 500
+YL_ML_GL_42 posts ante 500
+REDJ92 posts ante 500
+GeRoHi posts small blind 2000
+piscem velim posts big blind 4000
+Dealt to YL_ML_GL_42 [7c Ad]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 8000 to 12000
+REDJ92 folds
+Larafale1 folds
+Jijas folds
+GeRoHi folds
+piscem velim calls 8000
+*** FLOP *** [3s Qh As]
+piscem velim checks
+YL_ML_GL_42 bets 29000
+piscem velim folds
+YL_ML_GL_42 collected 58000 from pot
+*** SUMMARY ***
+Total pot 58000 | No rake
+Board: [3s Qh As]
+Seat 5: YL_ML_GL_42 won 58000
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 18 - HandId: #2613170759878574142-140-1670449991 - Holdem no limit (500/2000/4000) - 2022/12/07 21:53:11 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #3 is the button
+Seat 1: Larafale1 (29978)
+Seat 2: Jijas (187208)
+Seat 3: GeRoHi (126785)
+Seat 4: piscem velim (138773)
+Seat 5: YL_ML_GL_42 (94457)
+Seat 6: REDJ92 (73920)
+*** ANTE/BLINDS ***
+piscem velim posts ante 500
+YL_ML_GL_42 posts ante 500
+Larafale1 posts ante 500
+Jijas posts ante 500
+GeRoHi posts ante 500
+REDJ92 posts ante 500
+piscem velim posts small blind 2000
+YL_ML_GL_42 posts big blind 4000
+Dealt to YL_ML_GL_42 [3h Td]
+*** PRE-FLOP *** 
+REDJ92 folds
+Larafale1 folds
+Jijas folds
+GeRoHi raises 4600 to 8600
+piscem velim folds
+YL_ML_GL_42 folds
+GeRoHi collected 17600 from pot
+*** SUMMARY ***
+Total pot 17600 | No rake
+Seat 3: GeRoHi (button) won 17600
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 18 - HandId: #2613170759878574142-141-1670450014 - Holdem no limit (500/2000/4000) - 2022/12/07 21:53:34 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #4 is the button
+Seat 1: Larafale1 (29478)
+Seat 2: Jijas (186708)
+Seat 3: GeRoHi (135285)
+Seat 4: piscem velim (136273)
+Seat 5: YL_ML_GL_42 (89957)
+Seat 6: REDJ92 (73420)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 500
+REDJ92 posts ante 500
+Larafale1 posts ante 500
+Jijas posts ante 500
+GeRoHi posts ante 500
+piscem velim posts ante 500
+YL_ML_GL_42 posts small blind 2000
+REDJ92 posts big blind 4000
+Dealt to YL_ML_GL_42 [8d Ah]
+*** PRE-FLOP *** 
+Larafale1 folds
+Jijas folds
+GeRoHi folds
+piscem velim raises 4000 to 8000
+YL_ML_GL_42 raises 81457 to 89457 and is all-in
+REDJ92 folds
+piscem velim folds
+YL_ML_GL_42 collected 104457 from pot
+*** SUMMARY ***
+Total pot 104457 | No rake
+Seat 5: YL_ML_GL_42 (small blind) won 104457
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 18 - HandId: #2613170759878574142-142-1670450050 - Holdem no limit (500/2000/4000) - 2022/12/07 21:54:10 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #5 is the button
+Seat 1: Larafale1 (28978)
+Seat 2: Jijas (186208)
+Seat 3: GeRoHi (134785)
+Seat 4: piscem velim (127773)
+Seat 5: YL_ML_GL_42 (104457)
+Seat 6: REDJ92 (68920)
+*** ANTE/BLINDS ***
+REDJ92 posts ante 500
+Larafale1 posts ante 500
+Jijas posts ante 500
+GeRoHi posts ante 500
+piscem velim posts ante 500
+YL_ML_GL_42 posts ante 500
+REDJ92 posts small blind 2000
+Larafale1 posts big blind 4000
+Dealt to YL_ML_GL_42 [4d 5c]
+*** PRE-FLOP *** 
+Jijas folds
+GeRoHi folds
+piscem velim raises 4000 to 8000
+YL_ML_GL_42 folds
+REDJ92 folds
+Larafale1 raises 20478 to 28478 and is all-in
+piscem velim calls 20478
+*** FLOP *** [Kc As 2d]
+*** TURN *** [Kc As 2d][4s]
+*** RIVER *** [Kc As 2d 4s][Ad]
+*** SHOW DOWN ***
+piscem velim shows [5h 5d] (Two pairs : Aces and 5)
+Larafale1 shows [Tc Ac] (Trips of Aces)
+Larafale1 collected 61956 from pot
+*** SUMMARY ***
+Total pot 61956 | No rake
+Board: [Kc As 2d 4s Ad]
+Seat 1: Larafale1 (big blind) showed [Tc Ac] and won 61956 with Trips of Aces
+Seat 4: piscem velim showed [5h 5d] and lost with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 19 - HandId: #2613170759878574142-143-1670450463 - Holdem no limit (600/2500/5000) - 2022/12/07 22:01:03 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #6 is the button
+Seat 1: Larafale1 (61956)
+Seat 2: Jijas (185708)
+Seat 3: GeRoHi (134285)
+Seat 4: piscem velim (98795)
+Seat 5: YL_ML_GL_42 (103957)
+Seat 6: REDJ92 (66420)
+*** ANTE/BLINDS ***
+Larafale1 posts ante 600
+Jijas posts ante 600
+GeRoHi posts ante 600
+piscem velim posts ante 600
+YL_ML_GL_42 posts ante 600
+REDJ92 posts ante 600
+Larafale1 posts small blind 2500
+Jijas posts big blind 5000
+Dealt to YL_ML_GL_42 [Ad Ac]
+*** PRE-FLOP *** 
+GeRoHi folds
+piscem velim folds
+YL_ML_GL_42 calls 5000
+REDJ92 calls 5000
+Larafale1 folds
+Jijas checks
+*** FLOP *** [Ah Qd 5c]
+Jijas checks
+YL_ML_GL_42 bets 5275
+REDJ92 folds
+Jijas folds
+YL_ML_GL_42 collected 26375 from pot
+*** SUMMARY ***
+Total pot 26375 | No rake
+Board: [Ah Qd 5c]
+Seat 5: YL_ML_GL_42 won 26375
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 19 - HandId: #2613170759878574142-144-1670450531 - Holdem no limit (600/2500/5000) - 2022/12/07 22:02:11 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #1 is the button
+Seat 1: Larafale1 (58856)
+Seat 2: Jijas (180108)
+Seat 3: GeRoHi (133685)
+Seat 4: piscem velim (98195)
+Seat 5: YL_ML_GL_42 (119457)
+Seat 6: REDJ92 (60820)
+*** ANTE/BLINDS ***
+Jijas posts ante 600
+GeRoHi posts ante 600
+Larafale1 posts ante 600
+piscem velim posts ante 600
+YL_ML_GL_42 posts ante 600
+REDJ92 posts ante 600
+Jijas posts small blind 2500
+GeRoHi posts big blind 5000
+Dealt to YL_ML_GL_42 [5c 2d]
+*** PRE-FLOP *** 
+piscem velim folds
+YL_ML_GL_42 folds
+REDJ92 folds
+Larafale1 folds
+Jijas calls 2500
+GeRoHi checks
+*** FLOP *** [Qs 5h 6d]
+Jijas checks
+GeRoHi checks
+*** TURN *** [Qs 5h 6d][9d]
+Jijas bets 5000
+GeRoHi calls 5000
+*** RIVER *** [Qs 5h 6d 9d][6c]
+Jijas bets 12500
+GeRoHi calls 12500
+*** SHOW DOWN ***
+GeRoHi shows [Qd 8s] (Two pairs : Queens and 6)
+Jijas shows [Js 6s] (Trips of 6)
+Jijas collected 48600 from pot
+*** SUMMARY ***
+Total pot 48600 | No rake
+Board: [Qs 5h 6d 9d 6c]
+Seat 2: Jijas (small blind) showed [Js 6s] and won 48600 with Trips of 6
+Seat 3: GeRoHi (big blind) showed [Qd 8s] and lost with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 19 - HandId: #2613170759878574142-145-1670450660 - Holdem no limit (600/2500/5000) - 2022/12/07 22:04:20 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #2 is the button
+Seat 1: Larafale1 (58256)
+Seat 2: Jijas (205608)
+Seat 3: GeRoHi (110585)
+Seat 4: piscem velim (97595)
+Seat 5: YL_ML_GL_42 (118857)
+Seat 6: REDJ92 (60220)
+*** ANTE/BLINDS ***
+GeRoHi posts ante 600
+piscem velim posts ante 600
+Larafale1 posts ante 600
+Jijas posts ante 600
+YL_ML_GL_42 posts ante 600
+REDJ92 posts ante 600
+GeRoHi posts small blind 2500
+piscem velim posts big blind 5000
+Dealt to YL_ML_GL_42 [7d 3s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+REDJ92 raises 10000 to 15000
+Larafale1 folds
+Jijas raises 190008 to 205008 and is all-in
+GeRoHi folds
+piscem velim folds
+REDJ92 calls 44620 and is all-in
+*** FLOP *** [2d Qh 5s]
+*** TURN *** [2d Qh 5s][8d]
+*** RIVER *** [2d Qh 5s 8d][Kc]
+*** SHOW DOWN ***
+Jijas shows [Td As] (High card : Ace)
+REDJ92 shows [Kh Jd] (One pair : Kings)
+REDJ92 collected 130340 from main pot
+Jijas collected 145388 from side pot 1
+*** SUMMARY ***
+Total pot 275728 | No rake
+Board: [2d Qh 5s 8d Kc]
+Seat 2: Jijas (button) showed [Td As] and won 145388 with High card : Ace
+Seat 6: REDJ92 showed [Kh Jd] and won 130340 with One pair : Kings
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 19 - HandId: #2613170759878574142-146-1670450716 - Holdem no limit (600/2500/5000) - 2022/12/07 22:05:16 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #3 is the button
+Seat 1: Larafale1 (57656)
+Seat 2: Jijas (145388)
+Seat 3: GeRoHi (107485)
+Seat 4: piscem velim (91995)
+Seat 5: YL_ML_GL_42 (118257)
+Seat 6: REDJ92 (130340)
+*** ANTE/BLINDS ***
+piscem velim posts ante 600
+YL_ML_GL_42 posts ante 600
+Larafale1 posts ante 600
+Jijas posts ante 600
+GeRoHi posts ante 600
+REDJ92 posts ante 600
+piscem velim posts small blind 2500
+YL_ML_GL_42 posts big blind 5000
+Dealt to YL_ML_GL_42 [9c Ad]
+*** PRE-FLOP *** 
+REDJ92 folds
+Larafale1 folds
+Jijas folds
+GeRoHi folds
+piscem velim calls 2500
+YL_ML_GL_42 raises 13600 to 18600
+piscem velim folds
+YL_ML_GL_42 collected 27200 from pot
+*** SUMMARY ***
+Total pot 27200 | No rake
+Seat 5: YL_ML_GL_42 (big blind) won 27200
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 19 - HandId: #2613170759878574142-147-1670450772 - Holdem no limit (600/2500/5000) - 2022/12/07 22:06:12 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #4 is the button
+Seat 1: Larafale1 (57056)
+Seat 2: Jijas (144788)
+Seat 3: GeRoHi (106885)
+Seat 4: piscem velim (86395)
+Seat 5: YL_ML_GL_42 (126257)
+Seat 6: REDJ92 (129740)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 600
+REDJ92 posts ante 600
+Larafale1 posts ante 600
+Jijas posts ante 600
+GeRoHi posts ante 600
+piscem velim posts ante 600
+YL_ML_GL_42 posts small blind 2500
+REDJ92 posts big blind 5000
+Dealt to YL_ML_GL_42 [Qc 3d]
+*** PRE-FLOP *** 
+Larafale1 folds
+Jijas folds
+GeRoHi folds
+piscem velim raises 5000 to 10000
+YL_ML_GL_42 folds
+REDJ92 raises 26100 to 36100
+piscem velim folds
+REDJ92 collected 52200 from pot
+*** SUMMARY ***
+Total pot 52200 | No rake
+Seat 6: REDJ92 (big blind) won 52200
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 20 - HandId: #2613170759878574142-148-1670450859 - Holdem no limit (700/3000/6000) - 2022/12/07 22:07:39 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #5 is the button
+Seat 1: Larafale1 (56456)
+Seat 2: Jijas (144188)
+Seat 3: GeRoHi (106285)
+Seat 4: piscem velim (75795)
+Seat 5: YL_ML_GL_42 (123157)
+Seat 6: REDJ92 (145240)
+*** ANTE/BLINDS ***
+REDJ92 posts ante 700
+Larafale1 posts ante 700
+Jijas posts ante 700
+GeRoHi posts ante 700
+piscem velim posts ante 700
+YL_ML_GL_42 posts ante 700
+REDJ92 posts small blind 3000
+Larafale1 posts big blind 6000
+Dealt to YL_ML_GL_42 [8c Kc]
+*** PRE-FLOP *** 
+Jijas folds
+GeRoHi folds
+piscem velim folds
+YL_ML_GL_42 raises 12000 to 18000
+REDJ92 folds
+Larafale1 raises 37756 to 55756 and is all-in
+YL_ML_GL_42 calls 37756
+*** FLOP *** [2d Ts 6d]
+*** TURN *** [2d Ts 6d][Jc]
+*** RIVER *** [2d Ts 6d Jc][Th]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [8c Kc] (One pair : Tens)
+Larafale1 shows [Jd Ah] (Two pairs : Jacks and Tens)
+Larafale1 collected 118712 from pot
+*** SUMMARY ***
+Total pot 118712 | No rake
+Board: [2d Ts 6d Jc Th]
+Seat 1: Larafale1 (big blind) showed [Jd Ah] and won 118712 with Two pairs : Jacks and Tens
+Seat 5: YL_ML_GL_42 (button) showed [8c Kc] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 20 - HandId: #2613170759878574142-149-1670450915 - Holdem no limit (700/3000/6000) - 2022/12/07 22:08:35 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #6 is the button
+Seat 1: Larafale1 (118712)
+Seat 2: Jijas (143488)
+Seat 3: GeRoHi (105585)
+Seat 4: piscem velim (75095)
+Seat 5: YL_ML_GL_42 (66701)
+Seat 6: REDJ92 (141540)
+*** ANTE/BLINDS ***
+Larafale1 posts ante 700
+Jijas posts ante 700
+GeRoHi posts ante 700
+piscem velim posts ante 700
+YL_ML_GL_42 posts ante 700
+REDJ92 posts ante 700
+Larafale1 posts small blind 3000
+Jijas posts big blind 6000
+Dealt to YL_ML_GL_42 [6s 3d]
+*** PRE-FLOP *** 
+GeRoHi folds
+piscem velim folds
+YL_ML_GL_42 folds
+REDJ92 raises 9000 to 15000
+Larafale1 folds
+Jijas folds
+REDJ92 collected 28200 from pot
+*** SUMMARY ***
+Total pot 28200 | No rake
+Seat 6: REDJ92 (button) won 28200
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 20 - HandId: #2613170759878574142-150-1670450968 - Holdem no limit (700/3000/6000) - 2022/12/07 22:09:28 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #1 is the button
+Seat 1: Larafale1 (115012)
+Seat 2: Jijas (136788)
+Seat 3: GeRoHi (104885)
+Seat 4: piscem velim (74395)
+Seat 5: YL_ML_GL_42 (66001)
+Seat 6: REDJ92 (154040)
+*** ANTE/BLINDS ***
+Jijas posts ante 700
+GeRoHi posts ante 700
+Larafale1 posts ante 700
+piscem velim posts ante 700
+YL_ML_GL_42 posts ante 700
+REDJ92 posts ante 700
+Jijas posts small blind 3000
+GeRoHi posts big blind 6000
+Dealt to YL_ML_GL_42 [2c 5h]
+*** PRE-FLOP *** 
+piscem velim folds
+YL_ML_GL_42 folds
+REDJ92 folds
+Larafale1 folds
+Jijas folds
+GeRoHi collected 13200 from pot
+*** SUMMARY ***
+Total pot 13200 | No rake
+Seat 3: GeRoHi (big blind) won 13200
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 20 - HandId: #2613170759878574142-151-1670451003 - Holdem no limit (700/3000/6000) - 2022/12/07 22:10:03 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #2 is the button
+Seat 1: Larafale1 (114312)
+Seat 2: Jijas (133088)
+Seat 3: GeRoHi (111385)
+Seat 4: piscem velim (73695)
+Seat 5: YL_ML_GL_42 (65301)
+Seat 6: REDJ92 (153340)
+*** ANTE/BLINDS ***
+GeRoHi posts ante 700
+piscem velim posts ante 700
+Larafale1 posts ante 700
+Jijas posts ante 700
+YL_ML_GL_42 posts ante 700
+REDJ92 posts ante 700
+GeRoHi posts small blind 3000
+piscem velim posts big blind 6000
+Dealt to YL_ML_GL_42 [7h 7s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 58601 to 64601 and is all-in
+REDJ92 folds
+Larafale1 folds
+Jijas folds
+GeRoHi folds
+piscem velim folds
+YL_ML_GL_42 collected 77801 from pot
+*** SUMMARY ***
+Total pot 77801 | No rake
+Seat 5: YL_ML_GL_42 won 77801
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 20 - HandId: #2613170759878574142-152-1670451039 - Holdem no limit (700/3000/6000) - 2022/12/07 22:10:39 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #3 is the button
+Seat 1: Larafale1 (113612)
+Seat 2: Jijas (132388)
+Seat 3: GeRoHi (107685)
+Seat 4: piscem velim (66995)
+Seat 5: YL_ML_GL_42 (77801)
+Seat 6: REDJ92 (152640)
+*** ANTE/BLINDS ***
+piscem velim posts ante 700
+YL_ML_GL_42 posts ante 700
+Larafale1 posts ante 700
+Jijas posts ante 700
+GeRoHi posts ante 700
+REDJ92 posts ante 700
+piscem velim posts small blind 3000
+YL_ML_GL_42 posts big blind 6000
+Dealt to YL_ML_GL_42 [4c 3c]
+*** PRE-FLOP *** 
+REDJ92 raises 9000 to 15000
+Larafale1 folds
+Jijas folds
+GeRoHi folds
+piscem velim folds
+YL_ML_GL_42 folds
+REDJ92 collected 28200 from pot
+*** SUMMARY ***
+Total pot 28200 | No rake
+Seat 6: REDJ92 won 28200
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 20 - HandId: #2613170759878574142-153-1670451097 - Holdem no limit (700/3000/6000) - 2022/12/07 22:11:37 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #4 is the button
+Seat 1: Larafale1 (112912)
+Seat 2: Jijas (131688)
+Seat 3: GeRoHi (106985)
+Seat 4: piscem velim (63295)
+Seat 5: YL_ML_GL_42 (71101)
+Seat 6: REDJ92 (165140)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 700
+REDJ92 posts ante 700
+Larafale1 posts ante 700
+Jijas posts ante 700
+GeRoHi posts ante 700
+piscem velim posts ante 700
+YL_ML_GL_42 posts small blind 3000
+REDJ92 posts big blind 6000
+Dealt to YL_ML_GL_42 [5s 2d]
+*** PRE-FLOP *** 
+Larafale1 folds
+Jijas folds
+GeRoHi folds
+piscem velim folds
+YL_ML_GL_42 folds
+REDJ92 collected 13200 from pot
+*** SUMMARY ***
+Total pot 13200 | No rake
+Seat 6: REDJ92 (big blind) won 13200
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 21 - HandId: #2613170759878574142-154-1670451226 - Holdem no limit (800/3500/7000) - 2022/12/07 22:13:46 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #5 is the button
+Seat 1: Larafale1 (112212)
+Seat 2: Jijas (130988)
+Seat 3: GeRoHi (106285)
+Seat 4: piscem velim (62595)
+Seat 5: YL_ML_GL_42 (67401)
+Seat 6: REDJ92 (171640)
+*** ANTE/BLINDS ***
+REDJ92 posts ante 800
+Larafale1 posts ante 800
+Jijas posts ante 800
+GeRoHi posts ante 800
+piscem velim posts ante 800
+YL_ML_GL_42 posts ante 800
+REDJ92 posts small blind 3500
+Larafale1 posts big blind 7000
+Dealt to YL_ML_GL_42 [6d 5s]
+*** PRE-FLOP *** 
+Jijas raises 7000 to 14000
+GeRoHi folds
+piscem velim folds
+YL_ML_GL_42 folds
+REDJ92 folds
+Larafale1 folds
+Jijas collected 29300 from pot
+*** SUMMARY ***
+Total pot 29300 | No rake
+Seat 2: Jijas won 29300
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 21 - HandId: #2613170759878574142-155-1670451271 - Holdem no limit (800/3500/7000) - 2022/12/07 22:14:31 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(608426230)#0061' 6-max (real money) Seat #6 is the button
+Seat 1: Larafale1 (104412)
+Seat 2: Jijas (145488)
+Seat 3: GeRoHi (105485)
+Seat 4: piscem velim (61795)
+Seat 5: YL_ML_GL_42 (66601)
+Seat 6: REDJ92 (167340)
+*** ANTE/BLINDS ***
+Larafale1 posts ante 800
+Jijas posts ante 800
+GeRoHi posts ante 800
+piscem velim posts ante 800
+YL_ML_GL_42 posts ante 800
+REDJ92 posts ante 800
+Larafale1 posts small blind 3500
+Jijas posts big blind 7000
+Dealt to YL_ML_GL_42 [Ah 6h]
+*** PRE-FLOP *** 
+GeRoHi folds
+piscem velim folds
+YL_ML_GL_42 raises 58801 to 65801 and is all-in
+REDJ92 raises 98702 to 164503
+Larafale1 folds
+Jijas folds
+*** FLOP *** [7d Jh 4h]
+*** TURN *** [7d Jh 4h][As]
+*** RIVER *** [7d Jh 4h As][2c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ah 6h] (One pair : Aces)
+REDJ92 shows [Ad 7c] (Two pairs : Aces and 7)
+REDJ92 collected 245604 from pot
+*** SUMMARY ***
+Total pot 245604 | No rake
+Board: [7d Jh 4h As 2c]
+Seat 5: YL_ML_GL_42 showed [Ah 6h] and lost with One pair : Aces
+Seat 6: REDJ92 (button) showed [Ad 7c] and won 245604 with Two pairs : Aces and 7
+
+

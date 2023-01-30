@@ -1,0 +1,188 @@
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547948425903603726-23-1669132323 - Holdem no limit (25/100/200) - 2022/11/22 15:52:03 UTC
+Table: 'SAMOURAI(593240472)#0013' 6-max (real money) Seat #3 is the button
+Seat 1: mino73 (28523, 2.25€ bounty)
+Seat 2: Yohan evan (18817, 2.25€ bounty)
+Seat 3: iMr.Fish (20218, 2.25€ bounty)
+Seat 4: AgathZepower (23370, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (20000, 2.25€ bounty)
+Seat 6: Mlle_relou81 (18482, 2.25€ bounty)
+*** ANTE/BLINDS ***
+AgathZepower posts ante 25
+YL_ML_GL_42 posts ante 25
+mino73 posts ante 25
+Yohan evan posts ante 25
+iMr.Fish posts ante 25
+Mlle_relou81 posts ante 25
+AgathZepower posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [3c 2d]
+*** PRE-FLOP *** 
+Mlle_relou81 folds
+mino73 raises 1400 to 1600
+Yohan evan calls 1600
+iMr.Fish folds
+AgathZepower folds
+YL_ML_GL_42 folds
+*** FLOP *** [Tc 6s 5c]
+mino73 bets 1278
+Yohan evan calls 1278
+*** TURN *** [Tc 6s 5c][5d]
+mino73 bets 2172
+Yohan evan raises 13742 to 15914 and is all-in
+mino73 calls 13742
+*** RIVER *** [Tc 6s 5c 5d][Ad]
+*** SHOW DOWN ***
+Yohan evan shows [4c 5h] (Trips of 5)
+mino73 shows [6c 6h] (Full of 6 and 5)
+mino73 collected 38034 from pot
+*** SUMMARY ***
+Total pot 38034 | No rake
+Board: [Tc 6s 5c 5d Ad]
+Seat 1: mino73 showed [6c 6h] and won 38034 with Full of 6 and 5
+Seat 2: Yohan evan showed [4c 5h] and lost with Trips of 5
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547948425903603726-24-1669132397 - Holdem no limit (25/100/200) - 2022/11/22 15:53:17 UTC
+Table: 'SAMOURAI(593240472)#0013' 6-max (real money) Seat #4 is the button
+Seat 1: mino73 (47740, 3.37€ bounty)
+Seat 3: iMr.Fish (20193, 2.25€ bounty)
+Seat 4: AgathZepower (23245, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19775, 2.25€ bounty)
+Seat 6: Mlle_relou81 (18457, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Mlle_relou81 posts ante 25
+mino73 posts ante 25
+iMr.Fish posts ante 25
+AgathZepower posts ante 25
+YL_ML_GL_42 posts small blind 100
+Mlle_relou81 posts big blind 200
+Dealt to YL_ML_GL_42 [7h Qd]
+*** PRE-FLOP *** 
+mino73 raises 1300 to 1500
+iMr.Fish folds
+AgathZepower folds
+YL_ML_GL_42 folds
+Mlle_relou81 calls 1300
+*** FLOP *** [8h 3d 8c]
+Mlle_relou81 checks
+mino73 bets 1129
+Mlle_relou81 folds
+mino73 collected 4354 from pot
+*** SUMMARY ***
+Total pot 4354 | No rake
+Board: [8h 3d 8c]
+Seat 1: mino73 won 4354
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547948425903603726-25-1669132451 - Holdem no limit (25/100/200) - 2022/11/22 15:54:11 UTC
+Table: 'SAMOURAI(593240472)#0013' 6-max (real money) Seat #5 is the button
+Seat 1: mino73 (49440, 3.37€ bounty)
+Seat 2: patone82 (20000, 2.25€ bounty)
+Seat 3: iMr.Fish (20168, 2.25€ bounty)
+Seat 4: AgathZepower (23220, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19650, 2.25€ bounty)
+Seat 6: Mlle_relou81 (16932, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Mlle_relou81 posts ante 25
+mino73 posts ante 25
+patone82 posts ante 25
+iMr.Fish posts ante 25
+AgathZepower posts ante 25
+YL_ML_GL_42 posts ante 25
+Mlle_relou81 posts small blind 100
+mino73 posts big blind 200
+Dealt to YL_ML_GL_42 [Jc 6c]
+*** PRE-FLOP *** 
+patone82 folds
+iMr.Fish folds
+AgathZepower folds
+YL_ML_GL_42 raises 400 to 600
+Mlle_relou81 folds
+mino73 folds
+YL_ML_GL_42 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 5: YL_ML_GL_42 (button) won 1050
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547948425903603726-26-1669132479 - Holdem no limit (25/100/200) - 2022/11/22 15:54:39 UTC
+Table: 'SAMOURAI(593240472)#0013' 6-max (real money) Seat #6 is the button
+Seat 1: mino73 (49215, 3.37€ bounty)
+Seat 2: patone82 (19975, 2.25€ bounty)
+Seat 3: iMr.Fish (20143, 2.25€ bounty)
+Seat 4: AgathZepower (23195, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (20075, 2.25€ bounty)
+Seat 6: Mlle_relou81 (16807, 2.25€ bounty)
+*** ANTE/BLINDS ***
+mino73 posts ante 25
+patone82 posts ante 25
+iMr.Fish posts ante 25
+AgathZepower posts ante 25
+YL_ML_GL_42 posts ante 25
+Mlle_relou81 posts ante 25
+mino73 posts small blind 100
+patone82 posts big blind 200
+Dealt to YL_ML_GL_42 [Kc 8h]
+*** PRE-FLOP *** 
+iMr.Fish folds
+AgathZepower raises 218 to 418
+YL_ML_GL_42 folds
+Mlle_relou81 calls 418
+mino73 folds
+patone82 folds
+*** FLOP *** [9h 7c 2s]
+AgathZepower bets 450
+Mlle_relou81 folds
+AgathZepower collected 1736 from pot
+*** SUMMARY ***
+Total pot 1736 | No rake
+Board: [9h 7c 2s]
+Seat 4: AgathZepower won 1736
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547948425903603726-27-1669132498 - Holdem no limit (25/100/200) - 2022/11/22 15:54:58 UTC
+Table: 'SAMOURAI(593240472)#0013' 6-max (real money) Seat #1 is the button
+Seat 1: mino73 (49090, 3.37€ bounty)
+Seat 2: patone82 (19750, 2.25€ bounty)
+Seat 3: iMr.Fish (20118, 2.25€ bounty)
+Seat 4: AgathZepower (24038, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (20050, 2.25€ bounty)
+Seat 6: Mlle_relou81 (16364, 2.25€ bounty)
+*** ANTE/BLINDS ***
+patone82 posts ante 25
+iMr.Fish posts ante 25
+mino73 posts ante 25
+AgathZepower posts ante 25
+YL_ML_GL_42 posts ante 25
+Mlle_relou81 posts ante 25
+patone82 posts small blind 100
+iMr.Fish posts big blind 200
+Dealt to YL_ML_GL_42 [Kh Td]
+*** PRE-FLOP *** 
+AgathZepower raises 218 to 418
+YL_ML_GL_42 calls 418
+Mlle_relou81 folds
+mino73 raises 627 to 1045
+patone82 folds
+iMr.Fish folds
+AgathZepower folds
+YL_ML_GL_42 calls 627
+*** FLOP *** [Qh 5h 5d]
+YL_ML_GL_42 bets 1923
+mino73 calls 1923
+*** TURN *** [Qh 5h 5d][4h]
+YL_ML_GL_42 bets 17057 and is all-in
+mino73 calls 17057
+*** RIVER *** [Qh 5h 5d 4h][2s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kh Td] (One pair : 5)
+mino73 shows [Ts Ah] (One pair : 5)
+mino73 collected 40918 from pot
+*** SUMMARY ***
+Total pot 40918 | No rake
+Board: [Qh 5h 5d 4h 2s]
+Seat 1: mino73 (button) showed [Ts Ah] and won 40918 with One pair : 5
+Seat 5: YL_ML_GL_42 showed [Kh Td] and lost with One pair : 5
+
+

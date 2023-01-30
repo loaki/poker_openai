@@ -1,0 +1,284 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2597077431521116161-1-1669391885 - Holdem no limit (10/20) - 2022/11/25 15:58:05 UTC
+Table: 'Expresso(604679210)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Styleblender (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Lerek1marok1 (500)
+*** ANTE/BLINDS ***
+Lerek1marok1 posts small blind 10
+Styleblender posts big blind 20
+Dealt to YL_ML_GL_42 [Qc Qh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 25 to 45
+Lerek1marok1 folds
+Styleblender calls 25
+*** FLOP *** [5d Ad 2h]
+Styleblender checks
+YL_ML_GL_42 checks
+*** TURN *** [5d Ad 2h][Qs]
+Styleblender checks
+YL_ML_GL_42 bets 25
+Styleblender folds
+YL_ML_GL_42 collected 125 from pot
+*** SUMMARY ***
+Total pot 125 | No rake
+Board: [5d Ad 2h Qs]
+Seat 2: YL_ML_GL_42 (button) won 125
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2597077431521116161-2-1669391919 - Holdem no limit (10/20) - 2022/11/25 15:58:39 UTC
+Table: 'Expresso(604679210)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Styleblender (455)
+Seat 2: YL_ML_GL_42 (555)
+Seat 3: Lerek1marok1 (490)
+*** ANTE/BLINDS ***
+Styleblender posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Js Qc]
+*** PRE-FLOP *** 
+Lerek1marok1 folds
+Styleblender raises 20 to 40
+YL_ML_GL_42 raises 80 to 120
+Styleblender calls 80
+*** FLOP *** [Td 2c As]
+Styleblender checks
+YL_ML_GL_42 checks
+*** TURN *** [Td 2c As][4c]
+Styleblender checks
+YL_ML_GL_42 checks
+*** RIVER *** [Td 2c As 4c][6d]
+Styleblender checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Js Qc] (High card : Ace)
+Styleblender shows [Kd Qh] (High card : Ace)
+Styleblender collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Td 2c As 4c 6d]
+Seat 1: Styleblender (small blind) showed [Kd Qh] and won 240 with High card : Ace
+Seat 2: YL_ML_GL_42 (big blind) showed [Js Qc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2597077431521116161-3-1669391965 - Holdem no limit (10/20) - 2022/11/25 15:59:25 UTC
+Table: 'Expresso(604679210)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Styleblender (575)
+Seat 2: YL_ML_GL_42 (435)
+Seat 3: Lerek1marok1 (490)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Lerek1marok1 posts big blind 20
+Dealt to YL_ML_GL_42 [9c 3c]
+*** PRE-FLOP *** 
+Styleblender folds
+YL_ML_GL_42 raises 40 to 60
+Lerek1marok1 raises 40 to 100
+YL_ML_GL_42 raises 335 to 435 and is all-in
+Lerek1marok1 calls 335
+*** FLOP *** [Jd 3s 6d]
+*** TURN *** [Jd 3s 6d][Kd]
+*** RIVER *** [Jd 3s 6d Kd][Tc]
+*** SHOW DOWN ***
+Lerek1marok1 shows [2s As] (High card : Ace)
+YL_ML_GL_42 shows [9c 3c] (One pair : 3)
+YL_ML_GL_42 collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Board: [Jd 3s 6d Kd Tc]
+Seat 2: YL_ML_GL_42 (small blind) showed [9c 3c] and won 870 with One pair : 3
+Seat 3: Lerek1marok1 (big blind) showed [2s As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2597077431521116161-4-1669392003 - Holdem no limit (15/30) - 2022/11/25 16:00:03 UTC
+Table: 'Expresso(604679210)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Styleblender (575)
+Seat 2: YL_ML_GL_42 (870)
+Seat 3: Lerek1marok1 (55)
+*** ANTE/BLINDS ***
+Lerek1marok1 posts small blind 15
+Styleblender posts big blind 30
+Dealt to YL_ML_GL_42 [Jd Ac]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 75 to 105
+Lerek1marok1 calls 40 and is all-in
+Styleblender folds
+*** FLOP *** [8h 8s 5d]
+*** TURN *** [8h 8s 5d][2h]
+*** RIVER *** [8h 8s 5d 2h][7d]
+*** SHOW DOWN ***
+Lerek1marok1 shows [As 4h] (One pair : 8)
+YL_ML_GL_42 shows [Jd Ac] (One pair : 8)
+YL_ML_GL_42 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [8h 8s 5d 2h 7d]
+Seat 2: YL_ML_GL_42 (button) showed [Jd Ac] and won 190 with One pair : 8
+Seat 3: Lerek1marok1 (small blind) showed [As 4h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2597077431521116161-5-1669392021 - Holdem no limit (15/30) - 2022/11/25 16:00:21 UTC
+Table: 'Expresso(604679210)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Styleblender (545)
+Seat 2: YL_ML_GL_42 (955)
+*** ANTE/BLINDS ***
+Styleblender posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [2h 5c]
+*** PRE-FLOP *** 
+Styleblender folds
+YL_ML_GL_42 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2597077431521116161-6-1669392028 - Holdem no limit (15/30) - 2022/11/25 16:00:28 UTC
+Table: 'Expresso(604679210)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Styleblender (530)
+Seat 2: YL_ML_GL_42 (970)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Styleblender posts big blind 30
+Dealt to YL_ML_GL_42 [Jh 5h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+Styleblender raises 135 to 225
+YL_ML_GL_42 folds
+Styleblender collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Seat 1: Styleblender (big blind) won 315
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2597077431521116161-7-1669392047 - Holdem no limit (15/30) - 2022/11/25 16:00:47 UTC
+Table: 'Expresso(604679210)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Styleblender (620)
+Seat 2: YL_ML_GL_42 (880)
+*** ANTE/BLINDS ***
+Styleblender posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Qd Kc]
+*** PRE-FLOP *** 
+Styleblender raises 45 to 75
+YL_ML_GL_42 raises 150 to 225
+Styleblender calls 150
+*** FLOP *** [4h Qs 4d]
+YL_ML_GL_42 bets 158
+Styleblender calls 158
+*** TURN *** [4h Qs 4d][6h]
+YL_ML_GL_42 bets 497 and is all-in
+Styleblender folds
+YL_ML_GL_42 collected 1263 from pot
+*** SUMMARY ***
+Total pot 1263 | No rake
+Board: [4h Qs 4d 6h]
+Seat 2: YL_ML_GL_42 (big blind) won 1263
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2597077431521116161-8-1669392076 - Holdem no limit (20/40) - 2022/11/25 16:01:16 UTC
+Table: 'Expresso(604679210)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Styleblender (237)
+Seat 2: YL_ML_GL_42 (1263)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Styleblender posts big blind 40
+Dealt to YL_ML_GL_42 [8s 9h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+Styleblender folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: YL_ML_GL_42 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2597077431521116161-9-1669392098 - Holdem no limit (20/40) - 2022/11/25 16:01:38 UTC
+Table: 'Expresso(604679210)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Styleblender (197)
+Seat 2: YL_ML_GL_42 (1303)
+*** ANTE/BLINDS ***
+Styleblender posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [8d 9s]
+*** PRE-FLOP *** 
+Styleblender folds
+YL_ML_GL_42 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2597077431521116161-10-1669392107 - Holdem no limit (20/40) - 2022/11/25 16:01:47 UTC
+Table: 'Expresso(604679210)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Styleblender (177)
+Seat 2: YL_ML_GL_42 (1323)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Styleblender posts big blind 40
+Dealt to YL_ML_GL_42 [6d Ad]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+Styleblender folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: YL_ML_GL_42 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2597077431521116161-11-1669392116 - Holdem no limit (20/40) - 2022/11/25 16:01:56 UTC
+Table: 'Expresso(604679210)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Styleblender (137)
+Seat 2: YL_ML_GL_42 (1363)
+*** ANTE/BLINDS ***
+Styleblender posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [6c As]
+*** PRE-FLOP *** 
+Styleblender folds
+YL_ML_GL_42 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2597077431521116161-12-1669392122 - Holdem no limit (20/40) - 2022/11/25 16:02:02 UTC
+Table: 'Expresso(604679210)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Styleblender (117)
+Seat 2: YL_ML_GL_42 (1383)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Styleblender posts big blind 40
+Dealt to YL_ML_GL_42 [5h Td]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+Styleblender folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: YL_ML_GL_42 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2597077431521116161-13-1669392132 - Holdem no limit (20/40) - 2022/11/25 16:02:12 UTC
+Table: 'Expresso(604679210)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Styleblender (77)
+Seat 2: YL_ML_GL_42 (1423)
+*** ANTE/BLINDS ***
+Styleblender posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [3h Qh]
+*** PRE-FLOP *** 
+Styleblender raises 37 to 77 and is all-in
+YL_ML_GL_42 calls 37
+*** FLOP *** [9s 2c 8c]
+*** TURN *** [9s 2c 8c][3d]
+*** RIVER *** [9s 2c 8c 3d][6h]
+*** SHOW DOWN ***
+Styleblender shows [Qc 4s] (High card : Queen)
+YL_ML_GL_42 shows [3h Qh] (One pair : 3)
+YL_ML_GL_42 collected 154 from pot
+*** SUMMARY ***
+Total pot 154 | No rake
+Board: [9s 2c 8c 3d 6h]
+Seat 1: Styleblender (small blind) (button) showed [Qc 4s] and lost with High card : Queen
+Seat 2: YL_ML_GL_42 (big blind) showed [3h Qh] and won 154 with One pair : 3
+
+

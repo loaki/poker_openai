@@ -1,0 +1,1573 @@
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2551846074364985434-1-1669413665 - Holdem no limit (60/250/500) - 2022/11/25 22:01:05 UTC
+Table: 'ROCKET(594147964)#089' 8-max (real money) Seat #5 is the button
+Seat 1: JH3169 (20000, 2.25€ bounty)
+Seat 2: galop123 (20000, 2.25€ bounty)
+Seat 3: jeycancoon99 (20000, 2.25€ bounty)
+Seat 4: DuTempsDe12h (20000, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (20000, 2.25€ bounty)
+Seat 6: Z-meur (20000, 2.25€ bounty)
+Seat 7: 6eskauxo9 (20000, 2.25€ bounty)
+Seat 8: XXXFernand.6 (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Z-meur posts ante 60
+6eskauxo9 posts ante 60
+JH3169 posts ante 60
+galop123 posts ante 60
+jeycancoon99 posts ante 60
+DuTempsDe12h posts ante 60
+YL_ML_GL_42 posts ante 60
+XXXFernand.6 posts ante 60
+Z-meur posts small blind 250
+6eskauxo9 posts big blind 500
+Dealt to YL_ML_GL_42 [As Kd]
+*** PRE-FLOP *** 
+XXXFernand.6 folds
+JH3169 folds
+galop123 folds
+jeycancoon99 calls 500
+DuTempsDe12h folds
+YL_ML_GL_42 raises 1000 to 1500
+Z-meur folds
+6eskauxo9 folds
+jeycancoon99 calls 1000
+*** FLOP *** [7c 9h Qs]
+jeycancoon99 checks
+YL_ML_GL_42 bets 2750
+jeycancoon99 folds
+YL_ML_GL_42 collected 6980 from pot
+*** SUMMARY ***
+Total pot 6980 | No rake
+Board: [7c 9h Qs]
+Seat 5: YL_ML_GL_42 (button) won 6980
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2551846074364985434-2-1669413745 - Holdem no limit (70/300/600) - 2022/11/25 22:02:25 UTC
+Table: 'ROCKET(594147964)#089' 8-max (real money) Seat #6 is the button
+Seat 1: JH3169 (19940, 2.25€ bounty)
+Seat 2: galop123 (19940, 2.25€ bounty)
+Seat 3: jeycancoon99 (18440, 2.25€ bounty)
+Seat 4: DuTempsDe12h (19940, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (22670, 2.25€ bounty)
+Seat 6: Z-meur (19690, 2.25€ bounty)
+Seat 7: 6eskauxo9 (19440, 2.25€ bounty)
+Seat 8: XXXFernand.6 (19940, 2.25€ bounty)
+*** ANTE/BLINDS ***
+6eskauxo9 posts ante 70
+XXXFernand.6 posts ante 70
+JH3169 posts ante 70
+galop123 posts ante 70
+jeycancoon99 posts ante 70
+DuTempsDe12h posts ante 70
+YL_ML_GL_42 posts ante 70
+Z-meur posts ante 70
+6eskauxo9 posts small blind 300
+XXXFernand.6 posts big blind 600
+Dealt to YL_ML_GL_42 [Kc Tc]
+*** PRE-FLOP *** 
+JH3169 folds
+galop123 folds
+jeycancoon99 folds
+DuTempsDe12h folds
+YL_ML_GL_42 raises 1200 to 1800
+Z-meur folds
+6eskauxo9 folds
+XXXFernand.6 folds
+YL_ML_GL_42 collected 3260 from pot
+*** SUMMARY ***
+Total pot 3260 | No rake
+Seat 5: YL_ML_GL_42 won 3260
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2551846074364985434-3-1669413798 - Holdem no limit (70/300/600) - 2022/11/25 22:03:18 UTC
+Table: 'ROCKET(594147964)#089' 8-max (real money) Seat #7 is the button
+Seat 1: JH3169 (19870, 2.25€ bounty)
+Seat 2: galop123 (19870, 2.25€ bounty)
+Seat 3: jeycancoon99 (18370, 2.25€ bounty)
+Seat 4: DuTempsDe12h (19870, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (24060, 2.25€ bounty)
+Seat 6: Z-meur (19620, 2.25€ bounty)
+Seat 7: 6eskauxo9 (19070, 2.25€ bounty)
+Seat 8: XXXFernand.6 (19270, 2.25€ bounty)
+*** ANTE/BLINDS ***
+XXXFernand.6 posts ante 70
+JH3169 posts ante 70
+galop123 posts ante 70
+jeycancoon99 posts ante 70
+DuTempsDe12h posts ante 70
+YL_ML_GL_42 posts ante 70
+Z-meur posts ante 70
+6eskauxo9 posts ante 70
+XXXFernand.6 posts small blind 300
+JH3169 posts big blind 600
+Dealt to YL_ML_GL_42 [Qd Kd]
+*** PRE-FLOP *** 
+galop123 calls 600
+jeycancoon99 folds
+DuTempsDe12h folds
+YL_ML_GL_42 raises 1200 to 1800
+Z-meur folds
+6eskauxo9 folds
+XXXFernand.6 folds
+JH3169 calls 1200
+galop123 calls 1200
+*** FLOP *** [Th 8h Js]
+JH3169 checks
+galop123 bets 2191
+YL_ML_GL_42 calls 2191
+JH3169 folds
+*** TURN *** [Th 8h Js][3h]
+galop123 checks
+YL_ML_GL_42 bets 5321
+galop123 calls 5321
+*** RIVER *** [Th 8h Js 3h][Ah]
+galop123 checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+galop123 shows [8d Jd] (Two pairs : Jacks and 8)
+YL_ML_GL_42 shows [Qd Kd] (Straight Ace high)
+YL_ML_GL_42 collected 21284 from pot
+*** SUMMARY ***
+Total pot 21284 | No rake
+Board: [Th 8h Js 3h Ah]
+Seat 2: galop123 showed [8d Jd] and lost with Two pairs : Jacks and 8
+Seat 5: YL_ML_GL_42 showed [Qd Kd] and won 21284 with Straight Ace high
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2551846074364985434-4-1669413895 - Holdem no limit (80/350/700) - 2022/11/25 22:04:55 UTC
+Table: 'ROCKET(594147964)#089' 8-max (real money) Seat #8 is the button
+Seat 1: JH3169 (18000, 2.25€ bounty)
+Seat 2: galop123 (10488, 2.25€ bounty)
+Seat 3: jeycancoon99 (18300, 2.25€ bounty)
+Seat 4: DuTempsDe12h (19800, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (35962, 2.25€ bounty)
+Seat 6: Z-meur (19550, 2.25€ bounty)
+Seat 7: 6eskauxo9 (19000, 2.25€ bounty)
+Seat 8: XXXFernand.6 (18900, 2.25€ bounty)
+*** ANTE/BLINDS ***
+JH3169 posts ante 80
+galop123 posts ante 80
+jeycancoon99 posts ante 80
+DuTempsDe12h posts ante 80
+YL_ML_GL_42 posts ante 80
+Z-meur posts ante 80
+6eskauxo9 posts ante 80
+XXXFernand.6 posts ante 80
+JH3169 posts small blind 350
+galop123 posts big blind 700
+Dealt to YL_ML_GL_42 [7d 6h]
+*** PRE-FLOP *** 
+jeycancoon99 calls 700
+DuTempsDe12h folds
+YL_ML_GL_42 folds
+Z-meur calls 700
+6eskauxo9 folds
+XXXFernand.6 folds
+JH3169 raises 17220 to 17920 and is all-in
+galop123 calls 9708 and is all-in
+jeycancoon99 folds
+Z-meur calls 17220
+*** FLOP *** [Jc 9d 8s]
+*** TURN *** [Jc 9d 8s][8c]
+*** RIVER *** [Jc 9d 8s 8c][5d]
+*** SHOW DOWN ***
+JH3169 shows [Ts Td] (Two pairs : Tens and 8)
+galop123 shows [Qh 6c] (One pair : 8)
+Z-meur shows [Jd Qd] (Two pairs : Jacks and 8)
+Z-meur collected 47588 from pot
+*** SUMMARY ***
+Total pot 47588 | No rake
+Board: [Jc 9d 8s 8c 5d]
+Seat 1: JH3169 (small blind) showed [Ts Td] and lost with Two pairs : Tens and 8
+Seat 2: galop123 (big blind) showed [Qh 6c] and lost with One pair : 8
+Seat 6: Z-meur showed [Jd Qd] and won 47588 with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2551846074364985434-5-1669413965 - Holdem no limit (80/350/700) - 2022/11/25 22:06:05 UTC
+Table: 'ROCKET(594147964)#089' 8-max (real money) Seat #1 is the button
+Seat 3: jeycancoon99 (17520, 2.25€ bounty)
+Seat 4: DuTempsDe12h (19720, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (35882, 2.25€ bounty)
+Seat 6: Z-meur (49138, 4.49€ bounty)
+Seat 7: 6eskauxo9 (18920, 2.25€ bounty)
+Seat 8: XXXFernand.6 (18820, 2.25€ bounty)
+*** ANTE/BLINDS ***
+jeycancoon99 posts ante 80
+DuTempsDe12h posts ante 80
+YL_ML_GL_42 posts ante 80
+Z-meur posts ante 80
+6eskauxo9 posts ante 80
+XXXFernand.6 posts ante 80
+jeycancoon99 posts big blind 700
+Dealt to YL_ML_GL_42 [5c 4h]
+*** PRE-FLOP *** 
+DuTempsDe12h folds
+YL_ML_GL_42 folds
+Z-meur folds
+6eskauxo9 folds
+XXXFernand.6 folds
+jeycancoon99 collected 1180 from pot
+*** SUMMARY ***
+Total pot 1180 | No rake
+Seat 3: jeycancoon99 (big blind) won 1180
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2551846074364985434-6-1669413979 - Holdem no limit (80/350/700) - 2022/11/25 22:06:19 UTC
+Table: 'ROCKET(594147964)#089' 8-max (real money) Seat #2 is the button
+Seat 2: nounoursse51 (27100, 2.25€ bounty)
+Seat 3: jeycancoon99 (17920, 2.25€ bounty)
+Seat 4: DuTempsDe12h (19640, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (35802, 2.25€ bounty)
+Seat 6: Z-meur (49058, 4.49€ bounty)
+Seat 7: 6eskauxo9 (18840, 2.25€ bounty)
+Seat 8: XXXFernand.6 (18740, 2.25€ bounty)
+*** ANTE/BLINDS ***
+jeycancoon99 posts ante 80
+DuTempsDe12h posts ante 80
+YL_ML_GL_42 posts ante 80
+Z-meur posts ante 80
+6eskauxo9 posts ante 80
+XXXFernand.6 posts ante 80
+jeycancoon99 posts small blind 350
+DuTempsDe12h posts big blind 700
+Dealt to YL_ML_GL_42 [6d Td]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Z-meur folds
+6eskauxo9 calls 700
+XXXFernand.6 folds
+jeycancoon99 folds
+DuTempsDe12h raises 18860 to 19560 and is all-in
+6eskauxo9 folds
+DuTempsDe12h collected 21090 from pot
+*** SUMMARY ***
+Total pot 21090 | No rake
+Seat 4: DuTempsDe12h (big blind) won 21090
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2551846074364985434-7-1669414011 - Holdem no limit (100/400/800) - 2022/11/25 22:06:51 UTC
+Table: 'ROCKET(594147964)#089' 8-max (real money) Seat #3 is the button
+Seat 1: Longiforme (20000, 2.25€ bounty)
+Seat 2: nounoursse51 (27100, 2.25€ bounty)
+Seat 3: jeycancoon99 (17490, 2.25€ bounty)
+Seat 4: DuTempsDe12h (21090, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (35722, 2.25€ bounty)
+Seat 6: Z-meur (48978, 4.49€ bounty)
+Seat 7: 6eskauxo9 (18060, 2.25€ bounty)
+Seat 8: XXXFernand.6 (18660, 2.25€ bounty)
+*** ANTE/BLINDS ***
+DuTempsDe12h posts ante 100
+YL_ML_GL_42 posts ante 100
+Longiforme posts ante 100
+nounoursse51 posts ante 100
+jeycancoon99 posts ante 100
+Z-meur posts ante 100
+6eskauxo9 posts ante 100
+XXXFernand.6 posts ante 100
+DuTempsDe12h posts small blind 400
+YL_ML_GL_42 posts big blind 800
+Dealt to YL_ML_GL_42 [7d Jh]
+*** PRE-FLOP *** 
+Z-meur folds
+6eskauxo9 folds
+XXXFernand.6 raises 800 to 1600
+Longiforme calls 1600
+nounoursse51 folds
+jeycancoon99 folds
+DuTempsDe12h folds
+YL_ML_GL_42 calls 800
+*** FLOP *** [Qc 3h Td]
+YL_ML_GL_42 checks
+XXXFernand.6 bets 1600
+Longiforme calls 1600
+YL_ML_GL_42 folds
+*** TURN *** [Qc 3h Td][5s]
+XXXFernand.6 bets 3220
+Longiforme calls 3220
+*** RIVER *** [Qc 3h Td 5s][9d]
+XXXFernand.6 checks
+Longiforme bets 7507
+XXXFernand.6 folds
+Longiforme collected 23147 from pot
+*** SUMMARY ***
+Total pot 23147 | No rake
+Board: [Qc 3h Td 5s 9d]
+Seat 1: Longiforme won 23147
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2551846074364985434-8-1669414090 - Holdem no limit (100/400/800) - 2022/11/25 22:08:10 UTC
+Table: 'ROCKET(594147964)#089' 8-max (real money) Seat #4 is the button
+Seat 1: Longiforme (29120, 2.25€ bounty)
+Seat 2: nounoursse51 (27000, 2.25€ bounty)
+Seat 3: jeycancoon99 (17390, 2.25€ bounty)
+Seat 4: DuTempsDe12h (20590, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (34022, 2.25€ bounty)
+Seat 6: Z-meur (48878, 4.49€ bounty)
+Seat 7: 6eskauxo9 (17960, 2.25€ bounty)
+Seat 8: XXXFernand.6 (12140, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 100
+Z-meur posts ante 100
+Longiforme posts ante 100
+nounoursse51 posts ante 100
+jeycancoon99 posts ante 100
+DuTempsDe12h posts ante 100
+6eskauxo9 posts ante 100
+XXXFernand.6 posts ante 100
+YL_ML_GL_42 posts small blind 400
+Z-meur posts big blind 800
+Dealt to YL_ML_GL_42 [7d 7c]
+*** PRE-FLOP *** 
+6eskauxo9 folds
+XXXFernand.6 folds
+Longiforme folds
+nounoursse51 folds
+jeycancoon99 raises 1200 to 2000
+DuTempsDe12h folds
+YL_ML_GL_42 calls 1600
+Z-meur folds
+*** FLOP *** [3s 8d 5s]
+YL_ML_GL_42 bets 3640
+jeycancoon99 raises 11650 to 15290 and is all-in
+YL_ML_GL_42 calls 11650
+*** TURN *** [3s 8d 5s][Td]
+*** RIVER *** [3s 8d 5s Td][3d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7d 7c] (Two pairs : 7 and 3)
+jeycancoon99 shows [Ac As] (Two pairs : Aces and 3)
+jeycancoon99 collected 36180 from pot
+*** SUMMARY ***
+Total pot 36180 | No rake
+Board: [3s 8d 5s Td 3d]
+Seat 3: jeycancoon99 showed [Ac As] and won 36180 with Two pairs : Aces and 3
+Seat 5: YL_ML_GL_42 (small blind) showed [7d 7c] and lost with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2551846074364985434-9-1669414145 - Holdem no limit (120/500/1000) - 2022/11/25 22:09:05 UTC
+Table: 'ROCKET(594147964)#089' 8-max (real money) Seat #5 is the button
+Seat 1: Longiforme (29020, 2.25€ bounty)
+Seat 2: nounoursse51 (26900, 2.25€ bounty)
+Seat 3: jeycancoon99 (36180, 2.25€ bounty)
+Seat 4: DuTempsDe12h (20490, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (16632, 2.25€ bounty)
+Seat 6: Z-meur (47978, 4.49€ bounty)
+Seat 7: 6eskauxo9 (17860, 2.25€ bounty)
+Seat 8: XXXFernand.6 (12040, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Z-meur posts ante 120
+6eskauxo9 posts ante 120
+Longiforme posts ante 120
+nounoursse51 posts ante 120
+jeycancoon99 posts ante 120
+DuTempsDe12h posts ante 120
+YL_ML_GL_42 posts ante 120
+XXXFernand.6 posts ante 120
+Z-meur posts small blind 500
+6eskauxo9 posts big blind 1000
+Dealt to YL_ML_GL_42 [9s 5d]
+*** PRE-FLOP *** 
+XXXFernand.6 folds
+Longiforme folds
+nounoursse51 folds
+jeycancoon99 calls 1000
+DuTempsDe12h folds
+YL_ML_GL_42 folds
+Z-meur raises 2000 to 3000
+6eskauxo9 calls 2000
+jeycancoon99 folds
+*** FLOP *** [9d 5s 2d]
+Z-meur bets 5174
+6eskauxo9 folds
+Z-meur collected 13134 from pot
+*** SUMMARY ***
+Total pot 13134 | No rake
+Board: [9d 5s 2d]
+Seat 6: Z-meur (small blind) won 13134
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2551846074364985434-10-1669414184 - Holdem no limit (120/500/1000) - 2022/11/25 22:09:44 UTC
+Table: 'ROCKET(594147964)#089' 8-max (real money) Seat #6 is the button
+Seat 1: Longiforme (28900, 2.25€ bounty)
+Seat 2: nounoursse51 (26780, 2.25€ bounty)
+Seat 3: jeycancoon99 (35060, 2.25€ bounty)
+Seat 4: DuTempsDe12h (20370, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (16512, 2.25€ bounty)
+Seat 6: Z-meur (52818, 4.49€ bounty)
+Seat 7: 6eskauxo9 (14740, 2.25€ bounty)
+Seat 8: XXXFernand.6 (11920, 2.25€ bounty)
+*** ANTE/BLINDS ***
+6eskauxo9 posts ante 120
+XXXFernand.6 posts ante 120
+Longiforme posts ante 120
+nounoursse51 posts ante 120
+jeycancoon99 posts ante 120
+DuTempsDe12h posts ante 120
+YL_ML_GL_42 posts ante 120
+Z-meur posts ante 120
+6eskauxo9 posts small blind 500
+XXXFernand.6 posts big blind 1000
+Dealt to YL_ML_GL_42 [4d Jc]
+*** PRE-FLOP *** 
+Longiforme folds
+nounoursse51 folds
+jeycancoon99 folds
+DuTempsDe12h folds
+YL_ML_GL_42 folds
+Z-meur folds
+6eskauxo9 folds
+XXXFernand.6 collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Seat 8: XXXFernand.6 (big blind) won 2460
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2551846074364985434-11-1669414211 - Holdem no limit (120/500/1000) - 2022/11/25 22:10:11 UTC
+Table: 'ROCKET(594147964)#089' 8-max (real money) Seat #7 is the button
+Seat 1: Longiforme (28780, 2.25€ bounty)
+Seat 2: nounoursse51 (26660, 2.25€ bounty)
+Seat 3: jeycancoon99 (34940, 2.25€ bounty)
+Seat 4: DuTempsDe12h (20250, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (16392, 2.25€ bounty)
+Seat 6: Z-meur (52698, 4.49€ bounty)
+Seat 7: 6eskauxo9 (14120, 2.25€ bounty)
+Seat 8: XXXFernand.6 (13260, 2.25€ bounty)
+*** ANTE/BLINDS ***
+XXXFernand.6 posts ante 120
+Longiforme posts ante 120
+nounoursse51 posts ante 120
+jeycancoon99 posts ante 120
+DuTempsDe12h posts ante 120
+YL_ML_GL_42 posts ante 120
+Z-meur posts ante 120
+6eskauxo9 posts ante 120
+XXXFernand.6 posts small blind 500
+Longiforme posts big blind 1000
+Dealt to YL_ML_GL_42 [Ks 7c]
+*** PRE-FLOP *** 
+nounoursse51 folds
+jeycancoon99 calls 1000
+DuTempsDe12h folds
+YL_ML_GL_42 folds
+Z-meur folds
+6eskauxo9 calls 1000
+XXXFernand.6 raises 12140 to 13140 and is all-in
+Longiforme folds
+jeycancoon99 raises 12140 to 25280
+6eskauxo9 folds
+*** FLOP *** [8c 4c 9d]
+*** TURN *** [8c 4c 9d][7d]
+*** RIVER *** [8c 4c 9d 7d][4d]
+*** SHOW DOWN ***
+jeycancoon99 shows [5h Ad] (One pair : 4)
+XXXFernand.6 shows [6c 6s] (Two pairs : 6 and 4)
+XXXFernand.6 collected 29240 from main pot
+jeycancoon99 collected 12140 from side pot 1
+*** SUMMARY ***
+Total pot 41380 | No rake
+Board: [8c 4c 9d 7d 4d]
+Seat 3: jeycancoon99 showed [5h Ad] and won 12140 with One pair : 4
+Seat 8: XXXFernand.6 (small blind) showed [6c 6s] and won 29240 with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2551846074364985434-12-1669414261 - Holdem no limit (120/500/1000) - 2022/11/25 22:11:01 UTC
+Table: 'ROCKET(594147964)#089' 8-max (real money) Seat #8 is the button
+Seat 1: Longiforme (27660, 2.25€ bounty)
+Seat 2: nounoursse51 (26540, 2.25€ bounty)
+Seat 3: jeycancoon99 (21680, 2.25€ bounty)
+Seat 4: DuTempsDe12h (20130, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (16272, 2.25€ bounty)
+Seat 6: Z-meur (52578, 4.49€ bounty)
+Seat 7: 6eskauxo9 (13000, 2.25€ bounty)
+Seat 8: XXXFernand.6 (29240, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Longiforme posts ante 120
+nounoursse51 posts ante 120
+jeycancoon99 posts ante 120
+DuTempsDe12h posts ante 120
+YL_ML_GL_42 posts ante 120
+Z-meur posts ante 120
+6eskauxo9 posts ante 120
+XXXFernand.6 posts ante 120
+Longiforme posts small blind 500
+nounoursse51 posts big blind 1000
+Dealt to YL_ML_GL_42 [5h 8d]
+*** PRE-FLOP *** 
+jeycancoon99 folds
+DuTempsDe12h folds
+YL_ML_GL_42 folds
+Z-meur raises 1000 to 2000
+6eskauxo9 folds
+XXXFernand.6 raises 27120 to 29120 and is all-in
+Longiforme folds
+nounoursse51 folds
+Z-meur folds
+XXXFernand.6 collected 33580 from pot
+*** SUMMARY ***
+Total pot 33580 | No rake
+Seat 8: XXXFernand.6 (button) won 33580
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2551846074364985429-12-1669414343 - Holdem no limit (140/600/1200) - 2022/11/25 22:12:23 UTC
+Table: 'ROCKET(594147964)#084' 8-max (real money) Seat #7 is the button
+Seat 1: YL_ML_GL_42 (16152, 2.25€ bounty)
+Seat 2: muuuuuge (21899, 2.25€ bounty)
+Seat 3: Lisalou57 (76583, 5.61€ bounty)
+Seat 4: satanetmenut (40428, 3.37€ bounty)
+Seat 5: Alban.06 (23840, 2.25€ bounty)
+Seat 6: SnAAp DoGG (59511, 3.37€ bounty)
+Seat 7: Kova66 (20597, 3.37€ bounty)
+Seat 8: Jejedebuzet (16690, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Jejedebuzet posts ante 140
+YL_ML_GL_42 posts ante 140
+muuuuuge posts ante 140
+Lisalou57 posts ante 140
+satanetmenut posts ante 140
+Alban.06 posts ante 140
+SnAAp DoGG posts ante 140
+Kova66 posts ante 140
+Jejedebuzet posts small blind 600
+YL_ML_GL_42 posts big blind 1200
+Dealt to YL_ML_GL_42 [3h 9s]
+*** PRE-FLOP *** 
+muuuuuge folds
+Lisalou57 calls 1200
+satanetmenut folds
+Alban.06 calls 1200
+SnAAp DoGG folds
+Kova66 calls 1200
+Jejedebuzet calls 600
+YL_ML_GL_42 checks
+*** FLOP *** [7s Kd 7d]
+Jejedebuzet checks
+YL_ML_GL_42 checks
+Lisalou57 checks
+Alban.06 bets 2492
+Kova66 folds
+Jejedebuzet raises 12858 to 15350 and is all-in
+YL_ML_GL_42 folds
+Lisalou57 folds
+Alban.06 raises 7150 to 22500 and is all-in
+*** TURN *** [7s Kd 7d][Qc]
+*** RIVER *** [7s Kd 7d Qc][8h]
+*** SHOW DOWN ***
+Alban.06 shows [Kh 5h] (Two pairs : Kings and 7)
+Jejedebuzet shows [8s Kc] (Two pairs : Kings and 8)
+Jejedebuzet collected 37820 from main pot
+Alban.06 collected 7150 from side pot 1
+*** SUMMARY ***
+Total pot 44970 | No rake
+Board: [7s Kd 7d Qc 8h]
+Seat 5: Alban.06 showed [Kh 5h] and won 7150 with Two pairs : Kings and 7
+Seat 8: Jejedebuzet (small blind) showed [8s Kc] and won 37820 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2551846074364985353-34-1669414557 - Holdem no limit (160/700/1400) - 2022/11/25 22:15:57 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #3 is the button
+Seat 1: Kittbul (25640, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (14812, 2.25€ bounty)
+Seat 3: CLENFER (33165, 3.37€ bounty)
+Seat 4: AsapChris21 (32680, 2.25€ bounty)
+Seat 5: MaxTudo (36670, 2.25€ bounty)
+Seat 6: iamrusskofff (42269, 4.49€ bounty)
+Seat 7: gayitch 92 (26956, 3.37€ bounty)
+Seat 8: Wilitoo95 (27310, 2.25€ bounty)
+*** ANTE/BLINDS ***
+AsapChris21 posts ante 160
+MaxTudo posts ante 160
+Kittbul posts ante 160
+YL_ML_GL_42 posts ante 160
+CLENFER posts ante 160
+iamrusskofff posts ante 160
+gayitch 92 posts ante 160
+Wilitoo95 posts ante 160
+AsapChris21 posts small blind 700
+MaxTudo posts big blind 1400
+Dealt to YL_ML_GL_42 [9h 5s]
+*** PRE-FLOP *** 
+iamrusskofff folds
+gayitch 92 folds
+Wilitoo95 raises 25750 to 27150 and is all-in
+Kittbul folds
+YL_ML_GL_42 folds
+CLENFER folds
+AsapChris21 folds
+MaxTudo folds
+Wilitoo95 collected 30530 from pot
+*** SUMMARY ***
+Total pot 30530 | No rake
+Seat 8: Wilitoo95 won 30530
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2551846074364985353-35-1669414586 - Holdem no limit (160/700/1400) - 2022/11/25 22:16:26 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #4 is the button
+Seat 1: Kittbul (25480, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (14652, 2.25€ bounty)
+Seat 3: CLENFER (33005, 3.37€ bounty)
+Seat 4: AsapChris21 (31820, 2.25€ bounty)
+Seat 5: MaxTudo (35110, 2.25€ bounty)
+Seat 6: iamrusskofff (42109, 4.49€ bounty)
+Seat 7: gayitch 92 (26796, 3.37€ bounty)
+Seat 8: Wilitoo95 (30530, 2.25€ bounty)
+*** ANTE/BLINDS ***
+MaxTudo posts ante 160
+iamrusskofff posts ante 160
+Kittbul posts ante 160
+YL_ML_GL_42 posts ante 160
+CLENFER posts ante 160
+AsapChris21 posts ante 160
+gayitch 92 posts ante 160
+Wilitoo95 posts ante 160
+MaxTudo posts small blind 700
+iamrusskofff posts big blind 1400
+Dealt to YL_ML_GL_42 [Ad 7c]
+*** PRE-FLOP *** 
+gayitch 92 folds
+Wilitoo95 folds
+Kittbul folds
+YL_ML_GL_42 raises 13092 to 14492 and is all-in
+CLENFER folds
+AsapChris21 folds
+MaxTudo folds
+iamrusskofff raises 27457 to 41949 and is all-in
+*** FLOP *** [2h 6s 9d]
+*** TURN *** [2h 6s 9d][7h]
+*** RIVER *** [2h 6s 9d 7h][Jd]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ad 7c] (One pair : 7)
+iamrusskofff shows [Qc Ah] (High card : Ace)
+iamrusskofff collected 27457 from side pot 1
+YL_ML_GL_42 collected 30964 from main pot
+*** SUMMARY ***
+Total pot 58421 | No rake
+Board: [2h 6s 9d 7h Jd]
+Seat 2: YL_ML_GL_42 showed [Ad 7c] and won 30964 with One pair : 7
+Seat 6: iamrusskofff (big blind) showed [Qc Ah] and won 27457 with High card : Ace
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2551846074364985353-36-1669414618 - Holdem no limit (200/800/1600) - 2022/11/25 22:16:58 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #5 is the button
+Seat 1: Kittbul (25320, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (30964, 2.25€ bounty)
+Seat 3: CLENFER (32845, 3.37€ bounty)
+Seat 4: AsapChris21 (31660, 2.25€ bounty)
+Seat 5: MaxTudo (34250, 2.25€ bounty)
+Seat 6: iamrusskofff (27457, 4.49€ bounty)
+Seat 7: gayitch 92 (26636, 3.37€ bounty)
+Seat 8: Wilitoo95 (30370, 2.25€ bounty)
+*** ANTE/BLINDS ***
+iamrusskofff posts ante 200
+gayitch 92 posts ante 200
+Kittbul posts ante 200
+YL_ML_GL_42 posts ante 200
+CLENFER posts ante 200
+AsapChris21 posts ante 200
+MaxTudo posts ante 200
+Wilitoo95 posts ante 200
+iamrusskofff posts small blind 800
+gayitch 92 posts big blind 1600
+Dealt to YL_ML_GL_42 [8s Td]
+*** PRE-FLOP *** 
+Wilitoo95 folds
+Kittbul folds
+YL_ML_GL_42 folds
+CLENFER folds
+AsapChris21 raises 2400 to 4000
+MaxTudo folds
+iamrusskofff folds
+gayitch 92 folds
+AsapChris21 collected 8000 from pot
+*** SUMMARY ***
+Total pot 8000 | No rake
+Seat 4: AsapChris21 won 8000
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2551846074364985353-37-1669414679 - Holdem no limit (200/800/1600) - 2022/11/25 22:17:59 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #6 is the button
+Seat 1: Kittbul (25120, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (30764, 2.25€ bounty)
+Seat 3: CLENFER (32645, 3.37€ bounty)
+Seat 4: AsapChris21 (35460, 2.25€ bounty)
+Seat 5: MaxTudo (34050, 2.25€ bounty)
+Seat 6: iamrusskofff (26457, 4.49€ bounty)
+Seat 7: gayitch 92 (24836, 3.37€ bounty)
+Seat 8: Wilitoo95 (30170, 2.25€ bounty)
+*** ANTE/BLINDS ***
+gayitch 92 posts ante 200
+Wilitoo95 posts ante 200
+Kittbul posts ante 200
+YL_ML_GL_42 posts ante 200
+CLENFER posts ante 200
+AsapChris21 posts ante 200
+MaxTudo posts ante 200
+iamrusskofff posts ante 200
+gayitch 92 posts small blind 800
+Wilitoo95 posts big blind 1600
+Dealt to YL_ML_GL_42 [Qh 4d]
+*** PRE-FLOP *** 
+Kittbul folds
+YL_ML_GL_42 folds
+CLENFER folds
+AsapChris21 folds
+MaxTudo folds
+iamrusskofff folds
+gayitch 92 folds
+Wilitoo95 collected 4000 from pot
+*** SUMMARY ***
+Total pot 4000 | No rake
+Seat 8: Wilitoo95 (big blind) won 4000
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2551846074364985353-38-1669414697 - Holdem no limit (200/800/1600) - 2022/11/25 22:18:17 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #7 is the button
+Seat 1: Kittbul (24920, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (30564, 2.25€ bounty)
+Seat 3: CLENFER (32445, 3.37€ bounty)
+Seat 4: AsapChris21 (35260, 2.25€ bounty)
+Seat 5: MaxTudo (33850, 2.25€ bounty)
+Seat 6: iamrusskofff (26257, 4.49€ bounty)
+Seat 7: gayitch 92 (23836, 3.37€ bounty)
+Seat 8: Wilitoo95 (32370, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Wilitoo95 posts ante 200
+Kittbul posts ante 200
+YL_ML_GL_42 posts ante 200
+CLENFER posts ante 200
+AsapChris21 posts ante 200
+MaxTudo posts ante 200
+iamrusskofff posts ante 200
+gayitch 92 posts ante 200
+Wilitoo95 posts small blind 800
+Kittbul posts big blind 1600
+Dealt to YL_ML_GL_42 [6s 9c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+CLENFER raises 1600 to 3200
+AsapChris21 folds
+MaxTudo folds
+iamrusskofff folds
+gayitch 92 folds
+Wilitoo95 folds
+Kittbul calls 1600
+*** FLOP *** [Ks Td 3h]
+Kittbul checks
+CLENFER bets 2400
+Kittbul folds
+CLENFER collected 11200 from pot
+*** SUMMARY ***
+Total pot 11200 | No rake
+Board: [Ks Td 3h]
+Seat 3: CLENFER won 11200
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2551846074364985353-39-1669414752 - Holdem no limit (250/1000/2000) - 2022/11/25 22:19:12 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #8 is the button
+Seat 1: Kittbul (21520, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (30364, 2.25€ bounty)
+Seat 3: CLENFER (37845, 3.37€ bounty)
+Seat 4: AsapChris21 (35060, 2.25€ bounty)
+Seat 5: MaxTudo (33650, 2.25€ bounty)
+Seat 6: iamrusskofff (26057, 4.49€ bounty)
+Seat 7: gayitch 92 (23636, 3.37€ bounty)
+Seat 8: Wilitoo95 (31370, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Kittbul posts ante 250
+YL_ML_GL_42 posts ante 250
+CLENFER posts ante 250
+AsapChris21 posts ante 250
+MaxTudo posts ante 250
+iamrusskofff posts ante 250
+gayitch 92 posts ante 250
+Wilitoo95 posts ante 250
+Kittbul posts small blind 1000
+YL_ML_GL_42 posts big blind 2000
+Dealt to YL_ML_GL_42 [9s Th]
+*** PRE-FLOP *** 
+CLENFER folds
+AsapChris21 folds
+MaxTudo folds
+iamrusskofff folds
+gayitch 92 folds
+Wilitoo95 raises 2000 to 4000
+Kittbul folds
+YL_ML_GL_42 calls 2000
+*** FLOP *** [4d Kd Qh]
+YL_ML_GL_42 checks
+Wilitoo95 bets 6000
+YL_ML_GL_42 folds
+Wilitoo95 collected 17000 from pot
+*** SUMMARY ***
+Total pot 17000 | No rake
+Board: [4d Kd Qh]
+Seat 8: Wilitoo95 (button) won 17000
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2551846074364985353-40-1669414788 - Holdem no limit (250/1000/2000) - 2022/11/25 22:19:48 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #1 is the button
+Seat 1: Kittbul (20270, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (26114, 2.25€ bounty)
+Seat 3: CLENFER (37595, 3.37€ bounty)
+Seat 4: AsapChris21 (34810, 2.25€ bounty)
+Seat 5: MaxTudo (33400, 2.25€ bounty)
+Seat 6: iamrusskofff (25807, 4.49€ bounty)
+Seat 7: gayitch 92 (23386, 3.37€ bounty)
+Seat 8: Wilitoo95 (38120, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 250
+CLENFER posts ante 250
+Kittbul posts ante 250
+AsapChris21 posts ante 250
+MaxTudo posts ante 250
+iamrusskofff posts ante 250
+gayitch 92 posts ante 250
+Wilitoo95 posts ante 250
+YL_ML_GL_42 posts small blind 1000
+CLENFER posts big blind 2000
+Dealt to YL_ML_GL_42 [Qh 7s]
+*** PRE-FLOP *** 
+AsapChris21 raises 32560 to 34560 and is all-in
+MaxTudo folds
+iamrusskofff folds
+gayitch 92 folds
+Wilitoo95 folds
+Kittbul folds
+YL_ML_GL_42 folds
+CLENFER folds
+AsapChris21 collected 39560 from pot
+*** SUMMARY ***
+Total pot 39560 | No rake
+Seat 4: AsapChris21 won 39560
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2551846074364985353-41-1669414821 - Holdem no limit (250/1000/2000) - 2022/11/25 22:20:21 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #2 is the button
+Seat 1: Kittbul (20020, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (24864, 2.25€ bounty)
+Seat 3: CLENFER (35345, 3.37€ bounty)
+Seat 4: AsapChris21 (39560, 2.25€ bounty)
+Seat 5: MaxTudo (33150, 2.25€ bounty)
+Seat 6: iamrusskofff (25557, 4.49€ bounty)
+Seat 7: gayitch 92 (23136, 3.37€ bounty)
+Seat 8: Wilitoo95 (37870, 2.25€ bounty)
+*** ANTE/BLINDS ***
+CLENFER posts ante 250
+AsapChris21 posts ante 250
+Kittbul posts ante 250
+YL_ML_GL_42 posts ante 250
+MaxTudo posts ante 250
+iamrusskofff posts ante 250
+gayitch 92 posts ante 250
+Wilitoo95 posts ante 250
+CLENFER posts small blind 1000
+AsapChris21 posts big blind 2000
+Dealt to YL_ML_GL_42 [6c 4c]
+*** PRE-FLOP *** 
+MaxTudo folds
+iamrusskofff folds
+gayitch 92 folds
+Wilitoo95 folds
+Kittbul folds
+YL_ML_GL_42 folds
+CLENFER folds
+AsapChris21 collected 5000 from pot
+*** SUMMARY ***
+Total pot 5000 | No rake
+Seat 4: AsapChris21 (big blind) won 5000
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2551846074364985353-42-1669414873 - Holdem no limit (250/1000/2000) - 2022/11/25 22:21:13 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #3 is the button
+Seat 1: Kittbul (19770, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (24614, 2.25€ bounty)
+Seat 3: CLENFER (34095, 3.37€ bounty)
+Seat 4: AsapChris21 (42310, 2.25€ bounty)
+Seat 5: MaxTudo (32900, 2.25€ bounty)
+Seat 6: iamrusskofff (25307, 4.49€ bounty)
+Seat 7: gayitch 92 (22886, 3.37€ bounty)
+Seat 8: Wilitoo95 (37620, 2.25€ bounty)
+*** ANTE/BLINDS ***
+AsapChris21 posts ante 250
+MaxTudo posts ante 250
+Kittbul posts ante 250
+YL_ML_GL_42 posts ante 250
+CLENFER posts ante 250
+iamrusskofff posts ante 250
+gayitch 92 posts ante 250
+Wilitoo95 posts ante 250
+AsapChris21 posts small blind 1000
+MaxTudo posts big blind 2000
+Dealt to YL_ML_GL_42 [5s Kh]
+*** PRE-FLOP *** 
+iamrusskofff folds
+gayitch 92 raises 20636 to 22636 and is all-in
+Wilitoo95 folds
+Kittbul calls 19520 and is all-in
+YL_ML_GL_42 folds
+CLENFER raises 11209 to 33845 and is all-in
+AsapChris21 folds
+MaxTudo folds
+*** FLOP *** [8s Ks Jh]
+*** TURN *** [8s Ks Jh][2c]
+*** RIVER *** [8s Ks Jh 2c][2s]
+*** SHOW DOWN ***
+Kittbul shows [Jc Ac] (Two pairs : Jacks and 2)
+CLENFER shows [Tc As] (One pair : 2)
+gayitch 92 shows [5h 5c] (Two pairs : 5 and 2)
+gayitch 92 collected 6232 from side pot 1
+CLENFER collected 11209 from side pot 2
+Kittbul collected 63560 from main pot
+*** SUMMARY ***
+Total pot 81001 | No rake
+Board: [8s Ks Jh 2c 2s]
+Seat 1: Kittbul showed [Jc Ac] and won 63560 with Two pairs : Jacks and 2
+Seat 3: CLENFER (button) showed [Tc As] and won 11209 with One pair : 2
+Seat 7: gayitch 92 showed [5h 5c] and won 6232 with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #2551846074364985353-43-1669414907 - Holdem no limit (300/1250/2500) - 2022/11/25 22:21:47 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #4 is the button
+Seat 1: Kittbul (63560, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (24364, 2.25€ bounty)
+Seat 3: CLENFER (11209, 3.37€ bounty)
+Seat 4: AsapChris21 (41060, 2.25€ bounty)
+Seat 5: MaxTudo (30650, 2.25€ bounty)
+Seat 6: iamrusskofff (25057, 4.49€ bounty)
+Seat 7: gayitch 92 (6232, 3.37€ bounty)
+Seat 8: Wilitoo95 (37370, 2.25€ bounty)
+*** ANTE/BLINDS ***
+MaxTudo posts ante 300
+iamrusskofff posts ante 300
+Kittbul posts ante 300
+YL_ML_GL_42 posts ante 300
+CLENFER posts ante 300
+AsapChris21 posts ante 300
+gayitch 92 posts ante 300
+Wilitoo95 posts ante 300
+MaxTudo posts small blind 1250
+iamrusskofff posts big blind 2500
+Dealt to YL_ML_GL_42 [2h 6s]
+*** PRE-FLOP *** 
+gayitch 92 folds
+Wilitoo95 folds
+Kittbul folds
+YL_ML_GL_42 folds
+CLENFER folds
+AsapChris21 folds
+MaxTudo folds
+iamrusskofff collected 6150 from pot
+*** SUMMARY ***
+Total pot 6150 | No rake
+Seat 6: iamrusskofff (big blind) won 6150
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #2551846074364985353-44-1669414935 - Holdem no limit (300/1250/2500) - 2022/11/25 22:22:15 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #5 is the button
+Seat 1: Kittbul (63260, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (24064, 2.25€ bounty)
+Seat 3: CLENFER (10909, 3.37€ bounty)
+Seat 4: AsapChris21 (40760, 2.25€ bounty)
+Seat 5: MaxTudo (29100, 2.25€ bounty)
+Seat 6: iamrusskofff (28407, 4.49€ bounty)
+Seat 7: gayitch 92 (5932, 3.37€ bounty)
+Seat 8: Wilitoo95 (37070, 2.25€ bounty)
+*** ANTE/BLINDS ***
+iamrusskofff posts ante 300
+gayitch 92 posts ante 300
+Kittbul posts ante 300
+YL_ML_GL_42 posts ante 300
+CLENFER posts ante 300
+AsapChris21 posts ante 300
+MaxTudo posts ante 300
+Wilitoo95 posts ante 300
+iamrusskofff posts small blind 1250
+gayitch 92 posts big blind 2500
+Dealt to YL_ML_GL_42 [Th 6d]
+*** PRE-FLOP *** 
+Wilitoo95 folds
+Kittbul folds
+YL_ML_GL_42 folds
+CLENFER raises 8109 to 10609 and is all-in
+AsapChris21 folds
+MaxTudo folds
+iamrusskofff folds
+gayitch 92 calls 3132 and is all-in
+*** FLOP *** [Qs 3h 2d]
+*** TURN *** [Qs 3h 2d][4h]
+*** RIVER *** [Qs 3h 2d 4h][9d]
+*** SHOW DOWN ***
+gayitch 92 shows [5c Js] (High card : Queen)
+CLENFER shows [2c Ad] (One pair : 2)
+CLENFER collected 19891 from pot
+*** SUMMARY ***
+Total pot 19891 | No rake
+Board: [Qs 3h 2d 4h 9d]
+Seat 3: CLENFER showed [2c Ad] and won 19891 with One pair : 2
+Seat 7: gayitch 92 (big blind) showed [5c Js] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #2551846074364985353-45-1669415019 - Holdem no limit (300/1250/2500) - 2022/11/25 22:23:39 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #6 is the button
+Seat 1: Kittbul (62960, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (23764, 2.25€ bounty)
+Seat 3: CLENFER (19891, 5.05€ bounty)
+Seat 4: AsapChris21 (40460, 2.25€ bounty)
+Seat 5: MaxTudo (28800, 2.25€ bounty)
+Seat 6: iamrusskofff (26857, 4.49€ bounty)
+Seat 8: Wilitoo95 (36770, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Wilitoo95 posts ante 300
+Kittbul posts ante 300
+YL_ML_GL_42 posts ante 300
+CLENFER posts ante 300
+AsapChris21 posts ante 300
+MaxTudo posts ante 300
+iamrusskofff posts ante 300
+Wilitoo95 posts big blind 2500
+Dealt to YL_ML_GL_42 [8d Qh]
+*** PRE-FLOP *** 
+Kittbul folds
+YL_ML_GL_42 folds
+CLENFER folds
+AsapChris21 folds
+MaxTudo raises 2500 to 5000
+iamrusskofff folds
+Wilitoo95 folds
+MaxTudo collected 9600 from pot
+*** SUMMARY ***
+Total pot 9600 | No rake
+Seat 5: MaxTudo won 9600
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #2551846074364985353-46-1669415043 - Holdem no limit (350/1500/3000) - 2022/11/25 22:24:03 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #7 is the button
+Seat 1: Kittbul (62660, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (23464, 2.25€ bounty)
+Seat 3: CLENFER (19591, 5.05€ bounty)
+Seat 4: AsapChris21 (40160, 2.25€ bounty)
+Seat 5: MaxTudo (33100, 2.25€ bounty)
+Seat 6: iamrusskofff (26557, 4.49€ bounty)
+Seat 7: Chintoxito (38809, 3.37€ bounty)
+Seat 8: Wilitoo95 (33970, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Wilitoo95 posts ante 350
+Kittbul posts ante 350
+YL_ML_GL_42 posts ante 350
+CLENFER posts ante 350
+AsapChris21 posts ante 350
+MaxTudo posts ante 350
+iamrusskofff posts ante 350
+Wilitoo95 posts small blind 1500
+Kittbul posts big blind 3000
+Dealt to YL_ML_GL_42 [Jd 4h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+CLENFER folds
+AsapChris21 folds
+MaxTudo folds
+iamrusskofff raises 23207 to 26207 and is all-in
+Wilitoo95 folds
+Kittbul folds
+iamrusskofff collected 33157 from pot
+*** SUMMARY ***
+Total pot 33157 | No rake
+Seat 6: iamrusskofff won 33157
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #2551846074364985353-47-1669415096 - Holdem no limit (350/1500/3000) - 2022/11/25 22:24:56 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #8 is the button
+Seat 1: Kittbul (59310, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (23114, 2.25€ bounty)
+Seat 3: CLENFER (19241, 5.05€ bounty)
+Seat 4: AsapChris21 (39810, 2.25€ bounty)
+Seat 5: MaxTudo (32750, 2.25€ bounty)
+Seat 6: iamrusskofff (33157, 4.49€ bounty)
+Seat 7: Chintoxito (38809, 3.37€ bounty)
+Seat 8: Wilitoo95 (32120, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Kittbul posts ante 350
+YL_ML_GL_42 posts ante 350
+CLENFER posts ante 350
+AsapChris21 posts ante 350
+MaxTudo posts ante 350
+iamrusskofff posts ante 350
+Chintoxito posts ante 350
+Wilitoo95 posts ante 350
+Kittbul posts small blind 1500
+YL_ML_GL_42 posts big blind 3000
+Dealt to YL_ML_GL_42 [9s Ks]
+*** PRE-FLOP *** 
+CLENFER folds
+AsapChris21 folds
+MaxTudo folds
+iamrusskofff raises 29807 to 32807 and is all-in
+Chintoxito folds
+Wilitoo95 folds
+Kittbul calls 31307
+YL_ML_GL_42 calls 19764 and is all-in
+*** FLOP *** [7s 6s Kc]
+*** TURN *** [7s 6s Kc][4c]
+*** RIVER *** [7s 6s Kc 4c][3c]
+*** SHOW DOWN ***
+Kittbul shows [Qh 8h] (High card : King)
+YL_ML_GL_42 shows [9s Ks] (One pair : Kings)
+iamrusskofff shows [Qc Qd] (One pair : Queens)
+iamrusskofff collected 20086 from side pot 1
+YL_ML_GL_42 collected 71092 from main pot
+*** SUMMARY ***
+Total pot 91178 | No rake
+Board: [7s 6s Kc 4c 3c]
+Seat 1: Kittbul (small blind) showed [Qh 8h] and lost with High card : King
+Seat 2: YL_ML_GL_42 (big blind) showed [9s Ks] and won 71092 with One pair : Kings
+Seat 6: iamrusskofff showed [Qc Qd] and won 20086 with One pair : Queens
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #2551846074364985353-48-1669415154 - Holdem no limit (350/1500/3000) - 2022/11/25 22:25:54 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #1 is the button
+Seat 1: Kittbul (26153, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (71092, 2.25€ bounty)
+Seat 3: CLENFER (18891, 5.05€ bounty)
+Seat 4: AsapChris21 (39460, 2.25€ bounty)
+Seat 5: MaxTudo (32400, 2.25€ bounty)
+Seat 6: iamrusskofff (20086, 4.49€ bounty)
+Seat 7: Chintoxito (38459, 3.37€ bounty)
+Seat 8: Wilitoo95 (31770, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 350
+CLENFER posts ante 350
+Kittbul posts ante 350
+AsapChris21 posts ante 350
+MaxTudo posts ante 350
+iamrusskofff posts ante 350
+Chintoxito posts ante 350
+Wilitoo95 posts ante 350
+YL_ML_GL_42 posts small blind 1500
+CLENFER posts big blind 3000
+Dealt to YL_ML_GL_42 [5c Tc]
+*** PRE-FLOP *** 
+AsapChris21 folds
+MaxTudo folds
+iamrusskofff raises 16736 to 19736 and is all-in
+Chintoxito folds
+Wilitoo95 folds
+Kittbul folds
+YL_ML_GL_42 folds
+CLENFER calls 15541 and is all-in
+*** FLOP *** [Qc 9d Ad]
+*** TURN *** [Qc 9d Ad][8h]
+*** RIVER *** [Qc 9d Ad 8h][2c]
+*** SHOW DOWN ***
+CLENFER shows [7c 5d] (High card : Ace)
+iamrusskofff shows [4s Ah] (One pair : Aces)
+iamrusskofff collected 42577 from pot
+*** SUMMARY ***
+Total pot 42577 | No rake
+Board: [Qc 9d Ad 8h 2c]
+Seat 3: CLENFER (big blind) showed [7c 5d] and lost with High card : Ace
+Seat 6: iamrusskofff showed [4s Ah] and won 42577 with One pair : Aces
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 17 - HandId: #2551846074364985353-49-1669415193 - Holdem no limit (400/1750/3500) - 2022/11/25 22:26:33 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #2 is the button
+Seat 1: Kittbul (25803, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (69242, 2.25€ bounty)
+Seat 4: AsapChris21 (39110, 2.25€ bounty)
+Seat 5: MaxTudo (32050, 2.25€ bounty)
+Seat 6: iamrusskofff (42577, 7.01€ bounty)
+Seat 7: Chintoxito (38109, 3.37€ bounty)
+Seat 8: Wilitoo95 (31420, 2.25€ bounty)
+*** ANTE/BLINDS ***
+AsapChris21 posts ante 400
+Kittbul posts ante 400
+YL_ML_GL_42 posts ante 400
+MaxTudo posts ante 400
+iamrusskofff posts ante 400
+Chintoxito posts ante 400
+Wilitoo95 posts ante 400
+AsapChris21 posts big blind 3500
+Dealt to YL_ML_GL_42 [Ad 7s]
+*** PRE-FLOP *** 
+MaxTudo calls 3500
+iamrusskofff folds
+Chintoxito raises 34209 to 37709 and is all-in
+Wilitoo95 folds
+Kittbul calls 25403 and is all-in
+YL_ML_GL_42 calls 37709
+AsapChris21 folds
+MaxTudo calls 28150 and is all-in
+*** FLOP *** [Kd 4s 4d]
+*** TURN *** [Kd 4s 4d][2c]
+*** RIVER *** [Kd 4s 4d 2c][Td]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ad 7s] (One pair : 4)
+MaxTudo shows [Qs Ah] (One pair : 4)
+Kittbul shows [Jd Js] (Two pairs : Jacks and 4)
+Chintoxito shows [8c 8h] (Two pairs : 8 and 4)
+Chintoxito collected 30859 from side pot 1
+Kittbul collected 107912 from main pot
+*** SUMMARY ***
+Total pot 138771 | No rake
+Board: [Kd 4s 4d 2c Td]
+Seat 1: Kittbul showed [Jd Js] and won 107912 with Two pairs : Jacks and 4
+Seat 2: YL_ML_GL_42 (button) showed [Ad 7s] and lost with One pair : 4
+Seat 5: MaxTudo showed [Qs Ah] and lost with One pair : 4
+Seat 7: Chintoxito showed [8c 8h] and won 30859 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 17 - HandId: #2551846074364985353-50-1669415275 - Holdem no limit (400/1750/3500) - 2022/11/25 22:27:55 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #3 is the button
+Seat 1: Kittbul (107912, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (31133, 2.25€ bounty)
+Seat 3: AdnStk (43062, 3.93€ bounty)
+Seat 4: AsapChris21 (35210, 2.25€ bounty)
+Seat 5: Hanouna75 (117132, 7.85€ bounty)
+Seat 6: iamrusskofff (42177, 7.01€ bounty)
+Seat 7: Chintoxito (30859, 4.49€ bounty)
+Seat 8: Wilitoo95 (31020, 2.25€ bounty)
+*** ANTE/BLINDS ***
+AsapChris21 posts ante 400
+Hanouna75 posts ante 400
+Kittbul posts ante 400
+YL_ML_GL_42 posts ante 400
+iamrusskofff posts ante 400
+Chintoxito posts ante 400
+Wilitoo95 posts ante 400
+AsapChris21 posts small blind 1750
+Hanouna75 posts big blind 3500
+Dealt to YL_ML_GL_42 [7d 6d]
+*** PRE-FLOP *** 
+iamrusskofff folds
+Chintoxito folds
+Wilitoo95 folds
+Kittbul raises 5250 to 8750
+YL_ML_GL_42 folds
+AsapChris21 folds
+Hanouna75 raises 107982 to 116732 and is all-in
+Kittbul folds
+Hanouna75 collected 130032 from pot
+*** SUMMARY ***
+Total pot 130032 | No rake
+Seat 5: Hanouna75 (big blind) won 130032
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 17 - HandId: #2551846074364985353-51-1669415312 - Holdem no limit (400/1750/3500) - 2022/11/25 22:28:32 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #4 is the button
+Seat 1: Kittbul (98762, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (30733, 2.25€ bounty)
+Seat 3: AdnStk (43062, 3.93€ bounty)
+Seat 4: AsapChris21 (33060, 2.25€ bounty)
+Seat 5: Hanouna75 (130032, 7.85€ bounty)
+Seat 6: iamrusskofff (41777, 7.01€ bounty)
+Seat 7: Chintoxito (30459, 4.49€ bounty)
+Seat 8: Wilitoo95 (30620, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Hanouna75 posts ante 400
+iamrusskofff posts ante 400
+Kittbul posts ante 400
+YL_ML_GL_42 posts ante 400
+AdnStk posts ante 400
+AsapChris21 posts ante 400
+Chintoxito posts ante 400
+Wilitoo95 posts ante 400
+Hanouna75 posts small blind 1750
+iamrusskofff posts big blind 3500
+Dealt to YL_ML_GL_42 [2h Js]
+*** PRE-FLOP *** 
+Chintoxito raises 26559 to 30059 and is all-in
+Wilitoo95 folds
+Kittbul folds
+YL_ML_GL_42 folds
+AdnStk folds
+AsapChris21 folds
+Hanouna75 folds
+iamrusskofff folds
+Chintoxito collected 38509 from pot
+*** SUMMARY ***
+Total pot 38509 | No rake
+Seat 7: Chintoxito won 38509
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2551846074364985353-52-1669415359 - Holdem no limit (500/2000/4000) - 2022/11/25 22:29:19 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #5 is the button
+Seat 1: Kittbul (98362, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (30333, 2.25€ bounty)
+Seat 3: AdnStk (42662, 3.93€ bounty)
+Seat 4: AsapChris21 (32660, 2.25€ bounty)
+Seat 5: Hanouna75 (127882, 7.85€ bounty)
+Seat 6: iamrusskofff (37877, 7.01€ bounty)
+Seat 7: Chintoxito (38509, 4.49€ bounty)
+Seat 8: Wilitoo95 (30220, 2.25€ bounty)
+*** ANTE/BLINDS ***
+iamrusskofff posts ante 500
+Chintoxito posts ante 500
+Kittbul posts ante 500
+YL_ML_GL_42 posts ante 500
+AdnStk posts ante 500
+AsapChris21 posts ante 500
+Hanouna75 posts ante 500
+Wilitoo95 posts ante 500
+iamrusskofff posts small blind 2000
+Chintoxito posts big blind 4000
+Dealt to YL_ML_GL_42 [8h 7c]
+*** PRE-FLOP *** 
+Wilitoo95 folds
+Kittbul raises 4000 to 8000
+YL_ML_GL_42 folds
+AdnStk folds
+AsapChris21 folds
+Hanouna75 folds
+iamrusskofff folds
+Chintoxito folds
+Kittbul collected 18000 from pot
+*** SUMMARY ***
+Total pot 18000 | No rake
+Seat 1: Kittbul won 18000
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2551846074364985353-53-1669415383 - Holdem no limit (500/2000/4000) - 2022/11/25 22:29:43 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #6 is the button
+Seat 1: Kittbul (107862, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (29833, 2.25€ bounty)
+Seat 3: AdnStk (42162, 3.93€ bounty)
+Seat 4: AsapChris21 (32160, 2.25€ bounty)
+Seat 5: Hanouna75 (127382, 7.85€ bounty)
+Seat 6: iamrusskofff (35377, 7.01€ bounty)
+Seat 7: Chintoxito (34009, 4.49€ bounty)
+Seat 8: Wilitoo95 (29720, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Chintoxito posts ante 500
+Wilitoo95 posts ante 500
+Kittbul posts ante 500
+YL_ML_GL_42 posts ante 500
+AdnStk posts ante 500
+AsapChris21 posts ante 500
+Hanouna75 posts ante 500
+iamrusskofff posts ante 500
+Chintoxito posts small blind 2000
+Wilitoo95 posts big blind 4000
+Dealt to YL_ML_GL_42 [Ks 4c]
+*** PRE-FLOP *** 
+Kittbul raises 4000 to 8000
+YL_ML_GL_42 folds
+AdnStk folds
+AsapChris21 folds
+Hanouna75 raises 118882 to 126882 and is all-in
+iamrusskofff folds
+Chintoxito folds
+Wilitoo95 folds
+Kittbul folds
+Hanouna75 collected 144882 from pot
+*** SUMMARY ***
+Total pot 144882 | No rake
+Seat 5: Hanouna75 won 144882
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2551846074364985353-54-1669415450 - Holdem no limit (500/2000/4000) - 2022/11/25 22:30:50 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #7 is the button
+Seat 1: Kittbul (99362, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (29333, 2.25€ bounty)
+Seat 3: AdnStk (41662, 3.93€ bounty)
+Seat 4: AsapChris21 (31660, 2.25€ bounty)
+Seat 5: Hanouna75 (144882, 7.85€ bounty)
+Seat 6: iamrusskofff (34877, 7.01€ bounty)
+Seat 7: Chintoxito (31509, 4.49€ bounty)
+Seat 8: Wilitoo95 (25220, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Wilitoo95 posts ante 500
+Kittbul posts ante 500
+YL_ML_GL_42 posts ante 500
+AdnStk posts ante 500
+AsapChris21 posts ante 500
+Hanouna75 posts ante 500
+iamrusskofff posts ante 500
+Chintoxito posts ante 500
+Wilitoo95 posts small blind 2000
+Kittbul posts big blind 4000
+Dealt to YL_ML_GL_42 [7s Qh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+AdnStk calls 4000
+AsapChris21 folds
+Hanouna75 folds
+iamrusskofff raises 30377 to 34377 and is all-in
+Chintoxito folds
+Wilitoo95 folds
+Kittbul calls 30377
+AdnStk folds
+*** FLOP *** [3s 4h Qc]
+*** TURN *** [3s 4h Qc][Qs]
+*** RIVER *** [3s 4h Qc Qs][9c]
+*** SHOW DOWN ***
+Kittbul shows [6d 7h] (One pair : Queens)
+iamrusskofff shows [Ah Ac] (Two pairs : Aces and Queens)
+iamrusskofff collected 78754 from pot
+*** SUMMARY ***
+Total pot 78754 | No rake
+Board: [3s 4h Qc Qs 9c]
+Seat 1: Kittbul (big blind) showed [6d 7h] and lost with One pair : Queens
+Seat 6: iamrusskofff showed [Ah Ac] and won 78754 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 19 - HandId: #2551846074364985353-55-1669415512 - Holdem no limit (600/2500/5000) - 2022/11/25 22:31:52 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #8 is the button
+Seat 1: Kittbul (64485, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (28833, 2.25€ bounty)
+Seat 3: AdnStk (37162, 3.93€ bounty)
+Seat 4: AsapChris21 (31160, 2.25€ bounty)
+Seat 5: Hanouna75 (144382, 7.85€ bounty)
+Seat 6: iamrusskofff (78754, 7.01€ bounty)
+Seat 7: Chintoxito (31009, 4.49€ bounty)
+Seat 8: Wilitoo95 (22720, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Kittbul posts ante 600
+YL_ML_GL_42 posts ante 600
+AdnStk posts ante 600
+AsapChris21 posts ante 600
+Hanouna75 posts ante 600
+iamrusskofff posts ante 600
+Chintoxito posts ante 600
+Wilitoo95 posts ante 600
+Kittbul posts small blind 2500
+YL_ML_GL_42 posts big blind 5000
+Dealt to YL_ML_GL_42 [2s 6c]
+*** PRE-FLOP *** 
+AdnStk calls 5000
+AsapChris21 folds
+Hanouna75 raises 138782 to 143782 and is all-in
+iamrusskofff folds
+Chintoxito calls 30409 and is all-in
+Wilitoo95 folds
+Kittbul folds
+YL_ML_GL_42 folds
+AdnStk calls 31562 and is all-in
+*** FLOP *** [8s 5s 9s]
+*** TURN *** [8s 5s 9s][3c]
+*** RIVER *** [8s 5s 9s 3c][4h]
+*** SHOW DOWN ***
+AdnStk shows [Qc As] (High card : Ace)
+Chintoxito shows [Ad Kc] (High card : Ace)
+Hanouna75 shows [8h Ac] (One pair : 8)
+Hanouna75 collected 223053 from pot
+*** SUMMARY ***
+Total pot 223053 | No rake
+Board: [8s 5s 9s 3c 4h]
+Seat 3: AdnStk showed [Qc As] and lost with High card : Ace
+Seat 5: Hanouna75 showed [8h Ac] and won 223053 with One pair : 8
+Seat 7: Chintoxito showed [Ad Kc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 19 - HandId: #2551846074364985353-56-1669415539 - Holdem no limit (600/2500/5000) - 2022/11/25 22:32:19 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #1 is the button
+Seat 1: Kittbul (61385, 2.25€ bounty)
+Seat 2: YL_ML_GL_42 (23233, 2.25€ bounty)
+Seat 4: AsapChris21 (30560, 2.25€ bounty)
+Seat 5: Hanouna75 (223053, 12.05€ bounty)
+Seat 6: iamrusskofff (78154, 7.01€ bounty)
+Seat 8: Wilitoo95 (22120, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 600
+AsapChris21 posts ante 600
+Kittbul posts ante 600
+Hanouna75 posts ante 600
+iamrusskofff posts ante 600
+Wilitoo95 posts ante 600
+YL_ML_GL_42 posts small blind 2500
+AsapChris21 posts big blind 5000
+Dealt to YL_ML_GL_42 [2s Kh]
+*** PRE-FLOP *** 
+Hanouna75 folds
+iamrusskofff folds
+Wilitoo95 raises 16520 to 21520 and is all-in
+Kittbul raises 39265 to 60785 and is all-in
+YL_ML_GL_42 folds
+AsapChris21 folds
+*** FLOP *** [6c 7s Js]
+*** TURN *** [6c 7s Js][As]
+*** RIVER *** [6c 7s Js As][5h]
+*** SHOW DOWN ***
+Wilitoo95 shows [Ks 2c] (High card : Ace)
+Kittbul shows [6s Td] (One pair : 6)
+Kittbul collected 93405 from pot
+*** SUMMARY ***
+Total pot 93405 | No rake
+Board: [6c 7s Js As 5h]
+Seat 1: Kittbul (button) showed [6s Td] and won 93405 with One pair : 6
+Seat 8: Wilitoo95 showed [Ks 2c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 19 - HandId: #2551846074364985353-57-1669415578 - Holdem no limit (600/2500/5000) - 2022/11/25 22:32:58 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #2 is the button
+Seat 1: Kittbul (93405, 3.37€ bounty)
+Seat 2: YL_ML_GL_42 (20133, 2.25€ bounty)
+Seat 4: AsapChris21 (24960, 2.25€ bounty)
+Seat 5: Hanouna75 (222453, 12.05€ bounty)
+Seat 6: iamrusskofff (77554, 7.01€ bounty)
+Seat 7: Sagidi_21 (256129, 10.65€ bounty)
+*** ANTE/BLINDS ***
+AsapChris21 posts ante 600
+Hanouna75 posts ante 600
+Kittbul posts ante 600
+YL_ML_GL_42 posts ante 600
+iamrusskofff posts ante 600
+Sagidi_21 posts ante 600
+AsapChris21 posts small blind 2500
+Hanouna75 posts big blind 5000
+Dealt to YL_ML_GL_42 [4d Qd]
+*** PRE-FLOP *** 
+iamrusskofff folds
+Sagidi_21 folds
+Kittbul raises 87805 to 92805 and is all-in
+YL_ML_GL_42 folds
+AsapChris21 calls 21860 and is all-in
+Hanouna75 folds
+*** FLOP *** [Qs Jh 4c]
+*** TURN *** [Qs Jh 4c][2d]
+*** RIVER *** [Qs Jh 4c 2d][7h]
+*** SHOW DOWN ***
+AsapChris21 shows [6s Ac] (High card : Ace)
+Kittbul shows [7d 6d] (One pair : 7)
+Kittbul collected 125765 from pot
+*** SUMMARY ***
+Total pot 125765 | No rake
+Board: [Qs Jh 4c 2d 7h]
+Seat 1: Kittbul showed [7d 6d] and won 125765 with One pair : 7
+Seat 4: AsapChris21 (small blind) showed [6s Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "ROCKET" buyIn: 4.50€ + 0.50€ level: 19 - HandId: #2551846074364985353-58-1669415634 - Holdem no limit (600/2500/5000) - 2022/11/25 22:33:54 UTC
+Table: 'ROCKET(594147964)#008' 8-max (real money) Seat #4 is the button
+Seat 1: Kittbul (125765, 4.49€ bounty)
+Seat 2: YL_ML_GL_42 (19533, 2.25€ bounty)
+Seat 5: Hanouna75 (216853, 12.05€ bounty)
+Seat 6: iamrusskofff (76954, 7.01€ bounty)
+Seat 7: Sagidi_21 (255529, 10.65€ bounty)
+Seat 8: 1232156ii4j (60894, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Hanouna75 posts ante 600
+iamrusskofff posts ante 600
+Kittbul posts ante 600
+YL_ML_GL_42 posts ante 600
+Sagidi_21 posts ante 600
+1232156ii4j posts ante 600
+Hanouna75 posts small blind 2500
+iamrusskofff posts big blind 5000
+Dealt to YL_ML_GL_42 [6c Kd]
+*** PRE-FLOP *** 
+Sagidi_21 folds
+1232156ii4j raises 55294 to 60294 and is all-in
+Kittbul folds
+YL_ML_GL_42 calls 18933 and is all-in
+Hanouna75 folds
+iamrusskofff folds
+*** FLOP *** [3h Qc 5s]
+*** TURN *** [3h Qc 5s][Jc]
+*** RIVER *** [3h Qc 5s Jc][9d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [6c Kd] (High card : King)
+1232156ii4j shows [As Kc] (High card : Ace)
+1232156ii4j collected 90327 from pot
+*** SUMMARY ***
+Total pot 90327 | No rake
+Board: [3h Qc 5s Jc 9d]
+Seat 2: YL_ML_GL_42 showed [6c Kd] and lost with High card : King
+Seat 8: 1232156ii4j showed [As Kc] and won 90327 with High card : Ace
+
+
