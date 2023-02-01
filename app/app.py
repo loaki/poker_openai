@@ -6,7 +6,7 @@ import openai
 from PIL import ImageTk, Image
 from extractor.extractor import extract_info
 from extractor.table_formater import Table_data
-from frames.forms import set_forms
+from frames.form import set_form
 from frames.tables import set_tables, select_log_path, select_history_path
 
 load_dotenv()
@@ -30,7 +30,7 @@ def app():
     menu = tk.Menu(root)
     root.config(menu=menu)
     set_menu(root, menu)
-    set_forms(root, table_data)
+    set_form(root, table_data)
     set_tables(root)
     root.mainloop()
 

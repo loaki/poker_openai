@@ -4,7 +4,7 @@ from tkinter import filedialog
 from PIL import ImageTk, Image
 from extractor.extractor import extract_info
 from extractor.table_formater import Table_data, format_table_data
-from frames.forms import set_forms
+from frames.form import set_form
 
 OPENAI_KEY = os.getenv('OPENAI_KEY')
 HISTORY_PATH='./extractor/history/'
@@ -57,7 +57,7 @@ def table_info(root, tournament_id, log_path=LOG_PATH, history_path=HISTORY_PATH
     tournament_id = '603580838'
     data = extract_info(tournament_id, log_path=LOG_PATH, history_path=HISTORY_PATH)
     table_data = format_table_data(data)
-    set_forms(root, table_data)
+    set_form(root, table_data)
 
 def select_log_path(tables_frame):
     global LOG_PATH
@@ -110,4 +110,4 @@ def select_win(root, tables_frame, window_pos, window_selected):
     table_data = Table_data()
     table_data.pot = 30.2
     table_data.hand_1 = (3, 2)
-    set_forms(root, table_data)
+    set_form(root, table_data)
