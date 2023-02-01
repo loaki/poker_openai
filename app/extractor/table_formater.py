@@ -27,5 +27,6 @@ def format_table_data(data):
     if data.login in data.players:
         table_data.position = table_data.position_options.index(data.players[data.login]['position'])
     table_data.nb_player_in = 0
-    
+    return table_data
+
     

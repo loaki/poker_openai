@@ -89,6 +89,7 @@ def get_last_table_id(file, tournament_id):
     for line in reverse_readline(file):
         if re.search(rf'.*Execution done: wam://table-open.*\.t{tournament_id}.*', line):
             match = re.search(rf'\.t(\d+)\&.*\.t{tournament_id}', line)
+            print(line)
             return match.group(1)
     return None
 
