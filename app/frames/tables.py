@@ -3,12 +3,12 @@ import tkinter as tk
 from tkinter import filedialog
 from PIL import ImageTk, Image
 from extractor.extractor import extract_info
-from extractor.table_formater import Table_data
+from extractor.table_formater import Table_data, format_table_data
 from frames.forms import set_forms
 
 OPENAI_KEY = os.getenv('OPENAI_KEY')
-HISTORY_PATH=''
-LOG_PATH=''
+HISTORY_PATH='./extractor/history/'
+LOG_PATH='./extractor/logs/'
 
 def set_tables(root):
     tables_frame = tk.LabelFrame(root, text='tables')
@@ -25,14 +25,14 @@ def set_tables(root):
         tables_frame,
         window_pos,
         window_selected))
-    add_btn.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
+    add_btn.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y, height=25)
     n_y += 1
 
     del_btn = tk.Button(tables_frame, text='del', command=lambda: del_win(
         tables_frame,
         window_pos,
         window_selected.get()))
-    del_btn.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
+    del_btn.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y, height=25)
     n_y += 1
 
     select_btn = tk.Button(tables_frame, text='select', command=lambda: select_win(
@@ -40,20 +40,24 @@ def set_tables(root):
         tables_frame,
         window_pos,
         window_selected.get()))
-    select_btn.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
+    select_btn.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y, height=25)
     n_y += 1
 
-    print_dir = tk.Button(tables_frame, text='print', command=lambda: extract_info(
+    print_dir = tk.Button(tables_frame, text='print', command=lambda: table_info(
+        root,
         tournament_id='',
         log_path=LOG_PATH,
         history_path=HISTORY_PATH))
-    print_dir.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
+    print_dir.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y, height=25)
     n_y+=1
 
     tables_frame.place(x=320, y=start_y, width=pad_x*3, height=start_y+pad_y*16)
 
-def print_dire():
-    print(LOG_PATH)
+def table_info(root, tournament_id, log_path=LOG_PATH, history_path=HISTORY_PATH):
+    tournament_id = '603580838'
+    data = extract_info(tournament_id, log_path=LOG_PATH, history_path=HISTORY_PATH)
+    table_data = format_table_data(data)
+    set_forms(root, table_data)
 
 def select_log_path(tables_frame):
     global LOG_PATH

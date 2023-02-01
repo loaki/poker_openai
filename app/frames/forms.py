@@ -73,11 +73,11 @@ def set_forms(root, data):
 
     hand1_label = tk.Label(forms_frame, text='hand1')
     hand1_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
-    hand_v1_drop = ttk.Combobox(forms_frame, value=data.card_value_options, width=10)
+    hand_v1_drop = ttk.Combobox(forms_frame, value=data.card_value_options, width=8)
     if data.hand_1[0] != -1:
         hand_v1_drop.current(data.hand_1[0])
     hand_v1_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
-    hand_s1_drop = ttk.Combobox(forms_frame, value=data.card_symbol_options, width=10)
+    hand_s1_drop = ttk.Combobox(forms_frame, value=data.card_symbol_options, width=8)
     if data.hand_1[1] != -1:
         hand_s1_drop.current(data.hand_1[1])
     hand_s1_drop.place(x=start_x+pad_x*1+80, y=start_y+pad_y*n_y)
@@ -85,11 +85,11 @@ def set_forms(root, data):
     
     hand2_label = tk.Label(forms_frame, text='hand2')
     hand2_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
-    hand_v2_drop = ttk.Combobox(forms_frame, value=data.card_value_options, width=10)
+    hand_v2_drop = ttk.Combobox(forms_frame, value=data.card_value_options, width=8)
     if data.hand_2[0] != -1:
         hand_v2_drop.current(data.hand_2[0])
     hand_v2_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
-    hand_s2_drop = ttk.Combobox(forms_frame, value=data.card_symbol_options, width=10)
+    hand_s2_drop = ttk.Combobox(forms_frame, value=data.card_symbol_options, width=8)
     if data.hand_2[1] != -1:
         hand_s2_drop.current(data.hand_2[1])
     hand_s2_drop.place(x=start_x+pad_x*1+80, y=start_y+pad_y*n_y)
@@ -97,11 +97,11 @@ def set_forms(root, data):
 
     card1_label = tk.Label(forms_frame, text='card1')
     card1_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
-    card_v1_drop = ttk.Combobox(forms_frame, value=data.card_value_options, width=10)
+    card_v1_drop = ttk.Combobox(forms_frame, value=data.card_value_options, width=8)
     if data.board_1[0] != -1:
         card_v1_drop.current(data.board_1[0])
     card_v1_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
-    card_s1_drop = ttk.Combobox(forms_frame, value=data.card_symbol_options, width=10)
+    card_s1_drop = ttk.Combobox(forms_frame, value=data.card_symbol_options, width=8)
     if data.board_1[1] != -1:
         card_s1_drop.current(data.board_1[1])
     card_s1_drop.place(x=start_x+pad_x*1+80, y=start_y+pad_y*n_y)
@@ -109,11 +109,11 @@ def set_forms(root, data):
 
     card2_label = tk.Label(forms_frame, text='card2')
     card2_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
-    card_v2_drop = ttk.Combobox(forms_frame, value=data.card_value_options, width=10)
+    card_v2_drop = ttk.Combobox(forms_frame, value=data.card_value_options, width=8)
     if data.board_2[0] != -1:
         card_v2_drop.current(data.board_2[0])
     card_v2_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
-    card_s2_drop = ttk.Combobox(forms_frame, value=data.card_symbol_options, width=10)
+    card_s2_drop = ttk.Combobox(forms_frame, value=data.card_symbol_options, width=8)
     if data.board_2[1] != -1:
         card_s2_drop.current(data.board_2[1])
     card_s2_drop.place(x=start_x+pad_x*1+80, y=start_y+pad_y*n_y)
@@ -121,11 +121,11 @@ def set_forms(root, data):
 
     card3_label = tk.Label(forms_frame, text='card3')
     card3_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
-    card_v3_drop = ttk.Combobox(forms_frame, value=data.card_value_options, width=10)
+    card_v3_drop = ttk.Combobox(forms_frame, value=data.card_value_options, width=8)
     if data.board_3[0] != -1:
         card_v3_drop.current(data.board_3[0])
     card_v3_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
-    card_s3_drop = ttk.Combobox(forms_frame, value=data.card_symbol_options, width=10)
+    card_s3_drop = ttk.Combobox(forms_frame, value=data.card_symbol_options, width=8)
     if data.board_3[1] != -1:
         card_s3_drop.current(data.board_3[1])
     card_s3_drop.place(x=start_x+pad_x*1+80, y=start_y+pad_y*n_y)
@@ -133,11 +133,11 @@ def set_forms(root, data):
 
     card4_label = tk.Label(forms_frame, text='card4')
     card4_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
-    card_v4_drop = ttk.Combobox(forms_frame, value=data.card_value_options, width=10)
+    card_v4_drop = ttk.Combobox(forms_frame, value=data.card_value_options, width=8)
     if data.board_4[0] != -1:
         card_v4_drop.current(data.board_4[0])
     card_v4_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
-    card_s4_drop = ttk.Combobox(forms_frame, value=data.card_symbol_options, width=10)
+    card_s4_drop = ttk.Combobox(forms_frame, value=data.card_symbol_options, width=8)
     if data.board_4[1] != -1:
         card_s4_drop.current(data.board_4[1])
     card_s4_drop.place(x=start_x+pad_x*1+80, y=start_y+pad_y*n_y)
@@ -145,11 +145,11 @@ def set_forms(root, data):
 
     card5_label = tk.Label(forms_frame, text='card5')
     card5_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
-    card_v5_drop = ttk.Combobox(forms_frame, value=data.card_value_options, width=10)
+    card_v5_drop = ttk.Combobox(forms_frame, value=data.card_value_options, width=8)
     if data.board_5[0] != -1:
         card_v5_drop.current(data.board_5[0])
     card_v5_drop.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y)
-    card_s5_drop = ttk.Combobox(forms_frame, value=data.card_symbol_options, width=10)
+    card_s5_drop = ttk.Combobox(forms_frame, value=data.card_symbol_options, width=8)
     if data.board_5[1] != -1:
         card_s5_drop.current(data.board_5[1])
     card_s5_drop.place(x=start_x+pad_x*1+80, y=start_y+pad_y*n_y)

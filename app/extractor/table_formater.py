@@ -27,6 +27,12 @@ def format_table_data(data):
     if data.login in data.players:
         table_data.position = table_data.position_options.index(data.players[data.login]['position'])
     table_data.nb_player_in = 0
+    table_data.round=2
+    table_data.stack=120
+    table_data.pot=34.5
+    table_data.call=10
+    table_data.hand_1=(3, 1)
+    table_data.hand_2=(1, 0)
     return table_data
 
     

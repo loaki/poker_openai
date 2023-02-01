@@ -88,9 +88,9 @@ def reverse_readline(filename, buf_size=8192):
 def get_last_table_id(file, tournament_id):
     for line in reverse_readline(file):
         if re.search(rf'.*Execution done: wam://table-open.*\.t{tournament_id}.*', line):
-            match = re.search(rf'\.t(\d+)\&.*\.t{tournament_id}', line)
-            print(line)
-            return match.group(1)
+            match = re.search(rf'\.t(\d+)&.*\.t{tournament_id}', line)
+            if match:
+                return match.group(1)
     return None
 
 def get_last_hand(file, tournament_id):
@@ -205,7 +205,7 @@ def print_data(data):
         '\n########## hand_id ##########\n',data.hand_id)
 
 def extract_info(tournament_id='', log_path=LOG_PATH, history_path=HISTORY_PATH):
-    print(tournament_id, log_path, history_path)
+    print('###extract info\n',tournament_id, log_path, history_path)
     last_file = max(glob.iglob(f'{log_path}/*.log'), key=os.path.getmtime)
     if tournament_id:
         list_files = sorted(glob.iglob(f'{log_path}/*.log'), key=os.path.getmtime)
@@ -217,6 +217,7 @@ def extract_info(tournament_id='', log_path=LOG_PATH, history_path=HISTORY_PATH)
     data = format_info(last_file, tournament_id, history_path)
     if data:
         print_data(data)
+    return data
 
 if __name__ == '__main__':
     tournament_id = '' if len(sys.argv) == 1 else sys.argv[1]

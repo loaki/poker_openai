@@ -18,8 +18,8 @@ LOG_PATH=''
 def set_menu(root, menu):
     config_menu = tk.Menu(menu)
     menu.add_cascade(label='Config', menu=config_menu)
-    config_menu.add_command(label='log', command=lambda: select_log_path(root))
-    config_menu.add_command(label='historic', command=lambda: select_history_path(root))
+    config_menu.add_command(label='log path', command=lambda: select_log_path(root))
+    config_menu.add_command(label='history path', command=lambda: select_history_path(root))
 
 def app():
     root = tk.Tk()
