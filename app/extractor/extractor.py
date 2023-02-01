@@ -85,20 +85,29 @@ def reverse_readline(filename, buf_size=8192):
         if segment is not None:
             yield segment
 
+def get_last_table_id(file, tournament_id):
+    for line in reverse_readline(file):
+        if re.search(rf'.*Execution done: wam://table-open.*\.t{tournament_id}.*', line):
+            match = re.search(rf'\.t(\d+)\&.*\.t{tournament_id}', line)
+            return match.group(1)
+    return None
+
 def get_last_hand(file, tournament_id):
-    table_id = ''
+    table_id = get_last_table_id(file, tournament_id)
+    if not table_id:
+        return None
+
     curr_hand = []
     for line in reverse_readline(file):
-        if re.search(rf'.*inf \[table\].*.t{tournament_id} .*', line):
+        if re.search(rf'.*inf \[table\].*\.t{table_id} .*', line):
             curr_hand.append(line)
 
         # hand info completed
-        if re.search(rf'.*inf \[table\].*.t{tournament_id} hand.*', line):
-            table_id = line.split(".")[-1].split()[0][1:]
+        if re.search(rf'.*inf \[table\].*\.t{table_id} hand.*', line):
             return curr_hand, table_id
 
-    print(f'###parsing error\nfile: {file}\ntable id: {table_id}')
-    return None, None, None
+    print(f'###parsing error\nfile: {file}\ntournament id: {table_id}')
+    return None, None
 
 def get_tournaments_id(file, tournament_nb=1):
     tournament_ids = []
@@ -179,6 +188,8 @@ def format_info(file, tournament_id='', history_path=HISTORY_PATH):
             return None
         tournament_id = tournament_id[0]
     curr_hand, table_id = get_last_hand(file, tournament_id)
+    if curr_hand == None:
+        return data
     get_hand_info(data, curr_hand, table_id)
     get_tournament_info(data, tournament_id, history_path)
     return data
@@ -195,6 +206,13 @@ def print_data(data):
 def extract_info(tournament_id='', log_path=LOG_PATH, history_path=HISTORY_PATH):
     print(tournament_id, log_path, history_path)
     last_file = max(glob.iglob(f'{log_path}/*.log'), key=os.path.getmtime)
+    if tournament_id:
+        list_files = sorted(glob.iglob(f'{log_path}/*.log'), key=os.path.getmtime)
+        for file in reversed(list_files):
+            with open(file, 'r') as r_file:
+                if tournament_id in r_file.read():
+                    last_file = file
+                    break            
     data = format_info(last_file, tournament_id, history_path)
     if data:
         print_data(data)

@@ -5,34 +5,21 @@ from tkinter import ttk, filedialog
 import openai
 from PIL import ImageTk, Image
 from extractor.extractor import extract_info
+from extractor.table_formater import Table_data
+
 load_dotenv()
 
 OPENAI_KEY = os.getenv('OPENAI_KEY')
 HISTORY_PATH=''
 LOG_PATH=''
 
-class Table_data():
-    def __init__(self):
-        self.table_nbplayer=0
-        self.position=0
-        self.nb_player_in=0
-        self.round=0
-        self.stack=0
-        self.pot=0
-        self.call=0
-        self.hand_1=(-1, -1)
-        self.hand_2=(-1, -1)
-        self.board_1=(-1, -1)
-        self.board_2=(-1, -1)
-        self.board_3=(-1, -1)
-        self.board_4=(-1, -1)
-        self.board_5=(-1, -1)
-        self.position_options = ['SB','BB','BTN','UTG','UTG+1','UTG+2','UTG+3','UTG+4','UTG+5']
-        self.round_options = ['Pre-Flop','Flop','Turn','River']
-        self.card_value_options = ['A','K','Q','J','T','9','8','7','6','5','4','3','2']
-        self.card_symbol_options = ['clubs','diamonds','hearts','spades']
+def set_menu(root, menu):
+    config_menu = tk.Menu(menu)
+    menu.add_cascade(label='Config', menu=config_menu)
+    config_menu.add_command(label='log', command=lambda: select_log_path(root))
+    config_menu.add_command(label='historic', command=lambda: select_history_path(root))
 
-def forms(root, data):
+def set_forms(root, data):
     start_x = 0
     start_y = 0
     pad_x = 100
@@ -213,7 +200,7 @@ def forms(root, data):
     answer_label.insert(tk.INSERT, 'hello')
     answer_label.place(x=370, y=360)
 
-def detection(root):
+def set_detection(root):
     start_x = 300
     start_y = 0
     pad_x = 100
@@ -315,7 +302,7 @@ def select_win(root, window_pos, window_selected):
     table_data = Table_data()
     table_data.pot = 30.2
     table_data.hand_1 = (3, 2)
-    forms(root, table_data)
+    set_forms(root, table_data)
 
 def send(root, table_nb_player=None, position=None, nb_player=None, round=None, stack=None, pot=None, call=None, hand_v1=None, hand_s1=None, hand_v2=None, hand_s2=None, card_v1=None, card_s1=None, card_v2=None, card_s2=None, card_v3=None, card_s3=None, card_v4=None, card_s4=None, card_v5=None, card_s5=None):
     openai.api_key = OPENAI_KEY
@@ -375,8 +362,11 @@ def app():
     
     root.geometry('730x720')
     table_data = Table_data()
-    forms(root, table_data)
-    detection(root)
+    menu = tk.Menu(root)
+    root.config(menu=menu)
+    set_menu(root, menu)
+    set_forms(root, table_data)
+    set_detection(root)
     root.mainloop()
 
 if __name__ == '__main__':
