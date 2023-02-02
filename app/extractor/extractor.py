@@ -117,12 +117,14 @@ def get_tournaments_id(file, tournament_nb=1):
         if re.search(r'.*inf \[network\].*TOURNAMENT:GET_TABLE_OK', line):
             match = re.search(r"\.t(\d+) ", line)
             if match and match.group(1) not in tournament_ids:
+                print(line, match.group(1))
                 tournament_ids.append(match.group(1))
         
         # get tournament id
         if re.search(r'.*inf \[router\] .* done: wam://table.*', line):
             match = re.search(r'\.t(\d+).*\.t(\d+)', line)
             if match and match.group(1) not in tournament_ids:
+                print(line, match.group(1))
                 tournament_ids.append(match.group(1))
 
         if len(tournament_ids) >= tournament_nb:

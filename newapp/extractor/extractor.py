@@ -121,13 +121,24 @@ def get_tournaments_id(file, tournament_nb=1):
         
         # get tournament id
         if re.search(r'.*inf \[router\] .* done: wam://table.*', line):
-            match = re.search(r'\.t(\d+).*\.t(\d+)', line)
+            match = re.search(r'\.t\d+.*\.t(\d+)', line)
             if match and match.group(1) not in tournament_ids:
                 tournament_ids.append(match.group(1))
 
         if len(tournament_ids) >= tournament_nb:
             break
     return tournament_ids
+
+def get_tournament_name(history_path, tournament_id):
+    list_files = os.listdir(history_path)
+    for file in list_files:
+        if tournament_id in file:
+            with open(history_path+'/'+file) as f:
+                for line in f:
+                    if tournament_id in line:
+                        # print(line)
+                        return 'ok'
+
 
 def parse_tournament(data, hand):
     bets = ['posts', 'bets', 'calls', 'raises']
@@ -211,7 +222,7 @@ def get_all_tournaments_id(nb=1, log_path=LOG_PATH):
         tournaments_id = tournaments_id.union(set(get_tournaments_id(file, nb - len(tournaments_id))))
         if len(tournaments_id) >= nb:
             break
-    return tournaments_id
+    return list(tournaments_id)
 
 def extract_info(tournament_id='', log_path=LOG_PATH, history_path=HISTORY_PATH):
     print('###extract info\n',tournament_id, log_path, history_path)

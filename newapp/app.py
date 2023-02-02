@@ -20,8 +20,8 @@ class App(customtkinter.CTk):
         menu = tk.Menu(self)
         self.config(menu=menu)
         form_frame = set_form(self, table_data)
-        tables = set_selection(self, form_frame)
-        set_tables(self, tables, form_frame)
+        tables_frame = set_tables(self, [], form_frame)
+        set_selection(self, form_frame, tables_frame)
 
 if __name__ == '__main__':
     app = App()
