@@ -1,31 +1,18 @@
-import os
 import tkinter as tk
-from dotenv import load_dotenv
-from tkinter import ttk, filedialog
-import openai
-from PIL import ImageTk, Image
-from extractor.extractor import extract_info
 from extractor.table_formater import Table_data
 from frames.form import set_form
 from frames.tables import set_tables, select_log_path, select_history_path
 
-load_dotenv()
-
-OPENAI_KEY = os.getenv('OPENAI_KEY')
-HISTORY_PATH=''
-LOG_PATH=''
-
 def set_menu(root, menu):
     config_menu = tk.Menu(menu)
     menu.add_cascade(label='Config', menu=config_menu)
-    config_menu.add_command(label='log path', command=lambda: select_log_path(root))
-    config_menu.add_command(label='history path', command=lambda: select_history_path(root))
+    config_menu.add_command(label='log path', command=lambda: select_log_path())
+    config_menu.add_command(label='history path', command=lambda: select_history_path())
 
 def app():
     root = tk.Tk()
     root.title('Poker OpenAI')
-    
-    root.geometry('730x720')
+    root.geometry('630x610')
     table_data = Table_data()
     menu = tk.Menu(root)
     root.config(menu=menu)
@@ -36,5 +23,3 @@ def app():
 
 if __name__ == '__main__':
     app()
-
-

@@ -2,13 +2,18 @@ import os
 import tkinter as tk
 from tkinter import filedialog
 from PIL import ImageTk, Image
-from extractor.extractor import extract_info
+from dotenv import load_dotenv
+from configparser import ConfigParser
+from extractor.extractor import extract_info, get_all_tournaments_id
 from extractor.table_formater import Table_data, format_table_data
 from frames.form import set_form
 
+load_dotenv()
 OPENAI_KEY = os.getenv('OPENAI_KEY')
-HISTORY_PATH='./extractor/history/'
-LOG_PATH='./extractor/logs/'
+parser = ConfigParser()
+parser.read('config.ini')
+LOG_PATH = parser.get('path', 'log')
+HISTORY_PATH = parser.get('path', 'history')
 
 def set_tables(root):
     tables_frame = tk.LabelFrame(root, text='tables')
@@ -59,19 +64,28 @@ def table_info(root, tournament_id, log_path=LOG_PATH, history_path=HISTORY_PATH
     table_data = format_table_data(data)
     set_form(root, table_data)
 
-def select_log_path(tables_frame):
+def select_log_path():
     global LOG_PATH
     LOG_PATH = filedialog.askdirectory()
-    history_path_label = tk.Label(tables_frame, text=LOG_PATH)
-    history_path_label.place(x=400, y=0)
+    parser = ConfigParser()
+    parser.read('config.ini')
+    parser.set('path', 'log', LOG_PATH)
+    with open('config.ini', 'w') as f:
+        parser.write(f)
 
-def select_history_path(tables_frame):
+def select_history_path():
     global HISTORY_PATH
     HISTORY_PATH = filedialog.askdirectory()
-    history_path_label = tk.Label(tables_frame, text=HISTORY_PATH)
-    history_path_label.place(x=400, y=25)
+    parser = ConfigParser()
+    parser.read('config.ini')
+    parser.set('path', 'history', HISTORY_PATH)
+    with open('config.ini', 'w') as f:
+        parser.write(f)
 
 def add_win(tables_frame, window_pos, window_selected):
+    tournaments_id = get_all_tournaments_id(10, LOG_PATH)
+
+    
     if len(window_pos) >= 6:
         return
     if len(window_pos):

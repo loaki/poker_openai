@@ -169,7 +169,7 @@ def get_tournament_info(data, tournament_id, history_path=HISTORY_PATH):
             else:
                 hand = []
                 status = 0
-                with open(history_path+file) as f:
+                with open(history_path+'/'+file) as f:
                     id = data.hand_id.split('-')[0]+'-'+str(int(data.hand_id.split('-')[1])-1)
                     id_curr = data.hand_id.split('-')[0]+'-'+str(int(data.hand_id.split('-')[1]))
                     for line in f:
@@ -203,6 +203,15 @@ def print_data(data):
         '\n########## login ##########\n',data.login,
         '\n########## cards ##########\n',data.cards,
         '\n########## hand_id ##########\n',data.hand_id)
+
+def get_all_tournaments_id(nb=1, log_path=LOG_PATH):
+    tournaments_id = set()
+    list_files = sorted(glob.iglob(f'{log_path}/*.log'), key=os.path.getmtime)
+    for file in reversed(list_files):
+        tournaments_id = tournaments_id.union(set(get_tournaments_id(file, nb - len(tournaments_id))))
+        if len(tournaments_id) >= nb:
+            break
+    return tournaments_id
 
 def extract_info(tournament_id='', log_path=LOG_PATH, history_path=HISTORY_PATH):
     print('###extract info\n',tournament_id, log_path, history_path)
