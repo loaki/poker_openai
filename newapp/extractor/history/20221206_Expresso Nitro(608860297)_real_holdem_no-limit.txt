@@ -1,0 +1,112 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2615035063447846913-1-1670323134 - Holdem no limit (10/20) - 2022/12/06 10:38:54 UTC
+Table: 'Expresso Nitro(608860297)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (300)
+Seat 2: chatteurbete (300)
+Seat 3: Oinj1 (300)
+*** ANTE/BLINDS ***
+chatteurbete posts small blind 10
+Oinj1 posts big blind 20
+Dealt to YL_ML_GL_42 [3d 3h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 280 to 300 and is all-in
+chatteurbete folds
+Oinj1 folds
+YL_ML_GL_42 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: YL_ML_GL_42 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2615035063447846913-2-1670323142 - Holdem no limit (10/20) - 2022/12/06 10:39:02 UTC
+Table: 'Expresso Nitro(608860297)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (330)
+Seat 2: chatteurbete (290)
+Seat 3: Oinj1 (280)
+*** ANTE/BLINDS ***
+Oinj1 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [7c 3d]
+*** PRE-FLOP *** 
+chatteurbete folds
+Oinj1 folds
+YL_ML_GL_42 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2615035063447846913-3-1670323147 - Holdem no limit (10/20) - 2022/12/06 10:39:07 UTC
+Table: 'Expresso Nitro(608860297)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (340)
+Seat 2: chatteurbete (290)
+Seat 3: Oinj1 (270)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+chatteurbete posts big blind 20
+Dealt to YL_ML_GL_42 [5s Js]
+*** PRE-FLOP *** 
+Oinj1 raises 30 to 50
+YL_ML_GL_42 folds
+chatteurbete folds
+Oinj1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: Oinj1 (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2615035063447846913-4-1670323158 - Holdem no limit (10/20) - 2022/12/06 10:39:18 UTC
+Table: 'Expresso Nitro(608860297)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (330)
+Seat 2: chatteurbete (270)
+Seat 3: Oinj1 (300)
+*** ANTE/BLINDS ***
+chatteurbete posts small blind 10
+Oinj1 posts big blind 20
+Dealt to YL_ML_GL_42 [Qd Kd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+chatteurbete raises 200 to 270 and is all-in
+Oinj1 raises 30 to 300 and is all-in
+YL_ML_GL_42 raises 30 to 330 and is all-in
+*** FLOP *** [6s Jd Qc]
+*** TURN *** [6s Jd Qc][9h]
+*** RIVER *** [6s Jd Qc 9h][8c]
+*** SHOW DOWN ***
+Oinj1 shows [Ah 6h] (One pair : 6)
+YL_ML_GL_42 shows [Qd Kd] (One pair : Queens)
+chatteurbete shows [Tc Th] (Straight Queen high)
+chatteurbete collected 810 from main pot
+YL_ML_GL_42 collected 90 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6s Jd Qc 9h 8c]
+Seat 1: YL_ML_GL_42 (button) showed [Qd Kd] and won 90 with One pair : Queens
+Seat 2: chatteurbete (small blind) showed [Tc Th] and won 810 with Straight Queen high
+Seat 3: Oinj1 (big blind) showed [Ah 6h] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #2615035063447846913-5-1670323183 - Holdem no limit (10/20) - 2022/12/06 10:39:43 UTC
+Table: 'Expresso Nitro(608860297)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (90)
+Seat 2: chatteurbete (810)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+chatteurbete posts big blind 20
+Dealt to YL_ML_GL_42 [7h Th]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 70 to 90 and is all-in
+chatteurbete calls 70
+*** FLOP *** [7s 9c Jh]
+*** TURN *** [7s 9c Jh][8s]
+*** RIVER *** [7s 9c Jh 8s][8h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7h Th] (Straight Jack high)
+chatteurbete shows [9s 9d] (Full of 9 and 8)
+chatteurbete collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [7s 9c Jh 8s 8h]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [7h Th] and lost with Straight Jack high
+Seat 2: chatteurbete (big blind) showed [9s 9d] and won 180 with Full of 9 and 8
+
+

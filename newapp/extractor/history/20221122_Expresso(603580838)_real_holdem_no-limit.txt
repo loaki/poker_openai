@@ -1,0 +1,151 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2592359959702274049-1-1669136628 - Holdem no limit (10/20) - 2022/11/22 17:03:48 UTC
+Table: 'Expresso(603580838)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: FD_SUPOKER (500)
+Seat 3: Vio76000 (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+FD_SUPOKER posts big blind 20
+Dealt to YL_ML_GL_42 [6h 9c]
+*** PRE-FLOP *** 
+Vio76000 folds
+YL_ML_GL_42 folds
+FD_SUPOKER collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: FD_SUPOKER (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2592359959702274049-2-1669136640 - Holdem no limit (10/20) - 2022/11/22 17:04:00 UTC
+Table: 'Expresso(603580838)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (490)
+Seat 2: FD_SUPOKER (510)
+Seat 3: Vio76000 (500)
+*** ANTE/BLINDS ***
+FD_SUPOKER posts small blind 10
+Vio76000 posts big blind 20
+Dealt to YL_ML_GL_42 [9s Ah]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+FD_SUPOKER folds
+Vio76000 folds
+YL_ML_GL_42 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 1: YL_ML_GL_42 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2592359959702274049-3-1669136652 - Holdem no limit (10/20) - 2022/11/22 17:04:12 UTC
+Table: 'Expresso(603580838)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (520)
+Seat 2: FD_SUPOKER (500)
+Seat 3: Vio76000 (480)
+*** ANTE/BLINDS ***
+Vio76000 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [2s Jd]
+*** PRE-FLOP *** 
+FD_SUPOKER calls 20
+Vio76000 raises 60 to 80
+YL_ML_GL_42 folds
+FD_SUPOKER folds
+Vio76000 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Vio76000 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2592359959702274049-4-1669136663 - Holdem no limit (10/20) - 2022/11/22 17:04:23 UTC
+Table: 'Expresso(603580838)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: FD_SUPOKER (480)
+Seat 3: Vio76000 (520)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+FD_SUPOKER posts big blind 20
+Dealt to YL_ML_GL_42 [7c 2s]
+*** PRE-FLOP *** 
+Vio76000 folds
+YL_ML_GL_42 folds
+FD_SUPOKER collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: FD_SUPOKER (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2592359959702274049-5-1669136669 - Holdem no limit (10/20) - 2022/11/22 17:04:29 UTC
+Table: 'Expresso(603580838)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (490)
+Seat 2: FD_SUPOKER (490)
+Seat 3: Vio76000 (520)
+*** ANTE/BLINDS ***
+FD_SUPOKER posts small blind 10
+Vio76000 posts big blind 20
+Dealt to YL_ML_GL_42 [Ts Qd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+FD_SUPOKER folds
+Vio76000 folds
+YL_ML_GL_42 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 1: YL_ML_GL_42 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2592359959702274049-6-1669136676 - Holdem no limit (10/20) - 2022/11/22 17:04:36 UTC
+Table: 'Expresso(603580838)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (520)
+Seat 2: FD_SUPOKER (480)
+Seat 3: Vio76000 (500)
+*** ANTE/BLINDS ***
+Vio76000 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Qc Td]
+*** PRE-FLOP *** 
+FD_SUPOKER calls 20
+Vio76000 raises 20 to 40
+YL_ML_GL_42 raises 480 to 520 and is all-in
+FD_SUPOKER folds
+Vio76000 calls 460 and is all-in
+*** FLOP *** [3s 6s Ac]
+*** TURN *** [3s 6s Ac][8h]
+*** RIVER *** [3s 6s Ac 8h][2d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Qc Td] (High card : Ace)
+Vio76000 shows [Kh Jh] (High card : Ace)
+Vio76000 collected 1020 from main pot
+YL_ML_GL_42 collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [3s 6s Ac 8h 2d]
+Seat 1: YL_ML_GL_42 (big blind) showed [Qc Td] and won 20 with High card : Ace
+Seat 3: Vio76000 (small blind) showed [Kh Jh] and won 1020 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2592359959702274049-7-1669136697 - Holdem no limit (10/20) - 2022/11/22 17:04:57 UTC
+Table: 'Expresso(603580838)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (20)
+Seat 2: FD_SUPOKER (460)
+Seat 3: Vio76000 (1020)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+FD_SUPOKER posts big blind 20
+Dealt to YL_ML_GL_42 [7h Jc]
+*** PRE-FLOP *** 
+Vio76000 raises 1000 to 1020 and is all-in
+YL_ML_GL_42 calls 10 and is all-in
+FD_SUPOKER folds
+*** FLOP *** [6h Tc Th]
+*** TURN *** [6h Tc Th][Qc]
+*** RIVER *** [6h Tc Th Qc][3c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7h Jc] (One pair : Tens)
+Vio76000 shows [Ac Ts] (Trips of Tens)
+Vio76000 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Board: [6h Tc Th Qc 3c]
+Seat 1: YL_ML_GL_42 (small blind) showed [7h Jc] and lost with One pair : Tens
+Seat 3: Vio76000 (button) showed [Ac Ts] and won 1060 with Trips of Tens
+
+

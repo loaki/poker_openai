@@ -1,0 +1,1458 @@
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2565072159865045041-217-1667861541 - Holdem no limit (60/250/500) - 2022/11/07 22:52:21 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #5 is the button
+Seat 1: Wiago (66782)
+Seat 2: PROJECT A xd (9916)
+Seat 3: YL_ML_GL_42 (20000)
+Seat 4: Eltorpedo10 (86079)
+Seat 5: kapout24 (21630)
+Seat 6: 53c0nD3uc3 (26119)
+*** ANTE/BLINDS ***
+53c0nD3uc3 posts ante 60
+Wiago posts ante 60
+PROJECT A xd posts ante 60
+YL_ML_GL_42 posts ante 60
+Eltorpedo10 posts ante 60
+kapout24 posts ante 60
+53c0nD3uc3 posts small blind 250
+Wiago posts big blind 500
+Dealt to YL_ML_GL_42 [Ts 6d]
+*** PRE-FLOP *** 
+PROJECT A xd folds
+YL_ML_GL_42 folds
+Eltorpedo10 raises 500 to 1000
+kapout24 folds
+53c0nD3uc3 folds
+Wiago folds
+Eltorpedo10 collected 2110 from pot
+*** SUMMARY ***
+Total pot 2110 | No rake
+Seat 4: Eltorpedo10 won 2110
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2565072159865045041-218-1667861583 - Holdem no limit (60/250/500) - 2022/11/07 22:53:03 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #6 is the button
+Seat 1: Wiago (66222)
+Seat 2: PROJECT A xd (9856)
+Seat 3: YL_ML_GL_42 (19940)
+Seat 4: Eltorpedo10 (87129)
+Seat 5: kapout24 (21570)
+Seat 6: 53c0nD3uc3 (25809)
+*** ANTE/BLINDS ***
+Wiago posts ante 60
+PROJECT A xd posts ante 60
+YL_ML_GL_42 posts ante 60
+Eltorpedo10 posts ante 60
+kapout24 posts ante 60
+53c0nD3uc3 posts ante 60
+Wiago posts small blind 250
+PROJECT A xd posts big blind 500
+Dealt to YL_ML_GL_42 [Th 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Eltorpedo10 folds
+kapout24 folds
+53c0nD3uc3 folds
+Wiago raises 500 to 1000
+PROJECT A xd folds
+Wiago collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Seat 1: Wiago (small blind) won 1860
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2565072159865045041-219-1667861609 - Holdem no limit (60/250/500) - 2022/11/07 22:53:29 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #1 is the button
+Seat 1: Wiago (67022)
+Seat 2: PROJECT A xd (9296)
+Seat 3: YL_ML_GL_42 (19880)
+Seat 4: Eltorpedo10 (87069)
+Seat 5: kapout24 (21510)
+Seat 6: 53c0nD3uc3 (25749)
+*** ANTE/BLINDS ***
+PROJECT A xd posts ante 60
+YL_ML_GL_42 posts ante 60
+Wiago posts ante 60
+Eltorpedo10 posts ante 60
+kapout24 posts ante 60
+53c0nD3uc3 posts ante 60
+PROJECT A xd posts small blind 250
+YL_ML_GL_42 posts big blind 500
+Dealt to YL_ML_GL_42 [Js 5s]
+*** PRE-FLOP *** 
+Eltorpedo10 raises 500 to 1000
+kapout24 folds
+53c0nD3uc3 folds
+Wiago folds
+PROJECT A xd folds
+YL_ML_GL_42 folds
+Eltorpedo10 collected 2110 from pot
+*** SUMMARY ***
+Total pot 2110 | No rake
+Seat 4: Eltorpedo10 won 2110
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2565072159865045041-220-1667861677 - Holdem no limit (60/250/500) - 2022/11/07 22:54:37 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #2 is the button
+Seat 1: Wiago (66962)
+Seat 2: PROJECT A xd (8986)
+Seat 3: YL_ML_GL_42 (19320)
+Seat 4: Eltorpedo10 (88119)
+Seat 5: kapout24 (21450)
+Seat 6: 53c0nD3uc3 (25689)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+Eltorpedo10 posts ante 60
+Wiago posts ante 60
+PROJECT A xd posts ante 60
+kapout24 posts ante 60
+53c0nD3uc3 posts ante 60
+YL_ML_GL_42 posts small blind 250
+Eltorpedo10 posts big blind 500
+Dealt to YL_ML_GL_42 [9h 5c]
+*** PRE-FLOP *** 
+kapout24 folds
+53c0nD3uc3 raises 500 to 1000
+Wiago calls 1000
+PROJECT A xd folds
+YL_ML_GL_42 folds
+Eltorpedo10 calls 500
+*** FLOP *** [5d 7d 6d]
+Eltorpedo10 checks
+53c0nD3uc3 checks
+Wiago bets 1191
+Eltorpedo10 calls 1191
+53c0nD3uc3 folds
+*** TURN *** [5d 7d 6d][Qd]
+Eltorpedo10 checks
+Wiago bets 2996
+Eltorpedo10 folds
+Wiago collected 8988 from pot
+*** SUMMARY ***
+Total pot 8988 | No rake
+Board: [5d 7d 6d Qd]
+Seat 1: Wiago won 8988
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2565072159865045041-221-1667862062 - Holdem no limit (60/250/500) - 2022/11/07 23:01:02 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #3 is the button
+Seat 1: Wiago (70703)
+Seat 2: PROJECT A xd (8926)
+Seat 3: YL_ML_GL_42 (19010)
+Seat 4: Eltorpedo10 (85868)
+Seat 5: kapout24 (21390)
+Seat 6: 53c0nD3uc3 (24629)
+*** ANTE/BLINDS ***
+Eltorpedo10 posts ante 60
+kapout24 posts ante 60
+Wiago posts ante 60
+PROJECT A xd posts ante 60
+YL_ML_GL_42 posts ante 60
+53c0nD3uc3 posts ante 60
+Eltorpedo10 posts small blind 250
+kapout24 posts big blind 500
+Dealt to YL_ML_GL_42 [2h Td]
+*** PRE-FLOP *** 
+53c0nD3uc3 folds
+Wiago raises 500 to 1000
+PROJECT A xd folds
+YL_ML_GL_42 folds
+Eltorpedo10 folds
+kapout24 calls 500
+*** FLOP *** [9d 6c 2d]
+kapout24 checks
+Wiago bets 1723
+kapout24 calls 1723
+*** TURN *** [9d 6c 2d][3h]
+kapout24 checks
+Wiago bets 3028
+kapout24 calls 3028
+*** RIVER *** [9d 6c 2d 3h][Kd]
+kapout24 checks
+Wiago checks
+*** SHOW DOWN ***
+kapout24 shows [4c 2c] (One pair : 2)
+Wiago shows [Qs Kc] (One pair : Kings)
+Wiago collected 12112 from pot
+*** SUMMARY ***
+Total pot 12112 | No rake
+Board: [9d 6c 2d 3h Kd]
+Seat 1: Wiago showed [Qs Kc] and won 12112 with One pair : Kings
+Seat 5: kapout24 (big blind) showed [4c 2c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2565072159865045041-222-1667862135 - Holdem no limit (60/250/500) - 2022/11/07 23:02:15 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #4 is the button
+Seat 2: PROJECT A xd (8866)
+Seat 3: YL_ML_GL_42 (18950)
+Seat 4: Eltorpedo10 (85558)
+Seat 5: kapout24 (15579)
+Seat 6: 53c0nD3uc3 (24569)
+*** ANTE/BLINDS ***
+kapout24 posts ante 60
+53c0nD3uc3 posts ante 60
+PROJECT A xd posts ante 60
+YL_ML_GL_42 posts ante 60
+Eltorpedo10 posts ante 60
+kapout24 posts small blind 250
+53c0nD3uc3 posts big blind 500
+Dealt to YL_ML_GL_42 [8s 5c]
+*** PRE-FLOP *** 
+PROJECT A xd raises 8306 to 8806 and is all-in
+YL_ML_GL_42 folds
+Eltorpedo10 folds
+kapout24 raises 6713 to 15519 and is all-in
+53c0nD3uc3 folds
+*** FLOP *** [As Qc 2d]
+*** TURN *** [As Qc 2d][3d]
+*** RIVER *** [As Qc 2d 3d][Th]
+*** SHOW DOWN ***
+PROJECT A xd shows [6s 6c] (One pair : 6)
+kapout24 shows [8d 8c] (One pair : 8)
+kapout24 collected 25125 from pot
+*** SUMMARY ***
+Total pot 25125 | No rake
+Board: [As Qc 2d 3d Th]
+Seat 2: PROJECT A xd showed [6s 6c] and lost with One pair : 6
+Seat 5: kapout24 (small blind) showed [8d 8c] and won 25125 with One pair : 8
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2565072159865045041-223-1667862180 - Holdem no limit (60/250/500) - 2022/11/07 23:03:00 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #5 is the button
+Seat 1: ROBINFLOP13 (20000)
+Seat 3: YL_ML_GL_42 (18890)
+Seat 4: Eltorpedo10 (85498)
+Seat 5: kapout24 (25125)
+Seat 6: 53c0nD3uc3 (24009)
+*** ANTE/BLINDS ***
+53c0nD3uc3 posts ante 60
+ROBINFLOP13 posts ante 60
+YL_ML_GL_42 posts ante 60
+Eltorpedo10 posts ante 60
+kapout24 posts ante 60
+53c0nD3uc3 posts small blind 250
+ROBINFLOP13 posts big blind 500
+Dealt to YL_ML_GL_42 [7h 2s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Eltorpedo10 raises 500 to 1000
+kapout24 folds
+53c0nD3uc3 folds
+ROBINFLOP13 calls 500
+*** FLOP *** [3h 9h 6d]
+ROBINFLOP13 bets 1250
+Eltorpedo10 folds
+ROBINFLOP13 collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | No rake
+Board: [3h 9h 6d]
+Seat 1: ROBINFLOP13 (big blind) won 3800
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2565072159865045041-224-1667862252 - Holdem no limit (60/250/500) - 2022/11/07 23:04:12 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #6 is the button
+Seat 1: ROBINFLOP13 (21490)
+Seat 2: viking292929 (20000)
+Seat 3: YL_ML_GL_42 (18830)
+Seat 4: Eltorpedo10 (84438)
+Seat 5: kapout24 (25065)
+Seat 6: 53c0nD3uc3 (23699)
+*** ANTE/BLINDS ***
+ROBINFLOP13 posts ante 60
+viking292929 posts ante 60
+YL_ML_GL_42 posts ante 60
+Eltorpedo10 posts ante 60
+kapout24 posts ante 60
+53c0nD3uc3 posts ante 60
+ROBINFLOP13 posts small blind 250
+viking292929 posts big blind 500
+Dealt to YL_ML_GL_42 [Ac 8d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Eltorpedo10 raises 500 to 1000
+kapout24 folds
+53c0nD3uc3 calls 1000
+ROBINFLOP13 raises 20430 to 21430 and is all-in
+viking292929 folds
+Eltorpedo10 folds
+53c0nD3uc3 folds
+ROBINFLOP13 collected 24290 from pot
+*** SUMMARY ***
+Total pot 24290 | No rake
+Seat 1: ROBINFLOP13 (small blind) won 24290
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2565072159865045041-225-1667862329 - Holdem no limit (60/250/500) - 2022/11/07 23:05:29 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #1 is the button
+Seat 1: ROBINFLOP13 (24290)
+Seat 2: viking292929 (19440)
+Seat 3: YL_ML_GL_42 (18770)
+Seat 4: Eltorpedo10 (83378)
+Seat 5: kapout24 (25005)
+Seat 6: 53c0nD3uc3 (22639)
+*** ANTE/BLINDS ***
+viking292929 posts ante 60
+YL_ML_GL_42 posts ante 60
+ROBINFLOP13 posts ante 60
+Eltorpedo10 posts ante 60
+kapout24 posts ante 60
+53c0nD3uc3 posts ante 60
+viking292929 posts small blind 250
+YL_ML_GL_42 posts big blind 500
+Dealt to YL_ML_GL_42 [3s 8c]
+*** PRE-FLOP *** 
+Eltorpedo10 folds
+kapout24 raises 750 to 1250
+53c0nD3uc3 folds
+ROBINFLOP13 folds
+viking292929 calls 1000
+YL_ML_GL_42 folds
+*** FLOP *** [Ac 7c 3c]
+viking292929 checks
+kapout24 bets 1109
+viking292929 calls 1109
+*** TURN *** [Ac 7c 3c][3h]
+viking292929 checks
+kapout24 checks
+*** RIVER *** [Ac 7c 3c 3h][8h]
+viking292929 bets 1952
+kapout24 calls 1952
+*** SHOW DOWN ***
+viking292929 shows [Jc Jd] (Two pairs : Jacks and 3)
+kapout24 shows [9s Ad] (Two pairs : Aces and 3)
+kapout24 collected 9482 from pot
+*** SUMMARY ***
+Total pot 9482 | No rake
+Board: [Ac 7c 3c 3h 8h]
+Seat 2: viking292929 (small blind) showed [Jc Jd] and lost with Two pairs : Jacks and 3
+Seat 5: kapout24 showed [9s Ad] and won 9482 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2565072159865045041-226-1667862428 - Holdem no limit (60/250/500) - 2022/11/07 23:07:08 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #2 is the button
+Seat 1: ROBINFLOP13 (24230)
+Seat 2: viking292929 (15069)
+Seat 3: YL_ML_GL_42 (18210)
+Seat 4: Eltorpedo10 (83318)
+Seat 5: kapout24 (30116)
+Seat 6: 53c0nD3uc3 (22579)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+Eltorpedo10 posts ante 60
+ROBINFLOP13 posts ante 60
+viking292929 posts ante 60
+kapout24 posts ante 60
+53c0nD3uc3 posts ante 60
+YL_ML_GL_42 posts small blind 250
+Eltorpedo10 posts big blind 500
+Dealt to YL_ML_GL_42 [Kh 6h]
+*** PRE-FLOP *** 
+kapout24 folds
+53c0nD3uc3 folds
+ROBINFLOP13 raises 23670 to 24170 and is all-in
+viking292929 folds
+YL_ML_GL_42 folds
+Eltorpedo10 folds
+ROBINFLOP13 collected 25280 from pot
+*** SUMMARY ***
+Total pot 25280 | No rake
+Seat 1: ROBINFLOP13 won 25280
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2565072159865045041-227-1667862444 - Holdem no limit (60/250/500) - 2022/11/07 23:07:24 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #3 is the button
+Seat 1: ROBINFLOP13 (25280)
+Seat 2: viking292929 (15009)
+Seat 3: YL_ML_GL_42 (17900)
+Seat 4: Eltorpedo10 (82758)
+Seat 5: kapout24 (30056)
+Seat 6: 53c0nD3uc3 (22519)
+*** ANTE/BLINDS ***
+Eltorpedo10 posts ante 60
+kapout24 posts ante 60
+ROBINFLOP13 posts ante 60
+viking292929 posts ante 60
+YL_ML_GL_42 posts ante 60
+53c0nD3uc3 posts ante 60
+Eltorpedo10 posts small blind 250
+kapout24 posts big blind 500
+Dealt to YL_ML_GL_42 [Jc 3h]
+*** PRE-FLOP *** 
+53c0nD3uc3 folds
+ROBINFLOP13 raises 24720 to 25220 and is all-in
+viking292929 folds
+YL_ML_GL_42 folds
+Eltorpedo10 folds
+kapout24 folds
+ROBINFLOP13 collected 26330 from pot
+*** SUMMARY ***
+Total pot 26330 | No rake
+Seat 1: ROBINFLOP13 won 26330
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2565072159865045041-228-1667862460 - Holdem no limit (60/250/500) - 2022/11/07 23:07:40 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #4 is the button
+Seat 1: ROBINFLOP13 (26330)
+Seat 2: viking292929 (14949)
+Seat 3: YL_ML_GL_42 (17840)
+Seat 4: Eltorpedo10 (82448)
+Seat 5: kapout24 (29496)
+Seat 6: 53c0nD3uc3 (22459)
+*** ANTE/BLINDS ***
+kapout24 posts ante 60
+53c0nD3uc3 posts ante 60
+ROBINFLOP13 posts ante 60
+viking292929 posts ante 60
+YL_ML_GL_42 posts ante 60
+Eltorpedo10 posts ante 60
+kapout24 posts small blind 250
+53c0nD3uc3 posts big blind 500
+Dealt to YL_ML_GL_42 [As 4s]
+*** PRE-FLOP *** 
+ROBINFLOP13 folds
+viking292929 folds
+YL_ML_GL_42 raises 500 to 1000
+Eltorpedo10 calls 1000
+kapout24 folds
+53c0nD3uc3 calls 500
+*** FLOP *** [6h Kh 5c]
+53c0nD3uc3 checks
+YL_ML_GL_42 checks
+Eltorpedo10 checks
+*** TURN *** [6h Kh 5c][6s]
+53c0nD3uc3 checks
+YL_ML_GL_42 checks
+Eltorpedo10 checks
+*** RIVER *** [6h Kh 5c 6s][Qh]
+53c0nD3uc3 checks
+YL_ML_GL_42 checks
+Eltorpedo10 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [As 4s] (One pair : 6)
+Eltorpedo10 shows [Ah Js] (One pair : 6)
+53c0nD3uc3 shows [Ac 7c] (One pair : 6)
+53c0nD3uc3 collected 1204 from pot
+Eltorpedo10 collected 1203 from pot
+YL_ML_GL_42 collected 1203 from pot
+*** SUMMARY ***
+Total pot 3610 | No rake
+Board: [6h Kh 5c 6s Qh]
+Seat 3: YL_ML_GL_42 showed [As 4s] and won 1203 with One pair : 6
+Seat 4: Eltorpedo10 (button) showed [Ah Js] and won 1203 with One pair : 6
+Seat 6: 53c0nD3uc3 (big blind) showed [Ac 7c] and won 1204 with One pair : 6
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2565072159865045041-229-1667862552 - Holdem no limit (60/250/500) - 2022/11/07 23:09:12 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #5 is the button
+Seat 1: ROBINFLOP13 (26270)
+Seat 2: viking292929 (14889)
+Seat 3: YL_ML_GL_42 (17983)
+Seat 4: Eltorpedo10 (82591)
+Seat 5: kapout24 (29186)
+Seat 6: 53c0nD3uc3 (22603)
+*** ANTE/BLINDS ***
+53c0nD3uc3 posts ante 60
+ROBINFLOP13 posts ante 60
+viking292929 posts ante 60
+YL_ML_GL_42 posts ante 60
+Eltorpedo10 posts ante 60
+kapout24 posts ante 60
+53c0nD3uc3 posts small blind 250
+ROBINFLOP13 posts big blind 500
+Dealt to YL_ML_GL_42 [8c Qh]
+*** PRE-FLOP *** 
+viking292929 folds
+YL_ML_GL_42 folds
+Eltorpedo10 raises 500 to 1000
+kapout24 raises 2500 to 3500
+53c0nD3uc3 folds
+ROBINFLOP13 calls 3000
+Eltorpedo10 calls 2500
+*** FLOP *** [Qs Js 5h]
+ROBINFLOP13 checks
+Eltorpedo10 checks
+kapout24 checks
+*** TURN *** [Qs Js 5h][Kh]
+ROBINFLOP13 checks
+Eltorpedo10 checks
+kapout24 bets 9444
+ROBINFLOP13 folds
+Eltorpedo10 calls 9444
+*** RIVER *** [Qs Js 5h Kh][2d]
+Eltorpedo10 checks
+kapout24 checks
+*** SHOW DOWN ***
+Eltorpedo10 shows [Ah 9h] (High card : Ace)
+kapout24 shows [Kd 5d] (Two pairs : Kings and 5)
+kapout24 collected 29998 from pot
+*** SUMMARY ***
+Total pot 29998 | No rake
+Board: [Qs Js 5h Kh 2d]
+Seat 4: Eltorpedo10 showed [Ah 9h] and lost with High card : Ace
+Seat 5: kapout24 (button) showed [Kd 5d] and won 29998 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2565072159865045041-230-1667862676 - Holdem no limit (70/300/600) - 2022/11/07 23:11:16 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #6 is the button
+Seat 1: ROBINFLOP13 (22710)
+Seat 2: viking292929 (14829)
+Seat 3: YL_ML_GL_42 (17923)
+Seat 4: Eltorpedo10 (69587)
+Seat 5: kapout24 (46180)
+Seat 6: 53c0nD3uc3 (22293)
+*** ANTE/BLINDS ***
+ROBINFLOP13 posts ante 70
+viking292929 posts ante 70
+YL_ML_GL_42 posts ante 70
+Eltorpedo10 posts ante 70
+kapout24 posts ante 70
+53c0nD3uc3 posts ante 70
+ROBINFLOP13 posts small blind 300
+viking292929 posts big blind 600
+Dealt to YL_ML_GL_42 [4d 8c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Eltorpedo10 folds
+kapout24 folds
+53c0nD3uc3 folds
+ROBINFLOP13 calls 300
+viking292929 checks
+*** FLOP *** [8d Ac 6d]
+ROBINFLOP13 checks
+viking292929 checks
+*** TURN *** [8d Ac 6d][4c]
+ROBINFLOP13 bets 600
+viking292929 folds
+ROBINFLOP13 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [8d Ac 6d 4c]
+Seat 1: ROBINFLOP13 (small blind) won 2220
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2565072159865045041-231-1667862705 - Holdem no limit (70/300/600) - 2022/11/07 23:11:45 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #1 is the button
+Seat 1: ROBINFLOP13 (23660)
+Seat 2: viking292929 (14159)
+Seat 3: YL_ML_GL_42 (17853)
+Seat 4: Eltorpedo10 (69517)
+Seat 5: kapout24 (46110)
+Seat 6: 53c0nD3uc3 (22223)
+*** ANTE/BLINDS ***
+viking292929 posts ante 70
+YL_ML_GL_42 posts ante 70
+ROBINFLOP13 posts ante 70
+Eltorpedo10 posts ante 70
+kapout24 posts ante 70
+53c0nD3uc3 posts ante 70
+viking292929 posts small blind 300
+YL_ML_GL_42 posts big blind 600
+Dealt to YL_ML_GL_42 [Jd 7s]
+*** PRE-FLOP *** 
+Eltorpedo10 folds
+kapout24 folds
+53c0nD3uc3 folds
+ROBINFLOP13 folds
+viking292929 folds
+YL_ML_GL_42 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Seat 3: YL_ML_GL_42 (big blind) won 1320
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2565072159865045041-232-1667862737 - Holdem no limit (70/300/600) - 2022/11/07 23:12:17 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #2 is the button
+Seat 1: ROBINFLOP13 (23590)
+Seat 2: viking292929 (13789)
+Seat 3: YL_ML_GL_42 (18503)
+Seat 4: Eltorpedo10 (69447)
+Seat 5: kapout24 (46040)
+Seat 6: 53c0nD3uc3 (22153)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 70
+Eltorpedo10 posts ante 70
+ROBINFLOP13 posts ante 70
+viking292929 posts ante 70
+kapout24 posts ante 70
+53c0nD3uc3 posts ante 70
+YL_ML_GL_42 posts small blind 300
+Eltorpedo10 posts big blind 600
+Dealt to YL_ML_GL_42 [5s 3c]
+*** PRE-FLOP *** 
+kapout24 folds
+53c0nD3uc3 folds
+ROBINFLOP13 calls 600
+viking292929 calls 600
+YL_ML_GL_42 folds
+Eltorpedo10 checks
+*** FLOP *** [As 2c 8h]
+Eltorpedo10 checks
+ROBINFLOP13 checks
+viking292929 checks
+*** TURN *** [As 2c 8h][Tc]
+Eltorpedo10 checks
+ROBINFLOP13 checks
+viking292929 bets 600
+Eltorpedo10 calls 600
+ROBINFLOP13 calls 600
+*** RIVER *** [As 2c 8h Tc][Jh]
+Eltorpedo10 checks
+ROBINFLOP13 checks
+viking292929 bets 1512
+Eltorpedo10 folds
+ROBINFLOP13 calls 1512
+*** SHOW DOWN ***
+ROBINFLOP13 shows [Td Js] (Two pairs : Jacks and Tens)
+viking292929 shows [Ts Jd] (Two pairs : Jacks and Tens)
+viking292929 collected 3672 from pot
+ROBINFLOP13 collected 3672 from pot
+*** SUMMARY ***
+Total pot 7344 | No rake
+Board: [As 2c 8h Tc Jh]
+Seat 1: ROBINFLOP13 showed [Td Js] and won 3672 with Two pairs : Jacks and Tens
+Seat 2: viking292929 (button) showed [Ts Jd] and won 3672 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2565072159865045041-233-1667862802 - Holdem no limit (70/300/600) - 2022/11/07 23:13:22 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #3 is the button
+Seat 1: ROBINFLOP13 (24480)
+Seat 2: viking292929 (14679)
+Seat 3: YL_ML_GL_42 (18133)
+Seat 4: Eltorpedo10 (68177)
+Seat 5: kapout24 (45970)
+Seat 6: 53c0nD3uc3 (22083)
+*** ANTE/BLINDS ***
+Eltorpedo10 posts ante 70
+kapout24 posts ante 70
+ROBINFLOP13 posts ante 70
+viking292929 posts ante 70
+YL_ML_GL_42 posts ante 70
+53c0nD3uc3 posts ante 70
+Eltorpedo10 posts small blind 300
+kapout24 posts big blind 600
+Dealt to YL_ML_GL_42 [Ah As]
+*** PRE-FLOP *** 
+53c0nD3uc3 raises 600 to 1200
+ROBINFLOP13 raises 23210 to 24410 and is all-in
+viking292929 folds
+YL_ML_GL_42 calls 18063 and is all-in
+Eltorpedo10 folds
+kapout24 folds
+53c0nD3uc3 folds
+*** FLOP *** [Qc Jd 9h]
+*** TURN *** [Qc Jd 9h][Jc]
+*** RIVER *** [Qc Jd 9h Jc][5c]
+*** SHOW DOWN ***
+ROBINFLOP13 shows [Ks Ad] (One pair : Jacks)
+YL_ML_GL_42 shows [Ah As] (Two pairs : Aces and Jacks)
+YL_ML_GL_42 collected 38646 from main pot
+ROBINFLOP13 collected 6347 from side pot 1
+*** SUMMARY ***
+Total pot 44993 | No rake
+Board: [Qc Jd 9h Jc 5c]
+Seat 1: ROBINFLOP13 showed [Ks Ad] and won 6347 with One pair : Jacks
+Seat 3: YL_ML_GL_42 (button) showed [Ah As] and won 38646 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2565072159865045041-234-1667862829 - Holdem no limit (70/300/600) - 2022/11/07 23:13:49 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #4 is the button
+Seat 1: ROBINFLOP13 (6347)
+Seat 2: viking292929 (14609)
+Seat 3: YL_ML_GL_42 (38646)
+Seat 4: Eltorpedo10 (67807)
+Seat 5: kapout24 (45300)
+Seat 6: 53c0nD3uc3 (20813)
+*** ANTE/BLINDS ***
+kapout24 posts ante 70
+53c0nD3uc3 posts ante 70
+ROBINFLOP13 posts ante 70
+viking292929 posts ante 70
+YL_ML_GL_42 posts ante 70
+Eltorpedo10 posts ante 70
+kapout24 posts small blind 300
+53c0nD3uc3 posts big blind 600
+Dealt to YL_ML_GL_42 [9h Jh]
+*** PRE-FLOP *** 
+ROBINFLOP13 folds
+viking292929 folds
+YL_ML_GL_42 raises 600 to 1200
+Eltorpedo10 folds
+kapout24 calls 900
+53c0nD3uc3 raises 19543 to 20743 and is all-in
+YL_ML_GL_42 calls 19543
+kapout24 folds
+*** FLOP *** [Th Qh As]
+*** TURN *** [Th Qh As][Qc]
+*** RIVER *** [Th Qh As Qc][3d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9h Jh] (One pair : Queens)
+53c0nD3uc3 shows [9s 9d] (Two pairs : Queens and 9)
+53c0nD3uc3 collected 43106 from pot
+*** SUMMARY ***
+Total pot 43106 | No rake
+Board: [Th Qh As Qc 3d]
+Seat 3: YL_ML_GL_42 showed [9h Jh] and lost with One pair : Queens
+Seat 6: 53c0nD3uc3 (big blind) showed [9s 9d] and won 43106 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2565072159865045041-235-1667862891 - Holdem no limit (70/300/600) - 2022/11/07 23:14:51 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #5 is the button
+Seat 1: ROBINFLOP13 (6277)
+Seat 2: viking292929 (14539)
+Seat 3: YL_ML_GL_42 (17833)
+Seat 4: Eltorpedo10 (67737)
+Seat 5: kapout24 (44030)
+Seat 6: 53c0nD3uc3 (43106)
+*** ANTE/BLINDS ***
+53c0nD3uc3 posts ante 70
+ROBINFLOP13 posts ante 70
+viking292929 posts ante 70
+YL_ML_GL_42 posts ante 70
+Eltorpedo10 posts ante 70
+kapout24 posts ante 70
+53c0nD3uc3 posts small blind 300
+ROBINFLOP13 posts big blind 600
+Dealt to YL_ML_GL_42 [9c 5c]
+*** PRE-FLOP *** 
+viking292929 folds
+YL_ML_GL_42 folds
+Eltorpedo10 folds
+kapout24 folds
+53c0nD3uc3 folds
+ROBINFLOP13 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Seat 1: ROBINFLOP13 (big blind) won 1320
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2565072159865045041-236-1667862946 - Holdem no limit (70/300/600) - 2022/11/07 23:15:46 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #6 is the button
+Seat 1: ROBINFLOP13 (6927)
+Seat 2: viking292929 (14469)
+Seat 3: YL_ML_GL_42 (17763)
+Seat 4: Eltorpedo10 (67667)
+Seat 5: kapout24 (43960)
+Seat 6: 53c0nD3uc3 (42736)
+*** ANTE/BLINDS ***
+ROBINFLOP13 posts ante 70
+viking292929 posts ante 70
+YL_ML_GL_42 posts ante 70
+Eltorpedo10 posts ante 70
+kapout24 posts ante 70
+53c0nD3uc3 posts ante 70
+ROBINFLOP13 posts small blind 300
+viking292929 posts big blind 600
+Dealt to YL_ML_GL_42 [9d 7c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Eltorpedo10 folds
+kapout24 folds
+53c0nD3uc3 raises 600 to 1200
+ROBINFLOP13 calls 900
+viking292929 calls 600
+*** FLOP *** [Qh Tc 5d]
+ROBINFLOP13 checks
+viking292929 checks
+53c0nD3uc3 checks
+*** TURN *** [Qh Tc 5d][7d]
+ROBINFLOP13 checks
+viking292929 checks
+53c0nD3uc3 checks
+*** RIVER *** [Qh Tc 5d 7d][2d]
+ROBINFLOP13 checks
+viking292929 bets 2613
+53c0nD3uc3 folds
+ROBINFLOP13 calls 2613
+*** SHOW DOWN ***
+viking292929 shows [Jc 8d] (High card : Queen)
+ROBINFLOP13 shows [7h As] (One pair : 7)
+ROBINFLOP13 collected 9246 from pot
+*** SUMMARY ***
+Total pot 9246 | No rake
+Board: [Qh Tc 5d 7d 2d]
+Seat 1: ROBINFLOP13 (small blind) showed [7h As] and won 9246 with One pair : 7
+Seat 2: viking292929 (big blind) showed [Jc 8d] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2565072159865045041-237-1667863022 - Holdem no limit (70/300/600) - 2022/11/07 23:17:02 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #1 is the button
+Seat 1: ROBINFLOP13 (12290)
+Seat 2: viking292929 (10586)
+Seat 3: YL_ML_GL_42 (17693)
+Seat 4: Eltorpedo10 (67597)
+Seat 5: kapout24 (43890)
+Seat 6: 53c0nD3uc3 (41466)
+*** ANTE/BLINDS ***
+viking292929 posts ante 70
+YL_ML_GL_42 posts ante 70
+ROBINFLOP13 posts ante 70
+Eltorpedo10 posts ante 70
+kapout24 posts ante 70
+53c0nD3uc3 posts ante 70
+viking292929 posts small blind 300
+YL_ML_GL_42 posts big blind 600
+Dealt to YL_ML_GL_42 [5d Ah]
+*** PRE-FLOP *** 
+Eltorpedo10 folds
+kapout24 raises 900 to 1500
+53c0nD3uc3 raises 3000 to 4500
+ROBINFLOP13 folds
+viking292929 folds
+YL_ML_GL_42 raises 13123 to 17623 and is all-in
+kapout24 folds
+53c0nD3uc3 calls 13123
+*** FLOP *** [3d 5h 6d]
+*** TURN *** [3d 5h 6d][Kc]
+*** RIVER *** [3d 5h 6d Kc][4d]
+*** SHOW DOWN ***
+53c0nD3uc3 shows [Jc Ad] (High card : Ace)
+YL_ML_GL_42 shows [5d Ah] (One pair : 5)
+YL_ML_GL_42 collected 37466 from pot
+*** SUMMARY ***
+Total pot 37466 | No rake
+Board: [3d 5h 6d Kc 4d]
+Seat 3: YL_ML_GL_42 (big blind) showed [5d Ah] and won 37466 with One pair : 5
+Seat 6: 53c0nD3uc3 showed [Jc Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2565072159865045041-238-1667863087 - Holdem no limit (70/300/600) - 2022/11/07 23:18:07 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #2 is the button
+Seat 1: ROBINFLOP13 (12220)
+Seat 2: viking292929 (10216)
+Seat 3: YL_ML_GL_42 (37466)
+Seat 4: Eltorpedo10 (67527)
+Seat 5: kapout24 (42320)
+Seat 6: 53c0nD3uc3 (23773)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 70
+Eltorpedo10 posts ante 70
+ROBINFLOP13 posts ante 70
+viking292929 posts ante 70
+kapout24 posts ante 70
+53c0nD3uc3 posts ante 70
+YL_ML_GL_42 posts small blind 300
+Eltorpedo10 posts big blind 600
+Dealt to YL_ML_GL_42 [Ad 6d]
+*** PRE-FLOP *** 
+kapout24 raises 600 to 1200
+53c0nD3uc3 folds
+ROBINFLOP13 folds
+viking292929 folds
+YL_ML_GL_42 folds
+Eltorpedo10 calls 600
+*** FLOP *** [5d 5c Th]
+Eltorpedo10 checks
+kapout24 bets 1030
+Eltorpedo10 folds
+kapout24 collected 4150 from pot
+*** SUMMARY ***
+Total pot 4150 | No rake
+Board: [5d 5c Th]
+Seat 5: kapout24 won 4150
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2565072159865045041-239-1667863138 - Holdem no limit (70/300/600) - 2022/11/07 23:18:58 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #3 is the button
+Seat 1: ROBINFLOP13 (12150)
+Seat 2: viking292929 (10146)
+Seat 3: YL_ML_GL_42 (37096)
+Seat 4: Eltorpedo10 (66257)
+Seat 5: kapout24 (44170)
+Seat 6: 53c0nD3uc3 (23703)
+*** ANTE/BLINDS ***
+Eltorpedo10 posts ante 70
+kapout24 posts ante 70
+ROBINFLOP13 posts ante 70
+viking292929 posts ante 70
+YL_ML_GL_42 posts ante 70
+53c0nD3uc3 posts ante 70
+Eltorpedo10 posts small blind 300
+kapout24 posts big blind 600
+Dealt to YL_ML_GL_42 [6s Qh]
+*** PRE-FLOP *** 
+53c0nD3uc3 folds
+ROBINFLOP13 folds
+viking292929 raises 1200 to 1800
+YL_ML_GL_42 folds
+Eltorpedo10 folds
+kapout24 calls 1200
+*** FLOP *** [4s Qc 5d]
+kapout24 checks
+viking292929 bets 1512
+kapout24 folds
+viking292929 collected 5832 from pot
+*** SUMMARY ***
+Total pot 5832 | No rake
+Board: [4s Qc 5d]
+Seat 2: viking292929 won 5832
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2565072159865045041-240-1667863195 - Holdem no limit (70/300/600) - 2022/11/07 23:19:55 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #4 is the button
+Seat 1: ROBINFLOP13 (12080)
+Seat 2: viking292929 (12596)
+Seat 3: YL_ML_GL_42 (37026)
+Seat 4: Eltorpedo10 (65887)
+Seat 5: kapout24 (42300)
+Seat 6: 53c0nD3uc3 (23633)
+*** ANTE/BLINDS ***
+kapout24 posts ante 70
+53c0nD3uc3 posts ante 70
+ROBINFLOP13 posts ante 70
+viking292929 posts ante 70
+YL_ML_GL_42 posts ante 70
+Eltorpedo10 posts ante 70
+kapout24 posts small blind 300
+53c0nD3uc3 posts big blind 600
+Dealt to YL_ML_GL_42 [3h 2h]
+*** PRE-FLOP *** 
+ROBINFLOP13 raises 11410 to 12010 and is all-in
+viking292929 folds
+YL_ML_GL_42 folds
+Eltorpedo10 folds
+kapout24 folds
+53c0nD3uc3 calls 11410
+*** FLOP *** [Ts 5c 8s]
+*** TURN *** [Ts 5c 8s][9h]
+*** RIVER *** [Ts 5c 8s 9h][3s]
+*** SHOW DOWN ***
+53c0nD3uc3 shows [Qc As] (High card : Ace)
+ROBINFLOP13 shows [Ac 5d] (One pair : 5)
+ROBINFLOP13 collected 24740 from pot
+*** SUMMARY ***
+Total pot 24740 | No rake
+Board: [Ts 5c 8s 9h 3s]
+Seat 1: ROBINFLOP13 showed [Ac 5d] and won 24740 with One pair : 5
+Seat 6: 53c0nD3uc3 (big blind) showed [Qc As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2565072159865045041-241-1667863245 - Holdem no limit (70/300/600) - 2022/11/07 23:20:45 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #5 is the button
+Seat 1: ROBINFLOP13 (24740)
+Seat 2: viking292929 (12526)
+Seat 3: YL_ML_GL_42 (36956)
+Seat 4: Eltorpedo10 (65817)
+Seat 5: kapout24 (41930)
+Seat 6: 53c0nD3uc3 (11553)
+*** ANTE/BLINDS ***
+53c0nD3uc3 posts ante 70
+ROBINFLOP13 posts ante 70
+viking292929 posts ante 70
+YL_ML_GL_42 posts ante 70
+Eltorpedo10 posts ante 70
+kapout24 posts ante 70
+53c0nD3uc3 posts small blind 300
+ROBINFLOP13 posts big blind 600
+Dealt to YL_ML_GL_42 [9h 4d]
+*** PRE-FLOP *** 
+viking292929 calls 600
+YL_ML_GL_42 folds
+Eltorpedo10 calls 600
+kapout24 calls 600
+53c0nD3uc3 calls 300
+ROBINFLOP13 checks
+*** FLOP *** [7h 6s 3s]
+53c0nD3uc3 checks
+ROBINFLOP13 checks
+viking292929 checks
+Eltorpedo10 bets 600
+kapout24 calls 600
+53c0nD3uc3 folds
+ROBINFLOP13 calls 600
+viking292929 calls 600
+*** TURN *** [7h 6s 3s][4h]
+ROBINFLOP13 checks
+viking292929 checks
+Eltorpedo10 checks
+kapout24 checks
+*** RIVER *** [7h 6s 3s 4h][9c]
+ROBINFLOP13 checks
+viking292929 bets 11256 and is all-in
+Eltorpedo10 folds
+kapout24 folds
+ROBINFLOP13 folds
+viking292929 collected 17076 from pot
+*** SUMMARY ***
+Total pot 17076 | No rake
+Board: [7h 6s 3s 4h 9c]
+Seat 2: viking292929 won 17076
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2565072159865045041-242-1667863379 - Holdem no limit (70/300/600) - 2022/11/07 23:22:59 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #6 is the button
+Seat 1: ROBINFLOP13 (23470)
+Seat 2: viking292929 (17076)
+Seat 3: YL_ML_GL_42 (36886)
+Seat 4: Eltorpedo10 (64547)
+Seat 5: kapout24 (40660)
+Seat 6: 53c0nD3uc3 (10883)
+*** ANTE/BLINDS ***
+ROBINFLOP13 posts ante 70
+viking292929 posts ante 70
+YL_ML_GL_42 posts ante 70
+Eltorpedo10 posts ante 70
+kapout24 posts ante 70
+53c0nD3uc3 posts ante 70
+ROBINFLOP13 posts small blind 300
+viking292929 posts big blind 600
+Dealt to YL_ML_GL_42 [As 8c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 600 to 1200
+Eltorpedo10 folds
+kapout24 folds
+53c0nD3uc3 folds
+ROBINFLOP13 folds
+viking292929 calls 600
+*** FLOP *** [Kh 6h Ts]
+viking292929 checks
+YL_ML_GL_42 checks
+*** TURN *** [Kh 6h Ts][Qc]
+viking292929 checks
+YL_ML_GL_42 checks
+*** RIVER *** [Kh 6h Ts Qc][7h]
+viking292929 checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+viking292929 shows [Ah 2c] (High card : Ace)
+YL_ML_GL_42 shows [As 8c] (High card : Ace)
+YL_ML_GL_42 collected 3120 from pot
+*** SUMMARY ***
+Total pot 3120 | No rake
+Board: [Kh 6h Ts Qc 7h]
+Seat 2: viking292929 (big blind) showed [Ah 2c] and lost with High card : Ace
+Seat 3: YL_ML_GL_42 showed [As 8c] and won 3120 with High card : Ace
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2565072159865045041-243-1667863474 - Holdem no limit (80/350/700) - 2022/11/07 23:24:34 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #1 is the button
+Seat 1: ROBINFLOP13 (23100)
+Seat 2: viking292929 (15806)
+Seat 3: YL_ML_GL_42 (38736)
+Seat 4: Eltorpedo10 (64477)
+Seat 5: kapout24 (40590)
+Seat 6: 53c0nD3uc3 (10813)
+*** ANTE/BLINDS ***
+viking292929 posts ante 80
+YL_ML_GL_42 posts ante 80
+ROBINFLOP13 posts ante 80
+Eltorpedo10 posts ante 80
+kapout24 posts ante 80
+53c0nD3uc3 posts ante 80
+viking292929 posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [6h 4d]
+*** PRE-FLOP *** 
+Eltorpedo10 folds
+kapout24 raises 700 to 1400
+53c0nD3uc3 folds
+ROBINFLOP13 calls 1400
+viking292929 calls 1050
+YL_ML_GL_42 folds
+*** FLOP *** [9h Ac Js]
+viking292929 checks
+kapout24 checks
+ROBINFLOP13 checks
+*** TURN *** [9h Ac Js][As]
+viking292929 checks
+kapout24 checks
+ROBINFLOP13 checks
+*** RIVER *** [9h Ac Js As][9d]
+viking292929 checks
+kapout24 bets 2690
+ROBINFLOP13 calls 2690
+viking292929 folds
+*** SHOW DOWN ***
+kapout24 shows [8c 8d] (Two pairs : Aces and 9)
+ROBINFLOP13 shows [Kd Jh] (Two pairs : Aces and Jacks)
+ROBINFLOP13 collected 10760 from pot
+*** SUMMARY ***
+Total pot 10760 | No rake
+Board: [9h Ac Js As 9d]
+Seat 1: ROBINFLOP13 (button) showed [Kd Jh] and won 10760 with Two pairs : Aces and Jacks
+Seat 5: kapout24 showed [8c 8d] and lost with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2565072159865045041-244-1667863544 - Holdem no limit (80/350/700) - 2022/11/07 23:25:44 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #2 is the button
+Seat 1: ROBINFLOP13 (29690)
+Seat 2: viking292929 (14326)
+Seat 3: YL_ML_GL_42 (37956)
+Seat 4: Eltorpedo10 (64397)
+Seat 5: kapout24 (36420)
+Seat 6: 53c0nD3uc3 (10733)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+Eltorpedo10 posts ante 80
+ROBINFLOP13 posts ante 80
+viking292929 posts ante 80
+kapout24 posts ante 80
+53c0nD3uc3 posts ante 80
+YL_ML_GL_42 posts small blind 350
+Eltorpedo10 posts big blind 700
+Dealt to YL_ML_GL_42 [9d 6h]
+*** PRE-FLOP *** 
+kapout24 folds
+53c0nD3uc3 folds
+ROBINFLOP13 folds
+viking292929 folds
+YL_ML_GL_42 folds
+Eltorpedo10 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 4: Eltorpedo10 (big blind) won 1530
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2565072159865045041-245-1667863576 - Holdem no limit (80/350/700) - 2022/11/07 23:26:16 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #3 is the button
+Seat 1: ROBINFLOP13 (29610)
+Seat 2: viking292929 (14246)
+Seat 3: YL_ML_GL_42 (37526)
+Seat 4: Eltorpedo10 (65147)
+Seat 5: kapout24 (36340)
+Seat 6: 53c0nD3uc3 (10653)
+*** ANTE/BLINDS ***
+Eltorpedo10 posts ante 80
+kapout24 posts ante 80
+ROBINFLOP13 posts ante 80
+viking292929 posts ante 80
+YL_ML_GL_42 posts ante 80
+53c0nD3uc3 posts ante 80
+Eltorpedo10 posts small blind 350
+kapout24 posts big blind 700
+Dealt to YL_ML_GL_42 [3c Tc]
+*** PRE-FLOP *** 
+53c0nD3uc3 folds
+ROBINFLOP13 calls 700
+viking292929 calls 700
+YL_ML_GL_42 folds
+Eltorpedo10 calls 350
+kapout24 checks
+*** FLOP *** [2d Js 3s]
+Eltorpedo10 checks
+kapout24 checks
+ROBINFLOP13 checks
+viking292929 bets 2132
+Eltorpedo10 calls 2132
+kapout24 folds
+ROBINFLOP13 folds
+*** TURN *** [2d Js 3s][8s]
+Eltorpedo10 checks
+viking292929 bets 2640
+Eltorpedo10 calls 2640
+*** RIVER *** [2d Js 3s 8s][4s]
+Eltorpedo10 checks
+viking292929 checks
+*** SHOW DOWN ***
+Eltorpedo10 shows [Td Jd] (One pair : Jacks)
+viking292929 shows [Jh Qh] (One pair : Jacks)
+viking292929 collected 12824 from pot
+*** SUMMARY ***
+Total pot 12824 | No rake
+Board: [2d Js 3s 8s 4s]
+Seat 2: viking292929 showed [Jh Qh] and won 12824 with One pair : Jacks
+Seat 4: Eltorpedo10 (small blind) showed [Td Jd] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2565072159865045041-246-1667863652 - Holdem no limit (80/350/700) - 2022/11/07 23:27:32 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #4 is the button
+Seat 1: ROBINFLOP13 (28830)
+Seat 2: viking292929 (21518)
+Seat 3: YL_ML_GL_42 (37446)
+Seat 4: Eltorpedo10 (59595)
+Seat 5: kapout24 (35560)
+Seat 6: 53c0nD3uc3 (10573)
+*** ANTE/BLINDS ***
+kapout24 posts ante 80
+53c0nD3uc3 posts ante 80
+ROBINFLOP13 posts ante 80
+viking292929 posts ante 80
+YL_ML_GL_42 posts ante 80
+Eltorpedo10 posts ante 80
+kapout24 posts small blind 350
+53c0nD3uc3 posts big blind 700
+Dealt to YL_ML_GL_42 [3h 7s]
+*** PRE-FLOP *** 
+ROBINFLOP13 folds
+viking292929 folds
+YL_ML_GL_42 folds
+Eltorpedo10 raises 1050 to 1750
+kapout24 calls 1400
+53c0nD3uc3 folds
+*** FLOP *** [2d 3c 5s]
+kapout24 checks
+Eltorpedo10 bets 1638
+kapout24 folds
+Eltorpedo10 collected 6318 from pot
+*** SUMMARY ***
+Total pot 6318 | No rake
+Board: [2d 3c 5s]
+Seat 4: Eltorpedo10 (button) won 6318
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2565072159865045041-247-1667863680 - Holdem no limit (80/350/700) - 2022/11/07 23:28:00 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #5 is the button
+Seat 1: ROBINFLOP13 (28750)
+Seat 2: viking292929 (21438)
+Seat 3: YL_ML_GL_42 (37366)
+Seat 4: Eltorpedo10 (62445)
+Seat 5: kapout24 (33730)
+Seat 6: 53c0nD3uc3 (9793)
+*** ANTE/BLINDS ***
+53c0nD3uc3 posts ante 80
+ROBINFLOP13 posts ante 80
+viking292929 posts ante 80
+YL_ML_GL_42 posts ante 80
+Eltorpedo10 posts ante 80
+kapout24 posts ante 80
+53c0nD3uc3 posts small blind 350
+ROBINFLOP13 posts big blind 700
+Dealt to YL_ML_GL_42 [6h Ks]
+*** PRE-FLOP *** 
+viking292929 folds
+YL_ML_GL_42 folds
+Eltorpedo10 folds
+kapout24 raises 700 to 1400
+53c0nD3uc3 raises 8313 to 9713 and is all-in
+ROBINFLOP13 folds
+kapout24 folds
+53c0nD3uc3 collected 12293 from pot
+*** SUMMARY ***
+Total pot 12293 | No rake
+Seat 6: 53c0nD3uc3 (small blind) won 12293
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2565072159865045041-248-1667863704 - Holdem no limit (80/350/700) - 2022/11/07 23:28:24 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #6 is the button
+Seat 1: ROBINFLOP13 (27970)
+Seat 2: viking292929 (21358)
+Seat 3: YL_ML_GL_42 (37286)
+Seat 4: Eltorpedo10 (62365)
+Seat 5: kapout24 (32250)
+Seat 6: 53c0nD3uc3 (12293)
+*** ANTE/BLINDS ***
+ROBINFLOP13 posts ante 80
+viking292929 posts ante 80
+YL_ML_GL_42 posts ante 80
+Eltorpedo10 posts ante 80
+kapout24 posts ante 80
+53c0nD3uc3 posts ante 80
+ROBINFLOP13 posts small blind 350
+viking292929 posts big blind 700
+Dealt to YL_ML_GL_42 [7d Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Eltorpedo10 folds
+kapout24 folds
+53c0nD3uc3 raises 11513 to 12213 and is all-in
+ROBINFLOP13 folds
+viking292929 folds
+53c0nD3uc3 collected 13743 from pot
+*** SUMMARY ***
+Total pot 13743 | No rake
+Seat 6: 53c0nD3uc3 (button) won 13743
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2565072159865045041-249-1667863718 - Holdem no limit (80/350/700) - 2022/11/07 23:28:38 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #1 is the button
+Seat 1: ROBINFLOP13 (27540)
+Seat 2: viking292929 (20578)
+Seat 3: YL_ML_GL_42 (37206)
+Seat 4: Eltorpedo10 (62285)
+Seat 5: kapout24 (32170)
+Seat 6: 53c0nD3uc3 (13743)
+*** ANTE/BLINDS ***
+viking292929 posts ante 80
+YL_ML_GL_42 posts ante 80
+ROBINFLOP13 posts ante 80
+Eltorpedo10 posts ante 80
+kapout24 posts ante 80
+53c0nD3uc3 posts ante 80
+viking292929 posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [Ks Kh]
+*** PRE-FLOP *** 
+Eltorpedo10 raises 1050 to 1750
+kapout24 folds
+53c0nD3uc3 folds
+ROBINFLOP13 folds
+viking292929 raises 4680 to 6430
+YL_ML_GL_42 raises 30696 to 37126 and is all-in
+Eltorpedo10 folds
+viking292929 calls 14068 and is all-in
+*** FLOP *** [Ad 5s 7s]
+*** TURN *** [Ad 5s 7s][6c]
+*** RIVER *** [Ad 5s 7s 6c][2d]
+*** SHOW DOWN ***
+viking292929 shows [As Kd] (One pair : Aces)
+YL_ML_GL_42 shows [Ks Kh] (One pair : Kings)
+YL_ML_GL_42 collected 16628 from side pot 1
+viking292929 collected 43226 from main pot
+*** SUMMARY ***
+Total pot 59854 | No rake
+Board: [Ad 5s 7s 6c 2d]
+Seat 2: viking292929 (small blind) showed [As Kd] and won 43226 with One pair : Aces
+Seat 3: YL_ML_GL_42 (big blind) showed [Ks Kh] and won 16628 with One pair : Kings
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2565072159865045041-250-1667863750 - Holdem no limit (80/350/700) - 2022/11/07 23:29:10 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #2 is the button
+Seat 1: ROBINFLOP13 (27460)
+Seat 2: viking292929 (43226)
+Seat 3: YL_ML_GL_42 (16628)
+Seat 4: Eltorpedo10 (60455)
+Seat 5: kapout24 (32090)
+Seat 6: 53c0nD3uc3 (13663)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+Eltorpedo10 posts ante 80
+ROBINFLOP13 posts ante 80
+viking292929 posts ante 80
+kapout24 posts ante 80
+53c0nD3uc3 posts ante 80
+YL_ML_GL_42 posts small blind 350
+Eltorpedo10 posts big blind 700
+Dealt to YL_ML_GL_42 [9d 3s]
+*** PRE-FLOP *** 
+kapout24 folds
+53c0nD3uc3 folds
+ROBINFLOP13 folds
+viking292929 folds
+YL_ML_GL_42 folds
+Eltorpedo10 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 4: Eltorpedo10 (big blind) won 1530
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2565072159865045041-251-1667863759 - Holdem no limit (80/350/700) - 2022/11/07 23:29:19 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #3 is the button
+Seat 1: ROBINFLOP13 (27380)
+Seat 2: viking292929 (43146)
+Seat 3: YL_ML_GL_42 (16198)
+Seat 4: Eltorpedo10 (61205)
+Seat 5: kapout24 (32010)
+Seat 6: 53c0nD3uc3 (13583)
+*** ANTE/BLINDS ***
+Eltorpedo10 posts ante 80
+kapout24 posts ante 80
+ROBINFLOP13 posts ante 80
+viking292929 posts ante 80
+YL_ML_GL_42 posts ante 80
+53c0nD3uc3 posts ante 80
+Eltorpedo10 posts small blind 350
+kapout24 posts big blind 700
+Dealt to YL_ML_GL_42 [4d 4h]
+*** PRE-FLOP *** 
+53c0nD3uc3 folds
+ROBINFLOP13 folds
+viking292929 folds
+YL_ML_GL_42 raises 15418 to 16118 and is all-in
+Eltorpedo10 folds
+kapout24 folds
+YL_ML_GL_42 collected 17648 from pot
+*** SUMMARY ***
+Total pot 17648 | No rake
+Seat 3: YL_ML_GL_42 (button) won 17648
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2565072159865045041-252-1667863781 - Holdem no limit (80/350/700) - 2022/11/07 23:29:41 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #4 is the button
+Seat 1: ROBINFLOP13 (27300)
+Seat 2: viking292929 (43066)
+Seat 3: YL_ML_GL_42 (17648)
+Seat 4: Eltorpedo10 (60775)
+Seat 5: kapout24 (31230)
+Seat 6: 53c0nD3uc3 (13503)
+*** ANTE/BLINDS ***
+kapout24 posts ante 80
+53c0nD3uc3 posts ante 80
+ROBINFLOP13 posts ante 80
+viking292929 posts ante 80
+YL_ML_GL_42 posts ante 80
+Eltorpedo10 posts ante 80
+kapout24 posts small blind 350
+53c0nD3uc3 posts big blind 700
+Dealt to YL_ML_GL_42 [3d Ts]
+*** PRE-FLOP *** 
+ROBINFLOP13 folds
+viking292929 folds
+YL_ML_GL_42 folds
+Eltorpedo10 folds
+kapout24 calls 350
+53c0nD3uc3 checks
+*** FLOP *** [6d 9s Kc]
+kapout24 bets 700
+53c0nD3uc3 folds
+kapout24 collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | No rake
+Board: [6d 9s Kc]
+Seat 5: kapout24 (small blind) won 2580
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2565072159865045041-253-1667863814 - Holdem no limit (80/350/700) - 2022/11/07 23:30:14 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #5 is the button
+Seat 1: ROBINFLOP13 (27220)
+Seat 2: viking292929 (42986)
+Seat 3: YL_ML_GL_42 (17568)
+Seat 4: Eltorpedo10 (60695)
+Seat 5: kapout24 (32330)
+Seat 6: 53c0nD3uc3 (12723)
+*** ANTE/BLINDS ***
+53c0nD3uc3 posts ante 80
+ROBINFLOP13 posts ante 80
+viking292929 posts ante 80
+YL_ML_GL_42 posts ante 80
+Eltorpedo10 posts ante 80
+kapout24 posts ante 80
+53c0nD3uc3 posts small blind 350
+ROBINFLOP13 posts big blind 700
+Dealt to YL_ML_GL_42 [Td 9c]
+*** PRE-FLOP *** 
+viking292929 folds
+YL_ML_GL_42 folds
+Eltorpedo10 folds
+kapout24 raises 700 to 1400
+53c0nD3uc3 folds
+ROBINFLOP13 calls 700
+*** FLOP *** [As Th 7d]
+ROBINFLOP13 checks
+kapout24 bets 1198
+ROBINFLOP13 folds
+kapout24 collected 4828 from pot
+*** SUMMARY ***
+Total pot 4828 | No rake
+Board: [As Th 7d]
+Seat 5: kapout24 (button) won 4828
+
+
+Winamax Poker - Tournament "W POKUS MASTER" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2565072159865045041-254-1667863869 - Holdem no limit (80/350/700) - 2022/11/07 23:31:09 UTC
+Table: 'W POKUS MASTER(597227402)#0048' 6-max (real money) Seat #6 is the button
+Seat 1: ROBINFLOP13 (25740)
+Seat 2: viking292929 (42906)
+Seat 3: YL_ML_GL_42 (17488)
+Seat 4: Eltorpedo10 (60615)
+Seat 5: kapout24 (34480)
+Seat 6: 53c0nD3uc3 (12293)
+*** ANTE/BLINDS ***
+ROBINFLOP13 posts ante 80
+viking292929 posts ante 80
+YL_ML_GL_42 posts ante 80
+Eltorpedo10 posts ante 80
+kapout24 posts ante 80
+53c0nD3uc3 posts ante 80
+ROBINFLOP13 posts small blind 350
+viking292929 posts big blind 700
+Dealt to YL_ML_GL_42 [Ac Ks]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Eltorpedo10 folds
+kapout24 raises 700 to 1400
+53c0nD3uc3 folds
+ROBINFLOP13 folds
+viking292929 folds
+kapout24 collected 2930 from pot
+*** SUMMARY ***
+Total pot 2930 | No rake
+Seat 5: kapout24 won 2930
+
+

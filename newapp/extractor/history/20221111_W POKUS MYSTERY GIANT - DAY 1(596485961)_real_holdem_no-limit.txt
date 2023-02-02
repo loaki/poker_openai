@@ -1,0 +1,561 @@
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2561887695018131523-1-1668193295 - Holdem no limit (12/50/100) - 2022/11/11 19:01:35 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485961)#0066' 6-max (real money) Seat #5 is the button
+Seat 1: Sorbitto (10000)
+Seat 2: pouSsproutA (10958)
+Seat 3: YL_ML_GL_42 (10000)
+Seat 4: DortBB (10000)
+Seat 5: GagneLaFoule (9988)
+Seat 6: cabestrixofi (10000)
+*** ANTE/BLINDS ***
+cabestrixofi posts ante 12
+Sorbitto posts ante 12
+pouSsproutA posts ante 12
+YL_ML_GL_42 posts ante 12
+DortBB posts ante 12
+GagneLaFoule posts ante 12
+cabestrixofi posts small blind 50
+Sorbitto posts big blind 100
+Dealt to YL_ML_GL_42 [Kc 7h]
+*** PRE-FLOP *** 
+pouSsproutA raises 100 to 200
+YL_ML_GL_42 folds
+DortBB folds
+GagneLaFoule calls 200
+cabestrixofi calls 150
+Sorbitto folds
+*** FLOP *** [3c Th Kh]
+cabestrixofi checks
+pouSsproutA checks
+GagneLaFoule checks
+*** TURN *** [3c Th Kh][9d]
+cabestrixofi bets 386
+pouSsproutA folds
+GagneLaFoule calls 386
+*** RIVER *** [3c Th Kh 9d][3h]
+cabestrixofi checks
+GagneLaFoule checks
+*** SHOW DOWN ***
+cabestrixofi shows [Qd Ks] (Two pairs : Kings and 3)
+GagneLaFoule shows [8h 9h] (Flush King high)
+GagneLaFoule collected 1544 from pot
+*** SUMMARY ***
+Total pot 1544 | No rake
+Board: [3c Th Kh 9d 3h]
+Seat 5: GagneLaFoule (button) showed [8h 9h] and won 1544 with Flush King high
+Seat 6: cabestrixofi (small blind) showed [Qd Ks] and lost with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2561887695018131523-2-1668193425 - Holdem no limit (12/50/100) - 2022/11/11 19:03:45 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485961)#0066' 6-max (real money) Seat #6 is the button
+Seat 1: Sorbitto (9888)
+Seat 2: pouSsproutA (10746)
+Seat 3: YL_ML_GL_42 (9988)
+Seat 4: DortBB (9988)
+Seat 5: GagneLaFoule (10934)
+Seat 6: cabestrixofi (9402)
+*** ANTE/BLINDS ***
+Sorbitto posts ante 12
+pouSsproutA posts ante 12
+YL_ML_GL_42 posts ante 12
+DortBB posts ante 12
+GagneLaFoule posts ante 12
+cabestrixofi posts ante 12
+Sorbitto posts small blind 50
+pouSsproutA posts big blind 100
+Dealt to YL_ML_GL_42 [7d 9s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DortBB raises 200 to 300
+GagneLaFoule folds
+cabestrixofi calls 300
+Sorbitto folds
+pouSsproutA folds
+*** FLOP *** [Kh 5c Kc]
+DortBB checks
+cabestrixofi bets 300
+DortBB folds
+cabestrixofi collected 1122 from pot
+*** SUMMARY ***
+Total pot 1122 | No rake
+Board: [Kh 5c Kc]
+Seat 6: cabestrixofi (button) won 1122
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2561887695018131523-3-1668193468 - Holdem no limit (12/50/100) - 2022/11/11 19:04:28 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485961)#0066' 6-max (real money) Seat #1 is the button
+Seat 1: Sorbitto (9826)
+Seat 2: pouSsproutA (10634)
+Seat 3: YL_ML_GL_42 (9976)
+Seat 4: DortBB (9676)
+Seat 5: GagneLaFoule (10922)
+Seat 6: cabestrixofi (9912)
+*** ANTE/BLINDS ***
+pouSsproutA posts ante 12
+YL_ML_GL_42 posts ante 12
+Sorbitto posts ante 12
+DortBB posts ante 12
+GagneLaFoule posts ante 12
+cabestrixofi posts ante 12
+pouSsproutA posts small blind 50
+YL_ML_GL_42 posts big blind 100
+Dealt to YL_ML_GL_42 [4c Qh]
+*** PRE-FLOP *** 
+DortBB folds
+GagneLaFoule folds
+cabestrixofi folds
+Sorbitto raises 100 to 200
+pouSsproutA folds
+YL_ML_GL_42 folds
+Sorbitto collected 422 from pot
+*** SUMMARY ***
+Total pot 422 | No rake
+Seat 1: Sorbitto (button) won 422
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2561887695018131523-4-1668193505 - Holdem no limit (12/50/100) - 2022/11/11 19:05:05 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485961)#0066' 6-max (real money) Seat #2 is the button
+Seat 1: Sorbitto (10036)
+Seat 2: pouSsproutA (10572)
+Seat 3: YL_ML_GL_42 (9864)
+Seat 4: DortBB (9664)
+Seat 5: GagneLaFoule (10910)
+Seat 6: cabestrixofi (9900)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 12
+DortBB posts ante 12
+Sorbitto posts ante 12
+pouSsproutA posts ante 12
+GagneLaFoule posts ante 12
+cabestrixofi posts ante 12
+YL_ML_GL_42 posts small blind 50
+DortBB posts big blind 100
+Dealt to YL_ML_GL_42 [Ts 9h]
+*** PRE-FLOP *** 
+GagneLaFoule folds
+cabestrixofi folds
+Sorbitto folds
+pouSsproutA folds
+YL_ML_GL_42 raises 200 to 300
+DortBB calls 200
+*** FLOP *** [Ac 7s 3h]
+YL_ML_GL_42 checks
+DortBB checks
+*** TURN *** [Ac 7s 3h][6d]
+YL_ML_GL_42 checks
+DortBB checks
+*** RIVER *** [Ac 7s 3h 6d][7c]
+YL_ML_GL_42 checks
+DortBB bets 200
+YL_ML_GL_42 folds
+DortBB collected 872 from pot
+*** SUMMARY ***
+Total pot 872 | No rake
+Board: [Ac 7s 3h 6d 7c]
+Seat 4: DortBB (big blind) won 872
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2561887695018131523-5-1668193610 - Holdem no limit (12/50/100) - 2022/11/11 19:06:50 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485961)#0066' 6-max (real money) Seat #3 is the button
+Seat 1: Sorbitto (10024)
+Seat 2: pouSsproutA (10560)
+Seat 3: YL_ML_GL_42 (9552)
+Seat 4: DortBB (10024)
+Seat 5: GagneLaFoule (10898)
+Seat 6: cabestrixofi (9888)
+*** ANTE/BLINDS ***
+DortBB posts ante 12
+GagneLaFoule posts ante 12
+Sorbitto posts ante 12
+pouSsproutA posts ante 12
+YL_ML_GL_42 posts ante 12
+cabestrixofi posts ante 12
+DortBB posts small blind 50
+GagneLaFoule posts big blind 100
+Dealt to YL_ML_GL_42 [3d 8d]
+*** PRE-FLOP *** 
+cabestrixofi raises 150 to 250
+Sorbitto folds
+pouSsproutA calls 250
+YL_ML_GL_42 folds
+DortBB folds
+GagneLaFoule folds
+*** FLOP *** [2s Ac 3s]
+cabestrixofi bets 469
+pouSsproutA calls 469
+*** TURN *** [2s Ac 3s][3h]
+cabestrixofi checks
+pouSsproutA checks
+*** RIVER *** [2s Ac 3s 3h][Kc]
+cabestrixofi bets 1079
+pouSsproutA folds
+cabestrixofi collected 2739 from pot
+*** SUMMARY ***
+Total pot 2739 | No rake
+Board: [2s Ac 3s 3h Kc]
+Seat 6: cabestrixofi won 2739
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2561887695018131523-6-1668193663 - Holdem no limit (12/50/100) - 2022/11/11 19:07:43 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485961)#0066' 6-max (real money) Seat #4 is the button
+Seat 1: Sorbitto (10012)
+Seat 2: pouSsproutA (9829)
+Seat 3: YL_ML_GL_42 (9540)
+Seat 4: DortBB (9962)
+Seat 5: GagneLaFoule (10786)
+Seat 6: cabestrixofi (10817)
+*** ANTE/BLINDS ***
+GagneLaFoule posts ante 12
+cabestrixofi posts ante 12
+Sorbitto posts ante 12
+pouSsproutA posts ante 12
+YL_ML_GL_42 posts ante 12
+DortBB posts ante 12
+GagneLaFoule posts small blind 50
+cabestrixofi posts big blind 100
+Dealt to YL_ML_GL_42 [Ks Ac]
+*** PRE-FLOP *** 
+Sorbitto folds
+pouSsproutA folds
+YL_ML_GL_42 raises 100 to 200
+DortBB folds
+GagneLaFoule calls 150
+cabestrixofi raises 500 to 700
+YL_ML_GL_42 raises 3657 to 4357
+GagneLaFoule folds
+cabestrixofi raises 6448 to 10805 and is all-in
+YL_ML_GL_42 calls 5171 and is all-in
+*** FLOP *** [3c 3d 8c]
+*** TURN *** [3c 3d 8c][3h]
+*** RIVER *** [3c 3d 8c 3h][Kh]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ks Ac] (Full of 3 and Kings)
+cabestrixofi shows [Jd Ad] (Trips of 3)
+cabestrixofi collected 1277 from side pot 1
+YL_ML_GL_42 collected 19328 from main pot
+*** SUMMARY ***
+Total pot 20605 | No rake
+Board: [3c 3d 8c 3h Kh]
+Seat 3: YL_ML_GL_42 showed [Ks Ac] and won 19328 with Full of 3 and Kings
+Seat 6: cabestrixofi (big blind) showed [Jd Ad] and won 1277 with Trips of 3
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2561887695018131523-7-1668193726 - Holdem no limit (12/50/100) - 2022/11/11 19:08:46 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485961)#0066' 6-max (real money) Seat #5 is the button
+Seat 1: Sorbitto (10000)
+Seat 2: pouSsproutA (9817)
+Seat 3: YL_ML_GL_42 (19328)
+Seat 4: DortBB (9950)
+Seat 5: GagneLaFoule (10574)
+Seat 6: cabestrixofi (1277)
+*** ANTE/BLINDS ***
+cabestrixofi posts ante 12
+Sorbitto posts ante 12
+pouSsproutA posts ante 12
+YL_ML_GL_42 posts ante 12
+DortBB posts ante 12
+GagneLaFoule posts ante 12
+cabestrixofi posts small blind 50
+Sorbitto posts big blind 100
+Dealt to YL_ML_GL_42 [Qh Ks]
+*** PRE-FLOP *** 
+pouSsproutA raises 100 to 200
+YL_ML_GL_42 folds
+DortBB folds
+GagneLaFoule calls 200
+cabestrixofi raises 1065 to 1265 and is all-in
+Sorbitto folds
+pouSsproutA calls 1065
+GagneLaFoule folds
+*** FLOP *** [Qd 6c 8h]
+*** TURN *** [Qd 6c 8h][2c]
+*** RIVER *** [Qd 6c 8h 2c][4d]
+*** SHOW DOWN ***
+cabestrixofi shows [Td Jc] (High card : Queen)
+pouSsproutA shows [6d 7d] (One pair : 6)
+pouSsproutA collected 2902 from pot
+*** SUMMARY ***
+Total pot 2902 | No rake
+Board: [Qd 6c 8h 2c 4d]
+Seat 2: pouSsproutA showed [6d 7d] and won 2902 with One pair : 6
+Seat 6: cabestrixofi (small blind) showed [Td Jc] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2561887695018131523-8-1668193758 - Holdem no limit (12/50/100) - 2022/11/11 19:09:18 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485961)#0066' 6-max (real money) Seat #6 is the button
+Seat 1: Sorbitto (9888)
+Seat 2: pouSsproutA (11442)
+Seat 3: YL_ML_GL_42 (19316)
+Seat 4: DortBB (9938)
+Seat 5: GagneLaFoule (10362)
+Seat 6: ILoveAAor77 (10000)
+*** ANTE/BLINDS ***
+Sorbitto posts ante 12
+pouSsproutA posts ante 12
+YL_ML_GL_42 posts ante 12
+DortBB posts ante 12
+GagneLaFoule posts ante 12
+Sorbitto posts small blind 50
+pouSsproutA posts big blind 100
+Dealt to YL_ML_GL_42 [Qs 7h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DortBB folds
+GagneLaFoule calls 100
+Sorbitto raises 400 to 500
+pouSsproutA folds
+GagneLaFoule calls 400
+*** FLOP *** [Qd 6d 3h]
+Sorbitto bets 580
+GagneLaFoule folds
+Sorbitto collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Board: [Qd 6d 3h]
+Seat 1: Sorbitto (small blind) won 1740
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2561887695018131523-9-1668193821 - Holdem no limit (12/50/100) - 2022/11/11 19:10:21 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485961)#0066' 6-max (real money) Seat #1 is the button
+Seat 1: Sorbitto (10536)
+Seat 2: pouSsproutA (11330)
+Seat 3: YL_ML_GL_42 (19304)
+Seat 4: DortBB (9926)
+Seat 5: GagneLaFoule (9850)
+Seat 6: ILoveAAor77 (10000)
+*** ANTE/BLINDS ***
+pouSsproutA posts ante 12
+YL_ML_GL_42 posts ante 12
+Sorbitto posts ante 12
+DortBB posts ante 12
+GagneLaFoule posts ante 12
+ILoveAAor77 posts ante 12
+pouSsproutA posts small blind 50
+YL_ML_GL_42 posts big blind 100
+Dealt to YL_ML_GL_42 [5d Ah]
+*** PRE-FLOP *** 
+DortBB folds
+GagneLaFoule folds
+ILoveAAor77 folds
+Sorbitto raises 120 to 220
+pouSsproutA calls 170
+YL_ML_GL_42 calls 120
+*** FLOP *** [As Qh 4h]
+pouSsproutA checks
+YL_ML_GL_42 bets 366
+Sorbitto raises 1124 to 1490
+pouSsproutA folds
+YL_ML_GL_42 raises 17582 to 19072 and is all-in
+Sorbitto calls 8814 and is all-in
+*** TURN *** [As Qh 4h][2c]
+*** RIVER *** [As Qh 4h 2c][8c]
+*** SHOW DOWN ***
+Sorbitto shows [Qd 4d] (Two pairs : Queens and 4)
+YL_ML_GL_42 shows [5d Ah] (One pair : Aces)
+YL_ML_GL_42 collected 8768 from side pot 1
+Sorbitto collected 21340 from main pot
+*** SUMMARY ***
+Total pot 30108 | No rake
+Board: [As Qh 4h 2c 8c]
+Seat 1: Sorbitto (button) showed [Qd 4d] and won 21340 with Two pairs : Queens and 4
+Seat 3: YL_ML_GL_42 (big blind) showed [5d Ah] and won 8768 with One pair : Aces
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2561887695018131523-10-1668193902 - Holdem no limit (12/50/100) - 2022/11/11 19:11:42 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485961)#0066' 6-max (real money) Seat #2 is the button
+Seat 1: Sorbitto (21340)
+Seat 2: pouSsproutA (11098)
+Seat 3: YL_ML_GL_42 (8768)
+Seat 4: DortBB (9914)
+Seat 5: GagneLaFoule (9838)
+Seat 6: ILoveAAor77 (9988)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 12
+DortBB posts ante 12
+Sorbitto posts ante 12
+pouSsproutA posts ante 12
+GagneLaFoule posts ante 12
+ILoveAAor77 posts ante 12
+YL_ML_GL_42 posts small blind 50
+DortBB posts big blind 100
+Dealt to YL_ML_GL_42 [4d 7d]
+*** PRE-FLOP *** 
+GagneLaFoule calls 100
+ILoveAAor77 raises 772 to 872
+Sorbitto folds
+pouSsproutA folds
+YL_ML_GL_42 folds
+DortBB folds
+GagneLaFoule folds
+ILoveAAor77 collected 1194 from pot
+*** SUMMARY ***
+Total pot 1194 | No rake
+Seat 6: ILoveAAor77 won 1194
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2561887695018131523-11-1668193928 - Holdem no limit (12/50/100) - 2022/11/11 19:12:08 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485961)#0066' 6-max (real money) Seat #3 is the button
+Seat 1: Sorbitto (21328)
+Seat 2: pouSsproutA (11086)
+Seat 3: YL_ML_GL_42 (8706)
+Seat 4: DortBB (9802)
+Seat 5: GagneLaFoule (9726)
+Seat 6: ILoveAAor77 (10298)
+*** ANTE/BLINDS ***
+DortBB posts ante 12
+GagneLaFoule posts ante 12
+Sorbitto posts ante 12
+pouSsproutA posts ante 12
+YL_ML_GL_42 posts ante 12
+ILoveAAor77 posts ante 12
+DortBB posts small blind 50
+GagneLaFoule posts big blind 100
+Dealt to YL_ML_GL_42 [7h 3h]
+*** PRE-FLOP *** 
+ILoveAAor77 calls 100
+Sorbitto folds
+pouSsproutA folds
+YL_ML_GL_42 folds
+DortBB folds
+GagneLaFoule checks
+*** FLOP *** [4h 4c 5c]
+GagneLaFoule checks
+ILoveAAor77 bets 209
+GagneLaFoule folds
+ILoveAAor77 collected 531 from pot
+*** SUMMARY ***
+Total pot 531 | No rake
+Board: [4h 4c 5c]
+Seat 6: ILoveAAor77 won 531
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2561887695018131523-12-1668193987 - Holdem no limit (12/50/100) - 2022/11/11 19:13:07 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485961)#0066' 6-max (real money) Seat #4 is the button
+Seat 1: Sorbitto (21316)
+Seat 2: pouSsproutA (11074)
+Seat 3: YL_ML_GL_42 (8694)
+Seat 4: DortBB (9740)
+Seat 5: GagneLaFoule (9614)
+Seat 6: ILoveAAor77 (10508)
+*** ANTE/BLINDS ***
+GagneLaFoule posts ante 12
+ILoveAAor77 posts ante 12
+Sorbitto posts ante 12
+pouSsproutA posts ante 12
+YL_ML_GL_42 posts ante 12
+DortBB posts ante 12
+GagneLaFoule posts small blind 50
+ILoveAAor77 posts big blind 100
+Dealt to YL_ML_GL_42 [8h Ac]
+*** PRE-FLOP *** 
+Sorbitto folds
+pouSsproutA folds
+YL_ML_GL_42 raises 8582 to 8682 and is all-in
+DortBB folds
+GagneLaFoule folds
+ILoveAAor77 folds
+YL_ML_GL_42 collected 8904 from pot
+*** SUMMARY ***
+Total pot 8904 | No rake
+Seat 3: YL_ML_GL_42 won 8904
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2561887695018131523-13-1668194027 - Holdem no limit (12/50/100) - 2022/11/11 19:13:47 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485961)#0066' 6-max (real money) Seat #5 is the button
+Seat 1: Sorbitto (21304)
+Seat 3: YL_ML_GL_42 (8904)
+Seat 4: DortBB (9728)
+Seat 5: GagneLaFoule (9552)
+Seat 6: ILoveAAor77 (10396)
+*** ANTE/BLINDS ***
+ILoveAAor77 posts ante 12
+Sorbitto posts ante 12
+YL_ML_GL_42 posts ante 12
+DortBB posts ante 12
+GagneLaFoule posts ante 12
+ILoveAAor77 posts small blind 50
+Sorbitto posts big blind 100
+Dealt to YL_ML_GL_42 [Kc 9h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 8792 to 8892 and is all-in
+DortBB folds
+GagneLaFoule folds
+ILoveAAor77 folds
+Sorbitto folds
+YL_ML_GL_42 collected 9102 from pot
+*** SUMMARY ***
+Total pot 9102 | No rake
+Seat 3: YL_ML_GL_42 won 9102
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2561887695018131523-14-1668194048 - Holdem no limit (12/50/100) - 2022/11/11 19:14:08 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485961)#0066' 6-max (real money) Seat #6 is the button
+Seat 1: Sorbitto (21192)
+Seat 2: Stellantis59 (10000)
+Seat 3: YL_ML_GL_42 (9102)
+Seat 4: DortBB (9716)
+Seat 5: GagneLaFoule (9540)
+Seat 6: ILoveAAor77 (10334)
+*** ANTE/BLINDS ***
+Sorbitto posts ante 12
+Stellantis59 posts ante 12
+YL_ML_GL_42 posts ante 12
+DortBB posts ante 12
+GagneLaFoule posts ante 12
+ILoveAAor77 posts ante 12
+Sorbitto posts small blind 50
+Stellantis59 posts big blind 100
+Dealt to YL_ML_GL_42 [Kh 4d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DortBB folds
+GagneLaFoule folds
+ILoveAAor77 raises 200 to 300
+Sorbitto folds
+Stellantis59 folds
+ILoveAAor77 collected 522 from pot
+*** SUMMARY ***
+Total pot 522 | No rake
+Seat 6: ILoveAAor77 (button) won 522
+
+
+Winamax Poker - Tournament "W POKUS MYSTERY GIANT - DAY 1" buyIn: 1.80€ + 0.20€ level: 31 - HandId: #2561887695018131523-15-1668194123 - Holdem no limit (12/50/100) - 2022/11/11 19:15:23 UTC
+Table: 'W POKUS MYSTERY GIANT - DAY 1(596485961)#0066' 6-max (real money) Seat #1 is the button
+Seat 1: Sorbitto (21130)
+Seat 2: Stellantis59 (9888)
+Seat 3: YL_ML_GL_42 (9090)
+Seat 4: DortBB (9704)
+Seat 5: GagneLaFoule (9528)
+Seat 6: ILoveAAor77 (10544)
+*** ANTE/BLINDS ***
+Stellantis59 posts ante 12
+YL_ML_GL_42 posts ante 12
+Sorbitto posts ante 12
+DortBB posts ante 12
+GagneLaFoule posts ante 12
+ILoveAAor77 posts ante 12
+Stellantis59 posts small blind 50
+YL_ML_GL_42 posts big blind 100
+Dealt to YL_ML_GL_42 [6d 6s]
+*** PRE-FLOP *** 
+DortBB folds
+GagneLaFoule folds
+ILoveAAor77 folds
+Sorbitto raises 100 to 200
+Stellantis59 calls 150
+YL_ML_GL_42 raises 8878 to 9078 and is all-in
+Sorbitto folds
+Stellantis59 calls 8878
+*** FLOP *** [7c Qs 6h]
+*** TURN *** [7c Qs 6h][9s]
+*** RIVER *** [7c Qs 6h 9s][Js]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [6d 6s] (Trips of 6)
+Stellantis59 shows [Kh Tc] (Straight King high)
+Stellantis59 collected 18428 from pot
+*** SUMMARY ***
+Total pot 18428 | No rake
+Board: [7c Qs 6h 9s Js]
+Seat 2: Stellantis59 (small blind) showed [Kh Tc] and won 18428 with Straight King high
+Seat 3: YL_ML_GL_42 (big blind) showed [6d 6s] and lost with Trips of 6
+
+

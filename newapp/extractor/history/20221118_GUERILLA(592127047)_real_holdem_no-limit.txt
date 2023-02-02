@@ -1,0 +1,5544 @@
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543166301942054969-11-1668793218 - Holdem no limit (25/100/200) - 2022/11/18 17:40:18 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (20000, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20500, 2.25€ bounty)
+Seat 4: Junior  76 (14325, 2.25€ bounty)
+Seat 5: Postle0max (19650, 2.25€ bounty)
+Seat 6: Villardon8 (19775, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 25
+YL_ML_GL_42 posts ante 25
+Loco_Tarjeta posts ante 25
+Junior  76 posts ante 25
+Postle0max posts ante 25
+Villardon8 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [2s Kh]
+*** PRE-FLOP *** 
+Loco_Tarjeta folds
+Junior  76 folds
+Postle0max folds
+Villardon8 folds
+YL_ML_GL_42 collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 425
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543166301942054969-12-1668793239 - Holdem no limit (25/100/200) - 2022/11/18 17:40:39 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (20200, 2.25€ bounty)
+Seat 2: Reg&Night (20000, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20475, 2.25€ bounty)
+Seat 4: Junior  76 (14300, 2.25€ bounty)
+Seat 5: Postle0max (19625, 2.25€ bounty)
+Seat 6: Villardon8 (19650, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Reg&Night posts ante 25
+Loco_Tarjeta posts ante 25
+Junior  76 posts ante 25
+Postle0max posts ante 25
+Villardon8 posts ante 25
+YL_ML_GL_42 posts small blind 100
+Reg&Night posts big blind 200
+Dealt to YL_ML_GL_42 [Kc Ac]
+*** PRE-FLOP *** 
+Loco_Tarjeta folds
+Junior  76 calls 200
+Postle0max folds
+Villardon8 raises 600 to 800
+YL_ML_GL_42 raises 1600 to 2400
+Reg&Night folds
+Junior  76 calls 2200
+Villardon8 raises 17225 to 19625 and is all-in
+YL_ML_GL_42 raises 550 to 20175 and is all-in
+Junior  76 calls 11875 and is all-in
+*** FLOP *** [5h Jh Ah]
+*** TURN *** [5h Jh Ah][2c]
+*** RIVER *** [5h Jh Ah 2c][7s]
+*** SHOW DOWN ***
+Junior  76 shows [Ts 8s] (High card : Ace)
+YL_ML_GL_42 shows [Kc Ac] (One pair : Aces)
+Villardon8 shows [Kh Ad] (One pair : Aces)
+Villardon8 collected 26938 from main pot
+YL_ML_GL_42 collected 27487 from side pot 1
+*** SUMMARY ***
+Total pot 54425 | No rake
+Board: [5h Jh Ah 2c 7s]
+Seat 1: YL_ML_GL_42 (small blind) showed [Kc Ac] and won 27487 with One pair : Aces
+Seat 4: Junior  76 showed [Ts 8s] and lost with High card : Ace
+Seat 6: Villardon8 (button) showed [Kh Ad] and won 26938 with One pair : Aces
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543166301942054969-13-1668793323 - Holdem no limit (25/100/200) - 2022/11/18 17:42:03 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (27487, 2.81€ bounty)
+Seat 2: Reg&Night (19775, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20450, 2.25€ bounty)
+Seat 4: Adelit0 (20000, 2.25€ bounty)
+Seat 5: Postle0max (19600, 2.25€ bounty)
+Seat 6: Villardon8 (26938, 2.81€ bounty)
+*** ANTE/BLINDS ***
+Reg&Night posts ante 25
+Loco_Tarjeta posts ante 25
+YL_ML_GL_42 posts ante 25
+Adelit0 posts ante 25
+Postle0max posts ante 25
+Villardon8 posts ante 25
+Reg&Night posts small blind 100
+Loco_Tarjeta posts big blind 200
+Dealt to YL_ML_GL_42 [8s 8c]
+*** PRE-FLOP *** 
+Adelit0 calls 200
+Postle0max raises 400 to 600
+Villardon8 folds
+YL_ML_GL_42 calls 600
+Reg&Night folds
+Loco_Tarjeta folds
+Adelit0 calls 400
+*** FLOP *** [Td Th 3c]
+Adelit0 checks
+Postle0max checks
+YL_ML_GL_42 checks
+*** TURN *** [Td Th 3c][Ts]
+Adelit0 checks
+Postle0max bets 1463
+YL_ML_GL_42 calls 1463
+Adelit0 folds
+*** RIVER *** [Td Th 3c Ts][Ah]
+Postle0max checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+Postle0max shows [6c 6h] (Full of Tens and 6)
+YL_ML_GL_42 shows [8s 8c] (Full of Tens and 8)
+YL_ML_GL_42 collected 5176 from pot
+*** SUMMARY ***
+Total pot 5176 | No rake
+Board: [Td Th 3c Ts Ah]
+Seat 1: YL_ML_GL_42 (button) showed [8s 8c] and won 5176 with Full of Tens and 8
+Seat 5: Postle0max showed [6c 6h] and lost with Full of Tens and 6
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543166301942054969-14-1668793450 - Holdem no limit (25/100/200) - 2022/11/18 17:44:10 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (30575, 2.81€ bounty)
+Seat 2: Reg&Night (19650, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20225, 2.25€ bounty)
+Seat 4: Adelit0 (19375, 2.25€ bounty)
+Seat 5: Postle0max (17512, 2.25€ bounty)
+Seat 6: Villardon8 (26913, 2.81€ bounty)
+*** ANTE/BLINDS ***
+Loco_Tarjeta posts ante 25
+Adelit0 posts ante 25
+YL_ML_GL_42 posts ante 25
+Reg&Night posts ante 25
+Postle0max posts ante 25
+Villardon8 posts ante 25
+Loco_Tarjeta posts small blind 100
+Adelit0 posts big blind 200
+Dealt to YL_ML_GL_42 [6c Kc]
+*** PRE-FLOP *** 
+Postle0max folds
+Villardon8 folds
+YL_ML_GL_42 folds
+Reg&Night folds
+Loco_Tarjeta folds
+Adelit0 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 4: Adelit0 (big blind) won 450
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543166301942054969-15-1668793482 - Holdem no limit (25/100/200) - 2022/11/18 17:44:42 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (30550, 2.81€ bounty)
+Seat 2: Reg&Night (19625, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20100, 2.25€ bounty)
+Seat 4: Adelit0 (19600, 2.25€ bounty)
+Seat 5: Postle0max (17487, 2.25€ bounty)
+Seat 6: Villardon8 (26888, 2.81€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 25
+Postle0max posts ante 25
+YL_ML_GL_42 posts ante 25
+Reg&Night posts ante 25
+Loco_Tarjeta posts ante 25
+Villardon8 posts ante 25
+Adelit0 posts small blind 100
+Postle0max posts big blind 200
+Dealt to YL_ML_GL_42 [8h Ah]
+*** PRE-FLOP *** 
+Villardon8 folds
+YL_ML_GL_42 raises 300 to 500
+Reg&Night folds
+Loco_Tarjeta folds
+Adelit0 folds
+Postle0max calls 300
+*** FLOP *** [Kc Td 2d]
+Postle0max checks
+YL_ML_GL_42 checks
+*** TURN *** [Kc Td 2d][Th]
+Postle0max checks
+YL_ML_GL_42 checks
+*** RIVER *** [Kc Td 2d Th][Qs]
+Postle0max checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+Postle0max shows [6s Js] (One pair : Tens)
+YL_ML_GL_42 shows [8h Ah] (One pair : Tens)
+YL_ML_GL_42 collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Board: [Kc Td 2d Th Qs]
+Seat 1: YL_ML_GL_42 showed [8h Ah] and won 1250 with One pair : Tens
+Seat 5: Postle0max (big blind) showed [6s Js] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543166301942054969-16-1668793543 - Holdem no limit (25/100/200) - 2022/11/18 17:45:43 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (31275, 2.81€ bounty)
+Seat 2: Reg&Night (19600, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20075, 2.25€ bounty)
+Seat 4: Adelit0 (19475, 2.25€ bounty)
+Seat 5: Postle0max (16962, 2.25€ bounty)
+Seat 6: Villardon8 (26863, 2.81€ bounty)
+*** ANTE/BLINDS ***
+Postle0max posts ante 25
+Villardon8 posts ante 25
+YL_ML_GL_42 posts ante 25
+Reg&Night posts ante 25
+Loco_Tarjeta posts ante 25
+Adelit0 posts ante 25
+Postle0max posts small blind 100
+Villardon8 posts big blind 200
+Dealt to YL_ML_GL_42 [Js 2d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Reg&Night folds
+Loco_Tarjeta folds
+Adelit0 calls 200
+Postle0max raises 750 to 950
+Villardon8 folds
+Adelit0 calls 750
+*** FLOP *** [Qs 5s As]
+Postle0max checks
+Adelit0 bets 1300
+Postle0max raises 2698 to 3998
+Adelit0 folds
+Postle0max collected 7548 from pot
+*** SUMMARY ***
+Total pot 7548 | No rake
+Board: [Qs 5s As]
+Seat 5: Postle0max (small blind) won 7548
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543166301942054969-17-1668793588 - Holdem no limit (25/100/200) - 2022/11/18 17:46:28 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (31250, 2.81€ bounty)
+Seat 2: Reg&Night (19575, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20050, 2.25€ bounty)
+Seat 4: Adelit0 (17200, 2.25€ bounty)
+Seat 5: Postle0max (19537, 2.25€ bounty)
+Seat 6: Villardon8 (26638, 2.81€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 25
+YL_ML_GL_42 posts ante 25
+Reg&Night posts ante 25
+Loco_Tarjeta posts ante 25
+Adelit0 posts ante 25
+Postle0max posts ante 25
+Villardon8 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [7s Tc]
+*** PRE-FLOP *** 
+Reg&Night raises 400 to 600
+Loco_Tarjeta folds
+Adelit0 calls 600
+Postle0max folds
+Villardon8 folds
+YL_ML_GL_42 folds
+*** FLOP *** [6s 4s Js]
+Reg&Night checks
+Adelit0 bets 1650
+Reg&Night folds
+Adelit0 collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Board: [6s 4s Js]
+Seat 4: Adelit0 won 3300
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543166301942054969-18-1668793626 - Holdem no limit (25/100/200) - 2022/11/18 17:47:06 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (31025, 2.81€ bounty)
+Seat 2: Reg&Night (18950, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20025, 2.25€ bounty)
+Seat 4: Adelit0 (18225, 2.25€ bounty)
+Seat 5: Postle0max (19512, 2.25€ bounty)
+Seat 6: Villardon8 (26513, 2.81€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Reg&Night posts ante 25
+Loco_Tarjeta posts ante 25
+Adelit0 posts ante 25
+Postle0max posts ante 25
+Villardon8 posts ante 25
+YL_ML_GL_42 posts small blind 100
+Reg&Night posts big blind 200
+Dealt to YL_ML_GL_42 [8s Kh]
+*** PRE-FLOP *** 
+Loco_Tarjeta folds
+Adelit0 folds
+Postle0max raises 400 to 600
+Villardon8 calls 600
+YL_ML_GL_42 folds
+Reg&Night calls 400
+*** FLOP *** [Ad 4c Qc]
+Reg&Night checks
+Postle0max bets 1333
+Villardon8 calls 1333
+Reg&Night calls 1333
+*** TURN *** [Ad 4c Qc][As]
+Reg&Night checks
+Postle0max checks
+Villardon8 bets 4537
+Reg&Night calls 4537
+Postle0max folds
+*** RIVER *** [Ad 4c Qc As][Tc]
+Reg&Night bets 12355
+Villardon8 raises 7663 to 20018 and is all-in
+Reg&Night calls 100 and is all-in
+*** SHOW DOWN ***
+Reg&Night shows [7c Ac] (Flush Ace high)
+Villardon8 shows [4h 4d] (Full of 4 and Aces)
+Villardon8 collected 47596 from pot
+*** SUMMARY ***
+Total pot 47596 | No rake
+Board: [Ad 4c Qc As Tc]
+Seat 2: Reg&Night (big blind) showed [7c Ac] and lost with Flush Ace high
+Seat 6: Villardon8 (button) showed [4h 4d] and won 47596 with Full of 4 and Aces
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543166301942054969-19-1668793748 - Holdem no limit (25/100/200) - 2022/11/18 17:49:08 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (30900, 2.81€ bounty)
+Seat 3: Loco_Tarjeta (20000, 2.25€ bounty)
+Seat 4: Adelit0 (18200, 2.25€ bounty)
+Seat 5: Postle0max (17554, 2.25€ bounty)
+Seat 6: Villardon8 (47596, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Loco_Tarjeta posts ante 25
+YL_ML_GL_42 posts ante 25
+Adelit0 posts ante 25
+Postle0max posts ante 25
+Villardon8 posts ante 25
+Loco_Tarjeta posts big blind 200
+Dealt to YL_ML_GL_42 [Qs 2c]
+*** PRE-FLOP *** 
+Adelit0 raises 200 to 400
+Postle0max raises 800 to 1200
+Villardon8 folds
+YL_ML_GL_42 folds
+Loco_Tarjeta folds
+Adelit0 calls 800
+*** FLOP *** [Ts 6c 8c]
+Adelit0 checks
+Postle0max bets 1771
+Adelit0 calls 1771
+*** TURN *** [Ts 6c 8c][Jc]
+Adelit0 checks
+Postle0max checks
+*** RIVER *** [Ts 6c 8c Jc][7c]
+Adelit0 bets 3600
+Postle0max calls 3600
+*** SHOW DOWN ***
+Postle0max shows [As 9h] (Straight Jack high)
+Adelit0 shows [Ac 4c] (Flush Ace high)
+Adelit0 collected 13467 from pot
+*** SUMMARY ***
+Total pot 13467 | No rake
+Board: [Ts 6c 8c Jc 7c]
+Seat 4: Adelit0 showed [Ac 4c] and won 13467 with Flush Ace high
+Seat 5: Postle0max showed [As 9h] and lost with Straight Jack high
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543166301942054969-20-1668793825 - Holdem no limit (25/100/200) - 2022/11/18 17:50:25 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (30875, 2.81€ bounty)
+Seat 2: lenaawin (20000, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (19775, 2.25€ bounty)
+Seat 4: Adelit0 (25071, 2.25€ bounty)
+Seat 5: Postle0max (10958, 2.25€ bounty)
+Seat 6: Villardon8 (47571, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Loco_Tarjeta posts ante 25
+Adelit0 posts ante 25
+YL_ML_GL_42 posts ante 25
+Postle0max posts ante 25
+Villardon8 posts ante 25
+Loco_Tarjeta posts small blind 100
+Adelit0 posts big blind 200
+Dealt to YL_ML_GL_42 [6s 7d]
+*** PRE-FLOP *** 
+Postle0max folds
+Villardon8 folds
+YL_ML_GL_42 folds
+Loco_Tarjeta calls 100
+Adelit0 checks
+*** FLOP *** [Jd 4d 6c]
+Loco_Tarjeta checks
+Adelit0 checks
+*** TURN *** [Jd 4d 6c][3d]
+Loco_Tarjeta bets 200
+Adelit0 calls 200
+*** RIVER *** [Jd 4d 6c 3d][8c]
+Loco_Tarjeta checks
+Adelit0 checks
+*** SHOW DOWN ***
+Adelit0 shows [9d 7c] (High card : Jack)
+Loco_Tarjeta shows [4h 2h] (One pair : 4)
+Loco_Tarjeta collected 925 from pot
+*** SUMMARY ***
+Total pot 925 | No rake
+Board: [Jd 4d 6c 3d 8c]
+Seat 3: Loco_Tarjeta (small blind) showed [4h 2h] and won 925 with One pair : 4
+Seat 4: Adelit0 (big blind) showed [9d 7c] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543166301942054969-21-1668793884 - Holdem no limit (25/100/200) - 2022/11/18 17:51:24 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (30850, 2.81€ bounty)
+Seat 2: lenaawin (20000, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20275, 2.25€ bounty)
+Seat 4: Adelit0 (24646, 2.25€ bounty)
+Seat 5: Postle0max (10933, 2.25€ bounty)
+Seat 6: Villardon8 (47546, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 25
+Postle0max posts ante 25
+YL_ML_GL_42 posts ante 25
+lenaawin posts ante 25
+Loco_Tarjeta posts ante 25
+Villardon8 posts ante 25
+Adelit0 posts small blind 100
+Postle0max posts big blind 200
+Dealt to YL_ML_GL_42 [4s As]
+*** PRE-FLOP *** 
+Villardon8 folds
+YL_ML_GL_42 raises 200 to 400
+lenaawin folds
+Loco_Tarjeta folds
+Adelit0 calls 300
+Postle0max folds
+*** FLOP *** [Qc 3d Ah]
+Adelit0 checks
+YL_ML_GL_42 bets 403
+Adelit0 calls 403
+*** TURN *** [Qc 3d Ah][7s]
+Adelit0 checks
+YL_ML_GL_42 bets 685
+Adelit0 calls 685
+*** RIVER *** [Qc 3d Ah 7s][2c]
+Adelit0 checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+Adelit0 shows [Qd Td] (One pair : Queens)
+YL_ML_GL_42 shows [4s As] (One pair : Aces)
+YL_ML_GL_42 collected 3326 from pot
+*** SUMMARY ***
+Total pot 3326 | No rake
+Board: [Qc 3d Ah 7s 2c]
+Seat 1: YL_ML_GL_42 showed [4s As] and won 3326 with One pair : Aces
+Seat 4: Adelit0 (small blind) showed [Qd Td] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543166301942054969-22-1668793925 - Holdem no limit (25/100/200) - 2022/11/18 17:52:05 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (32663, 2.81€ bounty)
+Seat 2: lenaawin (19975, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20250, 2.25€ bounty)
+Seat 4: Adelit0 (23133, 2.25€ bounty)
+Seat 5: Postle0max (10708, 2.25€ bounty)
+Seat 6: Villardon8 (47521, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Postle0max posts ante 25
+Villardon8 posts ante 25
+YL_ML_GL_42 posts ante 25
+lenaawin posts ante 25
+Loco_Tarjeta posts ante 25
+Adelit0 posts ante 25
+Postle0max posts small blind 100
+Villardon8 posts big blind 200
+Dealt to YL_ML_GL_42 [Ks 2d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+lenaawin folds
+Loco_Tarjeta folds
+Adelit0 raises 200 to 400
+Postle0max folds
+Villardon8 calls 200
+*** FLOP *** [3h 5s Kc]
+Villardon8 checks
+Adelit0 bets 500
+Villardon8 folds
+Adelit0 collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [3h 5s Kc]
+Seat 4: Adelit0 (button) won 1550
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543166301942054969-23-1668793984 - Holdem no limit (25/100/200) - 2022/11/18 17:53:04 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (32638, 2.81€ bounty)
+Seat 2: lenaawin (19950, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20225, 2.25€ bounty)
+Seat 4: Adelit0 (23758, 2.25€ bounty)
+Seat 5: Postle0max (10583, 2.25€ bounty)
+Seat 6: Villardon8 (47096, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 25
+YL_ML_GL_42 posts ante 25
+lenaawin posts ante 25
+Loco_Tarjeta posts ante 25
+Adelit0 posts ante 25
+Postle0max posts ante 25
+Villardon8 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [3h Tc]
+*** PRE-FLOP *** 
+lenaawin folds
+Loco_Tarjeta folds
+Adelit0 raises 200 to 400
+Postle0max raises 1250 to 1650
+Villardon8 folds
+YL_ML_GL_42 folds
+Adelit0 calls 1250
+*** FLOP *** [Th Qc 4s]
+Adelit0 checks
+Postle0max bets 3750
+Adelit0 raises 3750 to 7500
+Postle0max raises 1408 to 8908 and is all-in
+Adelit0 calls 1408
+*** TURN *** [Th Qc 4s][3s]
+*** RIVER *** [Th Qc 4s 3s][2h]
+*** SHOW DOWN ***
+Postle0max shows [Jh Kh] (High card : King)
+Adelit0 shows [Ks Kc] (One pair : Kings)
+Adelit0 collected 21566 from pot
+*** SUMMARY ***
+Total pot 21566 | No rake
+Board: [Th Qc 4s 3s 2h]
+Seat 4: Adelit0 showed [Ks Kc] and won 21566 with One pair : Kings
+Seat 5: Postle0max (button) showed [Jh Kh] and lost with High card : King
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543166301942054969-24-1668794040 - Holdem no limit (25/100/200) - 2022/11/18 17:54:00 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (32413, 2.81€ bounty)
+Seat 2: lenaawin (19925, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20200, 2.25€ bounty)
+Seat 4: Adelit0 (34741, 3.37€ bounty)
+Seat 6: Villardon8 (46971, 3.93€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+lenaawin posts ante 25
+Loco_Tarjeta posts ante 25
+Adelit0 posts ante 25
+Villardon8 posts ante 25
+YL_ML_GL_42 posts small blind 100
+lenaawin posts big blind 200
+Dealt to YL_ML_GL_42 [Qs 6s]
+*** PRE-FLOP *** 
+Loco_Tarjeta folds
+Adelit0 calls 200
+Villardon8 folds
+YL_ML_GL_42 calls 100
+lenaawin checks
+*** FLOP *** [8c Ah 4d]
+YL_ML_GL_42 checks
+lenaawin checks
+Adelit0 bets 600
+YL_ML_GL_42 folds
+lenaawin folds
+Adelit0 collected 1325 from pot
+*** SUMMARY ***
+Total pot 1325 | No rake
+Board: [8c Ah 4d]
+Seat 4: Adelit0 won 1325
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543166301942054969-25-1668794463 - Holdem no limit (25/100/200) - 2022/11/18 18:01:03 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (32188, 2.81€ bounty)
+Seat 2: lenaawin (19700, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20175, 2.25€ bounty)
+Seat 4: Adelit0 (35241, 3.37€ bounty)
+Seat 5: Yoursavings (20000, 2.25€ bounty)
+Seat 6: Villardon8 (46946, 3.93€ bounty)
+*** ANTE/BLINDS ***
+lenaawin posts ante 25
+Loco_Tarjeta posts ante 25
+YL_ML_GL_42 posts ante 25
+Adelit0 posts ante 25
+Yoursavings posts ante 25
+Villardon8 posts ante 25
+lenaawin posts small blind 100
+Loco_Tarjeta posts big blind 200
+Dealt to YL_ML_GL_42 [8s 7d]
+*** PRE-FLOP *** 
+Adelit0 calls 200
+Yoursavings folds
+Villardon8 calls 200
+YL_ML_GL_42 folds
+lenaawin calls 100
+Loco_Tarjeta checks
+*** FLOP *** [2h 8h 9h]
+lenaawin checks
+Loco_Tarjeta checks
+Adelit0 checks
+Villardon8 checks
+*** TURN *** [2h 8h 9h][2s]
+lenaawin checks
+Loco_Tarjeta checks
+Adelit0 checks
+Villardon8 checks
+*** RIVER *** [2h 8h 9h 2s][9c]
+lenaawin checks
+Loco_Tarjeta bets 500
+Adelit0 folds
+Villardon8 folds
+lenaawin folds
+Loco_Tarjeta collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Board: [2h 8h 9h 2s 9c]
+Seat 3: Loco_Tarjeta (big blind) won 1450
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2543166301942054969-26-1668794685 - Holdem no limit (30/125/250) - 2022/11/18 18:04:45 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (32163, 2.81€ bounty)
+Seat 2: lenaawin (19475, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20900, 2.25€ bounty)
+Seat 4: Adelit0 (35016, 3.37€ bounty)
+Seat 5: Yoursavings (19975, 2.25€ bounty)
+Seat 6: Villardon8 (46721, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Loco_Tarjeta posts ante 30
+Adelit0 posts ante 30
+YL_ML_GL_42 posts ante 30
+lenaawin posts ante 30
+Yoursavings posts ante 30
+Villardon8 posts ante 30
+Loco_Tarjeta posts small blind 125
+Adelit0 posts big blind 250
+Dealt to YL_ML_GL_42 [9c Ad]
+*** PRE-FLOP *** 
+Yoursavings folds
+Villardon8 raises 375 to 625
+YL_ML_GL_42 calls 625
+lenaawin folds
+Loco_Tarjeta calls 500
+Adelit0 calls 375
+*** FLOP *** [9d Ah 7h]
+Loco_Tarjeta checks
+Adelit0 checks
+Villardon8 checks
+YL_ML_GL_42 bets 938
+Loco_Tarjeta folds
+Adelit0 folds
+Villardon8 calls 938
+*** TURN *** [9d Ah 7h][7c]
+Villardon8 checks
+YL_ML_GL_42 bets 2278
+Villardon8 calls 2278
+*** RIVER *** [9d Ah 7h 7c][3s]
+Villardon8 checks
+YL_ML_GL_42 bets 3189
+Villardon8 folds
+YL_ML_GL_42 collected 12301 from pot
+*** SUMMARY ***
+Total pot 12301 | No rake
+Board: [9d Ah 7h 7c 3s]
+Seat 1: YL_ML_GL_42 won 12301
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543166301942054969-27-1668794794 - Holdem no limit (35/150/300) - 2022/11/18 18:06:34 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (37404, 2.81€ bounty)
+Seat 2: lenaawin (19445, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20245, 2.25€ bounty)
+Seat 4: Adelit0 (34361, 3.37€ bounty)
+Seat 5: Yoursavings (19945, 2.25€ bounty)
+Seat 6: Villardon8 (42850, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 35
+Yoursavings posts ante 35
+YL_ML_GL_42 posts ante 35
+lenaawin posts ante 35
+Loco_Tarjeta posts ante 35
+Villardon8 posts ante 35
+Adelit0 posts small blind 150
+Yoursavings posts big blind 300
+Dealt to YL_ML_GL_42 [5c 7s]
+*** PRE-FLOP *** 
+Villardon8 folds
+YL_ML_GL_42 folds
+lenaawin calls 300
+Loco_Tarjeta folds
+Adelit0 calls 150
+Yoursavings checks
+*** FLOP *** [4h 3h Js]
+Adelit0 checks
+Yoursavings checks
+lenaawin bets 555
+Adelit0 calls 555
+Yoursavings folds
+*** TURN *** [4h 3h Js][Kh]
+Adelit0 checks
+lenaawin checks
+*** RIVER *** [4h 3h Js Kh][6s]
+Adelit0 checks
+lenaawin checks
+*** SHOW DOWN ***
+Adelit0 shows [Ts 5s] (High card : King)
+lenaawin shows [Qs Jc] (One pair : Jacks)
+lenaawin collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [4h 3h Js Kh 6s]
+Seat 2: lenaawin showed [Qs Jc] and won 2220 with One pair : Jacks
+Seat 4: Adelit0 (small blind) showed [Ts 5s] and lost with High card : King
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543166301942054969-28-1668794849 - Holdem no limit (35/150/300) - 2022/11/18 18:07:29 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (37369, 2.81€ bounty)
+Seat 2: lenaawin (20775, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20210, 2.25€ bounty)
+Seat 4: Adelit0 (33471, 3.37€ bounty)
+Seat 5: Yoursavings (19610, 2.25€ bounty)
+Seat 6: Villardon8 (42815, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Yoursavings posts ante 35
+Villardon8 posts ante 35
+YL_ML_GL_42 posts ante 35
+lenaawin posts ante 35
+Loco_Tarjeta posts ante 35
+Adelit0 posts ante 35
+Yoursavings posts small blind 150
+Villardon8 posts big blind 300
+Dealt to YL_ML_GL_42 [6c Th]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+lenaawin folds
+Loco_Tarjeta folds
+Adelit0 folds
+Yoursavings folds
+Villardon8 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 6: Villardon8 (big blind) won 660
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543166301942054969-29-1668794882 - Holdem no limit (35/150/300) - 2022/11/18 18:08:02 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (37334, 2.81€ bounty)
+Seat 2: lenaawin (20740, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (20175, 2.25€ bounty)
+Seat 4: Adelit0 (33436, 3.37€ bounty)
+Seat 5: Yoursavings (19425, 2.25€ bounty)
+Seat 6: Villardon8 (43140, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 35
+YL_ML_GL_42 posts ante 35
+lenaawin posts ante 35
+Loco_Tarjeta posts ante 35
+Adelit0 posts ante 35
+Yoursavings posts ante 35
+Villardon8 posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [4c 5h]
+*** PRE-FLOP *** 
+lenaawin folds
+Loco_Tarjeta raises 375 to 675
+Adelit0 calls 675
+Yoursavings folds
+Villardon8 folds
+YL_ML_GL_42 folds
+*** FLOP *** [6d Kd 7h]
+Loco_Tarjeta checks
+Adelit0 bets 750
+Loco_Tarjeta raises 1500 to 2250
+Adelit0 folds
+Loco_Tarjeta collected 5010 from pot
+*** SUMMARY ***
+Total pot 5010 | No rake
+Board: [6d Kd 7h]
+Seat 3: Loco_Tarjeta won 5010
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543166301942054969-30-1668794923 - Holdem no limit (35/150/300) - 2022/11/18 18:08:43 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (36999, 2.81€ bounty)
+Seat 2: lenaawin (20705, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (22225, 2.25€ bounty)
+Seat 4: Adelit0 (31976, 3.37€ bounty)
+Seat 5: Yoursavings (19390, 2.25€ bounty)
+Seat 6: Villardon8 (42955, 3.93€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+lenaawin posts ante 35
+Loco_Tarjeta posts ante 35
+Adelit0 posts ante 35
+Yoursavings posts ante 35
+Villardon8 posts ante 35
+YL_ML_GL_42 posts small blind 150
+lenaawin posts big blind 300
+Dealt to YL_ML_GL_42 [9c 6d]
+*** PRE-FLOP *** 
+Loco_Tarjeta folds
+Adelit0 folds
+Yoursavings folds
+Villardon8 folds
+YL_ML_GL_42 folds
+lenaawin collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 2: lenaawin (big blind) won 660
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543166301942054969-31-1668794929 - Holdem no limit (35/150/300) - 2022/11/18 18:08:49 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (36814, 2.81€ bounty)
+Seat 2: lenaawin (21030, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (22190, 2.25€ bounty)
+Seat 4: Adelit0 (31941, 3.37€ bounty)
+Seat 5: Yoursavings (19355, 2.25€ bounty)
+Seat 6: Villardon8 (42920, 3.93€ bounty)
+*** ANTE/BLINDS ***
+lenaawin posts ante 35
+Loco_Tarjeta posts ante 35
+YL_ML_GL_42 posts ante 35
+Adelit0 posts ante 35
+Yoursavings posts ante 35
+Villardon8 posts ante 35
+lenaawin posts small blind 150
+Loco_Tarjeta posts big blind 300
+Dealt to YL_ML_GL_42 [6h Kh]
+*** PRE-FLOP *** 
+Adelit0 folds
+Yoursavings folds
+Villardon8 folds
+YL_ML_GL_42 raises 600 to 900
+lenaawin calls 750
+Loco_Tarjeta folds
+*** FLOP *** [Td Qc Tc]
+lenaawin checks
+YL_ML_GL_42 checks
+*** TURN *** [Td Qc Tc][4s]
+lenaawin checks
+YL_ML_GL_42 checks
+*** RIVER *** [Td Qc Tc 4s][Jc]
+lenaawin checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+lenaawin shows [8s 5s] (One pair : Tens)
+YL_ML_GL_42 shows [6h Kh] (One pair : Tens)
+YL_ML_GL_42 collected 2310 from pot
+*** SUMMARY ***
+Total pot 2310 | No rake
+Board: [Td Qc Tc 4s Jc]
+Seat 1: YL_ML_GL_42 (button) showed [6h Kh] and won 2310 with One pair : Tens
+Seat 2: lenaawin (small blind) showed [8s 5s] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543166301942054969-32-1668794974 - Holdem no limit (35/150/300) - 2022/11/18 18:09:34 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (38189, 2.81€ bounty)
+Seat 2: lenaawin (20095, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (21855, 2.25€ bounty)
+Seat 4: Adelit0 (31906, 3.37€ bounty)
+Seat 5: Yoursavings (19320, 2.25€ bounty)
+Seat 6: Villardon8 (42885, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Loco_Tarjeta posts ante 35
+Adelit0 posts ante 35
+YL_ML_GL_42 posts ante 35
+lenaawin posts ante 35
+Yoursavings posts ante 35
+Villardon8 posts ante 35
+Loco_Tarjeta posts small blind 150
+Adelit0 posts big blind 300
+Dealt to YL_ML_GL_42 [Qs Jc]
+*** PRE-FLOP *** 
+Yoursavings folds
+Villardon8 folds
+YL_ML_GL_42 raises 300 to 600
+lenaawin folds
+Loco_Tarjeta folds
+Adelit0 folds
+YL_ML_GL_42 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 1: YL_ML_GL_42 won 1260
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543166301942054969-33-1668794998 - Holdem no limit (35/150/300) - 2022/11/18 18:09:58 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (38814, 2.81€ bounty)
+Seat 2: lenaawin (20060, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (21670, 2.25€ bounty)
+Seat 4: Adelit0 (31571, 3.37€ bounty)
+Seat 5: Yoursavings (19285, 2.25€ bounty)
+Seat 6: Villardon8 (42850, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 35
+Yoursavings posts ante 35
+YL_ML_GL_42 posts ante 35
+lenaawin posts ante 35
+Loco_Tarjeta posts ante 35
+Villardon8 posts ante 35
+Adelit0 posts small blind 150
+Yoursavings posts big blind 300
+Dealt to YL_ML_GL_42 [2c Ts]
+*** PRE-FLOP *** 
+Villardon8 raises 450 to 750
+YL_ML_GL_42 folds
+lenaawin folds
+Loco_Tarjeta folds
+Adelit0 calls 600
+Yoursavings folds
+*** FLOP *** [6s 3s Th]
+Adelit0 checks
+Villardon8 checks
+*** TURN *** [6s 3s Th][8h]
+Adelit0 bets 900
+Villardon8 folds
+Adelit0 collected 2910 from pot
+*** SUMMARY ***
+Total pot 2910 | No rake
+Board: [6s 3s Th 8h]
+Seat 4: Adelit0 (small blind) won 2910
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543166301942054969-34-1668795061 - Holdem no limit (35/150/300) - 2022/11/18 18:11:01 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (38779, 2.81€ bounty)
+Seat 2: lenaawin (20025, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (21635, 2.25€ bounty)
+Seat 4: Adelit0 (32796, 3.37€ bounty)
+Seat 5: Yoursavings (18950, 2.25€ bounty)
+Seat 6: Villardon8 (42065, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Yoursavings posts ante 35
+Villardon8 posts ante 35
+YL_ML_GL_42 posts ante 35
+lenaawin posts ante 35
+Loco_Tarjeta posts ante 35
+Adelit0 posts ante 35
+Yoursavings posts small blind 150
+Villardon8 posts big blind 300
+Dealt to YL_ML_GL_42 [7h 7c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 300 to 600
+lenaawin raises 1200 to 1800
+Loco_Tarjeta folds
+Adelit0 folds
+Yoursavings folds
+Villardon8 folds
+YL_ML_GL_42 raises 36944 to 38744 and is all-in
+lenaawin calls 18190 and is all-in
+*** FLOP *** [9c 6s 8h]
+*** TURN *** [9c 6s 8h][5h]
+*** RIVER *** [9c 6s 8h 5h][Ah]
+*** SHOW DOWN ***
+lenaawin shows [3s As] (One pair : Aces)
+YL_ML_GL_42 shows [7h 7c] (Straight 9 high)
+YL_ML_GL_42 collected 59394 from pot
+*** SUMMARY ***
+Total pot 59394 | No rake
+Board: [9c 6s 8h 5h Ah]
+Seat 1: YL_ML_GL_42 showed [7h 7c] and won 59394 with Straight 9 high
+Seat 2: lenaawin showed [3s As] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2543166301942054969-35-1668795126 - Holdem no limit (40/175/350) - 2022/11/18 18:12:06 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (59394, 3.93€ bounty)
+Seat 2: J.Scriblerus (20000, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (21600, 2.25€ bounty)
+Seat 4: Adelit0 (32761, 3.37€ bounty)
+Seat 5: Yoursavings (18765, 2.25€ bounty)
+Seat 6: Villardon8 (41730, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 40
+YL_ML_GL_42 posts ante 40
+J.Scriblerus posts ante 40
+Loco_Tarjeta posts ante 40
+Adelit0 posts ante 40
+Yoursavings posts ante 40
+Villardon8 posts small blind 175
+YL_ML_GL_42 posts big blind 350
+Dealt to YL_ML_GL_42 [9s 8h]
+*** PRE-FLOP *** 
+J.Scriblerus folds
+Loco_Tarjeta folds
+Adelit0 raises 350 to 700
+Yoursavings raises 18025 to 18725 and is all-in
+Villardon8 folds
+YL_ML_GL_42 folds
+Adelit0 calls 18025
+*** FLOP *** [4c 3s Jc]
+*** TURN *** [4c 3s Jc][Ah]
+*** RIVER *** [4c 3s Jc Ah][Td]
+*** SHOW DOWN ***
+Yoursavings shows [Ad Qh] (One pair : Aces)
+Adelit0 shows [Kd Qc] (Straight Ace high)
+Adelit0 collected 38215 from pot
+*** SUMMARY ***
+Total pot 38215 | No rake
+Board: [4c 3s Jc Ah Td]
+Seat 4: Adelit0 showed [Kd Qc] and won 38215 with Straight Ace high
+Seat 5: Yoursavings (button) showed [Ad Qh] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2543166301942054969-36-1668795181 - Holdem no limit (40/175/350) - 2022/11/18 18:13:01 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (59004, 3.93€ bounty)
+Seat 2: J.Scriblerus (19960, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (21560, 2.25€ bounty)
+Seat 4: Adelit0 (52211, 4.49€ bounty)
+Seat 6: Villardon8 (41515, 3.93€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 40
+J.Scriblerus posts ante 40
+Loco_Tarjeta posts ante 40
+Adelit0 posts ante 40
+Villardon8 posts ante 40
+YL_ML_GL_42 posts small blind 175
+J.Scriblerus posts big blind 350
+Dealt to YL_ML_GL_42 [2s 5s]
+*** PRE-FLOP *** 
+Loco_Tarjeta folds
+Adelit0 folds
+Villardon8 raises 455 to 805
+YL_ML_GL_42 folds
+J.Scriblerus folds
+Villardon8 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 6: Villardon8 (button) won 1530
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2543166301942054969-37-1668795234 - Holdem no limit (40/175/350) - 2022/11/18 18:13:54 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (58789, 3.93€ bounty)
+Seat 2: J.Scriblerus (19570, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (21520, 2.25€ bounty)
+Seat 4: Adelit0 (52171, 4.49€ bounty)
+Seat 5: pasderace11 (20000, 2.25€ bounty)
+Seat 6: Villardon8 (42200, 3.93€ bounty)
+*** ANTE/BLINDS ***
+J.Scriblerus posts ante 40
+Loco_Tarjeta posts ante 40
+YL_ML_GL_42 posts ante 40
+Adelit0 posts ante 40
+pasderace11 posts ante 40
+Villardon8 posts ante 40
+J.Scriblerus posts small blind 175
+Loco_Tarjeta posts big blind 350
+Dealt to YL_ML_GL_42 [6s Jd]
+*** PRE-FLOP *** 
+Adelit0 folds
+pasderace11 calls 350
+Villardon8 calls 350
+YL_ML_GL_42 folds
+J.Scriblerus folds
+Loco_Tarjeta checks
+*** FLOP *** [7h Jh 7d]
+Loco_Tarjeta checks
+pasderace11 checks
+Villardon8 checks
+*** TURN *** [7h Jh 7d][Qc]
+Loco_Tarjeta bets 350
+pasderace11 folds
+Villardon8 calls 350
+*** RIVER *** [7h Jh 7d Qc][Ad]
+Loco_Tarjeta bets 525
+Villardon8 folds
+Loco_Tarjeta collected 2690 from pot
+*** SUMMARY ***
+Total pot 2690 | No rake
+Board: [7h Jh 7d Qc Ad]
+Seat 3: Loco_Tarjeta (big blind) won 2690
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2543166301942054969-38-1668795362 - Holdem no limit (40/175/350) - 2022/11/18 18:16:02 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (58749, 3.93€ bounty)
+Seat 2: J.Scriblerus (19355, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (22945, 2.25€ bounty)
+Seat 4: Adelit0 (52131, 4.49€ bounty)
+Seat 5: pasderace11 (19610, 2.25€ bounty)
+Seat 6: Villardon8 (41460, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Loco_Tarjeta posts ante 40
+Adelit0 posts ante 40
+YL_ML_GL_42 posts ante 40
+J.Scriblerus posts ante 40
+pasderace11 posts ante 40
+Villardon8 posts ante 40
+Loco_Tarjeta posts small blind 175
+Adelit0 posts big blind 350
+Dealt to YL_ML_GL_42 [2d 8c]
+*** PRE-FLOP *** 
+pasderace11 folds
+Villardon8 raises 455 to 805
+YL_ML_GL_42 folds
+J.Scriblerus folds
+Loco_Tarjeta folds
+Adelit0 calls 455
+*** FLOP *** [6s 9s Td]
+Adelit0 checks
+Villardon8 bets 980
+Adelit0 folds
+Villardon8 collected 3005 from pot
+*** SUMMARY ***
+Total pot 3005 | No rake
+Board: [6s 9s Td]
+Seat 6: Villardon8 won 3005
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543166301942054969-39-1668795427 - Holdem no limit (50/200/400) - 2022/11/18 18:17:07 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (58709, 3.93€ bounty)
+Seat 2: J.Scriblerus (19315, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (22730, 2.25€ bounty)
+Seat 4: Adelit0 (51286, 4.49€ bounty)
+Seat 5: pasderace11 (19570, 2.25€ bounty)
+Seat 6: Villardon8 (42640, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 50
+pasderace11 posts ante 50
+YL_ML_GL_42 posts ante 50
+J.Scriblerus posts ante 50
+Loco_Tarjeta posts ante 50
+Villardon8 posts ante 50
+Adelit0 posts small blind 200
+pasderace11 posts big blind 400
+Dealt to YL_ML_GL_42 [9s 4h]
+*** PRE-FLOP *** 
+Villardon8 folds
+YL_ML_GL_42 folds
+J.Scriblerus folds
+Loco_Tarjeta raises 500 to 900
+Adelit0 folds
+pasderace11 folds
+Loco_Tarjeta collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Seat 3: Loco_Tarjeta (button) won 1800
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543166301942054969-40-1668795481 - Holdem no limit (50/200/400) - 2022/11/18 18:18:01 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (58659, 3.93€ bounty)
+Seat 2: J.Scriblerus (19265, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (23580, 2.25€ bounty)
+Seat 4: Adelit0 (51036, 4.49€ bounty)
+Seat 5: pasderace11 (19120, 2.25€ bounty)
+Seat 6: Villardon8 (42590, 3.93€ bounty)
+*** ANTE/BLINDS ***
+pasderace11 posts ante 50
+Villardon8 posts ante 50
+YL_ML_GL_42 posts ante 50
+J.Scriblerus posts ante 50
+Loco_Tarjeta posts ante 50
+Adelit0 posts ante 50
+pasderace11 posts small blind 200
+Villardon8 posts big blind 400
+Dealt to YL_ML_GL_42 [5h Ac]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+J.Scriblerus folds
+Loco_Tarjeta raises 500 to 900
+Adelit0 calls 900
+pasderace11 folds
+Villardon8 calls 500
+*** FLOP *** [As 4d 3d]
+Villardon8 checks
+Loco_Tarjeta checks
+Adelit0 checks
+*** TURN *** [As 4d 3d][6h]
+Villardon8 checks
+Loco_Tarjeta bets 2080
+Adelit0 folds
+Villardon8 folds
+Loco_Tarjeta collected 5280 from pot
+*** SUMMARY ***
+Total pot 5280 | No rake
+Board: [As 4d 3d 6h]
+Seat 3: Loco_Tarjeta won 5280
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543166301942054969-41-1668795558 - Holdem no limit (50/200/400) - 2022/11/18 18:19:18 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (58609, 3.93€ bounty)
+Seat 2: J.Scriblerus (19215, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (25830, 2.25€ bounty)
+Seat 4: Adelit0 (50086, 4.49€ bounty)
+Seat 5: pasderace11 (18870, 2.25€ bounty)
+Seat 6: Villardon8 (41640, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 50
+YL_ML_GL_42 posts ante 50
+J.Scriblerus posts ante 50
+Loco_Tarjeta posts ante 50
+Adelit0 posts ante 50
+pasderace11 posts ante 50
+Villardon8 posts small blind 200
+YL_ML_GL_42 posts big blind 400
+Dealt to YL_ML_GL_42 [Kc 5s]
+*** PRE-FLOP *** 
+J.Scriblerus calls 400
+Loco_Tarjeta folds
+Adelit0 folds
+pasderace11 calls 400
+Villardon8 raises 1600 to 2000
+YL_ML_GL_42 folds
+J.Scriblerus calls 1600
+pasderace11 calls 1600
+*** FLOP *** [6h 9d 8s]
+Villardon8 checks
+J.Scriblerus checks
+pasderace11 checks
+*** TURN *** [6h 9d 8s][3s]
+Villardon8 checks
+J.Scriblerus checks
+pasderace11 bets 2345
+Villardon8 calls 2345
+J.Scriblerus calls 2345
+*** RIVER *** [6h 9d 8s 3s][5h]
+Villardon8 checks
+J.Scriblerus checks
+pasderace11 checks
+*** SHOW DOWN ***
+J.Scriblerus shows [Js Qs] (High card : Queen)
+Villardon8 shows [Ad Td] (High card : Ace)
+pasderace11 shows [3h 3c] (Trips of 3)
+pasderace11 collected 13735 from pot
+*** SUMMARY ***
+Total pot 13735 | No rake
+Board: [6h 9d 8s 3s 5h]
+Seat 2: J.Scriblerus showed [Js Qs] and lost with High card : Queen
+Seat 5: pasderace11 (button) showed [3h 3c] and won 13735 with Trips of 3
+Seat 6: Villardon8 (small blind) showed [Ad Td] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2543166301942054969-42-1668795710 - Holdem no limit (60/250/500) - 2022/11/18 18:21:50 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (58159, 3.93€ bounty)
+Seat 2: J.Scriblerus (14820, 2.25€ bounty)
+Seat 3: Loco_Tarjeta (25780, 2.25€ bounty)
+Seat 4: Adelit0 (50036, 4.49€ bounty)
+Seat 5: pasderace11 (28210, 2.25€ bounty)
+Seat 6: Villardon8 (37245, 3.93€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+J.Scriblerus posts ante 60
+Loco_Tarjeta posts ante 60
+Adelit0 posts ante 60
+pasderace11 posts ante 60
+Villardon8 posts ante 60
+YL_ML_GL_42 posts small blind 250
+J.Scriblerus posts big blind 500
+Dealt to YL_ML_GL_42 [Qh Kd]
+*** PRE-FLOP *** 
+Loco_Tarjeta raises 625 to 1125
+Adelit0 calls 1125
+pasderace11 folds
+Villardon8 folds
+YL_ML_GL_42 calls 875
+J.Scriblerus folds
+*** FLOP *** [8h 2c Qc]
+YL_ML_GL_42 bets 2118
+Loco_Tarjeta calls 2118
+Adelit0 calls 2118
+*** TURN *** [8h 2c Qc][2s]
+YL_ML_GL_42 bets 3706
+Loco_Tarjeta calls 3706
+Adelit0 folds
+*** RIVER *** [8h 2c Qc 2s][7h]
+YL_ML_GL_42 bets 6300
+Loco_Tarjeta raises 12471 to 18771 and is all-in
+YL_ML_GL_42 calls 12471
+*** SHOW DOWN ***
+Loco_Tarjeta shows [Ac 4c] (One pair : 2)
+YL_ML_GL_42 shows [Qh Kd] (Two pairs : Queens and 2)
+YL_ML_GL_42 collected 55543 from pot
+*** SUMMARY ***
+Total pot 55543 | No rake
+Board: [8h 2c Qc 2s 7h]
+Seat 1: YL_ML_GL_42 (small blind) showed [Qh Kd] and won 55543 with Two pairs : Queens and 2
+Seat 3: Loco_Tarjeta showed [Ac 4c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2543166301942054969-43-1668795856 - Holdem no limit (60/250/500) - 2022/11/18 18:24:16 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (87922, 5.05€ bounty)
+Seat 2: J.Scriblerus (14260, 2.25€ bounty)
+Seat 4: Adelit0 (46733, 4.49€ bounty)
+Seat 5: pasderace11 (28150, 2.25€ bounty)
+Seat 6: Villardon8 (37185, 3.93€ bounty)
+*** ANTE/BLINDS ***
+J.Scriblerus posts ante 60
+Adelit0 posts ante 60
+YL_ML_GL_42 posts ante 60
+pasderace11 posts ante 60
+Villardon8 posts ante 60
+J.Scriblerus posts small blind 250
+Adelit0 posts big blind 500
+Dealt to YL_ML_GL_42 [Kd Kc]
+*** PRE-FLOP *** 
+pasderace11 calls 500
+Villardon8 folds
+YL_ML_GL_42 raises 500 to 1000
+J.Scriblerus folds
+Adelit0 calls 500
+pasderace11 calls 500
+*** FLOP *** [4s Qc 3c]
+Adelit0 checks
+pasderace11 bets 500
+YL_ML_GL_42 raises 2783 to 3283
+Adelit0 folds
+pasderace11 calls 2783
+*** TURN *** [4s Qc 3c][Th]
+pasderace11 bets 6575
+YL_ML_GL_42 calls 6575
+*** RIVER *** [4s Qc 3c Th][Ah]
+pasderace11 bets 15123
+YL_ML_GL_42 calls 15123
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kd Kc] (One pair : Kings)
+pasderace11 shows [Ac Ad] (Trips of Aces)
+pasderace11 collected 53512 from pot
+*** SUMMARY ***
+Total pot 53512 | No rake
+Board: [4s Qc 3c Th Ah]
+Seat 1: YL_ML_GL_42 (button) showed [Kd Kc] and lost with One pair : Kings
+Seat 5: pasderace11 showed [Ac Ad] and won 53512 with Trips of Aces
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2543166301942054969-44-1668795925 - Holdem no limit (60/250/500) - 2022/11/18 18:25:25 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (61881, 5.05€ bounty)
+Seat 2: J.Scriblerus (13950, 2.25€ bounty)
+Seat 4: Adelit0 (45673, 4.49€ bounty)
+Seat 5: pasderace11 (55621, 2.25€ bounty)
+Seat 6: Villardon8 (37125, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 60
+pasderace11 posts ante 60
+YL_ML_GL_42 posts ante 60
+J.Scriblerus posts ante 60
+Villardon8 posts ante 60
+Adelit0 posts small blind 250
+pasderace11 posts big blind 500
+Dealt to YL_ML_GL_42 [8h Qs]
+*** PRE-FLOP *** 
+Villardon8 folds
+YL_ML_GL_42 folds
+J.Scriblerus calls 500
+Adelit0 calls 250
+pasderace11 checks
+*** FLOP *** [Tc Qh 3c]
+Adelit0 checks
+pasderace11 checks
+J.Scriblerus checks
+*** TURN *** [Tc Qh 3c][4c]
+Adelit0 checks
+pasderace11 checks
+J.Scriblerus bets 630
+Adelit0 folds
+pasderace11 folds
+J.Scriblerus collected 2430 from pot
+*** SUMMARY ***
+Total pot 2430 | No rake
+Board: [Tc Qh 3c 4c]
+Seat 2: J.Scriblerus (button) won 2430
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2543166301942054969-45-1668795988 - Holdem no limit (70/300/600) - 2022/11/18 18:26:28 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (61821, 5.05€ bounty)
+Seat 2: J.Scriblerus (15190, 2.25€ bounty)
+Seat 4: Adelit0 (45113, 4.49€ bounty)
+Seat 5: pasderace11 (55061, 2.25€ bounty)
+Seat 6: Villardon8 (37065, 3.93€ bounty)
+*** ANTE/BLINDS ***
+pasderace11 posts ante 70
+Villardon8 posts ante 70
+YL_ML_GL_42 posts ante 70
+J.Scriblerus posts ante 70
+Adelit0 posts ante 70
+pasderace11 posts small blind 300
+Villardon8 posts big blind 600
+Dealt to YL_ML_GL_42 [5d 8c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+J.Scriblerus raises 900 to 1500
+Adelit0 calls 1500
+pasderace11 folds
+Villardon8 folds
+*** FLOP *** [Jc 4d Kc]
+J.Scriblerus bets 1063
+Adelit0 calls 1063
+*** TURN *** [Jc 4d Kc][Jh]
+J.Scriblerus bets 1594
+Adelit0 calls 1594
+*** RIVER *** [Jc 4d Kc Jh][Tc]
+J.Scriblerus checks
+Adelit0 bets 13200
+J.Scriblerus calls 10963 and is all-in
+*** SHOW DOWN ***
+J.Scriblerus shows [Kd Qh] (Two pairs : Kings and Jacks)
+Adelit0 shows [Qc Js] (Trips of Jacks)
+Adelit0 collected 33727 from pot
+*** SUMMARY ***
+Total pot 33727 | No rake
+Board: [Jc 4d Kc Jh Tc]
+Seat 2: J.Scriblerus showed [Kd Qh] and lost with Two pairs : Kings and Jacks
+Seat 4: Adelit0 (button) showed [Qc Js] and won 33727 with Trips of Jacks
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2543166301942054969-46-1668796072 - Holdem no limit (70/300/600) - 2022/11/18 18:27:52 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (61751, 5.05€ bounty)
+Seat 3: Kylord (20000, 2.25€ bounty)
+Seat 4: Adelit0 (61413, 5.61€ bounty)
+Seat 5: pasderace11 (54691, 2.25€ bounty)
+Seat 6: Villardon8 (36395, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 70
+YL_ML_GL_42 posts ante 70
+Kylord posts ante 70
+Adelit0 posts ante 70
+pasderace11 posts ante 70
+Villardon8 posts small blind 300
+YL_ML_GL_42 posts big blind 600
+Dealt to YL_ML_GL_42 [Kc Tc]
+*** PRE-FLOP *** 
+Kylord folds
+Adelit0 folds
+pasderace11 calls 600
+Villardon8 calls 300
+YL_ML_GL_42 checks
+*** FLOP *** [8s 3s 5h]
+Villardon8 checks
+YL_ML_GL_42 checks
+pasderace11 checks
+*** TURN *** [8s 3s 5h][4h]
+Villardon8 checks
+YL_ML_GL_42 checks
+pasderace11 checks
+*** RIVER *** [8s 3s 5h 4h][Qd]
+Villardon8 checks
+YL_ML_GL_42 checks
+pasderace11 bets 2150
+Villardon8 folds
+YL_ML_GL_42 folds
+pasderace11 collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | No rake
+Board: [8s 3s 5h 4h Qd]
+Seat 5: pasderace11 (button) won 4300
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2543166301942054969-47-1668796204 - Holdem no limit (70/300/600) - 2022/11/18 18:30:04 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (61081, 5.05€ bounty)
+Seat 2: noobish33 (20000, 2.25€ bounty)
+Seat 3: Kylord (19930, 2.25€ bounty)
+Seat 4: Adelit0 (61343, 5.61€ bounty)
+Seat 5: pasderace11 (56171, 2.25€ bounty)
+Seat 6: Villardon8 (35725, 3.93€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 70
+noobish33 posts ante 70
+Kylord posts ante 70
+Adelit0 posts ante 70
+pasderace11 posts ante 70
+Villardon8 posts ante 70
+YL_ML_GL_42 posts small blind 300
+noobish33 posts big blind 600
+Dealt to YL_ML_GL_42 [Kh Jc]
+*** PRE-FLOP *** 
+Kylord folds
+Adelit0 calls 600
+pasderace11 calls 600
+Villardon8 calls 600
+YL_ML_GL_42 calls 300
+noobish33 checks
+*** FLOP *** [Tc 4s Ts]
+YL_ML_GL_42 checks
+noobish33 bets 2275
+Adelit0 folds
+pasderace11 calls 2275
+Villardon8 folds
+YL_ML_GL_42 folds
+*** TURN *** [Tc 4s Ts][Qs]
+noobish33 bets 4585
+pasderace11 calls 4585
+*** RIVER *** [Tc 4s Ts Qs][2h]
+noobish33 bets 12470 and is all-in
+pasderace11 calls 12470
+*** SHOW DOWN ***
+pasderace11 shows [5s 5c] (Two pairs : Tens and 5)
+noobish33 shows [6h Td] (Trips of Tens)
+noobish33 collected 42080 from pot
+*** SUMMARY ***
+Total pot 42080 | No rake
+Board: [Tc 4s Ts Qs 2h]
+Seat 2: noobish33 (big blind) showed [6h Td] and won 42080 with Trips of Tens
+Seat 5: pasderace11 showed [5s 5c] and lost with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2543166301942054969-48-1668796323 - Holdem no limit (80/350/700) - 2022/11/18 18:32:03 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (60411, 5.05€ bounty)
+Seat 2: noobish33 (42080, 2.25€ bounty)
+Seat 3: Kylord (19860, 2.25€ bounty)
+Seat 4: Adelit0 (60673, 5.61€ bounty)
+Seat 5: pasderace11 (36171, 2.25€ bounty)
+Seat 6: Villardon8 (35055, 3.93€ bounty)
+*** ANTE/BLINDS ***
+noobish33 posts ante 80
+Kylord posts ante 80
+YL_ML_GL_42 posts ante 80
+Adelit0 posts ante 80
+pasderace11 posts ante 80
+Villardon8 posts ante 80
+noobish33 posts small blind 350
+Kylord posts big blind 700
+Dealt to YL_ML_GL_42 [5c 3s]
+*** PRE-FLOP *** 
+Adelit0 folds
+pasderace11 folds
+Villardon8 raises 840 to 1540
+YL_ML_GL_42 folds
+noobish33 calls 1190
+Kylord folds
+*** FLOP *** [7s Kh 6d]
+noobish33 checks
+Villardon8 bets 1400
+noobish33 raises 1775 to 3175
+Villardon8 calls 1775
+*** TURN *** [7s Kh 6d][4h]
+noobish33 bets 3875
+Villardon8 calls 3875
+*** RIVER *** [7s Kh 6d 4h][Jc]
+noobish33 checks
+Villardon8 bets 26385 and is all-in
+noobish33 folds
+Villardon8 collected 44745 from pot
+*** SUMMARY ***
+Total pot 44745 | No rake
+Board: [7s Kh 6d 4h Jc]
+Seat 6: Villardon8 won 44745
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2543166301942054969-49-1668796418 - Holdem no limit (80/350/700) - 2022/11/18 18:33:38 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (60331, 5.05€ bounty)
+Seat 2: noobish33 (33410, 2.25€ bounty)
+Seat 3: Kylord (19080, 2.25€ bounty)
+Seat 4: Adelit0 (60593, 5.61€ bounty)
+Seat 5: pasderace11 (36091, 2.25€ bounty)
+Seat 6: Villardon8 (44745, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Kylord posts ante 80
+Adelit0 posts ante 80
+YL_ML_GL_42 posts ante 80
+noobish33 posts ante 80
+pasderace11 posts ante 80
+Villardon8 posts ante 80
+Kylord posts small blind 350
+Adelit0 posts big blind 700
+Dealt to YL_ML_GL_42 [6s 8c]
+*** PRE-FLOP *** 
+pasderace11 folds
+Villardon8 folds
+YL_ML_GL_42 folds
+noobish33 raises 700 to 1400
+Kylord folds
+Adelit0 folds
+noobish33 collected 2930 from pot
+*** SUMMARY ***
+Total pot 2930 | No rake
+Seat 2: noobish33 (button) won 2930
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2543166301942054969-50-1668796443 - Holdem no limit (80/350/700) - 2022/11/18 18:34:03 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (60251, 5.05€ bounty)
+Seat 2: noobish33 (34860, 2.25€ bounty)
+Seat 3: Kylord (18650, 2.25€ bounty)
+Seat 4: Adelit0 (59813, 5.61€ bounty)
+Seat 5: pasderace11 (36011, 2.25€ bounty)
+Seat 6: Villardon8 (44665, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 80
+pasderace11 posts ante 80
+YL_ML_GL_42 posts ante 80
+noobish33 posts ante 80
+Kylord posts ante 80
+Villardon8 posts ante 80
+Adelit0 posts small blind 350
+pasderace11 posts big blind 700
+Dealt to YL_ML_GL_42 [5d Kc]
+*** PRE-FLOP *** 
+Villardon8 folds
+YL_ML_GL_42 folds
+noobish33 raises 700 to 1400
+Kylord folds
+Adelit0 calls 1050
+pasderace11 folds
+*** FLOP *** [3d 8d 7d]
+Adelit0 checks
+noobish33 bets 2100
+Adelit0 folds
+noobish33 collected 6080 from pot
+*** SUMMARY ***
+Total pot 6080 | No rake
+Board: [3d 8d 7d]
+Seat 2: noobish33 won 6080
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2543166301942054969-51-1668796482 - Holdem no limit (80/350/700) - 2022/11/18 18:34:42 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (60171, 5.05€ bounty)
+Seat 2: noobish33 (37360, 2.25€ bounty)
+Seat 3: Kylord (18570, 2.25€ bounty)
+Seat 4: Adelit0 (58333, 5.61€ bounty)
+Seat 5: pasderace11 (35231, 2.25€ bounty)
+Seat 6: Villardon8 (44585, 3.93€ bounty)
+*** ANTE/BLINDS ***
+pasderace11 posts ante 80
+Villardon8 posts ante 80
+YL_ML_GL_42 posts ante 80
+noobish33 posts ante 80
+Kylord posts ante 80
+Adelit0 posts ante 80
+pasderace11 posts small blind 350
+Villardon8 posts big blind 700
+Dealt to YL_ML_GL_42 [8h 3d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+noobish33 folds
+Kylord folds
+Adelit0 calls 700
+pasderace11 calls 350
+Villardon8 checks
+*** FLOP *** [4h 7h Qc]
+pasderace11 bets 700
+Villardon8 folds
+Adelit0 folds
+pasderace11 collected 3280 from pot
+*** SUMMARY ***
+Total pot 3280 | No rake
+Board: [4h 7h Qc]
+Seat 5: pasderace11 (small blind) won 3280
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2543166301942054969-52-1668796528 - Holdem no limit (80/350/700) - 2022/11/18 18:35:28 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (60091, 5.05€ bounty)
+Seat 2: noobish33 (37280, 2.25€ bounty)
+Seat 3: Kylord (18490, 2.25€ bounty)
+Seat 4: Adelit0 (57553, 5.61€ bounty)
+Seat 5: pasderace11 (37031, 2.25€ bounty)
+Seat 6: Villardon8 (43805, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 80
+YL_ML_GL_42 posts ante 80
+noobish33 posts ante 80
+Kylord posts ante 80
+Adelit0 posts ante 80
+pasderace11 posts ante 80
+Villardon8 posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [8h 9c]
+*** PRE-FLOP *** 
+noobish33 folds
+Kylord folds
+Adelit0 folds
+pasderace11 calls 700
+Villardon8 calls 350
+YL_ML_GL_42 checks
+*** FLOP *** [Ac Jd Jc]
+Villardon8 checks
+YL_ML_GL_42 checks
+pasderace11 bets 700
+Villardon8 folds
+YL_ML_GL_42 folds
+pasderace11 collected 3280 from pot
+*** SUMMARY ***
+Total pot 3280 | No rake
+Board: [Ac Jd Jc]
+Seat 5: pasderace11 (button) won 3280
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2543166301942054969-53-1668796566 - Holdem no limit (80/350/700) - 2022/11/18 18:36:06 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (59311, 5.05€ bounty)
+Seat 2: noobish33 (37200, 2.25€ bounty)
+Seat 3: Kylord (18410, 2.25€ bounty)
+Seat 4: Adelit0 (57473, 5.61€ bounty)
+Seat 5: pasderace11 (38831, 2.25€ bounty)
+Seat 6: Villardon8 (43025, 3.93€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+noobish33 posts ante 80
+Kylord posts ante 80
+Adelit0 posts ante 80
+pasderace11 posts ante 80
+Villardon8 posts ante 80
+YL_ML_GL_42 posts small blind 350
+noobish33 posts big blind 700
+Dealt to YL_ML_GL_42 [6h 6c]
+*** PRE-FLOP *** 
+Kylord folds
+Adelit0 folds
+pasderace11 calls 700
+Villardon8 folds
+YL_ML_GL_42 calls 350
+noobish33 checks
+*** FLOP *** [7h 8h 4c]
+YL_ML_GL_42 checks
+noobish33 checks
+pasderace11 checks
+*** TURN *** [7h 8h 4c][Ks]
+YL_ML_GL_42 checks
+noobish33 checks
+pasderace11 checks
+*** RIVER *** [7h 8h 4c Ks][Td]
+YL_ML_GL_42 checks
+noobish33 checks
+pasderace11 bets 903
+YL_ML_GL_42 calls 903
+noobish33 folds
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [6h 6c] (One pair : 6)
+pasderace11 shows [7c Ah] (One pair : 7)
+pasderace11 collected 4386 from pot
+*** SUMMARY ***
+Total pot 4386 | No rake
+Board: [7h 8h 4c Ks Td]
+Seat 1: YL_ML_GL_42 (small blind) showed [6h 6c] and lost with One pair : 6
+Seat 5: pasderace11 showed [7c Ah] and won 4386 with One pair : 7
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2543166301942054969-54-1668796619 - Holdem no limit (100/400/800) - 2022/11/18 18:36:59 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (57628, 5.05€ bounty)
+Seat 2: noobish33 (36420, 2.25€ bounty)
+Seat 3: Kylord (18330, 2.25€ bounty)
+Seat 4: Adelit0 (57393, 5.61€ bounty)
+Seat 5: pasderace11 (41534, 2.25€ bounty)
+Seat 6: Villardon8 (42945, 3.93€ bounty)
+*** ANTE/BLINDS ***
+noobish33 posts ante 100
+Kylord posts ante 100
+YL_ML_GL_42 posts ante 100
+Adelit0 posts ante 100
+pasderace11 posts ante 100
+Villardon8 posts ante 100
+noobish33 posts small blind 400
+Kylord posts big blind 800
+Dealt to YL_ML_GL_42 [2c 7s]
+*** PRE-FLOP *** 
+Adelit0 folds
+pasderace11 calls 800
+Villardon8 folds
+YL_ML_GL_42 folds
+noobish33 folds
+Kylord checks
+*** FLOP *** [4d 2s 8c]
+Kylord checks
+pasderace11 checks
+*** TURN *** [4d 2s 8c][5s]
+Kylord checks
+pasderace11 checks
+*** RIVER *** [4d 2s 8c 5s][Ks]
+Kylord checks
+pasderace11 checks
+*** SHOW DOWN ***
+pasderace11 shows [Qd 9c] (High card : King)
+Kylord shows [5c Td] (One pair : 5)
+Kylord collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Board: [4d 2s 8c 5s Ks]
+Seat 3: Kylord (big blind) showed [5c Td] and won 2600 with One pair : 5
+Seat 5: pasderace11 showed [Qd 9c] and lost with High card : King
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2543166301942054969-55-1668796662 - Holdem no limit (100/400/800) - 2022/11/18 18:37:42 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (57528, 5.05€ bounty)
+Seat 2: noobish33 (35920, 2.25€ bounty)
+Seat 3: Kylord (20030, 2.25€ bounty)
+Seat 4: Adelit0 (57293, 5.61€ bounty)
+Seat 5: pasderace11 (40634, 2.25€ bounty)
+Seat 6: Villardon8 (42845, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Kylord posts ante 100
+Adelit0 posts ante 100
+YL_ML_GL_42 posts ante 100
+noobish33 posts ante 100
+pasderace11 posts ante 100
+Villardon8 posts ante 100
+Kylord posts small blind 400
+Adelit0 posts big blind 800
+Dealt to YL_ML_GL_42 [3s 3h]
+*** PRE-FLOP *** 
+pasderace11 calls 800
+Villardon8 folds
+YL_ML_GL_42 raises 800 to 1600
+noobish33 raises 34220 to 35820 and is all-in
+Kylord folds
+Adelit0 folds
+pasderace11 calls 35020
+YL_ML_GL_42 folds
+*** FLOP *** [5c Jc 2h]
+*** TURN *** [5c Jc 2h][4d]
+*** RIVER *** [5c Jc 2h 4d][6d]
+*** SHOW DOWN ***
+noobish33 shows [Ac Qh] (High card : Ace)
+pasderace11 shows [Th Jh] (One pair : Jacks)
+pasderace11 collected 75040 from pot
+*** SUMMARY ***
+Total pot 75040 | No rake
+Board: [5c Jc 2h 4d 6d]
+Seat 2: noobish33 (button) showed [Ac Qh] and lost with High card : Ace
+Seat 5: pasderace11 showed [Th Jh] and won 75040 with One pair : Jacks
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2543166301942054969-56-1668796701 - Holdem no limit (100/400/800) - 2022/11/18 18:38:21 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (55828, 5.05€ bounty)
+Seat 3: Kylord (19530, 2.25€ bounty)
+Seat 4: Adelit0 (56393, 5.61€ bounty)
+Seat 5: pasderace11 (79754, 3.37€ bounty)
+Seat 6: Villardon8 (42745, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 100
+pasderace11 posts ante 100
+YL_ML_GL_42 posts ante 100
+Kylord posts ante 100
+Villardon8 posts ante 100
+Adelit0 posts small blind 400
+pasderace11 posts big blind 800
+Dealt to YL_ML_GL_42 [Td Js]
+*** PRE-FLOP *** 
+Villardon8 folds
+YL_ML_GL_42 raises 800 to 1600
+Kylord folds
+Adelit0 folds
+pasderace11 calls 800
+*** FLOP *** [8s 9h Kc]
+pasderace11 checks
+YL_ML_GL_42 bets 2050
+pasderace11 calls 2050
+*** TURN *** [8s 9h Kc][9c]
+pasderace11 checks
+YL_ML_GL_42 checks
+*** RIVER *** [8s 9h Kc 9c][Jd]
+pasderace11 checks
+YL_ML_GL_42 bets 4100
+pasderace11 calls 4100
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Td Js] (Two pairs : Jacks and 9)
+pasderace11 shows [3h Kh] (Two pairs : Kings and 9)
+pasderace11 collected 16400 from pot
+*** SUMMARY ***
+Total pot 16400 | No rake
+Board: [8s 9h Kc 9c Jd]
+Seat 1: YL_ML_GL_42 showed [Td Js] and lost with Two pairs : Jacks and 9
+Seat 5: pasderace11 (big blind) showed [3h Kh] and won 16400 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2543166301942054969-57-1668796754 - Holdem no limit (100/400/800) - 2022/11/18 18:39:14 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (47978, 5.05€ bounty)
+Seat 3: Kylord (19430, 2.25€ bounty)
+Seat 4: Adelit0 (55893, 5.61€ bounty)
+Seat 5: pasderace11 (88304, 3.37€ bounty)
+Seat 6: Villardon8 (42645, 3.93€ bounty)
+*** ANTE/BLINDS ***
+pasderace11 posts ante 100
+Villardon8 posts ante 100
+YL_ML_GL_42 posts ante 100
+Kylord posts ante 100
+Adelit0 posts ante 100
+pasderace11 posts small blind 400
+Villardon8 posts big blind 800
+Dealt to YL_ML_GL_42 [7h Kh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Kylord raises 800 to 1600
+Adelit0 calls 1600
+pasderace11 calls 1200
+Villardon8 calls 800
+*** FLOP *** [5s 2h Ad]
+pasderace11 checks
+Villardon8 checks
+Kylord checks
+Adelit0 bets 1200
+pasderace11 raises 1200 to 2400
+Villardon8 folds
+Kylord folds
+Adelit0 calls 1200
+*** TURN *** [5s 2h Ad][5c]
+pasderace11 checks
+Adelit0 bets 2800
+pasderace11 calls 2800
+*** RIVER *** [5s 2h Ad 5c][7d]
+pasderace11 checks
+Adelit0 bets 8650
+pasderace11 calls 8650
+*** SHOW DOWN ***
+pasderace11 shows [Qh Qd] (Two pairs : Queens and 5)
+Adelit0 shows [2d 5d] (Full of 5 and 2)
+Adelit0 collected 34600 from pot
+*** SUMMARY ***
+Total pot 34600 | No rake
+Board: [5s 2h Ad 5c 7d]
+Seat 4: Adelit0 (button) showed [2d 5d] and won 34600 with Full of 5 and 2
+Seat 5: pasderace11 (small blind) showed [Qh Qd] and lost with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2543166301942054969-58-1668796860 - Holdem no limit (100/400/800) - 2022/11/18 18:41:00 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (47878, 5.05€ bounty)
+Seat 2: FABRIZIO.13 (27866, 2.25€ bounty)
+Seat 3: Kylord (17730, 2.25€ bounty)
+Seat 4: Adelit0 (74943, 5.61€ bounty)
+Seat 5: pasderace11 (72754, 3.37€ bounty)
+Seat 6: Villardon8 (40945, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 100
+YL_ML_GL_42 posts ante 100
+FABRIZIO.13 posts ante 100
+Kylord posts ante 100
+Adelit0 posts ante 100
+pasderace11 posts ante 100
+Villardon8 posts small blind 400
+YL_ML_GL_42 posts big blind 800
+Dealt to YL_ML_GL_42 [9d 8s]
+*** PRE-FLOP *** 
+FABRIZIO.13 folds
+Kylord raises 800 to 1600
+Adelit0 folds
+pasderace11 folds
+Villardon8 folds
+YL_ML_GL_42 calls 800
+*** FLOP *** [2s 3c 7s]
+YL_ML_GL_42 checks
+Kylord bets 1302
+YL_ML_GL_42 folds
+Kylord collected 5502 from pot
+*** SUMMARY ***
+Total pot 5502 | No rake
+Board: [2s 3c 7s]
+Seat 3: Kylord won 5502
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2543166301942054969-59-1668796920 - Holdem no limit (120/500/1000) - 2022/11/18 18:42:00 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (46178, 5.05€ bounty)
+Seat 2: FABRIZIO.13 (27766, 2.25€ bounty)
+Seat 3: Kylord (20230, 2.25€ bounty)
+Seat 4: Adelit0 (74843, 5.61€ bounty)
+Seat 5: pasderace11 (72654, 3.37€ bounty)
+Seat 6: Villardon8 (40445, 3.93€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 120
+FABRIZIO.13 posts ante 120
+Kylord posts ante 120
+Adelit0 posts ante 120
+pasderace11 posts ante 120
+Villardon8 posts ante 120
+YL_ML_GL_42 posts small blind 500
+FABRIZIO.13 posts big blind 1000
+Dealt to YL_ML_GL_42 [Js 9c]
+*** PRE-FLOP *** 
+Kylord folds
+Adelit0 folds
+pasderace11 folds
+Villardon8 folds
+YL_ML_GL_42 folds
+FABRIZIO.13 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 2: FABRIZIO.13 (big blind) won 2220
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2543166301942054969-60-1668796935 - Holdem no limit (120/500/1000) - 2022/11/18 18:42:15 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (45558, 5.05€ bounty)
+Seat 2: FABRIZIO.13 (28866, 2.25€ bounty)
+Seat 3: Kylord (20110, 2.25€ bounty)
+Seat 4: Adelit0 (74723, 5.61€ bounty)
+Seat 5: pasderace11 (72534, 3.37€ bounty)
+Seat 6: Villardon8 (40325, 3.93€ bounty)
+*** ANTE/BLINDS ***
+FABRIZIO.13 posts ante 120
+Kylord posts ante 120
+YL_ML_GL_42 posts ante 120
+Adelit0 posts ante 120
+pasderace11 posts ante 120
+Villardon8 posts ante 120
+FABRIZIO.13 posts small blind 500
+Kylord posts big blind 1000
+Dealt to YL_ML_GL_42 [As 4d]
+*** PRE-FLOP *** 
+Adelit0 folds
+pasderace11 calls 1000
+Villardon8 folds
+YL_ML_GL_42 calls 1000
+FABRIZIO.13 raises 4720 to 5720
+Kylord folds
+pasderace11 calls 4720
+YL_ML_GL_42 folds
+*** FLOP *** [Jh 5d Ad]
+FABRIZIO.13 bets 9204
+pasderace11 folds
+FABRIZIO.13 collected 23364 from pot
+*** SUMMARY ***
+Total pot 23364 | No rake
+Board: [Jh 5d Ad]
+Seat 2: FABRIZIO.13 (small blind) won 23364
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2543166301942054969-61-1668797008 - Holdem no limit (120/500/1000) - 2022/11/18 18:43:28 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (44438, 5.05€ bounty)
+Seat 2: FABRIZIO.13 (37186, 2.25€ bounty)
+Seat 3: Kylord (18990, 2.25€ bounty)
+Seat 4: Adelit0 (74603, 5.61€ bounty)
+Seat 5: pasderace11 (66694, 3.37€ bounty)
+Seat 6: Villardon8 (40205, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Kylord posts ante 120
+Adelit0 posts ante 120
+YL_ML_GL_42 posts ante 120
+FABRIZIO.13 posts ante 120
+pasderace11 posts ante 120
+Villardon8 posts ante 120
+Kylord posts small blind 500
+Adelit0 posts big blind 1000
+Dealt to YL_ML_GL_42 [6s 6c]
+*** PRE-FLOP *** 
+pasderace11 calls 1000
+Villardon8 calls 1000
+YL_ML_GL_42 calls 1000
+FABRIZIO.13 folds
+Kylord folds
+Adelit0 checks
+*** FLOP *** [9d Jh 8d]
+Adelit0 checks
+pasderace11 checks
+Villardon8 bets 3915
+YL_ML_GL_42 folds
+Adelit0 folds
+pasderace11 folds
+Villardon8 collected 9135 from pot
+*** SUMMARY ***
+Total pot 9135 | No rake
+Board: [9d Jh 8d]
+Seat 6: Villardon8 won 9135
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2543166301942054969-62-1668797060 - Holdem no limit (120/500/1000) - 2022/11/18 18:44:20 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (43318, 5.05€ bounty)
+Seat 2: FABRIZIO.13 (37066, 2.25€ bounty)
+Seat 3: Kylord (18370, 2.25€ bounty)
+Seat 4: Adelit0 (73483, 5.61€ bounty)
+Seat 5: pasderace11 (65574, 3.37€ bounty)
+Seat 6: Villardon8 (44305, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 120
+pasderace11 posts ante 120
+YL_ML_GL_42 posts ante 120
+FABRIZIO.13 posts ante 120
+Kylord posts ante 120
+Villardon8 posts ante 120
+Adelit0 posts small blind 500
+pasderace11 posts big blind 1000
+Dealt to YL_ML_GL_42 [7h Qs]
+*** PRE-FLOP *** 
+Villardon8 folds
+YL_ML_GL_42 folds
+FABRIZIO.13 folds
+Kylord folds
+Adelit0 calls 500
+pasderace11 checks
+*** FLOP *** [Ac Jd 6d]
+Adelit0 bets 1000
+pasderace11 folds
+Adelit0 collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Board: [Ac Jd 6d]
+Seat 4: Adelit0 (small blind) won 3720
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2543166301942054969-63-1668797135 - Holdem no limit (120/500/1000) - 2022/11/18 18:45:35 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (43198, 5.05€ bounty)
+Seat 2: FABRIZIO.13 (36946, 2.25€ bounty)
+Seat 3: Kylord (18250, 2.25€ bounty)
+Seat 4: Adelit0 (75083, 5.61€ bounty)
+Seat 5: pasderace11 (64454, 3.37€ bounty)
+Seat 6: Villardon8 (44185, 3.93€ bounty)
+*** ANTE/BLINDS ***
+pasderace11 posts ante 120
+Villardon8 posts ante 120
+YL_ML_GL_42 posts ante 120
+FABRIZIO.13 posts ante 120
+Kylord posts ante 120
+Adelit0 posts ante 120
+pasderace11 posts small blind 500
+Villardon8 posts big blind 1000
+Dealt to YL_ML_GL_42 [8c As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 1000 to 2000
+FABRIZIO.13 calls 2000
+Kylord folds
+Adelit0 calls 2000
+pasderace11 folds
+Villardon8 calls 1000
+*** FLOP *** [5h Qc Ad]
+Villardon8 checks
+YL_ML_GL_42 bets 4610
+FABRIZIO.13 folds
+Adelit0 folds
+Villardon8 folds
+YL_ML_GL_42 collected 13830 from pot
+*** SUMMARY ***
+Total pot 13830 | No rake
+Board: [5h Qc Ad]
+Seat 1: YL_ML_GL_42 won 13830
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2543166301942054969-64-1668797182 - Holdem no limit (120/500/1000) - 2022/11/18 18:46:22 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (50298, 5.05€ bounty)
+Seat 2: FABRIZIO.13 (34826, 2.25€ bounty)
+Seat 3: Kylord (18130, 2.25€ bounty)
+Seat 4: Adelit0 (72963, 5.61€ bounty)
+Seat 5: pasderace11 (63834, 3.37€ bounty)
+Seat 6: Villardon8 (42065, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 120
+YL_ML_GL_42 posts ante 120
+FABRIZIO.13 posts ante 120
+Kylord posts ante 120
+Adelit0 posts ante 120
+pasderace11 posts ante 120
+Villardon8 posts small blind 500
+YL_ML_GL_42 posts big blind 1000
+Dealt to YL_ML_GL_42 [Js Jc]
+*** PRE-FLOP *** 
+FABRIZIO.13 folds
+Kylord folds
+Adelit0 folds
+pasderace11 folds
+Villardon8 calls 500
+YL_ML_GL_42 raises 2720 to 3720
+Villardon8 folds
+YL_ML_GL_42 collected 5440 from pot
+*** SUMMARY ***
+Total pot 5440 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 5440
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2543166301942054969-65-1668797203 - Holdem no limit (140/600/1200) - 2022/11/18 18:46:43 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (51898, 5.05€ bounty)
+Seat 2: FABRIZIO.13 (34706, 2.25€ bounty)
+Seat 3: Kylord (18010, 2.25€ bounty)
+Seat 4: Adelit0 (72843, 5.61€ bounty)
+Seat 5: pasderace11 (63714, 3.37€ bounty)
+Seat 6: Villardon8 (40945, 3.93€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 140
+FABRIZIO.13 posts ante 140
+Kylord posts ante 140
+Adelit0 posts ante 140
+pasderace11 posts ante 140
+Villardon8 posts ante 140
+YL_ML_GL_42 posts small blind 600
+FABRIZIO.13 posts big blind 1200
+Dealt to YL_ML_GL_42 [8d 8h]
+*** PRE-FLOP *** 
+Kylord folds
+Adelit0 folds
+pasderace11 folds
+Villardon8 folds
+YL_ML_GL_42 raises 2400 to 3600
+FABRIZIO.13 raises 8040 to 11640
+YL_ML_GL_42 raises 40118 to 51758 and is all-in
+FABRIZIO.13 calls 22926 and is all-in
+*** FLOP *** [Ts Js Jh]
+*** TURN *** [Ts Js Jh][6s]
+*** RIVER *** [Ts Js Jh 6s][Jd]
+*** SHOW DOWN ***
+FABRIZIO.13 shows [As 9h] (Trips of Jacks)
+YL_ML_GL_42 shows [8d 8h] (Full of Jacks and 8)
+YL_ML_GL_42 collected 87164 from pot
+*** SUMMARY ***
+Total pot 87164 | No rake
+Board: [Ts Js Jh 6s Jd]
+Seat 1: YL_ML_GL_42 (small blind) showed [8d 8h] and won 87164 with Full of Jacks and 8
+Seat 2: FABRIZIO.13 (big blind) showed [As 9h] and lost with Trips of Jacks
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2543166301942054969-66-1668797252 - Holdem no limit (140/600/1200) - 2022/11/18 18:47:32 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (87164, 6.17€ bounty)
+Seat 3: Kylord (17870, 2.25€ bounty)
+Seat 4: Adelit0 (72703, 5.61€ bounty)
+Seat 5: pasderace11 (63574, 3.37€ bounty)
+Seat 6: Villardon8 (40805, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Kylord posts ante 140
+YL_ML_GL_42 posts ante 140
+Adelit0 posts ante 140
+pasderace11 posts ante 140
+Villardon8 posts ante 140
+Kylord posts big blind 1200
+Dealt to YL_ML_GL_42 [Jh 2s]
+*** PRE-FLOP *** 
+Adelit0 calls 1200
+pasderace11 folds
+Villardon8 raises 1440 to 2640
+YL_ML_GL_42 folds
+Kylord folds
+Adelit0 calls 1440
+*** FLOP *** [Jc Qd 9s]
+Adelit0 checks
+Villardon8 checks
+*** TURN *** [Jc Qd 9s][2d]
+Adelit0 bets 2400
+Villardon8 folds
+Adelit0 collected 9580 from pot
+*** SUMMARY ***
+Total pot 9580 | No rake
+Board: [Jc Qd 9s 2d]
+Seat 4: Adelit0 won 9580
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2543166301942054969-67-1668797302 - Holdem no limit (140/600/1200) - 2022/11/18 18:48:22 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (87024, 6.17€ bounty)
+Seat 2: DenisAgueme (42294, 4.49€ bounty)
+Seat 3: Kylord (16530, 2.25€ bounty)
+Seat 4: Adelit0 (77103, 5.61€ bounty)
+Seat 5: pasderace11 (63434, 3.37€ bounty)
+Seat 6: Villardon8 (38025, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Kylord posts ante 140
+Adelit0 posts ante 140
+YL_ML_GL_42 posts ante 140
+pasderace11 posts ante 140
+Villardon8 posts ante 140
+Kylord posts small blind 600
+Adelit0 posts big blind 1200
+Dealt to YL_ML_GL_42 [Kh 6d]
+*** PRE-FLOP *** 
+pasderace11 calls 1200
+Villardon8 folds
+YL_ML_GL_42 folds
+Kylord calls 600
+Adelit0 checks
+*** FLOP *** [Kd 7c 8s]
+Kylord checks
+Adelit0 checks
+pasderace11 checks
+*** TURN *** [Kd 7c 8s][Ah]
+Kylord checks
+Adelit0 checks
+pasderace11 checks
+*** RIVER *** [Kd 7c 8s Ah][Qs]
+Kylord checks
+Adelit0 bets 2400
+pasderace11 calls 2400
+Kylord folds
+*** SHOW DOWN ***
+pasderace11 shows [5d Qh] (One pair : Queens)
+Adelit0 shows [Ad Jc] (One pair : Aces)
+Adelit0 collected 9100 from pot
+*** SUMMARY ***
+Total pot 9100 | No rake
+Board: [Kd 7c 8s Ah Qs]
+Seat 4: Adelit0 (big blind) showed [Ad Jc] and won 9100 with One pair : Aces
+Seat 5: pasderace11 showed [5d Qh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2543166301942054969-68-1668797364 - Holdem no limit (140/600/1200) - 2022/11/18 18:49:24 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (86884, 6.17€ bounty)
+Seat 2: DenisAgueme (42294, 4.49€ bounty)
+Seat 3: Kylord (15190, 2.25€ bounty)
+Seat 4: Adelit0 (82463, 5.61€ bounty)
+Seat 5: pasderace11 (59694, 3.37€ bounty)
+Seat 6: Villardon8 (37885, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 140
+pasderace11 posts ante 140
+YL_ML_GL_42 posts ante 140
+DenisAgueme posts ante 140
+Kylord posts ante 140
+Villardon8 posts ante 140
+Adelit0 posts small blind 600
+pasderace11 posts big blind 1200
+Dealt to YL_ML_GL_42 [6d Ad]
+*** PRE-FLOP *** 
+Villardon8 folds
+YL_ML_GL_42 raises 1200 to 2400
+DenisAgueme folds
+Kylord folds
+Adelit0 folds
+pasderace11 calls 1200
+*** FLOP *** [Qc Ac 5d]
+pasderace11 checks
+YL_ML_GL_42 bets 2184
+pasderace11 folds
+YL_ML_GL_42 collected 8424 from pot
+*** SUMMARY ***
+Total pot 8424 | No rake
+Board: [Qc Ac 5d]
+Seat 1: YL_ML_GL_42 won 8424
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2543166301942054969-69-1668797402 - Holdem no limit (140/600/1200) - 2022/11/18 18:50:02 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (90584, 6.17€ bounty)
+Seat 2: DenisAgueme (42154, 4.49€ bounty)
+Seat 3: Kylord (15050, 2.25€ bounty)
+Seat 4: Adelit0 (81723, 5.61€ bounty)
+Seat 5: pasderace11 (57154, 3.37€ bounty)
+Seat 6: Villardon8 (37745, 3.93€ bounty)
+*** ANTE/BLINDS ***
+pasderace11 posts ante 140
+Villardon8 posts ante 140
+YL_ML_GL_42 posts ante 140
+DenisAgueme posts ante 140
+Kylord posts ante 140
+Adelit0 posts ante 140
+pasderace11 posts small blind 600
+Villardon8 posts big blind 1200
+Dealt to YL_ML_GL_42 [3h 7c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DenisAgueme folds
+Kylord folds
+Adelit0 raises 1800 to 3000
+pasderace11 folds
+Villardon8 calls 1800
+*** FLOP *** [Js 6d 6h]
+Villardon8 checks
+Adelit0 bets 5400
+Villardon8 folds
+Adelit0 collected 12840 from pot
+*** SUMMARY ***
+Total pot 12840 | No rake
+Board: [Js 6d 6h]
+Seat 4: Adelit0 (button) won 12840
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2543166301942054969-70-1668797448 - Holdem no limit (140/600/1200) - 2022/11/18 18:50:48 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (90444, 6.17€ bounty)
+Seat 2: DenisAgueme (42014, 4.49€ bounty)
+Seat 3: Kylord (14910, 2.25€ bounty)
+Seat 4: Adelit0 (86023, 5.61€ bounty)
+Seat 5: pasderace11 (56414, 3.37€ bounty)
+Seat 6: Villardon8 (34605, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 140
+YL_ML_GL_42 posts ante 140
+DenisAgueme posts ante 140
+Kylord posts ante 140
+Adelit0 posts ante 140
+pasderace11 posts ante 140
+Villardon8 posts small blind 600
+YL_ML_GL_42 posts big blind 1200
+Dealt to YL_ML_GL_42 [6s Ks]
+*** PRE-FLOP *** 
+DenisAgueme folds
+Kylord folds
+Adelit0 folds
+pasderace11 calls 1200
+Villardon8 folds
+YL_ML_GL_42 checks
+*** FLOP *** [Qs Jd 4c]
+YL_ML_GL_42 checks
+pasderace11 bets 2496
+YL_ML_GL_42 folds
+pasderace11 collected 6336 from pot
+*** SUMMARY ***
+Total pot 6336 | No rake
+Board: [Qs Jd 4c]
+Seat 5: pasderace11 (button) won 6336
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2543166301942054969-71-1668797521 - Holdem no limit (160/700/1400) - 2022/11/18 18:52:01 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (89104, 6.17€ bounty)
+Seat 2: DenisAgueme (41874, 4.49€ bounty)
+Seat 3: Kylord (14770, 2.25€ bounty)
+Seat 4: Adelit0 (85883, 5.61€ bounty)
+Seat 5: pasderace11 (58914, 3.37€ bounty)
+Seat 6: Villardon8 (33865, 3.93€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 160
+DenisAgueme posts ante 160
+Kylord posts ante 160
+Adelit0 posts ante 160
+pasderace11 posts ante 160
+Villardon8 posts ante 160
+YL_ML_GL_42 posts small blind 700
+DenisAgueme posts big blind 1400
+Dealt to YL_ML_GL_42 [2s 4c]
+*** PRE-FLOP *** 
+Kylord folds
+Adelit0 folds
+pasderace11 folds
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 2: DenisAgueme (big blind) won 3060
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2543166301942054969-72-1668797541 - Holdem no limit (160/700/1400) - 2022/11/18 18:52:21 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (88244, 6.17€ bounty)
+Seat 2: DenisAgueme (43374, 4.49€ bounty)
+Seat 3: Kylord (14610, 2.25€ bounty)
+Seat 4: Adelit0 (85723, 5.61€ bounty)
+Seat 5: pasderace11 (58754, 3.37€ bounty)
+Seat 6: Villardon8 (33705, 3.93€ bounty)
+*** ANTE/BLINDS ***
+DenisAgueme posts ante 160
+Kylord posts ante 160
+YL_ML_GL_42 posts ante 160
+Adelit0 posts ante 160
+pasderace11 posts ante 160
+Villardon8 posts ante 160
+DenisAgueme posts small blind 700
+Kylord posts big blind 1400
+Dealt to YL_ML_GL_42 [5h 8d]
+*** PRE-FLOP *** 
+Adelit0 folds
+pasderace11 folds
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme calls 700
+Kylord checks
+*** FLOP *** [Qs 6d 8c]
+DenisAgueme bets 1400
+Kylord calls 1400
+*** TURN *** [Qs 6d 8c][Kc]
+DenisAgueme bets 2800
+Kylord calls 2800
+*** RIVER *** [Qs 6d 8c Kc][3s]
+DenisAgueme checks
+Kylord bets 8850 and is all-in
+DenisAgueme folds
+Kylord collected 21010 from pot
+*** SUMMARY ***
+Total pot 21010 | No rake
+Board: [Qs 6d 8c Kc 3s]
+Seat 3: Kylord (big blind) won 21010
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2543166301942054969-73-1668797620 - Holdem no limit (160/700/1400) - 2022/11/18 18:53:40 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (88084, 6.17€ bounty)
+Seat 2: DenisAgueme (37614, 4.49€ bounty)
+Seat 3: Kylord (21010, 2.25€ bounty)
+Seat 4: Adelit0 (85563, 5.61€ bounty)
+Seat 5: pasderace11 (58594, 3.37€ bounty)
+Seat 6: Villardon8 (33545, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Kylord posts ante 160
+Adelit0 posts ante 160
+YL_ML_GL_42 posts ante 160
+DenisAgueme posts ante 160
+pasderace11 posts ante 160
+Villardon8 posts ante 160
+Kylord posts small blind 700
+Adelit0 posts big blind 1400
+Dealt to YL_ML_GL_42 [Qs 7h]
+*** PRE-FLOP *** 
+pasderace11 folds
+Villardon8 raises 1540 to 2940
+YL_ML_GL_42 folds
+DenisAgueme folds
+Kylord folds
+Adelit0 folds
+Villardon8 collected 6000 from pot
+*** SUMMARY ***
+Total pot 6000 | No rake
+Seat 6: Villardon8 won 6000
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2543166301942054969-74-1668797665 - Holdem no limit (160/700/1400) - 2022/11/18 18:54:25 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (87924, 6.17€ bounty)
+Seat 2: DenisAgueme (37454, 4.49€ bounty)
+Seat 3: Kylord (20150, 2.25€ bounty)
+Seat 4: Adelit0 (84003, 5.61€ bounty)
+Seat 5: pasderace11 (58434, 3.37€ bounty)
+Seat 6: Villardon8 (36445, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 160
+pasderace11 posts ante 160
+YL_ML_GL_42 posts ante 160
+DenisAgueme posts ante 160
+Kylord posts ante 160
+Villardon8 posts ante 160
+Adelit0 posts small blind 700
+pasderace11 posts big blind 1400
+Dealt to YL_ML_GL_42 [5h Kd]
+*** PRE-FLOP *** 
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme folds
+Kylord folds
+Adelit0 folds
+pasderace11 collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 5: pasderace11 (big blind) won 3060
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2543166301942054969-75-1668797682 - Holdem no limit (160/700/1400) - 2022/11/18 18:54:42 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (87764, 6.17€ bounty)
+Seat 2: DenisAgueme (37294, 4.49€ bounty)
+Seat 3: Kylord (19990, 2.25€ bounty)
+Seat 4: Adelit0 (83143, 5.61€ bounty)
+Seat 5: pasderace11 (59934, 3.37€ bounty)
+Seat 6: Villardon8 (36285, 3.93€ bounty)
+*** ANTE/BLINDS ***
+pasderace11 posts ante 160
+Villardon8 posts ante 160
+YL_ML_GL_42 posts ante 160
+DenisAgueme posts ante 160
+Kylord posts ante 160
+Adelit0 posts ante 160
+pasderace11 posts small blind 700
+Villardon8 posts big blind 1400
+Dealt to YL_ML_GL_42 [Ts 9s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DenisAgueme folds
+Kylord folds
+Adelit0 folds
+pasderace11 calls 700
+Villardon8 checks
+*** FLOP *** [2d Ah 2c]
+pasderace11 checks
+Villardon8 checks
+*** TURN *** [2d Ah 2c][As]
+pasderace11 checks
+Villardon8 bets 1400
+pasderace11 calls 1400
+*** RIVER *** [2d Ah 2c As][3d]
+pasderace11 checks
+Villardon8 checks
+*** SHOW DOWN ***
+pasderace11 shows [Ks 5h] (Two pairs : Aces and 2)
+Villardon8 shows [4c Kc] (Two pairs : Aces and 2)
+Villardon8 collected 3280 from pot
+pasderace11 collected 3280 from pot
+*** SUMMARY ***
+Total pot 6560 | No rake
+Board: [2d Ah 2c As 3d]
+Seat 5: pasderace11 (small blind) showed [Ks 5h] and won 3280 with Two pairs : Aces and 2
+Seat 6: Villardon8 (big blind) showed [4c Kc] and won 3280 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2543166301942054969-76-1668798063 - Holdem no limit (160/700/1400) - 2022/11/18 19:01:03 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (87604, 6.17€ bounty)
+Seat 2: DenisAgueme (37134, 4.49€ bounty)
+Seat 3: Kylord (19830, 2.25€ bounty)
+Seat 4: Adelit0 (82983, 5.61€ bounty)
+Seat 5: pasderace11 (60254, 3.37€ bounty)
+Seat 6: Villardon8 (36605, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 160
+YL_ML_GL_42 posts ante 160
+DenisAgueme posts ante 160
+Kylord posts ante 160
+Adelit0 posts ante 160
+pasderace11 posts ante 160
+Villardon8 posts small blind 700
+YL_ML_GL_42 posts big blind 1400
+Dealt to YL_ML_GL_42 [3c Jc]
+*** PRE-FLOP *** 
+DenisAgueme folds
+Kylord folds
+Adelit0 folds
+pasderace11 folds
+Villardon8 folds
+YL_ML_GL_42 collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 3060
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2543166301942054969-77-1668798121 - Holdem no limit (160/700/1400) - 2022/11/18 19:02:01 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (89104, 6.17€ bounty)
+Seat 2: DenisAgueme (36974, 4.49€ bounty)
+Seat 3: Kylord (19670, 2.25€ bounty)
+Seat 4: Adelit0 (82823, 5.61€ bounty)
+Seat 5: pasderace11 (60094, 3.37€ bounty)
+Seat 6: Villardon8 (35745, 3.93€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 160
+DenisAgueme posts ante 160
+Kylord posts ante 160
+Adelit0 posts ante 160
+pasderace11 posts ante 160
+Villardon8 posts ante 160
+YL_ML_GL_42 posts small blind 700
+DenisAgueme posts big blind 1400
+Dealt to YL_ML_GL_42 [8h 6c]
+*** PRE-FLOP *** 
+Kylord folds
+Adelit0 folds
+pasderace11 calls 1400
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme checks
+*** FLOP *** [Ah Kh Jd]
+DenisAgueme checks
+pasderace11 checks
+*** TURN *** [Ah Kh Jd][9c]
+DenisAgueme checks
+pasderace11 checks
+*** RIVER *** [Ah Kh Jd 9c][As]
+DenisAgueme checks
+pasderace11 checks
+*** SHOW DOWN ***
+DenisAgueme shows [2h Qs] (One pair : Aces)
+pasderace11 shows [Qc 2c] (One pair : Aces)
+pasderace11 collected 2230 from pot
+DenisAgueme collected 2230 from pot
+*** SUMMARY ***
+Total pot 4460 | No rake
+Board: [Ah Kh Jd 9c As]
+Seat 2: DenisAgueme (big blind) showed [2h Qs] and won 2230 with One pair : Aces
+Seat 5: pasderace11 showed [Qc 2c] and won 2230 with One pair : Aces
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2543166301942054969-78-1668798216 - Holdem no limit (200/800/1600) - 2022/11/18 19:03:36 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (88244, 6.17€ bounty)
+Seat 2: DenisAgueme (37644, 4.49€ bounty)
+Seat 3: Kylord (19510, 2.25€ bounty)
+Seat 4: Adelit0 (82663, 5.61€ bounty)
+Seat 5: pasderace11 (60764, 3.37€ bounty)
+Seat 6: Villardon8 (35585, 3.93€ bounty)
+*** ANTE/BLINDS ***
+DenisAgueme posts ante 200
+Kylord posts ante 200
+YL_ML_GL_42 posts ante 200
+Adelit0 posts ante 200
+pasderace11 posts ante 200
+Villardon8 posts ante 200
+DenisAgueme posts small blind 800
+Kylord posts big blind 1600
+Dealt to YL_ML_GL_42 [Ts 7s]
+*** PRE-FLOP *** 
+Adelit0 folds
+pasderace11 calls 1600
+Villardon8 folds
+YL_ML_GL_42 calls 1600
+DenisAgueme calls 800
+Kylord raises 17710 to 19310 and is all-in
+pasderace11 calls 17710
+YL_ML_GL_42 folds
+DenisAgueme folds
+*** FLOP *** [3d 4h As]
+*** TURN *** [3d 4h As][4c]
+*** RIVER *** [3d 4h As 4c][Ks]
+*** SHOW DOWN ***
+pasderace11 shows [5d 5s] (Two pairs : 5 and 4)
+Kylord shows [9d 9h] (Two pairs : 9 and 4)
+Kylord collected 43020 from pot
+*** SUMMARY ***
+Total pot 43020 | No rake
+Board: [3d 4h As 4c Ks]
+Seat 3: Kylord (big blind) showed [9d 9h] and won 43020 with Two pairs : 9 and 4
+Seat 5: pasderace11 showed [5d 5s] and lost with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2543166301942054969-79-1668798271 - Holdem no limit (200/800/1600) - 2022/11/18 19:04:31 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (86444, 6.17€ bounty)
+Seat 2: DenisAgueme (35844, 4.49€ bounty)
+Seat 3: Kylord (43020, 2.25€ bounty)
+Seat 4: Adelit0 (82463, 5.61€ bounty)
+Seat 5: pasderace11 (41254, 3.37€ bounty)
+Seat 6: Villardon8 (35385, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Kylord posts ante 200
+Adelit0 posts ante 200
+YL_ML_GL_42 posts ante 200
+DenisAgueme posts ante 200
+pasderace11 posts ante 200
+Villardon8 posts ante 200
+Kylord posts small blind 800
+Adelit0 posts big blind 1600
+Dealt to YL_ML_GL_42 [2h Qd]
+*** PRE-FLOP *** 
+pasderace11 folds
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme folds
+Kylord calls 800
+Adelit0 checks
+*** FLOP *** [6d 9c Jd]
+Kylord checks
+Adelit0 bets 3200
+Kylord folds
+Adelit0 collected 7600 from pot
+*** SUMMARY ***
+Total pot 7600 | No rake
+Board: [6d 9c Jd]
+Seat 4: Adelit0 (big blind) won 7600
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2543166301942054969-80-1668798319 - Holdem no limit (200/800/1600) - 2022/11/18 19:05:19 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (86244, 6.17€ bounty)
+Seat 2: DenisAgueme (35644, 4.49€ bounty)
+Seat 3: Kylord (41220, 2.25€ bounty)
+Seat 4: Adelit0 (85063, 5.61€ bounty)
+Seat 5: pasderace11 (41054, 3.37€ bounty)
+Seat 6: Villardon8 (35185, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 200
+pasderace11 posts ante 200
+YL_ML_GL_42 posts ante 200
+DenisAgueme posts ante 200
+Kylord posts ante 200
+Villardon8 posts ante 200
+Adelit0 posts small blind 800
+pasderace11 posts big blind 1600
+Dealt to YL_ML_GL_42 [7h 2c]
+*** PRE-FLOP *** 
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme folds
+Kylord folds
+Adelit0 calls 800
+pasderace11 checks
+*** FLOP *** [4d 7s Kc]
+Adelit0 checks
+pasderace11 bets 1600
+Adelit0 folds
+pasderace11 collected 6000 from pot
+*** SUMMARY ***
+Total pot 6000 | No rake
+Board: [4d 7s Kc]
+Seat 5: pasderace11 (big blind) won 6000
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2543166301942054969-81-1668798364 - Holdem no limit (200/800/1600) - 2022/11/18 19:06:04 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (86044, 6.17€ bounty)
+Seat 2: DenisAgueme (35444, 4.49€ bounty)
+Seat 3: Kylord (41020, 2.25€ bounty)
+Seat 4: Adelit0 (83263, 5.61€ bounty)
+Seat 5: pasderace11 (43654, 3.37€ bounty)
+Seat 6: Villardon8 (34985, 3.93€ bounty)
+*** ANTE/BLINDS ***
+pasderace11 posts ante 200
+Villardon8 posts ante 200
+YL_ML_GL_42 posts ante 200
+DenisAgueme posts ante 200
+Kylord posts ante 200
+Adelit0 posts ante 200
+pasderace11 posts small blind 800
+Villardon8 posts big blind 1600
+Dealt to YL_ML_GL_42 [Ks 6h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DenisAgueme raises 1600 to 3200
+Kylord folds
+Adelit0 folds
+pasderace11 calls 2400
+Villardon8 folds
+*** FLOP *** [4h 7c 2c]
+pasderace11 checks
+DenisAgueme checks
+*** TURN *** [4h 7c 2c][Tc]
+pasderace11 bets 1600
+DenisAgueme calls 1600
+*** RIVER *** [4h 7c 2c Tc][8c]
+pasderace11 bets 38654 and is all-in
+DenisAgueme folds
+pasderace11 collected 51054 from pot
+*** SUMMARY ***
+Total pot 51054 | No rake
+Board: [4h 7c 2c Tc 8c]
+Seat 5: pasderace11 (small blind) won 51054
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2543166301942054969-82-1668798422 - Holdem no limit (200/800/1600) - 2022/11/18 19:07:02 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (85844, 6.17€ bounty)
+Seat 2: DenisAgueme (30444, 4.49€ bounty)
+Seat 3: Kylord (40820, 2.25€ bounty)
+Seat 4: Adelit0 (83063, 5.61€ bounty)
+Seat 5: pasderace11 (51054, 3.37€ bounty)
+Seat 6: Villardon8 (33185, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 200
+YL_ML_GL_42 posts ante 200
+DenisAgueme posts ante 200
+Kylord posts ante 200
+Adelit0 posts ante 200
+pasderace11 posts ante 200
+Villardon8 posts small blind 800
+YL_ML_GL_42 posts big blind 1600
+Dealt to YL_ML_GL_42 [Th 8s]
+*** PRE-FLOP *** 
+DenisAgueme raises 1600 to 3200
+Kylord raises 4000 to 7200
+Adelit0 folds
+pasderace11 folds
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme calls 4000
+*** FLOP *** [9d 3c 8c]
+DenisAgueme checks
+Kylord bets 4500
+DenisAgueme calls 4500
+*** TURN *** [9d 3c 8c][2s]
+DenisAgueme checks
+Kylord bets 19170
+DenisAgueme folds
+Kylord collected 46170 from pot
+*** SUMMARY ***
+Total pot 46170 | No rake
+Board: [9d 3c 8c 2s]
+Seat 3: Kylord won 46170
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2543166301942054969-83-1668798495 - Holdem no limit (250/1000/2000) - 2022/11/18 19:08:15 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (84044, 6.17€ bounty)
+Seat 2: DenisAgueme (18544, 4.49€ bounty)
+Seat 3: Kylord (55920, 2.25€ bounty)
+Seat 4: Adelit0 (82863, 5.61€ bounty)
+Seat 5: pasderace11 (50854, 3.37€ bounty)
+Seat 6: Villardon8 (32185, 3.93€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 250
+DenisAgueme posts ante 250
+Kylord posts ante 250
+Adelit0 posts ante 250
+pasderace11 posts ante 250
+Villardon8 posts ante 250
+YL_ML_GL_42 posts small blind 1000
+DenisAgueme posts big blind 2000
+Dealt to YL_ML_GL_42 [Js 7h]
+*** PRE-FLOP *** 
+Kylord folds
+Adelit0 folds
+pasderace11 folds
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Seat 2: DenisAgueme (big blind) won 4500
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2543166301942054969-84-1668798510 - Holdem no limit (250/1000/2000) - 2022/11/18 19:08:30 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (82794, 6.17€ bounty)
+Seat 2: DenisAgueme (20794, 4.49€ bounty)
+Seat 3: Kylord (55670, 2.25€ bounty)
+Seat 4: Adelit0 (82613, 5.61€ bounty)
+Seat 5: pasderace11 (50604, 3.37€ bounty)
+Seat 6: Villardon8 (31935, 3.93€ bounty)
+*** ANTE/BLINDS ***
+DenisAgueme posts ante 250
+Kylord posts ante 250
+YL_ML_GL_42 posts ante 250
+Adelit0 posts ante 250
+pasderace11 posts ante 250
+Villardon8 posts ante 250
+DenisAgueme posts small blind 1000
+Kylord posts big blind 2000
+Dealt to YL_ML_GL_42 [5d Th]
+*** PRE-FLOP *** 
+Adelit0 folds
+pasderace11 folds
+Villardon8 raises 29685 to 31685 and is all-in
+YL_ML_GL_42 folds
+DenisAgueme folds
+Kylord folds
+Villardon8 collected 36185 from pot
+*** SUMMARY ***
+Total pot 36185 | No rake
+Seat 6: Villardon8 won 36185
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2543166301942054969-85-1668798536 - Holdem no limit (250/1000/2000) - 2022/11/18 19:08:56 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (82544, 6.17€ bounty)
+Seat 2: DenisAgueme (19544, 4.49€ bounty)
+Seat 3: Kylord (53420, 2.25€ bounty)
+Seat 4: Adelit0 (82363, 5.61€ bounty)
+Seat 5: pasderace11 (50354, 3.37€ bounty)
+Seat 6: Villardon8 (36185, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Kylord posts ante 250
+Adelit0 posts ante 250
+YL_ML_GL_42 posts ante 250
+DenisAgueme posts ante 250
+pasderace11 posts ante 250
+Villardon8 posts ante 250
+Kylord posts small blind 1000
+Adelit0 posts big blind 2000
+Dealt to YL_ML_GL_42 [Th 4d]
+*** PRE-FLOP *** 
+pasderace11 folds
+Villardon8 raises 2200 to 4200
+YL_ML_GL_42 folds
+DenisAgueme folds
+Kylord folds
+Adelit0 folds
+Villardon8 collected 8700 from pot
+*** SUMMARY ***
+Total pot 8700 | No rake
+Seat 6: Villardon8 won 8700
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2543166301942054969-86-1668798559 - Holdem no limit (250/1000/2000) - 2022/11/18 19:09:19 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (82294, 6.17€ bounty)
+Seat 2: DenisAgueme (19294, 4.49€ bounty)
+Seat 3: Kylord (52170, 2.25€ bounty)
+Seat 4: Adelit0 (80113, 5.61€ bounty)
+Seat 5: pasderace11 (50104, 3.37€ bounty)
+Seat 6: Villardon8 (40435, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 250
+pasderace11 posts ante 250
+YL_ML_GL_42 posts ante 250
+DenisAgueme posts ante 250
+Kylord posts ante 250
+Villardon8 posts ante 250
+Adelit0 posts small blind 1000
+pasderace11 posts big blind 2000
+Dealt to YL_ML_GL_42 [3c 4d]
+*** PRE-FLOP *** 
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme folds
+Kylord raises 2000 to 4000
+Adelit0 folds
+pasderace11 calls 2000
+*** FLOP *** [2s 3d 5h]
+pasderace11 bets 6825
+Kylord raises 6825 to 13650
+pasderace11 calls 6825
+*** TURN *** [2s 3d 5h][3h]
+pasderace11 bets 32204 and is all-in
+Kylord calls 32204
+*** RIVER *** [2s 3d 5h 3h][Kd]
+*** SHOW DOWN ***
+pasderace11 shows [7c 7h] (Two pairs : 7 and 3)
+Kylord shows [8d 8h] (Two pairs : 8 and 3)
+Kylord collected 102208 from pot
+*** SUMMARY ***
+Total pot 102208 | No rake
+Board: [2s 3d 5h 3h Kd]
+Seat 3: Kylord (button) showed [8d 8h] and won 102208 with Two pairs : 8 and 3
+Seat 5: pasderace11 (big blind) showed [7c 7h] and lost with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2543166301942054969-87-1668798611 - Holdem no limit (250/1000/2000) - 2022/11/18 19:10:11 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (82044, 6.17€ bounty)
+Seat 2: DenisAgueme (19044, 4.49€ bounty)
+Seat 3: Kylord (104274, 3.93€ bounty)
+Seat 4: Adelit0 (78863, 5.61€ bounty)
+Seat 6: Villardon8 (40185, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 250
+YL_ML_GL_42 posts ante 250
+DenisAgueme posts ante 250
+Kylord posts ante 250
+Adelit0 posts ante 250
+Villardon8 posts big blind 2000
+Dealt to YL_ML_GL_42 [7h Qs]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DenisAgueme folds
+Kylord folds
+Adelit0 folds
+Villardon8 collected 3250 from pot
+*** SUMMARY ***
+Total pot 3250 | No rake
+Seat 6: Villardon8 (big blind) won 3250
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2543166301942054969-88-1668798626 - Holdem no limit (250/1000/2000) - 2022/11/18 19:10:26 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (81794, 6.17€ bounty)
+Seat 2: DenisAgueme (18794, 4.49€ bounty)
+Seat 3: Kylord (104024, 3.93€ bounty)
+Seat 4: Adelit0 (78613, 5.61€ bounty)
+Seat 5: Mouh2guerria (179857, 8.41€ bounty)
+Seat 6: Villardon8 (41185, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 250
+YL_ML_GL_42 posts ante 250
+DenisAgueme posts ante 250
+Kylord posts ante 250
+Adelit0 posts ante 250
+Villardon8 posts small blind 1000
+YL_ML_GL_42 posts big blind 2000
+Dealt to YL_ML_GL_42 [7c 5d]
+*** PRE-FLOP *** 
+DenisAgueme folds
+Kylord folds
+Adelit0 raises 2000 to 4000
+Villardon8 folds
+YL_ML_GL_42 calls 2000
+*** FLOP *** [Jc Qh Kh]
+YL_ML_GL_42 checks
+Adelit0 bets 2000
+YL_ML_GL_42 folds
+Adelit0 collected 12250 from pot
+*** SUMMARY ***
+Total pot 12250 | No rake
+Board: [Jc Qh Kh]
+Seat 4: Adelit0 won 12250
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2543166301942054969-89-1668798654 - Holdem no limit (250/1000/2000) - 2022/11/18 19:10:54 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (77544, 6.17€ bounty)
+Seat 2: DenisAgueme (18544, 4.49€ bounty)
+Seat 3: Kylord (103774, 3.93€ bounty)
+Seat 4: Adelit0 (84613, 5.61€ bounty)
+Seat 5: Mouh2guerria (179857, 8.41€ bounty)
+Seat 6: Villardon8 (39935, 3.93€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 250
+DenisAgueme posts ante 250
+Kylord posts ante 250
+Adelit0 posts ante 250
+Mouh2guerria posts ante 250
+Villardon8 posts ante 250
+YL_ML_GL_42 posts small blind 1000
+DenisAgueme posts big blind 2000
+Dealt to YL_ML_GL_42 [Jc 6s]
+*** PRE-FLOP *** 
+Kylord folds
+Adelit0 folds
+Mouh2guerria calls 2000
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme checks
+*** FLOP *** [2h Kh 7s]
+DenisAgueme checks
+Mouh2guerria checks
+*** TURN *** [2h Kh 7s][Ac]
+DenisAgueme checks
+Mouh2guerria checks
+*** RIVER *** [2h Kh 7s Ac][4c]
+DenisAgueme checks
+Mouh2guerria checks
+*** SHOW DOWN ***
+DenisAgueme shows [5d Tc] (High card : Ace)
+Mouh2guerria shows [Jd Td] (High card : Ace)
+Mouh2guerria collected 6500 from pot
+*** SUMMARY ***
+Total pot 6500 | No rake
+Board: [2h Kh 7s Ac 4c]
+Seat 2: DenisAgueme (big blind) showed [5d Tc] and lost with High card : Ace
+Seat 5: Mouh2guerria showed [Jd Td] and won 6500 with High card : Ace
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2543166301942054969-90-1668798685 - Holdem no limit (250/1000/2000) - 2022/11/18 19:11:25 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (76294, 6.17€ bounty)
+Seat 2: DenisAgueme (16294, 4.49€ bounty)
+Seat 3: Kylord (103524, 3.93€ bounty)
+Seat 4: Adelit0 (84363, 5.61€ bounty)
+Seat 5: Mouh2guerria (184107, 8.41€ bounty)
+Seat 6: Villardon8 (39685, 3.93€ bounty)
+*** ANTE/BLINDS ***
+DenisAgueme posts ante 250
+Kylord posts ante 250
+YL_ML_GL_42 posts ante 250
+Adelit0 posts ante 250
+Mouh2guerria posts ante 250
+Villardon8 posts ante 250
+DenisAgueme posts small blind 1000
+Kylord posts big blind 2000
+Dealt to YL_ML_GL_42 [Ad 7c]
+*** PRE-FLOP *** 
+Adelit0 folds
+Mouh2guerria calls 2000
+Villardon8 folds
+YL_ML_GL_42 raises 4000 to 6000
+DenisAgueme folds
+Kylord folds
+Mouh2guerria calls 4000
+*** FLOP *** [Qh 7h 9d]
+Mouh2guerria bets 8250
+YL_ML_GL_42 calls 8250
+*** TURN *** [Qh 7h 9d][Td]
+Mouh2guerria bets 169607 and is all-in
+YL_ML_GL_42 calls 61794 and is all-in
+*** RIVER *** [Qh 7h 9d Td][7s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ad 7c] (Trips of 7)
+Mouh2guerria shows [Ts Qs] (Two pairs : Queens and Tens)
+Mouh2guerria collected 107813 from side pot 1
+YL_ML_GL_42 collected 156588 from main pot
+*** SUMMARY ***
+Total pot 264401 | No rake
+Board: [Qh 7h 9d Td 7s]
+Seat 1: YL_ML_GL_42 (button) showed [Ad 7c] and won 156588 with Trips of 7
+Seat 5: Mouh2guerria showed [Ts Qs] and won 107813 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #2543166301942054969-91-1668798754 - Holdem no limit (300/1250/2500) - 2022/11/18 19:12:34 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (156588, 6.17€ bounty)
+Seat 2: DenisAgueme (15044, 4.49€ bounty)
+Seat 3: Kylord (101274, 3.93€ bounty)
+Seat 4: Adelit0 (84113, 5.61€ bounty)
+Seat 5: Mouh2guerria (107813, 8.41€ bounty)
+Seat 6: Villardon8 (39435, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Kylord posts ante 300
+Adelit0 posts ante 300
+YL_ML_GL_42 posts ante 300
+DenisAgueme posts ante 300
+Mouh2guerria posts ante 300
+Villardon8 posts ante 300
+Kylord posts small blind 1250
+Adelit0 posts big blind 2500
+Dealt to YL_ML_GL_42 [7h Ac]
+*** PRE-FLOP *** 
+Mouh2guerria folds
+Villardon8 folds
+YL_ML_GL_42 raises 3125 to 5625
+DenisAgueme folds
+Kylord folds
+Adelit0 folds
+YL_ML_GL_42 collected 11175 from pot
+*** SUMMARY ***
+Total pot 11175 | No rake
+Seat 1: YL_ML_GL_42 won 11175
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #2543166301942054969-92-1668798786 - Holdem no limit (300/1250/2500) - 2022/11/18 19:13:06 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (161838, 6.17€ bounty)
+Seat 2: DenisAgueme (14744, 4.49€ bounty)
+Seat 3: Kylord (99724, 3.93€ bounty)
+Seat 4: Adelit0 (81313, 5.61€ bounty)
+Seat 5: Mouh2guerria (107513, 8.41€ bounty)
+Seat 6: Villardon8 (39135, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 300
+Mouh2guerria posts ante 300
+YL_ML_GL_42 posts ante 300
+DenisAgueme posts ante 300
+Kylord posts ante 300
+Villardon8 posts ante 300
+Adelit0 posts small blind 1250
+Mouh2guerria posts big blind 2500
+Dealt to YL_ML_GL_42 [Ah 4c]
+*** PRE-FLOP *** 
+Villardon8 folds
+YL_ML_GL_42 raises 2500 to 5000
+DenisAgueme folds
+Kylord folds
+Adelit0 folds
+Mouh2guerria folds
+YL_ML_GL_42 collected 10550 from pot
+*** SUMMARY ***
+Total pot 10550 | No rake
+Seat 1: YL_ML_GL_42 won 10550
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #2543166301942054969-93-1668798810 - Holdem no limit (300/1250/2500) - 2022/11/18 19:13:30 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (167088, 6.17€ bounty)
+Seat 2: DenisAgueme (14444, 4.49€ bounty)
+Seat 3: Kylord (99424, 3.93€ bounty)
+Seat 4: Adelit0 (79763, 5.61€ bounty)
+Seat 5: Mouh2guerria (104713, 8.41€ bounty)
+Seat 6: Villardon8 (38835, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Mouh2guerria posts ante 300
+Villardon8 posts ante 300
+YL_ML_GL_42 posts ante 300
+DenisAgueme posts ante 300
+Kylord posts ante 300
+Adelit0 posts ante 300
+Mouh2guerria posts small blind 1250
+Villardon8 posts big blind 2500
+Dealt to YL_ML_GL_42 [5d Jd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DenisAgueme folds
+Kylord raises 2500 to 5000
+Adelit0 folds
+Mouh2guerria calls 3750
+Villardon8 folds
+*** FLOP *** [4h 7d 5c]
+Mouh2guerria checks
+Kylord checks
+*** TURN *** [4h 7d 5c][9d]
+Mouh2guerria bets 7150
+Kylord calls 7150
+*** RIVER *** [4h 7d 5c 9d][Ks]
+Mouh2guerria checks
+Kylord checks
+*** SHOW DOWN ***
+Kylord shows [Td Ah] (High card : Ace)
+Mouh2guerria shows [Js 9s] (One pair : 9)
+Mouh2guerria collected 28600 from pot
+*** SUMMARY ***
+Total pot 28600 | No rake
+Board: [4h 7d 5c 9d Ks]
+Seat 3: Kylord showed [Td Ah] and lost with High card : Ace
+Seat 5: Mouh2guerria (small blind) showed [Js 9s] and won 28600 with One pair : 9
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #2543166301942054969-94-1668798852 - Holdem no limit (300/1250/2500) - 2022/11/18 19:14:12 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (166788, 6.17€ bounty)
+Seat 2: DenisAgueme (14144, 4.49€ bounty)
+Seat 3: Kylord (86974, 3.93€ bounty)
+Seat 4: Adelit0 (79463, 5.61€ bounty)
+Seat 5: Mouh2guerria (120863, 8.41€ bounty)
+Seat 6: Villardon8 (36035, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 300
+YL_ML_GL_42 posts ante 300
+DenisAgueme posts ante 300
+Kylord posts ante 300
+Adelit0 posts ante 300
+Mouh2guerria posts ante 300
+Villardon8 posts small blind 1250
+YL_ML_GL_42 posts big blind 2500
+Dealt to YL_ML_GL_42 [8s 3s]
+*** PRE-FLOP *** 
+DenisAgueme raises 11344 to 13844 and is all-in
+Kylord folds
+Adelit0 raises 11344 to 25188
+Mouh2guerria folds
+Villardon8 folds
+YL_ML_GL_42 folds
+*** FLOP *** [Ac 5s 7d]
+*** TURN *** [Ac 5s 7d][Ts]
+*** RIVER *** [Ac 5s 7d Ts][5h]
+*** SHOW DOWN ***
+DenisAgueme shows [Jd As] (Two pairs : Aces and 5)
+Adelit0 shows [9s 9c] (Two pairs : 9 and 5)
+Adelit0 collected 11344 from side pot 1
+DenisAgueme collected 33238 from main pot
+*** SUMMARY ***
+Total pot 44582 | No rake
+Board: [Ac 5s 7d Ts 5h]
+Seat 2: DenisAgueme showed [Jd As] and won 33238 with Two pairs : Aces and 5
+Seat 4: Adelit0 showed [9s 9c] and won 11344 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #2543166301942054969-95-1668798871 - Holdem no limit (300/1250/2500) - 2022/11/18 19:14:31 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (163988, 6.17€ bounty)
+Seat 2: DenisAgueme (33238, 4.49€ bounty)
+Seat 3: Kylord (86674, 3.93€ bounty)
+Seat 4: Adelit0 (65319, 5.61€ bounty)
+Seat 5: Mouh2guerria (120563, 8.41€ bounty)
+Seat 6: Villardon8 (34485, 3.93€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 300
+DenisAgueme posts ante 300
+Kylord posts ante 300
+Adelit0 posts ante 300
+Mouh2guerria posts ante 300
+Villardon8 posts ante 300
+YL_ML_GL_42 posts small blind 1250
+DenisAgueme posts big blind 2500
+Dealt to YL_ML_GL_42 [8c 4c]
+*** PRE-FLOP *** 
+Kylord folds
+Adelit0 raises 2500 to 5000
+Mouh2guerria folds
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme calls 2500
+*** FLOP *** [6d Qs 6s]
+DenisAgueme checks
+Adelit0 bets 6250
+DenisAgueme folds
+Adelit0 collected 19300 from pot
+*** SUMMARY ***
+Total pot 19300 | No rake
+Board: [6d Qs 6s]
+Seat 4: Adelit0 won 19300
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #2543166301942054969-96-1668798901 - Holdem no limit (300/1250/2500) - 2022/11/18 19:15:01 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (162438, 6.17€ bounty)
+Seat 2: DenisAgueme (27938, 4.49€ bounty)
+Seat 3: Kylord (86374, 3.93€ bounty)
+Seat 4: Adelit0 (73069, 5.61€ bounty)
+Seat 5: Mouh2guerria (120263, 8.41€ bounty)
+Seat 6: Villardon8 (34185, 3.93€ bounty)
+*** ANTE/BLINDS ***
+DenisAgueme posts ante 300
+Kylord posts ante 300
+YL_ML_GL_42 posts ante 300
+Adelit0 posts ante 300
+Mouh2guerria posts ante 300
+Villardon8 posts ante 300
+DenisAgueme posts small blind 1250
+Kylord posts big blind 2500
+Dealt to YL_ML_GL_42 [3h 2c]
+*** PRE-FLOP *** 
+Adelit0 folds
+Mouh2guerria folds
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme calls 1250
+Kylord checks
+*** FLOP *** [2h 6h 6d]
+DenisAgueme bets 2500
+Kylord folds
+DenisAgueme collected 9300 from pot
+*** SUMMARY ***
+Total pot 9300 | No rake
+Board: [2h 6h 6d]
+Seat 2: DenisAgueme (small blind) won 9300
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #2543166301942054969-97-1668798922 - Holdem no limit (300/1250/2500) - 2022/11/18 19:15:22 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (162138, 6.17€ bounty)
+Seat 2: DenisAgueme (31938, 4.49€ bounty)
+Seat 3: Kylord (83574, 3.93€ bounty)
+Seat 4: Adelit0 (72769, 5.61€ bounty)
+Seat 5: Mouh2guerria (119963, 8.41€ bounty)
+Seat 6: Villardon8 (33885, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Kylord posts ante 300
+Adelit0 posts ante 300
+YL_ML_GL_42 posts ante 300
+DenisAgueme posts ante 300
+Mouh2guerria posts ante 300
+Villardon8 posts ante 300
+Kylord posts small blind 1250
+Adelit0 posts big blind 2500
+Dealt to YL_ML_GL_42 [2h Jc]
+*** PRE-FLOP *** 
+Mouh2guerria folds
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme raises 2500 to 5000
+Kylord folds
+Adelit0 folds
+DenisAgueme collected 10550 from pot
+*** SUMMARY ***
+Total pot 10550 | No rake
+Seat 2: DenisAgueme (button) won 10550
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #2543166301942054969-98-1668798942 - Holdem no limit (300/1250/2500) - 2022/11/18 19:15:42 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (161838, 6.17€ bounty)
+Seat 2: DenisAgueme (37188, 4.49€ bounty)
+Seat 3: Kylord (82024, 3.93€ bounty)
+Seat 4: Adelit0 (69969, 5.61€ bounty)
+Seat 5: Mouh2guerria (119663, 8.41€ bounty)
+Seat 6: Villardon8 (33585, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 300
+Mouh2guerria posts ante 300
+YL_ML_GL_42 posts ante 300
+DenisAgueme posts ante 300
+Kylord posts ante 300
+Villardon8 posts ante 300
+Adelit0 posts small blind 1250
+Mouh2guerria posts big blind 2500
+Dealt to YL_ML_GL_42 [Jd 8s]
+*** PRE-FLOP *** 
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme folds
+Kylord raises 2500 to 5000
+Adelit0 folds
+Mouh2guerria calls 2500
+*** FLOP *** [3d 6c Kd]
+Mouh2guerria checks
+Kylord bets 4046
+Mouh2guerria folds
+Kylord collected 17096 from pot
+*** SUMMARY ***
+Total pot 17096 | No rake
+Board: [3d 6c Kd]
+Seat 3: Kylord (button) won 17096
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #2543166301942054969-99-1668798969 - Holdem no limit (300/1250/2500) - 2022/11/18 19:16:09 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (161538, 6.17€ bounty)
+Seat 2: DenisAgueme (36888, 4.49€ bounty)
+Seat 3: Kylord (89774, 3.93€ bounty)
+Seat 4: Adelit0 (68419, 5.61€ bounty)
+Seat 5: Mouh2guerria (114363, 8.41€ bounty)
+Seat 6: Villardon8 (33285, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Mouh2guerria posts ante 300
+Villardon8 posts ante 300
+YL_ML_GL_42 posts ante 300
+DenisAgueme posts ante 300
+Kylord posts ante 300
+Adelit0 posts ante 300
+Mouh2guerria posts small blind 1250
+Villardon8 posts big blind 2500
+Dealt to YL_ML_GL_42 [6d Jh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DenisAgueme folds
+Kylord raises 2500 to 5000
+Adelit0 calls 5000
+Mouh2guerria folds
+Villardon8 folds
+*** FLOP *** [4c 4h Kd]
+Kylord checks
+Adelit0 bets 3750
+Kylord calls 3750
+*** TURN *** [4c 4h Kd][Js]
+Kylord checks
+Adelit0 bets 2500
+Kylord calls 2500
+*** RIVER *** [4c 4h Kd Js][As]
+Kylord bets 14025
+Adelit0 raises 42844 to 56869 and is all-in
+Kylord folds
+Adelit0 collected 98944 from pot
+*** SUMMARY ***
+Total pot 98944 | No rake
+Board: [4c 4h Kd Js As]
+Seat 4: Adelit0 (button) won 98944
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #2543166301942054969-100-1668799051 - Holdem no limit (350/1500/3000) - 2022/11/18 19:17:31 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (161238, 6.17€ bounty)
+Seat 2: DenisAgueme (36588, 4.49€ bounty)
+Seat 3: Kylord (64199, 3.93€ bounty)
+Seat 4: Adelit0 (98944, 5.61€ bounty)
+Seat 5: Mouh2guerria (112813, 8.41€ bounty)
+Seat 6: Villardon8 (30485, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 350
+YL_ML_GL_42 posts ante 350
+DenisAgueme posts ante 350
+Kylord posts ante 350
+Adelit0 posts ante 350
+Mouh2guerria posts ante 350
+Villardon8 posts small blind 1500
+YL_ML_GL_42 posts big blind 3000
+Dealt to YL_ML_GL_42 [9h Kc]
+*** PRE-FLOP *** 
+DenisAgueme folds
+Kylord folds
+Adelit0 calls 3000
+Mouh2guerria folds
+Villardon8 folds
+YL_ML_GL_42 checks
+*** FLOP *** [5d Kh 3h]
+YL_ML_GL_42 bets 4800
+Adelit0 folds
+YL_ML_GL_42 collected 14400 from pot
+*** SUMMARY ***
+Total pot 14400 | No rake
+Board: [5d Kh 3h]
+Seat 1: YL_ML_GL_42 (big blind) won 14400
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #2543166301942054969-101-1668799105 - Holdem no limit (350/1500/3000) - 2022/11/18 19:18:25 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (167488, 6.17€ bounty)
+Seat 2: DenisAgueme (36238, 4.49€ bounty)
+Seat 3: Kylord (63849, 3.93€ bounty)
+Seat 4: Adelit0 (95594, 5.61€ bounty)
+Seat 5: Mouh2guerria (112463, 8.41€ bounty)
+Seat 6: Villardon8 (28635, 3.93€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 350
+DenisAgueme posts ante 350
+Kylord posts ante 350
+Adelit0 posts ante 350
+Mouh2guerria posts ante 350
+Villardon8 posts ante 350
+YL_ML_GL_42 posts small blind 1500
+DenisAgueme posts big blind 3000
+Dealt to YL_ML_GL_42 [3d Qd]
+*** PRE-FLOP *** 
+Kylord raises 3000 to 6000
+Adelit0 folds
+Mouh2guerria folds
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme calls 3000
+*** FLOP *** [7s 5s Ah]
+DenisAgueme checks
+Kylord bets 4836
+DenisAgueme calls 4836
+*** TURN *** [7s 5s Ah][2s]
+DenisAgueme checks
+Kylord bets 7834
+DenisAgueme calls 7834
+*** RIVER *** [7s 5s Ah 2s][4c]
+DenisAgueme bets 17218 and is all-in
+Kylord calls 17218
+*** SHOW DOWN ***
+Kylord shows [As Kd] (One pair : Aces)
+DenisAgueme shows [Ks 4s] (Flush King high)
+DenisAgueme collected 75376 from pot
+*** SUMMARY ***
+Total pot 75376 | No rake
+Board: [7s 5s Ah 2s 4c]
+Seat 2: DenisAgueme (big blind) showed [Ks 4s] and won 75376 with Flush King high
+Seat 3: Kylord showed [As Kd] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #2543166301942054969-102-1668799181 - Holdem no limit (350/1500/3000) - 2022/11/18 19:19:41 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (165638, 6.17€ bounty)
+Seat 2: DenisAgueme (75376, 4.49€ bounty)
+Seat 3: Kylord (27611, 3.93€ bounty)
+Seat 4: Adelit0 (95244, 5.61€ bounty)
+Seat 5: Mouh2guerria (112113, 8.41€ bounty)
+Seat 6: Villardon8 (28285, 3.93€ bounty)
+*** ANTE/BLINDS ***
+DenisAgueme posts ante 350
+Kylord posts ante 350
+YL_ML_GL_42 posts ante 350
+Adelit0 posts ante 350
+Mouh2guerria posts ante 350
+Villardon8 posts ante 350
+DenisAgueme posts small blind 1500
+Kylord posts big blind 3000
+Dealt to YL_ML_GL_42 [Kd 8h]
+*** PRE-FLOP *** 
+Adelit0 folds
+Mouh2guerria folds
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme raises 72026 to 75026 and is all-in
+Kylord calls 24261 and is all-in
+*** FLOP *** [8s 3h 4h]
+*** TURN *** [8s 3h 4h][Ad]
+*** RIVER *** [8s 3h 4h Ad][Th]
+*** SHOW DOWN ***
+Kylord shows [As 7d] (One pair : Aces)
+DenisAgueme shows [8c 8d] (Trips of 8)
+DenisAgueme collected 104387 from pot
+*** SUMMARY ***
+Total pot 104387 | No rake
+Board: [8s 3h 4h Ad Th]
+Seat 2: DenisAgueme (small blind) showed [8c 8d] and won 104387 with Trips of 8
+Seat 3: Kylord (big blind) showed [As 7d] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #2543166301942054969-103-1668799207 - Holdem no limit (350/1500/3000) - 2022/11/18 19:20:07 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (165288, 6.17€ bounty)
+Seat 2: DenisAgueme (104387, 6.45€ bounty)
+Seat 4: Adelit0 (94894, 5.61€ bounty)
+Seat 5: Mouh2guerria (111763, 8.41€ bounty)
+Seat 6: Villardon8 (27935, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 350
+YL_ML_GL_42 posts ante 350
+DenisAgueme posts ante 350
+Mouh2guerria posts ante 350
+Villardon8 posts ante 350
+Adelit0 posts big blind 3000
+Dealt to YL_ML_GL_42 [6h 8d]
+*** PRE-FLOP *** 
+Mouh2guerria folds
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme raises 3000 to 6000
+Adelit0 raises 88544 to 94544 and is all-in
+DenisAgueme folds
+Adelit0 collected 102294 from pot
+*** SUMMARY ***
+Total pot 102294 | No rake
+Seat 4: Adelit0 (big blind) won 102294
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #2543166301942054969-104-1668799228 - Holdem no limit (350/1500/3000) - 2022/11/18 19:20:28 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (164938, 6.17€ bounty)
+Seat 2: DenisAgueme (98037, 6.45€ bounty)
+Seat 4: Adelit0 (102294, 5.61€ bounty)
+Seat 5: Mouh2guerria (111413, 8.41€ bounty)
+Seat 6: Villardon8 (27585, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 350
+Mouh2guerria posts ante 350
+YL_ML_GL_42 posts ante 350
+DenisAgueme posts ante 350
+Villardon8 posts ante 350
+Adelit0 posts small blind 1500
+Mouh2guerria posts big blind 3000
+Dealt to YL_ML_GL_42 [Qc 5s]
+*** PRE-FLOP *** 
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme raises 3000 to 6000
+Adelit0 folds
+Mouh2guerria calls 3000
+*** FLOP *** [6h 9d 7d]
+Mouh2guerria bets 7625
+DenisAgueme folds
+Mouh2guerria collected 22875 from pot
+*** SUMMARY ***
+Total pot 22875 | No rake
+Board: [6h 9d 7d]
+Seat 5: Mouh2guerria (big blind) won 22875
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #2543166301942054969-105-1668799252 - Holdem no limit (350/1500/3000) - 2022/11/18 19:20:52 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (164588, 6.17€ bounty)
+Seat 2: DenisAgueme (91687, 6.45€ bounty)
+Seat 3: FAATHER (118781, 6.17€ bounty)
+Seat 4: Adelit0 (100444, 5.61€ bounty)
+Seat 5: Mouh2guerria (120313, 8.41€ bounty)
+Seat 6: Villardon8 (27235, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Mouh2guerria posts ante 350
+Villardon8 posts ante 350
+YL_ML_GL_42 posts ante 350
+DenisAgueme posts ante 350
+FAATHER posts ante 350
+Adelit0 posts ante 350
+Mouh2guerria posts small blind 1500
+Villardon8 posts big blind 3000
+Dealt to YL_ML_GL_42 [5c Qd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DenisAgueme folds
+FAATHER folds
+Adelit0 folds
+Mouh2guerria calls 1500
+Villardon8 raises 23885 to 26885 and is all-in
+Mouh2guerria folds
+Villardon8 collected 31985 from pot
+*** SUMMARY ***
+Total pot 31985 | No rake
+Seat 6: Villardon8 (big blind) won 31985
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #2543166301942054969-106-1668799277 - Holdem no limit (350/1500/3000) - 2022/11/18 19:21:17 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (164238, 6.17€ bounty)
+Seat 2: DenisAgueme (91337, 6.45€ bounty)
+Seat 3: FAATHER (118431, 6.17€ bounty)
+Seat 4: Adelit0 (100094, 5.61€ bounty)
+Seat 5: Mouh2guerria (116963, 8.41€ bounty)
+Seat 6: Villardon8 (31985, 3.93€ bounty)
+*** ANTE/BLINDS ***
+Villardon8 posts ante 350
+YL_ML_GL_42 posts ante 350
+DenisAgueme posts ante 350
+FAATHER posts ante 350
+Adelit0 posts ante 350
+Mouh2guerria posts ante 350
+Villardon8 posts small blind 1500
+YL_ML_GL_42 posts big blind 3000
+Dealt to YL_ML_GL_42 [Jd 5s]
+*** PRE-FLOP *** 
+DenisAgueme folds
+FAATHER raises 3000 to 6000
+Adelit0 folds
+Mouh2guerria calls 6000
+Villardon8 folds
+YL_ML_GL_42 calls 3000
+*** FLOP *** [As Td 8s]
+YL_ML_GL_42 checks
+FAATHER checks
+Mouh2guerria checks
+*** TURN *** [As Td 8s][6h]
+YL_ML_GL_42 checks
+FAATHER checks
+Mouh2guerria checks
+*** RIVER *** [As Td 8s 6h][8d]
+YL_ML_GL_42 checks
+FAATHER checks
+Mouh2guerria checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Jd 5s] (One pair : 8)
+Mouh2guerria shows [Qd 9d] (One pair : 8)
+FAATHER shows [3c Kc] (One pair : 8)
+FAATHER collected 21600 from pot
+*** SUMMARY ***
+Total pot 21600 | No rake
+Board: [As Td 8s 6h 8d]
+Seat 1: YL_ML_GL_42 (big blind) showed [Jd 5s] and lost with One pair : 8
+Seat 3: FAATHER showed [3c Kc] and won 21600 with One pair : 8
+Seat 5: Mouh2guerria (button) showed [Qd 9d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #2543166301942054969-107-1668799335 - Holdem no limit (350/1500/3000) - 2022/11/18 19:22:15 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (157888, 6.17€ bounty)
+Seat 2: DenisAgueme (90987, 6.45€ bounty)
+Seat 3: FAATHER (133681, 6.17€ bounty)
+Seat 4: Adelit0 (99744, 5.61€ bounty)
+Seat 5: Mouh2guerria (110613, 8.41€ bounty)
+Seat 6: Villardon8 (30135, 3.93€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 350
+DenisAgueme posts ante 350
+FAATHER posts ante 350
+Adelit0 posts ante 350
+Mouh2guerria posts ante 350
+Villardon8 posts ante 350
+YL_ML_GL_42 posts small blind 1500
+DenisAgueme posts big blind 3000
+Dealt to YL_ML_GL_42 [9d 8h]
+*** PRE-FLOP *** 
+FAATHER folds
+Adelit0 calls 3000
+Mouh2guerria calls 3000
+Villardon8 folds
+YL_ML_GL_42 folds
+DenisAgueme checks
+*** FLOP *** [Th 5s Kc]
+DenisAgueme checks
+Adelit0 checks
+Mouh2guerria checks
+*** TURN *** [Th 5s Kc][Kh]
+DenisAgueme bets 7500
+Adelit0 folds
+Mouh2guerria calls 7500
+*** RIVER *** [Th 5s Kc Kh][Tc]
+DenisAgueme bets 18000
+Mouh2guerria folds
+DenisAgueme collected 45600 from pot
+*** SUMMARY ***
+Total pot 45600 | No rake
+Board: [Th 5s Kc Kh Tc]
+Seat 2: DenisAgueme (big blind) won 45600
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 17 - HandId: #2543166301942054969-108-1668799382 - Holdem no limit (400/1750/3500) - 2022/11/18 19:23:02 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (156038, 6.17€ bounty)
+Seat 2: DenisAgueme (107737, 6.45€ bounty)
+Seat 3: FAATHER (133331, 6.17€ bounty)
+Seat 4: Adelit0 (96394, 5.61€ bounty)
+Seat 5: Mouh2guerria (99763, 8.41€ bounty)
+Seat 6: Villardon8 (29785, 3.93€ bounty)
+*** ANTE/BLINDS ***
+DenisAgueme posts ante 400
+FAATHER posts ante 400
+YL_ML_GL_42 posts ante 400
+Adelit0 posts ante 400
+Mouh2guerria posts ante 400
+Villardon8 posts ante 400
+DenisAgueme posts small blind 1750
+FAATHER posts big blind 3500
+Dealt to YL_ML_GL_42 [4d 7h]
+*** PRE-FLOP *** 
+Adelit0 folds
+Mouh2guerria folds
+Villardon8 raises 25885 to 29385 and is all-in
+YL_ML_GL_42 folds
+DenisAgueme folds
+FAATHER calls 25885
+*** FLOP *** [8s 3s Th]
+*** TURN *** [8s 3s Th][4h]
+*** RIVER *** [8s 3s Th 4h][Jh]
+*** SHOW DOWN ***
+Villardon8 shows [6d Ad] (High card : Ace)
+FAATHER shows [Qd 8h] (One pair : 8)
+FAATHER collected 62920 from pot
+*** SUMMARY ***
+Total pot 62920 | No rake
+Board: [8s 3s Th 4h Jh]
+Seat 3: FAATHER (big blind) showed [Qd 8h] and won 62920 with One pair : 8
+Seat 6: Villardon8 showed [6d Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 17 - HandId: #2543166301942054969-109-1668799421 - Holdem no limit (400/1750/3500) - 2022/11/18 19:23:41 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (155638, 6.17€ bounty)
+Seat 2: DenisAgueme (105587, 6.45€ bounty)
+Seat 3: FAATHER (166466, 8.13€ bounty)
+Seat 4: Adelit0 (95994, 5.61€ bounty)
+Seat 5: Mouh2guerria (99363, 8.41€ bounty)
+*** ANTE/BLINDS ***
+FAATHER posts ante 400
+Adelit0 posts ante 400
+YL_ML_GL_42 posts ante 400
+DenisAgueme posts ante 400
+Mouh2guerria posts ante 400
+FAATHER posts small blind 1750
+Adelit0 posts big blind 3500
+Dealt to YL_ML_GL_42 [4h 4d]
+*** PRE-FLOP *** 
+Mouh2guerria folds
+YL_ML_GL_42 raises 3500 to 7000
+DenisAgueme folds
+FAATHER folds
+Adelit0 calls 3500
+*** FLOP *** [4c Kh 2c]
+Adelit0 checks
+YL_ML_GL_42 checks
+*** TURN *** [4c Kh 2c][Ts]
+Adelit0 bets 3500
+YL_ML_GL_42 calls 3500
+*** RIVER *** [4c Kh 2c Ts][As]
+Adelit0 checks
+YL_ML_GL_42 bets 19800
+Adelit0 folds
+YL_ML_GL_42 collected 44550 from pot
+*** SUMMARY ***
+Total pot 44550 | No rake
+Board: [4c Kh 2c Ts As]
+Seat 1: YL_ML_GL_42 won 44550
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 17 - HandId: #2543166301942054969-110-1668799466 - Holdem no limit (400/1750/3500) - 2022/11/18 19:24:26 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (169488, 6.17€ bounty)
+Seat 2: DenisAgueme (105187, 6.45€ bounty)
+Seat 3: FAATHER (164316, 8.13€ bounty)
+Seat 4: Adelit0 (85094, 5.61€ bounty)
+Seat 5: Mouh2guerria (98963, 8.41€ bounty)
+Seat 6: valepaikkari (45922, 5.05€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 400
+Mouh2guerria posts ante 400
+YL_ML_GL_42 posts ante 400
+DenisAgueme posts ante 400
+FAATHER posts ante 400
+valepaikkari posts ante 400
+Adelit0 posts small blind 1750
+Mouh2guerria posts big blind 3500
+Dealt to YL_ML_GL_42 [Js Kd]
+*** PRE-FLOP *** 
+valepaikkari folds
+YL_ML_GL_42 raises 3500 to 7000
+DenisAgueme folds
+FAATHER folds
+Adelit0 folds
+Mouh2guerria calls 3500
+*** FLOP *** [Jh Kc Jd]
+Mouh2guerria checks
+YL_ML_GL_42 checks
+*** TURN *** [Jh Kc Jd][4d]
+Mouh2guerria bets 3500
+YL_ML_GL_42 calls 3500
+*** RIVER *** [Jh Kc Jd 4d][4c]
+Mouh2guerria checks
+YL_ML_GL_42 bets 25150
+Mouh2guerria folds
+YL_ML_GL_42 collected 50300 from pot
+*** SUMMARY ***
+Total pot 50300 | No rake
+Board: [Jh Kc Jd 4d 4c]
+Seat 1: YL_ML_GL_42 won 50300
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 17 - HandId: #2543166301942054969-111-1668799522 - Holdem no limit (400/1750/3500) - 2022/11/18 19:25:22 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (183738, 6.17€ bounty)
+Seat 2: DenisAgueme (104787, 6.45€ bounty)
+Seat 3: FAATHER (163916, 8.13€ bounty)
+Seat 4: Adelit0 (82944, 5.61€ bounty)
+Seat 5: Mouh2guerria (88063, 8.41€ bounty)
+Seat 6: valepaikkari (45522, 5.05€ bounty)
+*** ANTE/BLINDS ***
+Mouh2guerria posts ante 400
+valepaikkari posts ante 400
+YL_ML_GL_42 posts ante 400
+DenisAgueme posts ante 400
+FAATHER posts ante 400
+Adelit0 posts ante 400
+Mouh2guerria posts small blind 1750
+valepaikkari posts big blind 3500
+Dealt to YL_ML_GL_42 [Th 8c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DenisAgueme raises 3500 to 7000
+FAATHER folds
+Adelit0 folds
+Mouh2guerria folds
+valepaikkari folds
+DenisAgueme collected 14650 from pot
+*** SUMMARY ***
+Total pot 14650 | No rake
+Seat 2: DenisAgueme won 14650
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 17 - HandId: #2543166301942054969-112-1668799536 - Holdem no limit (400/1750/3500) - 2022/11/18 19:25:36 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (183338, 6.17€ bounty)
+Seat 2: DenisAgueme (112037, 6.45€ bounty)
+Seat 3: FAATHER (163516, 8.13€ bounty)
+Seat 4: Adelit0 (82544, 5.61€ bounty)
+Seat 5: Mouh2guerria (85913, 8.41€ bounty)
+Seat 6: valepaikkari (41622, 5.05€ bounty)
+*** ANTE/BLINDS ***
+valepaikkari posts ante 400
+YL_ML_GL_42 posts ante 400
+DenisAgueme posts ante 400
+FAATHER posts ante 400
+Adelit0 posts ante 400
+Mouh2guerria posts ante 400
+valepaikkari posts small blind 1750
+YL_ML_GL_42 posts big blind 3500
+Dealt to YL_ML_GL_42 [Kd Qc]
+*** PRE-FLOP *** 
+DenisAgueme raises 3500 to 7000
+FAATHER calls 7000
+Adelit0 folds
+Mouh2guerria folds
+valepaikkari folds
+YL_ML_GL_42 calls 3500
+*** FLOP *** [7h 9s Ah]
+YL_ML_GL_42 checks
+DenisAgueme checks
+FAATHER checks
+*** TURN *** [7h 9s Ah][Td]
+YL_ML_GL_42 checks
+DenisAgueme bets 17500
+FAATHER folds
+YL_ML_GL_42 folds
+DenisAgueme collected 42650 from pot
+*** SUMMARY ***
+Total pot 42650 | No rake
+Board: [7h 9s Ah Td]
+Seat 2: DenisAgueme won 42650
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 17 - HandId: #2543166301942054969-113-1668799603 - Holdem no limit (400/1750/3500) - 2022/11/18 19:26:43 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (175938, 6.17€ bounty)
+Seat 2: DenisAgueme (129787, 6.45€ bounty)
+Seat 3: FAATHER (156116, 8.13€ bounty)
+Seat 4: Adelit0 (82144, 5.61€ bounty)
+Seat 5: Mouh2guerria (85513, 8.41€ bounty)
+Seat 6: valepaikkari (39472, 5.05€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 400
+DenisAgueme posts ante 400
+FAATHER posts ante 400
+Adelit0 posts ante 400
+Mouh2guerria posts ante 400
+valepaikkari posts ante 400
+YL_ML_GL_42 posts small blind 1750
+DenisAgueme posts big blind 3500
+Dealt to YL_ML_GL_42 [Js As]
+*** PRE-FLOP *** 
+FAATHER raises 3500 to 7000
+Adelit0 folds
+Mouh2guerria calls 7000
+valepaikkari folds
+YL_ML_GL_42 raises 26900 to 33900
+DenisAgueme folds
+FAATHER folds
+Mouh2guerria raises 51213 to 85113 and is all-in
+YL_ML_GL_42 calls 51213
+*** FLOP *** [4h Td Tc]
+*** TURN *** [4h Td Tc][Ad]
+*** RIVER *** [4h Td Tc Ad][4s]
+*** SHOW DOWN ***
+Mouh2guerria shows [Ah 7c] (Two pairs : Aces and Tens)
+YL_ML_GL_42 shows [Js As] (Two pairs : Aces and Tens)
+YL_ML_GL_42 collected 183126 from pot
+*** SUMMARY ***
+Total pot 183126 | No rake
+Board: [4h Td Tc Ad 4s]
+Seat 1: YL_ML_GL_42 (small blind) showed [Js As] and won 183126 with Two pairs : Aces and Tens
+Seat 5: Mouh2guerria showed [Ah 7c] and lost with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2543166301942054969-114-1668799649 - Holdem no limit (500/2000/4000) - 2022/11/18 19:27:29 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (273551, 10.37€ bounty)
+Seat 2: DenisAgueme (125887, 6.45€ bounty)
+Seat 3: FAATHER (148716, 8.13€ bounty)
+Seat 4: Adelit0 (81744, 5.61€ bounty)
+Seat 6: valepaikkari (39072, 5.05€ bounty)
+*** ANTE/BLINDS ***
+DenisAgueme posts ante 500
+FAATHER posts ante 500
+YL_ML_GL_42 posts ante 500
+Adelit0 posts ante 500
+valepaikkari posts ante 500
+DenisAgueme posts small blind 2000
+FAATHER posts big blind 4000
+Dealt to YL_ML_GL_42 [8d Jh]
+*** PRE-FLOP *** 
+Adelit0 folds
+valepaikkari raises 34572 to 38572 and is all-in
+YL_ML_GL_42 folds
+DenisAgueme raises 86815 to 125387 and is all-in
+FAATHER folds
+*** FLOP *** [9s 3h Qc]
+*** TURN *** [9s 3h Qc][4s]
+*** RIVER *** [9s 3h Qc 4s][Qs]
+*** SHOW DOWN ***
+valepaikkari shows [Jd Ac] (One pair : Queens)
+DenisAgueme shows [9c 9d] (Full of 9 and Queens)
+DenisAgueme collected 170459 from pot
+*** SUMMARY ***
+Total pot 170459 | No rake
+Board: [9s 3h Qc 4s Qs]
+Seat 2: DenisAgueme (small blind) showed [9c 9d] and won 170459 with Full of 9 and Queens
+Seat 6: valepaikkari showed [Jd Ac] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2543166301942054969-115-1668799682 - Holdem no limit (500/2000/4000) - 2022/11/18 19:28:02 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (273051, 10.37€ bounty)
+Seat 2: DenisAgueme (170459, 8.97€ bounty)
+Seat 3: FAATHER (144216, 8.13€ bounty)
+Seat 4: Adelit0 (81244, 5.61€ bounty)
+Seat 5: BETBETOCARRE (105127, 8.13€ bounty)
+*** ANTE/BLINDS ***
+FAATHER posts ante 500
+Adelit0 posts ante 500
+YL_ML_GL_42 posts ante 500
+DenisAgueme posts ante 500
+BETBETOCARRE posts ante 500
+FAATHER posts small blind 2000
+Adelit0 posts big blind 4000
+Dealt to YL_ML_GL_42 [4s 2h]
+*** PRE-FLOP *** 
+BETBETOCARRE folds
+YL_ML_GL_42 folds
+DenisAgueme raises 4000 to 8000
+FAATHER folds
+Adelit0 folds
+DenisAgueme collected 16500 from pot
+*** SUMMARY ***
+Total pot 16500 | No rake
+Seat 2: DenisAgueme (button) won 16500
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2543166301942054969-116-1668799703 - Holdem no limit (500/2000/4000) - 2022/11/18 19:28:23 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (272551, 10.37€ bounty)
+Seat 2: DenisAgueme (178459, 8.97€ bounty)
+Seat 3: FAATHER (141716, 8.13€ bounty)
+Seat 4: Adelit0 (76744, 5.61€ bounty)
+Seat 5: BETBETOCARRE (104627, 8.13€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 500
+BETBETOCARRE posts ante 500
+YL_ML_GL_42 posts ante 500
+DenisAgueme posts ante 500
+FAATHER posts ante 500
+Adelit0 posts small blind 2000
+BETBETOCARRE posts big blind 4000
+Dealt to YL_ML_GL_42 [3c 6s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DenisAgueme folds
+FAATHER folds
+Adelit0 raises 4000 to 8000
+BETBETOCARRE calls 4000
+*** FLOP *** [5c 4c Td]
+Adelit0 bets 4000
+BETBETOCARRE calls 4000
+*** TURN *** [5c 4c Td][7d]
+Adelit0 bets 12000
+BETBETOCARRE calls 12000
+*** RIVER *** [5c 4c Td 7d][Tc]
+Adelit0 checks
+BETBETOCARRE checks
+*** SHOW DOWN ***
+BETBETOCARRE shows [2d 6d] (One pair : Tens)
+Adelit0 shows [As Kh] (One pair : Tens)
+Adelit0 collected 50500 from pot
+*** SUMMARY ***
+Total pot 50500 | No rake
+Board: [5c 4c Td 7d Tc]
+Seat 4: Adelit0 (small blind) showed [As Kh] and won 50500 with One pair : Tens
+Seat 5: BETBETOCARRE (big blind) showed [2d 6d] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2543166301942054969-117-1668799751 - Holdem no limit (500/2000/4000) - 2022/11/18 19:29:11 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (272051, 10.37€ bounty)
+Seat 2: DenisAgueme (177959, 8.97€ bounty)
+Seat 3: FAATHER (141216, 8.13€ bounty)
+Seat 4: Adelit0 (102744, 5.61€ bounty)
+Seat 5: BETBETOCARRE (80127, 8.13€ bounty)
+*** ANTE/BLINDS ***
+BETBETOCARRE posts ante 500
+YL_ML_GL_42 posts ante 500
+DenisAgueme posts ante 500
+FAATHER posts ante 500
+Adelit0 posts ante 500
+BETBETOCARRE posts small blind 2000
+YL_ML_GL_42 posts big blind 4000
+Dealt to YL_ML_GL_42 [Tc Ah]
+*** PRE-FLOP *** 
+DenisAgueme raises 4000 to 8000
+FAATHER folds
+Adelit0 folds
+BETBETOCARRE folds
+YL_ML_GL_42 calls 4000
+*** FLOP *** [7c 2h 8h]
+YL_ML_GL_42 bets 7175
+DenisAgueme calls 7175
+*** TURN *** [7c 2h 8h][9h]
+YL_ML_GL_42 bets 17425
+DenisAgueme calls 17425
+*** RIVER *** [7c 2h 8h 9h][9d]
+YL_ML_GL_42 checks
+DenisAgueme bets 28000
+YL_ML_GL_42 folds
+DenisAgueme collected 97700 from pot
+*** SUMMARY ***
+Total pot 97700 | No rake
+Board: [7c 2h 8h 9h 9d]
+Seat 2: DenisAgueme won 97700
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2543166301942054969-118-1668799807 - Holdem no limit (500/2000/4000) - 2022/11/18 19:30:07 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (238951, 10.37€ bounty)
+Seat 2: DenisAgueme (214559, 8.97€ bounty)
+Seat 3: FAATHER (140716, 8.13€ bounty)
+Seat 4: Adelit0 (102244, 5.61€ bounty)
+Seat 5: BETBETOCARRE (77627, 8.13€ bounty)
+Seat 6: Cash2VegaS (37233, 5.05€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 500
+DenisAgueme posts ante 500
+FAATHER posts ante 500
+Adelit0 posts ante 500
+BETBETOCARRE posts ante 500
+YL_ML_GL_42 posts small blind 2000
+DenisAgueme posts big blind 4000
+Dealt to YL_ML_GL_42 [5h 6h]
+*** PRE-FLOP *** 
+FAATHER folds
+Adelit0 folds
+BETBETOCARRE folds
+YL_ML_GL_42 folds
+DenisAgueme collected 8500 from pot
+*** SUMMARY ***
+Total pot 8500 | No rake
+Seat 2: DenisAgueme (big blind) won 8500
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2543166301942054969-119-1668799868 - Holdem no limit (500/2000/4000) - 2022/11/18 19:31:08 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (236451, 10.37€ bounty)
+Seat 2: DenisAgueme (218559, 8.97€ bounty)
+Seat 3: FAATHER (140216, 8.13€ bounty)
+Seat 4: Adelit0 (101744, 5.61€ bounty)
+Seat 5: BETBETOCARRE (77127, 8.13€ bounty)
+Seat 6: Cash2VegaS (37233, 5.05€ bounty)
+*** ANTE/BLINDS ***
+DenisAgueme posts ante 500
+FAATHER posts ante 500
+YL_ML_GL_42 posts ante 500
+Adelit0 posts ante 500
+BETBETOCARRE posts ante 500
+Cash2VegaS posts ante 500
+DenisAgueme posts small blind 2000
+FAATHER posts big blind 4000
+Dealt to YL_ML_GL_42 [Ts Qs]
+*** PRE-FLOP *** 
+Adelit0 raises 4000 to 8000
+BETBETOCARRE folds
+Cash2VegaS raises 28733 to 36733 and is all-in
+YL_ML_GL_42 folds
+DenisAgueme folds
+FAATHER folds
+Adelit0 folds
+Cash2VegaS collected 53733 from pot
+*** SUMMARY ***
+Total pot 53733 | No rake
+Seat 6: Cash2VegaS won 53733
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 18 - HandId: #2543166301942054969-120-1668799898 - Holdem no limit (500/2000/4000) - 2022/11/18 19:31:38 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (235951, 10.37€ bounty)
+Seat 2: DenisAgueme (216059, 8.97€ bounty)
+Seat 3: FAATHER (135716, 8.13€ bounty)
+Seat 4: Adelit0 (93244, 5.61€ bounty)
+Seat 5: BETBETOCARRE (76627, 8.13€ bounty)
+Seat 6: Cash2VegaS (53733, 5.05€ bounty)
+*** ANTE/BLINDS ***
+FAATHER posts ante 500
+Adelit0 posts ante 500
+YL_ML_GL_42 posts ante 500
+DenisAgueme posts ante 500
+BETBETOCARRE posts ante 500
+Cash2VegaS posts ante 500
+FAATHER posts small blind 2000
+Adelit0 posts big blind 4000
+Dealt to YL_ML_GL_42 [Ac 2s]
+*** PRE-FLOP *** 
+BETBETOCARRE folds
+Cash2VegaS folds
+YL_ML_GL_42 raises 6000 to 10000
+DenisAgueme folds
+FAATHER folds
+Adelit0 calls 6000
+*** FLOP *** [4h 7c 4d]
+Adelit0 checks
+YL_ML_GL_42 checks
+*** TURN *** [4h 7c 4d][3c]
+Adelit0 bets 8000
+YL_ML_GL_42 calls 8000
+*** RIVER *** [4h 7c 4d 3c][8d]
+Adelit0 folds
+YL_ML_GL_42 collected 41000 from pot
+*** SUMMARY ***
+Total pot 41000 | No rake
+Board: [4h 7c 4d 3c 8d]
+Seat 1: YL_ML_GL_42 won 41000
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 19 - HandId: #2543166301942054969-121-1668799949 - Holdem no limit (600/2500/5000) - 2022/11/18 19:32:29 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (258451, 10.37€ bounty)
+Seat 2: DenisAgueme (215559, 8.97€ bounty)
+Seat 3: FAATHER (133216, 8.13€ bounty)
+Seat 4: Adelit0 (74744, 5.61€ bounty)
+Seat 5: BETBETOCARRE (76127, 8.13€ bounty)
+Seat 6: Cash2VegaS (53233, 5.05€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 600
+BETBETOCARRE posts ante 600
+YL_ML_GL_42 posts ante 600
+DenisAgueme posts ante 600
+FAATHER posts ante 600
+Cash2VegaS posts ante 600
+Adelit0 posts small blind 2500
+BETBETOCARRE posts big blind 5000
+Dealt to YL_ML_GL_42 [9h 7h]
+*** PRE-FLOP *** 
+Cash2VegaS raises 47633 to 52633 and is all-in
+YL_ML_GL_42 folds
+DenisAgueme folds
+FAATHER folds
+Adelit0 folds
+BETBETOCARRE folds
+Cash2VegaS collected 63733 from pot
+*** SUMMARY ***
+Total pot 63733 | No rake
+Seat 6: Cash2VegaS won 63733
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 19 - HandId: #2543166301942054969-122-1668799976 - Holdem no limit (600/2500/5000) - 2022/11/18 19:32:56 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (257851, 10.37€ bounty)
+Seat 2: DenisAgueme (214959, 8.97€ bounty)
+Seat 3: FAATHER (132616, 8.13€ bounty)
+Seat 4: Adelit0 (71644, 5.61€ bounty)
+Seat 5: BETBETOCARRE (70527, 8.13€ bounty)
+Seat 6: Cash2VegaS (63733, 5.05€ bounty)
+*** ANTE/BLINDS ***
+BETBETOCARRE posts ante 600
+Cash2VegaS posts ante 600
+YL_ML_GL_42 posts ante 600
+DenisAgueme posts ante 600
+FAATHER posts ante 600
+Adelit0 posts ante 600
+BETBETOCARRE posts small blind 2500
+Cash2VegaS posts big blind 5000
+Dealt to YL_ML_GL_42 [Kc 7h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DenisAgueme folds
+FAATHER folds
+Adelit0 raises 66044 to 71044 and is all-in
+BETBETOCARRE folds
+Cash2VegaS folds
+Adelit0 collected 82144 from pot
+*** SUMMARY ***
+Total pot 82144 | No rake
+Seat 4: Adelit0 (button) won 82144
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 19 - HandId: #2543166301942054969-123-1668800004 - Holdem no limit (600/2500/5000) - 2022/11/18 19:33:24 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (257251, 10.37€ bounty)
+Seat 2: DenisAgueme (214359, 8.97€ bounty)
+Seat 3: FAATHER (132016, 8.13€ bounty)
+Seat 4: Adelit0 (82144, 5.61€ bounty)
+Seat 5: BETBETOCARRE (67427, 8.13€ bounty)
+Seat 6: Cash2VegaS (58133, 5.05€ bounty)
+*** ANTE/BLINDS ***
+Cash2VegaS posts ante 600
+YL_ML_GL_42 posts ante 600
+DenisAgueme posts ante 600
+FAATHER posts ante 600
+Adelit0 posts ante 600
+BETBETOCARRE posts ante 600
+Cash2VegaS posts small blind 2500
+YL_ML_GL_42 posts big blind 5000
+Dealt to YL_ML_GL_42 [3h 8s]
+*** PRE-FLOP *** 
+DenisAgueme raises 5000 to 10000
+FAATHER raises 121416 to 131416 and is all-in
+Adelit0 folds
+BETBETOCARRE folds
+Cash2VegaS folds
+YL_ML_GL_42 folds
+DenisAgueme folds
+FAATHER collected 152516 from pot
+*** SUMMARY ***
+Total pot 152516 | No rake
+Seat 3: FAATHER won 152516
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 19 - HandId: #2543166301942054969-124-1668800028 - Holdem no limit (600/2500/5000) - 2022/11/18 19:33:48 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (251651, 10.37€ bounty)
+Seat 2: DenisAgueme (203759, 8.97€ bounty)
+Seat 3: FAATHER (152516, 8.13€ bounty)
+Seat 4: Adelit0 (81544, 5.61€ bounty)
+Seat 5: BETBETOCARRE (66827, 8.13€ bounty)
+Seat 6: Cash2VegaS (55033, 5.05€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 600
+DenisAgueme posts ante 600
+FAATHER posts ante 600
+Adelit0 posts ante 600
+BETBETOCARRE posts ante 600
+Cash2VegaS posts ante 600
+YL_ML_GL_42 posts small blind 2500
+DenisAgueme posts big blind 5000
+Dealt to YL_ML_GL_42 [8h Ah]
+*** PRE-FLOP *** 
+FAATHER folds
+Adelit0 calls 5000
+BETBETOCARRE folds
+Cash2VegaS folds
+YL_ML_GL_42 raises 10000 to 15000
+DenisAgueme folds
+Adelit0 calls 10000
+*** FLOP *** [Ts 6s Td]
+YL_ML_GL_42 bets 19300
+Adelit0 calls 19300
+*** TURN *** [Ts 6s Td][3d]
+YL_ML_GL_42 checks
+Adelit0 bets 46644 and is all-in
+YL_ML_GL_42 folds
+Adelit0 shows [7d 2d] (One pair : Tens)
+Adelit0 collected 123844 from pot
+*** SUMMARY ***
+Total pot 123844 | No rake
+Board: [Ts 6s Td 3d]
+Seat 4: Adelit0 showed [7d 2d] and won 123844 with One pair : Tens
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 19 - HandId: #2543166301942054969-125-1668800078 - Holdem no limit (600/2500/5000) - 2022/11/18 19:34:38 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (216751, 10.37€ bounty)
+Seat 2: DenisAgueme (198159, 8.97€ bounty)
+Seat 3: FAATHER (151916, 8.13€ bounty)
+Seat 4: Adelit0 (123844, 5.61€ bounty)
+Seat 5: BETBETOCARRE (66227, 8.13€ bounty)
+Seat 6: Cash2VegaS (54433, 5.05€ bounty)
+*** ANTE/BLINDS ***
+DenisAgueme posts ante 600
+FAATHER posts ante 600
+YL_ML_GL_42 posts ante 600
+Adelit0 posts ante 600
+BETBETOCARRE posts ante 600
+Cash2VegaS posts ante 600
+DenisAgueme posts small blind 2500
+FAATHER posts big blind 5000
+Dealt to YL_ML_GL_42 [7h Ks]
+*** PRE-FLOP *** 
+Adelit0 folds
+BETBETOCARRE raises 5000 to 10000
+Cash2VegaS folds
+YL_ML_GL_42 folds
+DenisAgueme folds
+FAATHER folds
+BETBETOCARRE collected 21100 from pot
+*** SUMMARY ***
+Total pot 21100 | No rake
+Seat 5: BETBETOCARRE won 21100
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 19 - HandId: #2543166301942054969-126-1668800100 - Holdem no limit (600/2500/5000) - 2022/11/18 19:35:00 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (216151, 10.37€ bounty)
+Seat 2: DenisAgueme (195059, 8.97€ bounty)
+Seat 3: FAATHER (146316, 8.13€ bounty)
+Seat 4: Adelit0 (123244, 5.61€ bounty)
+Seat 5: BETBETOCARRE (76727, 8.13€ bounty)
+Seat 6: Cash2VegaS (53833, 5.05€ bounty)
+*** ANTE/BLINDS ***
+FAATHER posts ante 600
+Adelit0 posts ante 600
+YL_ML_GL_42 posts ante 600
+DenisAgueme posts ante 600
+BETBETOCARRE posts ante 600
+Cash2VegaS posts ante 600
+FAATHER posts small blind 2500
+Adelit0 posts big blind 5000
+Dealt to YL_ML_GL_42 [2s Ks]
+*** PRE-FLOP *** 
+BETBETOCARRE folds
+Cash2VegaS folds
+YL_ML_GL_42 folds
+DenisAgueme folds
+FAATHER folds
+Adelit0 collected 11100 from pot
+*** SUMMARY ***
+Total pot 11100 | No rake
+Seat 4: Adelit0 (big blind) won 11100
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 19 - HandId: #2543166301942054969-127-1668800121 - Holdem no limit (600/2500/5000) - 2022/11/18 19:35:21 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (215551, 10.37€ bounty)
+Seat 2: DenisAgueme (194459, 8.97€ bounty)
+Seat 3: FAATHER (143216, 8.13€ bounty)
+Seat 4: Adelit0 (128744, 5.61€ bounty)
+Seat 5: BETBETOCARRE (76127, 8.13€ bounty)
+Seat 6: Cash2VegaS (53233, 5.05€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 600
+BETBETOCARRE posts ante 600
+YL_ML_GL_42 posts ante 600
+DenisAgueme posts ante 600
+FAATHER posts ante 600
+Cash2VegaS posts ante 600
+Adelit0 posts small blind 2500
+BETBETOCARRE posts big blind 5000
+Dealt to YL_ML_GL_42 [6h Ks]
+*** PRE-FLOP *** 
+Cash2VegaS raises 47633 to 52633 and is all-in
+YL_ML_GL_42 folds
+DenisAgueme folds
+FAATHER raises 89983 to 142616 and is all-in
+Adelit0 folds
+BETBETOCARRE folds
+*** FLOP *** [Ts 5s Jh]
+*** TURN *** [Ts 5s Jh][3c]
+*** RIVER *** [Ts 5s Jh 3c][8d]
+*** SHOW DOWN ***
+Cash2VegaS shows [Ac 3d] (One pair : 3)
+FAATHER shows [9h 9c] (One pair : 9)
+FAATHER collected 206349 from pot
+*** SUMMARY ***
+Total pot 206349 | No rake
+Board: [Ts 5s Jh 3c 8d]
+Seat 3: FAATHER (button) showed [9h 9c] and won 206349 with One pair : 9
+Seat 6: Cash2VegaS showed [Ac 3d] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 19 - HandId: #2543166301942054969-128-1668800187 - Holdem no limit (600/2500/5000) - 2022/11/18 19:36:27 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (214951, 10.37€ bounty)
+Seat 2: DenisAgueme (193859, 8.97€ bounty)
+Seat 3: FAATHER (206349, 10.65€ bounty)
+Seat 4: Adelit0 (125644, 5.61€ bounty)
+Seat 5: BETBETOCARRE (70527, 8.13€ bounty)
+*** ANTE/BLINDS ***
+BETBETOCARRE posts ante 600
+YL_ML_GL_42 posts ante 600
+DenisAgueme posts ante 600
+FAATHER posts ante 600
+Adelit0 posts ante 600
+BETBETOCARRE posts small blind 2500
+YL_ML_GL_42 posts big blind 5000
+Dealt to YL_ML_GL_42 [Qc 5h]
+*** PRE-FLOP *** 
+DenisAgueme folds
+FAATHER folds
+Adelit0 raises 10000 to 15000
+BETBETOCARRE raises 54927 to 69927 and is all-in
+YL_ML_GL_42 folds
+Adelit0 calls 54927
+*** FLOP *** [7s 4h 7d]
+*** TURN *** [7s 4h 7d][9s]
+*** RIVER *** [7s 4h 7d 9s][Ts]
+*** SHOW DOWN ***
+BETBETOCARRE shows [As Kd] (One pair : 7)
+Adelit0 shows [6h 6d] (Two pairs : 7 and 6)
+Adelit0 collected 147854 from pot
+*** SUMMARY ***
+Total pot 147854 | No rake
+Board: [7s 4h 7d 9s Ts]
+Seat 4: Adelit0 (button) showed [6h 6d] and won 147854 with Two pairs : 7 and 6
+Seat 5: BETBETOCARRE (small blind) showed [As Kd] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 19 - HandId: #2543166301942054969-129-1668800219 - Holdem no limit (600/2500/5000) - 2022/11/18 19:36:59 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (209351, 10.37€ bounty)
+Seat 2: DenisAgueme (193259, 8.97€ bounty)
+Seat 3: FAATHER (205749, 10.65€ bounty)
+Seat 4: Adelit0 (202971, 9.67€ bounty)
+Seat 6: gLoryLay (113180, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 600
+DenisAgueme posts ante 600
+FAATHER posts ante 600
+Adelit0 posts ante 600
+YL_ML_GL_42 posts small blind 2500
+DenisAgueme posts big blind 5000
+Dealt to YL_ML_GL_42 [5c 9s]
+*** PRE-FLOP *** 
+FAATHER raises 5000 to 10000
+Adelit0 folds
+YL_ML_GL_42 folds
+DenisAgueme calls 5000
+*** FLOP *** [Ks 7c Js]
+DenisAgueme checks
+FAATHER bets 7470
+DenisAgueme folds
+FAATHER collected 32370 from pot
+*** SUMMARY ***
+Total pot 32370 | No rake
+Board: [Ks 7c Js]
+Seat 3: FAATHER won 32370
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 20 - HandId: #2543166301942054969-130-1668800266 - Holdem no limit (700/3000/6000) - 2022/11/18 19:37:46 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (206251, 10.37€ bounty)
+Seat 2: DenisAgueme (182659, 8.97€ bounty)
+Seat 3: FAATHER (220049, 10.65€ bounty)
+Seat 4: Adelit0 (202371, 9.67€ bounty)
+Seat 5: ellovo8313 (42592, 4.49€ bounty)
+Seat 6: gLoryLay (113180, 2.25€ bounty)
+*** ANTE/BLINDS ***
+DenisAgueme posts ante 700
+FAATHER posts ante 700
+YL_ML_GL_42 posts ante 700
+Adelit0 posts ante 700
+ellovo8313 posts ante 700
+gLoryLay posts ante 700
+DenisAgueme posts small blind 3000
+FAATHER posts big blind 6000
+Dealt to YL_ML_GL_42 [6c Js]
+*** PRE-FLOP *** 
+Adelit0 folds
+ellovo8313 folds
+gLoryLay raises 6000 to 12000
+YL_ML_GL_42 folds
+DenisAgueme folds
+FAATHER folds
+gLoryLay collected 25200 from pot
+*** SUMMARY ***
+Total pot 25200 | No rake
+Seat 6: gLoryLay won 25200
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 20 - HandId: #2543166301942054969-131-1668800310 - Holdem no limit (700/3000/6000) - 2022/11/18 19:38:30 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (205551, 10.37€ bounty)
+Seat 2: DenisAgueme (178959, 8.97€ bounty)
+Seat 3: FAATHER (213349, 10.65€ bounty)
+Seat 4: Adelit0 (201671, 9.67€ bounty)
+Seat 5: ellovo8313 (41892, 4.49€ bounty)
+Seat 6: gLoryLay (125680, 2.25€ bounty)
+*** ANTE/BLINDS ***
+FAATHER posts ante 700
+Adelit0 posts ante 700
+YL_ML_GL_42 posts ante 700
+DenisAgueme posts ante 700
+ellovo8313 posts ante 700
+gLoryLay posts ante 700
+FAATHER posts small blind 3000
+Adelit0 posts big blind 6000
+Dealt to YL_ML_GL_42 [Th 6s]
+*** PRE-FLOP *** 
+ellovo8313 folds
+gLoryLay folds
+YL_ML_GL_42 folds
+DenisAgueme raises 6000 to 12000
+FAATHER folds
+Adelit0 folds
+DenisAgueme collected 25200 from pot
+*** SUMMARY ***
+Total pot 25200 | No rake
+Seat 2: DenisAgueme (button) won 25200
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 20 - HandId: #2543166301942054969-132-1668800348 - Holdem no limit (700/3000/6000) - 2022/11/18 19:39:08 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (204851, 10.37€ bounty)
+Seat 2: DenisAgueme (191459, 8.97€ bounty)
+Seat 3: FAATHER (209649, 10.65€ bounty)
+Seat 4: Adelit0 (194971, 9.67€ bounty)
+Seat 5: ellovo8313 (41192, 4.49€ bounty)
+Seat 6: gLoryLay (124980, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Adelit0 posts ante 700
+ellovo8313 posts ante 700
+YL_ML_GL_42 posts ante 700
+DenisAgueme posts ante 700
+FAATHER posts ante 700
+gLoryLay posts ante 700
+Adelit0 posts small blind 3000
+ellovo8313 posts big blind 6000
+Dealt to YL_ML_GL_42 [As Th]
+*** PRE-FLOP *** 
+gLoryLay folds
+YL_ML_GL_42 raises 9000 to 15000
+DenisAgueme folds
+FAATHER folds
+Adelit0 folds
+ellovo8313 folds
+YL_ML_GL_42 collected 28200 from pot
+*** SUMMARY ***
+Total pot 28200 | No rake
+Seat 1: YL_ML_GL_42 won 28200
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 20 - HandId: #2543166301942054969-133-1668800495 - Holdem no limit (700/3000/6000) - 2022/11/18 19:41:35 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (217351, 10.37€ bounty)
+Seat 2: DenisAgueme (190759, 8.97€ bounty)
+Seat 3: FAATHER (208949, 10.65€ bounty)
+Seat 4: Adelit0 (191271, 9.67€ bounty)
+Seat 5: ellovo8313 (34492, 4.49€ bounty)
+Seat 6: gLoryLay (124280, 2.25€ bounty)
+*** ANTE/BLINDS ***
+ellovo8313 posts ante 700
+gLoryLay posts ante 700
+YL_ML_GL_42 posts ante 700
+DenisAgueme posts ante 700
+FAATHER posts ante 700
+Adelit0 posts ante 700
+ellovo8313 posts small blind 3000
+gLoryLay posts big blind 6000
+Dealt to YL_ML_GL_42 [8s 9s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+DenisAgueme folds
+FAATHER raises 6000 to 12000
+Adelit0 calls 12000
+ellovo8313 raises 21792 to 33792 and is all-in
+gLoryLay folds
+FAATHER raises 174457 to 208249 and is all-in
+Adelit0 folds
+*** FLOP *** [Ah 6s 3c]
+*** TURN *** [Ah 6s 3c][3h]
+*** RIVER *** [Ah 6s 3c 3h][5c]
+*** SHOW DOWN ***
+FAATHER shows [Kh Td] (One pair : 3)
+ellovo8313 shows [4d Ad] (Two pairs : Aces and 3)
+ellovo8313 collected 89784 from main pot
+FAATHER collected 174457 from side pot 1
+*** SUMMARY ***
+Total pot 264241 | No rake
+Board: [Ah 6s 3c 3h 5c]
+Seat 3: FAATHER showed [Kh Td] and won 174457 with One pair : 3
+Seat 5: ellovo8313 (small blind) showed [4d Ad] and won 89784 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 20 - HandId: #2543166301942054969-134-1668800529 - Holdem no limit (700/3000/6000) - 2022/11/18 19:42:09 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (216651, 10.37€ bounty)
+Seat 2: DenisAgueme (190059, 8.97€ bounty)
+Seat 3: FAATHER (174457, 10.65€ bounty)
+Seat 4: Adelit0 (178571, 9.67€ bounty)
+Seat 5: ellovo8313 (89784, 4.49€ bounty)
+Seat 6: gLoryLay (117580, 2.25€ bounty)
+*** ANTE/BLINDS ***
+gLoryLay posts ante 700
+YL_ML_GL_42 posts ante 700
+DenisAgueme posts ante 700
+FAATHER posts ante 700
+Adelit0 posts ante 700
+ellovo8313 posts ante 700
+gLoryLay posts small blind 3000
+YL_ML_GL_42 posts big blind 6000
+Dealt to YL_ML_GL_42 [6h 9d]
+*** PRE-FLOP *** 
+DenisAgueme folds
+FAATHER folds
+Adelit0 folds
+ellovo8313 folds
+gLoryLay calls 3000
+YL_ML_GL_42 checks
+*** FLOP *** [Js 3h 4h]
+gLoryLay checks
+YL_ML_GL_42 bets 12960
+gLoryLay folds
+YL_ML_GL_42 collected 29160 from pot
+*** SUMMARY ***
+Total pot 29160 | No rake
+Board: [Js 3h 4h]
+Seat 1: YL_ML_GL_42 (big blind) won 29160
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 21 - HandId: #2543166301942054969-135-1668800576 - Holdem no limit (800/3500/7000) - 2022/11/18 19:42:56 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (226151, 10.37€ bounty)
+Seat 2: DenisAgueme (189359, 8.97€ bounty)
+Seat 3: FAATHER (173757, 10.65€ bounty)
+Seat 4: Adelit0 (177871, 9.67€ bounty)
+Seat 5: ellovo8313 (89084, 4.49€ bounty)
+Seat 6: gLoryLay (110880, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 800
+DenisAgueme posts ante 800
+FAATHER posts ante 800
+Adelit0 posts ante 800
+ellovo8313 posts ante 800
+gLoryLay posts ante 800
+YL_ML_GL_42 posts small blind 3500
+DenisAgueme posts big blind 7000
+Dealt to YL_ML_GL_42 [8s 3h]
+*** PRE-FLOP *** 
+FAATHER folds
+Adelit0 folds
+ellovo8313 folds
+gLoryLay folds
+YL_ML_GL_42 folds
+DenisAgueme collected 15300 from pot
+*** SUMMARY ***
+Total pot 15300 | No rake
+Seat 2: DenisAgueme (big blind) won 15300
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 21 - HandId: #2543166301942054969-136-1668800606 - Holdem no limit (800/3500/7000) - 2022/11/18 19:43:26 UTC
+Table: 'GUERILLA(592127047)#056' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (221851, 10.37€ bounty)
+Seat 2: DenisAgueme (196859, 8.97€ bounty)
+Seat 3: FAATHER (172957, 10.65€ bounty)
+Seat 4: Adelit0 (177071, 9.67€ bounty)
+Seat 5: ellovo8313 (88284, 4.49€ bounty)
+Seat 6: gLoryLay (110080, 2.25€ bounty)
+*** ANTE/BLINDS ***
+DenisAgueme posts ante 800
+FAATHER posts ante 800
+YL_ML_GL_42 posts ante 800
+Adelit0 posts ante 800
+ellovo8313 posts ante 800
+gLoryLay posts ante 800
+DenisAgueme posts small blind 3500
+FAATHER posts big blind 7000
+Dealt to YL_ML_GL_42 [8c Jh]
+*** PRE-FLOP *** 
+Adelit0 folds
+ellovo8313 folds
+gLoryLay folds
+YL_ML_GL_42 folds
+DenisAgueme folds
+FAATHER collected 15300 from pot
+*** SUMMARY ***
+Total pot 15300 | No rake
+Seat 3: FAATHER (big blind) won 15300
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 21 - HandId: #2543166301942054916-126-1668800653 - Holdem no limit (800/3500/7000) - 2022/11/18 19:44:13 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #1 is the button
+Seat 1: Greenmood (118821, 9.67€ bounty)
+Seat 2: Knut Gunborg (217200, 2.25€ bounty)
+Seat 3: daniviev (128186, 3.37€ bounty)
+Seat 4: Troll3600 (44624, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (221051, 10.37€ bounty)
+Seat 6: EB99 (115624, 5.33€ bounty)
+*** ANTE/BLINDS ***
+Knut Gunborg posts ante 800
+daniviev posts ante 800
+Greenmood posts ante 800
+Troll3600 posts ante 800
+YL_ML_GL_42 posts ante 800
+EB99 posts ante 800
+Knut Gunborg posts small blind 3500
+daniviev posts big blind 7000
+Dealt to YL_ML_GL_42 [8s 7s]
+*** PRE-FLOP *** 
+Troll3600 folds
+YL_ML_GL_42 folds
+EB99 folds
+Greenmood folds
+Knut Gunborg calls 3500
+daniviev raises 120386 to 127386 and is all-in
+Knut Gunborg folds
+daniviev collected 139186 from pot
+*** SUMMARY ***
+Total pot 139186 | No rake
+Seat 3: daniviev (big blind) won 139186
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 21 - HandId: #2543166301942054916-127-1668800721 - Holdem no limit (800/3500/7000) - 2022/11/18 19:45:21 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #2 is the button
+Seat 1: Greenmood (118021, 9.67€ bounty)
+Seat 2: Knut Gunborg (209400, 2.25€ bounty)
+Seat 3: daniviev (139186, 3.37€ bounty)
+Seat 4: Troll3600 (43824, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (220251, 10.37€ bounty)
+Seat 6: EB99 (114824, 5.33€ bounty)
+*** ANTE/BLINDS ***
+daniviev posts ante 800
+Troll3600 posts ante 800
+Greenmood posts ante 800
+Knut Gunborg posts ante 800
+YL_ML_GL_42 posts ante 800
+EB99 posts ante 800
+daniviev posts small blind 3500
+Troll3600 posts big blind 7000
+Dealt to YL_ML_GL_42 [6d 2h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+EB99 folds
+Greenmood folds
+Knut Gunborg folds
+daniviev raises 131386 to 138386 and is all-in
+Troll3600 folds
+daniviev collected 150186 from pot
+*** SUMMARY ***
+Total pot 150186 | No rake
+Seat 3: daniviev (small blind) won 150186
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 21 - HandId: #2543166301942054916-128-1668800749 - Holdem no limit (800/3500/7000) - 2022/11/18 19:45:49 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #3 is the button
+Seat 1: Greenmood (117221, 9.67€ bounty)
+Seat 2: Knut Gunborg (208600, 2.25€ bounty)
+Seat 3: daniviev (150186, 3.37€ bounty)
+Seat 4: Troll3600 (36024, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (219451, 10.37€ bounty)
+Seat 6: EB99 (114024, 5.33€ bounty)
+*** ANTE/BLINDS ***
+Troll3600 posts ante 800
+YL_ML_GL_42 posts ante 800
+Greenmood posts ante 800
+Knut Gunborg posts ante 800
+daniviev posts ante 800
+EB99 posts ante 800
+Troll3600 posts small blind 3500
+YL_ML_GL_42 posts big blind 7000
+Dealt to YL_ML_GL_42 [5h 2c]
+*** PRE-FLOP *** 
+EB99 folds
+Greenmood raises 7000 to 14000
+Knut Gunborg folds
+daniviev folds
+Troll3600 folds
+YL_ML_GL_42 folds
+Greenmood collected 29300 from pot
+*** SUMMARY ***
+Total pot 29300 | No rake
+Seat 1: Greenmood won 29300
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 21 - HandId: #2543166301942054916-129-1668800801 - Holdem no limit (800/3500/7000) - 2022/11/18 19:46:41 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #4 is the button
+Seat 1: Greenmood (131721, 9.67€ bounty)
+Seat 2: Knut Gunborg (207800, 2.25€ bounty)
+Seat 3: daniviev (149386, 3.37€ bounty)
+Seat 4: Troll3600 (31724, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (211651, 10.37€ bounty)
+Seat 6: EB99 (113224, 5.33€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 800
+EB99 posts ante 800
+Greenmood posts ante 800
+Knut Gunborg posts ante 800
+daniviev posts ante 800
+Troll3600 posts ante 800
+YL_ML_GL_42 posts small blind 3500
+EB99 posts big blind 7000
+Dealt to YL_ML_GL_42 [5c Th]
+*** PRE-FLOP *** 
+Greenmood folds
+Knut Gunborg raises 8750 to 15750
+daniviev folds
+Troll3600 folds
+YL_ML_GL_42 folds
+EB99 calls 8750
+*** FLOP *** [7c 4h 5s]
+EB99 checks
+Knut Gunborg bets 9950
+EB99 calls 9950
+*** TURN *** [7c 4h 5s][6d]
+EB99 bets 29850
+Knut Gunborg folds
+EB99 collected 89550 from pot
+*** SUMMARY ***
+Total pot 89550 | No rake
+Board: [7c 4h 5s 6d]
+Seat 6: EB99 (big blind) won 89550
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 22 - HandId: #2543166301942054916-130-1668800866 - Holdem no limit (1000/4000/8000) - 2022/11/18 19:47:46 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #5 is the button
+Seat 1: Greenmood (130921, 9.67€ bounty)
+Seat 2: Knut Gunborg (181300, 2.25€ bounty)
+Seat 3: daniviev (148586, 3.37€ bounty)
+Seat 4: Troll3600 (30924, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (207351, 10.37€ bounty)
+Seat 6: EB99 (146424, 5.33€ bounty)
+*** ANTE/BLINDS ***
+EB99 posts ante 1000
+Greenmood posts ante 1000
+Knut Gunborg posts ante 1000
+daniviev posts ante 1000
+Troll3600 posts ante 1000
+YL_ML_GL_42 posts ante 1000
+EB99 posts small blind 4000
+Greenmood posts big blind 8000
+Dealt to YL_ML_GL_42 [5c 8s]
+*** PRE-FLOP *** 
+Knut Gunborg folds
+daniviev folds
+Troll3600 folds
+YL_ML_GL_42 folds
+EB99 raises 10000 to 18000
+Greenmood folds
+EB99 collected 32000 from pot
+*** SUMMARY ***
+Total pot 32000 | No rake
+Seat 6: EB99 (small blind) won 32000
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 22 - HandId: #2543166301942054916-131-1668800916 - Holdem no limit (1000/4000/8000) - 2022/11/18 19:48:36 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #6 is the button
+Seat 1: Greenmood (121921, 9.67€ bounty)
+Seat 2: Knut Gunborg (180300, 2.25€ bounty)
+Seat 3: daniviev (147586, 3.37€ bounty)
+Seat 4: Troll3600 (29924, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (206351, 10.37€ bounty)
+Seat 6: EB99 (159424, 5.33€ bounty)
+*** ANTE/BLINDS ***
+Greenmood posts ante 1000
+Knut Gunborg posts ante 1000
+daniviev posts ante 1000
+Troll3600 posts ante 1000
+YL_ML_GL_42 posts ante 1000
+EB99 posts ante 1000
+Greenmood posts small blind 4000
+Knut Gunborg posts big blind 8000
+Dealt to YL_ML_GL_42 [4h Tc]
+*** PRE-FLOP *** 
+daniviev raises 8000 to 16000
+Troll3600 folds
+YL_ML_GL_42 folds
+EB99 folds
+Greenmood calls 12000
+Knut Gunborg folds
+*** FLOP *** [8s 3s 6c]
+Greenmood checks
+daniviev checks
+*** TURN *** [8s 3s 6c][Ah]
+Greenmood checks
+daniviev bets 28060
+Greenmood folds
+daniviev collected 74060 from pot
+*** SUMMARY ***
+Total pot 74060 | No rake
+Board: [8s 3s 6c Ah]
+Seat 3: daniviev won 74060
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 22 - HandId: #2543166301942054916-132-1668800951 - Holdem no limit (1000/4000/8000) - 2022/11/18 19:49:11 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #1 is the button
+Seat 1: Greenmood (104921, 9.67€ bounty)
+Seat 2: Knut Gunborg (171300, 2.25€ bounty)
+Seat 3: daniviev (176586, 3.37€ bounty)
+Seat 4: Troll3600 (28924, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (205351, 10.37€ bounty)
+Seat 6: EB99 (158424, 5.33€ bounty)
+*** ANTE/BLINDS ***
+Knut Gunborg posts ante 1000
+daniviev posts ante 1000
+Greenmood posts ante 1000
+Troll3600 posts ante 1000
+YL_ML_GL_42 posts ante 1000
+EB99 posts ante 1000
+Knut Gunborg posts small blind 4000
+daniviev posts big blind 8000
+Dealt to YL_ML_GL_42 [7s 2d]
+*** PRE-FLOP *** 
+Troll3600 folds
+YL_ML_GL_42 folds
+EB99 folds
+Greenmood folds
+Knut Gunborg raises 22000 to 30000
+daniviev folds
+Knut Gunborg collected 44000 from pot
+*** SUMMARY ***
+Total pot 44000 | No rake
+Seat 2: Knut Gunborg (small blind) won 44000
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 22 - HandId: #2543166301942054916-133-1668801014 - Holdem no limit (1000/4000/8000) - 2022/11/18 19:50:14 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #2 is the button
+Seat 1: Greenmood (103921, 9.67€ bounty)
+Seat 2: Knut Gunborg (184300, 2.25€ bounty)
+Seat 3: daniviev (167586, 3.37€ bounty)
+Seat 4: Troll3600 (27924, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (204351, 10.37€ bounty)
+Seat 6: EB99 (157424, 5.33€ bounty)
+*** ANTE/BLINDS ***
+daniviev posts ante 1000
+Troll3600 posts ante 1000
+Greenmood posts ante 1000
+Knut Gunborg posts ante 1000
+YL_ML_GL_42 posts ante 1000
+EB99 posts ante 1000
+daniviev posts small blind 4000
+Troll3600 posts big blind 8000
+Dealt to YL_ML_GL_42 [5h 2s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+EB99 raises 8000 to 16000
+Greenmood folds
+Knut Gunborg folds
+daniviev folds
+Troll3600 calls 8000
+*** FLOP *** [Qc 2d Js]
+Troll3600 checks
+EB99 bets 21000
+Troll3600 calls 10924 and is all-in
+*** TURN *** [Qc 2d Js][3h]
+*** RIVER *** [Qc 2d Js 3h][3s]
+*** SHOW DOWN ***
+Troll3600 shows [Kd 5d] (One pair : 3)
+EB99 shows [6h 6c] (Two pairs : 6 and 3)
+EB99 collected 73924 from pot
+*** SUMMARY ***
+Total pot 73924 | No rake
+Board: [Qc 2d Js 3h 3s]
+Seat 4: Troll3600 (big blind) showed [Kd 5d] and lost with One pair : 3
+Seat 6: EB99 showed [6h 6c] and won 73924 with Two pairs : 6 and 3
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 22 - HandId: #2543166301942054916-134-1668801060 - Holdem no limit (1000/4000/8000) - 2022/11/18 19:51:00 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #3 is the button
+Seat 1: Greenmood (102921, 9.67€ bounty)
+Seat 2: Knut Gunborg (183300, 2.25€ bounty)
+Seat 3: daniviev (162586, 3.37€ bounty)
+Seat 5: YL_ML_GL_42 (203351, 10.37€ bounty)
+Seat 6: EB99 (193348, 6.45€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 1000
+Greenmood posts ante 1000
+Knut Gunborg posts ante 1000
+daniviev posts ante 1000
+EB99 posts ante 1000
+YL_ML_GL_42 posts big blind 8000
+Dealt to YL_ML_GL_42 [Th 3h]
+*** PRE-FLOP *** 
+EB99 raises 8000 to 16000
+Greenmood calls 16000
+Knut Gunborg folds
+daniviev folds
+YL_ML_GL_42 calls 8000
+*** FLOP *** [9c 2d 6s]
+YL_ML_GL_42 checks
+EB99 checks
+Greenmood checks
+*** TURN *** [9c 2d 6s][8d]
+YL_ML_GL_42 checks
+EB99 checks
+Greenmood bets 8000
+YL_ML_GL_42 folds
+EB99 calls 8000
+*** RIVER *** [9c 2d 6s 8d][4d]
+EB99 checks
+Greenmood checks
+*** SHOW DOWN ***
+EB99 shows [3s Ah] (High card : Ace)
+Greenmood shows [8c Ac] (One pair : 8)
+Greenmood collected 69000 from pot
+*** SUMMARY ***
+Total pot 69000 | No rake
+Board: [9c 2d 6s 8d 4d]
+Seat 1: Greenmood showed [8c Ac] and won 69000 with One pair : 8
+Seat 6: EB99 showed [3s Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 22 - HandId: #2543166301942054916-135-1668801109 - Holdem no limit (1000/4000/8000) - 2022/11/18 19:51:49 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #4 is the button
+Seat 1: Greenmood (146921, 9.67€ bounty)
+Seat 2: Knut Gunborg (182300, 2.25€ bounty)
+Seat 3: daniviev (161586, 3.37€ bounty)
+Seat 4: MAGNUMFINE (153056, 11.21€ bounty)
+Seat 5: YL_ML_GL_42 (186351, 10.37€ bounty)
+Seat 6: EB99 (168348, 6.45€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 1000
+EB99 posts ante 1000
+Greenmood posts ante 1000
+Knut Gunborg posts ante 1000
+daniviev posts ante 1000
+YL_ML_GL_42 posts small blind 4000
+EB99 posts big blind 8000
+Dealt to YL_ML_GL_42 [4c 8h]
+*** PRE-FLOP *** 
+Greenmood folds
+Knut Gunborg folds
+daniviev raises 8000 to 16000
+YL_ML_GL_42 folds
+EB99 calls 8000
+*** FLOP *** [4d 5s 5h]
+EB99 checks
+daniviev bets 25010
+EB99 folds
+daniviev collected 66010 from pot
+*** SUMMARY ***
+Total pot 66010 | No rake
+Board: [4d 5s 5h]
+Seat 3: daniviev won 66010
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 23 - HandId: #2543166301942054916-136-1668801145 - Holdem no limit (1200/5000/10000) - 2022/11/18 19:52:25 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #5 is the button
+Seat 1: Greenmood (145921, 9.67€ bounty)
+Seat 2: Knut Gunborg (181300, 2.25€ bounty)
+Seat 3: daniviev (185586, 3.37€ bounty)
+Seat 4: MAGNUMFINE (153056, 11.21€ bounty)
+Seat 5: YL_ML_GL_42 (181351, 10.37€ bounty)
+Seat 6: EB99 (151348, 6.45€ bounty)
+*** ANTE/BLINDS ***
+EB99 posts ante 1200
+Greenmood posts ante 1200
+Knut Gunborg posts ante 1200
+daniviev posts ante 1200
+MAGNUMFINE posts ante 1200
+YL_ML_GL_42 posts ante 1200
+EB99 posts small blind 5000
+Greenmood posts big blind 10000
+Dealt to YL_ML_GL_42 [4c 5h]
+*** PRE-FLOP *** 
+Knut Gunborg folds
+daniviev folds
+MAGNUMFINE calls 10000
+YL_ML_GL_42 folds
+EB99 folds
+Greenmood checks
+*** FLOP *** [Jc 6h 8s]
+Greenmood checks
+MAGNUMFINE bets 11270
+Greenmood folds
+MAGNUMFINE collected 43470 from pot
+*** SUMMARY ***
+Total pot 43470 | No rake
+Board: [Jc 6h 8s]
+Seat 4: MAGNUMFINE won 43470
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 23 - HandId: #2543166301942054916-137-1668801169 - Holdem no limit (1200/5000/10000) - 2022/11/18 19:52:49 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #6 is the button
+Seat 1: Greenmood (134721, 9.67€ bounty)
+Seat 2: Knut Gunborg (180100, 2.25€ bounty)
+Seat 3: daniviev (184386, 3.37€ bounty)
+Seat 4: MAGNUMFINE (174056, 11.21€ bounty)
+Seat 5: YL_ML_GL_42 (180151, 10.37€ bounty)
+Seat 6: EB99 (145148, 6.45€ bounty)
+*** ANTE/BLINDS ***
+Greenmood posts ante 1200
+Knut Gunborg posts ante 1200
+daniviev posts ante 1200
+MAGNUMFINE posts ante 1200
+YL_ML_GL_42 posts ante 1200
+EB99 posts ante 1200
+Greenmood posts small blind 5000
+Knut Gunborg posts big blind 10000
+Dealt to YL_ML_GL_42 [8c 7h]
+*** PRE-FLOP *** 
+daniviev folds
+MAGNUMFINE folds
+YL_ML_GL_42 folds
+EB99 raises 12500 to 22500
+Greenmood folds
+Knut Gunborg folds
+EB99 collected 44700 from pot
+*** SUMMARY ***
+Total pot 44700 | No rake
+Seat 6: EB99 (button) won 44700
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 23 - HandId: #2543166301942054916-138-1668801189 - Holdem no limit (1200/5000/10000) - 2022/11/18 19:53:09 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #1 is the button
+Seat 1: Greenmood (128521, 9.67€ bounty)
+Seat 2: Knut Gunborg (168900, 2.25€ bounty)
+Seat 3: daniviev (183186, 3.37€ bounty)
+Seat 4: MAGNUMFINE (172856, 11.21€ bounty)
+Seat 5: YL_ML_GL_42 (178951, 10.37€ bounty)
+Seat 6: EB99 (166148, 6.45€ bounty)
+*** ANTE/BLINDS ***
+Knut Gunborg posts ante 1200
+daniviev posts ante 1200
+Greenmood posts ante 1200
+MAGNUMFINE posts ante 1200
+YL_ML_GL_42 posts ante 1200
+EB99 posts ante 1200
+Knut Gunborg posts small blind 5000
+daniviev posts big blind 10000
+Dealt to YL_ML_GL_42 [Td 5h]
+*** PRE-FLOP *** 
+MAGNUMFINE folds
+YL_ML_GL_42 folds
+EB99 folds
+Greenmood raises 10000 to 20000
+Knut Gunborg folds
+daniviev folds
+Greenmood collected 42200 from pot
+*** SUMMARY ***
+Total pot 42200 | No rake
+Seat 1: Greenmood (button) won 42200
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 23 - HandId: #2543166301942054916-139-1668801215 - Holdem no limit (1200/5000/10000) - 2022/11/18 19:53:35 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #2 is the button
+Seat 1: Greenmood (149521, 9.67€ bounty)
+Seat 2: Knut Gunborg (162700, 2.25€ bounty)
+Seat 3: daniviev (171986, 3.37€ bounty)
+Seat 4: MAGNUMFINE (171656, 11.21€ bounty)
+Seat 5: YL_ML_GL_42 (177751, 10.37€ bounty)
+Seat 6: EB99 (164948, 6.45€ bounty)
+*** ANTE/BLINDS ***
+daniviev posts ante 1200
+MAGNUMFINE posts ante 1200
+Greenmood posts ante 1200
+Knut Gunborg posts ante 1200
+YL_ML_GL_42 posts ante 1200
+EB99 posts ante 1200
+daniviev posts small blind 5000
+MAGNUMFINE posts big blind 10000
+Dealt to YL_ML_GL_42 [6d 4d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+EB99 raises 15000 to 25000
+Greenmood folds
+Knut Gunborg folds
+daniviev folds
+MAGNUMFINE folds
+EB99 collected 47200 from pot
+*** SUMMARY ***
+Total pot 47200 | No rake
+Seat 6: EB99 won 47200
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 23 - HandId: #2543166301942054916-140-1668801234 - Holdem no limit (1200/5000/10000) - 2022/11/18 19:53:54 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #3 is the button
+Seat 1: Greenmood (148321, 9.67€ bounty)
+Seat 2: Knut Gunborg (161500, 2.25€ bounty)
+Seat 3: daniviev (165786, 3.37€ bounty)
+Seat 4: MAGNUMFINE (160456, 11.21€ bounty)
+Seat 5: YL_ML_GL_42 (176551, 10.37€ bounty)
+Seat 6: EB99 (185948, 6.45€ bounty)
+*** ANTE/BLINDS ***
+MAGNUMFINE posts ante 1200
+YL_ML_GL_42 posts ante 1200
+Greenmood posts ante 1200
+Knut Gunborg posts ante 1200
+daniviev posts ante 1200
+EB99 posts ante 1200
+MAGNUMFINE posts small blind 5000
+YL_ML_GL_42 posts big blind 10000
+Dealt to YL_ML_GL_42 [7s 8c]
+*** PRE-FLOP *** 
+EB99 folds
+Greenmood raises 10000 to 20000
+Knut Gunborg folds
+daniviev folds
+MAGNUMFINE folds
+YL_ML_GL_42 folds
+Greenmood collected 42200 from pot
+*** SUMMARY ***
+Total pot 42200 | No rake
+Seat 1: Greenmood won 42200
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 23 - HandId: #2543166301942054916-141-1668801255 - Holdem no limit (1200/5000/10000) - 2022/11/18 19:54:15 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #4 is the button
+Seat 1: Greenmood (169321, 9.67€ bounty)
+Seat 2: Knut Gunborg (160300, 2.25€ bounty)
+Seat 3: daniviev (164586, 3.37€ bounty)
+Seat 4: MAGNUMFINE (154256, 11.21€ bounty)
+Seat 5: YL_ML_GL_42 (165351, 10.37€ bounty)
+Seat 6: EB99 (184748, 6.45€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 1200
+EB99 posts ante 1200
+Greenmood posts ante 1200
+Knut Gunborg posts ante 1200
+daniviev posts ante 1200
+MAGNUMFINE posts ante 1200
+YL_ML_GL_42 posts small blind 5000
+EB99 posts big blind 10000
+Dealt to YL_ML_GL_42 [8s 7d]
+*** PRE-FLOP *** 
+Greenmood folds
+Knut Gunborg raises 149100 to 159100 and is all-in
+daniviev folds
+MAGNUMFINE folds
+YL_ML_GL_42 folds
+EB99 folds
+Knut Gunborg collected 181300 from pot
+*** SUMMARY ***
+Total pot 181300 | No rake
+Seat 2: Knut Gunborg won 181300
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 23 - HandId: #2543166301942054916-142-1668801278 - Holdem no limit (1200/5000/10000) - 2022/11/18 19:54:38 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #5 is the button
+Seat 1: Greenmood (168121, 9.67€ bounty)
+Seat 2: Knut Gunborg (181300, 2.25€ bounty)
+Seat 3: daniviev (163386, 3.37€ bounty)
+Seat 4: MAGNUMFINE (153056, 11.21€ bounty)
+Seat 5: YL_ML_GL_42 (159151, 10.37€ bounty)
+Seat 6: EB99 (173548, 6.45€ bounty)
+*** ANTE/BLINDS ***
+EB99 posts ante 1200
+Greenmood posts ante 1200
+Knut Gunborg posts ante 1200
+daniviev posts ante 1200
+MAGNUMFINE posts ante 1200
+YL_ML_GL_42 posts ante 1200
+EB99 posts small blind 5000
+Greenmood posts big blind 10000
+Dealt to YL_ML_GL_42 [7h 2d]
+*** PRE-FLOP *** 
+Knut Gunborg folds
+daniviev folds
+MAGNUMFINE raises 10000 to 20000
+YL_ML_GL_42 folds
+EB99 folds
+Greenmood calls 10000
+*** FLOP *** [4c Td 7d]
+Greenmood checks
+MAGNUMFINE bets 18270
+Greenmood calls 18270
+*** TURN *** [4c Td 7d][As]
+Greenmood checks
+MAGNUMFINE checks
+*** RIVER *** [4c Td 7d As][Ac]
+Greenmood bets 10000
+MAGNUMFINE calls 10000
+*** SHOW DOWN ***
+MAGNUMFINE shows [3s 3d] (Two pairs : Aces and 3)
+Greenmood shows [Qh Tc] (Two pairs : Aces and Tens)
+Greenmood collected 108740 from pot
+*** SUMMARY ***
+Total pot 108740 | No rake
+Board: [4c Td 7d As Ac]
+Seat 1: Greenmood (big blind) showed [Qh Tc] and won 108740 with Two pairs : Aces and Tens
+Seat 4: MAGNUMFINE showed [3s 3d] and lost with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 23 - HandId: #2543166301942054916-143-1668801662 - Holdem no limit (1200/5000/10000) - 2022/11/18 20:01:02 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #6 is the button
+Seat 1: Greenmood (227391, 9.67€ bounty)
+Seat 2: Knut Gunborg (180100, 2.25€ bounty)
+Seat 3: daniviev (162186, 3.37€ bounty)
+Seat 4: MAGNUMFINE (103586, 11.21€ bounty)
+Seat 5: YL_ML_GL_42 (157951, 10.37€ bounty)
+Seat 6: EB99 (167348, 6.45€ bounty)
+*** ANTE/BLINDS ***
+Greenmood posts ante 1200
+Knut Gunborg posts ante 1200
+daniviev posts ante 1200
+MAGNUMFINE posts ante 1200
+YL_ML_GL_42 posts ante 1200
+EB99 posts ante 1200
+Greenmood posts small blind 5000
+Knut Gunborg posts big blind 10000
+Dealt to YL_ML_GL_42 [8h Qd]
+*** PRE-FLOP *** 
+daniviev folds
+MAGNUMFINE folds
+YL_ML_GL_42 folds
+EB99 raises 156148 to 166148 and is all-in
+Greenmood folds
+Knut Gunborg folds
+EB99 collected 188348 from pot
+*** SUMMARY ***
+Total pot 188348 | No rake
+Seat 6: EB99 (button) won 188348
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 23 - HandId: #2543166301942054916-144-1668801698 - Holdem no limit (1200/5000/10000) - 2022/11/18 20:01:38 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #1 is the button
+Seat 1: Greenmood (221191, 9.67€ bounty)
+Seat 2: Knut Gunborg (168900, 2.25€ bounty)
+Seat 3: daniviev (160986, 3.37€ bounty)
+Seat 4: MAGNUMFINE (102386, 11.21€ bounty)
+Seat 5: YL_ML_GL_42 (156751, 10.37€ bounty)
+Seat 6: EB99 (188348, 6.45€ bounty)
+*** ANTE/BLINDS ***
+Knut Gunborg posts ante 1200
+daniviev posts ante 1200
+Greenmood posts ante 1200
+MAGNUMFINE posts ante 1200
+YL_ML_GL_42 posts ante 1200
+EB99 posts ante 1200
+Knut Gunborg posts small blind 5000
+daniviev posts big blind 10000
+Dealt to YL_ML_GL_42 [6s 5h]
+*** PRE-FLOP *** 
+MAGNUMFINE raises 91186 to 101186 and is all-in
+YL_ML_GL_42 folds
+EB99 folds
+Greenmood folds
+Knut Gunborg folds
+daniviev folds
+MAGNUMFINE collected 123386 from pot
+*** SUMMARY ***
+Total pot 123386 | No rake
+Seat 4: MAGNUMFINE won 123386
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 23 - HandId: #2543166301942054916-145-1668801720 - Holdem no limit (1200/5000/10000) - 2022/11/18 20:02:00 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #2 is the button
+Seat 1: Greenmood (219991, 9.67€ bounty)
+Seat 2: Knut Gunborg (162700, 2.25€ bounty)
+Seat 3: daniviev (149786, 3.37€ bounty)
+Seat 4: MAGNUMFINE (123386, 11.21€ bounty)
+Seat 5: YL_ML_GL_42 (155551, 10.37€ bounty)
+Seat 6: EB99 (187148, 6.45€ bounty)
+*** ANTE/BLINDS ***
+daniviev posts ante 1200
+MAGNUMFINE posts ante 1200
+Greenmood posts ante 1200
+Knut Gunborg posts ante 1200
+YL_ML_GL_42 posts ante 1200
+EB99 posts ante 1200
+daniviev posts small blind 5000
+MAGNUMFINE posts big blind 10000
+Dealt to YL_ML_GL_42 [3d 8h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+EB99 folds
+Greenmood folds
+Knut Gunborg raises 151500 to 161500 and is all-in
+daniviev folds
+MAGNUMFINE folds
+Knut Gunborg collected 183700 from pot
+*** SUMMARY ***
+Total pot 183700 | No rake
+Seat 2: Knut Gunborg (button) won 183700
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 23 - HandId: #2543166301942054916-146-1668801776 - Holdem no limit (1200/5000/10000) - 2022/11/18 20:02:56 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #3 is the button
+Seat 1: Greenmood (218791, 9.67€ bounty)
+Seat 2: Knut Gunborg (183700, 2.25€ bounty)
+Seat 3: daniviev (143586, 3.37€ bounty)
+Seat 4: MAGNUMFINE (112186, 11.21€ bounty)
+Seat 5: YL_ML_GL_42 (154351, 10.37€ bounty)
+Seat 6: EB99 (185948, 6.45€ bounty)
+*** ANTE/BLINDS ***
+MAGNUMFINE posts ante 1200
+YL_ML_GL_42 posts ante 1200
+Greenmood posts ante 1200
+Knut Gunborg posts ante 1200
+daniviev posts ante 1200
+EB99 posts ante 1200
+MAGNUMFINE posts small blind 5000
+YL_ML_GL_42 posts big blind 10000
+Dealt to YL_ML_GL_42 [4d 9d]
+*** PRE-FLOP *** 
+EB99 folds
+Greenmood folds
+Knut Gunborg folds
+daniviev folds
+MAGNUMFINE raises 100986 to 110986 and is all-in
+YL_ML_GL_42 folds
+MAGNUMFINE collected 128186 from pot
+*** SUMMARY ***
+Total pot 128186 | No rake
+Seat 4: MAGNUMFINE (small blind) won 128186
+
+
+Winamax Poker - Tournament "GUERILLA" buyIn: 4.50€ + 0.50€ level: 23 - HandId: #2543166301942054916-147-1668801794 - Holdem no limit (1200/5000/10000) - 2022/11/18 20:03:14 UTC
+Table: 'GUERILLA(592127047)#003' 6-max (real money) Seat #4 is the button
+Seat 1: Greenmood (217591, 9.67€ bounty)
+Seat 2: Knut Gunborg (182500, 2.25€ bounty)
+Seat 3: daniviev (142386, 3.37€ bounty)
+Seat 4: MAGNUMFINE (128186, 11.21€ bounty)
+Seat 5: YL_ML_GL_42 (143151, 10.37€ bounty)
+Seat 6: EB99 (184748, 6.45€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 1200
+EB99 posts ante 1200
+Greenmood posts ante 1200
+Knut Gunborg posts ante 1200
+daniviev posts ante 1200
+MAGNUMFINE posts ante 1200
+YL_ML_GL_42 posts small blind 5000
+EB99 posts big blind 10000
+Dealt to YL_ML_GL_42 [As Kh]
+*** PRE-FLOP *** 
+Greenmood folds
+Knut Gunborg folds
+daniviev folds
+MAGNUMFINE folds
+YL_ML_GL_42 raises 15000 to 25000
+EB99 raises 50000 to 75000
+YL_ML_GL_42 raises 66951 to 141951 and is all-in
+EB99 calls 66951
+*** FLOP *** [5c 6c 7h]
+*** TURN *** [5c 6c 7h][8s]
+*** RIVER *** [5c 6c 7h 8s][8c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [As Kh] (One pair : 8)
+EB99 shows [Kc Ac] (Flush Ace high)
+EB99 collected 291102 from pot
+*** SUMMARY ***
+Total pot 291102 | No rake
+Board: [5c 6c 7h 8s 8c]
+Seat 5: YL_ML_GL_42 (small blind) showed [As Kh] and lost with One pair : 8
+Seat 6: EB99 (big blind) showed [Kc Ac] and won 291102 with Flush Ace high
+
+

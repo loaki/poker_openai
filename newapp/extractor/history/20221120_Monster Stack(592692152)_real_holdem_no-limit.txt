@@ -1,0 +1,1161 @@
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2545593409435861010-68-1668978865 - Holdem no limit (250/1000/2000) - 2022/11/20 21:14:25 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #4 is the button
+Seat 1: TH0M4SSHELBY (50878)
+Seat 2: Zautillo5 (84650)
+Seat 3: YL_ML_GL_42 (100000)
+Seat 4: 19surprise57 (77645)
+Seat 5: Pircasse (282038)
+Seat 6: AGQS (119970)
+*** ANTE/BLINDS ***
+Pircasse posts ante 250
+AGQS posts ante 250
+TH0M4SSHELBY posts ante 250
+Zautillo5 posts ante 250
+YL_ML_GL_42 posts ante 250
+19surprise57 posts ante 250
+Pircasse posts small blind 1000
+AGQS posts big blind 2000
+Dealt to YL_ML_GL_42 [Ah 8h]
+*** PRE-FLOP *** 
+TH0M4SSHELBY folds
+Zautillo5 folds
+YL_ML_GL_42 raises 6500 to 8500
+19surprise57 folds
+Pircasse folds
+AGQS folds
+YL_ML_GL_42 collected 13000 from pot
+*** SUMMARY ***
+Total pot 13000 | No rake
+Seat 3: YL_ML_GL_42 won 13000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2545593409435861010-69-1668978883 - Holdem no limit (250/1000/2000) - 2022/11/20 21:14:43 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #5 is the button
+Seat 1: TH0M4SSHELBY (50628)
+Seat 2: Zautillo5 (84400)
+Seat 3: YL_ML_GL_42 (104250)
+Seat 4: 19surprise57 (77395)
+Seat 5: Pircasse (280788)
+Seat 6: AGQS (117720)
+*** ANTE/BLINDS ***
+AGQS posts ante 250
+TH0M4SSHELBY posts ante 250
+Zautillo5 posts ante 250
+YL_ML_GL_42 posts ante 250
+19surprise57 posts ante 250
+Pircasse posts ante 250
+AGQS posts small blind 1000
+TH0M4SSHELBY posts big blind 2000
+Dealt to YL_ML_GL_42 [2d 5s]
+*** PRE-FLOP *** 
+Zautillo5 folds
+YL_ML_GL_42 folds
+19surprise57 folds
+Pircasse folds
+AGQS calls 1000
+TH0M4SSHELBY checks
+*** FLOP *** [6d 4h Qc]
+AGQS checks
+TH0M4SSHELBY checks
+*** TURN *** [6d 4h Qc][Ac]
+AGQS checks
+TH0M4SSHELBY checks
+*** RIVER *** [6d 4h Qc Ac][Td]
+AGQS checks
+TH0M4SSHELBY bets 3000
+AGQS folds
+TH0M4SSHELBY collected 8500 from pot
+*** SUMMARY ***
+Total pot 8500 | No rake
+Board: [6d 4h Qc Ac Td]
+Seat 1: TH0M4SSHELBY (big blind) won 8500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2545593409435861010-70-1668978921 - Holdem no limit (250/1000/2000) - 2022/11/20 21:15:21 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #6 is the button
+Seat 1: TH0M4SSHELBY (53878)
+Seat 2: Zautillo5 (84150)
+Seat 3: YL_ML_GL_42 (104000)
+Seat 4: 19surprise57 (77145)
+Seat 5: Pircasse (280538)
+Seat 6: AGQS (115470)
+*** ANTE/BLINDS ***
+TH0M4SSHELBY posts ante 250
+Zautillo5 posts ante 250
+YL_ML_GL_42 posts ante 250
+19surprise57 posts ante 250
+Pircasse posts ante 250
+AGQS posts ante 250
+TH0M4SSHELBY posts small blind 1000
+Zautillo5 posts big blind 2000
+Dealt to YL_ML_GL_42 [3d Jh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+19surprise57 calls 2000
+Pircasse raises 6000 to 8000
+AGQS folds
+TH0M4SSHELBY folds
+Zautillo5 calls 6000
+19surprise57 folds
+*** FLOP *** [6c Ts 5d]
+Zautillo5 checks
+Pircasse checks
+*** TURN *** [6c Ts 5d][3h]
+Zautillo5 checks
+Pircasse checks
+*** RIVER *** [6c Ts 5d 3h][Kd]
+Zautillo5 checks
+Pircasse checks
+*** SHOW DOWN ***
+Pircasse shows [8d 8c] (One pair : 8)
+Zautillo5 shows [Ah Tc] (One pair : Tens)
+Zautillo5 collected 20500 from pot
+*** SUMMARY ***
+Total pot 20500 | No rake
+Board: [6c Ts 5d 3h Kd]
+Seat 2: Zautillo5 (big blind) showed [Ah Tc] and won 20500 with One pair : Tens
+Seat 5: Pircasse showed [8d 8c] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2545593409435861010-71-1668978985 - Holdem no limit (250/1000/2000) - 2022/11/20 21:16:25 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #1 is the button
+Seat 1: TH0M4SSHELBY (52628)
+Seat 2: Zautillo5 (96400)
+Seat 3: YL_ML_GL_42 (103750)
+Seat 4: 19surprise57 (74895)
+Seat 5: Pircasse (272288)
+Seat 6: AGQS (115220)
+*** ANTE/BLINDS ***
+Zautillo5 posts ante 250
+YL_ML_GL_42 posts ante 250
+TH0M4SSHELBY posts ante 250
+19surprise57 posts ante 250
+Pircasse posts ante 250
+AGQS posts ante 250
+Zautillo5 posts small blind 1000
+YL_ML_GL_42 posts big blind 2000
+Dealt to YL_ML_GL_42 [7d 6s]
+*** PRE-FLOP *** 
+19surprise57 folds
+Pircasse folds
+AGQS folds
+TH0M4SSHELBY folds
+Zautillo5 calls 1000
+YL_ML_GL_42 checks
+*** FLOP *** [9c 8s 6h]
+Zautillo5 checks
+YL_ML_GL_42 bets 5500
+Zautillo5 calls 5500
+*** TURN *** [9c 8s 6h][5d]
+Zautillo5 checks
+YL_ML_GL_42 bets 5775
+Zautillo5 calls 5775
+*** RIVER *** [9c 8s 6h 5d][Ks]
+Zautillo5 bets 18233
+YL_ML_GL_42 raises 23142 to 41375
+Zautillo5 folds
+YL_ML_GL_42 collected 87658 from pot
+*** SUMMARY ***
+Total pot 87658 | No rake
+Board: [9c 8s 6h 5d Ks]
+Seat 3: YL_ML_GL_42 (big blind) won 87658
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2545593409435861010-72-1668979050 - Holdem no limit (250/1000/2000) - 2022/11/20 21:17:30 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #2 is the button
+Seat 1: TH0M4SSHELBY (52378)
+Seat 2: Zautillo5 (64642)
+Seat 3: YL_ML_GL_42 (136508)
+Seat 4: 19surprise57 (74645)
+Seat 6: AGQS (114970)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 250
+19surprise57 posts ante 250
+TH0M4SSHELBY posts ante 250
+Zautillo5 posts ante 250
+AGQS posts ante 250
+YL_ML_GL_42 posts small blind 1000
+19surprise57 posts big blind 2000
+Dealt to YL_ML_GL_42 [3h 7s]
+*** PRE-FLOP *** 
+AGQS folds
+TH0M4SSHELBY folds
+Zautillo5 folds
+YL_ML_GL_42 folds
+19surprise57 collected 4250 from pot
+*** SUMMARY ***
+Total pot 4250 | No rake
+Seat 4: 19surprise57 (big blind) won 4250
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2545593409435861010-73-1668979064 - Holdem no limit (250/1000/2000) - 2022/11/20 21:17:44 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #3 is the button
+Seat 1: TH0M4SSHELBY (52128)
+Seat 2: Zautillo5 (64392)
+Seat 3: YL_ML_GL_42 (135258)
+Seat 4: 19surprise57 (76645)
+Seat 6: AGQS (114720)
+*** ANTE/BLINDS ***
+19surprise57 posts ante 250
+AGQS posts ante 250
+TH0M4SSHELBY posts ante 250
+Zautillo5 posts ante 250
+YL_ML_GL_42 posts ante 250
+19surprise57 posts small blind 1000
+AGQS posts big blind 2000
+Dealt to YL_ML_GL_42 [Ks 3s]
+*** PRE-FLOP *** 
+TH0M4SSHELBY folds
+Zautillo5 raises 62142 to 64142 and is all-in
+YL_ML_GL_42 folds
+19surprise57 folds
+AGQS folds
+Zautillo5 collected 68392 from pot
+*** SUMMARY ***
+Total pot 68392 | No rake
+Seat 2: Zautillo5 won 68392
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2545593409435861010-74-1668979080 - Holdem no limit (250/1000/2000) - 2022/11/20 21:18:00 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #4 is the button
+Seat 1: TH0M4SSHELBY (51878)
+Seat 2: Zautillo5 (68392)
+Seat 3: YL_ML_GL_42 (135008)
+Seat 4: 19surprise57 (75395)
+Seat 6: AGQS (112470)
+*** ANTE/BLINDS ***
+AGQS posts ante 250
+TH0M4SSHELBY posts ante 250
+Zautillo5 posts ante 250
+YL_ML_GL_42 posts ante 250
+19surprise57 posts ante 250
+AGQS posts small blind 1000
+TH0M4SSHELBY posts big blind 2000
+Dealt to YL_ML_GL_42 [Jh 2c]
+*** PRE-FLOP *** 
+Zautillo5 raises 66142 to 68142 and is all-in
+YL_ML_GL_42 folds
+19surprise57 folds
+AGQS folds
+TH0M4SSHELBY calls 49628 and is all-in
+*** FLOP *** [Js 8s Th]
+*** TURN *** [Js 8s Th][Tc]
+*** RIVER *** [Js 8s Th Tc][7h]
+*** SHOW DOWN ***
+TH0M4SSHELBY shows [6c 6d] (Two pairs : Tens and 6)
+Zautillo5 shows [Jd Ad] (Two pairs : Jacks and Tens)
+Zautillo5 collected 122020 from pot
+*** SUMMARY ***
+Total pot 122020 | No rake
+Board: [Js 8s Th Tc 7h]
+Seat 1: TH0M4SSHELBY (big blind) showed [6c 6d] and lost with Two pairs : Tens and 6
+Seat 2: Zautillo5 showed [Jd Ad] and won 122020 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2545593409435861010-75-1668979101 - Holdem no limit (300/1250/2500) - 2022/11/20 21:18:21 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #6 is the button
+Seat 1: BoubouWx (157096)
+Seat 2: Zautillo5 (122020)
+Seat 3: YL_ML_GL_42 (134758)
+Seat 4: 19surprise57 (75145)
+Seat 6: AGQS (111220)
+*** ANTE/BLINDS ***
+Zautillo5 posts ante 300
+YL_ML_GL_42 posts ante 300
+19surprise57 posts ante 300
+AGQS posts ante 300
+Zautillo5 posts big blind 2500
+Dealt to YL_ML_GL_42 [5h 9d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+19surprise57 raises 2500 to 5000
+AGQS folds
+Zautillo5 calls 2500
+*** FLOP *** [5d 3c 7s]
+Zautillo5 checks
+19surprise57 bets 5000
+Zautillo5 calls 5000
+*** TURN *** [5d 3c 7s][9s]
+Zautillo5 checks
+19surprise57 checks
+*** RIVER *** [5d 3c 7s 9s][8h]
+Zautillo5 checks
+19surprise57 checks
+*** SHOW DOWN ***
+Zautillo5 shows [Kd Jh] (High card : King)
+19surprise57 shows [Kc 8c] (One pair : 8)
+19surprise57 collected 21200 from pot
+*** SUMMARY ***
+Total pot 21200 | No rake
+Board: [5d 3c 7s 9s 8h]
+Seat 2: Zautillo5 (big blind) showed [Kd Jh] and lost with High card : King
+Seat 4: 19surprise57 showed [Kc 8c] and won 21200 with One pair : 8
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2545593409435861010-76-1668979136 - Holdem no limit (300/1250/2500) - 2022/11/20 21:18:56 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #1 is the button
+Seat 1: BoubouWx (157096)
+Seat 2: Zautillo5 (111720)
+Seat 3: YL_ML_GL_42 (134458)
+Seat 4: 19surprise57 (86045)
+Seat 6: AGQS (110920)
+*** ANTE/BLINDS ***
+Zautillo5 posts ante 300
+YL_ML_GL_42 posts ante 300
+19surprise57 posts ante 300
+AGQS posts ante 300
+Zautillo5 posts small blind 1250
+YL_ML_GL_42 posts big blind 2500
+Dealt to YL_ML_GL_42 [Th 6h]
+*** PRE-FLOP *** 
+19surprise57 raises 3750 to 6250
+AGQS calls 6250
+Zautillo5 folds
+YL_ML_GL_42 calls 3750
+*** FLOP *** [9h 7h 8d]
+YL_ML_GL_42 checks
+19surprise57 checks
+AGQS checks
+*** TURN *** [9h 7h 8d][4h]
+YL_ML_GL_42 bets 7420
+19surprise57 folds
+AGQS calls 7420
+*** RIVER *** [9h 7h 8d 4h][6c]
+YL_ML_GL_42 checks
+AGQS checks
+*** SHOW DOWN ***
+AGQS shows [Qd Ah] (High card : Ace)
+YL_ML_GL_42 shows [Th 6h] (Flush Ten high)
+YL_ML_GL_42 collected 36040 from pot
+*** SUMMARY ***
+Total pot 36040 | No rake
+Board: [9h 7h 8d 4h 6c]
+Seat 3: YL_ML_GL_42 (big blind) showed [Th 6h] and won 36040 with Flush Ten high
+Seat 6: AGQS showed [Qd Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2545593409435861010-77-1668979196 - Holdem no limit (300/1250/2500) - 2022/11/20 21:19:56 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #2 is the button
+Seat 1: BoubouWx (157096)
+Seat 2: Zautillo5 (110170)
+Seat 3: YL_ML_GL_42 (156528)
+Seat 4: 19surprise57 (79495)
+Seat 6: AGQS (96950)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 300
+19surprise57 posts ante 300
+BoubouWx posts ante 300
+Zautillo5 posts ante 300
+AGQS posts ante 300
+YL_ML_GL_42 posts small blind 1250
+19surprise57 posts big blind 2500
+Dealt to YL_ML_GL_42 [9c 5c]
+*** PRE-FLOP *** 
+AGQS folds
+BoubouWx raises 2750 to 5250
+Zautillo5 folds
+YL_ML_GL_42 calls 4000
+19surprise57 calls 2750
+*** FLOP *** [Kh Qd 7c]
+YL_ML_GL_42 checks
+19surprise57 checks
+BoubouWx checks
+*** TURN *** [Kh Qd 7c][Js]
+YL_ML_GL_42 checks
+19surprise57 checks
+BoubouWx checks
+*** RIVER *** [Kh Qd 7c Js][4h]
+YL_ML_GL_42 checks
+19surprise57 checks
+BoubouWx checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9c 5c] (High card : King)
+19surprise57 shows [8c 9d] (High card : King)
+BoubouWx shows [Ad 6d] (High card : Ace)
+BoubouWx collected 17250 from pot
+*** SUMMARY ***
+Total pot 17250 | No rake
+Board: [Kh Qd 7c Js 4h]
+Seat 1: BoubouWx showed [Ad 6d] and won 17250 with High card : Ace
+Seat 3: YL_ML_GL_42 (small blind) showed [9c 5c] and lost with High card : King
+Seat 4: 19surprise57 (big blind) showed [8c 9d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2545593409435861010-78-1668979244 - Holdem no limit (300/1250/2500) - 2022/11/20 21:20:44 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #3 is the button
+Seat 1: BoubouWx (168796)
+Seat 2: Zautillo5 (109870)
+Seat 3: YL_ML_GL_42 (150978)
+Seat 4: 19surprise57 (73945)
+Seat 6: AGQS (96650)
+*** ANTE/BLINDS ***
+19surprise57 posts ante 300
+AGQS posts ante 300
+BoubouWx posts ante 300
+Zautillo5 posts ante 300
+YL_ML_GL_42 posts ante 300
+19surprise57 posts small blind 1250
+AGQS posts big blind 2500
+Dealt to YL_ML_GL_42 [Qd 7d]
+*** PRE-FLOP *** 
+BoubouWx folds
+Zautillo5 folds
+YL_ML_GL_42 raises 5000 to 7500
+19surprise57 folds
+AGQS calls 5000
+*** FLOP *** [7c 7s 3h]
+AGQS checks
+YL_ML_GL_42 checks
+*** TURN *** [7c 7s 3h][7h]
+AGQS bets 8875
+YL_ML_GL_42 calls 8875
+*** RIVER *** [7c 7s 3h 7h][Ts]
+AGQS checks
+YL_ML_GL_42 bets 35500
+AGQS calls 35500
+*** SHOW DOWN ***
+AGQS shows [3s As] (Full of 7 and 3)
+YL_ML_GL_42 shows [Qd 7d] (Quads of 7)
+YL_ML_GL_42 collected 106500 from pot
+*** SUMMARY ***
+Total pot 106500 | No rake
+Board: [7c 7s 3h 7h Ts]
+Seat 3: YL_ML_GL_42 (button) showed [Qd 7d] and won 106500 with Quads of 7
+Seat 6: AGQS (big blind) showed [3s As] and lost with Full of 7 and 3
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2545593409435861010-79-1668979286 - Holdem no limit (300/1250/2500) - 2022/11/20 21:21:26 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #4 is the button
+Seat 1: BoubouWx (168496)
+Seat 2: Zautillo5 (109570)
+Seat 3: YL_ML_GL_42 (205303)
+Seat 4: 19surprise57 (72395)
+Seat 5: 2 Sucres Stp (100000)
+Seat 6: AGQS (44475)
+*** ANTE/BLINDS ***
+AGQS posts ante 300
+BoubouWx posts ante 300
+Zautillo5 posts ante 300
+YL_ML_GL_42 posts ante 300
+19surprise57 posts ante 300
+AGQS posts small blind 1250
+BoubouWx posts big blind 2500
+Dealt to YL_ML_GL_42 [3d Jd]
+*** PRE-FLOP *** 
+Zautillo5 folds
+YL_ML_GL_42 raises 5000 to 7500
+19surprise57 folds
+AGQS raises 36675 to 44175 and is all-in
+BoubouWx folds
+YL_ML_GL_42 folds
+AGQS collected 55675 from pot
+*** SUMMARY ***
+Total pot 55675 | No rake
+Seat 6: AGQS (small blind) won 55675
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2545593409435861010-80-1668979311 - Holdem no limit (300/1250/2500) - 2022/11/20 21:21:51 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #6 is the button
+Seat 1: BoubouWx (165696)
+Seat 2: Zautillo5 (109270)
+Seat 3: YL_ML_GL_42 (197503)
+Seat 4: 19surprise57 (72095)
+Seat 5: 2 Sucres Stp (100000)
+Seat 6: AGQS (55675)
+*** ANTE/BLINDS ***
+BoubouWx posts ante 300
+Zautillo5 posts ante 300
+YL_ML_GL_42 posts ante 300
+19surprise57 posts ante 300
+2 Sucres Stp posts ante 300
+AGQS posts ante 300
+BoubouWx posts small blind 1250
+Zautillo5 posts big blind 2500
+Dealt to YL_ML_GL_42 [4h 4s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 2500 to 5000
+19surprise57 folds
+2 Sucres Stp folds
+AGQS folds
+BoubouWx folds
+Zautillo5 calls 2500
+*** FLOP *** [Jd Kd Jc]
+Zautillo5 checks
+YL_ML_GL_42 bets 192203 and is all-in
+Zautillo5 folds
+YL_ML_GL_42 collected 205253 from pot
+*** SUMMARY ***
+Total pot 205253 | No rake
+Board: [Jd Kd Jc]
+Seat 3: YL_ML_GL_42 won 205253
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2545593409435861010-81-1668979425 - Holdem no limit (300/1250/2500) - 2022/11/20 21:23:45 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #1 is the button
+Seat 1: BoubouWx (164146)
+Seat 2: Zautillo5 (103970)
+Seat 3: YL_ML_GL_42 (205253)
+Seat 4: 19surprise57 (71795)
+Seat 5: 2 Sucres Stp (99700)
+Seat 6: AGQS (55375)
+*** ANTE/BLINDS ***
+Zautillo5 posts ante 300
+YL_ML_GL_42 posts ante 300
+BoubouWx posts ante 300
+19surprise57 posts ante 300
+2 Sucres Stp posts ante 300
+AGQS posts ante 300
+Zautillo5 posts small blind 1250
+YL_ML_GL_42 posts big blind 2500
+Dealt to YL_ML_GL_42 [7h 4d]
+*** PRE-FLOP *** 
+19surprise57 folds
+2 Sucres Stp folds
+AGQS folds
+BoubouWx folds
+Zautillo5 calls 1250
+YL_ML_GL_42 checks
+*** FLOP *** [8s Kc Ac]
+Zautillo5 checks
+YL_ML_GL_42 checks
+*** TURN *** [8s Kc Ac][Ts]
+Zautillo5 checks
+YL_ML_GL_42 checks
+*** RIVER *** [8s Kc Ac Ts][3c]
+Zautillo5 checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7h 4d] (High card : Ace)
+Zautillo5 shows [Qd Th] (One pair : Tens)
+Zautillo5 collected 6800 from pot
+*** SUMMARY ***
+Total pot 6800 | No rake
+Board: [8s Kc Ac Ts 3c]
+Seat 2: Zautillo5 (small blind) showed [Qd Th] and won 6800 with One pair : Tens
+Seat 3: YL_ML_GL_42 (big blind) showed [7h 4d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2545593409435861010-82-1668979476 - Holdem no limit (300/1250/2500) - 2022/11/20 21:24:36 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #2 is the button
+Seat 1: BoubouWx (163846)
+Seat 2: Zautillo5 (107970)
+Seat 3: YL_ML_GL_42 (202453)
+Seat 4: 19surprise57 (71495)
+Seat 5: 2 Sucres Stp (99400)
+Seat 6: AGQS (55075)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 300
+19surprise57 posts ante 300
+BoubouWx posts ante 300
+Zautillo5 posts ante 300
+2 Sucres Stp posts ante 300
+AGQS posts ante 300
+YL_ML_GL_42 posts small blind 1250
+19surprise57 posts big blind 2500
+Dealt to YL_ML_GL_42 [4c 4h]
+*** PRE-FLOP *** 
+2 Sucres Stp folds
+AGQS folds
+BoubouWx folds
+Zautillo5 folds
+YL_ML_GL_42 raises 199653 to 202153 and is all-in
+19surprise57 folds
+YL_ML_GL_42 collected 206453 from pot
+*** SUMMARY ***
+Total pot 206453 | No rake
+Seat 3: YL_ML_GL_42 (small blind) won 206453
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2545593409435861010-83-1668979501 - Holdem no limit (300/1250/2500) - 2022/11/20 21:25:01 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #3 is the button
+Seat 1: BoubouWx (163546)
+Seat 2: Zautillo5 (107670)
+Seat 3: YL_ML_GL_42 (206453)
+Seat 4: 19surprise57 (68695)
+Seat 5: 2 Sucres Stp (99100)
+Seat 6: AGQS (54775)
+*** ANTE/BLINDS ***
+19surprise57 posts ante 300
+2 Sucres Stp posts ante 300
+BoubouWx posts ante 300
+Zautillo5 posts ante 300
+YL_ML_GL_42 posts ante 300
+AGQS posts ante 300
+19surprise57 posts small blind 1250
+2 Sucres Stp posts big blind 2500
+Dealt to YL_ML_GL_42 [7h 9s]
+*** PRE-FLOP *** 
+AGQS folds
+BoubouWx raises 2750 to 5250
+Zautillo5 calls 5250
+YL_ML_GL_42 folds
+19surprise57 folds
+2 Sucres Stp folds
+*** FLOP *** [4d Qc 9c]
+BoubouWx bets 5297
+Zautillo5 calls 5297
+*** TURN *** [4d Qc 9c][8c]
+BoubouWx bets 13322
+Zautillo5 folds
+BoubouWx collected 39966 from pot
+*** SUMMARY ***
+Total pot 39966 | No rake
+Board: [4d Qc 9c 8c]
+Seat 1: BoubouWx won 39966
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2545593409435861010-84-1668979560 - Holdem no limit (300/1250/2500) - 2022/11/20 21:26:00 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #4 is the button
+Seat 1: BoubouWx (179343)
+Seat 2: Zautillo5 (96823)
+Seat 3: YL_ML_GL_42 (206153)
+Seat 4: 19surprise57 (67145)
+Seat 5: 2 Sucres Stp (96300)
+Seat 6: AGQS (54475)
+*** ANTE/BLINDS ***
+2 Sucres Stp posts ante 300
+AGQS posts ante 300
+BoubouWx posts ante 300
+Zautillo5 posts ante 300
+YL_ML_GL_42 posts ante 300
+19surprise57 posts ante 300
+2 Sucres Stp posts small blind 1250
+AGQS posts big blind 2500
+Dealt to YL_ML_GL_42 [4c Th]
+*** PRE-FLOP *** 
+BoubouWx folds
+Zautillo5 folds
+YL_ML_GL_42 folds
+19surprise57 raises 2500 to 5000
+2 Sucres Stp calls 3750
+AGQS folds
+*** FLOP *** [4d Ah 3s]
+2 Sucres Stp checks
+19surprise57 bets 5000
+2 Sucres Stp folds
+19surprise57 collected 19300 from pot
+*** SUMMARY ***
+Total pot 19300 | No rake
+Board: [4d Ah 3s]
+Seat 4: 19surprise57 (button) won 19300
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545593409435861010-85-1668979612 - Holdem no limit (350/1500/3000) - 2022/11/20 21:26:52 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #5 is the button
+Seat 1: BoubouWx (179043)
+Seat 2: Zautillo5 (96523)
+Seat 3: YL_ML_GL_42 (205853)
+Seat 4: 19surprise57 (76145)
+Seat 5: 2 Sucres Stp (91000)
+Seat 6: AGQS (51675)
+*** ANTE/BLINDS ***
+AGQS posts ante 350
+BoubouWx posts ante 350
+Zautillo5 posts ante 350
+YL_ML_GL_42 posts ante 350
+19surprise57 posts ante 350
+2 Sucres Stp posts ante 350
+AGQS posts small blind 1500
+BoubouWx posts big blind 3000
+Dealt to YL_ML_GL_42 [Jd 9h]
+*** PRE-FLOP *** 
+Zautillo5 folds
+YL_ML_GL_42 raises 6000 to 9000
+19surprise57 folds
+2 Sucres Stp folds
+AGQS folds
+BoubouWx folds
+YL_ML_GL_42 collected 15600 from pot
+*** SUMMARY ***
+Total pot 15600 | No rake
+Seat 3: YL_ML_GL_42 won 15600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545593409435861010-86-1668979651 - Holdem no limit (350/1500/3000) - 2022/11/20 21:27:31 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #6 is the button
+Seat 1: BoubouWx (175693)
+Seat 2: Zautillo5 (96173)
+Seat 3: YL_ML_GL_42 (212103)
+Seat 4: 19surprise57 (75795)
+Seat 5: 2 Sucres Stp (90650)
+Seat 6: AGQS (49825)
+*** ANTE/BLINDS ***
+BoubouWx posts ante 350
+Zautillo5 posts ante 350
+YL_ML_GL_42 posts ante 350
+19surprise57 posts ante 350
+2 Sucres Stp posts ante 350
+AGQS posts ante 350
+BoubouWx posts small blind 1500
+Zautillo5 posts big blind 3000
+Dealt to YL_ML_GL_42 [3h 6h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+19surprise57 folds
+2 Sucres Stp raises 4500 to 7500
+AGQS folds
+BoubouWx calls 6000
+Zautillo5 folds
+*** FLOP *** [Qc Th 5s]
+BoubouWx checks
+2 Sucres Stp bets 13065
+BoubouWx calls 13065
+*** TURN *** [Qc Th 5s][7s]
+BoubouWx checks
+2 Sucres Stp checks
+*** RIVER *** [Qc Th 5s 7s][4d]
+BoubouWx bets 30512
+2 Sucres Stp folds
+BoubouWx collected 76742 from pot
+*** SUMMARY ***
+Total pot 76742 | No rake
+Board: [Qc Th 5s 7s 4d]
+Seat 1: BoubouWx (small blind) won 76742
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545593409435861010-87-1668979757 - Holdem no limit (350/1500/3000) - 2022/11/20 21:29:17 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #1 is the button
+Seat 1: BoubouWx (201008)
+Seat 2: Zautillo5 (92823)
+Seat 3: YL_ML_GL_42 (211753)
+Seat 4: 19surprise57 (75445)
+Seat 5: 2 Sucres Stp (69735)
+Seat 6: AGQS (49475)
+*** ANTE/BLINDS ***
+Zautillo5 posts ante 350
+YL_ML_GL_42 posts ante 350
+BoubouWx posts ante 350
+19surprise57 posts ante 350
+2 Sucres Stp posts ante 350
+AGQS posts ante 350
+Zautillo5 posts small blind 1500
+YL_ML_GL_42 posts big blind 3000
+Dealt to YL_ML_GL_42 [9d 8d]
+*** PRE-FLOP *** 
+19surprise57 folds
+2 Sucres Stp folds
+AGQS folds
+BoubouWx folds
+Zautillo5 calls 1500
+YL_ML_GL_42 checks
+*** FLOP *** [6d 9h 3c]
+Zautillo5 checks
+YL_ML_GL_42 bets 5265
+Zautillo5 raises 20235 to 25500
+YL_ML_GL_42 raises 182903 to 208403 and is all-in
+Zautillo5 calls 63973 and is all-in
+*** TURN *** [6d 9h 3c][Qc]
+*** RIVER *** [6d 9h 3c Qc][3s]
+*** SHOW DOWN ***
+Zautillo5 shows [Qs 9c] (Two pairs : Queens and 9)
+YL_ML_GL_42 shows [9d 8d] (Two pairs : 9 and 3)
+YL_ML_GL_42 collected 118930 from side pot 1
+Zautillo5 collected 187046 from main pot
+*** SUMMARY ***
+Total pot 305976 | No rake
+Board: [6d 9h 3c Qc 3s]
+Seat 2: Zautillo5 (small blind) showed [Qs 9c] and won 187046 with Two pairs : Queens and 9
+Seat 3: YL_ML_GL_42 (big blind) showed [9d 8d] and won 118930 with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545593409435861010-88-1668979781 - Holdem no limit (350/1500/3000) - 2022/11/20 21:29:41 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #2 is the button
+Seat 1: BoubouWx (200658)
+Seat 2: Zautillo5 (187046)
+Seat 3: YL_ML_GL_42 (118930)
+Seat 4: 19surprise57 (75095)
+Seat 5: 2 Sucres Stp (69385)
+Seat 6: AGQS (49125)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 350
+19surprise57 posts ante 350
+BoubouWx posts ante 350
+Zautillo5 posts ante 350
+2 Sucres Stp posts ante 350
+AGQS posts ante 350
+YL_ML_GL_42 posts small blind 1500
+19surprise57 posts big blind 3000
+Dealt to YL_ML_GL_42 [2s 8c]
+*** PRE-FLOP *** 
+2 Sucres Stp folds
+AGQS raises 3000 to 6000
+BoubouWx folds
+Zautillo5 folds
+YL_ML_GL_42 folds
+19surprise57 calls 3000
+*** FLOP *** [7c Th 3d]
+19surprise57 checks
+AGQS checks
+*** TURN *** [7c Th 3d][4c]
+19surprise57 bets 6000
+AGQS calls 6000
+*** RIVER *** [7c Th 3d 4c][3c]
+19surprise57 checks
+AGQS bets 36775 and is all-in
+19surprise57 folds
+AGQS collected 64375 from pot
+*** SUMMARY ***
+Total pot 64375 | No rake
+Board: [7c Th 3d 4c 3c]
+Seat 6: AGQS won 64375
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545593409435861010-89-1668979835 - Holdem no limit (350/1500/3000) - 2022/11/20 21:30:35 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #3 is the button
+Seat 1: BoubouWx (200308)
+Seat 2: Zautillo5 (186696)
+Seat 3: YL_ML_GL_42 (117080)
+Seat 4: 19surprise57 (62745)
+Seat 5: 2 Sucres Stp (69035)
+Seat 6: AGQS (64375)
+*** ANTE/BLINDS ***
+19surprise57 posts ante 350
+2 Sucres Stp posts ante 350
+BoubouWx posts ante 350
+Zautillo5 posts ante 350
+YL_ML_GL_42 posts ante 350
+AGQS posts ante 350
+19surprise57 posts small blind 1500
+2 Sucres Stp posts big blind 3000
+Dealt to YL_ML_GL_42 [Jd 5s]
+*** PRE-FLOP *** 
+AGQS raises 3600 to 6600
+BoubouWx folds
+Zautillo5 folds
+YL_ML_GL_42 folds
+19surprise57 raises 55795 to 62395 and is all-in
+2 Sucres Stp folds
+AGQS calls 55795
+*** FLOP *** [Ad 9d Qd]
+*** TURN *** [Ad 9d Qd][7h]
+*** RIVER *** [Ad 9d Qd 7h][3s]
+*** SHOW DOWN ***
+AGQS shows [Kd Kc] (One pair : Kings)
+19surprise57 shows [Ah Kh] (One pair : Aces)
+19surprise57 collected 129890 from pot
+*** SUMMARY ***
+Total pot 129890 | No rake
+Board: [Ad 9d Qd 7h 3s]
+Seat 4: 19surprise57 (small blind) showed [Ah Kh] and won 129890 with One pair : Aces
+Seat 6: AGQS showed [Kd Kc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545593409435861010-90-1668979873 - Holdem no limit (350/1500/3000) - 2022/11/20 21:31:13 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #4 is the button
+Seat 1: BoubouWx (199958)
+Seat 2: Zautillo5 (186346)
+Seat 3: YL_ML_GL_42 (116730)
+Seat 4: 19surprise57 (129890)
+Seat 5: 2 Sucres Stp (65685)
+Seat 6: AGQS (1630)
+*** ANTE/BLINDS ***
+2 Sucres Stp posts ante 350
+AGQS posts ante 350
+BoubouWx posts ante 350
+Zautillo5 posts ante 350
+YL_ML_GL_42 posts ante 350
+19surprise57 posts ante 350
+2 Sucres Stp posts small blind 1500
+AGQS posts big blind 1280 and is all-in
+Dealt to YL_ML_GL_42 [Qd 5h]
+*** PRE-FLOP *** 
+BoubouWx folds
+Zautillo5 folds
+YL_ML_GL_42 folds
+19surprise57 folds
+*** FLOP *** [Ah Kc Jh]
+*** TURN *** [Ah Kc Jh][Ks]
+*** RIVER *** [Ah Kc Jh Ks][7h]
+*** SHOW DOWN ***
+2 Sucres Stp shows [6s 8s] (One pair : Kings)
+AGQS shows [7s Jd] (Two pairs : Kings and Jacks)
+AGQS collected 4660 from main pot
+2 Sucres Stp collected 220 from side pot 1
+*** SUMMARY ***
+Total pot 4880 | No rake
+Board: [Ah Kc Jh Ks 7h]
+Seat 5: 2 Sucres Stp (small blind) showed [6s 8s] and won 220 with One pair : Kings
+Seat 6: AGQS (big blind) showed [7s Jd] and won 4660 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545593409435861010-91-1668979887 - Holdem no limit (350/1500/3000) - 2022/11/20 21:31:27 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #5 is the button
+Seat 1: BoubouWx (199608)
+Seat 2: Zautillo5 (185996)
+Seat 3: YL_ML_GL_42 (116380)
+Seat 4: 19surprise57 (129540)
+Seat 5: 2 Sucres Stp (64055)
+Seat 6: AGQS (4660)
+*** ANTE/BLINDS ***
+AGQS posts ante 350
+BoubouWx posts ante 350
+Zautillo5 posts ante 350
+YL_ML_GL_42 posts ante 350
+19surprise57 posts ante 350
+2 Sucres Stp posts ante 350
+AGQS posts small blind 1500
+BoubouWx posts big blind 3000
+Dealt to YL_ML_GL_42 [Ah 9h]
+*** PRE-FLOP *** 
+Zautillo5 raises 3600 to 6600
+YL_ML_GL_42 raises 19800 to 26400
+19surprise57 folds
+2 Sucres Stp folds
+AGQS calls 2810 and is all-in
+BoubouWx folds
+Zautillo5 calls 19800
+*** FLOP *** [Jh 6s Qs]
+Zautillo5 checks
+YL_ML_GL_42 bets 31105
+Zautillo5 folds
+*** TURN *** [Jh 6s Qs][2d]
+*** RIVER *** [Jh 6s Qs 2d][6d]
+*** SHOW DOWN ***
+AGQS shows [3c 7c] (One pair : 6)
+YL_ML_GL_42 shows [Ah 9h] (One pair : 6)
+YL_ML_GL_42 collected 93315 from pot
+*** SUMMARY ***
+Total pot 93315 | No rake
+Board: [Jh 6s Qs 2d 6d]
+Seat 3: YL_ML_GL_42 showed [Ah 9h] and won 93315 with One pair : 6
+Seat 6: AGQS (small blind) showed [3c 7c] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545593409435861010-92-1668979957 - Holdem no limit (350/1500/3000) - 2022/11/20 21:32:37 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #6 is the button
+Seat 1: BoubouWx (196258)
+Seat 2: Zautillo5 (159246)
+Seat 3: YL_ML_GL_42 (151840)
+Seat 4: 19surprise57 (129190)
+Seat 5: 2 Sucres Stp (63705)
+*** ANTE/BLINDS ***
+BoubouWx posts ante 350
+Zautillo5 posts ante 350
+YL_ML_GL_42 posts ante 350
+19surprise57 posts ante 350
+2 Sucres Stp posts ante 350
+BoubouWx posts small blind 1500
+Zautillo5 posts big blind 3000
+Dealt to YL_ML_GL_42 [Ts Jd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 4500 to 7500
+19surprise57 folds
+2 Sucres Stp folds
+BoubouWx folds
+Zautillo5 folds
+YL_ML_GL_42 collected 13750 from pot
+*** SUMMARY ***
+Total pot 13750 | No rake
+Seat 3: YL_ML_GL_42 won 13750
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545593409435861010-93-1668979978 - Holdem no limit (350/1500/3000) - 2022/11/20 21:32:58 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #1 is the button
+Seat 1: BoubouWx (194408)
+Seat 2: Zautillo5 (155896)
+Seat 3: YL_ML_GL_42 (157740)
+Seat 4: 19surprise57 (128840)
+Seat 5: 2 Sucres Stp (63355)
+*** ANTE/BLINDS ***
+Zautillo5 posts ante 350
+YL_ML_GL_42 posts ante 350
+BoubouWx posts ante 350
+19surprise57 posts ante 350
+2 Sucres Stp posts ante 350
+Zautillo5 posts small blind 1500
+YL_ML_GL_42 posts big blind 3000
+Dealt to YL_ML_GL_42 [Ad 3s]
+*** PRE-FLOP *** 
+19surprise57 folds
+2 Sucres Stp folds
+BoubouWx raises 3300 to 6300
+Zautillo5 calls 4800
+YL_ML_GL_42 calls 3300
+*** FLOP *** [Qh Kd 4s]
+Zautillo5 checks
+YL_ML_GL_42 checks
+BoubouWx bets 6815
+Zautillo5 raises 20905 to 27720
+YL_ML_GL_42 folds
+BoubouWx folds
+Zautillo5 collected 55185 from pot
+*** SUMMARY ***
+Total pot 55185 | No rake
+Board: [Qh Kd 4s]
+Seat 2: Zautillo5 (small blind) won 55185
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545593409435861010-94-1668980022 - Holdem no limit (350/1500/3000) - 2022/11/20 21:33:42 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #2 is the button
+Seat 1: BoubouWx (180943)
+Seat 2: Zautillo5 (176711)
+Seat 3: YL_ML_GL_42 (151090)
+Seat 4: 19surprise57 (128490)
+Seat 5: 2 Sucres Stp (63005)
+Seat 6: 1YearsInBrM (100000)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 350
+19surprise57 posts ante 350
+BoubouWx posts ante 350
+Zautillo5 posts ante 350
+2 Sucres Stp posts ante 350
+1YearsInBrM posts ante 350
+YL_ML_GL_42 posts small blind 1500
+19surprise57 posts big blind 3000
+Dealt to YL_ML_GL_42 [Qh 4d]
+*** PRE-FLOP *** 
+2 Sucres Stp folds
+1YearsInBrM folds
+BoubouWx folds
+Zautillo5 raises 3600 to 6600
+YL_ML_GL_42 folds
+19surprise57 folds
+Zautillo5 collected 13200 from pot
+*** SUMMARY ***
+Total pot 13200 | No rake
+Seat 2: Zautillo5 (button) won 13200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2545593409435861010-95-1668980037 - Holdem no limit (350/1500/3000) - 2022/11/20 21:33:57 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #3 is the button
+Seat 1: BoubouWx (180593)
+Seat 2: Zautillo5 (182961)
+Seat 3: YL_ML_GL_42 (149240)
+Seat 4: 19surprise57 (125140)
+Seat 5: 2 Sucres Stp (62655)
+Seat 6: 1YearsInBrM (99650)
+*** ANTE/BLINDS ***
+19surprise57 posts ante 350
+2 Sucres Stp posts ante 350
+BoubouWx posts ante 350
+Zautillo5 posts ante 350
+YL_ML_GL_42 posts ante 350
+1YearsInBrM posts ante 350
+19surprise57 posts small blind 1500
+2 Sucres Stp posts big blind 3000
+Dealt to YL_ML_GL_42 [Ah 8c]
+*** PRE-FLOP *** 
+1YearsInBrM folds
+BoubouWx folds
+Zautillo5 folds
+YL_ML_GL_42 raises 9600 to 12600
+19surprise57 folds
+2 Sucres Stp folds
+YL_ML_GL_42 collected 19200 from pot
+*** SUMMARY ***
+Total pot 19200 | No rake
+Seat 3: YL_ML_GL_42 (button) won 19200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2545593409435861010-96-1668980048 - Holdem no limit (400/1750/3500) - 2022/11/20 21:34:08 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #4 is the button
+Seat 1: BoubouWx (180243)
+Seat 2: Zautillo5 (182611)
+Seat 3: YL_ML_GL_42 (155490)
+Seat 4: 19surprise57 (123290)
+Seat 5: 2 Sucres Stp (59305)
+Seat 6: 1YearsInBrM (99300)
+*** ANTE/BLINDS ***
+2 Sucres Stp posts ante 400
+1YearsInBrM posts ante 400
+BoubouWx posts ante 400
+Zautillo5 posts ante 400
+YL_ML_GL_42 posts ante 400
+19surprise57 posts ante 400
+2 Sucres Stp posts small blind 1750
+1YearsInBrM posts big blind 3500
+Dealt to YL_ML_GL_42 [7h Ac]
+*** PRE-FLOP *** 
+BoubouWx folds
+Zautillo5 folds
+YL_ML_GL_42 raises 5250 to 8750
+19surprise57 folds
+2 Sucres Stp raises 50155 to 58905 and is all-in
+1YearsInBrM folds
+YL_ML_GL_42 calls 50155
+*** FLOP *** [8c 9h 4s]
+*** TURN *** [8c 9h 4s][3d]
+*** RIVER *** [8c 9h 4s 3d][4h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7h Ac] (One pair : 4)
+2 Sucres Stp shows [9c Ks] (Two pairs : 9 and 4)
+2 Sucres Stp collected 123710 from pot
+*** SUMMARY ***
+Total pot 123710 | No rake
+Board: [8c 9h 4s 3d 4h]
+Seat 3: YL_ML_GL_42 showed [7h Ac] and lost with One pair : 4
+Seat 5: 2 Sucres Stp (small blind) showed [9c Ks] and won 123710 with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2545593409435861010-97-1668980075 - Holdem no limit (400/1750/3500) - 2022/11/20 21:34:35 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #5 is the button
+Seat 1: BoubouWx (179843)
+Seat 2: Zautillo5 (182211)
+Seat 3: YL_ML_GL_42 (96185)
+Seat 4: 19surprise57 (122890)
+Seat 5: 2 Sucres Stp (123710)
+Seat 6: 1YearsInBrM (95400)
+*** ANTE/BLINDS ***
+1YearsInBrM posts ante 400
+BoubouWx posts ante 400
+Zautillo5 posts ante 400
+YL_ML_GL_42 posts ante 400
+19surprise57 posts ante 400
+2 Sucres Stp posts ante 400
+1YearsInBrM posts small blind 1750
+BoubouWx posts big blind 3500
+Dealt to YL_ML_GL_42 [9s 6c]
+*** PRE-FLOP *** 
+Zautillo5 folds
+YL_ML_GL_42 folds
+19surprise57 raises 3500 to 7000
+2 Sucres Stp folds
+1YearsInBrM folds
+BoubouWx folds
+19surprise57 collected 14650 from pot
+*** SUMMARY ***
+Total pot 14650 | No rake
+Seat 4: 19surprise57 won 14650
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2545593409435861010-98-1668980108 - Holdem no limit (400/1750/3500) - 2022/11/20 21:35:08 UTC
+Table: 'Monster Stack(592692152)#017' 6-max (real money) Seat #6 is the button
+Seat 1: BoubouWx (175943)
+Seat 2: Zautillo5 (181811)
+Seat 3: YL_ML_GL_42 (95785)
+Seat 4: 19surprise57 (130140)
+Seat 5: 2 Sucres Stp (123310)
+Seat 6: 1YearsInBrM (93250)
+*** ANTE/BLINDS ***
+BoubouWx posts ante 400
+Zautillo5 posts ante 400
+YL_ML_GL_42 posts ante 400
+19surprise57 posts ante 400
+2 Sucres Stp posts ante 400
+1YearsInBrM posts ante 400
+BoubouWx posts small blind 1750
+Zautillo5 posts big blind 3500
+Dealt to YL_ML_GL_42 [As 4h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 91885 to 95385 and is all-in
+19surprise57 folds
+2 Sucres Stp folds
+1YearsInBrM folds
+BoubouWx raises 80158 to 175543 and is all-in
+Zautillo5 calls 172043
+*** FLOP *** [Tc 6c 3d]
+*** TURN *** [Tc 6c 3d][3c]
+*** RIVER *** [Tc 6c 3d 3c][6d]
+*** SHOW DOWN ***
+Zautillo5 shows [Qs Qc] (Two pairs : Queens and 6)
+YL_ML_GL_42 shows [As 4h] (Two pairs : 6 and 3)
+BoubouWx shows [Ks Kd] (Two pairs : Kings and 6)
+BoubouWx collected 448871 from pot
+*** SUMMARY ***
+Total pot 448871 | No rake
+Board: [Tc 6c 3d 3c 6d]
+Seat 1: BoubouWx (small blind) showed [Ks Kd] and won 448871 with Two pairs : Kings and 6
+Seat 2: Zautillo5 (big blind) showed [Qs Qc] and lost with Two pairs : Queens and 6
+Seat 3: YL_ML_GL_42 showed [As 4h] and lost with Two pairs : 6 and 3
+
+

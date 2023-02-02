@@ -1,0 +1,773 @@
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-13-1667934621 - Holdem no limit (12/50/100) - 2022/11/08 19:10:21 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #6 is the button
+Seat 1: NikosimsHrt (18432, 3.37€ bounty)
+Seat 2: SuperBen13 (10200, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (10000, 2.25€ bounty)
+Seat 4: Allenwker10 (9292, 2.25€ bounty)
+Seat 5: L4MBORGHINI (11186, 2.25€ bounty)
+Seat 6: mobyfull (11386, 2.25€ bounty)
+*** ANTE/BLINDS ***
+NikosimsHrt posts ante 12
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+Allenwker10 posts ante 12
+L4MBORGHINI posts ante 12
+mobyfull posts ante 12
+NikosimsHrt posts small blind 50
+SuperBen13 posts big blind 100
+Dealt to YL_ML_GL_42 [2h 3s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Allenwker10 folds
+L4MBORGHINI raises 100 to 200
+mobyfull folds
+NikosimsHrt calls 150
+SuperBen13 folds
+*** FLOP *** [Td 2c Qh]
+NikosimsHrt checks
+L4MBORGHINI bets 250
+NikosimsHrt folds
+L4MBORGHINI collected 822 from pot
+*** SUMMARY ***
+Total pot 822 | No rake
+Board: [Td 2c Qh]
+Seat 5: L4MBORGHINI won 822
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-14-1667934716 - Holdem no limit (12/50/100) - 2022/11/08 19:11:56 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #1 is the button
+Seat 1: NikosimsHrt (18220, 3.37€ bounty)
+Seat 2: SuperBen13 (10088, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (9988, 2.25€ bounty)
+Seat 4: Allenwker10 (9280, 2.25€ bounty)
+Seat 5: L4MBORGHINI (11546, 2.25€ bounty)
+Seat 6: mobyfull (11374, 2.25€ bounty)
+*** ANTE/BLINDS ***
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+NikosimsHrt posts ante 12
+Allenwker10 posts ante 12
+L4MBORGHINI posts ante 12
+mobyfull posts ante 12
+SuperBen13 posts small blind 50
+YL_ML_GL_42 posts big blind 100
+Dealt to YL_ML_GL_42 [9d 6d]
+*** PRE-FLOP *** 
+Allenwker10 folds
+L4MBORGHINI folds
+mobyfull folds
+NikosimsHrt folds
+SuperBen13 raises 272 to 372
+YL_ML_GL_42 folds
+SuperBen13 collected 544 from pot
+*** SUMMARY ***
+Total pot 544 | No rake
+Seat 2: SuperBen13 (small blind) won 544
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-15-1667934770 - Holdem no limit (12/50/100) - 2022/11/08 19:12:50 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #2 is the button
+Seat 1: NikosimsHrt (18208, 3.37€ bounty)
+Seat 2: SuperBen13 (10248, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (9876, 2.25€ bounty)
+Seat 4: Allenwker10 (9268, 2.25€ bounty)
+Seat 5: L4MBORGHINI (11534, 2.25€ bounty)
+Seat 6: mobyfull (11362, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 12
+Allenwker10 posts ante 12
+NikosimsHrt posts ante 12
+SuperBen13 posts ante 12
+L4MBORGHINI posts ante 12
+mobyfull posts ante 12
+YL_ML_GL_42 posts small blind 50
+Allenwker10 posts big blind 100
+Dealt to YL_ML_GL_42 [7s 4h]
+*** PRE-FLOP *** 
+L4MBORGHINI folds
+mobyfull folds
+NikosimsHrt calls 100
+SuperBen13 folds
+YL_ML_GL_42 folds
+Allenwker10 checks
+*** FLOP *** [2s 7c Kh]
+Allenwker10 checks
+NikosimsHrt bets 322
+Allenwker10 folds
+NikosimsHrt collected 644 from pot
+*** SUMMARY ***
+Total pot 644 | No rake
+Board: [2s 7c Kh]
+Seat 1: NikosimsHrt won 644
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-16-1667934820 - Holdem no limit (12/50/100) - 2022/11/08 19:13:40 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #3 is the button
+Seat 1: NikosimsHrt (18418, 3.37€ bounty)
+Seat 2: SuperBen13 (10236, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (9814, 2.25€ bounty)
+Seat 4: Allenwker10 (9156, 2.25€ bounty)
+Seat 5: L4MBORGHINI (11522, 2.25€ bounty)
+Seat 6: mobyfull (11350, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Allenwker10 posts ante 12
+L4MBORGHINI posts ante 12
+NikosimsHrt posts ante 12
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+mobyfull posts ante 12
+Allenwker10 posts small blind 50
+L4MBORGHINI posts big blind 100
+Dealt to YL_ML_GL_42 [5s 4s]
+*** PRE-FLOP *** 
+mobyfull raises 322 to 422
+NikosimsHrt folds
+SuperBen13 raises 633 to 1055
+YL_ML_GL_42 folds
+Allenwker10 folds
+L4MBORGHINI folds
+mobyfull calls 633
+*** FLOP *** [Js 7h 5d]
+mobyfull checks
+SuperBen13 bets 816
+mobyfull folds
+SuperBen13 collected 3148 from pot
+*** SUMMARY ***
+Total pot 3148 | No rake
+Board: [Js 7h 5d]
+Seat 2: SuperBen13 won 3148
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-17-1667934875 - Holdem no limit (12/50/100) - 2022/11/08 19:14:35 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #4 is the button
+Seat 1: NikosimsHrt (18406, 3.37€ bounty)
+Seat 2: SuperBen13 (11501, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (9802, 2.25€ bounty)
+Seat 4: Allenwker10 (9094, 2.25€ bounty)
+Seat 5: L4MBORGHINI (11410, 2.25€ bounty)
+Seat 6: mobyfull (10283, 2.25€ bounty)
+*** ANTE/BLINDS ***
+L4MBORGHINI posts ante 12
+mobyfull posts ante 12
+NikosimsHrt posts ante 12
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+Allenwker10 posts ante 12
+L4MBORGHINI posts small blind 50
+mobyfull posts big blind 100
+Dealt to YL_ML_GL_42 [Tc 2c]
+*** PRE-FLOP *** 
+NikosimsHrt folds
+SuperBen13 folds
+YL_ML_GL_42 folds
+Allenwker10 calls 100
+L4MBORGHINI folds
+mobyfull checks
+*** FLOP *** [8c 3h 7h]
+mobyfull checks
+Allenwker10 checks
+*** TURN *** [8c 3h 7h][Kh]
+mobyfull checks
+Allenwker10 checks
+*** RIVER *** [8c 3h 7h Kh][3s]
+mobyfull checks
+Allenwker10 checks
+*** SHOW DOWN ***
+mobyfull shows [5s Td] (One pair : 3)
+Allenwker10 shows [As 2d] (One pair : 3)
+Allenwker10 collected 322 from pot
+*** SUMMARY ***
+Total pot 322 | No rake
+Board: [8c 3h 7h Kh 3s]
+Seat 4: Allenwker10 (button) showed [As 2d] and won 322 with One pair : 3
+Seat 6: mobyfull (big blind) showed [5s Td] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-18-1667935035 - Holdem no limit (12/50/100) - 2022/11/08 19:17:15 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #5 is the button
+Seat 1: NikosimsHrt (18394, 3.37€ bounty)
+Seat 2: SuperBen13 (11489, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (9790, 2.25€ bounty)
+Seat 4: Allenwker10 (9304, 2.25€ bounty)
+Seat 5: L4MBORGHINI (11348, 2.25€ bounty)
+Seat 6: mobyfull (10171, 2.25€ bounty)
+*** ANTE/BLINDS ***
+mobyfull posts ante 12
+NikosimsHrt posts ante 12
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+Allenwker10 posts ante 12
+L4MBORGHINI posts ante 12
+mobyfull posts small blind 50
+NikosimsHrt posts big blind 100
+Dealt to YL_ML_GL_42 [8s Ts]
+*** PRE-FLOP *** 
+SuperBen13 folds
+YL_ML_GL_42 folds
+Allenwker10 calls 100
+L4MBORGHINI raises 400 to 500
+mobyfull calls 450
+NikosimsHrt calls 400
+Allenwker10 calls 400
+*** FLOP *** [3d 3h 9d]
+mobyfull checks
+NikosimsHrt bets 2072
+Allenwker10 calls 2072
+L4MBORGHINI folds
+mobyfull raises 7587 to 9659 and is all-in
+NikosimsHrt raises 8223 to 17882 and is all-in
+Allenwker10 calls 6720 and is all-in
+*** TURN *** [3d 3h 9d][6c]
+*** RIVER *** [3d 3h 9d 6c][Js]
+*** SHOW DOWN ***
+mobyfull shows [7d Ad] (One pair : 3)
+NikosimsHrt shows [6d Td] (Two pairs : 6 and 3)
+Allenwker10 shows [8d Jd] (Two pairs : Jacks and 3)
+Allenwker10 collected 28448 from main pot
+NikosimsHrt collected 9957 from side pot 1
+*** SUMMARY ***
+Total pot 38405 | No rake
+Board: [3d 3h 9d 6c Js]
+Seat 1: NikosimsHrt (big blind) showed [6d Td] and won 9957 with Two pairs : 6 and 3
+Seat 4: Allenwker10 showed [8d Jd] and won 28448 with Two pairs : Jacks and 3
+Seat 6: mobyfull (small blind) showed [7d Ad] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-19-1667935112 - Holdem no limit (12/50/100) - 2022/11/08 19:18:32 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #6 is the button
+Seat 1: NikosimsHrt (9957, 4.49€ bounty)
+Seat 2: SuperBen13 (11477, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (9778, 2.25€ bounty)
+Seat 4: Allenwker10 (28448, 2.25€ bounty)
+Seat 5: L4MBORGHINI (10836, 2.25€ bounty)
+Seat 6: BBones (10000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+NikosimsHrt posts ante 12
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+Allenwker10 posts ante 12
+L4MBORGHINI posts ante 12
+NikosimsHrt posts small blind 50
+SuperBen13 posts big blind 100
+Dealt to YL_ML_GL_42 [Js Qd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 100 to 200
+Allenwker10 folds
+L4MBORGHINI calls 200
+NikosimsHrt calls 150
+SuperBen13 folds
+*** FLOP *** [Qs Ks Ad]
+NikosimsHrt checks
+YL_ML_GL_42 bets 380
+L4MBORGHINI calls 380
+NikosimsHrt folds
+*** TURN *** [Qs Ks Ad][Jc]
+YL_ML_GL_42 bets 988
+L4MBORGHINI calls 988
+*** RIVER *** [Qs Ks Ad Jc][Kd]
+YL_ML_GL_42 checks
+L4MBORGHINI bets 874
+YL_ML_GL_42 calls 874
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Js Qd] (Two pairs : Kings and Queens)
+L4MBORGHINI shows [Th Ac] (Straight Ace high)
+L4MBORGHINI collected 5244 from pot
+*** SUMMARY ***
+Total pot 5244 | No rake
+Board: [Qs Ks Ad Jc Kd]
+Seat 3: YL_ML_GL_42 showed [Js Qd] and lost with Two pairs : Kings and Queens
+Seat 5: L4MBORGHINI showed [Th Ac] and won 5244 with Straight Ace high
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-20-1667935194 - Holdem no limit (12/50/100) - 2022/11/08 19:19:54 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #1 is the button
+Seat 1: NikosimsHrt (9745, 4.49€ bounty)
+Seat 2: SuperBen13 (11365, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (7324, 2.25€ bounty)
+Seat 4: Allenwker10 (28436, 2.25€ bounty)
+Seat 5: L4MBORGHINI (13626, 2.25€ bounty)
+Seat 6: BBones (10000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+NikosimsHrt posts ante 12
+Allenwker10 posts ante 12
+L4MBORGHINI posts ante 12
+BBones posts ante 12
+SuperBen13 posts small blind 50
+YL_ML_GL_42 posts big blind 100
+Dealt to YL_ML_GL_42 [Qd 2d]
+*** PRE-FLOP *** 
+Allenwker10 calls 100
+L4MBORGHINI folds
+BBones folds
+NikosimsHrt folds
+SuperBen13 folds
+YL_ML_GL_42 checks
+*** FLOP *** [9c Th 3c]
+YL_ML_GL_42 checks
+Allenwker10 checks
+*** TURN *** [9c Th 3c][8c]
+YL_ML_GL_42 checks
+Allenwker10 checks
+*** RIVER *** [9c Th 3c 8c][6c]
+YL_ML_GL_42 checks
+Allenwker10 bets 322
+YL_ML_GL_42 folds
+Allenwker10 collected 644 from pot
+*** SUMMARY ***
+Total pot 644 | No rake
+Board: [9c Th 3c 8c 6c]
+Seat 4: Allenwker10 won 644
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-21-1667935286 - Holdem no limit (12/50/100) - 2022/11/08 19:21:26 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #2 is the button
+Seat 1: NikosimsHrt (9733, 4.49€ bounty)
+Seat 2: SuperBen13 (11303, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (7212, 2.25€ bounty)
+Seat 4: Allenwker10 (28646, 2.25€ bounty)
+Seat 5: L4MBORGHINI (13614, 2.25€ bounty)
+Seat 6: BBones (9988, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 12
+Allenwker10 posts ante 12
+NikosimsHrt posts ante 12
+SuperBen13 posts ante 12
+L4MBORGHINI posts ante 12
+BBones posts ante 12
+YL_ML_GL_42 posts small blind 50
+Allenwker10 posts big blind 100
+Dealt to YL_ML_GL_42 [Qd 2d]
+*** PRE-FLOP *** 
+L4MBORGHINI folds
+BBones folds
+NikosimsHrt folds
+SuperBen13 folds
+YL_ML_GL_42 folds
+Allenwker10 collected 222 from pot
+*** SUMMARY ***
+Total pot 222 | No rake
+Seat 4: Allenwker10 (big blind) won 222
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-22-1667935307 - Holdem no limit (12/50/100) - 2022/11/08 19:21:47 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #3 is the button
+Seat 1: NikosimsHrt (9721, 4.49€ bounty)
+Seat 2: SuperBen13 (11291, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (7150, 2.25€ bounty)
+Seat 4: Allenwker10 (28756, 2.25€ bounty)
+Seat 5: L4MBORGHINI (13602, 2.25€ bounty)
+Seat 6: BBones (9976, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Allenwker10 posts ante 12
+L4MBORGHINI posts ante 12
+NikosimsHrt posts ante 12
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+BBones posts ante 12
+Allenwker10 posts small blind 50
+L4MBORGHINI posts big blind 100
+Dealt to YL_ML_GL_42 [Qh 9s]
+*** PRE-FLOP *** 
+BBones folds
+NikosimsHrt folds
+SuperBen13 folds
+YL_ML_GL_42 folds
+Allenwker10 folds
+L4MBORGHINI collected 222 from pot
+*** SUMMARY ***
+Total pot 222 | No rake
+Seat 5: L4MBORGHINI (big blind) won 222
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-23-1667935354 - Holdem no limit (12/50/100) - 2022/11/08 19:22:34 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #4 is the button
+Seat 1: La fouine94 (10000, 2.25€ bounty)
+Seat 2: SuperBen13 (11279, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (7138, 2.25€ bounty)
+Seat 4: Allenwker10 (28694, 2.25€ bounty)
+Seat 5: L4MBORGHINI (13712, 2.25€ bounty)
+Seat 6: BBones (9964, 2.25€ bounty)
+*** ANTE/BLINDS ***
+L4MBORGHINI posts ante 12
+BBones posts ante 12
+La fouine94 posts ante 12
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+Allenwker10 posts ante 12
+L4MBORGHINI posts small blind 50
+BBones posts big blind 100
+Dealt to YL_ML_GL_42 [8h 9h]
+*** PRE-FLOP *** 
+La fouine94 raises 322 to 422
+SuperBen13 folds
+YL_ML_GL_42 folds
+Allenwker10 folds
+L4MBORGHINI folds
+BBones folds
+La fouine94 collected 644 from pot
+*** SUMMARY ***
+Total pot 644 | No rake
+Seat 1: La fouine94 won 644
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-24-1667935401 - Holdem no limit (12/50/100) - 2022/11/08 19:23:21 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #5 is the button
+Seat 1: La fouine94 (10210, 2.25€ bounty)
+Seat 2: SuperBen13 (11267, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (7126, 2.25€ bounty)
+Seat 4: Allenwker10 (28682, 2.25€ bounty)
+Seat 5: L4MBORGHINI (13650, 2.25€ bounty)
+Seat 6: BBones (9852, 2.25€ bounty)
+*** ANTE/BLINDS ***
+BBones posts ante 12
+La fouine94 posts ante 12
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+Allenwker10 posts ante 12
+L4MBORGHINI posts ante 12
+BBones posts small blind 50
+La fouine94 posts big blind 100
+Dealt to YL_ML_GL_42 [9d 8c]
+*** PRE-FLOP *** 
+SuperBen13 folds
+YL_ML_GL_42 folds
+Allenwker10 calls 100
+L4MBORGHINI folds
+BBones folds
+La fouine94 checks
+*** FLOP *** [2h 4s 9h]
+La fouine94 checks
+Allenwker10 bets 209
+La fouine94 folds
+Allenwker10 collected 531 from pot
+*** SUMMARY ***
+Total pot 531 | No rake
+Board: [2h 4s 9h]
+Seat 4: Allenwker10 won 531
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-25-1667935445 - Holdem no limit (12/50/100) - 2022/11/08 19:24:05 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #6 is the button
+Seat 1: La fouine94 (10098, 2.25€ bounty)
+Seat 2: SuperBen13 (11255, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (7114, 2.25€ bounty)
+Seat 4: Allenwker10 (28892, 2.25€ bounty)
+Seat 5: L4MBORGHINI (13638, 2.25€ bounty)
+Seat 6: BBones (9790, 2.25€ bounty)
+*** ANTE/BLINDS ***
+La fouine94 posts ante 12
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+Allenwker10 posts ante 12
+L4MBORGHINI posts ante 12
+BBones posts ante 12
+La fouine94 posts small blind 50
+SuperBen13 posts big blind 100
+Dealt to YL_ML_GL_42 [Ts Ac]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 100 to 200
+Allenwker10 calls 200
+L4MBORGHINI folds
+BBones folds
+La fouine94 folds
+SuperBen13 folds
+*** FLOP *** [9c Jd 2h]
+YL_ML_GL_42 checks
+Allenwker10 bets 498
+YL_ML_GL_42 raises 1618 to 2116
+Allenwker10 folds
+YL_ML_GL_42 collected 3236 from pot
+*** SUMMARY ***
+Total pot 3236 | No rake
+Board: [9c Jd 2h]
+Seat 3: YL_ML_GL_42 won 3236
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-26-1667935517 - Holdem no limit (12/50/100) - 2022/11/08 19:25:17 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #1 is the button
+Seat 1: La fouine94 (10036, 2.25€ bounty)
+Seat 2: SuperBen13 (11143, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (8022, 2.25€ bounty)
+Seat 4: Allenwker10 (28182, 2.25€ bounty)
+Seat 5: L4MBORGHINI (13626, 2.25€ bounty)
+Seat 6: BBones (9778, 2.25€ bounty)
+*** ANTE/BLINDS ***
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+La fouine94 posts ante 12
+Allenwker10 posts ante 12
+L4MBORGHINI posts ante 12
+BBones posts ante 12
+SuperBen13 posts small blind 50
+YL_ML_GL_42 posts big blind 100
+Dealt to YL_ML_GL_42 [Ks 9s]
+*** PRE-FLOP *** 
+Allenwker10 folds
+L4MBORGHINI folds
+BBones folds
+La fouine94 raises 150 to 250
+SuperBen13 folds
+YL_ML_GL_42 calls 150
+*** FLOP *** [Qh 4h Kc]
+YL_ML_GL_42 bets 218
+La fouine94 folds
+YL_ML_GL_42 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [Qh 4h Kc]
+Seat 3: YL_ML_GL_42 (big blind) won 840
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-27-1667935576 - Holdem no limit (12/50/100) - 2022/11/08 19:26:16 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #2 is the button
+Seat 1: La fouine94 (9774, 2.25€ bounty)
+Seat 2: SuperBen13 (11081, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (8382, 2.25€ bounty)
+Seat 4: Allenwker10 (28170, 2.25€ bounty)
+Seat 5: L4MBORGHINI (13614, 2.25€ bounty)
+Seat 6: BBones (9766, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 12
+Allenwker10 posts ante 12
+La fouine94 posts ante 12
+SuperBen13 posts ante 12
+L4MBORGHINI posts ante 12
+BBones posts ante 12
+YL_ML_GL_42 posts small blind 50
+Allenwker10 posts big blind 100
+Dealt to YL_ML_GL_42 [Ad Qc]
+*** PRE-FLOP *** 
+L4MBORGHINI folds
+BBones folds
+La fouine94 calls 100
+SuperBen13 folds
+YL_ML_GL_42 raises 372 to 472
+Allenwker10 calls 372
+La fouine94 calls 372
+*** FLOP *** [5s 6c 3h]
+YL_ML_GL_42 checks
+Allenwker10 bets 744
+La fouine94 calls 744
+YL_ML_GL_42 calls 744
+*** TURN *** [5s 6c 3h][2d]
+YL_ML_GL_42 checks
+Allenwker10 checks
+La fouine94 checks
+*** RIVER *** [5s 6c 3h 2d][8s]
+YL_ML_GL_42 bets 2418
+Allenwker10 folds
+La fouine94 calls 2418
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ad Qc] (High card : Ace)
+La fouine94 shows [As 6s] (One pair : 6)
+La fouine94 collected 8556 from pot
+*** SUMMARY ***
+Total pot 8556 | No rake
+Board: [5s 6c 3h 2d 8s]
+Seat 1: La fouine94 showed [As 6s] and won 8556 with One pair : 6
+Seat 3: YL_ML_GL_42 (small blind) showed [Ad Qc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-28-1667935665 - Holdem no limit (12/50/100) - 2022/11/08 19:27:45 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #3 is the button
+Seat 1: La fouine94 (14684, 2.25€ bounty)
+Seat 2: SuperBen13 (11069, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (4736, 2.25€ bounty)
+Seat 4: Allenwker10 (26942, 2.25€ bounty)
+Seat 5: L4MBORGHINI (13602, 2.25€ bounty)
+Seat 6: BBones (9754, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Allenwker10 posts ante 12
+L4MBORGHINI posts ante 12
+La fouine94 posts ante 12
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+BBones posts ante 12
+Allenwker10 posts small blind 50
+L4MBORGHINI posts big blind 100
+Dealt to YL_ML_GL_42 [6c 4s]
+*** PRE-FLOP *** 
+BBones folds
+La fouine94 folds
+SuperBen13 raises 150 to 250
+YL_ML_GL_42 folds
+Allenwker10 calls 200
+L4MBORGHINI calls 150
+*** FLOP *** [Jc Th 7s]
+Allenwker10 bets 411
+L4MBORGHINI folds
+SuperBen13 folds
+Allenwker10 collected 1233 from pot
+*** SUMMARY ***
+Total pot 1233 | No rake
+Board: [Jc Th 7s]
+Seat 4: Allenwker10 (small blind) won 1233
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-29-1667935713 - Holdem no limit (12/50/100) - 2022/11/08 19:28:33 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #4 is the button
+Seat 1: La fouine94 (14672, 2.25€ bounty)
+Seat 2: SuperBen13 (10807, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (4724, 2.25€ bounty)
+Seat 4: Allenwker10 (27502, 2.25€ bounty)
+Seat 5: L4MBORGHINI (13340, 2.25€ bounty)
+Seat 6: BBones (9742, 2.25€ bounty)
+*** ANTE/BLINDS ***
+L4MBORGHINI posts ante 12
+BBones posts ante 12
+La fouine94 posts ante 12
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+Allenwker10 posts ante 12
+L4MBORGHINI posts small blind 50
+BBones posts big blind 100
+Dealt to YL_ML_GL_42 [Qs 5h]
+*** PRE-FLOP *** 
+La fouine94 folds
+SuperBen13 folds
+YL_ML_GL_42 folds
+Allenwker10 calls 100
+L4MBORGHINI calls 50
+BBones checks
+*** FLOP *** [8h 6d 2d]
+L4MBORGHINI checks
+BBones bets 150
+Allenwker10 raises 672 to 822
+L4MBORGHINI folds
+BBones calls 672
+*** TURN *** [8h 6d 2d][Ad]
+BBones checks
+Allenwker10 checks
+*** RIVER *** [8h 6d 2d Ad][4s]
+BBones bets 2400
+Allenwker10 calls 2400
+*** SHOW DOWN ***
+Allenwker10 shows [8d 9c] (One pair : 8)
+BBones shows [5d Kd] (Flush Ace high)
+BBones collected 6816 from pot
+*** SUMMARY ***
+Total pot 6816 | No rake
+Board: [8h 6d 2d Ad 4s]
+Seat 4: Allenwker10 (button) showed [8d 9c] and lost with One pair : 8
+Seat 6: BBones (big blind) showed [5d Kd] and won 6816 with Flush Ace high
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-30-1667935835 - Holdem no limit (12/50/100) - 2022/11/08 19:30:35 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #5 is the button
+Seat 1: La fouine94 (14660, 2.25€ bounty)
+Seat 2: SuperBen13 (10795, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (4712, 2.25€ bounty)
+Seat 4: Allenwker10 (24168, 2.25€ bounty)
+Seat 5: L4MBORGHINI (13228, 2.25€ bounty)
+Seat 6: BBones (13224, 2.25€ bounty)
+*** ANTE/BLINDS ***
+BBones posts ante 12
+La fouine94 posts ante 12
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+Allenwker10 posts ante 12
+L4MBORGHINI posts ante 12
+BBones posts small blind 50
+La fouine94 posts big blind 100
+Dealt to YL_ML_GL_42 [Jc 7c]
+*** PRE-FLOP *** 
+SuperBen13 folds
+YL_ML_GL_42 raises 100 to 200
+Allenwker10 folds
+L4MBORGHINI calls 200
+BBones folds
+La fouine94 raises 300 to 500
+YL_ML_GL_42 calls 300
+L4MBORGHINI calls 300
+*** FLOP *** [4d Ad Th]
+La fouine94 checks
+YL_ML_GL_42 checks
+L4MBORGHINI checks
+*** TURN *** [4d Ad Th][Qs]
+La fouine94 bets 100
+YL_ML_GL_42 calls 100
+L4MBORGHINI folds
+*** RIVER *** [4d Ad Th Qs][2s]
+La fouine94 bets 1822
+YL_ML_GL_42 folds
+La fouine94 collected 3644 from pot
+*** SUMMARY ***
+Total pot 3644 | No rake
+Board: [4d Ad Th Qs 2s]
+Seat 1: La fouine94 (big blind) won 3644
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-31-1667935959 - Holdem no limit (12/50/100) - 2022/11/08 19:32:39 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #6 is the button
+Seat 1: La fouine94 (15870, 2.25€ bounty)
+Seat 2: SuperBen13 (10783, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (4100, 2.25€ bounty)
+Seat 4: Allenwker10 (24156, 2.25€ bounty)
+Seat 5: L4MBORGHINI (12716, 2.25€ bounty)
+Seat 6: BBones (13162, 2.25€ bounty)
+*** ANTE/BLINDS ***
+La fouine94 posts ante 12
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+Allenwker10 posts ante 12
+L4MBORGHINI posts ante 12
+BBones posts ante 12
+La fouine94 posts small blind 50
+SuperBen13 posts big blind 100
+Dealt to YL_ML_GL_42 [3d 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Allenwker10 raises 200 to 300
+L4MBORGHINI folds
+BBones folds
+La fouine94 folds
+SuperBen13 folds
+Allenwker10 collected 522 from pot
+*** SUMMARY ***
+Total pot 522 | No rake
+Seat 4: Allenwker10 won 522
+
+
+Winamax Poker - Tournament "W POKUS HIGH FIVE KO - DAY 1" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2564728888898879539-32-1667935979 - Holdem no limit (12/50/100) - 2022/11/08 19:32:59 UTC
+Table: 'W POKUS HIGH FIVE KO - DAY 1(597147478)#0050' 6-max (real money) Seat #1 is the button
+Seat 1: La fouine94 (15808, 2.25€ bounty)
+Seat 2: SuperBen13 (10671, 2.25€ bounty)
+Seat 3: YL_ML_GL_42 (4088, 2.25€ bounty)
+Seat 4: Allenwker10 (24366, 2.25€ bounty)
+Seat 5: L4MBORGHINI (12704, 2.25€ bounty)
+Seat 6: BBones (13150, 2.25€ bounty)
+*** ANTE/BLINDS ***
+SuperBen13 posts ante 12
+YL_ML_GL_42 posts ante 12
+La fouine94 posts ante 12
+Allenwker10 posts ante 12
+L4MBORGHINI posts ante 12
+BBones posts ante 12
+SuperBen13 posts small blind 50
+YL_ML_GL_42 posts big blind 100
+Dealt to YL_ML_GL_42 [Ah 2c]
+*** PRE-FLOP *** 
+Allenwker10 folds
+L4MBORGHINI folds
+BBones folds
+La fouine94 raises 322 to 422
+SuperBen13 folds
+YL_ML_GL_42 calls 322
+*** FLOP *** [Tc Qc Kc]
+YL_ML_GL_42 bets 3654 and is all-in
+La fouine94 calls 3654
+*** TURN *** [Tc Qc Kc][8s]
+*** RIVER *** [Tc Qc Kc 8s][6s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ah 2c] (High card : Ace)
+La fouine94 shows [Qs As] (One pair : Queens)
+La fouine94 collected 8274 from pot
+*** SUMMARY ***
+Total pot 8274 | No rake
+Board: [Tc Qc Kc 8s 6s]
+Seat 1: La fouine94 (button) showed [Qs As] and won 8274 with One pair : Queens
+Seat 3: YL_ML_GL_42 (big blind) showed [Ah 2c] and lost with High card : Ace
+
+

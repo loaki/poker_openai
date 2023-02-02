@@ -1,0 +1,2141 @@
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-1-1669572026 - Holdem no limit (25/100/200) - 2022/11/27 18:00:26 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #1 is the button
+Seat 1: ParisBNight (20000)
+Seat 2: Marmotton34 (20000)
+Seat 3: Frankinstain (20000)
+Seat 4: GoodGirls (20000)
+Seat 5: rente16 (20000)
+Seat 6: YL_ML_GL_42 (20000)
+*** ANTE/BLINDS ***
+Marmotton34 posts ante 25
+Frankinstain posts ante 25
+ParisBNight posts ante 25
+GoodGirls posts ante 25
+rente16 posts ante 25
+YL_ML_GL_42 posts ante 25
+Marmotton34 posts small blind 100
+Frankinstain posts big blind 200
+Dealt to YL_ML_GL_42 [5h Ah]
+*** PRE-FLOP *** 
+GoodGirls folds
+rente16 folds
+YL_ML_GL_42 raises 400 to 600
+ParisBNight folds
+Marmotton34 raises 1062 to 1662
+Frankinstain folds
+YL_ML_GL_42 calls 1062
+*** FLOP *** [Ac 8c 7c]
+Marmotton34 bets 3049
+YL_ML_GL_42 raises 15264 to 18313 and is all-in
+Marmotton34 folds
+YL_ML_GL_42 collected 25036 from pot
+*** SUMMARY ***
+Total pot 25036 | No rake
+Board: [Ac 8c 7c]
+Seat 6: YL_ML_GL_42 won 25036
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-2-1669572065 - Holdem no limit (25/100/200) - 2022/11/27 18:01:05 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #2 is the button
+Seat 1: ParisBNight (19975)
+Seat 2: Marmotton34 (15264)
+Seat 3: Frankinstain (19775)
+Seat 4: GoodGirls (19975)
+Seat 6: YL_ML_GL_42 (25036)
+*** ANTE/BLINDS ***
+Frankinstain posts ante 25
+GoodGirls posts ante 25
+ParisBNight posts ante 25
+Marmotton34 posts ante 25
+YL_ML_GL_42 posts ante 25
+Frankinstain posts small blind 100
+GoodGirls posts big blind 200
+Dealt to YL_ML_GL_42 [Kc 8h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ParisBNight folds
+Marmotton34 folds
+Frankinstain folds
+GoodGirls collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 4: GoodGirls (big blind) won 425
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-3-1669572077 - Holdem no limit (25/100/200) - 2022/11/27 18:01:17 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #3 is the button
+Seat 1: ParisBNight (19950)
+Seat 2: Marmotton34 (15239)
+Seat 3: Frankinstain (19650)
+Seat 4: GoodGirls (20175)
+Seat 5: Branco2022 (20000)
+Seat 6: YL_ML_GL_42 (25011)
+*** ANTE/BLINDS ***
+GoodGirls posts ante 25
+Branco2022 posts ante 25
+ParisBNight posts ante 25
+Marmotton34 posts ante 25
+Frankinstain posts ante 25
+YL_ML_GL_42 posts ante 25
+GoodGirls posts small blind 100
+Branco2022 posts big blind 200
+Dealt to YL_ML_GL_42 [7s 8c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ParisBNight folds
+Marmotton34 folds
+Frankinstain folds
+GoodGirls folds
+Branco2022 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 5: Branco2022 (big blind) won 450
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-4-1669572084 - Holdem no limit (25/100/200) - 2022/11/27 18:01:24 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #4 is the button
+Seat 1: ParisBNight (19925)
+Seat 2: Marmotton34 (15214)
+Seat 3: Frankinstain (19625)
+Seat 4: GoodGirls (20050)
+Seat 5: Branco2022 (20225)
+Seat 6: YL_ML_GL_42 (24986)
+*** ANTE/BLINDS ***
+Branco2022 posts ante 25
+YL_ML_GL_42 posts ante 25
+ParisBNight posts ante 25
+Marmotton34 posts ante 25
+Frankinstain posts ante 25
+GoodGirls posts ante 25
+Branco2022 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [3c Ac]
+*** PRE-FLOP *** 
+ParisBNight folds
+Marmotton34 raises 300 to 500
+Frankinstain folds
+GoodGirls folds
+Branco2022 calls 400
+YL_ML_GL_42 calls 300
+*** FLOP *** [Qs Th Td]
+Branco2022 checks
+YL_ML_GL_42 checks
+Marmotton34 bets 1056
+Branco2022 folds
+YL_ML_GL_42 folds
+Marmotton34 collected 2706 from pot
+*** SUMMARY ***
+Total pot 2706 | No rake
+Board: [Qs Th Td]
+Seat 2: Marmotton34 won 2706
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-5-1669572138 - Holdem no limit (25/100/200) - 2022/11/27 18:02:18 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #5 is the button
+Seat 1: ParisBNight (19900)
+Seat 2: Marmotton34 (16339)
+Seat 3: Frankinstain (19600)
+Seat 4: GoodGirls (20025)
+Seat 5: Branco2022 (19700)
+Seat 6: YL_ML_GL_42 (24461)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+ParisBNight posts ante 25
+Marmotton34 posts ante 25
+Frankinstain posts ante 25
+GoodGirls posts ante 25
+Branco2022 posts ante 25
+YL_ML_GL_42 posts small blind 100
+ParisBNight posts big blind 200
+Dealt to YL_ML_GL_42 [8c Ks]
+*** PRE-FLOP *** 
+Marmotton34 folds
+Frankinstain raises 200 to 400
+GoodGirls folds
+Branco2022 folds
+YL_ML_GL_42 folds
+ParisBNight folds
+Frankinstain collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 3: Frankinstain won 850
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-6-1669572179 - Holdem no limit (25/100/200) - 2022/11/27 18:02:59 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #6 is the button
+Seat 1: ParisBNight (19675)
+Seat 2: Marmotton34 (16314)
+Seat 3: Frankinstain (20025)
+Seat 4: GoodGirls (20000)
+Seat 5: Branco2022 (19675)
+Seat 6: YL_ML_GL_42 (24336)
+*** ANTE/BLINDS ***
+ParisBNight posts ante 25
+Marmotton34 posts ante 25
+Frankinstain posts ante 25
+GoodGirls posts ante 25
+Branco2022 posts ante 25
+YL_ML_GL_42 posts ante 25
+ParisBNight posts small blind 100
+Marmotton34 posts big blind 200
+Dealt to YL_ML_GL_42 [Qd Td]
+*** PRE-FLOP *** 
+Frankinstain folds
+GoodGirls folds
+Branco2022 raises 300 to 500
+YL_ML_GL_42 calls 500
+ParisBNight calls 400
+Marmotton34 calls 300
+*** FLOP *** [5h 9h Ks]
+ParisBNight checks
+Marmotton34 bets 1785
+Branco2022 folds
+YL_ML_GL_42 folds
+ParisBNight calls 1785
+*** TURN *** [5h 9h Ks][7h]
+ParisBNight checks
+Marmotton34 bets 4176
+ParisBNight calls 4176
+*** RIVER *** [5h 9h Ks 7h][8s]
+ParisBNight checks
+Marmotton34 checks
+*** SHOW DOWN ***
+ParisBNight shows [Kh Js] (One pair : Kings)
+Marmotton34 shows [5c 9c] (Two pairs : 9 and 5)
+Marmotton34 collected 14072 from pot
+*** SUMMARY ***
+Total pot 14072 | No rake
+Board: [5h 9h Ks 7h 8s]
+Seat 1: ParisBNight (small blind) showed [Kh Js] and lost with One pair : Kings
+Seat 2: Marmotton34 (big blind) showed [5c 9c] and won 14072 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-7-1669572260 - Holdem no limit (25/100/200) - 2022/11/27 18:04:20 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #1 is the button
+Seat 1: ParisBNight (13189)
+Seat 2: Marmotton34 (23900)
+Seat 3: Frankinstain (20000)
+Seat 4: GoodGirls (19975)
+Seat 5: Branco2022 (19150)
+Seat 6: YL_ML_GL_42 (23811)
+*** ANTE/BLINDS ***
+Marmotton34 posts ante 25
+Frankinstain posts ante 25
+ParisBNight posts ante 25
+GoodGirls posts ante 25
+Branco2022 posts ante 25
+YL_ML_GL_42 posts ante 25
+Marmotton34 posts small blind 100
+Frankinstain posts big blind 200
+Dealt to YL_ML_GL_42 [Qs Ks]
+*** PRE-FLOP *** 
+GoodGirls folds
+Branco2022 raises 300 to 500
+YL_ML_GL_42 calls 500
+ParisBNight folds
+Marmotton34 calls 400
+Frankinstain folds
+*** FLOP *** [7s Kc Kd]
+Marmotton34 checks
+Branco2022 checks
+YL_ML_GL_42 checks
+*** TURN *** [7s Kc Kd][Qc]
+Marmotton34 checks
+Branco2022 checks
+YL_ML_GL_42 bets 463
+Marmotton34 folds
+Branco2022 calls 463
+*** RIVER *** [7s Kc Kd Qc][3s]
+Branco2022 checks
+YL_ML_GL_42 bets 1388
+Branco2022 folds
+YL_ML_GL_42 collected 4164 from pot
+*** SUMMARY ***
+Total pot 4164 | No rake
+Board: [7s Kc Kd Qc 3s]
+Seat 6: YL_ML_GL_42 won 4164
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-8-1669572363 - Holdem no limit (25/100/200) - 2022/11/27 18:06:03 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #2 is the button
+Seat 1: ParisBNight (13164)
+Seat 2: Marmotton34 (23375)
+Seat 3: Frankinstain (19775)
+Seat 4: GoodGirls (19950)
+Seat 6: YL_ML_GL_42 (25599)
+*** ANTE/BLINDS ***
+Frankinstain posts ante 25
+GoodGirls posts ante 25
+ParisBNight posts ante 25
+Marmotton34 posts ante 25
+YL_ML_GL_42 posts ante 25
+Frankinstain posts small blind 100
+GoodGirls posts big blind 200
+Dealt to YL_ML_GL_42 [Jc 3h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ParisBNight raises 300 to 500
+Marmotton34 folds
+Frankinstain folds
+GoodGirls folds
+ParisBNight collected 925 from pot
+*** SUMMARY ***
+Total pot 925 | No rake
+Seat 1: ParisBNight won 925
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-9-1669572388 - Holdem no limit (25/100/200) - 2022/11/27 18:06:28 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #3 is the button
+Seat 1: ParisBNight (13564)
+Seat 2: Marmotton34 (23350)
+Seat 3: Frankinstain (19650)
+Seat 4: GoodGirls (19725)
+Seat 5: kingofpoker5 (20000)
+Seat 6: YL_ML_GL_42 (25574)
+*** ANTE/BLINDS ***
+GoodGirls posts ante 25
+kingofpoker5 posts ante 25
+ParisBNight posts ante 25
+Marmotton34 posts ante 25
+Frankinstain posts ante 25
+YL_ML_GL_42 posts ante 25
+GoodGirls posts small blind 100
+kingofpoker5 posts big blind 200
+Dealt to YL_ML_GL_42 [5s 9c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ParisBNight raises 300 to 500
+Marmotton34 folds
+Frankinstain raises 1000 to 1500
+GoodGirls folds
+kingofpoker5 folds
+ParisBNight calls 1000
+*** FLOP *** [4h 4c 3c]
+ParisBNight checks
+Frankinstain bets 1139
+ParisBNight raises 3325 to 4464
+Frankinstain calls 3325
+*** TURN *** [4h 4c 3c][6c]
+ParisBNight bets 7575 and is all-in
+Frankinstain folds
+ParisBNight collected 19953 from pot
+*** SUMMARY ***
+Total pot 19953 | No rake
+Board: [4h 4c 3c 6c]
+Seat 1: ParisBNight won 19953
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-10-1669572446 - Holdem no limit (25/100/200) - 2022/11/27 18:07:26 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #4 is the button
+Seat 1: ParisBNight (19953)
+Seat 2: Marmotton34 (23325)
+Seat 3: Frankinstain (13661)
+Seat 4: GoodGirls (19600)
+Seat 5: kingofpoker5 (19775)
+Seat 6: YL_ML_GL_42 (25549)
+*** ANTE/BLINDS ***
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+ParisBNight posts ante 25
+Marmotton34 posts ante 25
+Frankinstain posts ante 25
+GoodGirls posts ante 25
+kingofpoker5 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [4c Kc]
+*** PRE-FLOP *** 
+ParisBNight folds
+Marmotton34 raises 400 to 600
+Frankinstain folds
+GoodGirls calls 600
+kingofpoker5 folds
+YL_ML_GL_42 calls 400
+*** FLOP *** [As 8d 3d]
+YL_ML_GL_42 checks
+Marmotton34 bets 1400
+GoodGirls folds
+YL_ML_GL_42 folds
+Marmotton34 collected 3450 from pot
+*** SUMMARY ***
+Total pot 3450 | No rake
+Board: [As 8d 3d]
+Seat 2: Marmotton34 won 3450
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-11-1669572498 - Holdem no limit (25/100/200) - 2022/11/27 18:08:18 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #5 is the button
+Seat 1: ParisBNight (19928)
+Seat 2: donjofan2012 (20000)
+Seat 3: Frankinstain (13636)
+Seat 4: GoodGirls (18975)
+Seat 5: kingofpoker5 (19650)
+Seat 6: YL_ML_GL_42 (24924)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+ParisBNight posts ante 25
+donjofan2012 posts ante 25
+Frankinstain posts ante 25
+GoodGirls posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts small blind 100
+ParisBNight posts big blind 200
+Dealt to YL_ML_GL_42 [Td Ad]
+*** PRE-FLOP *** 
+donjofan2012 folds
+Frankinstain folds
+GoodGirls raises 250 to 450
+kingofpoker5 folds
+YL_ML_GL_42 raises 959 to 1409
+ParisBNight folds
+GoodGirls calls 959
+*** FLOP *** [5s 3h 3s]
+YL_ML_GL_42 bets 2059
+GoodGirls raises 15482 to 17541 and is all-in
+YL_ML_GL_42 folds
+GoodGirls collected 22768 from pot
+*** SUMMARY ***
+Total pot 22768 | No rake
+Board: [5s 3h 3s]
+Seat 4: GoodGirls won 22768
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-12-1669572562 - Holdem no limit (25/100/200) - 2022/11/27 18:09:22 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #6 is the button
+Seat 1: ParisBNight (19703)
+Seat 2: donjofan2012 (19975)
+Seat 3: Frankinstain (13611)
+Seat 4: GoodGirls (22768)
+Seat 5: kingofpoker5 (19625)
+Seat 6: YL_ML_GL_42 (21431)
+*** ANTE/BLINDS ***
+ParisBNight posts ante 25
+donjofan2012 posts ante 25
+Frankinstain posts ante 25
+GoodGirls posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+ParisBNight posts small blind 100
+donjofan2012 posts big blind 200
+Dealt to YL_ML_GL_42 [Qc 6d]
+*** PRE-FLOP *** 
+Frankinstain raises 200 to 400
+GoodGirls folds
+kingofpoker5 folds
+YL_ML_GL_42 folds
+ParisBNight calls 300
+donjofan2012 raises 19550 to 19950 and is all-in
+Frankinstain calls 13186 and is all-in
+ParisBNight folds
+*** FLOP *** [Qd 6c Kc]
+*** TURN *** [Qd 6c Kc][As]
+*** RIVER *** [Qd 6c Kc As][Ah]
+*** SHOW DOWN ***
+donjofan2012 shows [Td Tc] (Two pairs : Aces and Tens)
+Frankinstain shows [Kd Ks] (Full of Kings and Aces)
+Frankinstain collected 27722 from main pot
+donjofan2012 collected 6364 from side pot 1
+*** SUMMARY ***
+Total pot 34086 | No rake
+Board: [Qd 6c Kc As Ah]
+Seat 2: donjofan2012 (big blind) showed [Td Tc] and won 6364 with Two pairs : Aces and Tens
+Seat 3: Frankinstain showed [Kd Ks] and won 27722 with Full of Kings and Aces
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-13-1669572598 - Holdem no limit (25/100/200) - 2022/11/27 18:09:58 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #1 is the button
+Seat 1: ParisBNight (19278)
+Seat 2: donjofan2012 (6364)
+Seat 3: Frankinstain (27722)
+Seat 4: GoodGirls (22743)
+Seat 5: kingofpoker5 (19600)
+Seat 6: YL_ML_GL_42 (21406)
+*** ANTE/BLINDS ***
+donjofan2012 posts ante 25
+Frankinstain posts ante 25
+ParisBNight posts ante 25
+GoodGirls posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+donjofan2012 posts small blind 100
+Frankinstain posts big blind 200
+Dealt to YL_ML_GL_42 [Jh 4c]
+*** PRE-FLOP *** 
+GoodGirls folds
+kingofpoker5 folds
+YL_ML_GL_42 folds
+ParisBNight calls 200
+donjofan2012 calls 100
+Frankinstain raises 900 to 1100
+ParisBNight calls 900
+donjofan2012 calls 900
+*** FLOP *** [2d 7h As]
+donjofan2012 bets 2243
+Frankinstain calls 2243
+ParisBNight folds
+*** TURN *** [2d 7h As][5d]
+donjofan2012 bets 2996 and is all-in
+Frankinstain calls 2996
+*** RIVER *** [2d 7h As 5d][Js]
+*** SHOW DOWN ***
+donjofan2012 shows [2c 6c] (One pair : 2)
+Frankinstain shows [Kc Ad] (One pair : Aces)
+Frankinstain collected 13928 from pot
+*** SUMMARY ***
+Total pot 13928 | No rake
+Board: [2d 7h As 5d Js]
+Seat 2: donjofan2012 (small blind) showed [2c 6c] and lost with One pair : 2
+Seat 3: Frankinstain (big blind) showed [Kc Ad] and won 13928 with One pair : Aces
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-14-1669572705 - Holdem no limit (25/100/200) - 2022/11/27 18:11:45 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #2 is the button
+Seat 1: ParisBNight (18153)
+Seat 3: Frankinstain (35286)
+Seat 4: GoodGirls (22718)
+Seat 5: kingofpoker5 (19575)
+Seat 6: YL_ML_GL_42 (21381)
+*** ANTE/BLINDS ***
+Frankinstain posts ante 25
+GoodGirls posts ante 25
+ParisBNight posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+Frankinstain posts small blind 100
+GoodGirls posts big blind 200
+Dealt to YL_ML_GL_42 [8s 5s]
+*** PRE-FLOP *** 
+kingofpoker5 folds
+YL_ML_GL_42 folds
+ParisBNight raises 300 to 500
+Frankinstain folds
+GoodGirls calls 300
+*** FLOP *** [Qh 3d 6h]
+GoodGirls checks
+ParisBNight checks
+*** TURN *** [Qh 3d 6h][Kh]
+GoodGirls checks
+ParisBNight bets 613
+GoodGirls folds
+ParisBNight collected 1838 from pot
+*** SUMMARY ***
+Total pot 1838 | No rake
+Board: [Qh 3d 6h Kh]
+Seat 1: ParisBNight won 1838
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-15-1669572762 - Holdem no limit (25/100/200) - 2022/11/27 18:12:42 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #3 is the button
+Seat 1: ParisBNight (18853)
+Seat 2: LY-DAWA (20000)
+Seat 3: Frankinstain (35161)
+Seat 4: GoodGirls (22193)
+Seat 5: kingofpoker5 (19550)
+Seat 6: YL_ML_GL_42 (21356)
+*** ANTE/BLINDS ***
+GoodGirls posts ante 25
+kingofpoker5 posts ante 25
+ParisBNight posts ante 25
+LY-DAWA posts ante 25
+Frankinstain posts ante 25
+YL_ML_GL_42 posts ante 25
+GoodGirls posts small blind 100
+kingofpoker5 posts big blind 200
+Dealt to YL_ML_GL_42 [7c 3d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ParisBNight raises 300 to 500
+LY-DAWA folds
+Frankinstain folds
+GoodGirls folds
+kingofpoker5 folds
+ParisBNight collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 1: ParisBNight won 950
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-16-1669572777 - Holdem no limit (25/100/200) - 2022/11/27 18:12:57 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #4 is the button
+Seat 1: ParisBNight (19278)
+Seat 2: LY-DAWA (19975)
+Seat 3: Frankinstain (35136)
+Seat 4: GoodGirls (22068)
+Seat 5: kingofpoker5 (19325)
+Seat 6: YL_ML_GL_42 (21331)
+*** ANTE/BLINDS ***
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+ParisBNight posts ante 25
+LY-DAWA posts ante 25
+Frankinstain posts ante 25
+GoodGirls posts ante 25
+kingofpoker5 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [3h Kh]
+*** PRE-FLOP *** 
+ParisBNight folds
+LY-DAWA calls 200
+Frankinstain folds
+GoodGirls folds
+kingofpoker5 folds
+YL_ML_GL_42 checks
+*** FLOP *** [9c 6c Kc]
+YL_ML_GL_42 checks
+LY-DAWA checks
+*** TURN *** [9c 6c Kc][3d]
+YL_ML_GL_42 bets 423
+LY-DAWA folds
+YL_ML_GL_42 collected 1073 from pot
+*** SUMMARY ***
+Total pot 1073 | No rake
+Board: [9c 6c Kc 3d]
+Seat 6: YL_ML_GL_42 (big blind) won 1073
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-17-1669572821 - Holdem no limit (25/100/200) - 2022/11/27 18:13:41 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #5 is the button
+Seat 1: ParisBNight (19253)
+Seat 3: Frankinstain (35111)
+Seat 4: GoodGirls (22043)
+Seat 5: kingofpoker5 (19200)
+Seat 6: YL_ML_GL_42 (21756)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+ParisBNight posts ante 25
+Frankinstain posts ante 25
+GoodGirls posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts small blind 100
+ParisBNight posts big blind 200
+Dealt to YL_ML_GL_42 [Kh 6h]
+*** PRE-FLOP *** 
+Frankinstain folds
+GoodGirls folds
+kingofpoker5 raises 320 to 520
+YL_ML_GL_42 calls 420
+ParisBNight folds
+*** FLOP *** [8c 9h 3c]
+YL_ML_GL_42 checks
+kingofpoker5 checks
+*** TURN *** [8c 9h 3c][Th]
+YL_ML_GL_42 bets 887
+kingofpoker5 calls 887
+*** RIVER *** [8c 9h 3c Th][4d]
+YL_ML_GL_42 checks
+kingofpoker5 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kh 6h] (High card : King)
+kingofpoker5 shows [As Qs] (High card : Ace)
+kingofpoker5 collected 3139 from pot
+*** SUMMARY ***
+Total pot 3139 | No rake
+Board: [8c 9h 3c Th 4d]
+Seat 5: kingofpoker5 (button) showed [As Qs] and won 3139 with High card : Ace
+Seat 6: YL_ML_GL_42 (small blind) showed [Kh 6h] and lost with High card : King
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-18-1669572874 - Holdem no limit (25/100/200) - 2022/11/27 18:14:34 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #6 is the button
+Seat 1: ParisBNight (19028)
+Seat 2: Be winner (20000)
+Seat 3: Frankinstain (35086)
+Seat 4: GoodGirls (22018)
+Seat 5: kingofpoker5 (20907)
+Seat 6: YL_ML_GL_42 (20324)
+*** ANTE/BLINDS ***
+ParisBNight posts ante 25
+Be winner posts ante 25
+Frankinstain posts ante 25
+GoodGirls posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+ParisBNight posts small blind 100
+Be winner posts big blind 200
+Dealt to YL_ML_GL_42 [3c 8s]
+*** PRE-FLOP *** 
+Frankinstain folds
+GoodGirls raises 200 to 400
+kingofpoker5 folds
+YL_ML_GL_42 folds
+ParisBNight calls 300
+Be winner calls 200
+*** FLOP *** [Jd Qd Ad]
+ParisBNight checks
+Be winner checks
+GoodGirls bets 300
+ParisBNight folds
+Be winner calls 300
+*** TURN *** [Jd Qd Ad][2d]
+Be winner checks
+GoodGirls checks
+*** RIVER *** [Jd Qd Ad 2d][3s]
+Be winner checks
+GoodGirls checks
+*** SHOW DOWN ***
+GoodGirls shows [8c Kc] (High card : Ace)
+Be winner shows [Qc Tc] (One pair : Queens)
+Be winner collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | No rake
+Board: [Jd Qd Ad 2d 3s]
+Seat 2: Be winner (big blind) showed [Qc Tc] and won 1950 with One pair : Queens
+Seat 4: GoodGirls showed [8c Kc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-19-1669572939 - Holdem no limit (25/100/200) - 2022/11/27 18:15:39 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #1 is the button
+Seat 1: ParisBNight (18603)
+Seat 2: Be winner (21225)
+Seat 3: Frankinstain (35061)
+Seat 4: GoodGirls (21293)
+Seat 5: kingofpoker5 (20882)
+Seat 6: YL_ML_GL_42 (20299)
+*** ANTE/BLINDS ***
+Be winner posts ante 25
+Frankinstain posts ante 25
+ParisBNight posts ante 25
+GoodGirls posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+Be winner posts small blind 100
+Frankinstain posts big blind 200
+Dealt to YL_ML_GL_42 [Qh 7c]
+*** PRE-FLOP *** 
+GoodGirls raises 200 to 400
+kingofpoker5 raises 1000 to 1400
+YL_ML_GL_42 folds
+ParisBNight folds
+Be winner folds
+Frankinstain folds
+GoodGirls calls 1000
+*** FLOP *** [4c 2h Kd]
+GoodGirls checks
+kingofpoker5 checks
+*** TURN *** [4c 2h Kd][2d]
+GoodGirls bets 200
+kingofpoker5 folds
+GoodGirls collected 3450 from pot
+*** SUMMARY ***
+Total pot 3450 | No rake
+Board: [4c 2h Kd 2d]
+Seat 4: GoodGirls won 3450
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-20-1669573044 - Holdem no limit (25/100/200) - 2022/11/27 18:17:24 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #2 is the button
+Seat 1: ParisBNight (18578)
+Seat 2: Be winner (21100)
+Seat 3: Frankinstain (34836)
+Seat 4: GoodGirls (23118)
+Seat 5: kingofpoker5 (19457)
+Seat 6: YL_ML_GL_42 (20274)
+*** ANTE/BLINDS ***
+Frankinstain posts ante 25
+GoodGirls posts ante 25
+ParisBNight posts ante 25
+Be winner posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+Frankinstain posts small blind 100
+GoodGirls posts big blind 200
+Dealt to YL_ML_GL_42 [8h 7d]
+*** PRE-FLOP *** 
+kingofpoker5 folds
+YL_ML_GL_42 folds
+ParisBNight folds
+Be winner folds
+Frankinstain raises 500 to 700
+GoodGirls folds
+Frankinstain collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 3: Frankinstain (small blind) won 1050
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-21-1669573063 - Holdem no limit (25/100/200) - 2022/11/27 18:17:43 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #3 is the button
+Seat 1: ParisBNight (18553)
+Seat 2: Be winner (21075)
+Seat 3: Frankinstain (35161)
+Seat 4: GoodGirls (22893)
+Seat 5: kingofpoker5 (19432)
+Seat 6: YL_ML_GL_42 (20249)
+*** ANTE/BLINDS ***
+GoodGirls posts ante 25
+kingofpoker5 posts ante 25
+ParisBNight posts ante 25
+Be winner posts ante 25
+Frankinstain posts ante 25
+YL_ML_GL_42 posts ante 25
+GoodGirls posts small blind 100
+kingofpoker5 posts big blind 200
+Dealt to YL_ML_GL_42 [4s Qh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ParisBNight raises 300 to 500
+Be winner calls 500
+Frankinstain folds
+GoodGirls raises 1850 to 2350
+kingofpoker5 folds
+ParisBNight folds
+Be winner folds
+GoodGirls collected 3700 from pot
+*** SUMMARY ***
+Total pot 3700 | No rake
+Seat 4: GoodGirls (small blind) won 3700
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-22-1669573106 - Holdem no limit (25/100/200) - 2022/11/27 18:18:26 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #4 is the button
+Seat 1: ParisBNight (18028)
+Seat 2: Be winner (20550)
+Seat 3: Frankinstain (35136)
+Seat 4: GoodGirls (24218)
+Seat 5: kingofpoker5 (19207)
+Seat 6: YL_ML_GL_42 (20224)
+*** ANTE/BLINDS ***
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+ParisBNight posts ante 25
+Be winner posts ante 25
+Frankinstain posts ante 25
+GoodGirls posts ante 25
+kingofpoker5 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [3c 6h]
+*** PRE-FLOP *** 
+ParisBNight raises 300 to 500
+Be winner folds
+Frankinstain folds
+GoodGirls folds
+kingofpoker5 folds
+YL_ML_GL_42 folds
+ParisBNight collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 1: ParisBNight won 950
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-23-1669573140 - Holdem no limit (25/100/200) - 2022/11/27 18:19:00 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #5 is the button
+Seat 1: ParisBNight (18453)
+Seat 2: Be winner (20525)
+Seat 3: Frankinstain (35111)
+Seat 4: GoodGirls (24193)
+Seat 5: kingofpoker5 (19082)
+Seat 6: YL_ML_GL_42 (19999)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+ParisBNight posts ante 25
+Be winner posts ante 25
+Frankinstain posts ante 25
+GoodGirls posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts small blind 100
+ParisBNight posts big blind 200
+Dealt to YL_ML_GL_42 [9s 5d]
+*** PRE-FLOP *** 
+Be winner raises 200 to 400
+Frankinstain raises 900 to 1300
+GoodGirls folds
+kingofpoker5 folds
+YL_ML_GL_42 folds
+ParisBNight calls 1100
+Be winner calls 900
+*** FLOP *** [As 3c 7s]
+ParisBNight checks
+Be winner checks
+Frankinstain bets 1826
+ParisBNight folds
+Be winner calls 1826
+*** TURN *** [As 3c 7s][Ad]
+Be winner checks
+Frankinstain bets 3800
+Be winner calls 3800
+*** RIVER *** [As 3c 7s Ad][2s]
+Be winner bets 13574 and is all-in
+Frankinstain calls 13574
+*** SHOW DOWN ***
+Frankinstain shows [Ac Qc] (Trips of Aces)
+Be winner shows [8s Qs] (Flush Ace high)
+Be winner collected 42550 from pot
+*** SUMMARY ***
+Total pot 42550 | No rake
+Board: [As 3c 7s Ad 2s]
+Seat 2: Be winner showed [8s Qs] and won 42550 with Flush Ace high
+Seat 3: Frankinstain showed [Ac Qc] and lost with Trips of Aces
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-24-1669573235 - Holdem no limit (25/100/200) - 2022/11/27 18:20:35 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #6 is the button
+Seat 1: ParisBNight (17128)
+Seat 2: Be winner (42550)
+Seat 3: Frankinstain (14586)
+Seat 4: GoodGirls (24168)
+Seat 5: kingofpoker5 (19057)
+Seat 6: YL_ML_GL_42 (19874)
+*** ANTE/BLINDS ***
+ParisBNight posts ante 25
+Be winner posts ante 25
+Frankinstain posts ante 25
+GoodGirls posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+ParisBNight posts small blind 100
+Be winner posts big blind 200
+Dealt to YL_ML_GL_42 [6s 5c]
+*** PRE-FLOP *** 
+Frankinstain folds
+GoodGirls folds
+kingofpoker5 folds
+YL_ML_GL_42 folds
+ParisBNight calls 100
+Be winner raises 500 to 700
+ParisBNight calls 500
+*** FLOP *** [5h Qh Qs]
+ParisBNight checks
+Be winner bets 512
+ParisBNight calls 512
+*** TURN *** [5h Qh Qs][Th]
+ParisBNight checks
+Be winner checks
+*** RIVER *** [5h Qh Qs Th][Ad]
+ParisBNight bets 1287
+Be winner folds
+ParisBNight collected 3861 from pot
+*** SUMMARY ***
+Total pot 3861 | No rake
+Board: [5h Qh Qs Th Ad]
+Seat 1: ParisBNight (small blind) won 3861
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-26-1669573348 - Holdem no limit (25/100/200) - 2022/11/27 18:22:28 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #2 is the button
+Seat 1: ParisBNight (19765)
+Seat 2: Be winner (40313)
+Seat 3: Frankinstain (14336)
+Seat 4: Bufak (19975)
+Seat 5: kingofpoker5 (19007)
+Seat 6: YL_ML_GL_42 (19824)
+*** ANTE/BLINDS ***
+Frankinstain posts ante 25
+Bufak posts ante 25
+ParisBNight posts ante 25
+Be winner posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+Frankinstain posts small blind 100
+Bufak posts big blind 200
+Dealt to YL_ML_GL_42 [Qd 8c]
+*** PRE-FLOP *** 
+kingofpoker5 folds
+YL_ML_GL_42 folds
+ParisBNight folds
+Be winner folds
+Frankinstain raises 500 to 700
+Bufak folds
+Frankinstain collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 3: Frankinstain (small blind) won 1050
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-27-1669573442 - Holdem no limit (25/100/200) - 2022/11/27 18:24:02 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #3 is the button
+Seat 1: ParisBNight (19740)
+Seat 2: Be winner (40288)
+Seat 3: Frankinstain (14661)
+Seat 4: Bufak (19750)
+Seat 5: kingofpoker5 (18982)
+Seat 6: YL_ML_GL_42 (19799)
+*** ANTE/BLINDS ***
+Bufak posts ante 25
+kingofpoker5 posts ante 25
+ParisBNight posts ante 25
+Be winner posts ante 25
+Frankinstain posts ante 25
+YL_ML_GL_42 posts ante 25
+Bufak posts small blind 100
+kingofpoker5 posts big blind 200
+Dealt to YL_ML_GL_42 [7h 3h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ParisBNight folds
+Be winner folds
+Frankinstain folds
+Bufak raises 200 to 400
+kingofpoker5 calls 200
+*** FLOP *** [Jd 6s 4c]
+Bufak bets 333
+kingofpoker5 folds
+Bufak collected 1283 from pot
+*** SUMMARY ***
+Total pot 1283 | No rake
+Board: [Jd 6s 4c]
+Seat 4: Bufak (small blind) won 1283
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-28-1669573469 - Holdem no limit (25/100/200) - 2022/11/27 18:24:29 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #4 is the button
+Seat 1: ParisBNight (19715)
+Seat 2: Be winner (40263)
+Seat 3: Frankinstain (14636)
+Seat 4: Bufak (20275)
+Seat 5: kingofpoker5 (18557)
+Seat 6: YL_ML_GL_42 (19774)
+*** ANTE/BLINDS ***
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+ParisBNight posts ante 25
+Be winner posts ante 25
+Frankinstain posts ante 25
+Bufak posts ante 25
+kingofpoker5 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [9d Ac]
+*** PRE-FLOP *** 
+ParisBNight folds
+Be winner raises 200 to 400
+Frankinstain folds
+Bufak folds
+kingofpoker5 folds
+YL_ML_GL_42 calls 200
+*** FLOP *** [Js 4s Ks]
+YL_ML_GL_42 checks
+Be winner bets 347
+YL_ML_GL_42 calls 347
+*** TURN *** [Js 4s Ks][7h]
+YL_ML_GL_42 checks
+Be winner bets 1251
+YL_ML_GL_42 folds
+Be winner collected 2995 from pot
+*** SUMMARY ***
+Total pot 2995 | No rake
+Board: [Js 4s Ks 7h]
+Seat 2: Be winner won 2995
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-29-1669573534 - Holdem no limit (25/100/200) - 2022/11/27 18:25:34 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #5 is the button
+Seat 1: ParisBNight (19690)
+Seat 2: Be winner (41235)
+Seat 3: Frankinstain (14611)
+Seat 4: Bufak (20250)
+Seat 5: kingofpoker5 (18432)
+Seat 6: YL_ML_GL_42 (19002)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+ParisBNight posts ante 25
+Be winner posts ante 25
+Frankinstain posts ante 25
+Bufak posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts small blind 100
+ParisBNight posts big blind 200
+Dealt to YL_ML_GL_42 [7h 9h]
+*** PRE-FLOP *** 
+Be winner raises 200 to 400
+Frankinstain raises 800 to 1200
+Bufak folds
+kingofpoker5 folds
+YL_ML_GL_42 folds
+ParisBNight folds
+Be winner calls 800
+*** FLOP *** [9s Kd Js]
+Be winner checks
+Frankinstain bets 1254
+Be winner folds
+Frankinstain collected 4104 from pot
+*** SUMMARY ***
+Total pot 4104 | No rake
+Board: [9s Kd Js]
+Seat 3: Frankinstain won 4104
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-30-1669573563 - Holdem no limit (25/100/200) - 2022/11/27 18:26:03 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #6 is the button
+Seat 1: ParisBNight (19465)
+Seat 2: Be winner (40010)
+Seat 3: Frankinstain (16236)
+Seat 4: Bufak (20225)
+Seat 5: kingofpoker5 (18407)
+Seat 6: YL_ML_GL_42 (18877)
+*** ANTE/BLINDS ***
+ParisBNight posts ante 25
+Be winner posts ante 25
+Frankinstain posts ante 25
+Bufak posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+ParisBNight posts small blind 100
+Be winner posts big blind 200
+Dealt to YL_ML_GL_42 [6d Ac]
+*** PRE-FLOP *** 
+Frankinstain folds
+Bufak folds
+kingofpoker5 folds
+YL_ML_GL_42 raises 650 to 850
+ParisBNight folds
+Be winner calls 650
+*** FLOP *** [7d 7h 9s]
+Be winner checks
+YL_ML_GL_42 bets 975
+Be winner calls 975
+*** TURN *** [7d 7h 9s][Kd]
+Be winner checks
+YL_ML_GL_42 checks
+*** RIVER *** [7d 7h 9s Kd][4c]
+Be winner bets 2574
+YL_ML_GL_42 folds
+Be winner collected 6474 from pot
+*** SUMMARY ***
+Total pot 6474 | No rake
+Board: [7d 7h 9s Kd 4c]
+Seat 2: Be winner (big blind) won 6474
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-31-1669573666 - Holdem no limit (25/100/200) - 2022/11/27 18:27:46 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #1 is the button
+Seat 1: ParisBNight (19340)
+Seat 2: Be winner (42060)
+Seat 3: Frankinstain (16211)
+Seat 4: Bufak (20200)
+Seat 5: kingofpoker5 (18382)
+Seat 6: YL_ML_GL_42 (17027)
+*** ANTE/BLINDS ***
+Be winner posts ante 25
+Frankinstain posts ante 25
+ParisBNight posts ante 25
+Bufak posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+Be winner posts small blind 100
+Frankinstain posts big blind 200
+Dealt to YL_ML_GL_42 [Kd 3h]
+*** PRE-FLOP *** 
+Bufak folds
+kingofpoker5 folds
+YL_ML_GL_42 folds
+ParisBNight folds
+Be winner calls 100
+Frankinstain checks
+*** FLOP *** [Td 9h Tc]
+Be winner bets 200
+Frankinstain raises 500 to 700
+Be winner folds
+Frankinstain collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Board: [Td 9h Tc]
+Seat 3: Frankinstain (big blind) won 1450
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-32-1669573708 - Holdem no limit (25/100/200) - 2022/11/27 18:28:28 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #2 is the button
+Seat 1: ParisBNight (19315)
+Seat 2: Be winner (41635)
+Seat 3: Frankinstain (16736)
+Seat 4: Bufak (20175)
+Seat 5: kingofpoker5 (18357)
+Seat 6: YL_ML_GL_42 (17002)
+*** ANTE/BLINDS ***
+Frankinstain posts ante 25
+Bufak posts ante 25
+ParisBNight posts ante 25
+Be winner posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+Frankinstain posts small blind 100
+Bufak posts big blind 200
+Dealt to YL_ML_GL_42 [Js 7s]
+*** PRE-FLOP *** 
+kingofpoker5 folds
+YL_ML_GL_42 folds
+ParisBNight folds
+Be winner folds
+Frankinstain raises 600 to 800
+Bufak raises 1600 to 2400
+Frankinstain raises 2800 to 5200
+Bufak folds
+Frankinstain collected 7750 from pot
+*** SUMMARY ***
+Total pot 7750 | No rake
+Seat 3: Frankinstain (small blind) won 7750
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-33-1669573769 - Holdem no limit (25/100/200) - 2022/11/27 18:29:29 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #3 is the button
+Seat 1: ParisBNight (19290)
+Seat 2: Be winner (41610)
+Seat 3: Frankinstain (19261)
+Seat 4: Bufak (17750)
+Seat 5: kingofpoker5 (18332)
+Seat 6: YL_ML_GL_42 (16977)
+*** ANTE/BLINDS ***
+Bufak posts ante 25
+kingofpoker5 posts ante 25
+ParisBNight posts ante 25
+Be winner posts ante 25
+Frankinstain posts ante 25
+YL_ML_GL_42 posts ante 25
+Bufak posts small blind 100
+kingofpoker5 posts big blind 200
+Dealt to YL_ML_GL_42 [7d 3d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ParisBNight folds
+Be winner raises 200 to 400
+Frankinstain folds
+Bufak folds
+kingofpoker5 folds
+Be winner collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 2: Be winner won 850
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-34-1669573806 - Holdem no limit (25/100/200) - 2022/11/27 18:30:06 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #4 is the button
+Seat 1: ParisBNight (19265)
+Seat 2: Be winner (42035)
+Seat 3: Frankinstain (19236)
+Seat 4: Bufak (17625)
+Seat 5: kingofpoker5 (18107)
+Seat 6: YL_ML_GL_42 (16952)
+*** ANTE/BLINDS ***
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+ParisBNight posts ante 25
+Be winner posts ante 25
+Frankinstain posts ante 25
+Bufak posts ante 25
+kingofpoker5 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Qc 2h]
+*** PRE-FLOP *** 
+ParisBNight folds
+Be winner raises 200 to 400
+Frankinstain folds
+Bufak folds
+kingofpoker5 folds
+YL_ML_GL_42 folds
+Be winner collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 2: Be winner won 850
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-35-1669573831 - Holdem no limit (25/100/200) - 2022/11/27 18:30:31 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #5 is the button
+Seat 1: ParisBNight (19240)
+Seat 2: Be winner (42460)
+Seat 3: Frankinstain (19211)
+Seat 4: Bufak (17600)
+Seat 5: kingofpoker5 (17982)
+Seat 6: YL_ML_GL_42 (16727)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+ParisBNight posts ante 25
+Be winner posts ante 25
+Frankinstain posts ante 25
+Bufak posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts small blind 100
+ParisBNight posts big blind 200
+Dealt to YL_ML_GL_42 [9d 3c]
+*** PRE-FLOP *** 
+Be winner folds
+Frankinstain folds
+Bufak folds
+kingofpoker5 raises 200 to 400
+YL_ML_GL_42 folds
+ParisBNight calls 200
+*** FLOP *** [Qs Tc 4h]
+ParisBNight checks
+kingofpoker5 bets 347
+ParisBNight calls 347
+*** TURN *** [Qs Tc 4h][Ah]
+ParisBNight checks
+kingofpoker5 bets 837
+ParisBNight raises 1291 to 2128
+kingofpoker5 calls 1291
+*** RIVER *** [Qs Tc 4h Ah][Qh]
+ParisBNight checks
+kingofpoker5 bets 1980
+ParisBNight calls 1980
+*** SHOW DOWN ***
+ParisBNight shows [Ad 7h] (Two pairs : Aces and Queens)
+kingofpoker5 shows [Js Qd] (Trips of Queens)
+kingofpoker5 collected 9960 from pot
+*** SUMMARY ***
+Total pot 9960 | No rake
+Board: [Qs Tc 4h Ah Qh]
+Seat 1: ParisBNight (big blind) showed [Ad 7h] and lost with Two pairs : Aces and Queens
+Seat 5: kingofpoker5 (button) showed [Js Qd] and won 9960 with Trips of Queens
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-36-1669573917 - Holdem no limit (25/100/200) - 2022/11/27 18:31:57 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #6 is the button
+Seat 1: ParisBNight (14360)
+Seat 2: Be winner (42435)
+Seat 3: Frankinstain (19186)
+Seat 4: Bufak (17575)
+Seat 5: kingofpoker5 (23062)
+Seat 6: YL_ML_GL_42 (16602)
+*** ANTE/BLINDS ***
+ParisBNight posts ante 25
+Be winner posts ante 25
+Frankinstain posts ante 25
+Bufak posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+ParisBNight posts small blind 100
+Be winner posts big blind 200
+Dealt to YL_ML_GL_42 [4h Ks]
+*** PRE-FLOP *** 
+Frankinstain folds
+Bufak raises 200 to 400
+kingofpoker5 raises 1000 to 1400
+YL_ML_GL_42 folds
+ParisBNight folds
+Be winner folds
+Bufak folds
+kingofpoker5 collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | No rake
+Seat 5: kingofpoker5 won 2250
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-37-1669573956 - Holdem no limit (25/100/200) - 2022/11/27 18:32:36 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #1 is the button
+Seat 1: ParisBNight (14235)
+Seat 2: Be winner (42210)
+Seat 3: Frankinstain (19161)
+Seat 4: Bufak (17150)
+Seat 5: kingofpoker5 (23887)
+Seat 6: YL_ML_GL_42 (16577)
+*** ANTE/BLINDS ***
+Be winner posts ante 25
+Frankinstain posts ante 25
+ParisBNight posts ante 25
+Bufak posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+Be winner posts small blind 100
+Frankinstain posts big blind 200
+Dealt to YL_ML_GL_42 [Kd Th]
+*** PRE-FLOP *** 
+Bufak folds
+kingofpoker5 raises 200 to 400
+YL_ML_GL_42 folds
+ParisBNight calls 400
+Be winner folds
+Frankinstain folds
+*** FLOP *** [4c 6d Ts]
+kingofpoker5 checks
+ParisBNight checks
+*** TURN *** [4c 6d Ts][8c]
+kingofpoker5 bets 413
+ParisBNight calls 413
+*** RIVER *** [4c 6d Ts 8c][5d]
+kingofpoker5 checks
+ParisBNight bets 2076
+kingofpoker5 folds
+ParisBNight collected 4152 from pot
+*** SUMMARY ***
+Total pot 4152 | No rake
+Board: [4c 6d Ts 8c 5d]
+Seat 1: ParisBNight (button) won 4152
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-38-1669574047 - Holdem no limit (25/100/200) - 2022/11/27 18:34:07 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #2 is the button
+Seat 1: ParisBNight (15473)
+Seat 2: Be winner (42085)
+Seat 3: Frankinstain (18936)
+Seat 4: Bufak (17125)
+Seat 5: kingofpoker5 (23049)
+Seat 6: YL_ML_GL_42 (16552)
+*** ANTE/BLINDS ***
+Frankinstain posts ante 25
+Bufak posts ante 25
+ParisBNight posts ante 25
+Be winner posts ante 25
+kingofpoker5 posts ante 25
+YL_ML_GL_42 posts ante 25
+Frankinstain posts small blind 100
+Bufak posts big blind 200
+Dealt to YL_ML_GL_42 [As Qs]
+*** PRE-FLOP *** 
+kingofpoker5 raises 200 to 400
+YL_ML_GL_42 raises 1250 to 1650
+ParisBNight folds
+Be winner folds
+Frankinstain folds
+Bufak folds
+kingofpoker5 folds
+YL_ML_GL_42 collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Seat 6: YL_ML_GL_42 won 2500
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2554501669823971423-39-1669574073 - Holdem no limit (25/100/200) - 2022/11/27 18:34:33 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #3 is the button
+Seat 1: ParisBNight (15448)
+Seat 2: Be winner (42060)
+Seat 3: Frankinstain (18811)
+Seat 4: Bufak (16900)
+Seat 5: kingofpoker5 (22624)
+Seat 6: YL_ML_GL_42 (17377)
+*** ANTE/BLINDS ***
+Bufak posts ante 25
+kingofpoker5 posts ante 25
+ParisBNight posts ante 25
+Be winner posts ante 25
+Frankinstain posts ante 25
+YL_ML_GL_42 posts ante 25
+Bufak posts small blind 100
+kingofpoker5 posts big blind 200
+Dealt to YL_ML_GL_42 [7s Qd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ParisBNight raises 300 to 500
+Be winner folds
+Frankinstain calls 500
+Bufak calls 400
+kingofpoker5 calls 300
+*** FLOP *** [9c 5h Qs]
+Bufak checks
+kingofpoker5 checks
+ParisBNight checks
+Frankinstain bets 710
+Bufak folds
+kingofpoker5 folds
+ParisBNight calls 710
+*** TURN *** [9c 5h Qs][Ts]
+ParisBNight checks
+Frankinstain bets 1178
+ParisBNight raises 2374 to 3552
+Frankinstain calls 2374
+*** RIVER *** [9c 5h Qs Ts][5s]
+ParisBNight checks
+Frankinstain checks
+*** SHOW DOWN ***
+Frankinstain shows [Th Jh] (Two pairs : Tens and 5)
+ParisBNight shows [8d 5d] (Trips of 5)
+ParisBNight collected 10674 from pot
+*** SUMMARY ***
+Total pot 10674 | No rake
+Board: [9c 5h Qs Ts 5s]
+Seat 1: ParisBNight showed [8d 5d] and won 10674 with Trips of 5
+Seat 3: Frankinstain (button) showed [Th Jh] and lost with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2554501669823971423-40-1669574197 - Holdem no limit (30/125/250) - 2022/11/27 18:36:37 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #4 is the button
+Seat 2: Be winner (42035)
+Seat 3: Frankinstain (14024)
+Seat 4: Bufak (16375)
+Seat 5: kingofpoker5 (22099)
+Seat 6: YL_ML_GL_42 (17352)
+*** ANTE/BLINDS ***
+kingofpoker5 posts ante 30
+YL_ML_GL_42 posts ante 30
+Be winner posts ante 30
+Frankinstain posts ante 30
+Bufak posts ante 30
+kingofpoker5 posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [Js Kh]
+*** PRE-FLOP *** 
+Be winner folds
+Frankinstain folds
+Bufak raises 250 to 500
+kingofpoker5 calls 375
+YL_ML_GL_42 calls 250
+*** FLOP *** [4d 7h Ah]
+kingofpoker5 checks
+YL_ML_GL_42 checks
+Bufak bets 413
+kingofpoker5 folds
+YL_ML_GL_42 folds
+Bufak collected 2063 from pot
+*** SUMMARY ***
+Total pot 2063 | No rake
+Board: [4d 7h Ah]
+Seat 4: Bufak (button) won 2063
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2554501669823971423-41-1669574241 - Holdem no limit (30/125/250) - 2022/11/27 18:37:21 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #5 is the button
+Seat 1: Dreas178 (20000)
+Seat 2: Be winner (42005)
+Seat 3: Frankinstain (13994)
+Seat 4: Bufak (17495)
+Seat 5: kingofpoker5 (21569)
+Seat 6: YL_ML_GL_42 (16822)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 30
+Dreas178 posts ante 30
+Be winner posts ante 30
+Frankinstain posts ante 30
+Bufak posts ante 30
+kingofpoker5 posts ante 30
+YL_ML_GL_42 posts small blind 125
+Dreas178 posts big blind 250
+Dealt to YL_ML_GL_42 [9d 9c]
+*** PRE-FLOP *** 
+Be winner raises 250 to 500
+Frankinstain folds
+Bufak folds
+kingofpoker5 calls 500
+YL_ML_GL_42 calls 375
+Dreas178 calls 250
+*** FLOP *** [Ac 8s 9s]
+YL_ML_GL_42 checks
+Dreas178 checks
+Be winner checks
+kingofpoker5 checks
+*** TURN *** [Ac 8s 9s][Jh]
+YL_ML_GL_42 bets 545
+Dreas178 raises 955 to 1500
+Be winner calls 1500
+kingofpoker5 calls 1500
+YL_ML_GL_42 raises 6135 to 7635
+Dreas178 folds
+Be winner folds
+kingofpoker5 folds
+YL_ML_GL_42 collected 14315 from pot
+*** SUMMARY ***
+Total pot 14315 | No rake
+Board: [Ac 8s 9s Jh]
+Seat 6: YL_ML_GL_42 (small blind) won 14315
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2554501669823971423-42-1669574344 - Holdem no limit (30/125/250) - 2022/11/27 18:39:04 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #6 is the button
+Seat 1: Dreas178 (17970)
+Seat 2: Be winner (39975)
+Seat 3: Frankinstain (13964)
+Seat 4: Bufak (17465)
+Seat 5: kingofpoker5 (19539)
+Seat 6: YL_ML_GL_42 (22972)
+*** ANTE/BLINDS ***
+Dreas178 posts ante 30
+Be winner posts ante 30
+Frankinstain posts ante 30
+Bufak posts ante 30
+kingofpoker5 posts ante 30
+YL_ML_GL_42 posts ante 30
+Dreas178 posts small blind 125
+Be winner posts big blind 250
+Dealt to YL_ML_GL_42 [Ts 3h]
+*** PRE-FLOP *** 
+Frankinstain folds
+Bufak folds
+kingofpoker5 raises 250 to 500
+YL_ML_GL_42 folds
+Dreas178 folds
+Be winner raises 1500 to 2000
+kingofpoker5 folds
+Be winner collected 2805 from pot
+*** SUMMARY ***
+Total pot 2805 | No rake
+Seat 2: Be winner (big blind) won 2805
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2554501669823971423-43-1669574375 - Holdem no limit (30/125/250) - 2022/11/27 18:39:35 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #1 is the button
+Seat 1: Dreas178 (17815)
+Seat 2: Be winner (40750)
+Seat 3: Frankinstain (13934)
+Seat 4: Bufak (17435)
+Seat 5: kingofpoker5 (19009)
+Seat 6: YL_ML_GL_42 (22942)
+*** ANTE/BLINDS ***
+Be winner posts ante 30
+Frankinstain posts ante 30
+Dreas178 posts ante 30
+Bufak posts ante 30
+kingofpoker5 posts ante 30
+YL_ML_GL_42 posts ante 30
+Be winner posts small blind 125
+Frankinstain posts big blind 250
+Dealt to YL_ML_GL_42 [2c Js]
+*** PRE-FLOP *** 
+Bufak folds
+kingofpoker5 folds
+YL_ML_GL_42 folds
+Dreas178 raises 375 to 625
+Be winner raises 1875 to 2500
+Frankinstain folds
+Dreas178 calls 1875
+*** FLOP *** [2h 8h Ts]
+Be winner checks
+Dreas178 bets 1358
+Be winner calls 1358
+*** TURN *** [2h 8h Ts][Tc]
+Be winner checks
+Dreas178 checks
+*** RIVER *** [2h 8h Ts Tc][Jc]
+Be winner checks
+Dreas178 bets 2688
+Be winner folds
+Dreas178 collected 10834 from pot
+*** SUMMARY ***
+Total pot 10834 | No rake
+Board: [2h 8h Ts Tc Jc]
+Seat 1: Dreas178 (button) won 10834
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2554501669823971423-44-1669574491 - Holdem no limit (30/125/250) - 2022/11/27 18:41:31 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #2 is the button
+Seat 1: Dreas178 (22073)
+Seat 2: Be winner (36862)
+Seat 3: Frankinstain (13654)
+Seat 4: Bufak (17405)
+Seat 5: kingofpoker5 (18979)
+Seat 6: YL_ML_GL_42 (22912)
+*** ANTE/BLINDS ***
+Frankinstain posts ante 30
+Bufak posts ante 30
+Dreas178 posts ante 30
+Be winner posts ante 30
+kingofpoker5 posts ante 30
+YL_ML_GL_42 posts ante 30
+Frankinstain posts small blind 125
+Bufak posts big blind 250
+Dealt to YL_ML_GL_42 [6d 5c]
+*** PRE-FLOP *** 
+kingofpoker5 folds
+YL_ML_GL_42 folds
+Dreas178 folds
+Be winner raises 250 to 500
+Frankinstain folds
+Bufak calls 250
+*** FLOP *** [5s 8h 6s]
+Bufak bets 500
+Be winner calls 500
+*** TURN *** [5s 8h 6s][Th]
+Bufak bets 1153
+Be winner calls 1153
+*** RIVER *** [5s 8h 6s Th][7d]
+Bufak bets 2306
+Be winner calls 2306
+*** SHOW DOWN ***
+Bufak shows [3h Qs] (High card : Queen)
+Be winner shows [Ks 7c] (One pair : 7)
+Be winner collected 9223 from pot
+*** SUMMARY ***
+Total pot 9223 | No rake
+Board: [5s 8h 6s Th 7d]
+Seat 2: Be winner (button) showed [Ks 7c] and won 9223 with One pair : 7
+Seat 4: Bufak (big blind) showed [3h Qs] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2554501669823971423-45-1669574561 - Holdem no limit (35/150/300) - 2022/11/27 18:42:41 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #3 is the button
+Seat 1: Dreas178 (22043)
+Seat 2: Be winner (41596)
+Seat 3: Frankinstain (13499)
+Seat 4: Bufak (12916)
+Seat 5: kingofpoker5 (18949)
+Seat 6: YL_ML_GL_42 (22882)
+*** ANTE/BLINDS ***
+Bufak posts ante 35
+kingofpoker5 posts ante 35
+Dreas178 posts ante 35
+Be winner posts ante 35
+Frankinstain posts ante 35
+YL_ML_GL_42 posts ante 35
+Bufak posts small blind 150
+kingofpoker5 posts big blind 300
+Dealt to YL_ML_GL_42 [6c 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Dreas178 folds
+Be winner folds
+Frankinstain raises 300 to 600
+Bufak folds
+kingofpoker5 folds
+Frankinstain collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 3: Frankinstain (button) won 1260
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2554501669823971423-46-1669574582 - Holdem no limit (35/150/300) - 2022/11/27 18:43:02 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #4 is the button
+Seat 1: Dreas178 (22008)
+Seat 2: Be winner (41561)
+Seat 3: Frankinstain (14124)
+Seat 4: Bufak (12731)
+Seat 5: kingofpoker5 (18614)
+Seat 6: YL_ML_GL_42 (22847)
+*** ANTE/BLINDS ***
+kingofpoker5 posts ante 35
+YL_ML_GL_42 posts ante 35
+Dreas178 posts ante 35
+Be winner posts ante 35
+Frankinstain posts ante 35
+Bufak posts ante 35
+kingofpoker5 posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [9h 5s]
+*** PRE-FLOP *** 
+Dreas178 raises 300 to 600
+Be winner folds
+Frankinstain folds
+Bufak folds
+kingofpoker5 folds
+YL_ML_GL_42 folds
+Dreas178 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 1: Dreas178 won 1260
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2554501669823971423-47-1669574598 - Holdem no limit (35/150/300) - 2022/11/27 18:43:18 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #5 is the button
+Seat 1: Dreas178 (22633)
+Seat 2: Be winner (41526)
+Seat 3: Frankinstain (14089)
+Seat 4: Bufak (12696)
+Seat 5: kingofpoker5 (18429)
+Seat 6: YL_ML_GL_42 (22512)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+Dreas178 posts ante 35
+Be winner posts ante 35
+Frankinstain posts ante 35
+Bufak posts ante 35
+kingofpoker5 posts ante 35
+YL_ML_GL_42 posts small blind 150
+Dreas178 posts big blind 300
+Dealt to YL_ML_GL_42 [9c 6c]
+*** PRE-FLOP *** 
+Be winner folds
+Frankinstain folds
+Bufak folds
+kingofpoker5 raises 300 to 600
+YL_ML_GL_42 folds
+Dreas178 calls 300
+*** FLOP *** [7s 2h 8h]
+Dreas178 checks
+kingofpoker5 checks
+*** TURN *** [7s 2h 8h][4h]
+Dreas178 bets 515
+kingofpoker5 folds
+Dreas178 collected 2075 from pot
+*** SUMMARY ***
+Total pot 2075 | No rake
+Board: [7s 2h 8h 4h]
+Seat 1: Dreas178 (big blind) won 2075
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2554501669823971423-48-1669574665 - Holdem no limit (35/150/300) - 2022/11/27 18:44:25 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #6 is the button
+Seat 1: Dreas178 (23558)
+Seat 2: Be winner (41491)
+Seat 3: Frankinstain (14054)
+Seat 4: Bufak (12661)
+Seat 5: kingofpoker5 (17794)
+Seat 6: YL_ML_GL_42 (22327)
+*** ANTE/BLINDS ***
+Dreas178 posts ante 35
+Be winner posts ante 35
+Frankinstain posts ante 35
+Bufak posts ante 35
+kingofpoker5 posts ante 35
+YL_ML_GL_42 posts ante 35
+Dreas178 posts small blind 150
+Be winner posts big blind 300
+Dealt to YL_ML_GL_42 [Qd 6s]
+*** PRE-FLOP *** 
+Frankinstain folds
+Bufak folds
+kingofpoker5 folds
+YL_ML_GL_42 folds
+Dreas178 calls 150
+Be winner checks
+*** FLOP *** [7c 4s 8c]
+Dreas178 bets 300
+Be winner raises 829 to 1129
+Dreas178 calls 829
+*** TURN *** [7c 4s 8c][7s]
+Dreas178 checks
+Be winner bets 2025
+Dreas178 folds
+Be winner collected 5093 from pot
+*** SUMMARY ***
+Total pot 5093 | No rake
+Board: [7c 4s 8c 7s]
+Seat 2: Be winner (big blind) won 5093
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2554501669823971423-49-1669574737 - Holdem no limit (35/150/300) - 2022/11/27 18:45:37 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #1 is the button
+Seat 1: Dreas178 (22094)
+Seat 2: Be winner (43095)
+Seat 3: Frankinstain (14019)
+Seat 4: Bufak (12626)
+Seat 5: kingofpoker5 (17759)
+Seat 6: YL_ML_GL_42 (22292)
+*** ANTE/BLINDS ***
+Be winner posts ante 35
+Frankinstain posts ante 35
+Dreas178 posts ante 35
+Bufak posts ante 35
+kingofpoker5 posts ante 35
+YL_ML_GL_42 posts ante 35
+Be winner posts small blind 150
+Frankinstain posts big blind 300
+Dealt to YL_ML_GL_42 [4d 2s]
+*** PRE-FLOP *** 
+Bufak folds
+kingofpoker5 folds
+YL_ML_GL_42 folds
+Dreas178 raises 300 to 600
+Be winner folds
+Frankinstain folds
+Dreas178 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 1: Dreas178 (button) won 1260
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2554501669823971423-50-1669574765 - Holdem no limit (35/150/300) - 2022/11/27 18:46:05 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #2 is the button
+Seat 1: Dreas178 (22719)
+Seat 2: Be winner (42910)
+Seat 3: Frankinstain (13684)
+Seat 4: Bufak (12591)
+Seat 5: kingofpoker5 (17724)
+Seat 6: YL_ML_GL_42 (22257)
+*** ANTE/BLINDS ***
+Frankinstain posts ante 35
+Bufak posts ante 35
+Dreas178 posts ante 35
+Be winner posts ante 35
+kingofpoker5 posts ante 35
+YL_ML_GL_42 posts ante 35
+Frankinstain posts small blind 150
+Bufak posts big blind 300
+Dealt to YL_ML_GL_42 [Ah Td]
+*** PRE-FLOP *** 
+kingofpoker5 folds
+YL_ML_GL_42 raises 600 to 900
+Dreas178 folds
+Be winner folds
+Frankinstain folds
+Bufak calls 600
+*** FLOP *** [8s As 2s]
+Bufak checks
+YL_ML_GL_42 bets 1728
+Bufak folds
+YL_ML_GL_42 collected 3888 from pot
+*** SUMMARY ***
+Total pot 3888 | No rake
+Board: [8s As 2s]
+Seat 6: YL_ML_GL_42 won 3888
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2554501669823971423-51-1669574797 - Holdem no limit (35/150/300) - 2022/11/27 18:46:37 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #3 is the button
+Seat 1: Dreas178 (22684)
+Seat 2: Be winner (42875)
+Seat 3: Frankinstain (13499)
+Seat 4: Bufak (11656)
+Seat 5: kingofpoker5 (17689)
+Seat 6: YL_ML_GL_42 (23482)
+*** ANTE/BLINDS ***
+Bufak posts ante 35
+kingofpoker5 posts ante 35
+Dreas178 posts ante 35
+Be winner posts ante 35
+Frankinstain posts ante 35
+YL_ML_GL_42 posts ante 35
+Bufak posts small blind 150
+kingofpoker5 posts big blind 300
+Dealt to YL_ML_GL_42 [7h 2s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Dreas178 folds
+Be winner folds
+Frankinstain raises 300 to 600
+Bufak folds
+kingofpoker5 calls 300
+*** FLOP *** [Ad 8s 4s]
+kingofpoker5 checks
+Frankinstain bets 515
+kingofpoker5 calls 515
+*** TURN *** [Ad 8s 4s][3d]
+kingofpoker5 checks
+Frankinstain bets 2072
+kingofpoker5 folds
+Frankinstain collected 4662 from pot
+*** SUMMARY ***
+Total pot 4662 | No rake
+Board: [Ad 8s 4s 3d]
+Seat 3: Frankinstain (button) won 4662
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2554501669823971423-52-1669574839 - Holdem no limit (35/150/300) - 2022/11/27 18:47:19 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #4 is the button
+Seat 1: Dreas178 (22649)
+Seat 2: Be winner (42840)
+Seat 3: Frankinstain (14939)
+Seat 4: Bufak (11471)
+Seat 5: kingofpoker5 (16539)
+Seat 6: YL_ML_GL_42 (23447)
+*** ANTE/BLINDS ***
+kingofpoker5 posts ante 35
+YL_ML_GL_42 posts ante 35
+Dreas178 posts ante 35
+Be winner posts ante 35
+Frankinstain posts ante 35
+Bufak posts ante 35
+kingofpoker5 posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [Qc Kc]
+*** PRE-FLOP *** 
+Dreas178 folds
+Be winner raises 300 to 600
+Frankinstain raises 300 to 900
+Bufak folds
+kingofpoker5 folds
+YL_ML_GL_42 calls 600
+Be winner calls 300
+*** FLOP *** [5d Jc 9c]
+YL_ML_GL_42 bets 1530
+Be winner folds
+Frankinstain folds
+YL_ML_GL_42 collected 4590 from pot
+*** SUMMARY ***
+Total pot 4590 | No rake
+Board: [5d Jc 9c]
+Seat 6: YL_ML_GL_42 (big blind) won 4590
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2554501669823971423-53-1669574887 - Holdem no limit (35/150/300) - 2022/11/27 18:48:07 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #5 is the button
+Seat 1: Dreas178 (22614)
+Seat 2: Be winner (41905)
+Seat 3: Frankinstain (14004)
+Seat 4: Bufak (11436)
+Seat 5: kingofpoker5 (16354)
+Seat 6: YL_ML_GL_42 (25572)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+Dreas178 posts ante 35
+Be winner posts ante 35
+Frankinstain posts ante 35
+Bufak posts ante 35
+kingofpoker5 posts ante 35
+YL_ML_GL_42 posts small blind 150
+Dreas178 posts big blind 300
+Dealt to YL_ML_GL_42 [Ac 4h]
+*** PRE-FLOP *** 
+Be winner raises 300 to 600
+Frankinstain folds
+Bufak folds
+kingofpoker5 folds
+YL_ML_GL_42 calls 450
+Dreas178 calls 300
+*** FLOP *** [4s 5d 7h]
+YL_ML_GL_42 bets 1005
+Dreas178 folds
+Be winner raises 1909 to 2914
+YL_ML_GL_42 calls 1909
+*** TURN *** [4s 5d 7h][Kd]
+YL_ML_GL_42 checks
+Be winner bets 5173
+YL_ML_GL_42 calls 5173
+*** RIVER *** [4s 5d 7h Kd][8s]
+YL_ML_GL_42 bets 9092
+Be winner calls 9092
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ac 4h] (One pair : 4)
+Be winner shows [Qd Qs] (One pair : Queens)
+Be winner collected 36368 from pot
+*** SUMMARY ***
+Total pot 36368 | No rake
+Board: [4s 5d 7h Kd 8s]
+Seat 2: Be winner showed [Qd Qs] and won 36368 with One pair : Queens
+Seat 6: YL_ML_GL_42 (small blind) showed [Ac 4h] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2554501669823971423-54-1669574965 - Holdem no limit (40/175/350) - 2022/11/27 18:49:25 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #6 is the button
+Seat 1: Dreas178 (21979)
+Seat 2: Be winner (60459)
+Seat 3: Frankinstain (13969)
+Seat 4: Bufak (11401)
+Seat 5: kingofpoker5 (16319)
+Seat 6: YL_ML_GL_42 (7758)
+*** ANTE/BLINDS ***
+Dreas178 posts ante 40
+Be winner posts ante 40
+Frankinstain posts ante 40
+Bufak posts ante 40
+kingofpoker5 posts ante 40
+YL_ML_GL_42 posts ante 40
+Dreas178 posts small blind 175
+Be winner posts big blind 350
+Dealt to YL_ML_GL_42 [9c Ah]
+*** PRE-FLOP *** 
+Frankinstain folds
+Bufak folds
+kingofpoker5 raises 350 to 700
+YL_ML_GL_42 raises 7018 to 7718 and is all-in
+Dreas178 folds
+Be winner folds
+kingofpoker5 folds
+YL_ML_GL_42 collected 9183 from pot
+*** SUMMARY ***
+Total pot 9183 | No rake
+Seat 6: YL_ML_GL_42 (button) won 9183
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2554501669823971423-55-1669574985 - Holdem no limit (40/175/350) - 2022/11/27 18:49:45 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #1 is the button
+Seat 1: Dreas178 (21764)
+Seat 2: Be winner (60069)
+Seat 3: Frankinstain (13929)
+Seat 4: Bufak (11361)
+Seat 5: kingofpoker5 (15579)
+Seat 6: YL_ML_GL_42 (9183)
+*** ANTE/BLINDS ***
+Be winner posts ante 40
+Frankinstain posts ante 40
+Dreas178 posts ante 40
+Bufak posts ante 40
+kingofpoker5 posts ante 40
+YL_ML_GL_42 posts ante 40
+Be winner posts small blind 175
+Frankinstain posts big blind 350
+Dealt to YL_ML_GL_42 [3c Js]
+*** PRE-FLOP *** 
+Bufak folds
+kingofpoker5 raises 350 to 700
+YL_ML_GL_42 folds
+Dreas178 folds
+Be winner raises 2100 to 2800
+Frankinstain folds
+kingofpoker5 folds
+Be winner collected 4090 from pot
+*** SUMMARY ***
+Total pot 4090 | No rake
+Seat 2: Be winner (small blind) won 4090
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2554501669823971423-56-1669575014 - Holdem no limit (40/175/350) - 2022/11/27 18:50:14 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #2 is the button
+Seat 1: Dreas178 (21724)
+Seat 2: Be winner (61319)
+Seat 3: Frankinstain (13539)
+Seat 4: Bufak (11321)
+Seat 5: kingofpoker5 (14839)
+Seat 6: YL_ML_GL_42 (9143)
+*** ANTE/BLINDS ***
+Frankinstain posts ante 40
+Bufak posts ante 40
+Dreas178 posts ante 40
+Be winner posts ante 40
+kingofpoker5 posts ante 40
+YL_ML_GL_42 posts ante 40
+Frankinstain posts small blind 175
+Bufak posts big blind 350
+Dealt to YL_ML_GL_42 [6d 6s]
+*** PRE-FLOP *** 
+kingofpoker5 folds
+YL_ML_GL_42 raises 8753 to 9103 and is all-in
+Dreas178 folds
+Be winner folds
+Frankinstain folds
+Bufak folds
+YL_ML_GL_42 collected 9868 from pot
+*** SUMMARY ***
+Total pot 9868 | No rake
+Seat 6: YL_ML_GL_42 won 9868
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2554501669823971423-57-1669575044 - Holdem no limit (40/175/350) - 2022/11/27 18:50:44 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #3 is the button
+Seat 1: Dreas178 (21684)
+Seat 2: Be winner (61279)
+Seat 3: Frankinstain (13324)
+Seat 4: Bufak (10931)
+Seat 5: kingofpoker5 (14799)
+Seat 6: YL_ML_GL_42 (9868)
+*** ANTE/BLINDS ***
+Bufak posts ante 40
+kingofpoker5 posts ante 40
+Dreas178 posts ante 40
+Be winner posts ante 40
+Frankinstain posts ante 40
+YL_ML_GL_42 posts ante 40
+Bufak posts small blind 175
+kingofpoker5 posts big blind 350
+Dealt to YL_ML_GL_42 [2h 6s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Dreas178 folds
+Be winner folds
+Frankinstain raises 350 to 700
+Bufak folds
+kingofpoker5 raises 1750 to 2450
+Frankinstain raises 10834 to 13284 and is all-in
+kingofpoker5 calls 10834
+*** FLOP *** [Kc Ks 9h]
+*** TURN *** [Kc Ks 9h][Jd]
+*** RIVER *** [Kc Ks 9h Jd][8d]
+*** SHOW DOWN ***
+Frankinstain shows [6d 6c] (Two pairs : Kings and 6)
+kingofpoker5 shows [As Ac] (Two pairs : Aces and Kings)
+kingofpoker5 collected 26983 from pot
+*** SUMMARY ***
+Total pot 26983 | No rake
+Board: [Kc Ks 9h Jd 8d]
+Seat 3: Frankinstain (button) showed [6d 6c] and lost with Two pairs : Kings and 6
+Seat 5: kingofpoker5 (big blind) showed [As Ac] and won 26983 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2554501669823971423-58-1669575082 - Holdem no limit (40/175/350) - 2022/11/27 18:51:22 UTC
+Table: 'MYSTERY KO(594766268)#0094' 6-max (real money) Seat #4 is the button
+Seat 1: Dreas178 (21644)
+Seat 2: Be winner (61239)
+Seat 4: Bufak (10716)
+Seat 5: kingofpoker5 (28458)
+Seat 6: YL_ML_GL_42 (9828)
+*** ANTE/BLINDS ***
+kingofpoker5 posts ante 40
+YL_ML_GL_42 posts ante 40
+Dreas178 posts ante 40
+Be winner posts ante 40
+Bufak posts ante 40
+kingofpoker5 posts small blind 175
+YL_ML_GL_42 posts big blind 350
+Dealt to YL_ML_GL_42 [Ah 8h]
+*** PRE-FLOP *** 
+Dreas178 folds
+Be winner raises 350 to 700
+Bufak folds
+kingofpoker5 folds
+YL_ML_GL_42 raises 9088 to 9788 and is all-in
+Be winner calls 9088
+*** FLOP *** [2d 7d 5c]
+*** TURN *** [2d 7d 5c][2c]
+*** RIVER *** [2d 7d 5c 2c][3s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ah 8h] (One pair : 2)
+Be winner shows [Tc As] (One pair : 2)
+Be winner collected 19951 from pot
+*** SUMMARY ***
+Total pot 19951 | No rake
+Board: [2d 7d 5c 2c 3s]
+Seat 2: Be winner showed [Tc As] and won 19951 with One pair : 2
+Seat 6: YL_ML_GL_42 (big blind) showed [Ah 8h] and lost with One pair : 2
+
+

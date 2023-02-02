@@ -1,0 +1,194 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2608789824517177345-1-1670004614 - Holdem no limit (10/20) - 2022/12/02 18:10:14 UTC
+Table: 'Expresso(607406214)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: Pokeros11 (500)
+Seat 3: Guslevirus07 (500)
+*** ANTE/BLINDS ***
+Pokeros11 posts small blind 10
+Guslevirus07 posts big blind 20
+Dealt to YL_ML_GL_42 [Kc 3d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Pokeros11 calls 10
+Guslevirus07 checks
+*** FLOP *** [9d 6h 8s]
+Pokeros11 bets 20
+Guslevirus07 raises 20 to 40
+Pokeros11 calls 20
+*** TURN *** [9d 6h 8s][Ad]
+Pokeros11 checks
+Guslevirus07 checks
+*** RIVER *** [9d 6h 8s Ad][4c]
+Pokeros11 checks
+Guslevirus07 bets 120
+Pokeros11 folds
+Guslevirus07 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [9d 6h 8s Ad 4c]
+Seat 3: Guslevirus07 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2608789824517177345-2-1670004683 - Holdem no limit (10/20) - 2022/12/02 18:11:23 UTC
+Table: 'Expresso(607406214)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: Pokeros11 (440)
+Seat 3: Guslevirus07 (560)
+*** ANTE/BLINDS ***
+Guslevirus07 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [3d 2s]
+*** PRE-FLOP *** 
+Pokeros11 calls 20
+Guslevirus07 calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [Jd 4d Td]
+Guslevirus07 bets 20
+YL_ML_GL_42 folds
+Pokeros11 folds
+Guslevirus07 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Jd 4d Td]
+Seat 3: Guslevirus07 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2608789824517177345-3-1670004711 - Holdem no limit (15/30) - 2022/12/02 18:11:51 UTC
+Table: 'Expresso(607406214)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (480)
+Seat 2: Pokeros11 (420)
+Seat 3: Guslevirus07 (600)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Pokeros11 posts big blind 30
+Dealt to YL_ML_GL_42 [Qc 5s]
+*** PRE-FLOP *** 
+Guslevirus07 raises 60 to 90
+YL_ML_GL_42 folds
+Pokeros11 folds
+Guslevirus07 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 3: Guslevirus07 (button) won 135
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2608789824517177345-4-1670004730 - Holdem no limit (15/30) - 2022/12/02 18:12:10 UTC
+Table: 'Expresso(607406214)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (465)
+Seat 2: Pokeros11 (390)
+Seat 3: Guslevirus07 (645)
+*** ANTE/BLINDS ***
+Pokeros11 posts small blind 15
+Guslevirus07 posts big blind 30
+Dealt to YL_ML_GL_42 [6c 9h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Pokeros11 calls 15
+Guslevirus07 checks
+*** FLOP *** [2h Th 6h]
+Pokeros11 checks
+Guslevirus07 bets 30
+Pokeros11 folds
+Guslevirus07 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [2h Th 6h]
+Seat 3: Guslevirus07 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2608789824517177345-5-1670004762 - Holdem no limit (15/30) - 2022/12/02 18:12:42 UTC
+Table: 'Expresso(607406214)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (465)
+Seat 2: Pokeros11 (360)
+Seat 3: Guslevirus07 (675)
+*** ANTE/BLINDS ***
+Guslevirus07 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [9h 6d]
+*** PRE-FLOP *** 
+Pokeros11 folds
+Guslevirus07 raises 30 to 60
+YL_ML_GL_42 folds
+Guslevirus07 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Guslevirus07 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2608789824517177345-6-1670004780 - Holdem no limit (15/30) - 2022/12/02 18:13:00 UTC
+Table: 'Expresso(607406214)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (435)
+Seat 2: Pokeros11 (360)
+Seat 3: Guslevirus07 (705)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Pokeros11 posts big blind 30
+Dealt to YL_ML_GL_42 [3d Kh]
+*** PRE-FLOP *** 
+Guslevirus07 folds
+YL_ML_GL_42 raises 60 to 90
+Pokeros11 folds
+YL_ML_GL_42 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: YL_ML_GL_42 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2608789824517177345-7-1670004797 - Holdem no limit (20/40) - 2022/12/02 18:13:17 UTC
+Table: 'Expresso(607406214)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (465)
+Seat 2: Pokeros11 (330)
+Seat 3: Guslevirus07 (705)
+*** ANTE/BLINDS ***
+Pokeros11 posts small blind 20
+Guslevirus07 posts big blind 40
+Dealt to YL_ML_GL_42 [7d 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Pokeros11 calls 20
+Guslevirus07 raises 40 to 80
+Pokeros11 calls 40
+*** FLOP *** [Tc 6c 2h]
+Pokeros11 bets 40
+Guslevirus07 calls 40
+*** TURN *** [Tc 6c 2h][Td]
+Pokeros11 checks
+Guslevirus07 checks
+*** RIVER *** [Tc 6c 2h Td][5c]
+Pokeros11 checks
+Guslevirus07 bets 156
+Pokeros11 folds
+Guslevirus07 collected 396 from pot
+*** SUMMARY ***
+Total pot 396 | No rake
+Board: [Tc 6c 2h Td 5c]
+Seat 3: Guslevirus07 (big blind) won 396
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2608789824517177345-8-1670004830 - Holdem no limit (20/40) - 2022/12/02 18:13:50 UTC
+Table: 'Expresso(607406214)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (465)
+Seat 2: Pokeros11 (210)
+Seat 3: Guslevirus07 (825)
+*** ANTE/BLINDS ***
+Guslevirus07 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [5h 6h]
+*** PRE-FLOP *** 
+Pokeros11 folds
+Guslevirus07 raises 785 to 825 and is all-in
+YL_ML_GL_42 calls 425 and is all-in
+*** FLOP *** [Ah 6c 4d]
+*** TURN *** [Ah 6c 4d][Ts]
+*** RIVER *** [Ah 6c 4d Ts][Qs]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [5h 6h] (One pair : 6)
+Guslevirus07 shows [9s 9d] (One pair : 9)
+Guslevirus07 collected 1290 from pot
+*** SUMMARY ***
+Total pot 1290 | No rake
+Board: [Ah 6c 4d Ts Qs]
+Seat 1: YL_ML_GL_42 (big blind) showed [5h 6h] and lost with One pair : 6
+Seat 3: Guslevirus07 (small blind) showed [9s 9d] and won 1290 with One pair : 9
+
+

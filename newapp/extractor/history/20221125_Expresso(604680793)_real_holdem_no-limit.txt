@@ -1,0 +1,686 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2597084230454345729-1-1669392166 - Holdem no limit (10/20) - 2022/11/25 16:02:46 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: Nasri76480 (500)
+Seat 3: meriton_80 (500)
+*** ANTE/BLINDS ***
+Nasri76480 posts small blind 10
+meriton_80 posts big blind 20
+Dealt to YL_ML_GL_42 [7d 2c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Nasri76480 calls 10
+meriton_80 checks
+*** FLOP *** [Ad 2h Jc]
+Nasri76480 bets 20
+meriton_80 calls 20
+*** TURN *** [Ad 2h Jc][3d]
+Nasri76480 bets 80
+meriton_80 calls 80
+*** RIVER *** [Ad 2h Jc 3d][Kc]
+Nasri76480 bets 240
+meriton_80 calls 240
+*** SHOW DOWN ***
+meriton_80 shows [Ah Qh] (One pair : Aces)
+Nasri76480 shows [3h As] (Two pairs : Aces and 3)
+Nasri76480 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Ad 2h Jc 3d Kc]
+Seat 2: Nasri76480 (small blind) showed [3h As] and won 720 with Two pairs : Aces and 3
+Seat 3: meriton_80 (big blind) showed [Ah Qh] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2597084230454345729-2-1669392200 - Holdem no limit (10/20) - 2022/11/25 16:03:20 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: Nasri76480 (860)
+Seat 3: meriton_80 (140)
+*** ANTE/BLINDS ***
+meriton_80 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [5d Jd]
+*** PRE-FLOP *** 
+Nasri76480 calls 20
+meriton_80 calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [8h Kh Ah]
+meriton_80 checks
+YL_ML_GL_42 checks
+Nasri76480 checks
+*** TURN *** [8h Kh Ah][Qh]
+meriton_80 checks
+YL_ML_GL_42 checks
+Nasri76480 checks
+*** RIVER *** [8h Kh Ah Qh][7c]
+meriton_80 folds
+YL_ML_GL_42 checks
+Nasri76480 checks
+*** SHOW DOWN ***
+Nasri76480 shows [3s Ts] (High card : Ace)
+YL_ML_GL_42 shows [5d Jd] (High card : Ace)
+YL_ML_GL_42 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [8h Kh Ah Qh 7c]
+Seat 1: YL_ML_GL_42 (big blind) showed [5d Jd] and won 60 with High card : Ace
+Seat 2: Nasri76480 (button) showed [3s Ts] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2597084230454345729-3-1669392240 - Holdem no limit (10/20) - 2022/11/25 16:04:00 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (540)
+Seat 2: Nasri76480 (840)
+Seat 3: meriton_80 (120)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Nasri76480 posts big blind 20
+Dealt to YL_ML_GL_42 [5h Qs]
+*** PRE-FLOP *** 
+meriton_80 calls 20
+YL_ML_GL_42 calls 10
+Nasri76480 checks
+*** FLOP *** [Ks Kh 6d]
+YL_ML_GL_42 checks
+Nasri76480 checks
+meriton_80 bets 100 and is all-in
+YL_ML_GL_42 folds
+Nasri76480 folds
+meriton_80 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Ks Kh 6d]
+Seat 3: meriton_80 (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2597084230454345729-4-1669392270 - Holdem no limit (15/30) - 2022/11/25 16:04:30 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (520)
+Seat 2: Nasri76480 (820)
+Seat 3: meriton_80 (160)
+*** ANTE/BLINDS ***
+Nasri76480 posts small blind 15
+meriton_80 posts big blind 30
+Dealt to YL_ML_GL_42 [8h 8d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+Nasri76480 folds
+meriton_80 raises 70 to 160 and is all-in
+YL_ML_GL_42 calls 70
+*** FLOP *** [6d 9c Ah]
+*** TURN *** [6d 9c Ah][5c]
+*** RIVER *** [6d 9c Ah 5c][Ad]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [8h 8d] (Two pairs : Aces and 8)
+meriton_80 shows [6s 6h] (Full of 6 and Aces)
+meriton_80 collected 335 from pot
+*** SUMMARY ***
+Total pot 335 | No rake
+Board: [6d 9c Ah 5c Ad]
+Seat 1: YL_ML_GL_42 (button) showed [8h 8d] and lost with Two pairs : Aces and 8
+Seat 3: meriton_80 (big blind) showed [6s 6h] and won 335 with Full of 6 and Aces
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2597084230454345729-5-1669392290 - Holdem no limit (15/30) - 2022/11/25 16:04:50 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (360)
+Seat 2: Nasri76480 (805)
+Seat 3: meriton_80 (335)
+*** ANTE/BLINDS ***
+meriton_80 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [3s 8d]
+*** PRE-FLOP *** 
+Nasri76480 calls 30
+meriton_80 calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [9c Tc 7d]
+meriton_80 checks
+YL_ML_GL_42 checks
+Nasri76480 checks
+*** TURN *** [9c Tc 7d][6s]
+meriton_80 bets 59
+YL_ML_GL_42 calls 59
+Nasri76480 folds
+*** RIVER *** [9c Tc 7d 6s][2h]
+meriton_80 bets 135
+YL_ML_GL_42 raises 136 to 271 and is all-in
+meriton_80 calls 111 and is all-in
+*** SHOW DOWN ***
+meriton_80 shows [Kc Ts] (One pair : Tens)
+YL_ML_GL_42 shows [3s 8d] (Straight Ten high)
+YL_ML_GL_42 collected 725 from pot
+*** SUMMARY ***
+Total pot 725 | No rake
+Board: [9c Tc 7d 6s 2h]
+Seat 1: YL_ML_GL_42 (big blind) showed [3s 8d] and won 725 with Straight Ten high
+Seat 3: meriton_80 (small blind) showed [Kc Ts] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2597084230454345729-6-1669392321 - Holdem no limit (15/30) - 2022/11/25 16:05:21 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (725)
+Seat 2: Nasri76480 (775)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Nasri76480 posts big blind 30
+Dealt to YL_ML_GL_42 [6c 6s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+Nasri76480 calls 60
+*** FLOP *** [6h Qd 4c]
+Nasri76480 checks
+YL_ML_GL_42 checks
+*** TURN *** [6h Qd 4c][Jd]
+Nasri76480 bets 30
+YL_ML_GL_42 calls 30
+*** RIVER *** [6h Qd 4c Jd][7c]
+Nasri76480 bets 30
+YL_ML_GL_42 raises 234 to 264
+Nasri76480 calls 234
+*** SHOW DOWN ***
+Nasri76480 shows [Kh Js] (One pair : Jacks)
+YL_ML_GL_42 shows [6c 6s] (Trips of 6)
+YL_ML_GL_42 collected 768 from pot
+*** SUMMARY ***
+Total pot 768 | No rake
+Board: [6h Qd 4c Jd 7c]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [6c 6s] and won 768 with Trips of 6
+Seat 2: Nasri76480 (big blind) showed [Kh Js] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2597084230454345729-7-1669392353 - Holdem no limit (20/40) - 2022/11/25 16:05:53 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1109)
+Seat 2: Nasri76480 (391)
+*** ANTE/BLINDS ***
+Nasri76480 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Th 9h]
+*** PRE-FLOP *** 
+Nasri76480 calls 20
+YL_ML_GL_42 raises 80 to 120
+Nasri76480 folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2597084230454345729-8-1669392365 - Holdem no limit (20/40) - 2022/11/25 16:06:05 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1149)
+Seat 2: Nasri76480 (351)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Nasri76480 posts big blind 40
+Dealt to YL_ML_GL_42 [Tc 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+Nasri76480 raises 231 to 351 and is all-in
+YL_ML_GL_42 folds
+Nasri76480 collected 471 from pot
+*** SUMMARY ***
+Total pot 471 | No rake
+Seat 2: Nasri76480 (big blind) won 471
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2597084230454345729-9-1669392375 - Holdem no limit (20/40) - 2022/11/25 16:06:15 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1029)
+Seat 2: Nasri76480 (471)
+*** ANTE/BLINDS ***
+Nasri76480 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [8h 2d]
+*** PRE-FLOP *** 
+Nasri76480 calls 20
+YL_ML_GL_42 checks
+*** FLOP *** [5d 2h 9c]
+YL_ML_GL_42 bets 80
+Nasri76480 folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [5d 2h 9c]
+Seat 1: YL_ML_GL_42 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2597084230454345729-10-1669392387 - Holdem no limit (20/40) - 2022/11/25 16:06:27 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1069)
+Seat 2: Nasri76480 (431)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Nasri76480 posts big blind 40
+Dealt to YL_ML_GL_42 [9h Qd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+Nasri76480 calls 80
+*** FLOP *** [3c Qc 8s]
+Nasri76480 checks
+YL_ML_GL_42 checks
+*** TURN *** [3c Qc 8s][4c]
+Nasri76480 bets 311 and is all-in
+YL_ML_GL_42 calls 311
+*** RIVER *** [3c Qc 8s 4c][2d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9h Qd] (One pair : Queens)
+Nasri76480 shows [Ks Kd] (One pair : Kings)
+Nasri76480 collected 862 from pot
+*** SUMMARY ***
+Total pot 862 | No rake
+Board: [3c Qc 8s 4c 2d]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [9h Qd] and lost with One pair : Queens
+Seat 2: Nasri76480 (big blind) showed [Ks Kd] and won 862 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2597084230454345729-11-1669392409 - Holdem no limit (20/40) - 2022/11/25 16:06:49 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (638)
+Seat 2: Nasri76480 (862)
+*** ANTE/BLINDS ***
+Nasri76480 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [4d Kc]
+*** PRE-FLOP *** 
+Nasri76480 calls 20
+YL_ML_GL_42 checks
+*** FLOP *** [2d 6h 5d]
+YL_ML_GL_42 checks
+Nasri76480 checks
+*** TURN *** [2d 6h 5d][Ks]
+YL_ML_GL_42 bets 40
+Nasri76480 calls 40
+*** RIVER *** [2d 6h 5d Ks][9d]
+YL_ML_GL_42 bets 160
+Nasri76480 folds
+YL_ML_GL_42 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [2d 6h 5d Ks 9d]
+Seat 1: YL_ML_GL_42 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2597084230454345729-12-1669392427 - Holdem no limit (20/40) - 2022/11/25 16:07:07 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (718)
+Seat 2: Nasri76480 (782)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Nasri76480 posts big blind 40
+Dealt to YL_ML_GL_42 [6c 6d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+Nasri76480 folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2597084230454345729-13-1669392435 - Holdem no limit (30/60) - 2022/11/25 16:07:15 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (758)
+Seat 2: Nasri76480 (742)
+*** ANTE/BLINDS ***
+Nasri76480 posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [Js Kh]
+*** PRE-FLOP *** 
+Nasri76480 calls 30
+YL_ML_GL_42 raises 120 to 180
+Nasri76480 calls 120
+*** FLOP *** [7d Td Ah]
+YL_ML_GL_42 bets 288
+Nasri76480 folds
+YL_ML_GL_42 collected 648 from pot
+*** SUMMARY ***
+Total pot 648 | No rake
+Board: [7d Td Ah]
+Seat 1: YL_ML_GL_42 (big blind) won 648
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2597084230454345729-14-1669392461 - Holdem no limit (30/60) - 2022/11/25 16:07:41 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (938)
+Seat 2: Nasri76480 (562)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+Nasri76480 posts big blind 60
+Dealt to YL_ML_GL_42 [Ts 5h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Nasri76480 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Nasri76480 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2597084230454345729-15-1669392466 - Holdem no limit (30/60) - 2022/11/25 16:07:46 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (908)
+Seat 2: Nasri76480 (592)
+*** ANTE/BLINDS ***
+Nasri76480 posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [Qd 4h]
+*** PRE-FLOP *** 
+Nasri76480 calls 30
+YL_ML_GL_42 checks
+*** FLOP *** [6d Jd 2s]
+YL_ML_GL_42 checks
+Nasri76480 checks
+*** TURN *** [6d Jd 2s][2c]
+YL_ML_GL_42 checks
+Nasri76480 checks
+*** RIVER *** [6d Jd 2s 2c][7c]
+YL_ML_GL_42 checks
+Nasri76480 checks
+*** SHOW DOWN ***
+Nasri76480 shows [3s 5s] (One pair : 2)
+YL_ML_GL_42 shows [Qd 4h] (One pair : 2)
+YL_ML_GL_42 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [6d Jd 2s 2c 7c]
+Seat 1: YL_ML_GL_42 (big blind) showed [Qd 4h] and won 120 with One pair : 2
+Seat 2: Nasri76480 (small blind) (button) showed [3s 5s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2597084230454345729-16-1669392483 - Holdem no limit (30/60) - 2022/11/25 16:08:03 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (968)
+Seat 2: Nasri76480 (532)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+Nasri76480 posts big blind 60
+Dealt to YL_ML_GL_42 [5c 5d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 120 to 180
+Nasri76480 folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2597084230454345729-17-1669392490 - Holdem no limit (30/60) - 2022/11/25 16:08:10 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (1028)
+Seat 2: Nasri76480 (472)
+*** ANTE/BLINDS ***
+Nasri76480 posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [Ah 5h]
+*** PRE-FLOP *** 
+Nasri76480 calls 30
+YL_ML_GL_42 raises 120 to 180
+Nasri76480 raises 292 to 472 and is all-in
+YL_ML_GL_42 calls 292
+*** FLOP *** [2c 6s Jh]
+*** TURN *** [2c 6s Jh][5s]
+*** RIVER *** [2c 6s Jh 5s][7d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ah 5h] (One pair : 5)
+Nasri76480 shows [7c Ad] (One pair : 7)
+Nasri76480 collected 944 from pot
+*** SUMMARY ***
+Total pot 944 | No rake
+Board: [2c 6s Jh 5s 7d]
+Seat 1: YL_ML_GL_42 (big blind) showed [Ah 5h] and lost with One pair : 5
+Seat 2: Nasri76480 (small blind) (button) showed [7c Ad] and won 944 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2597084230454345729-18-1669392507 - Holdem no limit (30/60) - 2022/11/25 16:08:27 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (556)
+Seat 2: Nasri76480 (944)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+Nasri76480 posts big blind 60
+Dealt to YL_ML_GL_42 [5h 5s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 120 to 180
+Nasri76480 folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #2597084230454345729-19-1669392516 - Holdem no limit (30/60) - 2022/11/25 16:08:36 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (616)
+Seat 2: Nasri76480 (884)
+*** ANTE/BLINDS ***
+Nasri76480 posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [8s 9c]
+*** PRE-FLOP *** 
+Nasri76480 calls 30
+YL_ML_GL_42 checks
+*** FLOP *** [7d 5d 7h]
+YL_ML_GL_42 checks
+Nasri76480 checks
+*** TURN *** [7d 5d 7h][3c]
+YL_ML_GL_42 checks
+Nasri76480 checks
+*** RIVER *** [7d 5d 7h 3c][8c]
+YL_ML_GL_42 bets 120
+Nasri76480 folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [7d 5d 7h 3c 8c]
+Seat 1: YL_ML_GL_42 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2597084230454345729-20-1669392532 - Holdem no limit (40/80) - 2022/11/25 16:08:52 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (676)
+Seat 2: Nasri76480 (824)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 40
+Nasri76480 posts big blind 80
+Dealt to YL_ML_GL_42 [8h 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 160 to 240
+Nasri76480 folds
+YL_ML_GL_42 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2597084230454345729-21-1669392541 - Holdem no limit (40/80) - 2022/11/25 16:09:01 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (756)
+Seat 2: Nasri76480 (744)
+*** ANTE/BLINDS ***
+Nasri76480 posts small blind 40
+YL_ML_GL_42 posts big blind 80
+Dealt to YL_ML_GL_42 [Js 8s]
+*** PRE-FLOP *** 
+Nasri76480 calls 40
+YL_ML_GL_42 checks
+*** FLOP *** [3s 8h 7d]
+YL_ML_GL_42 bets 676 and is all-in
+Nasri76480 folds
+YL_ML_GL_42 collected 836 from pot
+*** SUMMARY ***
+Total pot 836 | No rake
+Board: [3s 8h 7d]
+Seat 1: YL_ML_GL_42 (big blind) won 836
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2597084230454345729-22-1669392555 - Holdem no limit (40/80) - 2022/11/25 16:09:15 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (836)
+Seat 2: Nasri76480 (664)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 40
+Nasri76480 posts big blind 80
+Dealt to YL_ML_GL_42 [7d 2s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Nasri76480 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Nasri76480 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2597084230454345729-23-1669392559 - Holdem no limit (40/80) - 2022/11/25 16:09:19 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (796)
+Seat 2: Nasri76480 (704)
+*** ANTE/BLINDS ***
+Nasri76480 posts small blind 40
+YL_ML_GL_42 posts big blind 80
+Dealt to YL_ML_GL_42 [Td 8d]
+*** PRE-FLOP *** 
+Nasri76480 calls 40
+YL_ML_GL_42 checks
+*** FLOP *** [8c 5h Kc]
+YL_ML_GL_42 checks
+Nasri76480 checks
+*** TURN *** [8c 5h Kc][Qh]
+YL_ML_GL_42 bets 128
+Nasri76480 calls 128
+*** RIVER *** [8c 5h Kc Qh][4h]
+YL_ML_GL_42 checks
+Nasri76480 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Td 8d] (One pair : 8)
+Nasri76480 shows [Qc 7s] (One pair : Queens)
+Nasri76480 collected 416 from pot
+*** SUMMARY ***
+Total pot 416 | No rake
+Board: [8c 5h Kc Qh 4h]
+Seat 1: YL_ML_GL_42 (big blind) showed [Td 8d] and lost with One pair : 8
+Seat 2: Nasri76480 (small blind) (button) showed [Qc 7s] and won 416 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2597084230454345729-24-1669392576 - Holdem no limit (40/80) - 2022/11/25 16:09:36 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (588)
+Seat 2: Nasri76480 (912)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 40
+Nasri76480 posts big blind 80
+Dealt to YL_ML_GL_42 [7c Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 160 to 240
+Nasri76480 folds
+YL_ML_GL_42 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2597084230454345729-25-1669392583 - Holdem no limit (40/80) - 2022/11/25 16:09:43 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (668)
+Seat 2: Nasri76480 (832)
+*** ANTE/BLINDS ***
+Nasri76480 posts small blind 40
+YL_ML_GL_42 posts big blind 80
+Dealt to YL_ML_GL_42 [5h 2h]
+*** PRE-FLOP *** 
+Nasri76480 calls 40
+YL_ML_GL_42 checks
+*** FLOP *** [7h Qh As]
+YL_ML_GL_42 bets 128
+Nasri76480 folds
+YL_ML_GL_42 collected 288 from pot
+*** SUMMARY ***
+Total pot 288 | No rake
+Board: [7h Qh As]
+Seat 1: YL_ML_GL_42 (big blind) won 288
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2597084230454345729-26-1669392593 - Holdem no limit (40/80) - 2022/11/25 16:09:53 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (748)
+Seat 2: Nasri76480 (752)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 40
+Nasri76480 posts big blind 80
+Dealt to YL_ML_GL_42 [9s 5d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Nasri76480 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Nasri76480 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2597084230454345729-27-1669392600 - Holdem no limit (40/80) - 2022/11/25 16:10:00 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (708)
+Seat 2: Nasri76480 (792)
+*** ANTE/BLINDS ***
+Nasri76480 posts small blind 40
+YL_ML_GL_42 posts big blind 80
+Dealt to YL_ML_GL_42 [Ah 6c]
+*** PRE-FLOP *** 
+Nasri76480 calls 40
+YL_ML_GL_42 raises 160 to 240
+Nasri76480 folds
+YL_ML_GL_42 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #2597084230454345729-28-1669392610 - Holdem no limit (40/80) - 2022/11/25 16:10:10 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (788)
+Seat 2: Nasri76480 (712)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 40
+Nasri76480 posts big blind 80
+Dealt to YL_ML_GL_42 [5h Ac]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 160 to 240
+Nasri76480 raises 472 to 712 and is all-in
+YL_ML_GL_42 raises 76 to 788 and is all-in
+*** FLOP *** [3h 6h 6d]
+*** TURN *** [3h 6h 6d][Qs]
+*** RIVER *** [3h 6h 6d Qs][6c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [5h Ac] (Trips of 6)
+Nasri76480 shows [Ad Kc] (Trips of 6)
+Nasri76480 collected 1424 from main pot
+YL_ML_GL_42 collected 76 from side pot 1
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [3h 6h 6d Qs 6c]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [5h Ac] and won 76 with Trips of 6
+Seat 2: Nasri76480 (big blind) showed [Ad Kc] and won 1424 with Trips of 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #2597084230454345729-29-1669392626 - Holdem no limit (50/100) - 2022/11/25 16:10:26 UTC
+Table: 'Expresso(604680793)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (76)
+Seat 2: Nasri76480 (1424)
+*** ANTE/BLINDS ***
+Nasri76480 posts small blind 50
+YL_ML_GL_42 posts big blind 76 and is all-in
+Dealt to YL_ML_GL_42 [7h Kh]
+*** PRE-FLOP *** 
+Nasri76480 raises 1348 to 1424 and is all-in
+*** FLOP *** [Th Jh 9d]
+*** TURN *** [Th Jh 9d][Jc]
+*** RIVER *** [Th Jh 9d Jc][9c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7h Kh] (Two pairs : Jacks and 9)
+Nasri76480 shows [Jd 7d] (Full of Jacks and 9)
+Nasri76480 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Th Jh 9d Jc 9c]
+Seat 1: YL_ML_GL_42 (big blind) showed [7h Kh] and lost with Two pairs : Jacks and 9
+Seat 2: Nasri76480 (small blind) (button) showed [Jd 7d] and won 1500 with Full of Jacks and 9
+
+

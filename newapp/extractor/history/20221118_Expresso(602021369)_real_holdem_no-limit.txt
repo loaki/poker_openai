@@ -1,0 +1,108 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2585662091348148225-1-1668791200 - Holdem no limit (10/20) - 2022/11/18 17:06:40 UTC
+Table: 'Expresso(602021369)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: GabSouver (500)
+Seat 3: FishyFlip (500)
+*** ANTE/BLINDS ***
+FishyFlip posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [5c 4d]
+*** PRE-FLOP *** 
+GabSouver raises 20 to 40
+FishyFlip folds
+YL_ML_GL_42 folds
+GabSouver collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: GabSouver (button) won 70
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2585662091348148225-2-1668791221 - Holdem no limit (10/20) - 2022/11/18 17:07:01 UTC
+Table: 'Expresso(602021369)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (480)
+Seat 2: GabSouver (530)
+Seat 3: FishyFlip (490)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+GabSouver posts big blind 20
+Dealt to YL_ML_GL_42 [4d 9s]
+*** PRE-FLOP *** 
+FishyFlip raises 20 to 40
+YL_ML_GL_42 folds
+GabSouver calls 20
+*** FLOP *** [Kd 5s As]
+GabSouver checks
+FishyFlip bets 31
+GabSouver calls 31
+*** TURN *** [Kd 5s As][6d]
+GabSouver checks
+FishyFlip checks
+*** RIVER *** [Kd 5s As 6d][Tc]
+GabSouver checks
+FishyFlip checks
+*** SHOW DOWN ***
+FishyFlip shows [Qh 3h] (High card : Ace)
+GabSouver shows [Ah 9d] (One pair : Aces)
+GabSouver collected 152 from pot
+*** SUMMARY ***
+Total pot 152 | No rake
+Board: [Kd 5s As 6d Tc]
+Seat 2: GabSouver (big blind) showed [Ah 9d] and won 152 with One pair : Aces
+Seat 3: FishyFlip (button) showed [Qh 3h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2585662091348148225-3-1668791267 - Holdem no limit (10/20) - 2022/11/18 17:07:47 UTC
+Table: 'Expresso(602021369)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (470)
+Seat 2: GabSouver (611)
+Seat 3: FishyFlip (419)
+*** ANTE/BLINDS ***
+GabSouver posts small blind 10
+FishyFlip posts big blind 20
+Dealt to YL_ML_GL_42 [6h Kd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 20 to 40
+GabSouver folds
+FishyFlip raises 379 to 419 and is all-in
+YL_ML_GL_42 calls 379
+*** FLOP *** [Kh Qd 3c]
+*** TURN *** [Kh Qd 3c][2c]
+*** RIVER *** [Kh Qd 3c 2c][Qh]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [6h Kd] (Two pairs : Kings and Queens)
+FishyFlip shows [Ks Qc] (Full of Queens and Kings)
+FishyFlip collected 848 from pot
+*** SUMMARY ***
+Total pot 848 | No rake
+Board: [Kh Qd 3c 2c Qh]
+Seat 1: YL_ML_GL_42 (button) showed [6h Kd] and lost with Two pairs : Kings and Queens
+Seat 3: FishyFlip (big blind) showed [Ks Qc] and won 848 with Full of Queens and Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2585662091348148225-4-1668791295 - Holdem no limit (15/30) - 2022/11/18 17:08:15 UTC
+Table: 'Expresso(602021369)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (51)
+Seat 2: GabSouver (601)
+Seat 3: FishyFlip (848)
+*** ANTE/BLINDS ***
+FishyFlip posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [8h 3d]
+*** PRE-FLOP *** 
+GabSouver folds
+FishyFlip raises 30 to 60
+YL_ML_GL_42 calls 21 and is all-in
+*** FLOP *** [9c 4c 7d]
+*** TURN *** [9c 4c 7d][9s]
+*** RIVER *** [9c 4c 7d 9s][5h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [8h 3d] (One pair : 9)
+FishyFlip shows [7c Td] (Two pairs : 9 and 7)
+FishyFlip collected 111 from pot
+*** SUMMARY ***
+Total pot 111 | No rake
+Board: [9c 4c 7d 9s 5h]
+Seat 1: YL_ML_GL_42 (big blind) showed [8h 3d] and lost with One pair : 9
+Seat 3: FishyFlip (small blind) showed [7c Td] and won 111 with Two pairs : 9 and 7
+
+

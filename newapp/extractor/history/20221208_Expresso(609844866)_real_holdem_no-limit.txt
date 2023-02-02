@@ -1,0 +1,162 @@
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2619263755103502337-1-1670539253 - Holdem no limit (10/20) - 2022/12/08 22:40:53 UTC
+Table: 'Expresso(609844866)#0' 3-max (real money) Seat #1 is the button
+Seat 1: 1WayTicket (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: frowzys (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+frowzys posts big blind 20
+Dealt to YL_ML_GL_42 [5s Qc]
+*** PRE-FLOP *** 
+1WayTicket raises 20 to 40
+YL_ML_GL_42 folds
+frowzys raises 460 to 500 and is all-in
+1WayTicket folds
+frowzys collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 3: frowzys (big blind) won 550
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2619263755103502337-2-1670539263 - Holdem no limit (10/20) - 2022/12/08 22:41:03 UTC
+Table: 'Expresso(609844866)#0' 3-max (real money) Seat #2 is the button
+Seat 1: 1WayTicket (460)
+Seat 2: YL_ML_GL_42 (490)
+Seat 3: frowzys (550)
+*** ANTE/BLINDS ***
+frowzys posts small blind 10
+1WayTicket posts big blind 20
+Dealt to YL_ML_GL_42 [2d 5c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+frowzys folds
+1WayTicket collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: 1WayTicket (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2619263755103502337-3-1670539266 - Holdem no limit (10/20) - 2022/12/08 22:41:06 UTC
+Table: 'Expresso(609844866)#0' 3-max (real money) Seat #3 is the button
+Seat 1: 1WayTicket (470)
+Seat 2: YL_ML_GL_42 (490)
+Seat 3: frowzys (540)
+*** ANTE/BLINDS ***
+1WayTicket posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [6h 6s]
+*** PRE-FLOP *** 
+frowzys folds
+1WayTicket raises 20 to 40
+YL_ML_GL_42 raises 450 to 490 and is all-in
+1WayTicket folds
+YL_ML_GL_42 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 530
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2619263755103502337-4-1670539279 - Holdem no limit (10/20) - 2022/12/08 22:41:19 UTC
+Table: 'Expresso(609844866)#0' 3-max (real money) Seat #1 is the button
+Seat 1: 1WayTicket (430)
+Seat 2: YL_ML_GL_42 (530)
+Seat 3: frowzys (540)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+frowzys posts big blind 20
+Dealt to YL_ML_GL_42 [8h 5s]
+*** PRE-FLOP *** 
+1WayTicket folds
+YL_ML_GL_42 folds
+frowzys collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: frowzys (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2619263755103502337-5-1670539284 - Holdem no limit (10/20) - 2022/12/08 22:41:24 UTC
+Table: 'Expresso(609844866)#0' 3-max (real money) Seat #2 is the button
+Seat 1: 1WayTicket (430)
+Seat 2: YL_ML_GL_42 (520)
+Seat 3: frowzys (550)
+*** ANTE/BLINDS ***
+frowzys posts small blind 10
+1WayTicket posts big blind 20
+Dealt to YL_ML_GL_42 [6s 3c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+frowzys raises 20 to 40
+1WayTicket calls 20
+*** FLOP *** [9h 7h 2d]
+frowzys checks
+1WayTicket checks
+*** TURN *** [9h 7h 2d][6c]
+frowzys bets 40
+1WayTicket calls 40
+*** RIVER *** [9h 7h 2d 6c][Ah]
+frowzys bets 120
+1WayTicket calls 120
+*** SHOW DOWN ***
+frowzys shows [5d Jd] (High card : Ace)
+1WayTicket shows [As 7s] (Two pairs : Aces and 7)
+1WayTicket collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [9h 7h 2d 6c Ah]
+Seat 1: 1WayTicket (big blind) showed [As 7s] and won 400 with Two pairs : Aces and 7
+Seat 3: frowzys (small blind) showed [5d Jd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2619263755103502337-6-1670539317 - Holdem no limit (10/20) - 2022/12/08 22:41:57 UTC
+Table: 'Expresso(609844866)#0' 3-max (real money) Seat #3 is the button
+Seat 1: 1WayTicket (630)
+Seat 2: YL_ML_GL_42 (520)
+Seat 3: frowzys (350)
+*** ANTE/BLINDS ***
+1WayTicket posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Th 6h]
+*** PRE-FLOP *** 
+frowzys raises 20 to 40
+1WayTicket folds
+YL_ML_GL_42 raises 90 to 130
+frowzys folds
+YL_ML_GL_42 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2619263755103502337-7-1670539327 - Holdem no limit (10/20) - 2022/12/08 22:42:07 UTC
+Table: 'Expresso(609844866)#0' 3-max (real money) Seat #1 is the button
+Seat 1: 1WayTicket (620)
+Seat 2: YL_ML_GL_42 (570)
+Seat 3: frowzys (310)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+frowzys posts big blind 20
+Dealt to YL_ML_GL_42 [Ah Kh]
+*** PRE-FLOP *** 
+1WayTicket raises 20 to 40
+YL_ML_GL_42 raises 100 to 140
+frowzys raises 170 to 310 and is all-in
+1WayTicket raises 170 to 480
+YL_ML_GL_42 calls 340
+*** FLOP *** [5s 5h 7s]
+YL_ML_GL_42 bets 90 and is all-in
+1WayTicket calls 90
+*** TURN *** [5s 5h 7s][2s]
+*** RIVER *** [5s 5h 7s 2s][9d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ah Kh] (One pair : 5)
+frowzys shows [Th Tc] (Two pairs : Tens and 5)
+1WayTicket shows [Jd Jh] (Two pairs : Jacks and 5)
+1WayTicket collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Board: [5s 5h 7s 2s 9d]
+Seat 1: 1WayTicket (button) showed [Jd Jh] and won 1450 with Two pairs : Jacks and 5
+Seat 2: YL_ML_GL_42 (small blind) showed [Ah Kh] and lost with One pair : 5
+Seat 3: frowzys (big blind) showed [Th Tc] and lost with Two pairs : Tens and 5
+
+

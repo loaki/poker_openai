@@ -1,0 +1,207 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2597201126579240961-1-1669396829 - Holdem no limit (10/20) - 2022/11/25 17:20:29 UTC
+Table: 'Expresso Nitro(604708010)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (300)
+Seat 2: Parapluie9 (300)
+Seat 3: Jordan917 (300)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Parapluie9 posts big blind 20
+Dealt to YL_ML_GL_42 [3d 9d]
+*** PRE-FLOP *** 
+Jordan917 folds
+YL_ML_GL_42 raises 40 to 60
+Parapluie9 folds
+YL_ML_GL_42 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: YL_ML_GL_42 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2597201126579240961-2-1669396839 - Holdem no limit (10/20) - 2022/11/25 17:20:39 UTC
+Table: 'Expresso Nitro(604708010)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (320)
+Seat 2: Parapluie9 (280)
+Seat 3: Jordan917 (300)
+*** ANTE/BLINDS ***
+Parapluie9 posts small blind 10
+Jordan917 posts big blind 20
+Dealt to YL_ML_GL_42 [Th Kc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+Parapluie9 calls 60
+Jordan917 folds
+*** FLOP *** [Qh 6s 5d]
+Parapluie9 checks
+YL_ML_GL_42 bets 128
+Parapluie9 folds
+YL_ML_GL_42 collected 288 from pot
+*** SUMMARY ***
+Total pot 288 | No rake
+Board: [Qh 6s 5d]
+Seat 1: YL_ML_GL_42 (button) won 288
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2597201126579240961-3-1669396853 - Holdem no limit (10/20) - 2022/11/25 17:20:53 UTC
+Table: 'Expresso Nitro(604708010)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (410)
+Seat 2: Parapluie9 (210)
+Seat 3: Jordan917 (280)
+*** ANTE/BLINDS ***
+Jordan917 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Jh Qs]
+*** PRE-FLOP *** 
+Parapluie9 raises 190 to 210 and is all-in
+Jordan917 raises 70 to 280 and is all-in
+YL_ML_GL_42 calls 260
+*** FLOP *** [Tc 4d 4h]
+*** TURN *** [Tc 4d 4h][6d]
+*** RIVER *** [Tc 4d 4h 6d][2c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Jh Qs] (One pair : 4)
+Parapluie9 shows [Td Jc] (Two pairs : Tens and 4)
+Jordan917 shows [Ad 7s] (One pair : 4)
+Jordan917 collected 140 from side pot 1
+Parapluie9 collected 630 from main pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Board: [Tc 4d 4h 6d 2c]
+Seat 1: YL_ML_GL_42 (big blind) showed [Jh Qs] and lost with One pair : 4
+Seat 2: Parapluie9 (button) showed [Td Jc] and won 630 with Two pairs : Tens and 4
+Seat 3: Jordan917 (small blind) showed [Ad 7s] and won 140 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2597201126579240961-4-1669396875 - Holdem no limit (10/20) - 2022/11/25 17:21:15 UTC
+Table: 'Expresso Nitro(604708010)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (130)
+Seat 2: Parapluie9 (630)
+Seat 3: Jordan917 (140)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Parapluie9 posts big blind 20
+Dealt to YL_ML_GL_42 [As 7d]
+*** PRE-FLOP *** 
+Jordan917 raises 120 to 140 and is all-in
+YL_ML_GL_42 calls 120 and is all-in
+Parapluie9 folds
+*** FLOP *** [3s 3h 8s]
+*** TURN *** [3s 3h 8s][2c]
+*** RIVER *** [3s 3h 8s 2c][3d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [As 7d] (Trips of 3)
+Jordan917 shows [Jd Th] (Trips of 3)
+Jordan917 collected 10 from side pot 1
+YL_ML_GL_42 collected 280 from main pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Board: [3s 3h 8s 2c 3d]
+Seat 1: YL_ML_GL_42 (small blind) showed [As 7d] and won 280 with Trips of 3
+Seat 3: Jordan917 (button) showed [Jd Th] and won 10 with Trips of 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2597201126579240961-5-1669396889 - Holdem no limit (15/30) - 2022/11/25 17:21:29 UTC
+Table: 'Expresso Nitro(604708010)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (280)
+Seat 2: Parapluie9 (610)
+Seat 3: Jordan917 (10)
+*** ANTE/BLINDS ***
+Parapluie9 posts small blind 15
+Jordan917 posts big blind 10 and is all-in
+Dealt to YL_ML_GL_42 [2h 8d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+*** FLOP *** [7s 8c 2s]
+*** TURN *** [7s 8c 2s][Qh]
+*** RIVER *** [7s 8c 2s Qh][8s]
+*** SHOW DOWN ***
+Parapluie9 shows [3h Ad] (One pair : 8)
+Jordan917 shows [Kh As] (One pair : 8)
+Jordan917 collected 20 from main pot
+Parapluie9 collected 5 from side pot 1
+*** SUMMARY ***
+Total pot 25 | No rake
+Board: [7s 8c 2s Qh 8s]
+Seat 2: Parapluie9 (small blind) showed [3h Ad] and won 5 with One pair : 8
+Seat 3: Jordan917 (big blind) showed [Kh As] and won 20 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2597201126579240961-6-1669396900 - Holdem no limit (15/30) - 2022/11/25 17:21:40 UTC
+Table: 'Expresso Nitro(604708010)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (280)
+Seat 2: Parapluie9 (600)
+Seat 3: Jordan917 (20)
+*** ANTE/BLINDS ***
+Jordan917 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Qs 9c]
+*** PRE-FLOP *** 
+Parapluie9 folds
+Jordan917 calls 5 and is all-in
+*** FLOP *** [7s Ah 3d]
+*** TURN *** [7s Ah 3d][Jc]
+*** RIVER *** [7s Ah 3d Jc][5h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Qs 9c] (High card : Ace)
+Jordan917 shows [Tc Kh] (High card : Ace)
+Jordan917 collected 40 from main pot
+YL_ML_GL_42 collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [7s Ah 3d Jc 5h]
+Seat 1: YL_ML_GL_42 (big blind) showed [Qs 9c] and won 10 with High card : Ace
+Seat 3: Jordan917 (small blind) showed [Tc Kh] and won 40 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2597201126579240961-7-1669396911 - Holdem no limit (15/30) - 2022/11/25 17:21:51 UTC
+Table: 'Expresso Nitro(604708010)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (260)
+Seat 2: Parapluie9 (600)
+Seat 3: Jordan917 (40)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Parapluie9 posts big blind 30
+Dealt to YL_ML_GL_42 [Js 2d]
+*** PRE-FLOP *** 
+Jordan917 raises 10 to 40 and is all-in
+YL_ML_GL_42 folds
+Parapluie9 calls 10
+*** FLOP *** [5h 5s 3s]
+*** TURN *** [5h 5s 3s][As]
+*** RIVER *** [5h 5s 3s As][Jd]
+*** SHOW DOWN ***
+Jordan917 shows [Kc 8c] (One pair : 5)
+Parapluie9 shows [Qc Kh] (One pair : 5)
+Parapluie9 collected 95 from pot
+*** SUMMARY ***
+Total pot 95 | No rake
+Board: [5h 5s 3s As Jd]
+Seat 2: Parapluie9 (big blind) showed [Qc Kh] and won 95 with One pair : 5
+Seat 3: Jordan917 (button) showed [Kc 8c] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2597201126579240961-8-1669396925 - Holdem no limit (15/30) - 2022/11/25 17:22:05 UTC
+Table: 'Expresso Nitro(604708010)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (245)
+Seat 2: Parapluie9 (655)
+*** ANTE/BLINDS ***
+Parapluie9 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [8h Jd]
+*** PRE-FLOP *** 
+Parapluie9 raises 45 to 75
+YL_ML_GL_42 raises 170 to 245 and is all-in
+Parapluie9 calls 170
+*** FLOP *** [4d 5s 5h]
+*** TURN *** [4d 5s 5h][Qh]
+*** RIVER *** [4d 5s 5h Qh][Qd]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [8h Jd] (Two pairs : Queens and 5)
+Parapluie9 shows [6s 6c] (Two pairs : Queens and 6)
+Parapluie9 collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Board: [4d 5s 5h Qh Qd]
+Seat 1: YL_ML_GL_42 (big blind) showed [8h Jd] and lost with Two pairs : Queens and 5
+Seat 2: Parapluie9 (small blind) (button) showed [6s 6c] and won 490 with Two pairs : Queens and 6
+
+

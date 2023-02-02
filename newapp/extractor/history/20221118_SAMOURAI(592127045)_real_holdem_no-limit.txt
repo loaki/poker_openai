@@ -1,0 +1,3194 @@
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-6-1668785733 - Holdem no limit (25/100/200) - 2022/11/18 15:35:33 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #2 is the button
+Seat 1: romg10 (15232, 2.25€ bounty)
+Seat 2: CallTBass (19888, 2.25€ bounty)
+Seat 3: BebePanda62 (25718, 2.25€ bounty)
+Seat 4: PalacesPoker (20225, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (20000, 2.25€ bounty)
+Seat 6: ABPOT (19462, 2.25€ bounty)
+*** ANTE/BLINDS ***
+BebePanda62 posts ante 25
+PalacesPoker posts ante 25
+romg10 posts ante 25
+CallTBass posts ante 25
+YL_ML_GL_42 posts ante 25
+ABPOT posts ante 25
+BebePanda62 posts small blind 100
+PalacesPoker posts big blind 200
+Dealt to YL_ML_GL_42 [Td 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ABPOT raises 200 to 400
+romg10 calls 400
+CallTBass folds
+BebePanda62 folds
+PalacesPoker calls 200
+*** FLOP *** [7s 4s Qc]
+PalacesPoker checks
+ABPOT checks
+romg10 bets 943
+PalacesPoker folds
+ABPOT folds
+romg10 collected 2393 from pot
+*** SUMMARY ***
+Total pot 2393 | No rake
+Board: [7s 4s Qc]
+Seat 1: romg10 won 2393
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-7-1668785790 - Holdem no limit (25/100/200) - 2022/11/18 15:36:30 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #3 is the button
+Seat 1: romg10 (16257, 2.25€ bounty)
+Seat 2: CallTBass (19863, 2.25€ bounty)
+Seat 3: BebePanda62 (25593, 2.25€ bounty)
+Seat 4: PalacesPoker (19800, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (19975, 2.25€ bounty)
+Seat 6: ABPOT (19037, 2.25€ bounty)
+*** ANTE/BLINDS ***
+PalacesPoker posts ante 25
+YL_ML_GL_42 posts ante 25
+romg10 posts ante 25
+CallTBass posts ante 25
+BebePanda62 posts ante 25
+ABPOT posts ante 25
+PalacesPoker posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Qh Qs]
+*** PRE-FLOP *** 
+ABPOT folds
+romg10 raises 300 to 500
+CallTBass calls 500
+BebePanda62 calls 500
+PalacesPoker folds
+YL_ML_GL_42 raises 19450 to 19950 and is all-in
+romg10 calls 15732 and is all-in
+CallTBass folds
+BebePanda62 folds
+*** FLOP *** [5h 4d Kc]
+*** TURN *** [5h 4d Kc][8c]
+*** RIVER *** [5h 4d Kc 8c][6c]
+*** SHOW DOWN ***
+romg10 shows [3s As] (High card : Ace)
+YL_ML_GL_42 shows [Qh Qs] (One pair : Queens)
+YL_ML_GL_42 collected 37432 from pot
+*** SUMMARY ***
+Total pot 37432 | No rake
+Board: [5h 4d Kc 8c 6c]
+Seat 1: romg10 showed [3s As] and lost with High card : Ace
+Seat 5: YL_ML_GL_42 (big blind) showed [Qh Qs] and won 37432 with One pair : Queens
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-8-1668785832 - Holdem no limit (25/100/200) - 2022/11/18 15:37:12 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #4 is the button
+Seat 1: Josebita (20000, 2.25€ bounty)
+Seat 2: CallTBass (19338, 2.25€ bounty)
+Seat 3: BebePanda62 (25068, 2.25€ bounty)
+Seat 4: PalacesPoker (19675, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (37432, 3.37€ bounty)
+Seat 6: ABPOT (19012, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+ABPOT posts ante 25
+Josebita posts ante 25
+CallTBass posts ante 25
+BebePanda62 posts ante 25
+PalacesPoker posts ante 25
+YL_ML_GL_42 posts small blind 100
+ABPOT posts big blind 200
+Dealt to YL_ML_GL_42 [7d Kh]
+*** PRE-FLOP *** 
+Josebita folds
+CallTBass folds
+BebePanda62 folds
+PalacesPoker raises 300 to 500
+YL_ML_GL_42 folds
+ABPOT calls 300
+*** FLOP *** [6c Jd 3h]
+ABPOT checks
+PalacesPoker bets 625
+ABPOT folds
+PalacesPoker collected 1875 from pot
+*** SUMMARY ***
+Total pot 1875 | No rake
+Board: [6c Jd 3h]
+Seat 4: PalacesPoker (button) won 1875
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-9-1668785860 - Holdem no limit (25/100/200) - 2022/11/18 15:37:40 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #5 is the button
+Seat 1: Josebita (19975, 2.25€ bounty)
+Seat 2: CallTBass (19313, 2.25€ bounty)
+Seat 3: BebePanda62 (25043, 2.25€ bounty)
+Seat 4: PalacesPoker (20400, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (37307, 3.37€ bounty)
+Seat 6: ABPOT (18487, 2.25€ bounty)
+*** ANTE/BLINDS ***
+ABPOT posts ante 25
+Josebita posts ante 25
+CallTBass posts ante 25
+BebePanda62 posts ante 25
+PalacesPoker posts ante 25
+YL_ML_GL_42 posts ante 25
+ABPOT posts small blind 100
+Josebita posts big blind 200
+Dealt to YL_ML_GL_42 [9d Js]
+*** PRE-FLOP *** 
+CallTBass folds
+BebePanda62 raises 200 to 400
+PalacesPoker folds
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita folds
+BebePanda62 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 3: BebePanda62 won 850
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-10-1668785899 - Holdem no limit (25/100/200) - 2022/11/18 15:38:19 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #6 is the button
+Seat 1: Josebita (19750, 2.25€ bounty)
+Seat 2: CallTBass (19288, 2.25€ bounty)
+Seat 3: BebePanda62 (25468, 2.25€ bounty)
+Seat 4: PalacesPoker (20375, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (37282, 3.37€ bounty)
+Seat 6: ABPOT (18362, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Josebita posts ante 25
+CallTBass posts ante 25
+BebePanda62 posts ante 25
+PalacesPoker posts ante 25
+YL_ML_GL_42 posts ante 25
+ABPOT posts ante 25
+Josebita posts small blind 100
+CallTBass posts big blind 200
+Dealt to YL_ML_GL_42 [7d 6c]
+*** PRE-FLOP *** 
+BebePanda62 folds
+PalacesPoker folds
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita calls 100
+CallTBass checks
+*** FLOP *** [3h Ts Ac]
+Josebita bets 200
+CallTBass raises 548 to 748
+Josebita folds
+CallTBass collected 1498 from pot
+*** SUMMARY ***
+Total pot 1498 | No rake
+Board: [3h Ts Ac]
+Seat 2: CallTBass (big blind) won 1498
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-11-1668785934 - Holdem no limit (25/100/200) - 2022/11/18 15:38:54 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #1 is the button
+Seat 1: Josebita (19325, 2.25€ bounty)
+Seat 2: CallTBass (19813, 2.25€ bounty)
+Seat 3: BebePanda62 (25443, 2.25€ bounty)
+Seat 4: PalacesPoker (20350, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (37257, 3.37€ bounty)
+Seat 6: ABPOT (18337, 2.25€ bounty)
+*** ANTE/BLINDS ***
+CallTBass posts ante 25
+BebePanda62 posts ante 25
+Josebita posts ante 25
+PalacesPoker posts ante 25
+YL_ML_GL_42 posts ante 25
+ABPOT posts ante 25
+CallTBass posts small blind 100
+BebePanda62 posts big blind 200
+Dealt to YL_ML_GL_42 [9h 3c]
+*** PRE-FLOP *** 
+PalacesPoker folds
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita folds
+CallTBass calls 100
+BebePanda62 checks
+*** FLOP *** [Kc 6s 8s]
+CallTBass checks
+BebePanda62 bets 275
+CallTBass calls 275
+*** TURN *** [Kc 6s 8s][4s]
+CallTBass checks
+BebePanda62 checks
+*** RIVER *** [Kc 6s 8s 4s][Kh]
+CallTBass bets 385
+BebePanda62 calls 385
+*** SHOW DOWN ***
+CallTBass shows [Qd Js] (One pair : Kings)
+BebePanda62 shows [8h Td] (Two pairs : Kings and 8)
+BebePanda62 collected 1870 from pot
+*** SUMMARY ***
+Total pot 1870 | No rake
+Board: [Kc 6s 8s 4s Kh]
+Seat 2: CallTBass (small blind) showed [Qd Js] and lost with One pair : Kings
+Seat 3: BebePanda62 (big blind) showed [8h Td] and won 1870 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-12-1668785989 - Holdem no limit (25/100/200) - 2022/11/18 15:39:49 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #2 is the button
+Seat 1: Josebita (19300, 2.25€ bounty)
+Seat 2: CallTBass (18928, 2.25€ bounty)
+Seat 3: BebePanda62 (26428, 2.25€ bounty)
+Seat 4: PalacesPoker (20325, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (37232, 3.37€ bounty)
+Seat 6: ABPOT (18312, 2.25€ bounty)
+*** ANTE/BLINDS ***
+BebePanda62 posts ante 25
+PalacesPoker posts ante 25
+Josebita posts ante 25
+CallTBass posts ante 25
+YL_ML_GL_42 posts ante 25
+ABPOT posts ante 25
+BebePanda62 posts small blind 100
+PalacesPoker posts big blind 200
+Dealt to YL_ML_GL_42 [7d 6s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita folds
+CallTBass raises 200 to 400
+BebePanda62 folds
+PalacesPoker calls 200
+*** FLOP *** [Jc 7c Tc]
+PalacesPoker checks
+CallTBass checks
+*** TURN *** [Jc 7c Tc][Qs]
+PalacesPoker checks
+CallTBass bets 368
+PalacesPoker calls 368
+*** RIVER *** [Jc 7c Tc Qs][Js]
+PalacesPoker checks
+CallTBass checks
+*** SHOW DOWN ***
+PalacesPoker shows [7h 5c] (Two pairs : Jacks and 7)
+CallTBass shows [As Qc] (Two pairs : Queens and Jacks)
+CallTBass collected 1786 from pot
+*** SUMMARY ***
+Total pot 1786 | No rake
+Board: [Jc 7c Tc Qs Js]
+Seat 2: CallTBass (button) showed [As Qc] and won 1786 with Two pairs : Queens and Jacks
+Seat 4: PalacesPoker (big blind) showed [7h 5c] and lost with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-13-1668786048 - Holdem no limit (25/100/200) - 2022/11/18 15:40:48 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #3 is the button
+Seat 1: Josebita (19275, 2.25€ bounty)
+Seat 2: CallTBass (19921, 2.25€ bounty)
+Seat 3: BebePanda62 (26303, 2.25€ bounty)
+Seat 4: PalacesPoker (19532, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (37207, 3.37€ bounty)
+Seat 6: ABPOT (18287, 2.25€ bounty)
+*** ANTE/BLINDS ***
+PalacesPoker posts ante 25
+YL_ML_GL_42 posts ante 25
+Josebita posts ante 25
+CallTBass posts ante 25
+BebePanda62 posts ante 25
+ABPOT posts ante 25
+PalacesPoker posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Qc 2c]
+*** PRE-FLOP *** 
+ABPOT folds
+Josebita folds
+CallTBass folds
+BebePanda62 folds
+PalacesPoker raises 500 to 700
+YL_ML_GL_42 calls 500
+*** FLOP *** [3h Qd 6c]
+PalacesPoker bets 543
+YL_ML_GL_42 calls 543
+*** TURN *** [3h Qd 6c][4d]
+PalacesPoker bets 923
+YL_ML_GL_42 calls 923
+*** RIVER *** [3h Qd 6c 4d][Jc]
+PalacesPoker checks
+YL_ML_GL_42 bets 2241
+PalacesPoker calls 2241
+*** SHOW DOWN ***
+PalacesPoker shows [8c 8h] (One pair : 8)
+YL_ML_GL_42 shows [Qc 2c] (One pair : Queens)
+YL_ML_GL_42 collected 8964 from pot
+*** SUMMARY ***
+Total pot 8964 | No rake
+Board: [3h Qd 6c 4d Jc]
+Seat 4: PalacesPoker (small blind) showed [8c 8h] and lost with One pair : 8
+Seat 5: YL_ML_GL_42 (big blind) showed [Qc 2c] and won 8964 with One pair : Queens
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-14-1668786117 - Holdem no limit (25/100/200) - 2022/11/18 15:41:57 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #4 is the button
+Seat 1: Josebita (19250, 2.25€ bounty)
+Seat 2: CallTBass (19896, 2.25€ bounty)
+Seat 3: BebePanda62 (26278, 2.25€ bounty)
+Seat 4: PalacesPoker (15100, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (41739, 3.37€ bounty)
+Seat 6: ABPOT (18262, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+ABPOT posts ante 25
+Josebita posts ante 25
+CallTBass posts ante 25
+BebePanda62 posts ante 25
+PalacesPoker posts ante 25
+YL_ML_GL_42 posts small blind 100
+ABPOT posts big blind 200
+Dealt to YL_ML_GL_42 [Td 3h]
+*** PRE-FLOP *** 
+Josebita raises 300 to 500
+CallTBass folds
+BebePanda62 folds
+PalacesPoker folds
+YL_ML_GL_42 folds
+ABPOT calls 300
+*** FLOP *** [7c Ad 6d]
+ABPOT checks
+Josebita checks
+*** TURN *** [7c Ad 6d][7d]
+ABPOT checks
+Josebita bets 438
+ABPOT folds
+Josebita collected 1688 from pot
+*** SUMMARY ***
+Total pot 1688 | No rake
+Board: [7c Ad 6d 7d]
+Seat 1: Josebita won 1688
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-15-1668786136 - Holdem no limit (25/100/200) - 2022/11/18 15:42:16 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #5 is the button
+Seat 1: Josebita (19975, 2.25€ bounty)
+Seat 2: CallTBass (19871, 2.25€ bounty)
+Seat 3: BebePanda62 (26253, 2.25€ bounty)
+Seat 4: PalacesPoker (15075, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (41614, 3.37€ bounty)
+Seat 6: ABPOT (17737, 2.25€ bounty)
+*** ANTE/BLINDS ***
+ABPOT posts ante 25
+Josebita posts ante 25
+CallTBass posts ante 25
+BebePanda62 posts ante 25
+PalacesPoker posts ante 25
+YL_ML_GL_42 posts ante 25
+ABPOT posts small blind 100
+Josebita posts big blind 200
+Dealt to YL_ML_GL_42 [Jc As]
+*** PRE-FLOP *** 
+CallTBass calls 200
+BebePanda62 raises 600 to 800
+PalacesPoker folds
+YL_ML_GL_42 calls 800
+ABPOT folds
+Josebita folds
+CallTBass calls 600
+*** FLOP *** [3s 9h 5s]
+CallTBass checks
+BebePanda62 checks
+YL_ML_GL_42 checks
+*** TURN *** [3s 9h 5s][9s]
+CallTBass checks
+BebePanda62 checks
+YL_ML_GL_42 checks
+*** RIVER *** [3s 9h 5s 9s][7d]
+CallTBass bets 1297
+BebePanda62 folds
+YL_ML_GL_42 folds
+CallTBass collected 4147 from pot
+*** SUMMARY ***
+Total pot 4147 | No rake
+Board: [3s 9h 5s 9s 7d]
+Seat 2: CallTBass won 4147
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-16-1668786226 - Holdem no limit (25/100/200) - 2022/11/18 15:43:46 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #6 is the button
+Seat 1: Josebita (19750, 2.25€ bounty)
+Seat 2: CallTBass (21896, 2.25€ bounty)
+Seat 3: BebePanda62 (25428, 2.25€ bounty)
+Seat 4: PalacesPoker (15050, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (40789, 3.37€ bounty)
+Seat 6: ABPOT (17612, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Josebita posts ante 25
+CallTBass posts ante 25
+BebePanda62 posts ante 25
+PalacesPoker posts ante 25
+YL_ML_GL_42 posts ante 25
+ABPOT posts ante 25
+Josebita posts small blind 100
+CallTBass posts big blind 200
+Dealt to YL_ML_GL_42 [3h 6h]
+*** PRE-FLOP *** 
+BebePanda62 folds
+PalacesPoker folds
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita raises 300 to 500
+CallTBass calls 300
+*** FLOP *** [Kh Td 8h]
+Josebita bets 403
+CallTBass calls 403
+*** TURN *** [Kh Td 8h][Ks]
+Josebita checks
+CallTBass bets 300
+Josebita calls 300
+*** RIVER *** [Kh Td 8h Ks][2d]
+Josebita bets 895
+CallTBass raises 2512 to 3407
+Josebita folds
+CallTBass collected 6858 from pot
+*** SUMMARY ***
+Total pot 6858 | No rake
+Board: [Kh Td 8h Ks 2d]
+Seat 2: CallTBass (big blind) won 6858
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-17-1668786296 - Holdem no limit (25/100/200) - 2022/11/18 15:44:56 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #1 is the button
+Seat 1: Josebita (17627, 2.25€ bounty)
+Seat 2: CallTBass (24119, 2.25€ bounty)
+Seat 3: BebePanda62 (25403, 2.25€ bounty)
+Seat 4: PalacesPoker (15025, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (40764, 3.37€ bounty)
+Seat 6: ABPOT (17587, 2.25€ bounty)
+*** ANTE/BLINDS ***
+CallTBass posts ante 25
+BebePanda62 posts ante 25
+Josebita posts ante 25
+PalacesPoker posts ante 25
+YL_ML_GL_42 posts ante 25
+ABPOT posts ante 25
+CallTBass posts small blind 100
+BebePanda62 posts big blind 200
+Dealt to YL_ML_GL_42 [9c 7c]
+*** PRE-FLOP *** 
+PalacesPoker folds
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita folds
+CallTBass folds
+BebePanda62 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 3: BebePanda62 (big blind) won 450
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-18-1668786307 - Holdem no limit (25/100/200) - 2022/11/18 15:45:07 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #2 is the button
+Seat 1: Josebita (17602, 2.25€ bounty)
+Seat 2: CallTBass (23994, 2.25€ bounty)
+Seat 3: BebePanda62 (25628, 2.25€ bounty)
+Seat 4: PalacesPoker (15000, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (40739, 3.37€ bounty)
+Seat 6: ABPOT (17562, 2.25€ bounty)
+*** ANTE/BLINDS ***
+BebePanda62 posts ante 25
+PalacesPoker posts ante 25
+Josebita posts ante 25
+CallTBass posts ante 25
+YL_ML_GL_42 posts ante 25
+ABPOT posts ante 25
+BebePanda62 posts small blind 100
+PalacesPoker posts big blind 200
+Dealt to YL_ML_GL_42 [Ac Js]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 250 to 450
+ABPOT folds
+Josebita folds
+CallTBass folds
+BebePanda62 calls 350
+PalacesPoker calls 250
+*** FLOP *** [Qc 3h 8h]
+BebePanda62 checks
+PalacesPoker checks
+YL_ML_GL_42 checks
+*** TURN *** [Qc 3h 8h][7s]
+BebePanda62 bets 1050
+PalacesPoker calls 1050
+YL_ML_GL_42 folds
+*** RIVER *** [Qc 3h 8h 7s][Qh]
+BebePanda62 bets 1300
+PalacesPoker calls 1300
+*** SHOW DOWN ***
+BebePanda62 shows [Qd Jc] (Trips of Queens)
+PalacesPoker shows [7h Kh] (Flush King high)
+PalacesPoker collected 6200 from pot
+*** SUMMARY ***
+Total pot 6200 | No rake
+Board: [Qc 3h 8h 7s Qh]
+Seat 3: BebePanda62 (small blind) showed [Qd Jc] and lost with Trips of Queens
+Seat 4: PalacesPoker (big blind) showed [7h Kh] and won 6200 with Flush King high
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-19-1668786395 - Holdem no limit (25/100/200) - 2022/11/18 15:46:35 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #3 is the button
+Seat 1: Josebita (17577, 2.25€ bounty)
+Seat 2: CallTBass (23969, 2.25€ bounty)
+Seat 3: BebePanda62 (22803, 2.25€ bounty)
+Seat 4: PalacesPoker (18375, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (40264, 3.37€ bounty)
+Seat 6: ABPOT (17537, 2.25€ bounty)
+*** ANTE/BLINDS ***
+PalacesPoker posts ante 25
+YL_ML_GL_42 posts ante 25
+Josebita posts ante 25
+CallTBass posts ante 25
+BebePanda62 posts ante 25
+ABPOT posts ante 25
+PalacesPoker posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Jh Ah]
+*** PRE-FLOP *** 
+ABPOT raises 200 to 400
+Josebita folds
+CallTBass folds
+BebePanda62 folds
+PalacesPoker calls 300
+YL_ML_GL_42 calls 200
+*** FLOP *** [7c Qs 5c]
+PalacesPoker checks
+YL_ML_GL_42 checks
+ABPOT bets 1080
+PalacesPoker calls 1080
+YL_ML_GL_42 folds
+*** TURN *** [7c Qs 5c][7h]
+PalacesPoker checks
+ABPOT bets 3510
+PalacesPoker folds
+ABPOT collected 7020 from pot
+*** SUMMARY ***
+Total pot 7020 | No rake
+Board: [7c Qs 5c 7h]
+Seat 6: ABPOT won 7020
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-20-1668786448 - Holdem no limit (25/100/200) - 2022/11/18 15:47:28 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #4 is the button
+Seat 1: Josebita (17552, 2.25€ bounty)
+Seat 2: CallTBass (23944, 2.25€ bounty)
+Seat 3: BebePanda62 (22778, 2.25€ bounty)
+Seat 4: PalacesPoker (16870, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (39839, 3.37€ bounty)
+Seat 6: ABPOT (19542, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+ABPOT posts ante 25
+Josebita posts ante 25
+CallTBass posts ante 25
+BebePanda62 posts ante 25
+PalacesPoker posts ante 25
+YL_ML_GL_42 posts small blind 100
+ABPOT posts big blind 200
+Dealt to YL_ML_GL_42 [3c 8d]
+*** PRE-FLOP *** 
+Josebita raises 650 to 850
+CallTBass folds
+BebePanda62 folds
+PalacesPoker raises 2125 to 2975
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita raises 14552 to 17527 and is all-in
+PalacesPoker calls 13870 and is all-in
+*** FLOP *** [2c 5d Qd]
+*** TURN *** [2c 5d Qd][6s]
+*** RIVER *** [2c 5d Qd 6s][8s]
+*** SHOW DOWN ***
+PalacesPoker shows [Ad Ks] (High card : Ace)
+Josebita shows [5c 5s] (Trips of 5)
+Josebita collected 34822 from pot
+*** SUMMARY ***
+Total pot 34822 | No rake
+Board: [2c 5d Qd 6s 8s]
+Seat 1: Josebita showed [5c 5s] and won 34822 with Trips of 5
+Seat 4: PalacesPoker (button) showed [Ad Ks] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-21-1668786498 - Holdem no limit (25/100/200) - 2022/11/18 15:48:18 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #5 is the button
+Seat 1: Josebita (34822, 3.37€ bounty)
+Seat 2: CallTBass (23919, 2.25€ bounty)
+Seat 3: BebePanda62 (22753, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (39714, 3.37€ bounty)
+Seat 6: ABPOT (19317, 2.25€ bounty)
+*** ANTE/BLINDS ***
+ABPOT posts ante 25
+Josebita posts ante 25
+CallTBass posts ante 25
+BebePanda62 posts ante 25
+YL_ML_GL_42 posts ante 25
+ABPOT posts small blind 100
+Josebita posts big blind 200
+Dealt to YL_ML_GL_42 [Kd 9c]
+*** PRE-FLOP *** 
+CallTBass folds
+BebePanda62 raises 200 to 400
+YL_ML_GL_42 calls 400
+ABPOT folds
+Josebita calls 200
+*** FLOP *** [As 6s 2d]
+Josebita checks
+BebePanda62 bets 713
+YL_ML_GL_42 folds
+Josebita folds
+BebePanda62 collected 2138 from pot
+*** SUMMARY ***
+Total pot 2138 | No rake
+Board: [As 6s 2d]
+Seat 3: BebePanda62 won 2138
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-22-1668786529 - Holdem no limit (25/100/200) - 2022/11/18 15:48:49 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #6 is the button
+Seat 1: Josebita (34397, 3.37€ bounty)
+Seat 2: CallTBass (23894, 2.25€ bounty)
+Seat 3: BebePanda62 (23753, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (20000, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (39289, 3.37€ bounty)
+Seat 6: ABPOT (19192, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Josebita posts ante 25
+CallTBass posts ante 25
+BebePanda62 posts ante 25
+wmx-82xqj4f posts ante 25
+YL_ML_GL_42 posts ante 25
+ABPOT posts ante 25
+Josebita posts small blind 100
+CallTBass posts big blind 200
+Dealt to YL_ML_GL_42 [5s 4d]
+*** PRE-FLOP *** 
+BebePanda62 folds
+wmx-82xqj4f raises 400 to 600
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita folds
+CallTBass folds
+wmx-82xqj4f collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 4: wmx-82xqj4f won 1050
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-23-1668786554 - Holdem no limit (25/100/200) - 2022/11/18 15:49:14 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #1 is the button
+Seat 1: Josebita (34272, 3.37€ bounty)
+Seat 2: CallTBass (23669, 2.25€ bounty)
+Seat 3: BebePanda62 (23728, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (20425, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (39264, 3.37€ bounty)
+Seat 6: ABPOT (19167, 2.25€ bounty)
+*** ANTE/BLINDS ***
+CallTBass posts ante 25
+BebePanda62 posts ante 25
+Josebita posts ante 25
+wmx-82xqj4f posts ante 25
+YL_ML_GL_42 posts ante 25
+ABPOT posts ante 25
+CallTBass posts small blind 100
+BebePanda62 posts big blind 200
+Dealt to YL_ML_GL_42 [Tc Kd]
+*** PRE-FLOP *** 
+wmx-82xqj4f folds
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita raises 200 to 400
+CallTBass folds
+BebePanda62 calls 200
+*** FLOP *** [7h 4s Qh]
+BebePanda62 checks
+Josebita bets 368
+BebePanda62 raises 1140 to 1508
+Josebita calls 1140
+*** TURN *** [7h 4s Qh][3s]
+BebePanda62 checks
+Josebita bets 1400
+BebePanda62 calls 1400
+*** RIVER *** [7h 4s Qh 3s][6d]
+BebePanda62 checks
+Josebita bets 30939 and is all-in
+BebePanda62 calls 20395 and is all-in
+*** SHOW DOWN ***
+BebePanda62 shows [Td Qd] (One pair : Queens)
+Josebita shows [5c 6c] (Straight 7 high)
+Josebita collected 58200 from pot
+*** SUMMARY ***
+Total pot 58200 | No rake
+Board: [7h 4s Qh 3s 6d]
+Seat 1: Josebita (button) showed [5c 6c] and won 58200 with Straight 7 high
+Seat 3: BebePanda62 (big blind) showed [Td Qd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-24-1668786686 - Holdem no limit (25/100/200) - 2022/11/18 15:51:26 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #2 is the button
+Seat 1: Josebita (58200, 4.49€ bounty)
+Seat 2: CallTBass (23544, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (20400, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (39239, 3.37€ bounty)
+Seat 6: ABPOT (19142, 2.25€ bounty)
+*** ANTE/BLINDS ***
+wmx-82xqj4f posts ante 25
+Josebita posts ante 25
+CallTBass posts ante 25
+YL_ML_GL_42 posts ante 25
+ABPOT posts ante 25
+wmx-82xqj4f posts big blind 200
+Dealt to YL_ML_GL_42 [6s 9d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita folds
+CallTBass folds
+wmx-82xqj4f collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | No rake
+Seat 4: wmx-82xqj4f (big blind) won 325
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-25-1668786703 - Holdem no limit (25/100/200) - 2022/11/18 15:51:43 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #3 is the button
+Seat 1: Josebita (58175, 4.49€ bounty)
+Seat 2: CallTBass (23519, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (20500, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (39214, 3.37€ bounty)
+Seat 6: ABPOT (19117, 2.25€ bounty)
+*** ANTE/BLINDS ***
+wmx-82xqj4f posts ante 25
+YL_ML_GL_42 posts ante 25
+Josebita posts ante 25
+CallTBass posts ante 25
+ABPOT posts ante 25
+wmx-82xqj4f posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [8c Ah]
+*** PRE-FLOP *** 
+ABPOT folds
+Josebita folds
+CallTBass calls 200
+wmx-82xqj4f folds
+YL_ML_GL_42 checks
+*** FLOP *** [4h Jh Qs]
+YL_ML_GL_42 checks
+CallTBass bets 219
+YL_ML_GL_42 folds
+CallTBass shows [Jd 5d] (One pair : Jacks)
+CallTBass collected 844 from pot
+*** SUMMARY ***
+Total pot 844 | No rake
+Board: [4h Jh Qs]
+Seat 2: CallTBass showed [Jd 5d] and won 844 with One pair : Jacks
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-26-1668786745 - Holdem no limit (25/100/200) - 2022/11/18 15:52:25 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #4 is the button
+Seat 1: Josebita (58150, 4.49€ bounty)
+Seat 2: CallTBass (23919, 2.25€ bounty)
+Seat 3: Oscarpg46 (20000, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (20375, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (38989, 3.37€ bounty)
+Seat 6: ABPOT (19092, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+ABPOT posts ante 25
+Josebita posts ante 25
+CallTBass posts ante 25
+Oscarpg46 posts ante 25
+wmx-82xqj4f posts ante 25
+YL_ML_GL_42 posts small blind 100
+ABPOT posts big blind 200
+Dealt to YL_ML_GL_42 [9s 3h]
+*** PRE-FLOP *** 
+Josebita folds
+CallTBass folds
+Oscarpg46 folds
+wmx-82xqj4f raises 400 to 600
+YL_ML_GL_42 folds
+ABPOT folds
+wmx-82xqj4f collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 4: wmx-82xqj4f (button) won 1050
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-27-1668786789 - Holdem no limit (25/100/200) - 2022/11/18 15:53:09 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #5 is the button
+Seat 1: Josebita (58125, 4.49€ bounty)
+Seat 2: CallTBass (23894, 2.25€ bounty)
+Seat 3: Oscarpg46 (19975, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (20800, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (38864, 3.37€ bounty)
+Seat 6: ABPOT (18867, 2.25€ bounty)
+*** ANTE/BLINDS ***
+ABPOT posts ante 25
+Josebita posts ante 25
+CallTBass posts ante 25
+Oscarpg46 posts ante 25
+wmx-82xqj4f posts ante 25
+YL_ML_GL_42 posts ante 25
+ABPOT posts small blind 100
+Josebita posts big blind 200
+Dealt to YL_ML_GL_42 [9d Qs]
+*** PRE-FLOP *** 
+CallTBass folds
+Oscarpg46 folds
+wmx-82xqj4f raises 400 to 600
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita calls 400
+*** FLOP *** [8c 3d 2s]
+Josebita checks
+wmx-82xqj4f bets 943
+Josebita calls 943
+*** TURN *** [8c 3d 2s][6c]
+Josebita checks
+wmx-82xqj4f bets 2168
+Josebita folds
+wmx-82xqj4f collected 5504 from pot
+*** SUMMARY ***
+Total pot 5504 | No rake
+Board: [8c 3d 2s 6c]
+Seat 4: wmx-82xqj4f won 5504
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 43 - HandId: #2543166293352120381-28-1668786858 - Holdem no limit (25/100/200) - 2022/11/18 15:54:18 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #6 is the button
+Seat 1: Josebita (56557, 4.49€ bounty)
+Seat 2: CallTBass (23869, 2.25€ bounty)
+Seat 3: Oscarpg46 (19950, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (22568, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (38839, 3.37€ bounty)
+Seat 6: ABPOT (18742, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Josebita posts ante 25
+CallTBass posts ante 25
+Oscarpg46 posts ante 25
+wmx-82xqj4f posts ante 25
+YL_ML_GL_42 posts ante 25
+ABPOT posts ante 25
+Josebita posts small blind 100
+CallTBass posts big blind 200
+Dealt to YL_ML_GL_42 [Kh 7d]
+*** PRE-FLOP *** 
+Oscarpg46 folds
+wmx-82xqj4f folds
+YL_ML_GL_42 folds
+ABPOT raises 200 to 400
+Josebita calls 300
+CallTBass calls 200
+*** FLOP *** [4h Ad 8h]
+Josebita checks
+CallTBass checks
+ABPOT checks
+*** TURN *** [4h Ad 8h][3c]
+Josebita checks
+CallTBass checks
+ABPOT checks
+*** RIVER *** [4h Ad 8h 3c][Th]
+Josebita checks
+CallTBass bets 472
+ABPOT folds
+Josebita folds
+CallTBass collected 1822 from pot
+*** SUMMARY ***
+Total pot 1822 | No rake
+Board: [4h Ad 8h 3c Th]
+Seat 2: CallTBass (big blind) won 1822
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2543166293352120381-29-1668787262 - Holdem no limit (30/125/250) - 2022/11/18 16:01:02 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #1 is the button
+Seat 1: Josebita (56132, 4.49€ bounty)
+Seat 2: CallTBass (24794, 2.25€ bounty)
+Seat 3: Oscarpg46 (19925, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (22543, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (38814, 3.37€ bounty)
+Seat 6: ABPOT (18317, 2.25€ bounty)
+*** ANTE/BLINDS ***
+CallTBass posts ante 30
+Oscarpg46 posts ante 30
+Josebita posts ante 30
+wmx-82xqj4f posts ante 30
+YL_ML_GL_42 posts ante 30
+ABPOT posts ante 30
+CallTBass posts small blind 125
+Oscarpg46 posts big blind 250
+Dealt to YL_ML_GL_42 [3d Td]
+*** PRE-FLOP *** 
+wmx-82xqj4f folds
+YL_ML_GL_42 folds
+ABPOT raises 250 to 500
+Josebita folds
+CallTBass calls 375
+Oscarpg46 calls 250
+*** FLOP *** [2c 4s Jc]
+CallTBass bets 1092
+Oscarpg46 folds
+ABPOT folds
+CallTBass shows [As 9d] (High card : Ace)
+CallTBass collected 2772 from pot
+*** SUMMARY ***
+Total pot 2772 | No rake
+Board: [2c 4s Jc]
+Seat 2: CallTBass (small blind) showed [As 9d] and won 2772 with High card : Ace
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2543166293352120381-30-1668787339 - Holdem no limit (30/125/250) - 2022/11/18 16:02:19 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #2 is the button
+Seat 1: Josebita (56102, 4.49€ bounty)
+Seat 2: CallTBass (25944, 2.25€ bounty)
+Seat 3: Oscarpg46 (19395, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (22513, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (38784, 3.37€ bounty)
+Seat 6: ABPOT (17787, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Oscarpg46 posts ante 30
+wmx-82xqj4f posts ante 30
+Josebita posts ante 30
+CallTBass posts ante 30
+YL_ML_GL_42 posts ante 30
+ABPOT posts ante 30
+Oscarpg46 posts small blind 125
+wmx-82xqj4f posts big blind 250
+Dealt to YL_ML_GL_42 [Js Kd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita raises 250 to 500
+CallTBass folds
+Oscarpg46 calls 375
+wmx-82xqj4f calls 250
+*** FLOP *** [Qc 2d 6c]
+Oscarpg46 checks
+wmx-82xqj4f checks
+Josebita bets 588
+Oscarpg46 calls 588
+wmx-82xqj4f folds
+*** TURN *** [Qc 2d 6c][4s]
+Oscarpg46 bets 250
+Josebita raises 1012 to 1262
+Oscarpg46 calls 1012
+*** RIVER *** [Qc 2d 6c 4s][4h]
+Oscarpg46 bets 3497
+Josebita raises 50225 to 53722 and is all-in
+Oscarpg46 folds
+Josebita collected 62599 from pot
+*** SUMMARY ***
+Total pot 62599 | No rake
+Board: [Qc 2d 6c 4s 4h]
+Seat 1: Josebita won 62599
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2543166293352120381-31-1668787433 - Holdem no limit (30/125/250) - 2022/11/18 16:03:53 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #3 is the button
+Seat 1: Josebita (62599, 4.49€ bounty)
+Seat 2: CallTBass (25914, 2.25€ bounty)
+Seat 3: Oscarpg46 (13518, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (21983, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (38754, 3.37€ bounty)
+Seat 6: ABPOT (17757, 2.25€ bounty)
+*** ANTE/BLINDS ***
+wmx-82xqj4f posts ante 30
+YL_ML_GL_42 posts ante 30
+Josebita posts ante 30
+CallTBass posts ante 30
+Oscarpg46 posts ante 30
+ABPOT posts ante 30
+wmx-82xqj4f posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [Tc Js]
+*** PRE-FLOP *** 
+ABPOT raises 250 to 500
+Josebita folds
+CallTBass folds
+Oscarpg46 raises 12988 to 13488 and is all-in
+wmx-82xqj4f folds
+YL_ML_GL_42 folds
+ABPOT folds
+Oscarpg46 collected 14543 from pot
+*** SUMMARY ***
+Total pot 14543 | No rake
+Seat 3: Oscarpg46 (button) won 14543
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2543166293352120381-32-1668787461 - Holdem no limit (30/125/250) - 2022/11/18 16:04:21 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #4 is the button
+Seat 1: Josebita (62569, 4.49€ bounty)
+Seat 2: CallTBass (25884, 2.25€ bounty)
+Seat 3: Oscarpg46 (14543, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (21828, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (38474, 3.37€ bounty)
+Seat 6: ABPOT (17227, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 30
+ABPOT posts ante 30
+Josebita posts ante 30
+CallTBass posts ante 30
+Oscarpg46 posts ante 30
+wmx-82xqj4f posts ante 30
+YL_ML_GL_42 posts small blind 125
+ABPOT posts big blind 250
+Dealt to YL_ML_GL_42 [Td Qd]
+*** PRE-FLOP *** 
+Josebita raises 250 to 500
+CallTBass folds
+Oscarpg46 calls 500
+wmx-82xqj4f calls 500
+YL_ML_GL_42 calls 375
+ABPOT folds
+*** FLOP *** [Jd Th Qh]
+YL_ML_GL_42 bets 1215
+Josebita calls 1215
+Oscarpg46 folds
+wmx-82xqj4f calls 1215
+*** TURN *** [Jd Th Qh][3c]
+YL_ML_GL_42 bets 3038
+Josebita calls 3038
+wmx-82xqj4f calls 3038
+*** RIVER *** [Jd Th Qh 3c][8s]
+YL_ML_GL_42 checks
+Josebita bets 5316
+wmx-82xqj4f calls 5316
+YL_ML_GL_42 calls 5316
+*** SHOW DOWN ***
+Josebita shows [5d Kd] (High card : King)
+wmx-82xqj4f shows [Jc Ks] (One pair : Jacks)
+YL_ML_GL_42 shows [Td Qd] (Two pairs : Queens and Tens)
+YL_ML_GL_42 collected 31137 from pot
+*** SUMMARY ***
+Total pot 31137 | No rake
+Board: [Jd Th Qh 3c 8s]
+Seat 1: Josebita showed [5d Kd] and lost with High card : King
+Seat 4: wmx-82xqj4f (button) showed [Jc Ks] and lost with One pair : Jacks
+Seat 5: YL_ML_GL_42 (small blind) showed [Td Qd] and won 31137 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2543166293352120381-33-1668787558 - Holdem no limit (30/125/250) - 2022/11/18 16:05:58 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #5 is the button
+Seat 1: Josebita (52470, 4.49€ bounty)
+Seat 2: CallTBass (25854, 2.25€ bounty)
+Seat 3: Oscarpg46 (14013, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (11729, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (59512, 3.37€ bounty)
+Seat 6: ABPOT (16947, 2.25€ bounty)
+*** ANTE/BLINDS ***
+ABPOT posts ante 30
+Josebita posts ante 30
+CallTBass posts ante 30
+Oscarpg46 posts ante 30
+wmx-82xqj4f posts ante 30
+YL_ML_GL_42 posts ante 30
+ABPOT posts small blind 125
+Josebita posts big blind 250
+Dealt to YL_ML_GL_42 [6s 5d]
+*** PRE-FLOP *** 
+CallTBass calls 250
+Oscarpg46 folds
+wmx-82xqj4f folds
+YL_ML_GL_42 folds
+ABPOT calls 125
+Josebita checks
+*** FLOP *** [Ah Qh 9s]
+ABPOT checks
+Josebita checks
+CallTBass bets 326
+ABPOT folds
+Josebita folds
+CallTBass collected 1256 from pot
+*** SUMMARY ***
+Total pot 1256 | No rake
+Board: [Ah Qh 9s]
+Seat 2: CallTBass won 1256
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543166293352120381-34-1668787627 - Holdem no limit (35/150/300) - 2022/11/18 16:07:07 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #6 is the button
+Seat 1: Josebita (52190, 4.49€ bounty)
+Seat 2: CallTBass (26504, 2.25€ bounty)
+Seat 3: Oscarpg46 (13983, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (11699, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (59482, 3.37€ bounty)
+Seat 6: ABPOT (16667, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Josebita posts ante 35
+CallTBass posts ante 35
+Oscarpg46 posts ante 35
+wmx-82xqj4f posts ante 35
+YL_ML_GL_42 posts ante 35
+ABPOT posts ante 35
+Josebita posts small blind 150
+CallTBass posts big blind 300
+Dealt to YL_ML_GL_42 [Jd 7h]
+*** PRE-FLOP *** 
+Oscarpg46 folds
+wmx-82xqj4f folds
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita folds
+CallTBass collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 2: CallTBass (big blind) won 660
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543166293352120381-35-1668787664 - Holdem no limit (35/150/300) - 2022/11/18 16:07:44 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #1 is the button
+Seat 1: Josebita (52005, 4.49€ bounty)
+Seat 2: CallTBass (26829, 2.25€ bounty)
+Seat 3: Oscarpg46 (13948, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (11664, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (59447, 3.37€ bounty)
+Seat 6: ABPOT (16632, 2.25€ bounty)
+*** ANTE/BLINDS ***
+CallTBass posts ante 35
+Oscarpg46 posts ante 35
+Josebita posts ante 35
+wmx-82xqj4f posts ante 35
+YL_ML_GL_42 posts ante 35
+ABPOT posts ante 35
+CallTBass posts small blind 150
+Oscarpg46 posts big blind 300
+Dealt to YL_ML_GL_42 [Td 3s]
+*** PRE-FLOP *** 
+wmx-82xqj4f folds
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita folds
+CallTBass folds
+Oscarpg46 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 3: Oscarpg46 (big blind) won 660
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543166293352120381-36-1668787742 - Holdem no limit (35/150/300) - 2022/11/18 16:09:02 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #2 is the button
+Seat 1: Josebita (51970, 4.49€ bounty)
+Seat 2: CallTBass (26644, 2.25€ bounty)
+Seat 3: Oscarpg46 (14273, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (11629, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (59412, 3.37€ bounty)
+Seat 6: ABPOT (16597, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Oscarpg46 posts ante 35
+wmx-82xqj4f posts ante 35
+Josebita posts ante 35
+CallTBass posts ante 35
+YL_ML_GL_42 posts ante 35
+ABPOT posts ante 35
+Oscarpg46 posts small blind 150
+wmx-82xqj4f posts big blind 300
+Dealt to YL_ML_GL_42 [2c 7h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita raises 600 to 900
+CallTBass calls 900
+Oscarpg46 calls 750
+wmx-82xqj4f folds
+*** FLOP *** [3d 6d Ts]
+Oscarpg46 bets 300
+Josebita raises 50735 to 51035 and is all-in
+CallTBass folds
+Oscarpg46 folds
+Josebita collected 54545 from pot
+*** SUMMARY ***
+Total pot 54545 | No rake
+Board: [3d 6d Ts]
+Seat 1: Josebita won 54545
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543166293352120381-37-1668787802 - Holdem no limit (35/150/300) - 2022/11/18 16:10:02 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #3 is the button
+Seat 1: Josebita (54545, 4.49€ bounty)
+Seat 2: CallTBass (25709, 2.25€ bounty)
+Seat 3: Oscarpg46 (13038, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (11294, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (59377, 3.37€ bounty)
+Seat 6: ABPOT (16562, 2.25€ bounty)
+*** ANTE/BLINDS ***
+wmx-82xqj4f posts ante 35
+YL_ML_GL_42 posts ante 35
+Josebita posts ante 35
+CallTBass posts ante 35
+Oscarpg46 posts ante 35
+ABPOT posts ante 35
+wmx-82xqj4f posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [6s Qc]
+*** PRE-FLOP *** 
+ABPOT folds
+Josebita raises 600 to 900
+CallTBass raises 1800 to 2700
+Oscarpg46 folds
+wmx-82xqj4f folds
+YL_ML_GL_42 folds
+Josebita raises 51810 to 54510 and is all-in
+CallTBass calls 22974 and is all-in
+*** FLOP *** [Tc Qd 8d]
+*** TURN *** [Tc Qd 8d][5h]
+*** RIVER *** [Tc Qd 8d 5h][8c]
+*** SHOW DOWN ***
+Josebita shows [4s 4h] (Two pairs : 8 and 4)
+CallTBass shows [Qh Ah] (Two pairs : Queens and 8)
+CallTBass collected 52008 from main pot
+Josebita collected 28836 from side pot 1
+*** SUMMARY ***
+Total pot 80844 | No rake
+Board: [Tc Qd 8d 5h 8c]
+Seat 1: Josebita showed [4s 4h] and won 28836 with Two pairs : 8 and 4
+Seat 2: CallTBass showed [Qh Ah] and won 52008 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543166293352120381-38-1668787851 - Holdem no limit (35/150/300) - 2022/11/18 16:10:51 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #4 is the button
+Seat 1: Josebita (28836, 4.49€ bounty)
+Seat 2: CallTBass (52008, 2.25€ bounty)
+Seat 3: Oscarpg46 (13003, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (11109, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (59042, 3.37€ bounty)
+Seat 6: ABPOT (16527, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+ABPOT posts ante 35
+Josebita posts ante 35
+CallTBass posts ante 35
+Oscarpg46 posts ante 35
+wmx-82xqj4f posts ante 35
+YL_ML_GL_42 posts small blind 150
+ABPOT posts big blind 300
+Dealt to YL_ML_GL_42 [7c Jd]
+*** PRE-FLOP *** 
+Josebita raises 450 to 750
+CallTBass folds
+Oscarpg46 folds
+wmx-82xqj4f calls 750
+YL_ML_GL_42 folds
+ABPOT calls 450
+*** FLOP *** [Js Ks 3h]
+ABPOT checks
+Josebita bets 913
+wmx-82xqj4f folds
+ABPOT calls 913
+*** TURN *** [Js Ks 3h][5c]
+ABPOT checks
+Josebita bets 1553
+ABPOT folds
+Josebita collected 5989 from pot
+*** SUMMARY ***
+Total pot 5989 | No rake
+Board: [Js Ks 3h 5c]
+Seat 1: Josebita won 5989
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2543166293352120381-39-1668787905 - Holdem no limit (40/175/350) - 2022/11/18 16:11:45 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #5 is the button
+Seat 1: Josebita (31574, 4.49€ bounty)
+Seat 2: CallTBass (51973, 2.25€ bounty)
+Seat 3: Oscarpg46 (12968, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (10324, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (58857, 3.37€ bounty)
+Seat 6: ABPOT (14829, 2.25€ bounty)
+*** ANTE/BLINDS ***
+ABPOT posts ante 40
+Josebita posts ante 40
+CallTBass posts ante 40
+Oscarpg46 posts ante 40
+wmx-82xqj4f posts ante 40
+YL_ML_GL_42 posts ante 40
+ABPOT posts small blind 175
+Josebita posts big blind 350
+Dealt to YL_ML_GL_42 [9c Ts]
+*** PRE-FLOP *** 
+CallTBass folds
+Oscarpg46 calls 350
+wmx-82xqj4f folds
+YL_ML_GL_42 calls 350
+ABPOT calls 175
+Josebita raises 700 to 1050
+Oscarpg46 raises 11878 to 12928 and is all-in
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita calls 11878
+*** FLOP *** [2c 5h Ah]
+*** TURN *** [2c 5h Ah][Jc]
+*** RIVER *** [2c 5h Ah Jc][As]
+*** SHOW DOWN ***
+Oscarpg46 shows [9s Ks] (One pair : Aces)
+Josebita shows [Qc Ac] (Trips of Aces)
+Josebita collected 26796 from pot
+*** SUMMARY ***
+Total pot 26796 | No rake
+Board: [2c 5h Ah Jc As]
+Seat 1: Josebita (big blind) showed [Qc Ac] and won 26796 with Trips of Aces
+Seat 3: Oscarpg46 showed [9s Ks] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2543166293352120381-40-1668787956 - Holdem no limit (40/175/350) - 2022/11/18 16:12:36 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #6 is the button
+Seat 1: Josebita (45402, 5.61€ bounty)
+Seat 2: CallTBass (51933, 2.25€ bounty)
+Seat 3: Mric11 (20000, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (10284, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (58467, 3.37€ bounty)
+Seat 6: ABPOT (14439, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Josebita posts ante 40
+CallTBass posts ante 40
+Mric11 posts ante 40
+wmx-82xqj4f posts ante 40
+YL_ML_GL_42 posts ante 40
+ABPOT posts ante 40
+Josebita posts small blind 175
+CallTBass posts big blind 350
+Dealt to YL_ML_GL_42 [3c Ac]
+*** PRE-FLOP *** 
+Mric11 raises 525 to 875
+wmx-82xqj4f folds
+YL_ML_GL_42 calls 875
+ABPOT folds
+Josebita folds
+CallTBass folds
+*** FLOP *** [Tc 9h Th]
+Mric11 bets 880
+YL_ML_GL_42 folds
+Mric11 collected 3395 from pot
+*** SUMMARY ***
+Total pot 3395 | No rake
+Board: [Tc 9h Th]
+Seat 3: Mric11 won 3395
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2543166293352120381-41-1668787991 - Holdem no limit (40/175/350) - 2022/11/18 16:13:11 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #1 is the button
+Seat 1: Josebita (45187, 5.61€ bounty)
+Seat 2: CallTBass (51543, 2.25€ bounty)
+Seat 3: Mric11 (21600, 2.25€ bounty)
+Seat 4: wmx-82xqj4f (10244, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (57552, 3.37€ bounty)
+Seat 6: ABPOT (14399, 2.25€ bounty)
+*** ANTE/BLINDS ***
+CallTBass posts ante 40
+Mric11 posts ante 40
+Josebita posts ante 40
+wmx-82xqj4f posts ante 40
+YL_ML_GL_42 posts ante 40
+ABPOT posts ante 40
+CallTBass posts small blind 175
+Mric11 posts big blind 350
+Dealt to YL_ML_GL_42 [7d Ac]
+*** PRE-FLOP *** 
+wmx-82xqj4f raises 700 to 1050
+YL_ML_GL_42 folds
+ABPOT raises 1575 to 2625
+Josebita folds
+CallTBass folds
+Mric11 folds
+wmx-82xqj4f calls 1575
+*** FLOP *** [2h 6h As]
+wmx-82xqj4f checks
+ABPOT bets 1504
+wmx-82xqj4f raises 6075 to 7579 and is all-in
+ABPOT calls 6075
+*** TURN *** [2h 6h As][Kh]
+*** RIVER *** [2h 6h As Kh][Kd]
+*** SHOW DOWN ***
+wmx-82xqj4f shows [Qc Th] (One pair : Kings)
+ABPOT shows [Ad Ah] (Full of Aces and Kings)
+ABPOT collected 21173 from pot
+*** SUMMARY ***
+Total pot 21173 | No rake
+Board: [2h 6h As Kh Kd]
+Seat 4: wmx-82xqj4f showed [Qc Th] and lost with One pair : Kings
+Seat 6: ABPOT showed [Ad Ah] and won 21173 with Full of Aces and Kings
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2543166293352120381-42-1668788055 - Holdem no limit (40/175/350) - 2022/11/18 16:14:15 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #2 is the button
+Seat 1: Josebita (45147, 5.61€ bounty)
+Seat 2: CallTBass (51328, 2.25€ bounty)
+Seat 3: Mric11 (21210, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (57512, 3.37€ bounty)
+Seat 6: ABPOT (25328, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Mric11 posts ante 40
+YL_ML_GL_42 posts ante 40
+Josebita posts ante 40
+CallTBass posts ante 40
+ABPOT posts ante 40
+Mric11 posts small blind 175
+YL_ML_GL_42 posts big blind 350
+Dealt to YL_ML_GL_42 [9d Qh]
+*** PRE-FLOP *** 
+ABPOT folds
+Josebita raises 350 to 700
+CallTBass calls 700
+Mric11 calls 525
+YL_ML_GL_42 calls 350
+*** FLOP *** [3h Qc Qs]
+Mric11 checks
+YL_ML_GL_42 checks
+Josebita bets 875
+CallTBass calls 875
+Mric11 folds
+YL_ML_GL_42 calls 875
+*** TURN *** [3h Qc Qs][Kc]
+YL_ML_GL_42 checks
+Josebita checks
+CallTBass bets 2275
+YL_ML_GL_42 calls 2275
+Josebita folds
+*** RIVER *** [3h Qc Qs Kc][7s]
+YL_ML_GL_42 bets 10175
+CallTBass folds
+YL_ML_GL_42 collected 20350 from pot
+*** SUMMARY ***
+Total pot 20350 | No rake
+Board: [3h Qc Qs Kc 7s]
+Seat 5: YL_ML_GL_42 (big blind) won 20350
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543166293352120381-43-1668788187 - Holdem no limit (50/200/400) - 2022/11/18 16:16:27 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #3 is the button
+Seat 1: Josebita (43532, 5.61€ bounty)
+Seat 2: CallTBass (47438, 2.25€ bounty)
+Seat 3: Mric11 (20470, 2.25€ bounty)
+Seat 4: Mugiwara_19 (20000, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (63797, 3.37€ bounty)
+Seat 6: ABPOT (25288, 3.37€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 50
+ABPOT posts ante 50
+Josebita posts ante 50
+CallTBass posts ante 50
+Mric11 posts ante 50
+YL_ML_GL_42 posts small blind 200
+ABPOT posts big blind 400
+Dealt to YL_ML_GL_42 [6h 3d]
+*** PRE-FLOP *** 
+Josebita raises 600 to 1000
+CallTBass folds
+Mric11 calls 1000
+YL_ML_GL_42 folds
+ABPOT folds
+*** FLOP *** [4d As 5h]
+Josebita checks
+Mric11 checks
+*** TURN *** [4d As 5h][9h]
+Josebita bets 997
+Mric11 folds
+Josebita collected 3847 from pot
+*** SUMMARY ***
+Total pot 3847 | No rake
+Board: [4d As 5h 9h]
+Seat 1: Josebita won 3847
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543166293352120381-44-1668788225 - Holdem no limit (50/200/400) - 2022/11/18 16:17:05 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #5 is the button
+Seat 1: Josebita (45332, 5.61€ bounty)
+Seat 2: CallTBass (47388, 2.25€ bounty)
+Seat 3: Mric11 (19420, 2.25€ bounty)
+Seat 4: Mugiwara_19 (20000, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (63547, 3.37€ bounty)
+Seat 6: ABPOT (24838, 3.37€ bounty)
+*** ANTE/BLINDS ***
+ABPOT posts ante 50
+Josebita posts ante 50
+CallTBass posts ante 50
+Mric11 posts ante 50
+Mugiwara_19 posts ante 50
+YL_ML_GL_42 posts ante 50
+ABPOT posts small blind 200
+Josebita posts big blind 400
+Dealt to YL_ML_GL_42 [3d 9h]
+*** PRE-FLOP *** 
+CallTBass folds
+Mric11 raises 800 to 1200
+Mugiwara_19 folds
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita raises 44082 to 45282 and is all-in
+Mric11 folds
+Josebita collected 46982 from pot
+*** SUMMARY ***
+Total pot 46982 | No rake
+Seat 1: Josebita (big blind) won 46982
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543166293352120381-45-1668788275 - Holdem no limit (50/200/400) - 2022/11/18 16:17:55 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #6 is the button
+Seat 1: Josebita (46982, 5.61€ bounty)
+Seat 2: CallTBass (47338, 2.25€ bounty)
+Seat 3: Mric11 (18170, 2.25€ bounty)
+Seat 4: Mugiwara_19 (19950, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (63497, 3.37€ bounty)
+Seat 6: ABPOT (24588, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Josebita posts ante 50
+CallTBass posts ante 50
+Mric11 posts ante 50
+Mugiwara_19 posts ante 50
+YL_ML_GL_42 posts ante 50
+ABPOT posts ante 50
+Josebita posts small blind 200
+CallTBass posts big blind 400
+Dealt to YL_ML_GL_42 [Kd 4d]
+*** PRE-FLOP *** 
+Mric11 folds
+Mugiwara_19 folds
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita folds
+CallTBass collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 2: CallTBass (big blind) won 900
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543166293352120381-46-1668788303 - Holdem no limit (50/200/400) - 2022/11/18 16:18:23 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #1 is the button
+Seat 1: Josebita (46732, 5.61€ bounty)
+Seat 2: CallTBass (47788, 2.25€ bounty)
+Seat 3: Mric11 (18120, 2.25€ bounty)
+Seat 4: Mugiwara_19 (19900, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (63447, 3.37€ bounty)
+Seat 6: ABPOT (24538, 3.37€ bounty)
+*** ANTE/BLINDS ***
+CallTBass posts ante 50
+Mric11 posts ante 50
+Josebita posts ante 50
+Mugiwara_19 posts ante 50
+YL_ML_GL_42 posts ante 50
+ABPOT posts ante 50
+CallTBass posts small blind 200
+Mric11 posts big blind 400
+Dealt to YL_ML_GL_42 [Ac 7h]
+*** PRE-FLOP *** 
+Mugiwara_19 raises 600 to 1000
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita raises 2000 to 3000
+CallTBass folds
+Mric11 folds
+Mugiwara_19 calls 2000
+*** FLOP *** [6c 7d Qd]
+Mugiwara_19 checks
+Josebita bets 2200
+Mugiwara_19 raises 6575 to 8775
+Josebita calls 6575
+*** TURN *** [6c 7d Qd][3h]
+Mugiwara_19 bets 8075 and is all-in
+Josebita calls 8075
+*** RIVER *** [6c 7d Qd 3h][7s]
+*** SHOW DOWN ***
+Josebita shows [2d 2s] (Two pairs : 7 and 2)
+Mugiwara_19 shows [Qh Kd] (Two pairs : Queens and 7)
+Mugiwara_19 collected 40600 from pot
+*** SUMMARY ***
+Total pot 40600 | No rake
+Board: [6c 7d Qd 3h 7s]
+Seat 1: Josebita (button) showed [2d 2s] and lost with Two pairs : 7 and 2
+Seat 4: Mugiwara_19 showed [Qh Kd] and won 40600 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543166293352120381-47-1668788355 - Holdem no limit (50/200/400) - 2022/11/18 16:19:15 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #2 is the button
+Seat 1: Josebita (26832, 5.61€ bounty)
+Seat 2: CallTBass (47538, 2.25€ bounty)
+Seat 3: Mric11 (17670, 2.25€ bounty)
+Seat 4: Mugiwara_19 (40600, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (63397, 3.37€ bounty)
+Seat 6: ABPOT (24488, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Mric11 posts ante 50
+Mugiwara_19 posts ante 50
+Josebita posts ante 50
+CallTBass posts ante 50
+YL_ML_GL_42 posts ante 50
+ABPOT posts ante 50
+Mric11 posts small blind 200
+Mugiwara_19 posts big blind 400
+Dealt to YL_ML_GL_42 [8s Ac]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita folds
+CallTBass folds
+Mric11 folds
+Mugiwara_19 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 4: Mugiwara_19 (big blind) won 900
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543166293352120381-48-1668788385 - Holdem no limit (50/200/400) - 2022/11/18 16:19:45 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #3 is the button
+Seat 1: Josebita (26782, 5.61€ bounty)
+Seat 2: CallTBass (47488, 2.25€ bounty)
+Seat 3: Mric11 (17420, 2.25€ bounty)
+Seat 4: Mugiwara_19 (41050, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (63347, 3.37€ bounty)
+Seat 6: ABPOT (24438, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Mugiwara_19 posts ante 50
+YL_ML_GL_42 posts ante 50
+Josebita posts ante 50
+CallTBass posts ante 50
+Mric11 posts ante 50
+ABPOT posts ante 50
+Mugiwara_19 posts small blind 200
+YL_ML_GL_42 posts big blind 400
+Dealt to YL_ML_GL_42 [4d Ac]
+*** PRE-FLOP *** 
+ABPOT folds
+Josebita calls 400
+CallTBass folds
+Mric11 raises 800 to 1200
+Mugiwara_19 folds
+YL_ML_GL_42 calls 800
+Josebita calls 800
+*** FLOP *** [4s 6h Kd]
+YL_ML_GL_42 bets 2050
+Josebita calls 2050
+Mric11 folds
+*** TURN *** [4s 6h Kd][8h]
+YL_ML_GL_42 checks
+Josebita checks
+*** RIVER *** [4s 6h Kd 8h][Kc]
+YL_ML_GL_42 bets 2870
+Josebita folds
+YL_ML_GL_42 collected 11070 from pot
+*** SUMMARY ***
+Total pot 11070 | No rake
+Board: [4s 6h Kd 8h Kc]
+Seat 5: YL_ML_GL_42 (big blind) won 11070
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2543166293352120381-49-1668788473 - Holdem no limit (60/250/500) - 2022/11/18 16:21:13 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #4 is the button
+Seat 1: Josebita (23482, 5.61€ bounty)
+Seat 2: CallTBass (47438, 2.25€ bounty)
+Seat 3: Mric11 (16170, 2.25€ bounty)
+Seat 4: Mugiwara_19 (40800, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (68247, 3.37€ bounty)
+Seat 6: ABPOT (24388, 3.37€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+ABPOT posts ante 60
+Josebita posts ante 60
+CallTBass posts ante 60
+Mric11 posts ante 60
+Mugiwara_19 posts ante 60
+YL_ML_GL_42 posts small blind 250
+ABPOT posts big blind 500
+Dealt to YL_ML_GL_42 [7c 4c]
+*** PRE-FLOP *** 
+Josebita folds
+CallTBass folds
+Mric11 folds
+Mugiwara_19 folds
+YL_ML_GL_42 raises 750 to 1250
+ABPOT folds
+YL_ML_GL_42 collected 2110 from pot
+*** SUMMARY ***
+Total pot 2110 | No rake
+Seat 5: YL_ML_GL_42 (small blind) won 2110
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2543166293352120381-51-1668788628 - Holdem no limit (60/250/500) - 2022/11/18 16:23:48 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #6 is the button
+Seat 1: Josebita (22362, 5.61€ bounty)
+Seat 2: CallTBass (52275, 2.25€ bounty)
+Seat 3: Mric11 (12703, 2.25€ bounty)
+Seat 4: Mugiwara_19 (40680, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (68987, 3.37€ bounty)
+Seat 6: ABPOT (23518, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Josebita posts ante 60
+CallTBass posts ante 60
+Mric11 posts ante 60
+Mugiwara_19 posts ante 60
+YL_ML_GL_42 posts ante 60
+ABPOT posts ante 60
+Josebita posts small blind 250
+CallTBass posts big blind 500
+Dealt to YL_ML_GL_42 [4d 7h]
+*** PRE-FLOP *** 
+Mric11 folds
+Mugiwara_19 folds
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita raises 500 to 1000
+CallTBass folds
+Josebita collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Seat 1: Josebita (small blind) won 1860
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2543166293352120381-52-1668788690 - Holdem no limit (60/250/500) - 2022/11/18 16:24:50 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #1 is the button
+Seat 1: Josebita (23162, 5.61€ bounty)
+Seat 2: CallTBass (51715, 2.25€ bounty)
+Seat 3: Mric11 (12643, 2.25€ bounty)
+Seat 4: Mugiwara_19 (40620, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (68927, 3.37€ bounty)
+Seat 6: ABPOT (23458, 3.37€ bounty)
+*** ANTE/BLINDS ***
+CallTBass posts ante 60
+Mric11 posts ante 60
+Josebita posts ante 60
+Mugiwara_19 posts ante 60
+YL_ML_GL_42 posts ante 60
+ABPOT posts ante 60
+CallTBass posts small blind 250
+Mric11 posts big blind 500
+Dealt to YL_ML_GL_42 [Jd Qc]
+*** PRE-FLOP *** 
+Mugiwara_19 folds
+YL_ML_GL_42 raises 500 to 1000
+ABPOT calls 1000
+Josebita raises 22102 to 23102 and is all-in
+CallTBass folds
+Mric11 folds
+YL_ML_GL_42 folds
+ABPOT folds
+Josebita collected 26212 from pot
+*** SUMMARY ***
+Total pot 26212 | No rake
+Seat 1: Josebita (button) won 26212
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2543166293352120381-53-1668788731 - Holdem no limit (60/250/500) - 2022/11/18 16:25:31 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #2 is the button
+Seat 1: Josebita (26212, 5.61€ bounty)
+Seat 2: CallTBass (51405, 2.25€ bounty)
+Seat 3: Mric11 (12083, 2.25€ bounty)
+Seat 4: Mugiwara_19 (40560, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (67867, 3.37€ bounty)
+Seat 6: ABPOT (22398, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Mric11 posts ante 60
+Mugiwara_19 posts ante 60
+Josebita posts ante 60
+CallTBass posts ante 60
+YL_ML_GL_42 posts ante 60
+ABPOT posts ante 60
+Mric11 posts small blind 250
+Mugiwara_19 posts big blind 500
+Dealt to YL_ML_GL_42 [Ts 9s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 500 to 1000
+ABPOT folds
+Josebita folds
+CallTBass folds
+Mric11 folds
+Mugiwara_19 calls 500
+*** FLOP *** [Ah 5c 6c]
+Mugiwara_19 checks
+YL_ML_GL_42 bets 1305
+Mugiwara_19 folds
+YL_ML_GL_42 collected 3915 from pot
+*** SUMMARY ***
+Total pot 3915 | No rake
+Board: [Ah 5c 6c]
+Seat 5: YL_ML_GL_42 won 3915
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2543166293352120381-54-1668788759 - Holdem no limit (60/250/500) - 2022/11/18 16:25:59 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #3 is the button
+Seat 1: Josebita (26152, 5.61€ bounty)
+Seat 2: CallTBass (51345, 2.25€ bounty)
+Seat 3: Mric11 (11773, 2.25€ bounty)
+Seat 4: Mugiwara_19 (39500, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (69417, 3.37€ bounty)
+Seat 6: ABPOT (22338, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Mugiwara_19 posts ante 60
+YL_ML_GL_42 posts ante 60
+Josebita posts ante 60
+CallTBass posts ante 60
+Mric11 posts ante 60
+ABPOT posts ante 60
+Mugiwara_19 posts small blind 250
+YL_ML_GL_42 posts big blind 500
+Dealt to YL_ML_GL_42 [9h 2c]
+*** PRE-FLOP *** 
+ABPOT folds
+Josebita folds
+CallTBass folds
+Mric11 raises 11213 to 11713 and is all-in
+Mugiwara_19 folds
+YL_ML_GL_42 folds
+Mric11 collected 12823 from pot
+*** SUMMARY ***
+Total pot 12823 | No rake
+Seat 3: Mric11 (button) won 12823
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2543166293352120381-55-1668788791 - Holdem no limit (70/300/600) - 2022/11/18 16:26:31 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #4 is the button
+Seat 1: Josebita (26092, 5.61€ bounty)
+Seat 2: CallTBass (51285, 2.25€ bounty)
+Seat 3: Mric11 (12823, 2.25€ bounty)
+Seat 4: Mugiwara_19 (39190, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (68857, 3.37€ bounty)
+Seat 6: ABPOT (22278, 3.37€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 70
+ABPOT posts ante 70
+Josebita posts ante 70
+CallTBass posts ante 70
+Mric11 posts ante 70
+Mugiwara_19 posts ante 70
+YL_ML_GL_42 posts small blind 300
+ABPOT posts big blind 600
+Dealt to YL_ML_GL_42 [Jc Ks]
+*** PRE-FLOP *** 
+Josebita folds
+CallTBass folds
+Mric11 raises 600 to 1200
+Mugiwara_19 folds
+YL_ML_GL_42 calls 900
+ABPOT calls 600
+*** FLOP *** [Ts 5h 5d]
+YL_ML_GL_42 checks
+ABPOT checks
+Mric11 checks
+*** TURN *** [Ts 5h 5d][4d]
+YL_ML_GL_42 checks
+ABPOT checks
+Mric11 checks
+*** RIVER *** [Ts 5h 5d 4d][Ad]
+YL_ML_GL_42 checks
+ABPOT checks
+Mric11 checks
+*** SHOW DOWN ***
+Mric11 shows [7h Kh] (One pair : 5)
+ABPOT shows [8s Js] (One pair : 5)
+YL_ML_GL_42 shows [Jc Ks] (One pair : 5)
+YL_ML_GL_42 collected 4020 from pot
+*** SUMMARY ***
+Total pot 4020 | No rake
+Board: [Ts 5h 5d 4d Ad]
+Seat 3: Mric11 showed [7h Kh] and lost with One pair : 5
+Seat 5: YL_ML_GL_42 (small blind) showed [Jc Ks] and won 4020 with One pair : 5
+Seat 6: ABPOT (big blind) showed [8s Js] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2543166293352120381-56-1668788903 - Holdem no limit (70/300/600) - 2022/11/18 16:28:23 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #5 is the button
+Seat 1: Josebita (26022, 5.61€ bounty)
+Seat 2: CallTBass (51215, 2.25€ bounty)
+Seat 3: Mric11 (11553, 2.25€ bounty)
+Seat 4: Mugiwara_19 (39120, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (71607, 3.37€ bounty)
+Seat 6: ABPOT (21008, 3.37€ bounty)
+*** ANTE/BLINDS ***
+ABPOT posts ante 70
+Josebita posts ante 70
+CallTBass posts ante 70
+Mric11 posts ante 70
+Mugiwara_19 posts ante 70
+YL_ML_GL_42 posts ante 70
+ABPOT posts small blind 300
+Josebita posts big blind 600
+Dealt to YL_ML_GL_42 [Js Qs]
+*** PRE-FLOP *** 
+CallTBass raises 1200 to 1800
+Mric11 folds
+Mugiwara_19 folds
+YL_ML_GL_42 calls 1800
+ABPOT folds
+Josebita calls 1200
+*** FLOP *** [5d 7h 3d]
+Josebita bets 2142
+CallTBass raises 47203 to 49345 and is all-in
+YL_ML_GL_42 folds
+Josebita calls 22010 and is all-in
+*** TURN *** [5d 7h 3d][7c]
+*** RIVER *** [5d 7h 3d 7c][2d]
+*** SHOW DOWN ***
+Josebita shows [3h 3s] (Full of 3 and 7)
+CallTBass shows [Ac Ah] (Two pairs : Aces and 7)
+CallTBass collected 25193 from side pot 1
+Josebita collected 54424 from main pot
+*** SUMMARY ***
+Total pot 79617 | No rake
+Board: [5d 7h 3d 7c 2d]
+Seat 1: Josebita (big blind) showed [3h 3s] and won 54424 with Full of 3 and 7
+Seat 2: CallTBass showed [Ac Ah] and won 25193 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2543166293352120381-57-1668788956 - Holdem no limit (70/300/600) - 2022/11/18 16:29:16 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #6 is the button
+Seat 1: Josebita (54424, 5.61€ bounty)
+Seat 2: CallTBass (25193, 2.25€ bounty)
+Seat 3: Mric11 (11483, 2.25€ bounty)
+Seat 4: Mugiwara_19 (39050, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (69737, 3.37€ bounty)
+Seat 6: ABPOT (20638, 3.37€ bounty)
+*** ANTE/BLINDS ***
+Josebita posts ante 70
+CallTBass posts ante 70
+Mric11 posts ante 70
+Mugiwara_19 posts ante 70
+YL_ML_GL_42 posts ante 70
+ABPOT posts ante 70
+Josebita posts small blind 300
+CallTBass posts big blind 600
+Dealt to YL_ML_GL_42 [9h 7s]
+*** PRE-FLOP *** 
+Mric11 raises 10813 to 11413 and is all-in
+Mugiwara_19 raises 27567 to 38980 and is all-in
+YL_ML_GL_42 folds
+ABPOT calls 20568 and is all-in
+Josebita folds
+CallTBass calls 24523 and is all-in
+*** FLOP *** [8d 9s Ac]
+*** TURN *** [8d 9s Ac][Qs]
+*** RIVER *** [8d 9s Ac Qs][4s]
+*** SHOW DOWN ***
+Mric11 shows [Ah 4h] (Two pairs : Aces and 4)
+ABPOT shows [Qd Qc] (Trips of Queens)
+CallTBass shows [Jd Th] (Straight Queen high)
+Mugiwara_19 shows [Kc Ks] (One pair : Kings)
+Mugiwara_19 collected 13857 from side pot 1
+CallTBass collected 82947 from main pot
+*** SUMMARY ***
+Total pot 96804 | No rake
+Board: [8d 9s Ac Qs 4s]
+Seat 2: CallTBass (big blind) showed [Jd Th] and won 82947 with Straight Queen high
+Seat 3: Mric11 showed [Ah 4h] and lost with Two pairs : Aces and 4
+Seat 4: Mugiwara_19 showed [Kc Ks] and won 13857 with One pair : Kings
+Seat 6: ABPOT (button) showed [Qd Qc] and lost with Trips of Queens
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2543166293352120381-58-1668788990 - Holdem no limit (70/300/600) - 2022/11/18 16:29:50 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #1 is the button
+Seat 1: Josebita (54054, 5.61€ bounty)
+Seat 2: CallTBass (82947, 5.05€ bounty)
+Seat 3: EVcesar (23433, 2.25€ bounty)
+Seat 4: Mugiwara_19 (13857, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (69667, 3.37€ bounty)
+*** ANTE/BLINDS ***
+CallTBass posts ante 70
+EVcesar posts ante 70
+Josebita posts ante 70
+Mugiwara_19 posts ante 70
+YL_ML_GL_42 posts ante 70
+CallTBass posts small blind 300
+EVcesar posts big blind 600
+Dealt to YL_ML_GL_42 [9c 2h]
+*** PRE-FLOP *** 
+Mugiwara_19 folds
+YL_ML_GL_42 folds
+Josebita calls 600
+CallTBass calls 300
+EVcesar checks
+*** FLOP *** [Tc Ks Jc]
+CallTBass checks
+EVcesar checks
+Josebita checks
+*** TURN *** [Tc Ks Jc][4s]
+CallTBass checks
+EVcesar checks
+Josebita bets 753
+CallTBass calls 753
+EVcesar folds
+*** RIVER *** [Tc Ks Jc 4s][Qh]
+CallTBass checks
+Josebita checks
+*** SHOW DOWN ***
+Josebita shows [Qc 8s] (One pair : Queens)
+CallTBass shows [Jd Qd] (Two pairs : Queens and Jacks)
+CallTBass collected 3656 from pot
+*** SUMMARY ***
+Total pot 3656 | No rake
+Board: [Tc Ks Jc 4s Qh]
+Seat 1: Josebita (button) showed [Qc 8s] and lost with One pair : Queens
+Seat 2: CallTBass (small blind) showed [Jd Qd] and won 3656 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2543166293352120381-59-1668789051 - Holdem no limit (70/300/600) - 2022/11/18 16:30:51 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #2 is the button
+Seat 1: Josebita (52631, 5.61€ bounty)
+Seat 2: CallTBass (85180, 5.05€ bounty)
+Seat 3: EVcesar (22763, 2.25€ bounty)
+Seat 4: Mugiwara_19 (13787, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (69597, 3.37€ bounty)
+Seat 6: Thomas2p (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+EVcesar posts ante 70
+Mugiwara_19 posts ante 70
+Josebita posts ante 70
+CallTBass posts ante 70
+YL_ML_GL_42 posts ante 70
+Thomas2p posts ante 70
+EVcesar posts small blind 300
+Mugiwara_19 posts big blind 600
+Dealt to YL_ML_GL_42 [8h 6h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Thomas2p raises 900 to 1500
+Josebita folds
+CallTBass folds
+EVcesar folds
+Mugiwara_19 folds
+Thomas2p collected 2820 from pot
+*** SUMMARY ***
+Total pot 2820 | No rake
+Seat 6: Thomas2p won 2820
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2543166293352120381-60-1668789069 - Holdem no limit (80/350/700) - 2022/11/18 16:31:09 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #3 is the button
+Seat 1: Josebita (52561, 5.61€ bounty)
+Seat 2: CallTBass (85110, 5.05€ bounty)
+Seat 3: EVcesar (22393, 2.25€ bounty)
+Seat 4: Mugiwara_19 (13117, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (69527, 3.37€ bounty)
+Seat 6: Thomas2p (21250, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Mugiwara_19 posts ante 80
+YL_ML_GL_42 posts ante 80
+Josebita posts ante 80
+CallTBass posts ante 80
+EVcesar posts ante 80
+Thomas2p posts ante 80
+Mugiwara_19 posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [Th 8h]
+*** PRE-FLOP *** 
+Thomas2p folds
+Josebita raises 1400 to 2100
+CallTBass calls 2100
+EVcesar folds
+Mugiwara_19 folds
+YL_ML_GL_42 calls 1400
+*** FLOP *** [2c 5c Js]
+YL_ML_GL_42 checks
+Josebita bets 2496
+CallTBass folds
+YL_ML_GL_42 folds
+Josebita collected 9626 from pot
+*** SUMMARY ***
+Total pot 9626 | No rake
+Board: [2c 5c Js]
+Seat 1: Josebita won 9626
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2543166293352120381-61-1668789098 - Holdem no limit (80/350/700) - 2022/11/18 16:31:38 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #4 is the button
+Seat 1: Josebita (57511, 5.61€ bounty)
+Seat 2: CallTBass (82930, 5.05€ bounty)
+Seat 3: EVcesar (22313, 2.25€ bounty)
+Seat 4: Mugiwara_19 (12687, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (67347, 3.37€ bounty)
+Seat 6: Thomas2p (21170, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+Thomas2p posts ante 80
+Josebita posts ante 80
+CallTBass posts ante 80
+EVcesar posts ante 80
+Mugiwara_19 posts ante 80
+YL_ML_GL_42 posts small blind 350
+Thomas2p posts big blind 700
+Dealt to YL_ML_GL_42 [Qh 9d]
+*** PRE-FLOP *** 
+Josebita raises 1050 to 1750
+CallTBass folds
+EVcesar folds
+Mugiwara_19 folds
+YL_ML_GL_42 folds
+Thomas2p folds
+Josebita collected 3280 from pot
+*** SUMMARY ***
+Total pot 3280 | No rake
+Seat 1: Josebita won 3280
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2543166293352120381-62-1668789119 - Holdem no limit (80/350/700) - 2022/11/18 16:31:59 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #5 is the button
+Seat 1: Josebita (58961, 5.61€ bounty)
+Seat 2: CallTBass (82850, 5.05€ bounty)
+Seat 3: EVcesar (22233, 2.25€ bounty)
+Seat 4: Mugiwara_19 (12607, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (66917, 3.37€ bounty)
+Seat 6: Thomas2p (20390, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Thomas2p posts ante 80
+Josebita posts ante 80
+CallTBass posts ante 80
+EVcesar posts ante 80
+Mugiwara_19 posts ante 80
+YL_ML_GL_42 posts ante 80
+Thomas2p posts small blind 350
+Josebita posts big blind 700
+Dealt to YL_ML_GL_42 [Qc Ts]
+*** PRE-FLOP *** 
+CallTBass folds
+EVcesar folds
+Mugiwara_19 folds
+YL_ML_GL_42 raises 1050 to 1750
+Thomas2p folds
+Josebita calls 1050
+*** FLOP *** [7c 5s 8c]
+Josebita bets 1516
+YL_ML_GL_42 folds
+Josebita collected 5846 from pot
+*** SUMMARY ***
+Total pot 5846 | No rake
+Board: [7c 5s 8c]
+Seat 1: Josebita (big blind) won 5846
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2543166293352120381-63-1668789182 - Holdem no limit (80/350/700) - 2022/11/18 16:33:02 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #6 is the button
+Seat 1: Josebita (61461, 5.61€ bounty)
+Seat 2: CallTBass (82770, 5.05€ bounty)
+Seat 3: EVcesar (22153, 2.25€ bounty)
+Seat 4: Mugiwara_19 (12527, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (65087, 3.37€ bounty)
+Seat 6: Thomas2p (19960, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Josebita posts ante 80
+CallTBass posts ante 80
+EVcesar posts ante 80
+Mugiwara_19 posts ante 80
+YL_ML_GL_42 posts ante 80
+Thomas2p posts ante 80
+Josebita posts small blind 350
+CallTBass posts big blind 700
+Dealt to YL_ML_GL_42 [Ts 7h]
+*** PRE-FLOP *** 
+EVcesar raises 700 to 1400
+Mugiwara_19 folds
+YL_ML_GL_42 folds
+Thomas2p calls 1400
+Josebita folds
+CallTBass folds
+*** FLOP *** [4s Jc Ks]
+EVcesar checks
+Thomas2p bets 1516
+EVcesar calls 1516
+*** TURN *** [4s Jc Ks][6d]
+EVcesar checks
+Thomas2p bets 2577
+EVcesar calls 2577
+*** RIVER *** [4s Jc Ks 6d][Qh]
+EVcesar bets 16580 and is all-in
+Thomas2p folds
+EVcesar collected 29096 from pot
+*** SUMMARY ***
+Total pot 29096 | No rake
+Board: [4s Jc Ks 6d Qh]
+Seat 3: EVcesar won 29096
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2543166293352120381-64-1668789264 - Holdem no limit (80/350/700) - 2022/11/18 16:34:24 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #1 is the button
+Seat 1: Josebita (61031, 5.61€ bounty)
+Seat 2: CallTBass (81990, 5.05€ bounty)
+Seat 3: EVcesar (29096, 2.25€ bounty)
+Seat 4: Mugiwara_19 (12447, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (65007, 3.37€ bounty)
+Seat 6: Thomas2p (14387, 2.25€ bounty)
+*** ANTE/BLINDS ***
+CallTBass posts ante 80
+EVcesar posts ante 80
+Josebita posts ante 80
+Mugiwara_19 posts ante 80
+YL_ML_GL_42 posts ante 80
+Thomas2p posts ante 80
+CallTBass posts small blind 350
+EVcesar posts big blind 700
+Dealt to YL_ML_GL_42 [7h 4d]
+*** PRE-FLOP *** 
+Mugiwara_19 calls 700
+YL_ML_GL_42 folds
+Thomas2p folds
+Josebita folds
+CallTBass folds
+EVcesar checks
+*** FLOP *** [9s 4h 5d]
+EVcesar checks
+Mugiwara_19 checks
+*** TURN *** [9s 4h 5d][Kh]
+EVcesar checks
+Mugiwara_19 bets 1450
+EVcesar folds
+Mugiwara_19 collected 3680 from pot
+*** SUMMARY ***
+Total pot 3680 | No rake
+Board: [9s 4h 5d Kh]
+Seat 4: Mugiwara_19 won 3680
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2543166293352120381-65-1668789305 - Holdem no limit (80/350/700) - 2022/11/18 16:35:05 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #2 is the button
+Seat 1: Josebita (60951, 5.61€ bounty)
+Seat 2: CallTBass (81560, 5.05€ bounty)
+Seat 3: EVcesar (28316, 2.25€ bounty)
+Seat 4: Mugiwara_19 (13897, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (64927, 3.37€ bounty)
+Seat 6: Thomas2p (14307, 2.25€ bounty)
+*** ANTE/BLINDS ***
+EVcesar posts ante 80
+Mugiwara_19 posts ante 80
+Josebita posts ante 80
+CallTBass posts ante 80
+YL_ML_GL_42 posts ante 80
+Thomas2p posts ante 80
+EVcesar posts small blind 350
+Mugiwara_19 posts big blind 700
+Dealt to YL_ML_GL_42 [6c 3d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Thomas2p folds
+Josebita folds
+CallTBass raises 1050 to 1750
+EVcesar folds
+Mugiwara_19 calls 1050
+*** FLOP *** [6d Ts 3h]
+Mugiwara_19 checks
+CallTBass checks
+*** TURN *** [6d Ts 3h][8h]
+Mugiwara_19 bets 2100
+CallTBass folds
+Mugiwara_19 collected 6430 from pot
+*** SUMMARY ***
+Total pot 6430 | No rake
+Board: [6d Ts 3h 8h]
+Seat 4: Mugiwara_19 (big blind) won 6430
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2543166293352120381-66-1668789338 - Holdem no limit (80/350/700) - 2022/11/18 16:35:38 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #3 is the button
+Seat 1: Josebita (60871, 5.61€ bounty)
+Seat 2: CallTBass (79730, 5.05€ bounty)
+Seat 3: EVcesar (27886, 2.25€ bounty)
+Seat 4: Mugiwara_19 (16397, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (64847, 3.37€ bounty)
+Seat 6: Thomas2p (14227, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Mugiwara_19 posts ante 80
+YL_ML_GL_42 posts ante 80
+Josebita posts ante 80
+CallTBass posts ante 80
+EVcesar posts ante 80
+Thomas2p posts ante 80
+Mugiwara_19 posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [Jc As]
+*** PRE-FLOP *** 
+Thomas2p raises 13447 to 14147 and is all-in
+Josebita folds
+CallTBass folds
+EVcesar folds
+Mugiwara_19 folds
+YL_ML_GL_42 calls 13447
+*** FLOP *** [Kd Jd Jh]
+*** TURN *** [Kd Jd Jh][9h]
+*** RIVER *** [Kd Jd Jh 9h][2d]
+*** SHOW DOWN ***
+Thomas2p shows [4c Ad] (One pair : Jacks)
+YL_ML_GL_42 shows [Jc As] (Trips of Jacks)
+YL_ML_GL_42 collected 29124 from pot
+*** SUMMARY ***
+Total pot 29124 | No rake
+Board: [Kd Jd Jh 9h 2d]
+Seat 5: YL_ML_GL_42 (big blind) showed [Jc As] and won 29124 with Trips of Jacks
+Seat 6: Thomas2p showed [4c Ad] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2543166293352120381-67-1668789378 - Holdem no limit (100/400/800) - 2022/11/18 16:36:18 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #4 is the button
+Seat 1: Josebita (60791, 5.61€ bounty)
+Seat 2: CallTBass (79650, 5.05€ bounty)
+Seat 3: EVcesar (27806, 2.25€ bounty)
+Seat 4: Mugiwara_19 (15967, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (79744, 4.49€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 100
+Josebita posts ante 100
+CallTBass posts ante 100
+EVcesar posts ante 100
+Mugiwara_19 posts ante 100
+YL_ML_GL_42 posts small blind 400
+Josebita posts big blind 800
+Dealt to YL_ML_GL_42 [3c 3d]
+*** PRE-FLOP *** 
+CallTBass calls 800
+EVcesar folds
+Mugiwara_19 folds
+YL_ML_GL_42 calls 400
+Josebita checks
+*** FLOP *** [6d Tc 9s]
+YL_ML_GL_42 checks
+Josebita bets 1015
+CallTBass calls 1015
+YL_ML_GL_42 folds
+*** TURN *** [6d Tc 9s][Qd]
+Josebita checks
+CallTBass bets 1600
+Josebita calls 1600
+*** RIVER *** [6d Tc 9s Qd][Ad]
+Josebita checks
+CallTBass bets 3600
+Josebita folds
+CallTBass collected 11730 from pot
+*** SUMMARY ***
+Total pot 11730 | No rake
+Board: [6d Tc 9s Qd Ad]
+Seat 2: CallTBass won 11730
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2543166293352120381-68-1668789488 - Holdem no limit (100/400/800) - 2022/11/18 16:38:08 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #5 is the button
+Seat 1: Josebita (57276, 5.61€ bounty)
+Seat 3: EVcesar (27706, 2.25€ bounty)
+Seat 4: Mugiwara_19 (15867, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (78844, 4.49€ bounty)
+Seat 6: Lychmindset (19310, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Josebita posts ante 100
+EVcesar posts ante 100
+Mugiwara_19 posts ante 100
+YL_ML_GL_42 posts ante 100
+Josebita posts small blind 400
+EVcesar posts big blind 800
+Dealt to YL_ML_GL_42 [6s Jd]
+*** PRE-FLOP *** 
+Mugiwara_19 raises 1600 to 2400
+YL_ML_GL_42 folds
+Josebita raises 3600 to 6000
+EVcesar folds
+Mugiwara_19 raises 9767 to 15767 and is all-in
+Josebita calls 9767
+*** FLOP *** [9c 5h Ts]
+*** TURN *** [9c 5h Ts][Ks]
+*** RIVER *** [9c 5h Ts Ks][5s]
+*** SHOW DOWN ***
+Josebita shows [Kd Ah] (Two pairs : Kings and 5)
+Mugiwara_19 shows [Ac Kc] (Two pairs : Kings and 5)
+Mugiwara_19 collected 16367 from pot
+Josebita collected 16367 from pot
+*** SUMMARY ***
+Total pot 32734 | No rake
+Board: [9c 5h Ts Ks 5s]
+Seat 1: Josebita (small blind) showed [Kd Ah] and won 16367 with Two pairs : Kings and 5
+Seat 4: Mugiwara_19 showed [Ac Kc] and won 16367 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2543166293352120381-69-1668789526 - Holdem no limit (100/400/800) - 2022/11/18 16:38:46 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #1 is the button
+Seat 1: Josebita (57776, 5.61€ bounty)
+Seat 3: EVcesar (26806, 2.25€ bounty)
+Seat 4: Mugiwara_19 (16367, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (78744, 4.49€ bounty)
+Seat 6: Lychmindset (19310, 2.25€ bounty)
+*** ANTE/BLINDS ***
+EVcesar posts ante 100
+Mugiwara_19 posts ante 100
+Josebita posts ante 100
+YL_ML_GL_42 posts ante 100
+Lychmindset posts ante 100
+EVcesar posts small blind 400
+Mugiwara_19 posts big blind 800
+Dealt to YL_ML_GL_42 [Kd Jd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 800 to 1600
+Lychmindset calls 1600
+Josebita calls 1600
+EVcesar folds
+Mugiwara_19 folds
+*** FLOP *** [Qs Kc 6s]
+YL_ML_GL_42 bets 3250
+Lychmindset folds
+Josebita calls 3250
+*** TURN *** [Qs Kc 6s][Qh]
+YL_ML_GL_42 bets 4550
+Josebita calls 4550
+*** RIVER *** [Qs Kc 6s Qh][8h]
+YL_ML_GL_42 checks
+Josebita bets 9600
+YL_ML_GL_42 calls 9600
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kd Jd] (Two pairs : Kings and Queens)
+Josebita shows [Ah As] (Two pairs : Aces and Queens)
+Josebita collected 41300 from pot
+*** SUMMARY ***
+Total pot 41300 | No rake
+Board: [Qs Kc 6s Qh 8h]
+Seat 1: Josebita (button) showed [Ah As] and won 41300 with Two pairs : Aces and Queens
+Seat 5: YL_ML_GL_42 showed [Kd Jd] and lost with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2543166293352120381-70-1668789593 - Holdem no limit (100/400/800) - 2022/11/18 16:39:53 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #3 is the button
+Seat 1: Josebita (79976, 5.61€ bounty)
+Seat 2: DriftStack2 (19060, 2.25€ bounty)
+Seat 3: EVcesar (26306, 2.25€ bounty)
+Seat 4: Mugiwara_19 (15467, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (59644, 4.49€ bounty)
+Seat 6: Lychmindset (17610, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Mugiwara_19 posts ante 100
+YL_ML_GL_42 posts ante 100
+Josebita posts ante 100
+DriftStack2 posts ante 100
+EVcesar posts ante 100
+Lychmindset posts ante 100
+Mugiwara_19 posts small blind 400
+YL_ML_GL_42 posts big blind 800
+Dealt to YL_ML_GL_42 [8c 5h]
+*** PRE-FLOP *** 
+Lychmindset folds
+Josebita folds
+DriftStack2 folds
+EVcesar raises 800 to 1600
+Mugiwara_19 calls 1200
+YL_ML_GL_42 folds
+*** FLOP *** [8h Ad 5d]
+Mugiwara_19 bets 1610
+EVcesar raises 22996 to 24606 and is all-in
+Mugiwara_19 folds
+EVcesar collected 30816 from pot
+*** SUMMARY ***
+Total pot 30816 | No rake
+Board: [8h Ad 5d]
+Seat 3: EVcesar (button) won 30816
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2543166293352120381-71-1668789660 - Holdem no limit (100/400/800) - 2022/11/18 16:41:00 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #4 is the button
+Seat 1: Josebita (79876, 5.61€ bounty)
+Seat 2: DriftStack2 (18960, 2.25€ bounty)
+Seat 3: EVcesar (30816, 2.25€ bounty)
+Seat 4: Mugiwara_19 (12157, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (58744, 4.49€ bounty)
+Seat 6: Lychmindset (17510, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 100
+Lychmindset posts ante 100
+Josebita posts ante 100
+DriftStack2 posts ante 100
+EVcesar posts ante 100
+Mugiwara_19 posts ante 100
+YL_ML_GL_42 posts small blind 400
+Lychmindset posts big blind 800
+Dealt to YL_ML_GL_42 [3s 7h]
+*** PRE-FLOP *** 
+Josebita folds
+DriftStack2 folds
+EVcesar folds
+Mugiwara_19 raises 1200 to 2000
+YL_ML_GL_42 folds
+Lychmindset calls 1200
+*** FLOP *** [4h 7d Qh]
+Lychmindset checks
+Mugiwara_19 bets 1750
+Lychmindset raises 13660 to 15410 and is all-in
+Mugiwara_19 folds
+Lychmindset collected 22160 from pot
+*** SUMMARY ***
+Total pot 22160 | No rake
+Board: [4h 7d Qh]
+Seat 6: Lychmindset (big blind) won 22160
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2543166293352120381-72-1668789680 - Holdem no limit (120/500/1000) - 2022/11/18 16:41:20 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #5 is the button
+Seat 1: Josebita (79776, 5.61€ bounty)
+Seat 2: DriftStack2 (18860, 2.25€ bounty)
+Seat 3: EVcesar (30716, 2.25€ bounty)
+Seat 4: Mugiwara_19 (8307, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (58244, 4.49€ bounty)
+Seat 6: Lychmindset (22160, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Lychmindset posts ante 120
+Josebita posts ante 120
+DriftStack2 posts ante 120
+EVcesar posts ante 120
+Mugiwara_19 posts ante 120
+YL_ML_GL_42 posts ante 120
+Lychmindset posts small blind 500
+Josebita posts big blind 1000
+Dealt to YL_ML_GL_42 [Jh 5s]
+*** PRE-FLOP *** 
+DriftStack2 folds
+EVcesar folds
+Mugiwara_19 raises 7187 to 8187 and is all-in
+YL_ML_GL_42 folds
+Lychmindset raises 13853 to 22040 and is all-in
+Josebita folds
+*** FLOP *** [Js Ah 8s]
+*** TURN *** [Js Ah 8s][2s]
+*** RIVER *** [Js Ah 8s 2s][Jd]
+*** SHOW DOWN ***
+Mugiwara_19 shows [Ad Qh] (Two pairs : Aces and Jacks)
+Lychmindset shows [2h Kc] (Two pairs : Jacks and 2)
+Lychmindset collected 13853 from side pot 1
+Mugiwara_19 collected 18094 from main pot
+*** SUMMARY ***
+Total pot 31947 | No rake
+Board: [Js Ah 8s 2s Jd]
+Seat 4: Mugiwara_19 showed [Ad Qh] and won 18094 with Two pairs : Aces and Jacks
+Seat 6: Lychmindset (small blind) showed [2h Kc] and won 13853 with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2543166293352120381-73-1668789714 - Holdem no limit (120/500/1000) - 2022/11/18 16:41:54 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #6 is the button
+Seat 1: Josebita (78656, 5.61€ bounty)
+Seat 2: DriftStack2 (18740, 2.25€ bounty)
+Seat 3: EVcesar (30596, 2.25€ bounty)
+Seat 4: Mugiwara_19 (18094, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (58124, 4.49€ bounty)
+Seat 6: Lychmindset (13853, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Josebita posts ante 120
+DriftStack2 posts ante 120
+EVcesar posts ante 120
+Mugiwara_19 posts ante 120
+YL_ML_GL_42 posts ante 120
+Lychmindset posts ante 120
+Josebita posts small blind 500
+DriftStack2 posts big blind 1000
+Dealt to YL_ML_GL_42 [Jh Qh]
+*** PRE-FLOP *** 
+EVcesar folds
+Mugiwara_19 folds
+YL_ML_GL_42 raises 1250 to 2250
+Lychmindset folds
+Josebita calls 1750
+DriftStack2 calls 1250
+*** FLOP *** [Ad 8c 4d]
+Josebita bets 2000
+DriftStack2 raises 2715 to 4715
+YL_ML_GL_42 folds
+Josebita calls 2715
+*** TURN *** [Ad 8c 4d][9c]
+Josebita checks
+DriftStack2 bets 11655 and is all-in
+Josebita calls 11655
+*** RIVER *** [Ad 8c 4d 9c][6h]
+*** SHOW DOWN ***
+DriftStack2 shows [8h Ks] (One pair : 8)
+Josebita shows [7d 9d] (One pair : 9)
+Josebita collected 40210 from pot
+*** SUMMARY ***
+Total pot 40210 | No rake
+Board: [Ad 8c 4d 9c 6h]
+Seat 1: Josebita (small blind) showed [7d 9d] and won 40210 with One pair : 9
+Seat 2: DriftStack2 (big blind) showed [8h Ks] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2543166293352120381-74-1668789787 - Holdem no limit (120/500/1000) - 2022/11/18 16:43:07 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #1 is the button
+Seat 1: Josebita (100126, 6.73€ bounty)
+Seat 3: EVcesar (30476, 2.25€ bounty)
+Seat 4: Mugiwara_19 (17974, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (55754, 4.49€ bounty)
+Seat 6: Lychmindset (13733, 2.25€ bounty)
+*** ANTE/BLINDS ***
+EVcesar posts ante 120
+Josebita posts ante 120
+Mugiwara_19 posts ante 120
+YL_ML_GL_42 posts ante 120
+Lychmindset posts ante 120
+EVcesar posts big blind 1000
+Dealt to YL_ML_GL_42 [3s 5s]
+*** PRE-FLOP *** 
+Mugiwara_19 raises 1500 to 2500
+YL_ML_GL_42 folds
+Lychmindset folds
+Josebita folds
+EVcesar calls 1500
+*** FLOP *** [8d 5d Th]
+EVcesar checks
+Mugiwara_19 checks
+*** TURN *** [8d 5d Th][4c]
+EVcesar checks
+Mugiwara_19 checks
+*** RIVER *** [8d 5d Th 4c][Ts]
+EVcesar bets 1848
+Mugiwara_19 calls 1848
+*** SHOW DOWN ***
+Mugiwara_19 shows [6s 6h] (Two pairs : Tens and 6)
+EVcesar shows [7h 8h] (Two pairs : Tens and 8)
+EVcesar collected 9296 from pot
+*** SUMMARY ***
+Total pot 9296 | No rake
+Board: [8d 5d Th 4c Ts]
+Seat 3: EVcesar (big blind) showed [7h 8h] and won 9296 with Two pairs : Tens and 8
+Seat 4: Mugiwara_19 showed [6s 6h] and lost with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2543166293352120381-75-1668789825 - Holdem no limit (120/500/1000) - 2022/11/18 16:43:45 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #2 is the button
+Seat 1: Josebita (100006, 6.73€ bounty)
+Seat 2: Gefbouby (20000, 2.25€ bounty)
+Seat 3: EVcesar (35304, 2.25€ bounty)
+Seat 4: Mugiwara_19 (13506, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (55634, 4.49€ bounty)
+Seat 6: Lychmindset (13613, 2.25€ bounty)
+*** ANTE/BLINDS ***
+EVcesar posts ante 120
+Mugiwara_19 posts ante 120
+Josebita posts ante 120
+YL_ML_GL_42 posts ante 120
+Lychmindset posts ante 120
+EVcesar posts small blind 500
+Mugiwara_19 posts big blind 1000
+Dealt to YL_ML_GL_42 [3h 7h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Lychmindset folds
+Josebita folds
+EVcesar folds
+Mugiwara_19 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 4: Mugiwara_19 (big blind) won 2100
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2543166293352120381-76-1668789835 - Holdem no limit (120/500/1000) - 2022/11/18 16:43:55 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #3 is the button
+Seat 1: Josebita (99886, 6.73€ bounty)
+Seat 2: Gefbouby (20000, 2.25€ bounty)
+Seat 3: EVcesar (34684, 2.25€ bounty)
+Seat 4: Mugiwara_19 (14486, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (55514, 4.49€ bounty)
+Seat 6: Lychmindset (13493, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Mugiwara_19 posts ante 120
+YL_ML_GL_42 posts ante 120
+Josebita posts ante 120
+Gefbouby posts ante 120
+EVcesar posts ante 120
+Lychmindset posts ante 120
+Mugiwara_19 posts small blind 500
+YL_ML_GL_42 posts big blind 1000
+Dealt to YL_ML_GL_42 [Qs Tc]
+*** PRE-FLOP *** 
+Lychmindset calls 1000
+Josebita folds
+Gefbouby calls 1000
+EVcesar folds
+Mugiwara_19 folds
+YL_ML_GL_42 checks
+*** FLOP *** [8c Js 6s]
+YL_ML_GL_42 bets 2110
+Lychmindset calls 2110
+Gefbouby calls 2110
+*** TURN *** [8c Js 6s][4h]
+YL_ML_GL_42 checks
+Lychmindset checks
+Gefbouby bets 3692
+YL_ML_GL_42 folds
+Lychmindset calls 3692
+*** RIVER *** [8c Js 6s 4h][2d]
+Lychmindset checks
+Gefbouby bets 11657
+Lychmindset folds
+Gefbouby collected 29591 from pot
+*** SUMMARY ***
+Total pot 29591 | No rake
+Board: [8c Js 6s 4h 2d]
+Seat 2: Gefbouby won 29591
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2543166293352120381-77-1668789913 - Holdem no limit (120/500/1000) - 2022/11/18 16:45:13 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #4 is the button
+Seat 1: Josebita (99766, 6.73€ bounty)
+Seat 2: Gefbouby (31012, 2.25€ bounty)
+Seat 3: EVcesar (34564, 2.25€ bounty)
+Seat 4: Mugiwara_19 (13866, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (52284, 4.49€ bounty)
+Seat 6: Lychmindset (6571, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 120
+Lychmindset posts ante 120
+Josebita posts ante 120
+Gefbouby posts ante 120
+EVcesar posts ante 120
+Mugiwara_19 posts ante 120
+YL_ML_GL_42 posts small blind 500
+Lychmindset posts big blind 1000
+Dealt to YL_ML_GL_42 [2c 8c]
+*** PRE-FLOP *** 
+Josebita folds
+Gefbouby folds
+EVcesar folds
+Mugiwara_19 folds
+YL_ML_GL_42 raises 2000 to 3000
+Lychmindset calls 2000
+*** FLOP *** [6s 4s Kd]
+YL_ML_GL_42 checks
+Lychmindset bets 3451 and is all-in
+YL_ML_GL_42 calls 3451
+*** TURN *** [6s 4s Kd][Qd]
+*** RIVER *** [6s 4s Kd Qd][3s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [2c 8c] (High card : King)
+Lychmindset shows [2h Ts] (High card : King)
+Lychmindset collected 13622 from pot
+*** SUMMARY ***
+Total pot 13622 | No rake
+Board: [6s 4s Kd Qd 3s]
+Seat 5: YL_ML_GL_42 (small blind) showed [2c 8c] and lost with High card : King
+Seat 6: Lychmindset (big blind) showed [2h Ts] and won 13622 with High card : King
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2543166293352120381-78-1668789973 - Holdem no limit (140/600/1200) - 2022/11/18 16:46:13 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #5 is the button
+Seat 1: Josebita (99646, 6.73€ bounty)
+Seat 2: Gefbouby (30892, 2.25€ bounty)
+Seat 3: EVcesar (34444, 2.25€ bounty)
+Seat 4: Mugiwara_19 (13746, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (45713, 4.49€ bounty)
+Seat 6: Lychmindset (13622, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Lychmindset posts ante 140
+Josebita posts ante 140
+Gefbouby posts ante 140
+EVcesar posts ante 140
+Mugiwara_19 posts ante 140
+YL_ML_GL_42 posts ante 140
+Lychmindset posts small blind 600
+Josebita posts big blind 1200
+Dealt to YL_ML_GL_42 [9c Qs]
+*** PRE-FLOP *** 
+Gefbouby folds
+EVcesar folds
+Mugiwara_19 calls 1200
+YL_ML_GL_42 folds
+Lychmindset calls 600
+Josebita raises 4440 to 5640
+Mugiwara_19 calls 4440
+Lychmindset raises 7842 to 13482 and is all-in
+Josebita raises 86024 to 99506 and is all-in
+Mugiwara_19 calls 7966 and is all-in
+*** FLOP *** [6d Qd 7h]
+*** TURN *** [6d Qd 7h][3d]
+*** RIVER *** [6d Qd 7h 3d][5d]
+*** SHOW DOWN ***
+Mugiwara_19 shows [Td 9d] (Flush Queen high)
+Lychmindset shows [7c 8h] (One pair : 7)
+Josebita shows [Jc Ad] (Flush Ace high)
+Josebita collected 127434 from pot
+*** SUMMARY ***
+Total pot 127434 | No rake
+Board: [6d Qd 7h 3d 5d]
+Seat 1: Josebita (big blind) showed [Jc Ad] and won 127434 with Flush Ace high
+Seat 4: Mugiwara_19 showed [Td 9d] and lost with Flush Queen high
+Seat 6: Lychmindset (small blind) showed [7c 8h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2543166293352120381-79-1668790027 - Holdem no limit (140/600/1200) - 2022/11/18 16:47:07 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #6 is the button
+Seat 1: Josebita (127434, 8.97€ bounty)
+Seat 2: Gefbouby (30752, 2.25€ bounty)
+Seat 3: EVcesar (34304, 2.25€ bounty)
+Seat 5: YL_ML_GL_42 (45573, 4.49€ bounty)
+*** ANTE/BLINDS ***
+Josebita posts ante 140
+Gefbouby posts ante 140
+EVcesar posts ante 140
+YL_ML_GL_42 posts ante 140
+Josebita posts small blind 600
+Gefbouby posts big blind 1200
+Dealt to YL_ML_GL_42 [Kd 4h]
+*** PRE-FLOP *** 
+EVcesar folds
+YL_ML_GL_42 folds
+Josebita raises 1200 to 2400
+Gefbouby calls 1200
+*** FLOP *** [2h Qc Tc]
+Josebita checks
+Gefbouby checks
+*** TURN *** [2h Qc Tc][Th]
+Josebita bets 1876
+Gefbouby calls 1876
+*** RIVER *** [2h Qc Tc Th][Js]
+Josebita checks
+Gefbouby bets 5923
+Josebita folds
+Gefbouby collected 15035 from pot
+*** SUMMARY ***
+Total pot 15035 | No rake
+Board: [2h Qc Tc Th Js]
+Seat 2: Gefbouby (big blind) won 15035
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2543166293352120381-80-1668790059 - Holdem no limit (140/600/1200) - 2022/11/18 16:47:39 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #1 is the button
+Seat 1: Josebita (123018, 8.97€ bounty)
+Seat 2: Gefbouby (35448, 2.25€ bounty)
+Seat 3: EVcesar (34164, 2.25€ bounty)
+Seat 4: Jpolo21 (57590, 4.49€ bounty)
+Seat 5: YL_ML_GL_42 (45433, 4.49€ bounty)
+Seat 6: Fawkes10 (43125, 4.49€ bounty)
+*** ANTE/BLINDS ***
+Gefbouby posts ante 140
+EVcesar posts ante 140
+Josebita posts ante 140
+Jpolo21 posts ante 140
+YL_ML_GL_42 posts ante 140
+Fawkes10 posts ante 140
+Gefbouby posts small blind 600
+EVcesar posts big blind 1200
+Dealt to YL_ML_GL_42 [9c Ah]
+*** PRE-FLOP *** 
+Jpolo21 folds
+YL_ML_GL_42 raises 1800 to 3000
+Fawkes10 folds
+Josebita folds
+Gefbouby folds
+EVcesar folds
+YL_ML_GL_42 collected 5640 from pot
+*** SUMMARY ***
+Total pot 5640 | No rake
+Seat 5: YL_ML_GL_42 won 5640
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2543166293352120381-81-1668790075 - Holdem no limit (140/600/1200) - 2022/11/18 16:47:55 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #2 is the button
+Seat 1: Josebita (122878, 8.97€ bounty)
+Seat 2: Gefbouby (34708, 2.25€ bounty)
+Seat 3: EVcesar (32824, 2.25€ bounty)
+Seat 4: Jpolo21 (57450, 4.49€ bounty)
+Seat 5: YL_ML_GL_42 (47933, 4.49€ bounty)
+Seat 6: Fawkes10 (42985, 4.49€ bounty)
+*** ANTE/BLINDS ***
+EVcesar posts ante 140
+Jpolo21 posts ante 140
+Josebita posts ante 140
+Gefbouby posts ante 140
+YL_ML_GL_42 posts ante 140
+Fawkes10 posts ante 140
+EVcesar posts small blind 600
+Jpolo21 posts big blind 1200
+Dealt to YL_ML_GL_42 [Ad 6s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Fawkes10 folds
+Josebita folds
+Gefbouby folds
+EVcesar folds
+Jpolo21 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 4: Jpolo21 (big blind) won 2640
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2543166293352120381-82-1668790089 - Holdem no limit (140/600/1200) - 2022/11/18 16:48:09 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #3 is the button
+Seat 1: Josebita (122738, 8.97€ bounty)
+Seat 2: Gefbouby (34568, 2.25€ bounty)
+Seat 3: EVcesar (32084, 2.25€ bounty)
+Seat 4: Jpolo21 (58750, 4.49€ bounty)
+Seat 5: YL_ML_GL_42 (47793, 4.49€ bounty)
+Seat 6: Fawkes10 (42845, 4.49€ bounty)
+*** ANTE/BLINDS ***
+Jpolo21 posts ante 140
+YL_ML_GL_42 posts ante 140
+Josebita posts ante 140
+Gefbouby posts ante 140
+EVcesar posts ante 140
+Fawkes10 posts ante 140
+Jpolo21 posts small blind 600
+YL_ML_GL_42 posts big blind 1200
+Dealt to YL_ML_GL_42 [Ks 6s]
+*** PRE-FLOP *** 
+Fawkes10 folds
+Josebita folds
+Gefbouby folds
+EVcesar folds
+Jpolo21 calls 600
+YL_ML_GL_42 checks
+*** FLOP *** [9d Js 5s]
+Jpolo21 checks
+YL_ML_GL_42 bets 2106
+Jpolo21 folds
+YL_ML_GL_42 collected 5346 from pot
+*** SUMMARY ***
+Total pot 5346 | No rake
+Board: [9d Js 5s]
+Seat 5: YL_ML_GL_42 (big blind) won 5346
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2543166293352120381-83-1668790116 - Holdem no limit (140/600/1200) - 2022/11/18 16:48:36 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #4 is the button
+Seat 1: Josebita (122598, 8.97€ bounty)
+Seat 2: Gefbouby (34428, 2.25€ bounty)
+Seat 3: EVcesar (31944, 2.25€ bounty)
+Seat 4: Jpolo21 (57410, 4.49€ bounty)
+Seat 5: YL_ML_GL_42 (49693, 4.49€ bounty)
+Seat 6: Fawkes10 (42705, 4.49€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 140
+Fawkes10 posts ante 140
+Josebita posts ante 140
+Gefbouby posts ante 140
+EVcesar posts ante 140
+Jpolo21 posts ante 140
+YL_ML_GL_42 posts small blind 600
+Fawkes10 posts big blind 1200
+Dealt to YL_ML_GL_42 [Qd 5c]
+*** PRE-FLOP *** 
+Josebita raises 1800 to 3000
+Gefbouby folds
+EVcesar folds
+Jpolo21 folds
+YL_ML_GL_42 folds
+Fawkes10 folds
+Josebita collected 5640 from pot
+*** SUMMARY ***
+Total pot 5640 | No rake
+Seat 1: Josebita won 5640
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2543166293352120381-84-1668790132 - Holdem no limit (140/600/1200) - 2022/11/18 16:48:52 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #5 is the button
+Seat 1: Josebita (125098, 8.97€ bounty)
+Seat 2: Gefbouby (34288, 2.25€ bounty)
+Seat 3: EVcesar (31804, 2.25€ bounty)
+Seat 4: Jpolo21 (57270, 4.49€ bounty)
+Seat 5: YL_ML_GL_42 (48953, 4.49€ bounty)
+Seat 6: Fawkes10 (41365, 4.49€ bounty)
+*** ANTE/BLINDS ***
+Fawkes10 posts ante 140
+Josebita posts ante 140
+Gefbouby posts ante 140
+EVcesar posts ante 140
+Jpolo21 posts ante 140
+YL_ML_GL_42 posts ante 140
+Fawkes10 posts small blind 600
+Josebita posts big blind 1200
+Dealt to YL_ML_GL_42 [Jh Th]
+*** PRE-FLOP *** 
+Gefbouby calls 1200
+EVcesar folds
+Jpolo21 calls 1200
+YL_ML_GL_42 calls 1200
+Fawkes10 folds
+Josebita raises 2400 to 3600
+Gefbouby calls 2400
+Jpolo21 calls 2400
+YL_ML_GL_42 calls 2400
+*** FLOP *** [As 4h Jd]
+Josebita checks
+Gefbouby checks
+Jpolo21 bets 2400
+YL_ML_GL_42 calls 2400
+Josebita calls 2400
+Gefbouby calls 2400
+*** TURN *** [As 4h Jd][Ad]
+Josebita bets 7800
+Gefbouby folds
+Jpolo21 folds
+YL_ML_GL_42 folds
+Josebita collected 33240 from pot
+*** SUMMARY ***
+Total pot 33240 | No rake
+Board: [As 4h Jd Ad]
+Seat 1: Josebita (big blind) won 33240
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2543166293352120381-85-1668790242 - Holdem no limit (140/600/1200) - 2022/11/18 16:50:42 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #6 is the button
+Seat 1: Josebita (144398, 8.97€ bounty)
+Seat 2: Gefbouby (28148, 2.25€ bounty)
+Seat 3: EVcesar (31664, 2.25€ bounty)
+Seat 4: Jpolo21 (51130, 4.49€ bounty)
+Seat 5: YL_ML_GL_42 (42813, 4.49€ bounty)
+Seat 6: Fawkes10 (40625, 4.49€ bounty)
+*** ANTE/BLINDS ***
+Josebita posts ante 140
+Gefbouby posts ante 140
+EVcesar posts ante 140
+Jpolo21 posts ante 140
+YL_ML_GL_42 posts ante 140
+Fawkes10 posts ante 140
+Josebita posts small blind 600
+Gefbouby posts big blind 1200
+Dealt to YL_ML_GL_42 [8c Kd]
+*** PRE-FLOP *** 
+EVcesar folds
+Jpolo21 folds
+YL_ML_GL_42 folds
+Fawkes10 folds
+Josebita raises 1200 to 2400
+Gefbouby calls 1200
+*** FLOP *** [Jc 8h 9d]
+Josebita bets 1200
+Gefbouby folds
+Josebita collected 6840 from pot
+*** SUMMARY ***
+Total pot 6840 | No rake
+Board: [Jc 8h 9d]
+Seat 1: Josebita (small blind) won 6840
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2543166293352120381-86-1668790274 - Holdem no limit (160/700/1400) - 2022/11/18 16:51:14 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #1 is the button
+Seat 1: Josebita (147498, 8.97€ bounty)
+Seat 2: Gefbouby (25608, 2.25€ bounty)
+Seat 3: EVcesar (31524, 2.25€ bounty)
+Seat 4: Jpolo21 (50990, 4.49€ bounty)
+Seat 5: YL_ML_GL_42 (42673, 4.49€ bounty)
+Seat 6: Fawkes10 (40485, 4.49€ bounty)
+*** ANTE/BLINDS ***
+Gefbouby posts ante 160
+EVcesar posts ante 160
+Josebita posts ante 160
+Jpolo21 posts ante 160
+YL_ML_GL_42 posts ante 160
+Fawkes10 posts ante 160
+Gefbouby posts small blind 700
+EVcesar posts big blind 1400
+Dealt to YL_ML_GL_42 [Kd Jh]
+*** PRE-FLOP *** 
+Jpolo21 folds
+YL_ML_GL_42 raises 1400 to 2800
+Fawkes10 folds
+Josebita folds
+Gefbouby calls 2100
+EVcesar folds
+*** FLOP *** [9c 9h 3h]
+Gefbouby checks
+YL_ML_GL_42 bets 3980
+Gefbouby calls 3980
+*** TURN *** [9c 9h 3h][5h]
+Gefbouby checks
+YL_ML_GL_42 bets 5572
+Gefbouby calls 5572
+*** RIVER *** [9c 9h 3h 5h][2d]
+Gefbouby checks
+YL_ML_GL_42 bets 30161 and is all-in
+Gefbouby calls 13096 and is all-in
+*** SHOW DOWN ***
+Gefbouby shows [3d 8d] (Two pairs : 9 and 3)
+YL_ML_GL_42 shows [Kd Jh] (One pair : 9)
+YL_ML_GL_42 collected 17065 from side pot 1
+Gefbouby collected 53256 from main pot
+*** SUMMARY ***
+Total pot 70321 | No rake
+Board: [9c 9h 3h 5h 2d]
+Seat 2: Gefbouby (small blind) showed [3d 8d] and won 53256 with Two pairs : 9 and 3
+Seat 5: YL_ML_GL_42 showed [Kd Jh] and won 17065 with One pair : 9
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2543166293352120381-87-1668790337 - Holdem no limit (160/700/1400) - 2022/11/18 16:52:17 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #2 is the button
+Seat 1: Josebita (147338, 8.97€ bounty)
+Seat 2: Gefbouby (53256, 2.25€ bounty)
+Seat 3: EVcesar (29964, 2.25€ bounty)
+Seat 4: Jpolo21 (50830, 4.49€ bounty)
+Seat 5: YL_ML_GL_42 (17065, 4.49€ bounty)
+Seat 6: Fawkes10 (40325, 4.49€ bounty)
+*** ANTE/BLINDS ***
+EVcesar posts ante 160
+Jpolo21 posts ante 160
+Josebita posts ante 160
+Gefbouby posts ante 160
+YL_ML_GL_42 posts ante 160
+Fawkes10 posts ante 160
+EVcesar posts small blind 700
+Jpolo21 posts big blind 1400
+Dealt to YL_ML_GL_42 [Tc Qd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 15505 to 16905 and is all-in
+Fawkes10 folds
+Josebita folds
+Gefbouby folds
+EVcesar folds
+Jpolo21 folds
+YL_ML_GL_42 collected 19965 from pot
+*** SUMMARY ***
+Total pot 19965 | No rake
+Seat 5: YL_ML_GL_42 won 19965
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2543166293352120381-88-1668790352 - Holdem no limit (160/700/1400) - 2022/11/18 16:52:32 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #3 is the button
+Seat 1: Josebita (147178, 8.97€ bounty)
+Seat 2: Gefbouby (53096, 2.25€ bounty)
+Seat 3: EVcesar (29104, 2.25€ bounty)
+Seat 4: Jpolo21 (49270, 4.49€ bounty)
+Seat 5: YL_ML_GL_42 (19965, 4.49€ bounty)
+Seat 6: Fawkes10 (40165, 4.49€ bounty)
+*** ANTE/BLINDS ***
+Jpolo21 posts ante 160
+YL_ML_GL_42 posts ante 160
+Josebita posts ante 160
+Gefbouby posts ante 160
+EVcesar posts ante 160
+Fawkes10 posts ante 160
+Jpolo21 posts small blind 700
+YL_ML_GL_42 posts big blind 1400
+Dealt to YL_ML_GL_42 [8c 9d]
+*** PRE-FLOP *** 
+Fawkes10 raises 2100 to 3500
+Josebita folds
+Gefbouby calls 3500
+EVcesar folds
+Jpolo21 folds
+YL_ML_GL_42 folds
+*** FLOP *** [Kd Kh 3s]
+Fawkes10 checks
+Gefbouby checks
+*** TURN *** [Kd Kh 3s][Jh]
+Fawkes10 bets 3521
+Gefbouby folds
+Fawkes10 collected 13581 from pot
+*** SUMMARY ***
+Total pot 13581 | No rake
+Board: [Kd Kh 3s Jh]
+Seat 6: Fawkes10 won 13581
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2543166293352120381-89-1668790396 - Holdem no limit (160/700/1400) - 2022/11/18 16:53:16 UTC
+Table: 'SAMOURAI(592127045)#0060' 6-max (real money) Seat #4 is the button
+Seat 1: Josebita (147018, 8.97€ bounty)
+Seat 2: Gefbouby (49436, 2.25€ bounty)
+Seat 3: EVcesar (28944, 2.25€ bounty)
+Seat 4: Jpolo21 (48410, 4.49€ bounty)
+Seat 5: YL_ML_GL_42 (18405, 4.49€ bounty)
+Seat 6: Fawkes10 (46565, 4.49€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 160
+Fawkes10 posts ante 160
+Josebita posts ante 160
+Gefbouby posts ante 160
+EVcesar posts ante 160
+Jpolo21 posts ante 160
+YL_ML_GL_42 posts small blind 700
+Fawkes10 posts big blind 1400
+Dealt to YL_ML_GL_42 [Tc Kh]
+*** PRE-FLOP *** 
+Josebita folds
+Gefbouby folds
+EVcesar folds
+Jpolo21 raises 1400 to 2800
+YL_ML_GL_42 raises 15445 to 18245 and is all-in
+Fawkes10 folds
+Jpolo21 calls 15445
+*** FLOP *** [3s 7c Kd]
+*** TURN *** [3s 7c Kd][6h]
+*** RIVER *** [3s 7c Kd 6h][Ah]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Tc Kh] (One pair : Kings)
+Jpolo21 shows [Ac 7s] (Two pairs : Aces and 7)
+Jpolo21 collected 38850 from pot
+*** SUMMARY ***
+Total pot 38850 | No rake
+Board: [3s 7c Kd 6h Ah]
+Seat 4: Jpolo21 (button) showed [Ac 7s] and won 38850 with Two pairs : Aces and 7
+Seat 5: YL_ML_GL_42 (small blind) showed [Tc Kh] and lost with One pair : Kings
+
+

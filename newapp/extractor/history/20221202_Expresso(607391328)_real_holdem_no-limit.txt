@@ -1,0 +1,271 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2608725889634009089-1-1670002513 - Holdem no limit (10/20) - 2022/12/02 17:35:13 UTC
+Table: 'Expresso(607391328)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Croco 100156 (500)
+Seat 2: MmeConcombre (500)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Croco 100156 posts big blind 20
+Dealt to YL_ML_GL_42 [6c 9c]
+*** PRE-FLOP *** 
+MmeConcombre folds
+YL_ML_GL_42 calls 10
+Croco 100156 checks
+*** FLOP *** [5c 6d Jc]
+YL_ML_GL_42 bets 40
+Croco 100156 calls 40
+*** TURN *** [5c 6d Jc][Kc]
+YL_ML_GL_42 bets 60
+Croco 100156 folds
+YL_ML_GL_42 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [5c 6d Jc Kc]
+Seat 3: YL_ML_GL_42 (small blind) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2608725889634009089-2-1670002545 - Holdem no limit (10/20) - 2022/12/02 17:35:45 UTC
+Table: 'Expresso(607391328)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Croco 100156 (440)
+Seat 2: MmeConcombre (500)
+Seat 3: YL_ML_GL_42 (560)
+*** ANTE/BLINDS ***
+Croco 100156 posts small blind 10
+MmeConcombre posts big blind 20
+Dealt to YL_ML_GL_42 [9d 4d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Croco 100156 folds
+MmeConcombre collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MmeConcombre (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2608725889634009089-3-1670002556 - Holdem no limit (10/20) - 2022/12/02 17:35:56 UTC
+Table: 'Expresso(607391328)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Croco 100156 (430)
+Seat 2: MmeConcombre (510)
+Seat 3: YL_ML_GL_42 (560)
+*** ANTE/BLINDS ***
+MmeConcombre posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [As 7h]
+*** PRE-FLOP *** 
+Croco 100156 folds
+MmeConcombre folds
+YL_ML_GL_42 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: YL_ML_GL_42 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2608725889634009089-4-1670002566 - Holdem no limit (10/20) - 2022/12/02 17:36:06 UTC
+Table: 'Expresso(607391328)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Croco 100156 (430)
+Seat 2: MmeConcombre (500)
+Seat 3: YL_ML_GL_42 (570)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Croco 100156 posts big blind 20
+Dealt to YL_ML_GL_42 [6s 5h]
+*** PRE-FLOP *** 
+MmeConcombre folds
+YL_ML_GL_42 folds
+Croco 100156 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Croco 100156 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2608725889634009089-5-1670002575 - Holdem no limit (10/20) - 2022/12/02 17:36:15 UTC
+Table: 'Expresso(607391328)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Croco 100156 (440)
+Seat 2: MmeConcombre (500)
+Seat 3: YL_ML_GL_42 (560)
+*** ANTE/BLINDS ***
+Croco 100156 posts small blind 10
+MmeConcombre posts big blind 20
+Dealt to YL_ML_GL_42 [Tc Kh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+Croco 100156 calls 60
+MmeConcombre folds
+*** FLOP *** [Qd 3h Jd]
+Croco 100156 checks
+YL_ML_GL_42 bets 128
+Croco 100156 folds
+YL_ML_GL_42 collected 288 from pot
+*** SUMMARY ***
+Total pot 288 | No rake
+Board: [Qd 3h Jd]
+Seat 3: YL_ML_GL_42 (button) won 288
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2608725889634009089-6-1670002600 - Holdem no limit (15/30) - 2022/12/02 17:36:40 UTC
+Table: 'Expresso(607391328)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Croco 100156 (370)
+Seat 2: MmeConcombre (480)
+Seat 3: YL_ML_GL_42 (650)
+*** ANTE/BLINDS ***
+MmeConcombre posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [5s Kd]
+*** PRE-FLOP *** 
+Croco 100156 calls 30
+MmeConcombre folds
+YL_ML_GL_42 checks
+*** FLOP *** [Qh 8c 3c]
+YL_ML_GL_42 checks
+Croco 100156 checks
+*** TURN *** [Qh 8c 3c][Ks]
+YL_ML_GL_42 checks
+Croco 100156 bets 30
+YL_ML_GL_42 calls 30
+*** RIVER *** [Qh 8c 3c Ks][Ad]
+YL_ML_GL_42 checks
+Croco 100156 bets 30
+YL_ML_GL_42 calls 30
+*** SHOW DOWN ***
+Croco 100156 shows [Jh Qd] (One pair : Queens)
+YL_ML_GL_42 shows [5s Kd] (One pair : Kings)
+YL_ML_GL_42 collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Board: [Qh 8c 3c Ks Ad]
+Seat 1: Croco 100156 (button) showed [Jh Qd] and lost with One pair : Queens
+Seat 3: YL_ML_GL_42 (big blind) showed [5s Kd] and won 195 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2608725889634009089-7-1670002645 - Holdem no limit (15/30) - 2022/12/02 17:37:25 UTC
+Table: 'Expresso(607391328)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Croco 100156 (280)
+Seat 2: MmeConcombre (465)
+Seat 3: YL_ML_GL_42 (755)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Croco 100156 posts big blind 30
+Dealt to YL_ML_GL_42 [3d Td]
+*** PRE-FLOP *** 
+MmeConcombre raises 30 to 60
+YL_ML_GL_42 calls 45
+Croco 100156 calls 30
+*** FLOP *** [7h Th 3c]
+YL_ML_GL_42 bets 45
+Croco 100156 calls 45
+MmeConcombre folds
+*** TURN *** [7h Th 3c][7d]
+YL_ML_GL_42 checks
+Croco 100156 bets 95
+YL_ML_GL_42 calls 95
+*** RIVER *** [7h Th 3c 7d][2s]
+YL_ML_GL_42 checks
+Croco 100156 bets 30
+YL_ML_GL_42 raises 520 to 550
+Croco 100156 calls 50 and is all-in
+*** SHOW DOWN ***
+Croco 100156 shows [8s 8d] (Two pairs : 8 and 7)
+YL_ML_GL_42 shows [3d Td] (Two pairs : Tens and 7)
+YL_ML_GL_42 collected 1090 from pot
+*** SUMMARY ***
+Total pot 1090 | No rake
+Board: [7h Th 3c 7d 2s]
+Seat 1: Croco 100156 (big blind) showed [8s 8d] and lost with Two pairs : 8 and 7
+Seat 3: YL_ML_GL_42 (small blind) showed [3d Td] and won 1090 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2608725889634009089-8-1670002696 - Holdem no limit (20/40) - 2022/12/02 17:38:16 UTC
+Table: 'Expresso(607391328)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MmeConcombre (405)
+Seat 3: YL_ML_GL_42 (1095)
+*** ANTE/BLINDS ***
+MmeConcombre posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [2h Kc]
+*** PRE-FLOP *** 
+MmeConcombre raises 365 to 405 and is all-in
+YL_ML_GL_42 folds
+MmeConcombre collected 445 from pot
+*** SUMMARY ***
+Total pot 445 | No rake
+Seat 2: MmeConcombre (small blind) (button) won 445
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2608725889634009089-9-1670002724 - Holdem no limit (20/40) - 2022/12/02 17:38:44 UTC
+Table: 'Expresso(607391328)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MmeConcombre (445)
+Seat 3: YL_ML_GL_42 (1055)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+MmeConcombre posts big blind 40
+Dealt to YL_ML_GL_42 [2h 3h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+MmeConcombre collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MmeConcombre (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2608725889634009089-10-1670002749 - Holdem no limit (20/40) - 2022/12/02 17:39:09 UTC
+Table: 'Expresso(607391328)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MmeConcombre (465)
+Seat 3: YL_ML_GL_42 (1035)
+*** ANTE/BLINDS ***
+MmeConcombre posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [2s 5h]
+*** PRE-FLOP *** 
+MmeConcombre raises 40 to 80
+YL_ML_GL_42 calls 40
+*** FLOP *** [Kc 6h 5s]
+YL_ML_GL_42 bets 128
+MmeConcombre folds
+YL_ML_GL_42 collected 288 from pot
+*** SUMMARY ***
+Total pot 288 | No rake
+Board: [Kc 6h 5s]
+Seat 3: YL_ML_GL_42 (big blind) won 288
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2608725889634009089-11-1670002763 - Holdem no limit (20/40) - 2022/12/02 17:39:23 UTC
+Table: 'Expresso(607391328)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MmeConcombre (385)
+Seat 3: YL_ML_GL_42 (1115)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+MmeConcombre posts big blind 40
+Dealt to YL_ML_GL_42 [7c 7h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+MmeConcombre collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MmeConcombre (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2608725889634009089-12-1670002777 - Holdem no limit (20/40) - 2022/12/02 17:39:37 UTC
+Table: 'Expresso(607391328)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MmeConcombre (405)
+Seat 3: YL_ML_GL_42 (1095)
+*** ANTE/BLINDS ***
+MmeConcombre posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Jh Kc]
+*** PRE-FLOP *** 
+MmeConcombre raises 365 to 405 and is all-in
+YL_ML_GL_42 calls 365
+*** FLOP *** [9s 9c 2d]
+*** TURN *** [9s 9c 2d][3c]
+*** RIVER *** [9s 9c 2d 3c][9h]
+*** SHOW DOWN ***
+MmeConcombre shows [8s Js] (Trips of 9)
+YL_ML_GL_42 shows [Jh Kc] (Trips of 9)
+YL_ML_GL_42 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [9s 9c 2d 3c 9h]
+Seat 2: MmeConcombre (small blind) (button) showed [8s Js] and lost with Trips of 9
+Seat 3: YL_ML_GL_42 (big blind) showed [Jh Kc] and won 810 with Trips of 9
+
+

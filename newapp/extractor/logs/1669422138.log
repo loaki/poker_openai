@@ -1,0 +1,11 @@
+1669422138942 inf [app] Launch
+1669422138978 inf [scene] Bridge initialize
+1669422138987 inf [scene] Scene open
+1669422138992 inf [scene] Scene create
+1669422139005 inf [scene] Scene loading
+1669422139011 inf [app] Checking for update
+1669422139284 inf [app] Update for version 1.24.0 is not available (latest version: 1.24.0, downgrade is disallowed).
+1669422139664 inf [scene] Browser loaded
+1669422139666 inf [scene] Bridge loaded
+1669422139678 inf [tracker] Listening on port: 8003
+1669422141495 inf [tracker] Closed

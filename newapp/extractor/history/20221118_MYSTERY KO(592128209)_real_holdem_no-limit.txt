@@ -1,0 +1,2828 @@
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543171292694052872-1-1668794425 - Holdem no limit (25/100/200) - 2022/11/18 18:00:25 UTC
+Table: 'MYSTERY KO(592128209)#0007' 6-max (real money) Seat #2 is the button
+Seat 1: 4Bet_ (20000)
+Seat 2: 104ka. (20000)
+Seat 3: JAVITO-MARIN (20000)
+Seat 4: isaaciliano (20000)
+Seat 5: Dr.Teeth (20000)
+Seat 6: YL_ML_GL_42 (20000)
+*** ANTE/BLINDS ***
+JAVITO-MARIN posts ante 25
+isaaciliano posts ante 25
+4Bet_ posts ante 25
+104ka. posts ante 25
+Dr.Teeth posts ante 25
+YL_ML_GL_42 posts ante 25
+JAVITO-MARIN posts small blind 100
+isaaciliano posts big blind 200
+Dealt to YL_ML_GL_42 [2c Ad]
+*** PRE-FLOP *** 
+Dr.Teeth folds
+YL_ML_GL_42 raises 250 to 450
+4Bet_ folds
+104ka. folds
+JAVITO-MARIN folds
+isaaciliano folds
+YL_ML_GL_42 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 6: YL_ML_GL_42 won 900
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543171292694052872-2-1668794496 - Holdem no limit (25/100/200) - 2022/11/18 18:01:36 UTC
+Table: 'MYSTERY KO(592128209)#0007' 6-max (real money) Seat #3 is the button
+Seat 1: 4Bet_ (19975)
+Seat 2: 104ka. (19975)
+Seat 3: JAVITO-MARIN (19875)
+Seat 4: isaaciliano (19775)
+Seat 5: Dr.Teeth (19975)
+Seat 6: YL_ML_GL_42 (20425)
+*** ANTE/BLINDS ***
+isaaciliano posts ante 25
+Dr.Teeth posts ante 25
+4Bet_ posts ante 25
+104ka. posts ante 25
+JAVITO-MARIN posts ante 25
+YL_ML_GL_42 posts ante 25
+isaaciliano posts small blind 100
+Dr.Teeth posts big blind 200
+Dealt to YL_ML_GL_42 [4c Kd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+4Bet_ raises 300 to 500
+104ka. folds
+JAVITO-MARIN folds
+isaaciliano folds
+Dr.Teeth folds
+4Bet_ collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 1: 4Bet_ won 950
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543171292694052872-3-1668794568 - Holdem no limit (25/100/200) - 2022/11/18 18:02:48 UTC
+Table: 'MYSTERY KO(592128209)#0007' 6-max (real money) Seat #4 is the button
+Seat 1: 4Bet_ (20400)
+Seat 2: 104ka. (19950)
+Seat 3: JAVITO-MARIN (19850)
+Seat 4: isaaciliano (19650)
+Seat 5: Dr.Teeth (19750)
+Seat 6: YL_ML_GL_42 (20400)
+*** ANTE/BLINDS ***
+Dr.Teeth posts ante 25
+YL_ML_GL_42 posts ante 25
+4Bet_ posts ante 25
+104ka. posts ante 25
+JAVITO-MARIN posts ante 25
+isaaciliano posts ante 25
+Dr.Teeth posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [2h As]
+*** PRE-FLOP *** 
+4Bet_ folds
+104ka. raises 200 to 400
+JAVITO-MARIN raises 19425 to 19825 and is all-in
+isaaciliano folds
+Dr.Teeth folds
+YL_ML_GL_42 folds
+104ka. calls 19425
+*** FLOP *** [9h 5d Ts]
+*** TURN *** [9h 5d Ts][6h]
+*** RIVER *** [9h 5d Ts 6h][4s]
+*** SHOW DOWN ***
+104ka. shows [Jc Js] (One pair : Jacks)
+JAVITO-MARIN shows [Qs Qh] (One pair : Queens)
+JAVITO-MARIN collected 40100 from pot
+*** SUMMARY ***
+Total pot 40100 | No rake
+Board: [9h 5d Ts 6h 4s]
+Seat 2: 104ka. showed [Jc Js] and lost with One pair : Jacks
+Seat 3: JAVITO-MARIN showed [Qs Qh] and won 40100 with One pair : Queens
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543171292694052872-4-1668794602 - Holdem no limit (25/100/200) - 2022/11/18 18:03:22 UTC
+Table: 'MYSTERY KO(592128209)#0007' 6-max (real money) Seat #5 is the button
+Seat 1: 4Bet_ (20375)
+Seat 2: 104ka. (100)
+Seat 3: JAVITO-MARIN (40100)
+Seat 4: isaaciliano (19625)
+Seat 5: Dr.Teeth (19625)
+Seat 6: YL_ML_GL_42 (20175)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+4Bet_ posts ante 25
+104ka. posts ante 25
+JAVITO-MARIN posts ante 25
+isaaciliano posts ante 25
+Dr.Teeth posts ante 25
+YL_ML_GL_42 posts small blind 100
+4Bet_ posts big blind 200
+Dealt to YL_ML_GL_42 [Kc 3c]
+*** PRE-FLOP *** 
+104ka. calls 75 and is all-in
+JAVITO-MARIN calls 200
+isaaciliano folds
+Dr.Teeth folds
+YL_ML_GL_42 calls 100
+4Bet_ checks
+*** FLOP *** [7s 8s Tc]
+YL_ML_GL_42 checks
+4Bet_ checks
+JAVITO-MARIN checks
+*** TURN *** [7s 8s Tc][As]
+YL_ML_GL_42 checks
+4Bet_ bets 289
+JAVITO-MARIN folds
+YL_ML_GL_42 folds
+*** RIVER *** [7s 8s Tc As][Jh]
+*** SHOW DOWN ***
+4Bet_ shows [2h Ac] (One pair : Aces)
+104ka. shows [9d Ks] (Straight Jack high)
+104ka. collected 450 from main pot
+4Bet_ collected 664 from side pot 1
+*** SUMMARY ***
+Total pot 1114 | No rake
+Board: [7s 8s Tc As Jh]
+Seat 1: 4Bet_ (big blind) showed [2h Ac] and won 664 with One pair : Aces
+Seat 2: 104ka. showed [9d Ks] and won 450 with Straight Jack high
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543171292694052872-5-1668794680 - Holdem no limit (25/100/200) - 2022/11/18 18:04:40 UTC
+Table: 'MYSTERY KO(592128209)#0007' 6-max (real money) Seat #6 is the button
+Seat 1: 4Bet_ (20525)
+Seat 2: 104ka. (450)
+Seat 3: Elisa0609 (20000)
+Seat 4: isaaciliano (19600)
+Seat 5: Dr.Teeth (19600)
+Seat 6: YL_ML_GL_42 (19950)
+*** ANTE/BLINDS ***
+4Bet_ posts ante 25
+104ka. posts ante 25
+Elisa0609 posts ante 25
+isaaciliano posts ante 25
+Dr.Teeth posts ante 25
+YL_ML_GL_42 posts ante 25
+4Bet_ posts small blind 100
+104ka. posts big blind 200
+Dealt to YL_ML_GL_42 [5s 6s]
+*** PRE-FLOP *** 
+Elisa0609 folds
+isaaciliano raises 650 to 850
+Dr.Teeth folds
+YL_ML_GL_42 folds
+4Bet_ folds
+104ka. calls 225 and is all-in
+*** FLOP *** [4h 9s 2c]
+*** TURN *** [4h 9s 2c][5c]
+*** RIVER *** [4h 9s 2c 5c][Tc]
+*** SHOW DOWN ***
+104ka. shows [Qd Ad] (High card : Ace)
+isaaciliano shows [Ah Qc] (High card : Ace)
+isaaciliano collected 975 from side pot 1
+104ka. collected 550 from main pot
+*** SUMMARY ***
+Total pot 1525 | No rake
+Board: [4h 9s 2c 5c Tc]
+Seat 2: 104ka. (big blind) showed [Qd Ad] and won 550 with High card : Ace
+Seat 4: isaaciliano showed [Ah Qc] and won 975 with High card : Ace
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543171292694052872-6-1668794719 - Holdem no limit (25/100/200) - 2022/11/18 18:05:19 UTC
+Table: 'MYSTERY KO(592128209)#0007' 6-max (real money) Seat #1 is the button
+Seat 1: 4Bet_ (20400)
+Seat 2: 104ka. (550)
+Seat 3: Elisa0609 (19975)
+Seat 4: isaaciliano (19700)
+Seat 5: Dr.Teeth (19575)
+Seat 6: YL_ML_GL_42 (19925)
+*** ANTE/BLINDS ***
+104ka. posts ante 25
+Elisa0609 posts ante 25
+4Bet_ posts ante 25
+isaaciliano posts ante 25
+Dr.Teeth posts ante 25
+YL_ML_GL_42 posts ante 25
+104ka. posts small blind 100
+Elisa0609 posts big blind 200
+Dealt to YL_ML_GL_42 [Jh 5d]
+*** PRE-FLOP *** 
+isaaciliano folds
+Dr.Teeth folds
+YL_ML_GL_42 folds
+4Bet_ folds
+104ka. raises 325 to 525 and is all-in
+Elisa0609 folds
+104ka. collected 875 from pot
+*** SUMMARY ***
+Total pot 875 | No rake
+Seat 2: 104ka. (small blind) won 875
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2543171292694052872-7-1668794758 - Holdem no limit (25/100/200) - 2022/11/18 18:05:58 UTC
+Table: 'MYSTERY KO(592128209)#0007' 6-max (real money) Seat #2 is the button
+Seat 1: 4Bet_ (20375)
+Seat 2: 104ka. (875)
+Seat 3: Elisa0609 (19750)
+Seat 4: isaaciliano (19675)
+Seat 5: Dr.Teeth (19550)
+Seat 6: YL_ML_GL_42 (19900)
+*** ANTE/BLINDS ***
+Elisa0609 posts ante 25
+isaaciliano posts ante 25
+4Bet_ posts ante 25
+104ka. posts ante 25
+Dr.Teeth posts ante 25
+YL_ML_GL_42 posts ante 25
+Elisa0609 posts small blind 100
+isaaciliano posts big blind 200
+Dealt to YL_ML_GL_42 [4d 9d]
+*** PRE-FLOP *** 
+Dr.Teeth folds
+YL_ML_GL_42 folds
+4Bet_ raises 300 to 500
+104ka. folds
+Elisa0609 folds
+isaaciliano calls 300
+*** FLOP *** [6d Qc 8s]
+isaaciliano checks
+4Bet_ checks
+*** TURN *** [6d Qc 8s][Kc]
+isaaciliano checks
+4Bet_ checks
+*** RIVER *** [6d Qc 8s Kc][Th]
+isaaciliano checks
+4Bet_ checks
+*** SHOW DOWN ***
+4Bet_ shows [5h 4h] (High card : King)
+isaaciliano shows [Ac 6s] (One pair : 6)
+isaaciliano collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Board: [6d Qc 8s Kc Th]
+Seat 1: 4Bet_ showed [5h 4h] and lost with High card : King
+Seat 4: isaaciliano (big blind) showed [Ac 6s] and won 1250 with One pair : 6
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-1-1668794845 - Holdem no limit (25/100/200) - 2022/11/18 18:07:25 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #2 is the button
+Seat 1: teteur91270 (20000)
+Seat 2: YL_ML_GL_42 (19875)
+Seat 3: Le-S-19 (18275)
+Seat 4: bambam999 (47259)
+Seat 5: LeTchoun (19100)
+Seat 6: WinaGrams (20000)
+*** ANTE/BLINDS ***
+Le-S-19 posts ante 25
+bambam999 posts ante 25
+teteur91270 posts ante 25
+YL_ML_GL_42 posts ante 25
+LeTchoun posts ante 25
+Le-S-19 posts small blind 100
+bambam999 posts big blind 200
+Dealt to YL_ML_GL_42 [Qs 3s]
+*** PRE-FLOP *** 
+LeTchoun folds
+teteur91270 folds
+YL_ML_GL_42 raises 300 to 500
+Le-S-19 folds
+bambam999 calls 300
+*** FLOP *** [8s 5c 9c]
+bambam999 checks
+YL_ML_GL_42 bets 613
+bambam999 calls 613
+*** TURN *** [8s 5c 9c][2c]
+bambam999 checks
+YL_ML_GL_42 bets 1226
+bambam999 calls 1226
+*** RIVER *** [8s 5c 9c 2c][5d]
+bambam999 checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Qs 3s] (One pair : 5)
+bambam999 shows [Qd Tc] (One pair : 5)
+bambam999 collected 4903 from pot
+*** SUMMARY ***
+Total pot 4903 | No rake
+Board: [8s 5c 9c 2c 5d]
+Seat 2: YL_ML_GL_42 (button) showed [Qs 3s] and lost with One pair : 5
+Seat 4: bambam999 (big blind) showed [Qd Tc] and won 4903 with One pair : 5
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-2-1668794893 - Holdem no limit (25/100/200) - 2022/11/18 18:08:13 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #3 is the button
+Seat 1: teteur91270 (19975)
+Seat 2: YL_ML_GL_42 (17511)
+Seat 3: Le-S-19 (18150)
+Seat 4: bambam999 (49798)
+Seat 5: LeTchoun (19075)
+Seat 6: WinaGrams (20000)
+*** ANTE/BLINDS ***
+bambam999 posts ante 25
+LeTchoun posts ante 25
+teteur91270 posts ante 25
+YL_ML_GL_42 posts ante 25
+Le-S-19 posts ante 25
+WinaGrams posts ante 25
+bambam999 posts small blind 100
+LeTchoun posts big blind 200
+Dealt to YL_ML_GL_42 [As Td]
+*** PRE-FLOP *** 
+WinaGrams calls 200
+teteur91270 calls 200
+YL_ML_GL_42 raises 1050 to 1250
+Le-S-19 folds
+bambam999 folds
+LeTchoun folds
+WinaGrams folds
+teteur91270 calls 1050
+*** FLOP *** [5h 2c Th]
+teteur91270 bets 200
+YL_ML_GL_42 calls 200
+*** TURN *** [5h 2c Th][3s]
+teteur91270 bets 200
+YL_ML_GL_42 calls 200
+*** RIVER *** [5h 2c Th 3s][4d]
+teteur91270 bets 200
+YL_ML_GL_42 raises 2758 to 2958
+teteur91270 calls 2758
+*** SHOW DOWN ***
+teteur91270 shows [Jc Js] (One pair : Jacks)
+YL_ML_GL_42 shows [As Td] (Straight 5 high)
+YL_ML_GL_42 collected 9866 from pot
+*** SUMMARY ***
+Total pot 9866 | No rake
+Board: [5h 2c Th 3s 4d]
+Seat 1: teteur91270 showed [Jc Js] and lost with One pair : Jacks
+Seat 2: YL_ML_GL_42 showed [As Td] and won 9866 with Straight 5 high
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-3-1668794975 - Holdem no limit (25/100/200) - 2022/11/18 18:09:35 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #4 is the button
+Seat 1: teteur91270 (15342)
+Seat 2: YL_ML_GL_42 (22744)
+Seat 3: Le-S-19 (18125)
+Seat 4: bambam999 (49673)
+Seat 5: LeTchoun (18850)
+Seat 6: WinaGrams (19775)
+*** ANTE/BLINDS ***
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+teteur91270 posts ante 25
+YL_ML_GL_42 posts ante 25
+Le-S-19 posts ante 25
+bambam999 posts ante 25
+LeTchoun posts small blind 100
+WinaGrams posts big blind 200
+Dealt to YL_ML_GL_42 [8c Kc]
+*** PRE-FLOP *** 
+teteur91270 folds
+YL_ML_GL_42 raises 250 to 450
+Le-S-19 raises 1125 to 1575
+bambam999 folds
+LeTchoun folds
+WinaGrams folds
+YL_ML_GL_42 folds
+Le-S-19 collected 2475 from pot
+*** SUMMARY ***
+Total pot 2475 | No rake
+Seat 3: Le-S-19 won 2475
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-4-1668795071 - Holdem no limit (25/100/200) - 2022/11/18 18:11:11 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #5 is the button
+Seat 1: teteur91270 (15317)
+Seat 2: YL_ML_GL_42 (22269)
+Seat 3: Le-S-19 (19000)
+Seat 4: bambam999 (49648)
+Seat 5: LeTchoun (18725)
+Seat 6: WinaGrams (19550)
+*** ANTE/BLINDS ***
+WinaGrams posts ante 25
+teteur91270 posts ante 25
+YL_ML_GL_42 posts ante 25
+Le-S-19 posts ante 25
+bambam999 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts small blind 100
+teteur91270 posts big blind 200
+Dealt to YL_ML_GL_42 [8d 9c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Le-S-19 folds
+bambam999 calls 200
+LeTchoun folds
+WinaGrams folds
+teteur91270 checks
+*** FLOP *** [2h 5d 6c]
+teteur91270 checks
+bambam999 checks
+*** TURN *** [2h 5d 6c][Ks]
+teteur91270 checks
+bambam999 bets 200
+teteur91270 folds
+bambam999 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Board: [2h 5d 6c Ks]
+Seat 4: bambam999 won 850
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-5-1668795120 - Holdem no limit (25/100/200) - 2022/11/18 18:12:00 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #6 is the button
+Seat 1: teteur91270 (15092)
+Seat 2: YL_ML_GL_42 (22244)
+Seat 3: Kontrol91 (20000)
+Seat 4: bambam999 (50073)
+Seat 5: LeTchoun (18700)
+Seat 6: WinaGrams (19425)
+*** ANTE/BLINDS ***
+teteur91270 posts ante 25
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+bambam999 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+teteur91270 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Kh 8c]
+*** PRE-FLOP *** 
+Kontrol91 folds
+bambam999 folds
+LeTchoun folds
+WinaGrams folds
+teteur91270 folds
+YL_ML_GL_42 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 450
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-6-1668795181 - Holdem no limit (25/100/200) - 2022/11/18 18:13:01 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #1 is the button
+Seat 1: teteur91270 (14967)
+Seat 2: YL_ML_GL_42 (22469)
+Seat 3: Kontrol91 (19975)
+Seat 4: bambam999 (50048)
+Seat 5: LeTchoun (18675)
+Seat 6: WinaGrams (19400)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+teteur91270 posts ante 25
+bambam999 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+YL_ML_GL_42 posts small blind 100
+Kontrol91 posts big blind 200
+Dealt to YL_ML_GL_42 [Ks 8d]
+*** PRE-FLOP *** 
+bambam999 folds
+LeTchoun raises 250 to 450
+WinaGrams folds
+teteur91270 folds
+YL_ML_GL_42 folds
+Kontrol91 folds
+LeTchoun collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 5: LeTchoun won 900
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-7-1668795206 - Holdem no limit (25/100/200) - 2022/11/18 18:13:26 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #2 is the button
+Seat 1: teteur91270 (14942)
+Seat 2: YL_ML_GL_42 (22344)
+Seat 3: Kontrol91 (19750)
+Seat 4: bambam999 (50023)
+Seat 5: LeTchoun (19100)
+Seat 6: WinaGrams (19375)
+*** ANTE/BLINDS ***
+Kontrol91 posts ante 25
+bambam999 posts ante 25
+teteur91270 posts ante 25
+YL_ML_GL_42 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+Kontrol91 posts small blind 100
+bambam999 posts big blind 200
+Dealt to YL_ML_GL_42 [8h 7s]
+*** PRE-FLOP *** 
+LeTchoun folds
+WinaGrams folds
+teteur91270 calls 200
+YL_ML_GL_42 folds
+Kontrol91 raises 500 to 700
+bambam999 folds
+teteur91270 calls 500
+*** FLOP *** [2d 9c 7d]
+Kontrol91 bets 613
+teteur91270 folds
+Kontrol91 collected 2363 from pot
+*** SUMMARY ***
+Total pot 2363 | No rake
+Board: [2d 9c 7d]
+Seat 3: Kontrol91 (small blind) won 2363
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-8-1668795258 - Holdem no limit (25/100/200) - 2022/11/18 18:14:18 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #3 is the button
+Seat 1: teteur91270 (14217)
+Seat 2: YL_ML_GL_42 (22319)
+Seat 3: Kontrol91 (20775)
+Seat 4: bambam999 (49798)
+Seat 5: LeTchoun (19075)
+Seat 6: WinaGrams (19350)
+*** ANTE/BLINDS ***
+bambam999 posts ante 25
+LeTchoun posts ante 25
+teteur91270 posts ante 25
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+WinaGrams posts ante 25
+bambam999 posts small blind 100
+LeTchoun posts big blind 200
+Dealt to YL_ML_GL_42 [5d 7d]
+*** PRE-FLOP *** 
+WinaGrams folds
+teteur91270 folds
+YL_ML_GL_42 folds
+Kontrol91 folds
+bambam999 folds
+LeTchoun collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 5: LeTchoun (big blind) won 450
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-9-1668795306 - Holdem no limit (25/100/200) - 2022/11/18 18:15:06 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #4 is the button
+Seat 1: teteur91270 (14192)
+Seat 2: YL_ML_GL_42 (22294)
+Seat 3: Kontrol91 (20750)
+Seat 4: bambam999 (49673)
+Seat 5: LeTchoun (19300)
+Seat 6: WinaGrams (19325)
+*** ANTE/BLINDS ***
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+teteur91270 posts ante 25
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+bambam999 posts ante 25
+LeTchoun posts small blind 100
+WinaGrams posts big blind 200
+Dealt to YL_ML_GL_42 [Jd Js]
+*** PRE-FLOP *** 
+teteur91270 calls 200
+YL_ML_GL_42 raises 400 to 600
+Kontrol91 folds
+bambam999 calls 600
+LeTchoun folds
+WinaGrams folds
+teteur91270 calls 400
+*** FLOP *** [Ac 6c 9d]
+teteur91270 checks
+YL_ML_GL_42 bets 1800
+bambam999 folds
+teteur91270 calls 1800
+*** TURN *** [Ac 6c 9d][3d]
+teteur91270 bets 3803
+YL_ML_GL_42 raises 16066 to 19869 and is all-in
+teteur91270 folds
+YL_ML_GL_42 shows [Jd Js] (One pair : Jacks)
+YL_ML_GL_42 collected 29522 from pot
+*** SUMMARY ***
+Total pot 29522 | No rake
+Board: [Ac 6c 9d 3d]
+Seat 2: YL_ML_GL_42 showed [Jd Js] and won 29522 with One pair : Jacks
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-10-1668795374 - Holdem no limit (25/100/200) - 2022/11/18 18:16:14 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #5 is the button
+Seat 1: teteur91270 (7964)
+Seat 2: YL_ML_GL_42 (29522)
+Seat 3: Kontrol91 (20725)
+Seat 4: bambam999 (49048)
+Seat 5: LeTchoun (19175)
+Seat 6: WinaGrams (19100)
+*** ANTE/BLINDS ***
+WinaGrams posts ante 25
+teteur91270 posts ante 25
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+bambam999 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts small blind 100
+teteur91270 posts big blind 200
+Dealt to YL_ML_GL_42 [Td Jd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 200 to 400
+Kontrol91 folds
+bambam999 folds
+LeTchoun folds
+WinaGrams folds
+teteur91270 calls 200
+*** FLOP *** [9d Ks 4c]
+teteur91270 checks
+YL_ML_GL_42 checks
+*** TURN *** [9d Ks 4c][2d]
+teteur91270 checks
+YL_ML_GL_42 checks
+*** RIVER *** [9d Ks 4c 2d][5c]
+teteur91270 checks
+YL_ML_GL_42 bets 525
+teteur91270 folds
+YL_ML_GL_42 collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | No rake
+Board: [9d Ks 4c 2d 5c]
+Seat 2: YL_ML_GL_42 won 1575
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-11-1668795416 - Holdem no limit (25/100/200) - 2022/11/18 18:16:56 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #6 is the button
+Seat 1: teteur91270 (7539)
+Seat 2: YL_ML_GL_42 (30147)
+Seat 3: Kontrol91 (20700)
+Seat 4: bambam999 (49023)
+Seat 5: LeTchoun (19150)
+Seat 6: WinaGrams (18975)
+*** ANTE/BLINDS ***
+teteur91270 posts ante 25
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+bambam999 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+teteur91270 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Qs Ac]
+*** PRE-FLOP *** 
+Kontrol91 folds
+bambam999 folds
+LeTchoun folds
+WinaGrams raises 250 to 450
+teteur91270 calls 350
+YL_ML_GL_42 raises 1500 to 1950
+WinaGrams calls 1500
+teteur91270 calls 1500
+*** FLOP *** [2c Jd 7d]
+teteur91270 bets 5564 and is all-in
+YL_ML_GL_42 folds
+WinaGrams calls 5564
+*** TURN *** [2c Jd 7d][5c]
+*** RIVER *** [2c Jd 7d 5c][Qh]
+*** SHOW DOWN ***
+WinaGrams shows [Th Kc] (High card : King)
+teteur91270 shows [8d Qd] (One pair : Queens)
+teteur91270 collected 17128 from pot
+*** SUMMARY ***
+Total pot 17128 | No rake
+Board: [2c Jd 7d 5c Qh]
+Seat 1: teteur91270 (small blind) showed [8d Qd] and won 17128 with One pair : Queens
+Seat 6: WinaGrams (button) showed [Th Kc] and lost with High card : King
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-12-1668795498 - Holdem no limit (25/100/200) - 2022/11/18 18:18:18 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #1 is the button
+Seat 1: teteur91270 (17128)
+Seat 2: YL_ML_GL_42 (28172)
+Seat 3: Kontrol91 (20675)
+Seat 4: bambam999 (48998)
+Seat 5: LeTchoun (19125)
+Seat 6: WinaGrams (11436)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+teteur91270 posts ante 25
+bambam999 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+YL_ML_GL_42 posts small blind 100
+Kontrol91 posts big blind 200
+Dealt to YL_ML_GL_42 [9c 3s]
+*** PRE-FLOP *** 
+bambam999 raises 300 to 500
+LeTchoun folds
+WinaGrams folds
+teteur91270 calls 500
+YL_ML_GL_42 folds
+Kontrol91 folds
+*** FLOP *** [4d 7d 6s]
+bambam999 checks
+teteur91270 bets 725
+bambam999 calls 725
+*** TURN *** [4d 7d 6s][Ts]
+bambam999 checks
+teteur91270 bets 1450
+bambam999 folds
+teteur91270 collected 4350 from pot
+*** SUMMARY ***
+Total pot 4350 | No rake
+Board: [4d 7d 6s Ts]
+Seat 1: teteur91270 (button) won 4350
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-13-1668795560 - Holdem no limit (25/100/200) - 2022/11/18 18:19:20 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #2 is the button
+Seat 1: teteur91270 (18778)
+Seat 2: YL_ML_GL_42 (28047)
+Seat 3: Kontrol91 (20450)
+Seat 4: bambam999 (47748)
+Seat 5: LeTchoun (19100)
+Seat 6: WinaGrams (11411)
+*** ANTE/BLINDS ***
+Kontrol91 posts ante 25
+bambam999 posts ante 25
+teteur91270 posts ante 25
+YL_ML_GL_42 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+Kontrol91 posts small blind 100
+bambam999 posts big blind 200
+Dealt to YL_ML_GL_42 [Qs 9c]
+*** PRE-FLOP *** 
+LeTchoun folds
+WinaGrams folds
+teteur91270 folds
+YL_ML_GL_42 raises 300 to 500
+Kontrol91 folds
+bambam999 folds
+YL_ML_GL_42 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 2: YL_ML_GL_42 (button) won 950
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-14-1668795584 - Holdem no limit (25/100/200) - 2022/11/18 18:19:44 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #3 is the button
+Seat 1: teteur91270 (18753)
+Seat 2: YL_ML_GL_42 (28472)
+Seat 3: Kontrol91 (20325)
+Seat 4: bambam999 (47523)
+Seat 5: LeTchoun (19075)
+Seat 6: WinaGrams (11386)
+*** ANTE/BLINDS ***
+bambam999 posts ante 25
+LeTchoun posts ante 25
+teteur91270 posts ante 25
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+WinaGrams posts ante 25
+bambam999 posts small blind 100
+LeTchoun posts big blind 200
+Dealt to YL_ML_GL_42 [8s 9d]
+*** PRE-FLOP *** 
+WinaGrams calls 200
+teteur91270 folds
+YL_ML_GL_42 folds
+Kontrol91 folds
+bambam999 calls 100
+LeTchoun checks
+*** FLOP *** [3d Ah 8h]
+bambam999 checks
+LeTchoun checks
+WinaGrams checks
+*** TURN *** [3d Ah 8h][3h]
+bambam999 bets 263
+LeTchoun calls 263
+WinaGrams folds
+*** RIVER *** [3d Ah 8h 3h][4c]
+bambam999 bets 638
+LeTchoun folds
+bambam999 collected 1914 from pot
+*** SUMMARY ***
+Total pot 1914 | No rake
+Board: [3d Ah 8h 3h 4c]
+Seat 4: bambam999 (small blind) won 1914
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-15-1668795652 - Holdem no limit (25/100/200) - 2022/11/18 18:20:52 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #4 is the button
+Seat 2: YL_ML_GL_42 (28447)
+Seat 3: Kontrol91 (20300)
+Seat 4: bambam999 (48311)
+Seat 5: LeTchoun (18587)
+Seat 6: WinaGrams (11161)
+*** ANTE/BLINDS ***
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+bambam999 posts ante 25
+LeTchoun posts small blind 100
+WinaGrams posts big blind 200
+Dealt to YL_ML_GL_42 [Js 9s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 200 to 400
+Kontrol91 calls 400
+bambam999 folds
+LeTchoun folds
+WinaGrams calls 200
+*** FLOP *** [6c Tc Qh]
+WinaGrams checks
+YL_ML_GL_42 bets 713
+Kontrol91 calls 713
+WinaGrams calls 713
+*** TURN *** [6c Tc Qh][Th]
+WinaGrams checks
+YL_ML_GL_42 bets 1247
+Kontrol91 calls 1247
+WinaGrams calls 1247
+*** RIVER *** [6c Tc Qh Th][9d]
+WinaGrams checks
+YL_ML_GL_42 checks
+Kontrol91 bets 4748
+WinaGrams raises 4028 to 8776 and is all-in
+YL_ML_GL_42 folds
+Kontrol91 folds
+WinaGrams collected 20829 from pot
+*** SUMMARY ***
+Total pot 20829 | No rake
+Board: [6c Tc Qh Th 9d]
+Seat 6: WinaGrams (big blind) won 20829
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-16-1668795759 - Holdem no limit (25/100/200) - 2022/11/18 18:22:39 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #5 is the button
+Seat 1: lionel62470 (20000)
+Seat 2: YL_ML_GL_42 (26062)
+Seat 3: Kontrol91 (13167)
+Seat 4: bambam999 (48286)
+Seat 5: LeTchoun (18462)
+Seat 6: WinaGrams (20829)
+*** ANTE/BLINDS ***
+WinaGrams posts ante 25
+lionel62470 posts ante 25
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+bambam999 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts small blind 100
+lionel62470 posts big blind 200
+Dealt to YL_ML_GL_42 [Kc 3s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Kontrol91 raises 300 to 500
+bambam999 folds
+LeTchoun folds
+WinaGrams calls 400
+lionel62470 calls 300
+*** FLOP *** [9s 8h 9h]
+WinaGrams checks
+lionel62470 checks
+Kontrol91 bets 578
+WinaGrams folds
+lionel62470 folds
+Kontrol91 collected 2228 from pot
+*** SUMMARY ***
+Total pot 2228 | No rake
+Board: [9s 8h 9h]
+Seat 3: Kontrol91 won 2228
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-17-1668795807 - Holdem no limit (25/100/200) - 2022/11/18 18:23:27 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #6 is the button
+Seat 1: lionel62470 (19475)
+Seat 2: YL_ML_GL_42 (26037)
+Seat 3: Kontrol91 (14292)
+Seat 4: bambam999 (48261)
+Seat 5: LeTchoun (18437)
+Seat 6: WinaGrams (20304)
+*** ANTE/BLINDS ***
+lionel62470 posts ante 25
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+bambam999 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+lionel62470 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [7d 3s]
+*** PRE-FLOP *** 
+Kontrol91 raises 300 to 500
+bambam999 folds
+LeTchoun folds
+WinaGrams folds
+lionel62470 calls 400
+YL_ML_GL_42 folds
+*** FLOP *** [Ad 3d Qs]
+lionel62470 checks
+Kontrol91 bets 600
+lionel62470 calls 600
+*** TURN *** [Ad 3d Qs][2s]
+lionel62470 checks
+Kontrol91 bets 1200
+lionel62470 folds
+Kontrol91 collected 3750 from pot
+*** SUMMARY ***
+Total pot 3750 | No rake
+Board: [Ad 3d Qs 2s]
+Seat 3: Kontrol91 won 3750
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-18-1668795846 - Holdem no limit (25/100/200) - 2022/11/18 18:24:06 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #1 is the button
+Seat 1: lionel62470 (18350)
+Seat 2: YL_ML_GL_42 (25812)
+Seat 3: Kontrol91 (15717)
+Seat 4: bambam999 (48236)
+Seat 5: LeTchoun (18412)
+Seat 6: WinaGrams (20279)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+lionel62470 posts ante 25
+bambam999 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+YL_ML_GL_42 posts small blind 100
+Kontrol91 posts big blind 200
+Dealt to YL_ML_GL_42 [8h 9h]
+*** PRE-FLOP *** 
+bambam999 raises 200 to 400
+LeTchoun folds
+WinaGrams folds
+lionel62470 folds
+YL_ML_GL_42 calls 300
+Kontrol91 calls 200
+*** FLOP *** [9c 3c 4s]
+YL_ML_GL_42 bets 675
+Kontrol91 folds
+bambam999 calls 675
+*** TURN *** [9c 3c 4s][3h]
+YL_ML_GL_42 bets 945
+bambam999 calls 945
+*** RIVER *** [9c 3c 4s 3h][2d]
+YL_ML_GL_42 bets 2984
+bambam999 calls 2984
+*** SHOW DOWN ***
+bambam999 shows [7s 7h] (Two pairs : 7 and 3)
+YL_ML_GL_42 shows [8h 9h] (Two pairs : 9 and 3)
+YL_ML_GL_42 collected 10558 from pot
+*** SUMMARY ***
+Total pot 10558 | No rake
+Board: [9c 3c 4s 3h 2d]
+Seat 2: YL_ML_GL_42 (small blind) showed [8h 9h] and won 10558 with Two pairs : 9 and 3
+Seat 4: bambam999 showed [7s 7h] and lost with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-19-1668795958 - Holdem no limit (25/100/200) - 2022/11/18 18:25:58 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #2 is the button
+Seat 1: lionel62470 (18325)
+Seat 2: YL_ML_GL_42 (31341)
+Seat 3: Kontrol91 (15292)
+Seat 4: bambam999 (43207)
+Seat 5: LeTchoun (18387)
+Seat 6: WinaGrams (20254)
+*** ANTE/BLINDS ***
+Kontrol91 posts ante 25
+bambam999 posts ante 25
+lionel62470 posts ante 25
+YL_ML_GL_42 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+Kontrol91 posts small blind 100
+bambam999 posts big blind 200
+Dealt to YL_ML_GL_42 [Qs 5h]
+*** PRE-FLOP *** 
+LeTchoun folds
+WinaGrams folds
+lionel62470 folds
+YL_ML_GL_42 folds
+Kontrol91 raises 300 to 500
+bambam999 calls 300
+*** FLOP *** [Qh 6d 3s]
+Kontrol91 bets 403
+bambam999 folds
+Kontrol91 collected 1553 from pot
+*** SUMMARY ***
+Total pot 1553 | No rake
+Board: [Qh 6d 3s]
+Seat 3: Kontrol91 (small blind) won 1553
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-20-1668795977 - Holdem no limit (25/100/200) - 2022/11/18 18:26:17 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #3 is the button
+Seat 1: lionel62470 (18300)
+Seat 2: YL_ML_GL_42 (31316)
+Seat 3: Kontrol91 (15917)
+Seat 4: bambam999 (42682)
+Seat 5: LeTchoun (18362)
+Seat 6: WinaGrams (20229)
+*** ANTE/BLINDS ***
+bambam999 posts ante 25
+LeTchoun posts ante 25
+lionel62470 posts ante 25
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+WinaGrams posts ante 25
+bambam999 posts small blind 100
+LeTchoun posts big blind 200
+Dealt to YL_ML_GL_42 [5c 3s]
+*** PRE-FLOP *** 
+WinaGrams raises 250 to 450
+lionel62470 folds
+YL_ML_GL_42 folds
+Kontrol91 folds
+bambam999 calls 350
+LeTchoun folds
+*** FLOP *** [8d 2c 6h]
+bambam999 checks
+WinaGrams checks
+*** TURN *** [8d 2c 6h][5h]
+bambam999 bets 641
+WinaGrams calls 641
+*** RIVER *** [8d 2c 6h 5h][Th]
+bambam999 checks
+WinaGrams checks
+*** SHOW DOWN ***
+WinaGrams shows [9s As] (High card : Ace)
+bambam999 shows [Qc Ac] (High card : Ace)
+bambam999 collected 2532 from pot
+*** SUMMARY ***
+Total pot 2532 | No rake
+Board: [8d 2c 6h 5h Th]
+Seat 4: bambam999 (small blind) showed [Qc Ac] and won 2532 with High card : Ace
+Seat 6: WinaGrams showed [9s As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-21-1668796035 - Holdem no limit (25/100/200) - 2022/11/18 18:27:15 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #4 is the button
+Seat 1: lionel62470 (18275)
+Seat 2: YL_ML_GL_42 (31291)
+Seat 3: Kontrol91 (15892)
+Seat 4: bambam999 (44098)
+Seat 5: LeTchoun (18137)
+Seat 6: WinaGrams (19113)
+*** ANTE/BLINDS ***
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+lionel62470 posts ante 25
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+bambam999 posts ante 25
+LeTchoun posts small blind 100
+WinaGrams posts big blind 200
+Dealt to YL_ML_GL_42 [6h 5h]
+*** PRE-FLOP *** 
+lionel62470 calls 200
+YL_ML_GL_42 folds
+Kontrol91 raises 500 to 700
+bambam999 folds
+LeTchoun folds
+WinaGrams folds
+lionel62470 calls 500
+*** FLOP *** [8h 3h 2h]
+lionel62470 checks
+Kontrol91 bets 400
+lionel62470 raises 2650 to 3050
+Kontrol91 folds
+lionel62470 collected 5300 from pot
+*** SUMMARY ***
+Total pot 5300 | No rake
+Board: [8h 3h 2h]
+Seat 1: lionel62470 won 5300
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-22-1668796093 - Holdem no limit (25/100/200) - 2022/11/18 18:28:13 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #5 is the button
+Seat 1: lionel62470 (19800)
+Seat 2: YL_ML_GL_42 (31266)
+Seat 3: Kontrol91 (14767)
+Seat 4: bambam999 (44073)
+Seat 5: LeTchoun (18012)
+Seat 6: WinaGrams (18888)
+*** ANTE/BLINDS ***
+WinaGrams posts ante 25
+lionel62470 posts ante 25
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+bambam999 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts small blind 100
+lionel62470 posts big blind 200
+Dealt to YL_ML_GL_42 [4d 6c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Kontrol91 folds
+bambam999 folds
+LeTchoun raises 250 to 450
+WinaGrams folds
+lionel62470 folds
+LeTchoun collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 5: LeTchoun (button) won 900
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-23-1668796115 - Holdem no limit (25/100/200) - 2022/11/18 18:28:35 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #6 is the button
+Seat 1: lionel62470 (19575)
+Seat 2: YL_ML_GL_42 (31241)
+Seat 3: Kontrol91 (14742)
+Seat 4: bambam999 (44048)
+Seat 5: LeTchoun (18437)
+Seat 6: WinaGrams (18763)
+*** ANTE/BLINDS ***
+lionel62470 posts ante 25
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+bambam999 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+lionel62470 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Tc 7s]
+*** PRE-FLOP *** 
+Kontrol91 folds
+bambam999 folds
+LeTchoun folds
+WinaGrams folds
+lionel62470 calls 100
+YL_ML_GL_42 checks
+*** FLOP *** [Kc 9c 4d]
+lionel62470 checks
+YL_ML_GL_42 checks
+*** TURN *** [Kc 9c 4d][3s]
+lionel62470 bets 358
+YL_ML_GL_42 folds
+lionel62470 collected 908 from pot
+*** SUMMARY ***
+Total pot 908 | No rake
+Board: [Kc 9c 4d 3s]
+Seat 1: lionel62470 (small blind) won 908
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-24-1668796154 - Holdem no limit (25/100/200) - 2022/11/18 18:29:14 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #1 is the button
+Seat 1: lionel62470 (19900)
+Seat 2: YL_ML_GL_42 (31016)
+Seat 3: Kontrol91 (14717)
+Seat 4: Melodie-2393 (20000)
+Seat 5: LeTchoun (18412)
+Seat 6: WinaGrams (18738)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Kontrol91 posts ante 25
+lionel62470 posts ante 25
+Melodie-2393 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+YL_ML_GL_42 posts small blind 100
+Kontrol91 posts big blind 200
+Dealt to YL_ML_GL_42 [4d 5c]
+*** PRE-FLOP *** 
+Melodie-2393 raises 200 to 400
+LeTchoun raises 700 to 1100
+WinaGrams folds
+lionel62470 folds
+YL_ML_GL_42 folds
+Kontrol91 raises 2100 to 3200
+Melodie-2393 folds
+LeTchoun raises 7050 to 10250
+Kontrol91 calls 7050
+*** FLOP *** [2c 3h Qs]
+Kontrol91 bets 4442 and is all-in
+LeTchoun calls 4442
+*** TURN *** [2c 3h Qs][Td]
+*** RIVER *** [2c 3h Qs Td][7c]
+*** SHOW DOWN ***
+Kontrol91 shows [Jh Ah] (High card : Ace)
+LeTchoun shows [Kc Kd] (One pair : Kings)
+LeTchoun collected 30034 from pot
+*** SUMMARY ***
+Total pot 30034 | No rake
+Board: [2c 3h Qs Td 7c]
+Seat 3: Kontrol91 (big blind) showed [Jh Ah] and lost with High card : Ace
+Seat 5: LeTchoun showed [Kc Kd] and won 30034 with One pair : Kings
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-25-1668796260 - Holdem no limit (25/100/200) - 2022/11/18 18:31:00 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #2 is the button
+Seat 1: lionel62470 (19875)
+Seat 2: YL_ML_GL_42 (30891)
+Seat 4: Melodie-2393 (19575)
+Seat 5: LeTchoun (33729)
+Seat 6: WinaGrams (18713)
+*** ANTE/BLINDS ***
+Melodie-2393 posts ante 25
+lionel62470 posts ante 25
+YL_ML_GL_42 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+Melodie-2393 posts big blind 200
+Dealt to YL_ML_GL_42 [9c 5d]
+*** PRE-FLOP *** 
+LeTchoun folds
+WinaGrams calls 200
+lionel62470 raises 19650 to 19850 and is all-in
+YL_ML_GL_42 folds
+Melodie-2393 folds
+WinaGrams folds
+lionel62470 collected 20375 from pot
+*** SUMMARY ***
+Total pot 20375 | No rake
+Seat 1: lionel62470 won 20375
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-26-1668796273 - Holdem no limit (25/100/200) - 2022/11/18 18:31:13 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #3 is the button
+Seat 1: lionel62470 (20375)
+Seat 2: YL_ML_GL_42 (30866)
+Seat 3: MonPCD (20000)
+Seat 4: Melodie-2393 (19350)
+Seat 5: LeTchoun (33704)
+Seat 6: WinaGrams (18488)
+*** ANTE/BLINDS ***
+Melodie-2393 posts ante 25
+LeTchoun posts ante 25
+lionel62470 posts ante 25
+YL_ML_GL_42 posts ante 25
+WinaGrams posts ante 25
+Melodie-2393 posts small blind 100
+LeTchoun posts big blind 200
+Dealt to YL_ML_GL_42 [Qs Qc]
+*** PRE-FLOP *** 
+WinaGrams folds
+lionel62470 calls 200
+YL_ML_GL_42 raises 400 to 600
+Melodie-2393 folds
+LeTchoun folds
+lionel62470 calls 400
+*** FLOP *** [Js Tc 8s]
+lionel62470 checks
+YL_ML_GL_42 bets 1056
+lionel62470 folds
+YL_ML_GL_42 collected 2681 from pot
+*** SUMMARY ***
+Total pot 2681 | No rake
+Board: [Js Tc 8s]
+Seat 2: YL_ML_GL_42 won 2681
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-27-1668796319 - Holdem no limit (25/100/200) - 2022/11/18 18:31:59 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #4 is the button
+Seat 1: lionel62470 (19750)
+Seat 2: YL_ML_GL_42 (31866)
+Seat 3: MonPCD (20000)
+Seat 4: Melodie-2393 (19225)
+Seat 5: LeTchoun (33479)
+Seat 6: WinaGrams (18463)
+*** ANTE/BLINDS ***
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+lionel62470 posts ante 25
+YL_ML_GL_42 posts ante 25
+MonPCD posts ante 25
+Melodie-2393 posts ante 25
+LeTchoun posts small blind 100
+WinaGrams posts big blind 200
+Dealt to YL_ML_GL_42 [Th Qh]
+*** PRE-FLOP *** 
+lionel62470 folds
+YL_ML_GL_42 raises 250 to 450
+MonPCD folds
+Melodie-2393 folds
+LeTchoun folds
+WinaGrams calls 250
+*** FLOP *** [2c Tc Jc]
+WinaGrams checks
+YL_ML_GL_42 bets 575
+WinaGrams calls 575
+*** TURN *** [2c Tc Jc][4h]
+WinaGrams checks
+YL_ML_GL_42 bets 1150
+WinaGrams calls 1150
+*** RIVER *** [2c Tc Jc 4h][7d]
+WinaGrams bets 3680
+YL_ML_GL_42 calls 3680
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Th Qh] (One pair : Tens)
+WinaGrams shows [8c 4c] (Flush Jack high)
+WinaGrams collected 11960 from pot
+*** SUMMARY ***
+Total pot 11960 | No rake
+Board: [2c Tc Jc 4h 7d]
+Seat 2: YL_ML_GL_42 showed [Th Qh] and lost with One pair : Tens
+Seat 6: WinaGrams (big blind) showed [8c 4c] and won 11960 with Flush Jack high
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-28-1668796441 - Holdem no limit (25/100/200) - 2022/11/18 18:34:01 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #5 is the button
+Seat 1: lionel62470 (19725)
+Seat 2: YL_ML_GL_42 (25986)
+Seat 3: MonPCD (19975)
+Seat 4: Melodie-2393 (19200)
+Seat 5: LeTchoun (33354)
+Seat 6: WinaGrams (24543)
+*** ANTE/BLINDS ***
+WinaGrams posts ante 25
+lionel62470 posts ante 25
+YL_ML_GL_42 posts ante 25
+MonPCD posts ante 25
+Melodie-2393 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts small blind 100
+lionel62470 posts big blind 200
+Dealt to YL_ML_GL_42 [9h Td]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+MonPCD folds
+Melodie-2393 folds
+LeTchoun calls 200
+WinaGrams folds
+lionel62470 checks
+*** FLOP *** [3h Ad Ah]
+lionel62470 checks
+LeTchoun bets 228
+lionel62470 calls 228
+*** TURN *** [3h Ad Ah][Jd]
+lionel62470 checks
+LeTchoun bets 719
+lionel62470 folds
+LeTchoun collected 1825 from pot
+*** SUMMARY ***
+Total pot 1825 | No rake
+Board: [3h Ad Ah Jd]
+Seat 5: LeTchoun (button) won 1825
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 30 - HandId: #2543171292694053030-29-1668796514 - Holdem no limit (25/100/200) - 2022/11/18 18:35:14 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #6 is the button
+Seat 1: lionel62470 (19272)
+Seat 2: YL_ML_GL_42 (25961)
+Seat 3: MonPCD (19950)
+Seat 4: Melodie-2393 (19175)
+Seat 5: LeTchoun (34007)
+Seat 6: WinaGrams (24418)
+*** ANTE/BLINDS ***
+lionel62470 posts ante 25
+YL_ML_GL_42 posts ante 25
+MonPCD posts ante 25
+Melodie-2393 posts ante 25
+LeTchoun posts ante 25
+WinaGrams posts ante 25
+lionel62470 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [9h 6d]
+*** PRE-FLOP *** 
+MonPCD folds
+Melodie-2393 folds
+LeTchoun raises 250 to 450
+WinaGrams calls 450
+lionel62470 folds
+YL_ML_GL_42 folds
+*** FLOP *** [6s 9c 8h]
+LeTchoun bets 473
+WinaGrams calls 473
+*** TURN *** [6s 9c 8h][4d]
+LeTchoun checks
+WinaGrams checks
+*** RIVER *** [6s 9c 8h 4d][3d]
+LeTchoun bets 804
+WinaGrams folds
+LeTchoun collected 3100 from pot
+*** SUMMARY ***
+Total pot 3100 | No rake
+Board: [6s 9c 8h 4d 3d]
+Seat 5: LeTchoun won 3100
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2543171292694053030-30-1668796585 - Holdem no limit (30/125/250) - 2022/11/18 18:36:25 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #1 is the button
+Seat 1: lionel62470 (19147)
+Seat 2: YL_ML_GL_42 (25736)
+Seat 3: MonPCD (19925)
+Seat 4: Melodie-2393 (19150)
+Seat 5: LeTchoun (35355)
+Seat 6: WinaGrams (23470)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 30
+MonPCD posts ante 30
+lionel62470 posts ante 30
+Melodie-2393 posts ante 30
+LeTchoun posts ante 30
+WinaGrams posts ante 30
+YL_ML_GL_42 posts small blind 125
+MonPCD posts big blind 250
+Dealt to YL_ML_GL_42 [Tc 7h]
+*** PRE-FLOP *** 
+Melodie-2393 folds
+LeTchoun folds
+WinaGrams raises 313 to 563
+lionel62470 folds
+YL_ML_GL_42 folds
+MonPCD calls 313
+*** FLOP *** [Ah 8s 6d]
+MonPCD checks
+WinaGrams bets 716
+MonPCD calls 716
+*** TURN *** [Ah 8s 6d][5d]
+MonPCD checks
+WinaGrams checks
+*** RIVER *** [Ah 8s 6d 5d][Kd]
+MonPCD checks
+WinaGrams bets 2863
+MonPCD calls 2863
+*** SHOW DOWN ***
+MonPCD shows [9c Ad] (One pair : Aces)
+WinaGrams shows [Qd 9d] (Flush King high)
+WinaGrams collected 8589 from pot
+*** SUMMARY ***
+Total pot 8589 | No rake
+Board: [Ah 8s 6d 5d Kd]
+Seat 3: MonPCD (big blind) showed [9c Ad] and lost with One pair : Aces
+Seat 6: WinaGrams showed [Qd 9d] and won 8589 with Flush King high
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2543171292694053030-31-1668796651 - Holdem no limit (30/125/250) - 2022/11/18 18:37:31 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #2 is the button
+Seat 1: lionel62470 (19117)
+Seat 2: YL_ML_GL_42 (25581)
+Seat 3: MonPCD (15753)
+Seat 4: Melodie-2393 (19120)
+Seat 5: LeTchoun (35325)
+Seat 6: WinaGrams (27887)
+*** ANTE/BLINDS ***
+MonPCD posts ante 30
+Melodie-2393 posts ante 30
+lionel62470 posts ante 30
+YL_ML_GL_42 posts ante 30
+LeTchoun posts ante 30
+WinaGrams posts ante 30
+MonPCD posts small blind 125
+Melodie-2393 posts big blind 250
+Dealt to YL_ML_GL_42 [8s 2s]
+*** PRE-FLOP *** 
+LeTchoun folds
+WinaGrams folds
+lionel62470 folds
+YL_ML_GL_42 folds
+MonPCD folds
+Melodie-2393 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Seat 4: Melodie-2393 (big blind) won 555
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2543171292694053030-32-1668796670 - Holdem no limit (30/125/250) - 2022/11/18 18:37:50 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #3 is the button
+Seat 1: lionel62470 (19087)
+Seat 2: YL_ML_GL_42 (25551)
+Seat 3: MonPCD (15598)
+Seat 4: Melodie-2393 (19395)
+Seat 5: LeTchoun (35295)
+Seat 6: WinaGrams (27857)
+*** ANTE/BLINDS ***
+Melodie-2393 posts ante 30
+LeTchoun posts ante 30
+lionel62470 posts ante 30
+YL_ML_GL_42 posts ante 30
+MonPCD posts ante 30
+WinaGrams posts ante 30
+Melodie-2393 posts small blind 125
+LeTchoun posts big blind 250
+Dealt to YL_ML_GL_42 [9d 2s]
+*** PRE-FLOP *** 
+WinaGrams folds
+lionel62470 calls 250
+YL_ML_GL_42 folds
+MonPCD folds
+Melodie-2393 calls 125
+LeTchoun checks
+*** FLOP *** [Ts 7h Ac]
+Melodie-2393 checks
+LeTchoun checks
+lionel62470 bets 930
+Melodie-2393 folds
+LeTchoun folds
+lionel62470 collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [Ts 7h Ac]
+Seat 1: lionel62470 won 1860
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2543171292694053030-33-1668796729 - Holdem no limit (30/125/250) - 2022/11/18 18:38:49 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #4 is the button
+Seat 1: lionel62470 (19737)
+Seat 2: YL_ML_GL_42 (25521)
+Seat 3: MonPCD (15568)
+Seat 4: Melodie-2393 (19115)
+Seat 5: LeTchoun (35015)
+Seat 6: WinaGrams (27827)
+*** ANTE/BLINDS ***
+LeTchoun posts ante 30
+WinaGrams posts ante 30
+lionel62470 posts ante 30
+YL_ML_GL_42 posts ante 30
+MonPCD posts ante 30
+Melodie-2393 posts ante 30
+LeTchoun posts small blind 125
+WinaGrams posts big blind 250
+Dealt to YL_ML_GL_42 [As Ks]
+*** PRE-FLOP *** 
+lionel62470 folds
+YL_ML_GL_42 raises 250 to 500
+MonPCD calls 500
+Melodie-2393 folds
+LeTchoun folds
+WinaGrams folds
+*** FLOP *** [9s 2h 3d]
+YL_ML_GL_42 bets 544
+MonPCD calls 544
+*** TURN *** [9s 2h 3d][5s]
+YL_ML_GL_42 bets 1322
+MonPCD folds
+YL_ML_GL_42 collected 3965 from pot
+*** SUMMARY ***
+Total pot 3965 | No rake
+Board: [9s 2h 3d 5s]
+Seat 2: YL_ML_GL_42 won 3965
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2543171292694053030-34-1668796769 - Holdem no limit (30/125/250) - 2022/11/18 18:39:29 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #5 is the button
+Seat 1: lionel62470 (19707)
+Seat 2: YL_ML_GL_42 (27090)
+Seat 3: MonPCD (14494)
+Seat 4: Melodie-2393 (19085)
+Seat 5: LeTchoun (34860)
+Seat 6: WinaGrams (27547)
+*** ANTE/BLINDS ***
+WinaGrams posts ante 30
+lionel62470 posts ante 30
+YL_ML_GL_42 posts ante 30
+MonPCD posts ante 30
+Melodie-2393 posts ante 30
+LeTchoun posts ante 30
+WinaGrams posts small blind 125
+lionel62470 posts big blind 250
+Dealt to YL_ML_GL_42 [Td 5c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+MonPCD raises 275 to 525
+Melodie-2393 raises 1605 to 2130
+LeTchoun folds
+WinaGrams folds
+lionel62470 folds
+MonPCD calls 1605
+*** FLOP *** [Qh 2d 5h]
+MonPCD checks
+Melodie-2393 bets 1685
+MonPCD folds
+Melodie-2393 collected 6500 from pot
+*** SUMMARY ***
+Total pot 6500 | No rake
+Board: [Qh 2d 5h]
+Seat 4: Melodie-2393 won 6500
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2543171292694053030-35-1668796804 - Holdem no limit (30/125/250) - 2022/11/18 18:40:04 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #6 is the button
+Seat 1: lionel62470 (19427)
+Seat 2: YL_ML_GL_42 (27060)
+Seat 3: MonPCD (12334)
+Seat 4: Melodie-2393 (21740)
+Seat 5: LeTchoun (34830)
+Seat 6: WinaGrams (27392)
+*** ANTE/BLINDS ***
+lionel62470 posts ante 30
+YL_ML_GL_42 posts ante 30
+MonPCD posts ante 30
+Melodie-2393 posts ante 30
+LeTchoun posts ante 30
+WinaGrams posts ante 30
+lionel62470 posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [2h Ks]
+*** PRE-FLOP *** 
+MonPCD folds
+Melodie-2393 folds
+LeTchoun folds
+WinaGrams calls 250
+lionel62470 calls 125
+YL_ML_GL_42 checks
+*** FLOP *** [Ah As 8c]
+lionel62470 checks
+YL_ML_GL_42 checks
+WinaGrams checks
+*** TURN *** [Ah As 8c][3h]
+lionel62470 checks
+YL_ML_GL_42 checks
+WinaGrams checks
+*** RIVER *** [Ah As 8c 3h][5s]
+lionel62470 checks
+YL_ML_GL_42 checks
+WinaGrams bets 2582
+lionel62470 folds
+YL_ML_GL_42 folds
+WinaGrams collected 3512 from pot
+*** SUMMARY ***
+Total pot 3512 | No rake
+Board: [Ah As 8c 3h 5s]
+Seat 6: WinaGrams (button) won 3512
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2543171292694053030-36-1668796871 - Holdem no limit (30/125/250) - 2022/11/18 18:41:11 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #1 is the button
+Seat 1: lionel62470 (19147)
+Seat 2: YL_ML_GL_42 (26780)
+Seat 3: MonPCD (12304)
+Seat 4: Melodie-2393 (21710)
+Seat 5: LeTchoun (34800)
+Seat 6: WinaGrams (28042)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 30
+MonPCD posts ante 30
+lionel62470 posts ante 30
+Melodie-2393 posts ante 30
+LeTchoun posts ante 30
+WinaGrams posts ante 30
+YL_ML_GL_42 posts small blind 125
+MonPCD posts big blind 250
+Dealt to YL_ML_GL_42 [Ts 8c]
+*** PRE-FLOP *** 
+Melodie-2393 folds
+LeTchoun folds
+WinaGrams folds
+lionel62470 folds
+YL_ML_GL_42 folds
+MonPCD collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Seat 3: MonPCD (big blind) won 555
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2543171292694053030-37-1668796903 - Holdem no limit (30/125/250) - 2022/11/18 18:41:43 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #2 is the button
+Seat 1: lionel62470 (19117)
+Seat 2: YL_ML_GL_42 (26625)
+Seat 3: MonPCD (12579)
+Seat 4: Melodie-2393 (21680)
+Seat 5: LeTchoun (34770)
+Seat 6: WinaGrams (28012)
+*** ANTE/BLINDS ***
+MonPCD posts ante 30
+Melodie-2393 posts ante 30
+lionel62470 posts ante 30
+YL_ML_GL_42 posts ante 30
+LeTchoun posts ante 30
+WinaGrams posts ante 30
+MonPCD posts small blind 125
+Melodie-2393 posts big blind 250
+Dealt to YL_ML_GL_42 [8h 6d]
+*** PRE-FLOP *** 
+LeTchoun folds
+WinaGrams calls 250
+lionel62470 raises 18837 to 19087 and is all-in
+YL_ML_GL_42 folds
+MonPCD folds
+Melodie-2393 folds
+WinaGrams folds
+lionel62470 collected 19892 from pot
+*** SUMMARY ***
+Total pot 19892 | No rake
+Seat 1: lionel62470 won 19892
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543171292694053030-38-1668796950 - Holdem no limit (35/150/300) - 2022/11/18 18:42:30 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #3 is the button
+Seat 1: lionel62470 (19892)
+Seat 2: YL_ML_GL_42 (26595)
+Seat 3: MonPCD (12424)
+Seat 4: Melodie-2393 (21400)
+Seat 5: LeTchoun (34740)
+Seat 6: WinaGrams (27732)
+*** ANTE/BLINDS ***
+Melodie-2393 posts ante 35
+LeTchoun posts ante 35
+lionel62470 posts ante 35
+YL_ML_GL_42 posts ante 35
+MonPCD posts ante 35
+WinaGrams posts ante 35
+Melodie-2393 posts small blind 150
+LeTchoun posts big blind 300
+Dealt to YL_ML_GL_42 [5s 3c]
+*** PRE-FLOP *** 
+WinaGrams raises 300 to 600
+lionel62470 folds
+YL_ML_GL_42 folds
+MonPCD folds
+Melodie-2393 calls 450
+LeTchoun calls 300
+*** FLOP *** [7s 7c Jc]
+Melodie-2393 checks
+LeTchoun checks
+WinaGrams checks
+*** TURN *** [7s 7c Jc][7h]
+Melodie-2393 checks
+LeTchoun checks
+WinaGrams bets 704
+Melodie-2393 calls 704
+LeTchoun folds
+*** RIVER *** [7s 7c Jc 7h][Qd]
+Melodie-2393 checks
+WinaGrams bets 3418
+Melodie-2393 folds
+WinaGrams collected 6836 from pot
+*** SUMMARY ***
+Total pot 6836 | No rake
+Board: [7s 7c Jc 7h Qd]
+Seat 6: WinaGrams won 6836
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543171292694053030-39-1668797041 - Holdem no limit (35/150/300) - 2022/11/18 18:44:01 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #4 is the button
+Seat 1: lionel62470 (19857)
+Seat 2: YL_ML_GL_42 (26560)
+Seat 3: MonPCD (12389)
+Seat 4: Melodie-2393 (20061)
+Seat 5: LeTchoun (34105)
+Seat 6: WinaGrams (29811)
+*** ANTE/BLINDS ***
+LeTchoun posts ante 35
+WinaGrams posts ante 35
+lionel62470 posts ante 35
+YL_ML_GL_42 posts ante 35
+MonPCD posts ante 35
+Melodie-2393 posts ante 35
+LeTchoun posts small blind 150
+WinaGrams posts big blind 300
+Dealt to YL_ML_GL_42 [Tc 9c]
+*** PRE-FLOP *** 
+lionel62470 calls 300
+YL_ML_GL_42 raises 300 to 600
+MonPCD folds
+Melodie-2393 raises 900 to 1500
+LeTchoun folds
+WinaGrams folds
+lionel62470 folds
+YL_ML_GL_42 calls 900
+*** FLOP *** [Kc Jd 9s]
+YL_ML_GL_42 bets 2574
+Melodie-2393 raises 5019 to 7593
+YL_ML_GL_42 raises 17432 to 25025 and is all-in
+Melodie-2393 calls 10933 and is all-in
+*** TURN *** [Kc Jd 9s][4h]
+*** RIVER *** [Kc Jd 9s 4h][3c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Tc 9c] (One pair : 9)
+Melodie-2393 shows [Ac As] (One pair : Aces)
+Melodie-2393 collected 41012 from main pot
+YL_ML_GL_42 collected 6499 from side pot 1
+*** SUMMARY ***
+Total pot 47511 | No rake
+Board: [Kc Jd 9s 4h 3c]
+Seat 2: YL_ML_GL_42 showed [Tc 9c] and won 6499 with One pair : 9
+Seat 4: Melodie-2393 (button) showed [Ac As] and won 41012 with One pair : Aces
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543171292694053030-40-1668797114 - Holdem no limit (35/150/300) - 2022/11/18 18:45:14 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #5 is the button
+Seat 1: lionel62470 (19522)
+Seat 2: YL_ML_GL_42 (6499)
+Seat 3: MonPCD (12354)
+Seat 4: Melodie-2393 (41012)
+Seat 5: LeTchoun (33920)
+Seat 6: WinaGrams (29476)
+*** ANTE/BLINDS ***
+WinaGrams posts ante 35
+lionel62470 posts ante 35
+YL_ML_GL_42 posts ante 35
+MonPCD posts ante 35
+Melodie-2393 posts ante 35
+LeTchoun posts ante 35
+WinaGrams posts small blind 150
+lionel62470 posts big blind 300
+Dealt to YL_ML_GL_42 [4c 3d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+MonPCD folds
+Melodie-2393 folds
+LeTchoun raises 375 to 675
+WinaGrams folds
+lionel62470 raises 18812 to 19487 and is all-in
+LeTchoun folds
+lionel62470 collected 20522 from pot
+*** SUMMARY ***
+Total pot 20522 | No rake
+Seat 1: lionel62470 (big blind) won 20522
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543171292694053030-41-1668797168 - Holdem no limit (35/150/300) - 2022/11/18 18:46:08 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #6 is the button
+Seat 1: lionel62470 (20522)
+Seat 2: YL_ML_GL_42 (6464)
+Seat 3: MonPCD (12319)
+Seat 4: Melodie-2393 (40977)
+Seat 5: LeTchoun (33210)
+Seat 6: WinaGrams (29291)
+*** ANTE/BLINDS ***
+lionel62470 posts ante 35
+YL_ML_GL_42 posts ante 35
+MonPCD posts ante 35
+Melodie-2393 posts ante 35
+LeTchoun posts ante 35
+WinaGrams posts ante 35
+lionel62470 posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [7h 5h]
+*** PRE-FLOP *** 
+MonPCD folds
+Melodie-2393 folds
+LeTchoun folds
+WinaGrams folds
+lionel62470 calls 150
+YL_ML_GL_42 checks
+*** FLOP *** [Qc Tc 4s]
+lionel62470 checks
+YL_ML_GL_42 checks
+*** TURN *** [Qc Tc 4s][9d]
+lionel62470 checks
+YL_ML_GL_42 checks
+*** RIVER *** [Qc Tc 4s 9d][8c]
+lionel62470 checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7h 5h] (High card : Queen)
+lionel62470 shows [3c 3s] (One pair : 3)
+lionel62470 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [Qc Tc 4s 9d 8c]
+Seat 1: lionel62470 (small blind) showed [3c 3s] and won 810 with One pair : 3
+Seat 2: YL_ML_GL_42 (big blind) showed [7h 5h] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543171292694053030-42-1668797221 - Holdem no limit (35/150/300) - 2022/11/18 18:47:01 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #1 is the button
+Seat 1: lionel62470 (20997)
+Seat 2: YL_ML_GL_42 (6129)
+Seat 3: MonPCD (12284)
+Seat 4: Melodie-2393 (40942)
+Seat 5: LeTchoun (33175)
+Seat 6: WinaGrams (29256)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+MonPCD posts ante 35
+lionel62470 posts ante 35
+Melodie-2393 posts ante 35
+LeTchoun posts ante 35
+WinaGrams posts ante 35
+YL_ML_GL_42 posts small blind 150
+MonPCD posts big blind 300
+Dealt to YL_ML_GL_42 [Qh Td]
+*** PRE-FLOP *** 
+Melodie-2393 calls 300
+LeTchoun folds
+WinaGrams folds
+lionel62470 raises 1260 to 1560
+YL_ML_GL_42 folds
+MonPCD folds
+Melodie-2393 folds
+lionel62470 collected 2520 from pot
+*** SUMMARY ***
+Total pot 2520 | No rake
+Seat 1: lionel62470 (button) won 2520
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543171292694053030-43-1668797264 - Holdem no limit (35/150/300) - 2022/11/18 18:47:44 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #2 is the button
+Seat 1: lionel62470 (21922)
+Seat 2: YL_ML_GL_42 (5944)
+Seat 3: MonPCD (11949)
+Seat 4: Melodie-2393 (40607)
+Seat 5: LeTchoun (33140)
+Seat 6: WinaGrams (29221)
+*** ANTE/BLINDS ***
+MonPCD posts ante 35
+Melodie-2393 posts ante 35
+lionel62470 posts ante 35
+YL_ML_GL_42 posts ante 35
+LeTchoun posts ante 35
+WinaGrams posts ante 35
+MonPCD posts small blind 150
+Melodie-2393 posts big blind 300
+Dealt to YL_ML_GL_42 [Kc 6h]
+*** PRE-FLOP *** 
+LeTchoun folds
+WinaGrams raises 375 to 675
+lionel62470 folds
+YL_ML_GL_42 folds
+MonPCD folds
+Melodie-2393 calls 375
+*** FLOP *** [Qs Th Ac]
+Melodie-2393 checks
+WinaGrams bets 1112
+Melodie-2393 calls 1112
+*** TURN *** [Qs Th Ac][7c]
+Melodie-2393 checks
+WinaGrams bets 984
+Melodie-2393 raises 3492 to 4476
+WinaGrams calls 3492
+*** RIVER *** [Qs Th Ac 7c][6s]
+Melodie-2393 checks
+WinaGrams checks
+*** SHOW DOWN ***
+WinaGrams shows [Qc Js] (One pair : Queens)
+Melodie-2393 shows [As 7d] (Two pairs : Aces and 7)
+Melodie-2393 collected 12886 from pot
+*** SUMMARY ***
+Total pot 12886 | No rake
+Board: [Qs Th Ac 7c 6s]
+Seat 4: Melodie-2393 (big blind) showed [As 7d] and won 12886 with Two pairs : Aces and 7
+Seat 6: WinaGrams showed [Qc Js] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543171292694053030-44-1668797321 - Holdem no limit (35/150/300) - 2022/11/18 18:48:41 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #3 is the button
+Seat 1: lionel62470 (21887)
+Seat 2: YL_ML_GL_42 (5909)
+Seat 3: MonPCD (11764)
+Seat 4: Melodie-2393 (47195)
+Seat 5: LeTchoun (33105)
+*** ANTE/BLINDS ***
+Melodie-2393 posts ante 35
+LeTchoun posts ante 35
+lionel62470 posts ante 35
+YL_ML_GL_42 posts ante 35
+MonPCD posts ante 35
+Melodie-2393 posts small blind 150
+LeTchoun posts big blind 300
+Dealt to YL_ML_GL_42 [5c Ad]
+*** PRE-FLOP *** 
+lionel62470 folds
+YL_ML_GL_42 raises 5574 to 5874 and is all-in
+MonPCD folds
+Melodie-2393 folds
+LeTchoun folds
+YL_ML_GL_42 collected 6499 from pot
+*** SUMMARY ***
+Total pot 6499 | No rake
+Seat 2: YL_ML_GL_42 won 6499
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543171292694053030-45-1668797344 - Holdem no limit (35/150/300) - 2022/11/18 18:49:04 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #4 is the button
+Seat 1: lionel62470 (21852)
+Seat 2: YL_ML_GL_42 (6499)
+Seat 3: MonPCD (11729)
+Seat 4: Melodie-2393 (47010)
+Seat 5: LeTchoun (32770)
+Seat 6: Heroazote (20000)
+*** ANTE/BLINDS ***
+LeTchoun posts ante 35
+Heroazote posts ante 35
+lionel62470 posts ante 35
+YL_ML_GL_42 posts ante 35
+MonPCD posts ante 35
+Melodie-2393 posts ante 35
+LeTchoun posts small blind 150
+Heroazote posts big blind 300
+Dealt to YL_ML_GL_42 [Ks 8c]
+*** PRE-FLOP *** 
+lionel62470 folds
+YL_ML_GL_42 folds
+MonPCD folds
+Melodie-2393 folds
+LeTchoun folds
+Heroazote collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 6: Heroazote (big blind) won 660
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2543171292694053030-46-1668797353 - Holdem no limit (35/150/300) - 2022/11/18 18:49:13 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #5 is the button
+Seat 1: lionel62470 (21817)
+Seat 2: YL_ML_GL_42 (6464)
+Seat 3: MonPCD (11694)
+Seat 4: Melodie-2393 (46975)
+Seat 5: LeTchoun (32585)
+Seat 6: Heroazote (20325)
+*** ANTE/BLINDS ***
+Heroazote posts ante 35
+lionel62470 posts ante 35
+YL_ML_GL_42 posts ante 35
+MonPCD posts ante 35
+Melodie-2393 posts ante 35
+LeTchoun posts ante 35
+Heroazote posts small blind 150
+lionel62470 posts big blind 300
+Dealt to YL_ML_GL_42 [Qd Js]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 300 to 600
+MonPCD folds
+Melodie-2393 calls 600
+LeTchoun folds
+Heroazote folds
+lionel62470 folds
+*** FLOP *** [3c 7c Qs]
+YL_ML_GL_42 bets 1209
+Melodie-2393 folds
+YL_ML_GL_42 collected 3069 from pot
+*** SUMMARY ***
+Total pot 3069 | No rake
+Board: [3c 7c Qs]
+Seat 2: YL_ML_GL_42 won 3069
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2543171292694053030-47-1668797377 - Holdem no limit (40/175/350) - 2022/11/18 18:49:37 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #6 is the button
+Seat 1: lionel62470 (21482)
+Seat 2: YL_ML_GL_42 (7689)
+Seat 3: MonPCD (11659)
+Seat 4: Melodie-2393 (46340)
+Seat 5: LeTchoun (32550)
+Seat 6: Heroazote (20140)
+*** ANTE/BLINDS ***
+lionel62470 posts ante 40
+YL_ML_GL_42 posts ante 40
+MonPCD posts ante 40
+Melodie-2393 posts ante 40
+LeTchoun posts ante 40
+Heroazote posts ante 40
+lionel62470 posts small blind 175
+YL_ML_GL_42 posts big blind 350
+Dealt to YL_ML_GL_42 [9s 4s]
+*** PRE-FLOP *** 
+MonPCD raises 385 to 735
+Melodie-2393 folds
+LeTchoun folds
+Heroazote folds
+lionel62470 calls 560
+YL_ML_GL_42 calls 385
+*** FLOP *** [Qc 3s 7d]
+lionel62470 bets 20707 and is all-in
+YL_ML_GL_42 folds
+MonPCD folds
+lionel62470 collected 23152 from pot
+*** SUMMARY ***
+Total pot 23152 | No rake
+Board: [Qc 3s 7d]
+Seat 1: lionel62470 (small blind) won 23152
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2543171292694053030-48-1668797403 - Holdem no limit (40/175/350) - 2022/11/18 18:50:03 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #1 is the button
+Seat 1: lionel62470 (23152)
+Seat 2: YL_ML_GL_42 (6914)
+Seat 3: MonPCD (10884)
+Seat 4: Melodie-2393 (46300)
+Seat 5: LeTchoun (32510)
+Seat 6: Heroazote (20100)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 40
+MonPCD posts ante 40
+lionel62470 posts ante 40
+Melodie-2393 posts ante 40
+LeTchoun posts ante 40
+Heroazote posts ante 40
+YL_ML_GL_42 posts small blind 175
+MonPCD posts big blind 350
+Dealt to YL_ML_GL_42 [Qc Th]
+*** PRE-FLOP *** 
+Melodie-2393 folds
+LeTchoun folds
+Heroazote folds
+lionel62470 folds
+YL_ML_GL_42 raises 525 to 875
+MonPCD calls 525
+*** FLOP *** [Ac 6d 8s]
+YL_ML_GL_42 bets 5999 and is all-in
+MonPCD folds
+YL_ML_GL_42 collected 7989 from pot
+*** SUMMARY ***
+Total pot 7989 | No rake
+Board: [Ac 6d 8s]
+Seat 2: YL_ML_GL_42 (small blind) won 7989
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2543171292694053030-49-1668797479 - Holdem no limit (40/175/350) - 2022/11/18 18:51:19 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #2 is the button
+Seat 1: lionel62470 (23112)
+Seat 2: YL_ML_GL_42 (7989)
+Seat 3: MonPCD (9969)
+Seat 4: Melodie-2393 (46260)
+Seat 5: LeTchoun (32470)
+Seat 6: Heroazote (20060)
+*** ANTE/BLINDS ***
+MonPCD posts ante 40
+Melodie-2393 posts ante 40
+lionel62470 posts ante 40
+YL_ML_GL_42 posts ante 40
+LeTchoun posts ante 40
+Heroazote posts ante 40
+MonPCD posts small blind 175
+Melodie-2393 posts big blind 350
+Dealt to YL_ML_GL_42 [Tc 7c]
+*** PRE-FLOP *** 
+LeTchoun folds
+Heroazote folds
+lionel62470 folds
+YL_ML_GL_42 folds
+MonPCD calls 175
+Melodie-2393 raises 45870 to 46220 and is all-in
+MonPCD folds
+Melodie-2393 collected 46810 from pot
+*** SUMMARY ***
+Total pot 46810 | No rake
+Seat 4: Melodie-2393 (big blind) won 46810
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2543171292694053030-50-1668797517 - Holdem no limit (40/175/350) - 2022/11/18 18:51:57 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #3 is the button
+Seat 1: lionel62470 (23072)
+Seat 2: YL_ML_GL_42 (7949)
+Seat 3: MonPCD (9579)
+Seat 4: Melodie-2393 (46810)
+Seat 5: LeTchoun (32430)
+Seat 6: Heroazote (20020)
+*** ANTE/BLINDS ***
+Melodie-2393 posts ante 40
+LeTchoun posts ante 40
+lionel62470 posts ante 40
+YL_ML_GL_42 posts ante 40
+MonPCD posts ante 40
+Heroazote posts ante 40
+Melodie-2393 posts small blind 175
+LeTchoun posts big blind 350
+Dealt to YL_ML_GL_42 [6s 8h]
+*** PRE-FLOP *** 
+Heroazote folds
+lionel62470 folds
+YL_ML_GL_42 folds
+MonPCD raises 385 to 735
+Melodie-2393 folds
+LeTchoun folds
+MonPCD collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 3: MonPCD (button) won 1500
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2543171292694053030-51-1668797569 - Holdem no limit (40/175/350) - 2022/11/18 18:52:49 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #4 is the button
+Seat 1: lionel62470 (23032)
+Seat 2: YL_ML_GL_42 (7909)
+Seat 3: MonPCD (10304)
+Seat 4: Melodie-2393 (46595)
+Seat 5: LeTchoun (32040)
+Seat 6: Heroazote (19980)
+*** ANTE/BLINDS ***
+LeTchoun posts ante 40
+Heroazote posts ante 40
+lionel62470 posts ante 40
+YL_ML_GL_42 posts ante 40
+MonPCD posts ante 40
+Melodie-2393 posts ante 40
+LeTchoun posts small blind 175
+Heroazote posts big blind 350
+Dealt to YL_ML_GL_42 [4h 5s]
+*** PRE-FLOP *** 
+lionel62470 calls 350
+YL_ML_GL_42 folds
+MonPCD calls 350
+Melodie-2393 calls 350
+LeTchoun folds
+Heroazote checks
+*** FLOP *** [2s 6s 3h]
+Heroazote checks
+lionel62470 checks
+MonPCD checks
+Melodie-2393 bets 1815
+Heroazote calls 1815
+lionel62470 folds
+MonPCD folds
+*** TURN *** [2s 6s 3h][Tc]
+Heroazote checks
+Melodie-2393 bets 5445
+Heroazote folds
+Melodie-2393 collected 10890 from pot
+*** SUMMARY ***
+Total pot 10890 | No rake
+Board: [2s 6s 3h Tc]
+Seat 4: Melodie-2393 (button) won 10890
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2543171292694053030-52-1668797671 - Holdem no limit (40/175/350) - 2022/11/18 18:54:31 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #5 is the button
+Seat 1: lionel62470 (22642)
+Seat 2: YL_ML_GL_42 (7869)
+Seat 3: MonPCD (9914)
+Seat 4: Melodie-2393 (49835)
+Seat 5: LeTchoun (31825)
+Seat 6: Heroazote (17775)
+*** ANTE/BLINDS ***
+Heroazote posts ante 40
+lionel62470 posts ante 40
+YL_ML_GL_42 posts ante 40
+MonPCD posts ante 40
+Melodie-2393 posts ante 40
+LeTchoun posts ante 40
+Heroazote posts small blind 175
+lionel62470 posts big blind 350
+Dealt to YL_ML_GL_42 [Jc As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 350 to 700
+MonPCD folds
+Melodie-2393 folds
+LeTchoun folds
+Heroazote folds
+lionel62470 calls 350
+*** FLOP *** [Ac 2d 4h]
+lionel62470 checks
+YL_ML_GL_42 checks
+*** TURN *** [Ac 2d 4h][Qc]
+lionel62470 bets 350
+YL_ML_GL_42 raises 653 to 1003
+lionel62470 folds
+YL_ML_GL_42 collected 3168 from pot
+*** SUMMARY ***
+Total pot 3168 | No rake
+Board: [Ac 2d 4h Qc]
+Seat 2: YL_ML_GL_42 won 3168
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2543171292694053030-53-1668798063 - Holdem no limit (40/175/350) - 2022/11/18 19:01:03 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #6 is the button
+Seat 1: lionel62470 (21552)
+Seat 2: YL_ML_GL_42 (9294)
+Seat 3: MonPCD (9874)
+Seat 4: Melodie-2393 (49795)
+Seat 5: LeTchoun (31785)
+Seat 6: Heroazote (17560)
+*** ANTE/BLINDS ***
+lionel62470 posts ante 40
+YL_ML_GL_42 posts ante 40
+MonPCD posts ante 40
+Melodie-2393 posts ante 40
+LeTchoun posts ante 40
+Heroazote posts ante 40
+lionel62470 posts small blind 175
+YL_ML_GL_42 posts big blind 350
+Dealt to YL_ML_GL_42 [8c Ks]
+*** PRE-FLOP *** 
+MonPCD raises 385 to 735
+Melodie-2393 folds
+LeTchoun folds
+Heroazote folds
+lionel62470 calls 560
+YL_ML_GL_42 calls 385
+*** FLOP *** [Ac 9s 3c]
+lionel62470 checks
+YL_ML_GL_42 bets 1223
+MonPCD calls 1223
+lionel62470 calls 1223
+*** TURN *** [Ac 9s 3c][Jh]
+lionel62470 checks
+YL_ML_GL_42 checks
+MonPCD bets 7876 and is all-in
+lionel62470 calls 7876
+YL_ML_GL_42 folds
+*** RIVER *** [Ac 9s 3c Jh][2d]
+*** SHOW DOWN ***
+lionel62470 shows [8h Ad] (One pair : Aces)
+MonPCD shows [Ts As] (One pair : Aces)
+MonPCD collected 21866 from pot
+*** SUMMARY ***
+Total pot 21866 | No rake
+Board: [Ac 9s 3c Jh 2d]
+Seat 1: lionel62470 (small blind) showed [8h Ad] and lost with One pair : Aces
+Seat 3: MonPCD showed [Ts As] and won 21866 with One pair : Aces
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2543171292694053030-54-1668798116 - Holdem no limit (40/175/350) - 2022/11/18 19:01:56 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #1 is the button
+Seat 1: lionel62470 (11678)
+Seat 2: YL_ML_GL_42 (7296)
+Seat 3: MonPCD (21866)
+Seat 4: Melodie-2393 (49755)
+Seat 5: LeTchoun (31745)
+Seat 6: Heroazote (17520)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 40
+MonPCD posts ante 40
+lionel62470 posts ante 40
+Melodie-2393 posts ante 40
+LeTchoun posts ante 40
+Heroazote posts ante 40
+YL_ML_GL_42 posts small blind 175
+MonPCD posts big blind 350
+Dealt to YL_ML_GL_42 [9s 5h]
+*** PRE-FLOP *** 
+Melodie-2393 folds
+LeTchoun raises 416 to 766
+Heroazote folds
+lionel62470 calls 766
+YL_ML_GL_42 folds
+MonPCD folds
+*** FLOP *** [9d 5s 8h]
+LeTchoun bets 804
+lionel62470 folds
+LeTchoun collected 3101 from pot
+*** SUMMARY ***
+Total pot 3101 | No rake
+Board: [9d 5s 8h]
+Seat 5: LeTchoun won 3101
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543171292694053030-55-1668798158 - Holdem no limit (50/200/400) - 2022/11/18 19:02:38 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #2 is the button
+Seat 1: lionel62470 (10872)
+Seat 2: YL_ML_GL_42 (7081)
+Seat 3: MonPCD (21476)
+Seat 4: Melodie-2393 (49715)
+Seat 5: LeTchoun (33236)
+Seat 6: Heroazote (17480)
+*** ANTE/BLINDS ***
+MonPCD posts ante 50
+Melodie-2393 posts ante 50
+lionel62470 posts ante 50
+YL_ML_GL_42 posts ante 50
+LeTchoun posts ante 50
+Heroazote posts ante 50
+MonPCD posts small blind 200
+Melodie-2393 posts big blind 400
+Dealt to YL_ML_GL_42 [5d Qd]
+*** PRE-FLOP *** 
+LeTchoun folds
+Heroazote folds
+lionel62470 calls 400
+YL_ML_GL_42 folds
+MonPCD calls 200
+Melodie-2393 checks
+*** FLOP *** [4s 3s Ah]
+MonPCD checks
+Melodie-2393 checks
+lionel62470 checks
+*** TURN *** [4s 3s Ah][Ks]
+MonPCD checks
+Melodie-2393 checks
+lionel62470 checks
+*** RIVER *** [4s 3s Ah Ks][Kd]
+MonPCD checks
+Melodie-2393 checks
+lionel62470 checks
+*** SHOW DOWN ***
+lionel62470 shows [8c Th] (One pair : Kings)
+MonPCD shows [8h Jh] (One pair : Kings)
+Melodie-2393 shows [Tc Js] (One pair : Kings)
+Melodie-2393 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [4s 3s Ah Ks Kd]
+Seat 1: lionel62470 showed [8c Th] and lost with One pair : Kings
+Seat 3: MonPCD (small blind) showed [8h Jh] and lost with One pair : Kings
+Seat 4: Melodie-2393 (big blind) showed [Tc Js] and won 1500 with One pair : Kings
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543171292694053030-56-1668798244 - Holdem no limit (50/200/400) - 2022/11/18 19:04:04 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #3 is the button
+Seat 1: lionel62470 (10422)
+Seat 2: YL_ML_GL_42 (7031)
+Seat 3: MonPCD (21026)
+Seat 4: Melodie-2393 (50765)
+Seat 5: LeTchoun (33186)
+Seat 6: Heroazote (17430)
+*** ANTE/BLINDS ***
+Melodie-2393 posts ante 50
+LeTchoun posts ante 50
+lionel62470 posts ante 50
+YL_ML_GL_42 posts ante 50
+MonPCD posts ante 50
+Heroazote posts ante 50
+Melodie-2393 posts small blind 200
+LeTchoun posts big blind 400
+Dealt to YL_ML_GL_42 [Jd 5d]
+*** PRE-FLOP *** 
+Heroazote folds
+lionel62470 folds
+YL_ML_GL_42 folds
+MonPCD folds
+Melodie-2393 raises 400 to 800
+LeTchoun folds
+Melodie-2393 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 4: Melodie-2393 (small blind) won 1500
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543171292694053030-57-1668798269 - Holdem no limit (50/200/400) - 2022/11/18 19:04:29 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #4 is the button
+Seat 1: lionel62470 (10372)
+Seat 2: YL_ML_GL_42 (6981)
+Seat 3: MonPCD (20976)
+Seat 4: Melodie-2393 (51415)
+Seat 5: LeTchoun (32736)
+Seat 6: Heroazote (17380)
+*** ANTE/BLINDS ***
+LeTchoun posts ante 50
+Heroazote posts ante 50
+lionel62470 posts ante 50
+YL_ML_GL_42 posts ante 50
+MonPCD posts ante 50
+Melodie-2393 posts ante 50
+LeTchoun posts small blind 200
+Heroazote posts big blind 400
+Dealt to YL_ML_GL_42 [Jc 7c]
+*** PRE-FLOP *** 
+lionel62470 folds
+YL_ML_GL_42 folds
+MonPCD raises 440 to 840
+Melodie-2393 folds
+LeTchoun raises 440 to 1280
+Heroazote folds
+MonPCD calls 440
+*** FLOP *** [4d 6s Kd]
+LeTchoun bets 1141
+MonPCD folds
+LeTchoun collected 4401 from pot
+*** SUMMARY ***
+Total pot 4401 | No rake
+Board: [4d 6s Kd]
+Seat 5: LeTchoun (small blind) won 4401
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543171292694053030-58-1668798305 - Holdem no limit (50/200/400) - 2022/11/18 19:05:05 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #5 is the button
+Seat 1: lionel62470 (10322)
+Seat 2: YL_ML_GL_42 (6931)
+Seat 3: MonPCD (19646)
+Seat 4: Melodie-2393 (51365)
+Seat 5: LeTchoun (34666)
+Seat 6: Heroazote (16930)
+*** ANTE/BLINDS ***
+Heroazote posts ante 50
+lionel62470 posts ante 50
+YL_ML_GL_42 posts ante 50
+MonPCD posts ante 50
+Melodie-2393 posts ante 50
+LeTchoun posts ante 50
+Heroazote posts small blind 200
+lionel62470 posts big blind 400
+Dealt to YL_ML_GL_42 [7s 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 6481 to 6881 and is all-in
+MonPCD folds
+Melodie-2393 folds
+LeTchoun folds
+Heroazote folds
+lionel62470 folds
+YL_ML_GL_42 collected 7781 from pot
+*** SUMMARY ***
+Total pot 7781 | No rake
+Seat 2: YL_ML_GL_42 won 7781
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543171292694053030-59-1668798317 - Holdem no limit (50/200/400) - 2022/11/18 19:05:17 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #6 is the button
+Seat 1: lionel62470 (9872)
+Seat 2: YL_ML_GL_42 (7781)
+Seat 3: MonPCD (19596)
+Seat 4: Melodie-2393 (51315)
+Seat 5: LeTchoun (34616)
+Seat 6: Heroazote (16680)
+*** ANTE/BLINDS ***
+lionel62470 posts ante 50
+YL_ML_GL_42 posts ante 50
+MonPCD posts ante 50
+Melodie-2393 posts ante 50
+LeTchoun posts ante 50
+Heroazote posts ante 50
+lionel62470 posts small blind 200
+YL_ML_GL_42 posts big blind 400
+Dealt to YL_ML_GL_42 [9c Js]
+*** PRE-FLOP *** 
+MonPCD folds
+Melodie-2393 folds
+LeTchoun raises 500 to 900
+Heroazote raises 1900 to 2800
+lionel62470 raises 7022 to 9822 and is all-in
+YL_ML_GL_42 folds
+LeTchoun folds
+Heroazote calls 7022
+*** FLOP *** [Qh 4d Ad]
+*** TURN *** [Qh 4d Ad][Kh]
+*** RIVER *** [Qh 4d Ad Kh][5s]
+*** SHOW DOWN ***
+lionel62470 shows [Ks Jh] (One pair : Kings)
+Heroazote shows [Jc Ac] (One pair : Aces)
+Heroazote collected 21244 from pot
+*** SUMMARY ***
+Total pot 21244 | No rake
+Board: [Qh 4d Ad Kh 5s]
+Seat 1: lionel62470 (small blind) showed [Ks Jh] and lost with One pair : Kings
+Seat 6: Heroazote (button) showed [Jc Ac] and won 21244 with One pair : Aces
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543171292694053030-60-1668798374 - Holdem no limit (50/200/400) - 2022/11/18 19:06:14 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #1 is the button
+Seat 2: YL_ML_GL_42 (7331)
+Seat 3: MonPCD (19546)
+Seat 4: Melodie-2393 (51265)
+Seat 5: LeTchoun (33666)
+Seat 6: Heroazote (28052)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 50
+MonPCD posts ante 50
+Melodie-2393 posts ante 50
+LeTchoun posts ante 50
+Heroazote posts ante 50
+YL_ML_GL_42 posts small blind 200
+MonPCD posts big blind 400
+Dealt to YL_ML_GL_42 [7d Js]
+*** PRE-FLOP *** 
+Melodie-2393 folds
+LeTchoun folds
+Heroazote folds
+YL_ML_GL_42 folds
+MonPCD collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 3: MonPCD (big blind) won 850
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543171292694053030-61-1668798384 - Holdem no limit (50/200/400) - 2022/11/18 19:06:24 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #2 is the button
+Seat 1: Bernardes2 (20000)
+Seat 2: YL_ML_GL_42 (7081)
+Seat 3: MonPCD (19946)
+Seat 4: Melodie-2393 (51215)
+Seat 5: LeTchoun (33616)
+Seat 6: Heroazote (28002)
+*** ANTE/BLINDS ***
+MonPCD posts ante 50
+Melodie-2393 posts ante 50
+Bernardes2 posts ante 50
+YL_ML_GL_42 posts ante 50
+LeTchoun posts ante 50
+Heroazote posts ante 50
+MonPCD posts small blind 200
+Melodie-2393 posts big blind 400
+Dealt to YL_ML_GL_42 [2c 9d]
+*** PRE-FLOP *** 
+LeTchoun folds
+Heroazote folds
+Bernardes2 folds
+YL_ML_GL_42 folds
+MonPCD folds
+Melodie-2393 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 4: Melodie-2393 (big blind) won 900
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543171292694053030-62-1668798397 - Holdem no limit (50/200/400) - 2022/11/18 19:06:37 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #3 is the button
+Seat 1: Bernardes2 (19950)
+Seat 2: YL_ML_GL_42 (7031)
+Seat 3: MonPCD (19696)
+Seat 4: Melodie-2393 (51665)
+Seat 5: LeTchoun (33566)
+Seat 6: Heroazote (27952)
+*** ANTE/BLINDS ***
+Melodie-2393 posts ante 50
+LeTchoun posts ante 50
+Bernardes2 posts ante 50
+YL_ML_GL_42 posts ante 50
+MonPCD posts ante 50
+Heroazote posts ante 50
+Melodie-2393 posts small blind 200
+LeTchoun posts big blind 400
+Dealt to YL_ML_GL_42 [Js 2c]
+*** PRE-FLOP *** 
+Heroazote folds
+Bernardes2 folds
+YL_ML_GL_42 folds
+MonPCD raises 440 to 840
+Melodie-2393 folds
+LeTchoun folds
+MonPCD collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Seat 3: MonPCD (button) won 1740
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543171292694053030-63-1668798429 - Holdem no limit (50/200/400) - 2022/11/18 19:07:09 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #4 is the button
+Seat 1: Bernardes2 (19900)
+Seat 2: YL_ML_GL_42 (6981)
+Seat 3: MonPCD (20546)
+Seat 4: Melodie-2393 (51415)
+Seat 5: LeTchoun (33116)
+Seat 6: Heroazote (27902)
+*** ANTE/BLINDS ***
+LeTchoun posts ante 50
+Heroazote posts ante 50
+Bernardes2 posts ante 50
+YL_ML_GL_42 posts ante 50
+MonPCD posts ante 50
+Melodie-2393 posts ante 50
+LeTchoun posts small blind 200
+Heroazote posts big blind 400
+Dealt to YL_ML_GL_42 [Ac Ad]
+*** PRE-FLOP *** 
+Bernardes2 folds
+YL_ML_GL_42 raises 6531 to 6931 and is all-in
+MonPCD folds
+Melodie-2393 folds
+LeTchoun folds
+Heroazote folds
+YL_ML_GL_42 collected 7831 from pot
+*** SUMMARY ***
+Total pot 7831 | No rake
+Seat 2: YL_ML_GL_42 won 7831
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543171292694053030-64-1668798445 - Holdem no limit (50/200/400) - 2022/11/18 19:07:25 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #5 is the button
+Seat 1: Bernardes2 (19850)
+Seat 2: YL_ML_GL_42 (7831)
+Seat 3: MonPCD (20496)
+Seat 4: Melodie-2393 (51365)
+Seat 5: LeTchoun (32866)
+Seat 6: Heroazote (27452)
+*** ANTE/BLINDS ***
+Heroazote posts ante 50
+Bernardes2 posts ante 50
+YL_ML_GL_42 posts ante 50
+MonPCD posts ante 50
+Melodie-2393 posts ante 50
+LeTchoun posts ante 50
+Heroazote posts small blind 200
+Bernardes2 posts big blind 400
+Dealt to YL_ML_GL_42 [4s 9s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+MonPCD raises 440 to 840
+Melodie-2393 folds
+LeTchoun folds
+Heroazote folds
+Bernardes2 folds
+MonPCD collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Seat 3: MonPCD won 1740
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543171292694053030-65-1668798481 - Holdem no limit (50/200/400) - 2022/11/18 19:08:01 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #6 is the button
+Seat 1: Bernardes2 (19400)
+Seat 2: YL_ML_GL_42 (7781)
+Seat 3: MonPCD (21346)
+Seat 4: Melodie-2393 (51315)
+Seat 5: LeTchoun (32816)
+Seat 6: Heroazote (27202)
+*** ANTE/BLINDS ***
+Bernardes2 posts ante 50
+YL_ML_GL_42 posts ante 50
+MonPCD posts ante 50
+Melodie-2393 posts ante 50
+LeTchoun posts ante 50
+Heroazote posts ante 50
+Bernardes2 posts small blind 200
+YL_ML_GL_42 posts big blind 400
+Dealt to YL_ML_GL_42 [6h 8h]
+*** PRE-FLOP *** 
+MonPCD folds
+Melodie-2393 folds
+LeTchoun folds
+Heroazote folds
+Bernardes2 folds
+YL_ML_GL_42 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 900
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543171292694053030-66-1668798494 - Holdem no limit (50/200/400) - 2022/11/18 19:08:14 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #1 is the button
+Seat 1: Bernardes2 (19150)
+Seat 2: YL_ML_GL_42 (8231)
+Seat 3: MonPCD (21296)
+Seat 5: LeTchoun (32766)
+Seat 6: Heroazote (27152)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 50
+MonPCD posts ante 50
+Bernardes2 posts ante 50
+LeTchoun posts ante 50
+Heroazote posts ante 50
+YL_ML_GL_42 posts small blind 200
+MonPCD posts big blind 400
+Dealt to YL_ML_GL_42 [Td 5h]
+*** PRE-FLOP *** 
+LeTchoun folds
+Heroazote folds
+Bernardes2 folds
+YL_ML_GL_42 folds
+MonPCD collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 3: MonPCD (big blind) won 850
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543171292694053030-67-1668798508 - Holdem no limit (50/200/400) - 2022/11/18 19:08:28 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #2 is the button
+Seat 1: Bernardes2 (19100)
+Seat 2: YL_ML_GL_42 (7981)
+Seat 3: MonPCD (21696)
+Seat 4: Nistun (20000)
+Seat 5: LeTchoun (32716)
+Seat 6: Heroazote (27102)
+*** ANTE/BLINDS ***
+MonPCD posts ante 50
+Nistun posts ante 50
+Bernardes2 posts ante 50
+YL_ML_GL_42 posts ante 50
+LeTchoun posts ante 50
+Heroazote posts ante 50
+MonPCD posts small blind 200
+Nistun posts big blind 400
+Dealt to YL_ML_GL_42 [4h 9h]
+*** PRE-FLOP *** 
+LeTchoun folds
+Heroazote folds
+Bernardes2 folds
+YL_ML_GL_42 folds
+MonPCD raises 800 to 1200
+Nistun folds
+MonPCD collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 3: MonPCD (small blind) won 1900
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2543171292694053030-68-1668798538 - Holdem no limit (50/200/400) - 2022/11/18 19:08:58 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #3 is the button
+Seat 1: Bernardes2 (19050)
+Seat 2: YL_ML_GL_42 (7931)
+Seat 3: MonPCD (22346)
+Seat 4: Nistun (19550)
+Seat 5: LeTchoun (32666)
+Seat 6: Heroazote (27052)
+*** ANTE/BLINDS ***
+Nistun posts ante 50
+LeTchoun posts ante 50
+Bernardes2 posts ante 50
+YL_ML_GL_42 posts ante 50
+MonPCD posts ante 50
+Heroazote posts ante 50
+Nistun posts small blind 200
+LeTchoun posts big blind 400
+Dealt to YL_ML_GL_42 [2c Jd]
+*** PRE-FLOP *** 
+Heroazote folds
+Bernardes2 folds
+YL_ML_GL_42 folds
+MonPCD raises 440 to 840
+Nistun folds
+LeTchoun folds
+MonPCD collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Seat 3: MonPCD (button) won 1740
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2543171292694053030-69-1668798575 - Holdem no limit (60/250/500) - 2022/11/18 19:09:35 UTC
+Table: 'MYSTERY KO(592128209)#0165' 6-max (real money) Seat #4 is the button
+Seat 1: Bernardes2 (19000)
+Seat 2: YL_ML_GL_42 (7881)
+Seat 3: MonPCD (23196)
+Seat 4: Nistun (19300)
+Seat 5: LeTchoun (32216)
+Seat 6: Heroazote (27002)
+*** ANTE/BLINDS ***
+LeTchoun posts ante 60
+Heroazote posts ante 60
+Bernardes2 posts ante 60
+YL_ML_GL_42 posts ante 60
+MonPCD posts ante 60
+Nistun posts ante 60
+LeTchoun posts small blind 250
+Heroazote posts big blind 500
+Dealt to YL_ML_GL_42 [3h Ad]
+*** PRE-FLOP *** 
+Bernardes2 folds
+YL_ML_GL_42 raises 7321 to 7821 and is all-in
+MonPCD folds
+Nistun folds
+LeTchoun folds
+Heroazote calls 7321
+*** FLOP *** [Tc 5c 9s]
+*** TURN *** [Tc 5c 9s][6h]
+*** RIVER *** [Tc 5c 9s 6h][Js]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [3h Ad] (High card : Ace)
+Heroazote shows [Kd As] (High card : Ace)
+Heroazote collected 16252 from pot
+*** SUMMARY ***
+Total pot 16252 | No rake
+Board: [Tc 5c 9s 6h Js]
+Seat 2: YL_ML_GL_42 showed [3h Ad] and lost with High card : Ace
+Seat 6: Heroazote (big blind) showed [Kd As] and won 16252 with High card : Ace
+
+

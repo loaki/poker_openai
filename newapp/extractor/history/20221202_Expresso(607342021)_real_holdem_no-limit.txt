@@ -1,0 +1,319 @@
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2608514117681545217-1-1669994315 - Holdem no limit (10/20) - 2022/12/02 15:18:35 UTC
+Table: 'Expresso(607342021)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: marcuspatron (500)
+Seat 3: Momogoal76 (500)
+*** ANTE/BLINDS ***
+Momogoal76 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Qh 4s]
+*** PRE-FLOP *** 
+marcuspatron raises 20 to 40
+Momogoal76 folds
+YL_ML_GL_42 folds
+marcuspatron collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: marcuspatron (button) won 70
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2608514117681545217-2-1669994326 - Holdem no limit (10/20) - 2022/12/02 15:18:46 UTC
+Table: 'Expresso(607342021)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (480)
+Seat 2: marcuspatron (530)
+Seat 3: Momogoal76 (490)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+marcuspatron posts big blind 20
+Dealt to YL_ML_GL_42 [5s 8c]
+*** PRE-FLOP *** 
+Momogoal76 calls 20
+YL_ML_GL_42 folds
+marcuspatron raises 40 to 60
+Momogoal76 calls 40
+*** FLOP *** [8h 7c 2d]
+marcuspatron bets 470 and is all-in
+Momogoal76 folds
+marcuspatron collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [8h 7c 2d]
+Seat 2: marcuspatron (big blind) won 600
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2608514117681545217-3-1669994340 - Holdem no limit (10/20) - 2022/12/02 15:19:00 UTC
+Table: 'Expresso(607342021)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (470)
+Seat 2: marcuspatron (600)
+Seat 3: Momogoal76 (430)
+*** ANTE/BLINDS ***
+marcuspatron posts small blind 10
+Momogoal76 posts big blind 20
+Dealt to YL_ML_GL_42 [Jc 6d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+marcuspatron folds
+Momogoal76 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Momogoal76 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2608514117681545217-4-1669994350 - Holdem no limit (10/20) - 2022/12/02 15:19:10 UTC
+Table: 'Expresso(607342021)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (470)
+Seat 2: marcuspatron (590)
+Seat 3: Momogoal76 (440)
+*** ANTE/BLINDS ***
+Momogoal76 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [7d Jc]
+*** PRE-FLOP *** 
+marcuspatron calls 20
+Momogoal76 calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [3s 6d Qh]
+Momogoal76 checks
+YL_ML_GL_42 checks
+marcuspatron checks
+*** TURN *** [3s 6d Qh][6h]
+Momogoal76 checks
+YL_ML_GL_42 checks
+marcuspatron checks
+*** RIVER *** [3s 6d Qh 6h][9h]
+Momogoal76 checks
+YL_ML_GL_42 checks
+marcuspatron bets 20
+Momogoal76 calls 20
+YL_ML_GL_42 folds
+*** SHOW DOWN ***
+Momogoal76 shows [3d 5d] (Two pairs : 6 and 3)
+marcuspatron shows [9d 8h] (Two pairs : 9 and 6)
+marcuspatron collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [3s 6d Qh 6h 9h]
+Seat 2: marcuspatron (button) showed [9d 8h] and won 100 with Two pairs : 9 and 6
+Seat 3: Momogoal76 (small blind) showed [3d 5d] and lost with Two pairs : 6 and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2608514117681545217-5-1669994380 - Holdem no limit (10/20) - 2022/12/02 15:19:40 UTC
+Table: 'Expresso(607342021)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (450)
+Seat 2: marcuspatron (650)
+Seat 3: Momogoal76 (400)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+marcuspatron posts big blind 20
+Dealt to YL_ML_GL_42 [Ac 8c]
+*** PRE-FLOP *** 
+Momogoal76 calls 20
+YL_ML_GL_42 raises 60 to 80
+marcuspatron calls 60
+Momogoal76 calls 60
+*** FLOP *** [4c Kh 2d]
+YL_ML_GL_42 checks
+marcuspatron checks
+Momogoal76 checks
+*** TURN *** [4c Kh 2d][5d]
+YL_ML_GL_42 checks
+marcuspatron checks
+Momogoal76 bets 240
+YL_ML_GL_42 folds
+marcuspatron calls 240
+*** RIVER *** [4c Kh 2d 5d][Qs]
+marcuspatron checks
+Momogoal76 bets 80 and is all-in
+marcuspatron calls 80
+*** SHOW DOWN ***
+Momogoal76 shows [Td 6d] (High card : King)
+marcuspatron shows [9s 4s] (One pair : 4)
+marcuspatron collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [4c Kh 2d 5d Qs]
+Seat 2: marcuspatron (big blind) showed [9s 4s] and won 880 with One pair : 4
+Seat 3: Momogoal76 (button) showed [Td 6d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2608514117681545217-6-1669994421 - Holdem no limit (15/30) - 2022/12/02 15:20:21 UTC
+Table: 'Expresso(607342021)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (370)
+Seat 2: marcuspatron (1130)
+*** ANTE/BLINDS ***
+marcuspatron posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [5h Th]
+*** PRE-FLOP *** 
+marcuspatron calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [7c 6c 5c]
+YL_ML_GL_42 checks
+marcuspatron checks
+*** TURN *** [7c 6c 5c][Ad]
+YL_ML_GL_42 checks
+marcuspatron checks
+*** RIVER *** [7c 6c 5c Ad][4c]
+YL_ML_GL_42 checks
+marcuspatron checks
+*** SHOW DOWN ***
+marcuspatron shows [9h 2h] (High card : Ace)
+YL_ML_GL_42 shows [5h Th] (One pair : 5)
+YL_ML_GL_42 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [7c 6c 5c Ad 4c]
+Seat 1: YL_ML_GL_42 (big blind) showed [5h Th] and won 60 with One pair : 5
+Seat 2: marcuspatron (small blind) (button) showed [9h 2h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2608514117681545217-7-1669994446 - Holdem no limit (15/30) - 2022/12/02 15:20:46 UTC
+Table: 'Expresso(607342021)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (400)
+Seat 2: marcuspatron (1100)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+marcuspatron posts big blind 30
+Dealt to YL_ML_GL_42 [4d 5d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 15
+marcuspatron raises 30 to 60
+YL_ML_GL_42 calls 30
+*** FLOP *** [Jd 3c Kd]
+marcuspatron checks
+YL_ML_GL_42 bets 120
+marcuspatron calls 120
+*** TURN *** [Jd 3c Kd][2d]
+marcuspatron checks
+YL_ML_GL_42 checks
+*** RIVER *** [Jd 3c Kd 2d][9d]
+marcuspatron checks
+YL_ML_GL_42 bets 220 and is all-in
+marcuspatron folds
+YL_ML_GL_42 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Jd 3c Kd 2d 9d]
+Seat 1: YL_ML_GL_42 (small blind) (button) won 580
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2608514117681545217-8-1669994467 - Holdem no limit (15/30) - 2022/12/02 15:21:07 UTC
+Table: 'Expresso(607342021)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (580)
+Seat 2: marcuspatron (920)
+*** ANTE/BLINDS ***
+marcuspatron posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [5c Ac]
+*** PRE-FLOP *** 
+marcuspatron calls 15
+YL_ML_GL_42 raises 60 to 90
+marcuspatron calls 60
+*** FLOP *** [Qd Ks Td]
+YL_ML_GL_42 checks
+marcuspatron bets 117
+YL_ML_GL_42 folds
+marcuspatron collected 297 from pot
+*** SUMMARY ***
+Total pot 297 | No rake
+Board: [Qd Ks Td]
+Seat 2: marcuspatron (small blind) (button) won 297
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2608514117681545217-9-1669994486 - Holdem no limit (15/30) - 2022/12/02 15:21:26 UTC
+Table: 'Expresso(607342021)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (490)
+Seat 2: marcuspatron (1010)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+marcuspatron posts big blind 30
+Dealt to YL_ML_GL_42 [Ks 5h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+marcuspatron collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: marcuspatron (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2608514117681545217-10-1669994489 - Holdem no limit (15/30) - 2022/12/02 15:21:29 UTC
+Table: 'Expresso(607342021)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (475)
+Seat 2: marcuspatron (1025)
+*** ANTE/BLINDS ***
+marcuspatron posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [7h 2h]
+*** PRE-FLOP *** 
+marcuspatron calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [9h 4c Td]
+YL_ML_GL_42 checks
+marcuspatron checks
+*** TURN *** [9h 4c Td][8c]
+YL_ML_GL_42 checks
+marcuspatron checks
+*** RIVER *** [9h 4c Td 8c][Jh]
+YL_ML_GL_42 bets 75
+marcuspatron calls 75
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7h 2h] (Straight Jack high)
+marcuspatron shows [6c 7s] (Straight Jack high)
+marcuspatron collected 105 from pot
+YL_ML_GL_42 collected 105 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [9h 4c Td 8c Jh]
+Seat 1: YL_ML_GL_42 (big blind) showed [7h 2h] and won 105 with Straight Jack high
+Seat 2: marcuspatron (small blind) (button) showed [6c 7s] and won 105 with Straight Jack high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2608514117681545217-11-1669994507 - Holdem no limit (20/40) - 2022/12/02 15:21:47 UTC
+Table: 'Expresso(607342021)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (475)
+Seat 2: marcuspatron (1025)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+marcuspatron posts big blind 40
+Dealt to YL_ML_GL_42 [5c Kh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+marcuspatron calls 80
+*** FLOP *** [5d Jc 4c]
+marcuspatron checks
+YL_ML_GL_42 bets 240
+marcuspatron folds
+YL_ML_GL_42 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [5d Jc 4c]
+Seat 1: YL_ML_GL_42 (small blind) (button) won 480
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2608514117681545217-12-1669994520 - Holdem no limit (20/40) - 2022/12/02 15:22:00 UTC
+Table: 'Expresso(607342021)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (595)
+Seat 2: marcuspatron (905)
+*** ANTE/BLINDS ***
+marcuspatron posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Ts 9c]
+*** PRE-FLOP *** 
+marcuspatron raises 40 to 80
+YL_ML_GL_42 raises 160 to 240
+marcuspatron raises 665 to 905 and is all-in
+YL_ML_GL_42 calls 355 and is all-in
+*** FLOP *** [2h Ac 9h]
+*** TURN *** [2h Ac 9h][6c]
+*** RIVER *** [2h Ac 9h 6c][Jh]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ts 9c] (One pair : 9)
+marcuspatron shows [3h Ad] (One pair : Aces)
+marcuspatron collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [2h Ac 9h 6c Jh]
+Seat 1: YL_ML_GL_42 (big blind) showed [Ts 9c] and lost with One pair : 9
+Seat 2: marcuspatron (small blind) (button) showed [3h Ad] and won 1500 with One pair : Aces
+
+

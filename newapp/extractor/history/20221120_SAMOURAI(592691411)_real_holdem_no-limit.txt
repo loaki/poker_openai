@@ -1,0 +1,846 @@
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-1-1668958227 - Holdem no limit (25/100/200) - 2022/11/20 15:30:27 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #5 is the button
+Seat 1: NikolenkoGG (20000, 2.25€ bounty)
+Seat 2: Peps 974 (20000, 2.25€ bounty)
+Seat 3: ana_maria877 (20000, 2.25€ bounty)
+Seat 4: FURINAKI (20000, 2.25€ bounty)
+Seat 5: TBX83 (20000, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (20000, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+NikolenkoGG posts ante 25
+Peps 974 posts ante 25
+ana_maria877 posts ante 25
+FURINAKI posts ante 25
+TBX83 posts ante 25
+YL_ML_GL_42 posts small blind 100
+NikolenkoGG posts big blind 200
+Dealt to YL_ML_GL_42 [Jc 7c]
+*** PRE-FLOP *** 
+Peps 974 calls 200
+ana_maria877 folds
+FURINAKI raises 500 to 700
+TBX83 raises 500 to 1200
+YL_ML_GL_42 folds
+NikolenkoGG folds
+Peps 974 folds
+FURINAKI calls 500
+*** FLOP *** [2h Kh Jh]
+FURINAKI checks
+TBX83 bets 1525
+FURINAKI calls 1525
+*** TURN *** [2h Kh Jh][Ts]
+FURINAKI checks
+TBX83 bets 6100
+FURINAKI calls 6100
+*** RIVER *** [2h Kh Jh Ts][9d]
+FURINAKI checks
+TBX83 checks
+*** SHOW DOWN ***
+TBX83 shows [Kc As] (One pair : Kings)
+FURINAKI shows [Tc Td] (Trips of Tens)
+FURINAKI collected 18300 from pot
+*** SUMMARY ***
+Total pot 18300 | No rake
+Board: [2h Kh Jh Ts 9d]
+Seat 4: FURINAKI showed [Tc Td] and won 18300 with Trips of Tens
+Seat 5: TBX83 (button) showed [Kc As] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-2-1668958305 - Holdem no limit (25/100/200) - 2022/11/20 15:31:45 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #6 is the button
+Seat 1: NikolenkoGG (19775, 2.25€ bounty)
+Seat 2: Peps 974 (19775, 2.25€ bounty)
+Seat 3: ana_maria877 (19975, 2.25€ bounty)
+Seat 4: FURINAKI (29450, 2.25€ bounty)
+Seat 5: TBX83 (11150, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (19875, 2.25€ bounty)
+*** ANTE/BLINDS ***
+NikolenkoGG posts ante 25
+Peps 974 posts ante 25
+ana_maria877 posts ante 25
+FURINAKI posts ante 25
+TBX83 posts ante 25
+YL_ML_GL_42 posts ante 25
+NikolenkoGG posts small blind 100
+Peps 974 posts big blind 200
+Dealt to YL_ML_GL_42 [Kh Ah]
+*** PRE-FLOP *** 
+ana_maria877 folds
+FURINAKI raises 200 to 400
+TBX83 calls 400
+YL_ML_GL_42 raises 1000 to 1400
+NikolenkoGG folds
+Peps 974 calls 1200
+FURINAKI folds
+TBX83 raises 4850 to 6250
+YL_ML_GL_42 raises 13600 to 19850 and is all-in
+Peps 974 folds
+TBX83 calls 4875 and is all-in
+*** FLOP *** [9s Td 5h]
+*** TURN *** [9s Td 5h][4s]
+*** RIVER *** [9s Td 5h 4s][Jd]
+*** SHOW DOWN ***
+TBX83 shows [Qd 8s] (Straight Queen high)
+YL_ML_GL_42 shows [Kh Ah] (High card : Ace)
+YL_ML_GL_42 collected 8725 from side pot 1
+TBX83 collected 24300 from main pot
+*** SUMMARY ***
+Total pot 33025 | No rake
+Board: [9s Td 5h 4s Jd]
+Seat 5: TBX83 showed [Qd 8s] and won 24300 with Straight Queen high
+Seat 6: YL_ML_GL_42 (button) showed [Kh Ah] and won 8725 with High card : Ace
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-3-1668958379 - Holdem no limit (25/100/200) - 2022/11/20 15:32:59 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #1 is the button
+Seat 1: NikolenkoGG (19650, 2.25€ bounty)
+Seat 2: Peps 974 (18350, 2.25€ bounty)
+Seat 3: ana_maria877 (19950, 2.25€ bounty)
+Seat 4: FURINAKI (29025, 2.25€ bounty)
+Seat 5: TBX83 (24300, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (8725, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Peps 974 posts ante 25
+ana_maria877 posts ante 25
+NikolenkoGG posts ante 25
+FURINAKI posts ante 25
+TBX83 posts ante 25
+YL_ML_GL_42 posts ante 25
+Peps 974 posts small blind 100
+ana_maria877 posts big blind 200
+Dealt to YL_ML_GL_42 [Jh 2s]
+*** PRE-FLOP *** 
+FURINAKI folds
+TBX83 calls 200
+YL_ML_GL_42 folds
+NikolenkoGG raises 400 to 600
+Peps 974 calls 500
+ana_maria877 folds
+TBX83 calls 400
+*** FLOP *** [4h Qc Ts]
+Peps 974 checks
+TBX83 bets 2150
+NikolenkoGG calls 2150
+Peps 974 folds
+*** TURN *** [4h Qc Ts][6c]
+TBX83 checks
+NikolenkoGG checks
+*** RIVER *** [4h Qc Ts 6c][4s]
+TBX83 checks
+NikolenkoGG bets 8000
+TBX83 folds
+NikolenkoGG collected 14450 from pot
+*** SUMMARY ***
+Total pot 14450 | No rake
+Board: [4h Qc Ts 6c 4s]
+Seat 1: NikolenkoGG (button) won 14450
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-4-1668958476 - Holdem no limit (25/100/200) - 2022/11/20 15:34:36 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #2 is the button
+Seat 1: NikolenkoGG (23325, 2.25€ bounty)
+Seat 2: Peps 974 (17725, 2.25€ bounty)
+Seat 3: ana_maria877 (19725, 2.25€ bounty)
+Seat 4: FURINAKI (29000, 2.25€ bounty)
+Seat 5: TBX83 (21525, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (8700, 2.25€ bounty)
+*** ANTE/BLINDS ***
+ana_maria877 posts ante 25
+FURINAKI posts ante 25
+NikolenkoGG posts ante 25
+Peps 974 posts ante 25
+TBX83 posts ante 25
+YL_ML_GL_42 posts ante 25
+ana_maria877 posts small blind 100
+FURINAKI posts big blind 200
+Dealt to YL_ML_GL_42 [8h 2d]
+*** PRE-FLOP *** 
+TBX83 folds
+YL_ML_GL_42 folds
+NikolenkoGG folds
+Peps 974 folds
+ana_maria877 raises 500 to 700
+FURINAKI raises 2300 to 3000
+ana_maria877 folds
+FURINAKI collected 3850 from pot
+*** SUMMARY ***
+Total pot 3850 | No rake
+Seat 4: FURINAKI (big blind) won 3850
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-5-1668958532 - Holdem no limit (25/100/200) - 2022/11/20 15:35:32 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #3 is the button
+Seat 1: NikolenkoGG (23300, 2.25€ bounty)
+Seat 2: Peps 974 (17700, 2.25€ bounty)
+Seat 3: ana_maria877 (19000, 2.25€ bounty)
+Seat 4: FURINAKI (29825, 2.25€ bounty)
+Seat 5: TBX83 (21500, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (8675, 2.25€ bounty)
+*** ANTE/BLINDS ***
+FURINAKI posts ante 25
+TBX83 posts ante 25
+NikolenkoGG posts ante 25
+Peps 974 posts ante 25
+ana_maria877 posts ante 25
+YL_ML_GL_42 posts ante 25
+FURINAKI posts small blind 100
+TBX83 posts big blind 200
+Dealt to YL_ML_GL_42 [5h 7h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+NikolenkoGG folds
+Peps 974 folds
+ana_maria877 raises 200 to 400
+FURINAKI calls 300
+TBX83 calls 200
+*** FLOP *** [Qc Td 7c]
+FURINAKI checks
+TBX83 bets 1080
+ana_maria877 folds
+FURINAKI calls 1080
+*** TURN *** [Qc Td 7c][8s]
+FURINAKI checks
+TBX83 checks
+*** RIVER *** [Qc Td 7c 8s][Qd]
+FURINAKI bets 1755
+TBX83 folds
+FURINAKI collected 5265 from pot
+*** SUMMARY ***
+Total pot 5265 | No rake
+Board: [Qc Td 7c 8s Qd]
+Seat 4: FURINAKI (small blind) won 5265
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-6-1668958592 - Holdem no limit (25/100/200) - 2022/11/20 15:36:32 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #4 is the button
+Seat 1: morelifebro (20000, 2.25€ bounty)
+Seat 2: Peps 974 (17675, 2.25€ bounty)
+Seat 3: ana_maria877 (18575, 2.25€ bounty)
+Seat 4: FURINAKI (31830, 2.25€ bounty)
+Seat 5: TBX83 (19995, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (8650, 2.25€ bounty)
+*** ANTE/BLINDS ***
+TBX83 posts ante 25
+YL_ML_GL_42 posts ante 25
+morelifebro posts ante 25
+Peps 974 posts ante 25
+ana_maria877 posts ante 25
+FURINAKI posts ante 25
+TBX83 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Qs 4c]
+*** PRE-FLOP *** 
+morelifebro folds
+Peps 974 folds
+ana_maria877 folds
+FURINAKI raises 300 to 500
+TBX83 folds
+YL_ML_GL_42 folds
+FURINAKI collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 4: FURINAKI (button) won 950
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-7-1668958630 - Holdem no limit (25/100/200) - 2022/11/20 15:37:10 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #5 is the button
+Seat 1: morelifebro (19975, 2.25€ bounty)
+Seat 2: Peps 974 (17650, 2.25€ bounty)
+Seat 3: ana_maria877 (18550, 2.25€ bounty)
+Seat 4: FURINAKI (32255, 2.25€ bounty)
+Seat 5: TBX83 (19870, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (8425, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+morelifebro posts ante 25
+Peps 974 posts ante 25
+ana_maria877 posts ante 25
+FURINAKI posts ante 25
+TBX83 posts ante 25
+YL_ML_GL_42 posts small blind 100
+morelifebro posts big blind 200
+Dealt to YL_ML_GL_42 [Kc 6c]
+*** PRE-FLOP *** 
+Peps 974 calls 200
+ana_maria877 folds
+FURINAKI folds
+TBX83 folds
+YL_ML_GL_42 raises 600 to 800
+morelifebro folds
+Peps 974 calls 600
+*** FLOP *** [7s Qs 8d]
+YL_ML_GL_42 bets 1268
+Peps 974 raises 1268 to 2536
+YL_ML_GL_42 folds
+Peps 974 collected 5754 from pot
+*** SUMMARY ***
+Total pot 5754 | No rake
+Board: [7s Qs 8d]
+Seat 2: Peps 974 won 5754
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-8-1668958723 - Holdem no limit (25/100/200) - 2022/11/20 15:38:43 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #6 is the button
+Seat 1: morelifebro (19750, 2.25€ bounty)
+Seat 2: Peps 974 (20043, 2.25€ bounty)
+Seat 3: ana_maria877 (18525, 2.25€ bounty)
+Seat 4: FURINAKI (32230, 2.25€ bounty)
+Seat 5: TBX83 (19845, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (6332, 2.25€ bounty)
+*** ANTE/BLINDS ***
+morelifebro posts ante 25
+Peps 974 posts ante 25
+ana_maria877 posts ante 25
+FURINAKI posts ante 25
+TBX83 posts ante 25
+YL_ML_GL_42 posts ante 25
+morelifebro posts small blind 100
+Peps 974 posts big blind 200
+Dealt to YL_ML_GL_42 [7d 5h]
+*** PRE-FLOP *** 
+ana_maria877 folds
+FURINAKI raises 200 to 400
+TBX83 raises 800 to 1200
+YL_ML_GL_42 folds
+morelifebro folds
+Peps 974 folds
+FURINAKI calls 800
+*** FLOP *** [Qd 2d Ah]
+FURINAKI checks
+TBX83 bets 2280
+FURINAKI calls 2280
+*** TURN *** [Qd 2d Ah][9d]
+FURINAKI checks
+TBX83 bets 7410
+FURINAKI calls 7410
+*** RIVER *** [Qd 2d Ah 9d][6s]
+FURINAKI checks
+TBX83 checks
+*** SHOW DOWN ***
+TBX83 shows [Jd Ks] (High card : Ace)
+FURINAKI shows [Ad 7h] (One pair : Aces)
+FURINAKI collected 22230 from pot
+*** SUMMARY ***
+Total pot 22230 | No rake
+Board: [Qd 2d Ah 9d 6s]
+Seat 4: FURINAKI showed [Ad 7h] and won 22230 with One pair : Aces
+Seat 5: TBX83 showed [Jd Ks] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-9-1668958787 - Holdem no limit (25/100/200) - 2022/11/20 15:39:47 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #1 is the button
+Seat 1: morelifebro (19625, 2.25€ bounty)
+Seat 2: Peps 974 (19818, 2.25€ bounty)
+Seat 3: ana_maria877 (18500, 2.25€ bounty)
+Seat 4: FURINAKI (43545, 2.25€ bounty)
+Seat 5: TBX83 (8930, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (6307, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Peps 974 posts ante 25
+ana_maria877 posts ante 25
+morelifebro posts ante 25
+FURINAKI posts ante 25
+TBX83 posts ante 25
+YL_ML_GL_42 posts ante 25
+Peps 974 posts small blind 100
+ana_maria877 posts big blind 200
+Dealt to YL_ML_GL_42 [Jc 6s]
+*** PRE-FLOP *** 
+FURINAKI folds
+TBX83 calls 200
+YL_ML_GL_42 folds
+morelifebro folds
+Peps 974 calls 100
+ana_maria877 checks
+*** FLOP *** [4s Ks Ac]
+Peps 974 checks
+ana_maria877 checks
+TBX83 checks
+*** TURN *** [4s Ks Ac][3h]
+Peps 974 checks
+ana_maria877 bets 900
+TBX83 folds
+Peps 974 folds
+ana_maria877 collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Board: [4s Ks Ac 3h]
+Seat 3: ana_maria877 (big blind) won 1650
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-10-1668958873 - Holdem no limit (25/100/200) - 2022/11/20 15:41:13 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #2 is the button
+Seat 1: morelifebro (19600, 2.25€ bounty)
+Seat 2: Peps 974 (19593, 2.25€ bounty)
+Seat 3: ana_maria877 (19025, 2.25€ bounty)
+Seat 4: FURINAKI (43520, 2.25€ bounty)
+Seat 5: TBX83 (8705, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (6282, 2.25€ bounty)
+*** ANTE/BLINDS ***
+ana_maria877 posts ante 25
+FURINAKI posts ante 25
+morelifebro posts ante 25
+Peps 974 posts ante 25
+TBX83 posts ante 25
+YL_ML_GL_42 posts ante 25
+ana_maria877 posts small blind 100
+FURINAKI posts big blind 200
+Dealt to YL_ML_GL_42 [2h Kc]
+*** PRE-FLOP *** 
+TBX83 folds
+YL_ML_GL_42 folds
+morelifebro raises 650 to 850
+Peps 974 calls 850
+ana_maria877 folds
+FURINAKI calls 650
+*** FLOP *** [4s 8d Qd]
+FURINAKI checks
+morelifebro bets 980
+Peps 974 folds
+FURINAKI calls 980
+*** TURN *** [4s 8d Qd][Qh]
+FURINAKI checks
+morelifebro bets 1666
+FURINAKI calls 1666
+*** RIVER *** [4s 8d Qd Qh][Kh]
+FURINAKI checks
+morelifebro checks
+*** SHOW DOWN ***
+morelifebro shows [Ah Jd] (One pair : Queens)
+FURINAKI shows [3h 3c] (Two pairs : Queens and 3)
+FURINAKI collected 8092 from pot
+*** SUMMARY ***
+Total pot 8092 | No rake
+Board: [4s 8d Qd Qh Kh]
+Seat 1: morelifebro showed [Ah Jd] and lost with One pair : Queens
+Seat 4: FURINAKI (big blind) showed [3h 3c] and won 8092 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-11-1668959001 - Holdem no limit (25/100/200) - 2022/11/20 15:43:21 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #3 is the button
+Seat 1: morelifebro (16079, 2.25€ bounty)
+Seat 2: Peps 974 (18718, 2.25€ bounty)
+Seat 3: ana_maria877 (18900, 2.25€ bounty)
+Seat 4: FURINAKI (48091, 2.25€ bounty)
+Seat 5: TBX83 (8680, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (6257, 2.25€ bounty)
+*** ANTE/BLINDS ***
+FURINAKI posts ante 25
+TBX83 posts ante 25
+morelifebro posts ante 25
+Peps 974 posts ante 25
+ana_maria877 posts ante 25
+YL_ML_GL_42 posts ante 25
+FURINAKI posts small blind 100
+TBX83 posts big blind 200
+Dealt to YL_ML_GL_42 [6h 8h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+morelifebro folds
+Peps 974 folds
+ana_maria877 folds
+FURINAKI folds
+TBX83 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 5: TBX83 (big blind) won 450
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-12-1668959025 - Holdem no limit (25/100/200) - 2022/11/20 15:43:45 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #4 is the button
+Seat 1: morelifebro (16054, 2.25€ bounty)
+Seat 2: Peps 974 (18693, 2.25€ bounty)
+Seat 3: ana_maria877 (18875, 2.25€ bounty)
+Seat 4: FURINAKI (47966, 2.25€ bounty)
+Seat 5: TBX83 (8905, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (6232, 2.25€ bounty)
+*** ANTE/BLINDS ***
+TBX83 posts ante 25
+YL_ML_GL_42 posts ante 25
+morelifebro posts ante 25
+Peps 974 posts ante 25
+ana_maria877 posts ante 25
+FURINAKI posts ante 25
+TBX83 posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [3s Kd]
+*** PRE-FLOP *** 
+morelifebro folds
+Peps 974 calls 200
+ana_maria877 folds
+FURINAKI calls 200
+TBX83 raises 950 to 1150
+YL_ML_GL_42 folds
+Peps 974 folds
+FURINAKI folds
+TBX83 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 5: TBX83 (small blind) won 1900
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-13-1668959075 - Holdem no limit (25/100/200) - 2022/11/20 15:44:35 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #5 is the button
+Seat 1: morelifebro (16029, 2.25€ bounty)
+Seat 2: Peps 974 (18468, 2.25€ bounty)
+Seat 3: ana_maria877 (18850, 2.25€ bounty)
+Seat 4: FURINAKI (47741, 2.25€ bounty)
+Seat 5: TBX83 (9630, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (6007, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+morelifebro posts ante 25
+Peps 974 posts ante 25
+ana_maria877 posts ante 25
+FURINAKI posts ante 25
+TBX83 posts ante 25
+YL_ML_GL_42 posts small blind 100
+morelifebro posts big blind 200
+Dealt to YL_ML_GL_42 [Ts 6s]
+*** PRE-FLOP *** 
+Peps 974 raises 300 to 500
+ana_maria877 folds
+FURINAKI folds
+TBX83 folds
+YL_ML_GL_42 folds
+morelifebro folds
+Peps 974 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 2: Peps 974 won 950
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-14-1668959114 - Holdem no limit (25/100/200) - 2022/11/20 15:45:14 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #6 is the button
+Seat 1: morelifebro (15804, 2.25€ bounty)
+Seat 2: Peps 974 (18893, 2.25€ bounty)
+Seat 3: ana_maria877 (18825, 2.25€ bounty)
+Seat 4: FURINAKI (47716, 2.25€ bounty)
+Seat 5: TBX83 (9605, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (5882, 2.25€ bounty)
+*** ANTE/BLINDS ***
+morelifebro posts ante 25
+Peps 974 posts ante 25
+ana_maria877 posts ante 25
+FURINAKI posts ante 25
+TBX83 posts ante 25
+YL_ML_GL_42 posts ante 25
+morelifebro posts small blind 100
+Peps 974 posts big blind 200
+Dealt to YL_ML_GL_42 [Ks 4s]
+*** PRE-FLOP *** 
+ana_maria877 folds
+FURINAKI folds
+TBX83 folds
+YL_ML_GL_42 folds
+morelifebro raises 550 to 750
+Peps 974 folds
+morelifebro collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | No rake
+Seat 1: morelifebro (small blind) won 1100
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-15-1668959140 - Holdem no limit (25/100/200) - 2022/11/20 15:45:40 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #1 is the button
+Seat 1: morelifebro (16129, 2.25€ bounty)
+Seat 2: Peps 974 (18668, 2.25€ bounty)
+Seat 3: ana_maria877 (18800, 2.25€ bounty)
+Seat 4: FURINAKI (47691, 2.25€ bounty)
+Seat 5: TBX83 (9580, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (5857, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Peps 974 posts ante 25
+ana_maria877 posts ante 25
+morelifebro posts ante 25
+FURINAKI posts ante 25
+TBX83 posts ante 25
+YL_ML_GL_42 posts ante 25
+Peps 974 posts small blind 100
+ana_maria877 posts big blind 200
+Dealt to YL_ML_GL_42 [3s 8c]
+*** PRE-FLOP *** 
+FURINAKI raises 300 to 500
+TBX83 raises 1450 to 1950
+YL_ML_GL_42 folds
+morelifebro folds
+Peps 974 calls 1850
+ana_maria877 folds
+FURINAKI calls 1450
+*** FLOP *** [Tc 5c Ad]
+Peps 974 checks
+FURINAKI checks
+TBX83 bets 3100
+Peps 974 calls 3100
+FURINAKI calls 3100
+*** TURN *** [Tc 5c Ad][Qh]
+Peps 974 checks
+FURINAKI checks
+TBX83 bets 4505 and is all-in
+Peps 974 calls 4505
+FURINAKI calls 4505
+*** RIVER *** [Tc 5c Ad Qh][9h]
+Peps 974 checks
+FURINAKI bets 29015
+Peps 974 folds
+*** SHOW DOWN ***
+FURINAKI shows [Kh Kd] (One pair : Kings)
+TBX83 shows [9s Ac] (Two pairs : Aces and 9)
+TBX83 collected 29015 from main pot
+FURINAKI collected 29015 from side pot 1
+*** SUMMARY ***
+Total pot 58030 | No rake
+Board: [Tc 5c Ad Qh 9h]
+Seat 4: FURINAKI showed [Kh Kd] and won 29015 with One pair : Kings
+Seat 5: TBX83 showed [9s Ac] and won 29015 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-16-1668959259 - Holdem no limit (25/100/200) - 2022/11/20 15:47:39 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #2 is the button
+Seat 1: morelifebro (16104, 2.25€ bounty)
+Seat 2: Peps 974 (9088, 2.25€ bounty)
+Seat 3: ana_maria877 (18575, 2.25€ bounty)
+Seat 4: FURINAKI (38111, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (5832, 2.25€ bounty)
+*** ANTE/BLINDS ***
+ana_maria877 posts ante 25
+FURINAKI posts ante 25
+morelifebro posts ante 25
+Peps 974 posts ante 25
+YL_ML_GL_42 posts ante 25
+ana_maria877 posts small blind 100
+FURINAKI posts big blind 200
+Dealt to YL_ML_GL_42 [3h 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+morelifebro folds
+Peps 974 folds
+ana_maria877 folds
+FURINAKI collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 4: FURINAKI (big blind) won 425
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-17-1668959274 - Holdem no limit (25/100/200) - 2022/11/20 15:47:54 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #3 is the button
+Seat 1: morelifebro (16079, 2.25€ bounty)
+Seat 2: Peps 974 (9063, 2.25€ bounty)
+Seat 3: ana_maria877 (18450, 2.25€ bounty)
+Seat 4: FURINAKI (38311, 2.25€ bounty)
+Seat 5: wmx-imujwed (20000, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (5807, 2.25€ bounty)
+*** ANTE/BLINDS ***
+FURINAKI posts ante 25
+wmx-imujwed posts ante 25
+morelifebro posts ante 25
+Peps 974 posts ante 25
+ana_maria877 posts ante 25
+YL_ML_GL_42 posts ante 25
+FURINAKI posts small blind 100
+wmx-imujwed posts big blind 200
+Dealt to YL_ML_GL_42 [6h 5s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+morelifebro folds
+Peps 974 folds
+ana_maria877 raises 200 to 400
+FURINAKI calls 300
+wmx-imujwed folds
+*** FLOP *** [Kd 2c Jh]
+FURINAKI checks
+ana_maria877 bets 380
+FURINAKI calls 380
+*** TURN *** [Kd 2c Jh][3h]
+FURINAKI checks
+ana_maria877 bets 630
+FURINAKI raises 1370 to 2000
+ana_maria877 calls 1370
+*** RIVER *** [Kd 2c Jh 3h][Kc]
+FURINAKI bets 3000
+ana_maria877 folds
+FURINAKI collected 8910 from pot
+*** SUMMARY ***
+Total pot 8910 | No rake
+Board: [Kd 2c Jh 3h Kc]
+Seat 4: FURINAKI (small blind) won 8910
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-18-1668959359 - Holdem no limit (25/100/200) - 2022/11/20 15:49:19 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #4 is the button
+Seat 1: morelifebro (16054, 2.25€ bounty)
+Seat 2: Peps 974 (9038, 2.25€ bounty)
+Seat 3: ana_maria877 (15645, 2.25€ bounty)
+Seat 4: FURINAKI (41416, 2.25€ bounty)
+Seat 5: wmx-imujwed (19775, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (5782, 2.25€ bounty)
+*** ANTE/BLINDS ***
+wmx-imujwed posts ante 25
+YL_ML_GL_42 posts ante 25
+morelifebro posts ante 25
+Peps 974 posts ante 25
+ana_maria877 posts ante 25
+FURINAKI posts ante 25
+wmx-imujwed posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [8c Jh]
+*** PRE-FLOP *** 
+morelifebro raises 650 to 850
+Peps 974 raises 2150 to 3000
+ana_maria877 folds
+FURINAKI folds
+wmx-imujwed folds
+YL_ML_GL_42 folds
+morelifebro raises 13029 to 16029 and is all-in
+Peps 974 calls 6013 and is all-in
+*** FLOP *** [Ts 2c 3d]
+*** TURN *** [Ts 2c 3d][Js]
+*** RIVER *** [Ts 2c 3d Js][As]
+*** SHOW DOWN ***
+morelifebro shows [Ac Qs] (One pair : Aces)
+Peps 974 shows [2s Ad] (Two pairs : Aces and 2)
+Peps 974 collected 18476 from main pot
+morelifebro collected 7016 from side pot 1
+*** SUMMARY ***
+Total pot 25492 | No rake
+Board: [Ts 2c 3d Js As]
+Seat 1: morelifebro showed [Ac Qs] and won 7016 with One pair : Aces
+Seat 2: Peps 974 showed [2s Ad] and won 18476 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-19-1668959388 - Holdem no limit (25/100/200) - 2022/11/20 15:49:48 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #5 is the button
+Seat 1: morelifebro (7016, 2.25€ bounty)
+Seat 2: Peps 974 (18476, 2.25€ bounty)
+Seat 3: ana_maria877 (15620, 2.25€ bounty)
+Seat 4: FURINAKI (41391, 2.25€ bounty)
+Seat 5: wmx-imujwed (19650, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (5557, 2.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+morelifebro posts ante 25
+Peps 974 posts ante 25
+ana_maria877 posts ante 25
+FURINAKI posts ante 25
+wmx-imujwed posts ante 25
+YL_ML_GL_42 posts small blind 100
+morelifebro posts big blind 200
+Dealt to YL_ML_GL_42 [9d 8h]
+*** PRE-FLOP *** 
+Peps 974 folds
+ana_maria877 folds
+FURINAKI raises 200 to 400
+wmx-imujwed folds
+YL_ML_GL_42 folds
+morelifebro raises 1050 to 1450
+FURINAKI calls 1050
+*** FLOP *** [3c 6s Qh]
+morelifebro checks
+FURINAKI checks
+*** TURN *** [3c 6s Qh][Ah]
+morelifebro checks
+FURINAKI bets 1500
+morelifebro calls 1500
+*** RIVER *** [3c 6s Qh Ah][4h]
+morelifebro bets 4041 and is all-in
+FURINAKI folds
+morelifebro collected 10191 from pot
+*** SUMMARY ***
+Total pot 10191 | No rake
+Board: [3c 6s Qh Ah 4h]
+Seat 1: morelifebro (big blind) won 10191
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-20-1668959458 - Holdem no limit (25/100/200) - 2022/11/20 15:50:58 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #6 is the button
+Seat 1: morelifebro (10191, 2.25€ bounty)
+Seat 2: Peps 974 (18451, 2.25€ bounty)
+Seat 4: FURINAKI (38416, 2.25€ bounty)
+Seat 5: wmx-imujwed (19625, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (5432, 2.25€ bounty)
+*** ANTE/BLINDS ***
+morelifebro posts ante 25
+Peps 974 posts ante 25
+FURINAKI posts ante 25
+wmx-imujwed posts ante 25
+YL_ML_GL_42 posts ante 25
+morelifebro posts small blind 100
+Peps 974 posts big blind 200
+Dealt to YL_ML_GL_42 [9d Tc]
+*** PRE-FLOP *** 
+FURINAKI raises 300 to 500
+wmx-imujwed folds
+YL_ML_GL_42 folds
+morelifebro raises 9666 to 10166 and is all-in
+Peps 974 calls 9966
+FURINAKI calls 9666
+*** FLOP *** [8s 3c Th]
+Peps 974 checks
+FURINAKI bets 9000
+Peps 974 calls 8260 and is all-in
+*** TURN *** [8s 3c Th][2c]
+*** RIVER *** [8s 3c Th 2c][2h]
+*** SHOW DOWN ***
+morelifebro shows [7h 7d] (Two pairs : 7 and 2)
+Peps 974 shows [Ac 4s] (One pair : 2)
+FURINAKI shows [Kh Qs] (One pair : 2)
+FURINAKI collected 740 from side pot 2
+Peps 974 collected 16520 from side pot 1
+morelifebro collected 30623 from main pot
+*** SUMMARY ***
+Total pot 47883 | No rake
+Board: [8s 3c Th 2c 2h]
+Seat 1: morelifebro (small blind) showed [7h 7d] and won 30623 with Two pairs : 7 and 2
+Seat 2: Peps 974 (big blind) showed [Ac 4s] and won 16520 with One pair : 2
+Seat 4: FURINAKI showed [Kh Qs] and won 740 with One pair : 2
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2545590226865094679-21-1668959535 - Holdem no limit (25/100/200) - 2022/11/20 15:52:15 UTC
+Table: 'SAMOURAI(592691411)#0022' 6-max (real money) Seat #1 is the button
+Seat 1: morelifebro (30623, 2.25€ bounty)
+Seat 2: Peps 974 (16520, 2.25€ bounty)
+Seat 3: chris2bah (20000, 2.25€ bounty)
+Seat 4: FURINAKI (19965, 2.25€ bounty)
+Seat 5: wmx-imujwed (19600, 2.25€ bounty)
+Seat 6: YL_ML_GL_42 (5407, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Peps 974 posts ante 25
+chris2bah posts ante 25
+morelifebro posts ante 25
+FURINAKI posts ante 25
+wmx-imujwed posts ante 25
+YL_ML_GL_42 posts ante 25
+Peps 974 posts small blind 100
+chris2bah posts big blind 200
+Dealt to YL_ML_GL_42 [7h Kh]
+*** PRE-FLOP *** 
+FURINAKI raises 300 to 500
+wmx-imujwed folds
+YL_ML_GL_42 calls 500
+morelifebro calls 500
+Peps 974 folds
+chris2bah calls 300
+*** FLOP *** [7c Ts 6c]
+chris2bah checks
+FURINAKI checks
+YL_ML_GL_42 bets 1463
+morelifebro calls 1463
+chris2bah raises 1563 to 3026
+FURINAKI folds
+YL_ML_GL_42 raises 1856 to 4882 and is all-in
+morelifebro folds
+chris2bah calls 1856
+*** TURN *** [7c Ts 6c][Ah]
+*** RIVER *** [7c Ts 6c Ah][6s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7h Kh] (Two pairs : 7 and 6)
+chris2bah shows [Jd Th] (Two pairs : Tens and 6)
+chris2bah collected 13477 from pot
+*** SUMMARY ***
+Total pot 13477 | No rake
+Board: [7c Ts 6c Ah 6s]
+Seat 3: chris2bah (big blind) showed [Jd Th] and won 13477 with Two pairs : Tens and 6
+Seat 6: YL_ML_GL_42 showed [7h Kh] and lost with Two pairs : 7 and 6
+
+

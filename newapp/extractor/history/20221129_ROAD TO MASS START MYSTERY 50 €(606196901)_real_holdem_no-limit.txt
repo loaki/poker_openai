@@ -1,0 +1,2567 @@
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-1-1669750226 - Holdem no limit (25/100/200) - 2022/11/29 19:30:26 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #3 is the button
+Seat 1: IIIlIIIIl (20000, 3€ bounty)
+Seat 2: YL_ML_GL_42 (20000, 3€ bounty)
+Seat 3: Zorrion (20000, 3€ bounty)
+Seat 4: Hash-Sama (20000, 3€ bounty)
+Seat 5: wmx-kiw6kys (20000, 3€ bounty)
+Seat 6: Bet2P0ney (20000, 3€ bounty)
+*** ANTE/BLINDS ***
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+Zorrion posts ante 25
+Bet2P0ney posts ante 25
+Hash-Sama posts small blind 100
+wmx-kiw6kys posts big blind 200
+Dealt to YL_ML_GL_42 [9d 3s]
+*** PRE-FLOP *** 
+Bet2P0ney raises 260 to 460
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+Zorrion folds
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney collected 910 from pot
+*** SUMMARY ***
+Total pot 910 | No rake
+Seat 6: Bet2P0ney won 910
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-2-1669750273 - Holdem no limit (25/100/200) - 2022/11/29 19:31:13 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #4 is the button
+Seat 1: IIIlIIIIl (19975, 3€ bounty)
+Seat 2: YL_ML_GL_42 (19975, 3€ bounty)
+Seat 3: Zorrion (19975, 3€ bounty)
+Seat 4: Hash-Sama (19875, 3€ bounty)
+Seat 5: wmx-kiw6kys (19775, 3€ bounty)
+Seat 6: Bet2P0ney (20425, 3€ bounty)
+*** ANTE/BLINDS ***
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+Zorrion posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts small blind 100
+Bet2P0ney posts big blind 200
+Dealt to YL_ML_GL_42 [8s 3d]
+*** PRE-FLOP *** 
+IIIlIIIIl raises 220 to 420
+YL_ML_GL_42 folds
+Zorrion calls 420
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney folds
+*** FLOP *** [2h 7c 6s]
+IIIlIIIIl checks
+Zorrion checks
+*** TURN *** [2h 7c 6s][9h]
+IIIlIIIIl checks
+Zorrion bets 851
+IIIlIIIIl calls 851
+*** RIVER *** [2h 7c 6s 9h][2c]
+IIIlIIIIl checks
+Zorrion checks
+*** SHOW DOWN ***
+Zorrion shows [Js Ts] (One pair : 2)
+IIIlIIIIl shows [Ac Qh] (One pair : 2)
+IIIlIIIIl collected 2992 from pot
+*** SUMMARY ***
+Total pot 2992 | No rake
+Board: [2h 7c 6s 9h 2c]
+Seat 1: IIIlIIIIl showed [Ac Qh] and won 2992 with One pair : 2
+Seat 3: Zorrion showed [Js Ts] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-3-1669750365 - Holdem no limit (25/100/200) - 2022/11/29 19:32:45 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #5 is the button
+Seat 1: IIIlIIIIl (21671, 3€ bounty)
+Seat 2: YL_ML_GL_42 (19950, 3€ bounty)
+Seat 3: Zorrion (18679, 3€ bounty)
+Seat 4: Hash-Sama (19850, 3€ bounty)
+Seat 5: wmx-kiw6kys (19650, 3€ bounty)
+Seat 6: Bet2P0ney (20200, 3€ bounty)
+*** ANTE/BLINDS ***
+Bet2P0ney posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+Zorrion posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts small blind 100
+IIIlIIIIl posts big blind 200
+Dealt to YL_ML_GL_42 [Tc Qc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 400 to 600
+Zorrion folds
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 2: YL_ML_GL_42 won 1050
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-4-1669750419 - Holdem no limit (25/100/200) - 2022/11/29 19:33:39 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #6 is the button
+Seat 1: IIIlIIIIl (21446, 3€ bounty)
+Seat 2: YL_ML_GL_42 (20375, 3€ bounty)
+Seat 4: Hash-Sama (19825, 3€ bounty)
+Seat 5: wmx-kiw6kys (19625, 3€ bounty)
+Seat 6: Bet2P0ney (20075, 3€ bounty)
+*** ANTE/BLINDS ***
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+IIIlIIIIl posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [3c 6h]
+*** PRE-FLOP *** 
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney raises 240 to 440
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+Bet2P0ney collected 865 from pot
+*** SUMMARY ***
+Total pot 865 | No rake
+Seat 6: Bet2P0ney (button) won 865
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-5-1669750447 - Holdem no limit (25/100/200) - 2022/11/29 19:34:07 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #1 is the button
+Seat 1: IIIlIIIIl (21321, 3€ bounty)
+Seat 2: YL_ML_GL_42 (20150, 3€ bounty)
+Seat 3: Maggy bolle (20000, 3€ bounty)
+Seat 4: Hash-Sama (19800, 3€ bounty)
+Seat 5: wmx-kiw6kys (19600, 3€ bounty)
+Seat 6: Bet2P0ney (20475, 3€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Maggy bolle posts ante 25
+IIIlIIIIl posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+YL_ML_GL_42 posts small blind 100
+Maggy bolle posts big blind 200
+Dealt to YL_ML_GL_42 [8d 4d]
+*** PRE-FLOP *** 
+Hash-Sama folds
+wmx-kiw6kys raises 260 to 460
+Bet2P0ney calls 460
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+Maggy bolle folds
+*** FLOP *** [Td Ks 2c]
+wmx-kiw6kys bets 904
+Bet2P0ney calls 904
+*** TURN *** [Td Ks 2c][As]
+wmx-kiw6kys checks
+Bet2P0ney checks
+*** RIVER *** [Td Ks 2c As][6h]
+wmx-kiw6kys bets 2097
+Bet2P0ney folds
+wmx-kiw6kys collected 5275 from pot
+*** SUMMARY ***
+Total pot 5275 | No rake
+Board: [Td Ks 2c As 6h]
+Seat 5: wmx-kiw6kys won 5275
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-6-1669750566 - Holdem no limit (25/100/200) - 2022/11/29 19:36:06 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #2 is the button
+Seat 1: IIIlIIIIl (21296, 3€ bounty)
+Seat 2: YL_ML_GL_42 (20025, 3€ bounty)
+Seat 3: Maggy bolle (19775, 3€ bounty)
+Seat 4: Hash-Sama (19775, 3€ bounty)
+Seat 5: wmx-kiw6kys (21389, 3€ bounty)
+Seat 6: Bet2P0ney (19086, 3€ bounty)
+*** ANTE/BLINDS ***
+Maggy bolle posts ante 25
+Hash-Sama posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+Maggy bolle posts small blind 100
+Hash-Sama posts big blind 200
+Dealt to YL_ML_GL_42 [Ah Qd]
+*** PRE-FLOP *** 
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 raises 400 to 600
+Maggy bolle folds
+Hash-Sama folds
+YL_ML_GL_42 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 2: YL_ML_GL_42 (button) won 1050
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-7-1669750594 - Holdem no limit (25/100/200) - 2022/11/29 19:36:34 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #3 is the button
+Seat 1: IIIlIIIIl (21271, 3€ bounty)
+Seat 2: YL_ML_GL_42 (20450, 3€ bounty)
+Seat 3: Maggy bolle (19650, 3€ bounty)
+Seat 4: Hash-Sama (19550, 3€ bounty)
+Seat 5: wmx-kiw6kys (21364, 3€ bounty)
+Seat 6: Bet2P0ney (19061, 3€ bounty)
+*** ANTE/BLINDS ***
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+Maggy bolle posts ante 25
+Bet2P0ney posts ante 25
+Hash-Sama posts small blind 100
+wmx-kiw6kys posts big blind 200
+Dealt to YL_ML_GL_42 [Qh 8d]
+*** PRE-FLOP *** 
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+Maggy bolle raises 200 to 400
+Hash-Sama calls 300
+wmx-kiw6kys calls 200
+*** FLOP *** [2d Jh 7h]
+Hash-Sama bets 446
+wmx-kiw6kys folds
+Maggy bolle folds
+Hash-Sama collected 1796 from pot
+*** SUMMARY ***
+Total pot 1796 | No rake
+Board: [2d Jh 7h]
+Seat 4: Hash-Sama (small blind) won 1796
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-8-1669750648 - Holdem no limit (25/100/200) - 2022/11/29 19:37:28 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #4 is the button
+Seat 1: IIIlIIIIl (21246, 3€ bounty)
+Seat 2: YL_ML_GL_42 (20425, 3€ bounty)
+Seat 3: Maggy bolle (19225, 3€ bounty)
+Seat 4: Hash-Sama (20475, 3€ bounty)
+Seat 5: wmx-kiw6kys (20939, 3€ bounty)
+Seat 6: Bet2P0ney (19036, 3€ bounty)
+*** ANTE/BLINDS ***
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+Maggy bolle posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts small blind 100
+Bet2P0ney posts big blind 200
+Dealt to YL_ML_GL_42 [5c 4h]
+*** PRE-FLOP *** 
+IIIlIIIIl raises 220 to 420
+YL_ML_GL_42 folds
+Maggy bolle calls 420
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney calls 220
+*** FLOP *** [9d Ks 7c]
+Bet2P0ney checks
+IIIlIIIIl bets 378
+Maggy bolle folds
+Bet2P0ney calls 378
+*** TURN *** [9d Ks 7c][3c]
+Bet2P0ney checks
+IIIlIIIIl bets 2800
+Bet2P0ney folds
+IIIlIIIIl collected 5066 from pot
+*** SUMMARY ***
+Total pot 5066 | No rake
+Board: [9d Ks 7c 3c]
+Seat 1: IIIlIIIIl won 5066
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-9-1669750739 - Holdem no limit (25/100/200) - 2022/11/29 19:38:59 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #5 is the button
+Seat 1: IIIlIIIIl (22689, 3€ bounty)
+Seat 2: YL_ML_GL_42 (20400, 3€ bounty)
+Seat 3: Maggy bolle (18780, 3€ bounty)
+Seat 4: Hash-Sama (20450, 3€ bounty)
+Seat 5: wmx-kiw6kys (20814, 3€ bounty)
+Seat 6: Bet2P0ney (18213, 3€ bounty)
+*** ANTE/BLINDS ***
+Bet2P0ney posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+Maggy bolle posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts small blind 100
+IIIlIIIIl posts big blind 200
+Dealt to YL_ML_GL_42 [7c 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Maggy bolle folds
+Hash-Sama folds
+wmx-kiw6kys raises 260 to 460
+Bet2P0ney folds
+IIIlIIIIl folds
+wmx-kiw6kys collected 910 from pot
+*** SUMMARY ***
+Total pot 910 | No rake
+Seat 5: wmx-kiw6kys (button) won 910
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-10-1669750777 - Holdem no limit (25/100/200) - 2022/11/29 19:39:37 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #6 is the button
+Seat 1: IIIlIIIIl (22464, 3€ bounty)
+Seat 2: YL_ML_GL_42 (20375, 3€ bounty)
+Seat 3: Maggy bolle (18755, 3€ bounty)
+Seat 4: Hash-Sama (20425, 3€ bounty)
+Seat 5: wmx-kiw6kys (21239, 3€ bounty)
+Seat 6: Bet2P0ney (18088, 3€ bounty)
+*** ANTE/BLINDS ***
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+Maggy bolle posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+IIIlIIIIl posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [2s 9s]
+*** PRE-FLOP *** 
+Maggy bolle folds
+Hash-Sama raises 220 to 420
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 calls 220
+*** FLOP *** [3s 8c Jh]
+YL_ML_GL_42 checks
+Hash-Sama bets 360
+YL_ML_GL_42 folds
+Hash-Sama collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Board: [3s 8c Jh]
+Seat 4: Hash-Sama won 1450
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-11-1669750828 - Holdem no limit (25/100/200) - 2022/11/29 19:40:28 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #1 is the button
+Seat 1: IIIlIIIIl (22339, 3€ bounty)
+Seat 2: YL_ML_GL_42 (19930, 3€ bounty)
+Seat 3: Maggy bolle (18730, 3€ bounty)
+Seat 4: Hash-Sama (21070, 3€ bounty)
+Seat 5: wmx-kiw6kys (21214, 3€ bounty)
+Seat 6: Bet2P0ney (18063, 3€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Maggy bolle posts ante 25
+IIIlIIIIl posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+YL_ML_GL_42 posts small blind 100
+Maggy bolle posts big blind 200
+Dealt to YL_ML_GL_42 [3d 7s]
+*** PRE-FLOP *** 
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney raises 240 to 440
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+Maggy bolle folds
+Bet2P0ney collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Seat 6: Bet2P0ney won 890
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-12-1669750858 - Holdem no limit (25/100/200) - 2022/11/29 19:40:58 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #2 is the button
+Seat 1: IIIlIIIIl (22314, 3€ bounty)
+Seat 2: YL_ML_GL_42 (19805, 3€ bounty)
+Seat 3: Maggy bolle (18505, 3€ bounty)
+Seat 4: Hash-Sama (21045, 3€ bounty)
+Seat 5: wmx-kiw6kys (21189, 3€ bounty)
+Seat 6: Bet2P0ney (18488, 3€ bounty)
+*** ANTE/BLINDS ***
+Maggy bolle posts ante 25
+Hash-Sama posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+Maggy bolle posts small blind 100
+Hash-Sama posts big blind 200
+Dealt to YL_ML_GL_42 [3c 4s]
+*** PRE-FLOP *** 
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+Maggy bolle calls 100
+Hash-Sama raises 500 to 700
+Maggy bolle calls 500
+*** FLOP *** [Ts Kd Td]
+Maggy bolle checks
+Hash-Sama bets 512
+Maggy bolle calls 512
+*** TURN *** [Ts Kd Td][5s]
+Maggy bolle checks
+Hash-Sama bets 849
+Maggy bolle calls 849
+*** RIVER *** [Ts Kd Td 5s][7d]
+Maggy bolle checks
+Hash-Sama checks
+*** SHOW DOWN ***
+Hash-Sama shows [9s Ah] (One pair : Tens)
+Maggy bolle shows [Ks 2s] (Two pairs : Kings and Tens)
+Maggy bolle collected 4272 from pot
+*** SUMMARY ***
+Total pot 4272 | No rake
+Board: [Ts Kd Td 5s 7d]
+Seat 3: Maggy bolle (small blind) showed [Ks 2s] and won 4272 with Two pairs : Kings and Tens
+Seat 4: Hash-Sama (big blind) showed [9s Ah] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-13-1669750926 - Holdem no limit (25/100/200) - 2022/11/29 19:42:06 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #3 is the button
+Seat 1: IIIlIIIIl (22289, 3€ bounty)
+Seat 2: YL_ML_GL_42 (19780, 3€ bounty)
+Seat 3: Maggy bolle (20691, 3€ bounty)
+Seat 4: Hash-Sama (18959, 3€ bounty)
+Seat 5: wmx-kiw6kys (21164, 3€ bounty)
+Seat 6: Bet2P0ney (18463, 3€ bounty)
+*** ANTE/BLINDS ***
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+Maggy bolle posts ante 25
+Bet2P0ney posts ante 25
+Hash-Sama posts small blind 100
+wmx-kiw6kys posts big blind 200
+Dealt to YL_ML_GL_42 [Ah 5h]
+*** PRE-FLOP *** 
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 raises 400 to 600
+Maggy bolle calls 600
+Hash-Sama calls 500
+wmx-kiw6kys folds
+*** FLOP *** [6h As 9d]
+Hash-Sama checks
+YL_ML_GL_42 bets 1720
+Maggy bolle folds
+Hash-Sama folds
+YL_ML_GL_42 collected 3870 from pot
+*** SUMMARY ***
+Total pot 3870 | No rake
+Board: [6h As 9d]
+Seat 2: YL_ML_GL_42 won 3870
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-14-1669750984 - Holdem no limit (25/100/200) - 2022/11/29 19:43:04 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #4 is the button
+Seat 1: IIIlIIIIl (22264, 3€ bounty)
+Seat 2: YL_ML_GL_42 (21305, 3€ bounty)
+Seat 3: Maggy bolle (20066, 3€ bounty)
+Seat 4: Hash-Sama (18334, 3€ bounty)
+Seat 5: wmx-kiw6kys (20939, 3€ bounty)
+Seat 6: Bet2P0ney (18438, 3€ bounty)
+*** ANTE/BLINDS ***
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+Maggy bolle posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts small blind 100
+Bet2P0ney posts big blind 200
+Dealt to YL_ML_GL_42 [3s 3h]
+*** PRE-FLOP *** 
+IIIlIIIIl folds
+YL_ML_GL_42 raises 400 to 600
+Maggy bolle folds
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney folds
+YL_ML_GL_42 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 2: YL_ML_GL_42 won 1050
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-15-1669751025 - Holdem no limit (25/100/200) - 2022/11/29 19:43:45 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #5 is the button
+Seat 1: IIIlIIIIl (22239, 3€ bounty)
+Seat 2: YL_ML_GL_42 (21730, 3€ bounty)
+Seat 3: Maggy bolle (20041, 3€ bounty)
+Seat 4: Hash-Sama (18309, 3€ bounty)
+Seat 5: wmx-kiw6kys (20814, 3€ bounty)
+Seat 6: Bet2P0ney (18213, 3€ bounty)
+*** ANTE/BLINDS ***
+Bet2P0ney posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+Maggy bolle posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts small blind 100
+IIIlIIIIl posts big blind 200
+Dealt to YL_ML_GL_42 [6d Jh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Maggy bolle raises 400 to 600
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney calls 500
+IIIlIIIIl calls 400
+*** FLOP *** [4c 5c 6s]
+Bet2P0ney checks
+IIIlIIIIl checks
+Maggy bolle bets 975
+Bet2P0ney folds
+IIIlIIIIl folds
+Maggy bolle collected 2925 from pot
+*** SUMMARY ***
+Total pot 2925 | No rake
+Board: [4c 5c 6s]
+Seat 3: Maggy bolle won 2925
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-16-1669751083 - Holdem no limit (25/100/200) - 2022/11/29 19:44:43 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #6 is the button
+Seat 1: IIIlIIIIl (21614, 3€ bounty)
+Seat 2: YL_ML_GL_42 (21705, 3€ bounty)
+Seat 4: Hash-Sama (18284, 3€ bounty)
+Seat 5: wmx-kiw6kys (20789, 3€ bounty)
+Seat 6: Bet2P0ney (17588, 3€ bounty)
+*** ANTE/BLINDS ***
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+IIIlIIIIl posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Js 6d]
+*** PRE-FLOP *** 
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl calls 100
+YL_ML_GL_42 checks
+*** FLOP *** [9d Qc Kd]
+IIIlIIIIl bets 200
+YL_ML_GL_42 calls 200
+*** TURN *** [9d Qc Kd][8s]
+IIIlIIIIl checks
+YL_ML_GL_42 checks
+*** RIVER *** [9d Qc Kd 8s][7h]
+IIIlIIIIl bets 463
+YL_ML_GL_42 folds
+IIIlIIIIl collected 1388 from pot
+*** SUMMARY ***
+Total pot 1388 | No rake
+Board: [9d Qc Kd 8s 7h]
+Seat 1: IIIlIIIIl (small blind) won 1388
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-17-1669751146 - Holdem no limit (25/100/200) - 2022/11/29 19:45:46 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #1 is the button
+Seat 1: IIIlIIIIl (22114, 3€ bounty)
+Seat 2: YL_ML_GL_42 (21280, 3€ bounty)
+Seat 3: RIPtonStack (20000, 3€ bounty)
+Seat 4: Hash-Sama (18259, 3€ bounty)
+Seat 5: wmx-kiw6kys (20764, 3€ bounty)
+Seat 6: Bet2P0ney (17563, 3€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+RIPtonStack posts ante 25
+IIIlIIIIl posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+YL_ML_GL_42 posts small blind 100
+RIPtonStack posts big blind 200
+Dealt to YL_ML_GL_42 [Jh 6c]
+*** PRE-FLOP *** 
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl raises 220 to 420
+YL_ML_GL_42 folds
+RIPtonStack calls 220
+*** FLOP *** [Qs Jc 3s]
+RIPtonStack checks
+IIIlIIIIl bets 300
+RIPtonStack folds
+IIIlIIIIl collected 1390 from pot
+*** SUMMARY ***
+Total pot 1390 | No rake
+Board: [Qs Jc 3s]
+Seat 1: IIIlIIIIl (button) won 1390
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-18-1669751220 - Holdem no limit (25/100/200) - 2022/11/29 19:47:00 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #2 is the button
+Seat 1: IIIlIIIIl (22759, 3€ bounty)
+Seat 2: YL_ML_GL_42 (21155, 3€ bounty)
+Seat 3: RIPtonStack (19555, 3€ bounty)
+Seat 4: Hash-Sama (18234, 3€ bounty)
+Seat 5: wmx-kiw6kys (20739, 3€ bounty)
+Seat 6: Bet2P0ney (17538, 3€ bounty)
+*** ANTE/BLINDS ***
+RIPtonStack posts ante 25
+Hash-Sama posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+RIPtonStack posts small blind 100
+Hash-Sama posts big blind 200
+Dealt to YL_ML_GL_42 [3d 2s]
+*** PRE-FLOP *** 
+wmx-kiw6kys folds
+Bet2P0ney raises 240 to 440
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+RIPtonStack folds
+Hash-Sama calls 240
+*** FLOP *** [Kh 3c Ks]
+Hash-Sama checks
+Bet2P0ney checks
+*** TURN *** [Kh 3c Ks][2d]
+Hash-Sama checks
+Bet2P0ney checks
+*** RIVER *** [Kh 3c Ks 2d][4s]
+Hash-Sama checks
+Bet2P0ney checks
+*** SHOW DOWN ***
+Hash-Sama shows [7h Jh] (One pair : Kings)
+Bet2P0ney shows [Ad Tc] (One pair : Kings)
+Bet2P0ney collected 1130 from pot
+*** SUMMARY ***
+Total pot 1130 | No rake
+Board: [Kh 3c Ks 2d 4s]
+Seat 4: Hash-Sama (big blind) showed [7h Jh] and lost with One pair : Kings
+Seat 6: Bet2P0ney showed [Ad Tc] and won 1130 with One pair : Kings
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-19-1669751297 - Holdem no limit (25/100/200) - 2022/11/29 19:48:17 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #3 is the button
+Seat 1: IIIlIIIIl (22734, 3€ bounty)
+Seat 2: YL_ML_GL_42 (21130, 3€ bounty)
+Seat 3: RIPtonStack (19430, 3€ bounty)
+Seat 4: Hash-Sama (17769, 3€ bounty)
+Seat 5: wmx-kiw6kys (20714, 3€ bounty)
+Seat 6: Bet2P0ney (18203, 3€ bounty)
+*** ANTE/BLINDS ***
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+RIPtonStack posts ante 25
+Bet2P0ney posts ante 25
+Hash-Sama posts small blind 100
+wmx-kiw6kys posts big blind 200
+Dealt to YL_ML_GL_42 [3c Th]
+*** PRE-FLOP *** 
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+RIPtonStack folds
+Hash-Sama folds
+wmx-kiw6kys collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 5: wmx-kiw6kys (big blind) won 450
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-20-1669751358 - Holdem no limit (25/100/200) - 2022/11/29 19:49:18 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #4 is the button
+Seat 1: IIIlIIIIl (22709, 3€ bounty)
+Seat 2: YL_ML_GL_42 (21105, 3€ bounty)
+Seat 3: RIPtonStack (19405, 3€ bounty)
+Seat 4: Hash-Sama (17644, 3€ bounty)
+Seat 5: wmx-kiw6kys (20939, 3€ bounty)
+Seat 6: Bet2P0ney (18178, 3€ bounty)
+*** ANTE/BLINDS ***
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+RIPtonStack posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts small blind 100
+Bet2P0ney posts big blind 200
+Dealt to YL_ML_GL_42 [5c 3c]
+*** PRE-FLOP *** 
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+RIPtonStack folds
+Hash-Sama folds
+wmx-kiw6kys calls 100
+Bet2P0ney checks
+*** FLOP *** [6s Qh Kd]
+wmx-kiw6kys bets 200
+Bet2P0ney folds
+wmx-kiw6kys collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [6s Qh Kd]
+Seat 5: wmx-kiw6kys (small blind) won 750
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-21-1669751418 - Holdem no limit (25/100/200) - 2022/11/29 19:50:18 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #5 is the button
+Seat 1: IIIlIIIIl (22684, 3€ bounty)
+Seat 2: YL_ML_GL_42 (21080, 3€ bounty)
+Seat 3: RIPtonStack (19380, 3€ bounty)
+Seat 4: Hash-Sama (17619, 3€ bounty)
+Seat 5: wmx-kiw6kys (21264, 3€ bounty)
+Seat 6: Bet2P0ney (17953, 3€ bounty)
+*** ANTE/BLINDS ***
+Bet2P0ney posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+RIPtonStack posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts small blind 100
+IIIlIIIIl posts big blind 200
+Dealt to YL_ML_GL_42 [Ah Ac]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 400 to 600
+RIPtonStack folds
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney calls 500
+IIIlIIIIl folds
+*** FLOP *** [2d Jc Kh]
+Bet2P0ney checks
+YL_ML_GL_42 bets 388
+Bet2P0ney calls 388
+*** TURN *** [2d Jc Kh][9s]
+Bet2P0ney checks
+YL_ML_GL_42 bets 582
+Bet2P0ney calls 582
+*** RIVER *** [2d Jc Kh 9s][Td]
+Bet2P0ney checks
+YL_ML_GL_42 bets 3490
+Bet2P0ney calls 3490
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ah Ac] (One pair : Aces)
+Bet2P0ney shows [Tc Ts] (Trips of Tens)
+Bet2P0ney collected 10470 from pot
+*** SUMMARY ***
+Total pot 10470 | No rake
+Board: [2d Jc Kh 9s Td]
+Seat 2: YL_ML_GL_42 showed [Ah Ac] and lost with One pair : Aces
+Seat 6: Bet2P0ney (small blind) showed [Tc Ts] and won 10470 with Trips of Tens
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-22-1669751526 - Holdem no limit (25/100/200) - 2022/11/29 19:52:06 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #6 is the button
+Seat 1: IIIlIIIIl (22459, 3€ bounty)
+Seat 2: YL_ML_GL_42 (15995, 3€ bounty)
+Seat 3: RIPtonStack (19355, 3€ bounty)
+Seat 4: Hash-Sama (17594, 3€ bounty)
+Seat 5: wmx-kiw6kys (21239, 3€ bounty)
+Seat 6: Bet2P0ney (23338, 3€ bounty)
+*** ANTE/BLINDS ***
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+RIPtonStack posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+IIIlIIIIl posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Jd Qd]
+*** PRE-FLOP *** 
+RIPtonStack calls 200
+Hash-Sama raises 220 to 420
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 raises 1697 to 2117
+RIPtonStack folds
+Hash-Sama folds
+YL_ML_GL_42 collected 2987 from pot
+*** SUMMARY ***
+Total pot 2987 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 2987
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-23-1669751581 - Holdem no limit (25/100/200) - 2022/11/29 19:53:01 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #1 is the button
+Seat 1: IIIlIIIIl (22334, 3€ bounty)
+Seat 2: YL_ML_GL_42 (16840, 3€ bounty)
+Seat 3: RIPtonStack (19130, 3€ bounty)
+Seat 4: Hash-Sama (17149, 3€ bounty)
+Seat 5: wmx-kiw6kys (21214, 3€ bounty)
+Seat 6: Bet2P0ney (23313, 3€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+RIPtonStack posts ante 25
+IIIlIIIIl posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+YL_ML_GL_42 posts small blind 100
+RIPtonStack posts big blind 200
+Dealt to YL_ML_GL_42 [6c 9c]
+*** PRE-FLOP *** 
+Hash-Sama raises 220 to 420
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 calls 320
+RIPtonStack folds
+*** FLOP *** [Ac Kd 3s]
+YL_ML_GL_42 checks
+Hash-Sama checks
+*** TURN *** [Ac Kd 3s][5d]
+YL_ML_GL_42 checks
+Hash-Sama bets 595
+YL_ML_GL_42 folds
+Hash-Sama collected 1785 from pot
+*** SUMMARY ***
+Total pot 1785 | No rake
+Board: [Ac Kd 3s 5d]
+Seat 4: Hash-Sama won 1785
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-24-1669751646 - Holdem no limit (25/100/200) - 2022/11/29 19:54:06 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #2 is the button
+Seat 1: IIIlIIIIl (22309, 3€ bounty)
+Seat 2: YL_ML_GL_42 (16395, 3€ bounty)
+Seat 3: RIPtonStack (18905, 3€ bounty)
+Seat 4: Hash-Sama (17894, 3€ bounty)
+Seat 5: wmx-kiw6kys (21189, 3€ bounty)
+Seat 6: Bet2P0ney (23288, 3€ bounty)
+*** ANTE/BLINDS ***
+RIPtonStack posts ante 25
+Hash-Sama posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+RIPtonStack posts small blind 100
+Hash-Sama posts big blind 200
+Dealt to YL_ML_GL_42 [Kd 3c]
+*** PRE-FLOP *** 
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl raises 220 to 420
+YL_ML_GL_42 folds
+RIPtonStack folds
+Hash-Sama calls 220
+*** FLOP *** [Jd 7h 2c]
+Hash-Sama checks
+IIIlIIIIl bets 327
+Hash-Sama calls 327
+*** TURN *** [Jd 7h 2c][Ks]
+Hash-Sama checks
+IIIlIIIIl checks
+*** RIVER *** [Jd 7h 2c Ks][5d]
+Hash-Sama bets 872
+IIIlIIIIl raises 1928 to 2800
+Hash-Sama folds
+IIIlIIIIl collected 5416 from pot
+*** SUMMARY ***
+Total pot 5416 | No rake
+Board: [Jd 7h 2c Ks 5d]
+Seat 1: IIIlIIIIl won 5416
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-25-1669752063 - Holdem no limit (25/100/200) - 2022/11/29 20:01:03 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #3 is the button
+Seat 1: IIIlIIIIl (24153, 3€ bounty)
+Seat 2: YL_ML_GL_42 (16370, 3€ bounty)
+Seat 3: RIPtonStack (18780, 3€ bounty)
+Seat 4: Hash-Sama (16250, 3€ bounty)
+Seat 5: wmx-kiw6kys (21164, 3€ bounty)
+Seat 6: Bet2P0ney (23263, 3€ bounty)
+*** ANTE/BLINDS ***
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+RIPtonStack posts ante 25
+Bet2P0ney posts ante 25
+Hash-Sama posts small blind 100
+wmx-kiw6kys posts big blind 200
+Dealt to YL_ML_GL_42 [Ac 9s]
+*** PRE-FLOP *** 
+Bet2P0ney raises 240 to 440
+IIIlIIIIl folds
+YL_ML_GL_42 raises 2126 to 2566
+RIPtonStack folds
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney folds
+YL_ML_GL_42 collected 3456 from pot
+*** SUMMARY ***
+Total pot 3456 | No rake
+Seat 2: YL_ML_GL_42 won 3456
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-26-1669752114 - Holdem no limit (25/100/200) - 2022/11/29 20:01:54 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #4 is the button
+Seat 1: IIIlIIIIl (24128, 3€ bounty)
+Seat 2: YL_ML_GL_42 (17235, 3€ bounty)
+Seat 3: RIPtonStack (18755, 3€ bounty)
+Seat 4: Hash-Sama (16125, 3€ bounty)
+Seat 5: wmx-kiw6kys (20939, 3€ bounty)
+Seat 6: Bet2P0ney (22798, 3€ bounty)
+*** ANTE/BLINDS ***
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+RIPtonStack posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts small blind 100
+Bet2P0ney posts big blind 200
+Dealt to YL_ML_GL_42 [2c Qh]
+*** PRE-FLOP *** 
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+RIPtonStack raises 300 to 500
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney calls 300
+*** FLOP *** [Ts 9c 4h]
+Bet2P0ney checks
+RIPtonStack bets 700
+Bet2P0ney calls 700
+*** TURN *** [Ts 9c 4h][Kd]
+Bet2P0ney checks
+RIPtonStack bets 1128
+Bet2P0ney folds
+RIPtonStack collected 3778 from pot
+*** SUMMARY ***
+Total pot 3778 | No rake
+Board: [Ts 9c 4h Kd]
+Seat 3: RIPtonStack won 3778
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-27-1669752206 - Holdem no limit (25/100/200) - 2022/11/29 20:03:26 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #5 is the button
+Seat 1: IIIlIIIIl (24103, 3€ bounty)
+Seat 2: YL_ML_GL_42 (17210, 3€ bounty)
+Seat 3: RIPtonStack (20180, 3€ bounty)
+Seat 4: Hash-Sama (16100, 3€ bounty)
+Seat 5: wmx-kiw6kys (20814, 3€ bounty)
+Seat 6: Bet2P0ney (21573, 3€ bounty)
+*** ANTE/BLINDS ***
+Bet2P0ney posts ante 25
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+RIPtonStack posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts small blind 100
+IIIlIIIIl posts big blind 200
+Dealt to YL_ML_GL_42 [5h Kd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+RIPtonStack raises 200 to 400
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl calls 200
+*** FLOP *** [Qc Qh Ad]
+IIIlIIIIl checks
+RIPtonStack bets 525
+IIIlIIIIl folds
+RIPtonStack collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | No rake
+Board: [Qc Qh Ad]
+Seat 3: RIPtonStack won 1575
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-28-1669752247 - Holdem no limit (25/100/200) - 2022/11/29 20:04:07 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #6 is the button
+Seat 1: IIIlIIIIl (23678, 3€ bounty)
+Seat 2: YL_ML_GL_42 (17185, 3€ bounty)
+Seat 3: RIPtonStack (20805, 3€ bounty)
+Seat 4: Hash-Sama (16075, 3€ bounty)
+Seat 5: wmx-kiw6kys (20789, 3€ bounty)
+Seat 6: Bet2P0ney (21448, 3€ bounty)
+*** ANTE/BLINDS ***
+IIIlIIIIl posts ante 25
+YL_ML_GL_42 posts ante 25
+RIPtonStack posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+IIIlIIIIl posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [2h Th]
+*** PRE-FLOP *** 
+RIPtonStack folds
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney raises 240 to 440
+IIIlIIIIl folds
+YL_ML_GL_42 calls 240
+*** FLOP *** [4s 8s 9h]
+YL_ML_GL_42 checks
+Bet2P0ney checks
+*** TURN *** [4s 8s 9h][8c]
+YL_ML_GL_42 checks
+Bet2P0ney checks
+*** RIVER *** [4s 8s 9h 8c][Js]
+YL_ML_GL_42 checks
+Bet2P0ney checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [2h Th] (One pair : 8)
+Bet2P0ney shows [Ah 3h] (One pair : 8)
+Bet2P0ney collected 1130 from pot
+*** SUMMARY ***
+Total pot 1130 | No rake
+Board: [4s 8s 9h 8c Js]
+Seat 2: YL_ML_GL_42 (big blind) showed [2h Th] and lost with One pair : 8
+Seat 6: Bet2P0ney (button) showed [Ah 3h] and won 1130 with One pair : 8
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 1 - HandId: #2603595864731549753-29-1669752314 - Holdem no limit (25/100/200) - 2022/11/29 20:05:14 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #1 is the button
+Seat 1: IIIlIIIIl (23553, 3€ bounty)
+Seat 2: YL_ML_GL_42 (16720, 3€ bounty)
+Seat 3: RIPtonStack (20780, 3€ bounty)
+Seat 4: Hash-Sama (16050, 3€ bounty)
+Seat 5: wmx-kiw6kys (20764, 3€ bounty)
+Seat 6: Bet2P0ney (22113, 3€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+RIPtonStack posts ante 25
+IIIlIIIIl posts ante 25
+Hash-Sama posts ante 25
+wmx-kiw6kys posts ante 25
+Bet2P0ney posts ante 25
+YL_ML_GL_42 posts small blind 100
+RIPtonStack posts big blind 200
+Dealt to YL_ML_GL_42 [4s 7s]
+*** PRE-FLOP *** 
+Hash-Sama folds
+wmx-kiw6kys raises 260 to 460
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+RIPtonStack calls 260
+*** FLOP *** [6c 8d 6h]
+RIPtonStack checks
+wmx-kiw6kys checks
+*** TURN *** [6c 8d 6h][Jc]
+RIPtonStack checks
+wmx-kiw6kys checks
+*** RIVER *** [6c 8d 6h Jc][5c]
+RIPtonStack bets 1170
+wmx-kiw6kys raises 2630 to 3800
+RIPtonStack calls 2630
+*** SHOW DOWN ***
+RIPtonStack shows [6d 4h] (Trips of 6)
+wmx-kiw6kys shows [Ac 4c] (Flush Ace high)
+wmx-kiw6kys collected 8770 from pot
+*** SUMMARY ***
+Total pot 8770 | No rake
+Board: [6c 8d 6h Jc 5c]
+Seat 3: RIPtonStack (big blind) showed [6d 4h] and lost with Trips of 6
+Seat 5: wmx-kiw6kys showed [Ac 4c] and won 8770 with Flush Ace high
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 2 - HandId: #2603595864731549753-30-1669752433 - Holdem no limit (30/125/250) - 2022/11/29 20:07:13 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #2 is the button
+Seat 1: IIIlIIIIl (23528, 3€ bounty)
+Seat 2: YL_ML_GL_42 (16595, 3€ bounty)
+Seat 3: RIPtonStack (16495, 3€ bounty)
+Seat 4: Hash-Sama (16025, 3€ bounty)
+Seat 5: wmx-kiw6kys (25249, 3€ bounty)
+Seat 6: Bet2P0ney (22088, 3€ bounty)
+*** ANTE/BLINDS ***
+RIPtonStack posts ante 30
+Hash-Sama posts ante 30
+IIIlIIIIl posts ante 30
+YL_ML_GL_42 posts ante 30
+wmx-kiw6kys posts ante 30
+Bet2P0ney posts ante 30
+RIPtonStack posts small blind 125
+Hash-Sama posts big blind 250
+Dealt to YL_ML_GL_42 [5h 2s]
+*** PRE-FLOP *** 
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl raises 275 to 525
+YL_ML_GL_42 folds
+RIPtonStack calls 400
+Hash-Sama folds
+*** FLOP *** [Tc 4h As]
+RIPtonStack bets 250
+IIIlIIIIl calls 250
+*** TURN *** [Tc 4h As][6s]
+RIPtonStack bets 250
+IIIlIIIIl calls 250
+*** RIVER *** [Tc 4h As 6s][Jh]
+RIPtonStack checks
+IIIlIIIIl checks
+*** SHOW DOWN ***
+IIIlIIIIl shows [8c 8h] (One pair : 8)
+RIPtonStack shows [Kc Qs] (Straight Ace high)
+RIPtonStack collected 2480 from pot
+*** SUMMARY ***
+Total pot 2480 | No rake
+Board: [Tc 4h As 6s Jh]
+Seat 1: IIIlIIIIl showed [8c 8h] and lost with One pair : 8
+Seat 3: RIPtonStack (small blind) showed [Kc Qs] and won 2480 with Straight Ace high
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 2 - HandId: #2603595864731549753-31-1669752534 - Holdem no limit (30/125/250) - 2022/11/29 20:08:54 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #3 is the button
+Seat 1: IIIlIIIIl (22473, 3€ bounty)
+Seat 2: YL_ML_GL_42 (16565, 3€ bounty)
+Seat 3: RIPtonStack (17920, 3€ bounty)
+Seat 4: Hash-Sama (15745, 3€ bounty)
+Seat 5: wmx-kiw6kys (25219, 3€ bounty)
+Seat 6: Bet2P0ney (22058, 3€ bounty)
+*** ANTE/BLINDS ***
+Hash-Sama posts ante 30
+wmx-kiw6kys posts ante 30
+IIIlIIIIl posts ante 30
+YL_ML_GL_42 posts ante 30
+RIPtonStack posts ante 30
+Bet2P0ney posts ante 30
+Hash-Sama posts small blind 125
+wmx-kiw6kys posts big blind 250
+Dealt to YL_ML_GL_42 [Kh 2h]
+*** PRE-FLOP *** 
+Bet2P0ney folds
+IIIlIIIIl raises 275 to 525
+YL_ML_GL_42 folds
+RIPtonStack raises 1275 to 1800
+Hash-Sama folds
+wmx-kiw6kys folds
+IIIlIIIIl folds
+RIPtonStack collected 2880 from pot
+*** SUMMARY ***
+Total pot 2880 | No rake
+Seat 3: RIPtonStack (button) won 2880
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 2 - HandId: #2603595864731549753-32-1669752581 - Holdem no limit (30/125/250) - 2022/11/29 20:09:41 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #4 is the button
+Seat 1: IIIlIIIIl (21918, 3€ bounty)
+Seat 2: YL_ML_GL_42 (16535, 3€ bounty)
+Seat 3: RIPtonStack (18970, 3€ bounty)
+Seat 4: Hash-Sama (15590, 3€ bounty)
+Seat 5: wmx-kiw6kys (24939, 3€ bounty)
+Seat 6: Bet2P0ney (22028, 3€ bounty)
+*** ANTE/BLINDS ***
+wmx-kiw6kys posts ante 30
+Bet2P0ney posts ante 30
+IIIlIIIIl posts ante 30
+YL_ML_GL_42 posts ante 30
+RIPtonStack posts ante 30
+Hash-Sama posts ante 30
+wmx-kiw6kys posts small blind 125
+Bet2P0ney posts big blind 250
+Dealt to YL_ML_GL_42 [Jc 3s]
+*** PRE-FLOP *** 
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+RIPtonStack folds
+Hash-Sama folds
+wmx-kiw6kys raises 750 to 1000
+Bet2P0ney folds
+wmx-kiw6kys collected 1430 from pot
+*** SUMMARY ***
+Total pot 1430 | No rake
+Seat 5: wmx-kiw6kys (small blind) won 1430
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 2 - HandId: #2603595864731549753-33-1669752631 - Holdem no limit (30/125/250) - 2022/11/29 20:10:31 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #5 is the button
+Seat 1: IIIlIIIIl (21888, 3€ bounty)
+Seat 2: YL_ML_GL_42 (16505, 3€ bounty)
+Seat 3: RIPtonStack (18940, 3€ bounty)
+Seat 4: Hash-Sama (15560, 3€ bounty)
+Seat 5: wmx-kiw6kys (25339, 3€ bounty)
+Seat 6: Bet2P0ney (21748, 3€ bounty)
+*** ANTE/BLINDS ***
+Bet2P0ney posts ante 30
+IIIlIIIIl posts ante 30
+YL_ML_GL_42 posts ante 30
+RIPtonStack posts ante 30
+Hash-Sama posts ante 30
+wmx-kiw6kys posts ante 30
+Bet2P0ney posts small blind 125
+IIIlIIIIl posts big blind 250
+Dealt to YL_ML_GL_42 [6h 8c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+RIPtonStack folds
+Hash-Sama raises 275 to 525
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl calls 275
+*** FLOP *** [8s Qd Jh]
+IIIlIIIIl checks
+Hash-Sama checks
+*** TURN *** [8s Qd Jh][Ad]
+IIIlIIIIl checks
+Hash-Sama checks
+*** RIVER *** [8s Qd Jh Ad][Ts]
+IIIlIIIIl bets 250
+Hash-Sama raises 803 to 1053
+IIIlIIIIl calls 803
+*** SHOW DOWN ***
+IIIlIIIIl shows [Ah 9s] (Straight Queen high)
+Hash-Sama shows [8h Ks] (Straight Ace high)
+Hash-Sama collected 3461 from pot
+*** SUMMARY ***
+Total pot 3461 | No rake
+Board: [8s Qd Jh Ad Ts]
+Seat 1: IIIlIIIIl (big blind) showed [Ah 9s] and lost with Straight Queen high
+Seat 4: Hash-Sama showed [8h Ks] and won 3461 with Straight Ace high
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 2 - HandId: #2603595864731549753-34-1669752714 - Holdem no limit (30/125/250) - 2022/11/29 20:11:54 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #6 is the button
+Seat 1: IIIlIIIIl (20280, 3€ bounty)
+Seat 2: YL_ML_GL_42 (16475, 3€ bounty)
+Seat 3: RIPtonStack (18910, 3€ bounty)
+Seat 4: Hash-Sama (17413, 3€ bounty)
+Seat 5: wmx-kiw6kys (25309, 3€ bounty)
+Seat 6: Bet2P0ney (21593, 3€ bounty)
+*** ANTE/BLINDS ***
+IIIlIIIIl posts ante 30
+YL_ML_GL_42 posts ante 30
+RIPtonStack posts ante 30
+Hash-Sama posts ante 30
+wmx-kiw6kys posts ante 30
+Bet2P0ney posts ante 30
+IIIlIIIIl posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [As 6c]
+*** PRE-FLOP *** 
+RIPtonStack raises 250 to 500
+Hash-Sama folds
+wmx-kiw6kys raises 1250 to 1750
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 raises 14695 to 16445 and is all-in
+RIPtonStack folds
+wmx-kiw6kys folds
+YL_ML_GL_42 collected 19000 from pot
+*** SUMMARY ***
+Total pot 19000 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 19000
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 3 - HandId: #2603595864731549753-35-1669752787 - Holdem no limit (35/150/300) - 2022/11/29 20:13:07 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #1 is the button
+Seat 1: IIIlIIIIl (20125, 3€ bounty)
+Seat 2: YL_ML_GL_42 (19000, 3€ bounty)
+Seat 3: RIPtonStack (18380, 3€ bounty)
+Seat 4: Hash-Sama (17383, 3€ bounty)
+Seat 5: wmx-kiw6kys (23529, 3€ bounty)
+Seat 6: Bet2P0ney (21563, 3€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+RIPtonStack posts ante 35
+IIIlIIIIl posts ante 35
+Hash-Sama posts ante 35
+wmx-kiw6kys posts ante 35
+Bet2P0ney posts ante 35
+YL_ML_GL_42 posts small blind 150
+RIPtonStack posts big blind 300
+Dealt to YL_ML_GL_42 [Th 4h]
+*** PRE-FLOP *** 
+Hash-Sama raises 330 to 630
+wmx-kiw6kys calls 630
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 calls 480
+RIPtonStack calls 330
+*** FLOP *** [Ks 8c Tc]
+YL_ML_GL_42 bets 2184
+RIPtonStack folds
+Hash-Sama folds
+wmx-kiw6kys calls 2184
+*** TURN *** [Ks 8c Tc][5d]
+YL_ML_GL_42 bets 4614
+wmx-kiw6kys folds
+YL_ML_GL_42 collected 11712 from pot
+*** SUMMARY ***
+Total pot 11712 | No rake
+Board: [Ks 8c Tc 5d]
+Seat 2: YL_ML_GL_42 (small blind) won 11712
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 3 - HandId: #2603595864731549753-36-1669752884 - Holdem no limit (35/150/300) - 2022/11/29 20:14:44 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #2 is the button
+Seat 1: IIIlIIIIl (20090, 3€ bounty)
+Seat 2: YL_ML_GL_42 (23249, 3€ bounty)
+Seat 3: RIPtonStack (17715, 3€ bounty)
+Seat 4: Hash-Sama (16718, 3€ bounty)
+Seat 5: wmx-kiw6kys (20680, 3€ bounty)
+Seat 6: Bet2P0ney (21528, 3€ bounty)
+*** ANTE/BLINDS ***
+RIPtonStack posts ante 35
+Hash-Sama posts ante 35
+IIIlIIIIl posts ante 35
+YL_ML_GL_42 posts ante 35
+wmx-kiw6kys posts ante 35
+Bet2P0ney posts ante 35
+RIPtonStack posts small blind 150
+Hash-Sama posts big blind 300
+Dealt to YL_ML_GL_42 [Qc Jh]
+*** PRE-FLOP *** 
+wmx-kiw6kys raises 300 to 600
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 calls 600
+RIPtonStack folds
+Hash-Sama calls 300
+*** FLOP *** [8s Ks 6s]
+Hash-Sama checks
+wmx-kiw6kys checks
+YL_ML_GL_42 checks
+*** TURN *** [8s Ks 6s][7c]
+Hash-Sama checks
+wmx-kiw6kys checks
+YL_ML_GL_42 checks
+*** RIVER *** [8s Ks 6s 7c][Qd]
+Hash-Sama checks
+wmx-kiw6kys checks
+YL_ML_GL_42 bets 1728
+Hash-Sama folds
+wmx-kiw6kys calls 1728
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Qc Jh] (One pair : Queens)
+wmx-kiw6kys shows [9d Kd] (One pair : Kings)
+wmx-kiw6kys collected 5616 from pot
+*** SUMMARY ***
+Total pot 5616 | No rake
+Board: [8s Ks 6s 7c Qd]
+Seat 2: YL_ML_GL_42 (button) showed [Qc Jh] and lost with One pair : Queens
+Seat 5: wmx-kiw6kys showed [9d Kd] and won 5616 with One pair : Kings
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 3 - HandId: #2603595864731549753-37-1669753023 - Holdem no limit (35/150/300) - 2022/11/29 20:17:03 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #3 is the button
+Seat 1: IIIlIIIIl (20055, 3€ bounty)
+Seat 2: YL_ML_GL_42 (20886, 3€ bounty)
+Seat 3: RIPtonStack (17530, 3€ bounty)
+Seat 4: Hash-Sama (16083, 3€ bounty)
+Seat 5: wmx-kiw6kys (23933, 3€ bounty)
+Seat 6: Bet2P0ney (21493, 3€ bounty)
+*** ANTE/BLINDS ***
+Hash-Sama posts ante 35
+wmx-kiw6kys posts ante 35
+IIIlIIIIl posts ante 35
+YL_ML_GL_42 posts ante 35
+RIPtonStack posts ante 35
+Bet2P0ney posts ante 35
+Hash-Sama posts small blind 150
+wmx-kiw6kys posts big blind 300
+Dealt to YL_ML_GL_42 [4d Th]
+*** PRE-FLOP *** 
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+RIPtonStack folds
+Hash-Sama folds
+wmx-kiw6kys collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 5: wmx-kiw6kys (big blind) won 660
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 3 - HandId: #2603595864731549753-38-1669753037 - Holdem no limit (35/150/300) - 2022/11/29 20:17:17 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #4 is the button
+Seat 1: IIIlIIIIl (20020, 3€ bounty)
+Seat 2: YL_ML_GL_42 (20851, 3€ bounty)
+Seat 3: RIPtonStack (17495, 3€ bounty)
+Seat 4: Hash-Sama (15898, 3€ bounty)
+Seat 5: wmx-kiw6kys (24258, 3€ bounty)
+Seat 6: Bet2P0ney (21458, 3€ bounty)
+*** ANTE/BLINDS ***
+wmx-kiw6kys posts ante 35
+Bet2P0ney posts ante 35
+IIIlIIIIl posts ante 35
+YL_ML_GL_42 posts ante 35
+RIPtonStack posts ante 35
+Hash-Sama posts ante 35
+wmx-kiw6kys posts small blind 150
+Bet2P0ney posts big blind 300
+Dealt to YL_ML_GL_42 [Ac As]
+*** PRE-FLOP *** 
+IIIlIIIIl raises 330 to 630
+YL_ML_GL_42 raises 1260 to 1890
+RIPtonStack folds
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 collected 3180 from pot
+*** SUMMARY ***
+Total pot 3180 | No rake
+Seat 2: YL_ML_GL_42 won 3180
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 3 - HandId: #2603595864731549753-39-1669753069 - Holdem no limit (35/150/300) - 2022/11/29 20:17:49 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #5 is the button
+Seat 1: IIIlIIIIl (19355, 3€ bounty)
+Seat 2: YL_ML_GL_42 (22106, 3€ bounty)
+Seat 3: RIPtonStack (17460, 3€ bounty)
+Seat 4: Hash-Sama (15863, 3€ bounty)
+Seat 5: wmx-kiw6kys (24073, 3€ bounty)
+Seat 6: Bet2P0ney (21123, 3€ bounty)
+*** ANTE/BLINDS ***
+Bet2P0ney posts ante 35
+IIIlIIIIl posts ante 35
+YL_ML_GL_42 posts ante 35
+RIPtonStack posts ante 35
+Hash-Sama posts ante 35
+wmx-kiw6kys posts ante 35
+Bet2P0ney posts small blind 150
+IIIlIIIIl posts big blind 300
+Dealt to YL_ML_GL_42 [Kc 4d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+RIPtonStack raises 450 to 750
+Hash-Sama raises 1500 to 2250
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl folds
+RIPtonStack raises 5160 to 7410
+Hash-Sama raises 8418 to 15828 and is all-in
+RIPtonStack calls 8418
+*** FLOP *** [9c Kd Tc]
+*** TURN *** [9c Kd Tc][Jh]
+*** RIVER *** [9c Kd Tc Jh][5c]
+*** SHOW DOWN ***
+RIPtonStack shows [Ad Kh] (One pair : Kings)
+Hash-Sama shows [Ks As] (One pair : Kings)
+Hash-Sama collected 16158 from pot
+RIPtonStack collected 16158 from pot
+*** SUMMARY ***
+Total pot 32316 | No rake
+Board: [9c Kd Tc Jh 5c]
+Seat 3: RIPtonStack showed [Ad Kh] and won 16158 with One pair : Kings
+Seat 4: Hash-Sama showed [Ks As] and won 16158 with One pair : Kings
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 4 - HandId: #2603595864731549753-40-1669753175 - Holdem no limit (40/175/350) - 2022/11/29 20:19:35 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #6 is the button
+Seat 1: IIIlIIIIl (19020, 3€ bounty)
+Seat 2: YL_ML_GL_42 (22071, 3€ bounty)
+Seat 3: RIPtonStack (17755, 3€ bounty)
+Seat 4: Hash-Sama (16158, 3€ bounty)
+Seat 5: wmx-kiw6kys (24038, 3€ bounty)
+Seat 6: Bet2P0ney (20938, 3€ bounty)
+*** ANTE/BLINDS ***
+IIIlIIIIl posts ante 40
+YL_ML_GL_42 posts ante 40
+RIPtonStack posts ante 40
+Hash-Sama posts ante 40
+wmx-kiw6kys posts ante 40
+Bet2P0ney posts ante 40
+IIIlIIIIl posts small blind 175
+YL_ML_GL_42 posts big blind 350
+Dealt to YL_ML_GL_42 [3h 9c]
+*** PRE-FLOP *** 
+RIPtonStack folds
+Hash-Sama folds
+wmx-kiw6kys raises 350 to 700
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+wmx-kiw6kys collected 1465 from pot
+*** SUMMARY ***
+Total pot 1465 | No rake
+Seat 5: wmx-kiw6kys won 1465
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 4 - HandId: #2603595864731549753-41-1669753206 - Holdem no limit (40/175/350) - 2022/11/29 20:20:06 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #1 is the button
+Seat 1: IIIlIIIIl (18805, 3€ bounty)
+Seat 2: YL_ML_GL_42 (21681, 3€ bounty)
+Seat 3: RIPtonStack (17715, 3€ bounty)
+Seat 4: Hash-Sama (16118, 3€ bounty)
+Seat 5: wmx-kiw6kys (24763, 3€ bounty)
+Seat 6: Bet2P0ney (20898, 3€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 40
+RIPtonStack posts ante 40
+IIIlIIIIl posts ante 40
+Hash-Sama posts ante 40
+wmx-kiw6kys posts ante 40
+Bet2P0ney posts ante 40
+YL_ML_GL_42 posts small blind 175
+RIPtonStack posts big blind 350
+Dealt to YL_ML_GL_42 [8s Th]
+*** PRE-FLOP *** 
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl raises 385 to 735
+YL_ML_GL_42 folds
+RIPtonStack calls 385
+*** FLOP *** [8c 5h 8h]
+RIPtonStack checks
+IIIlIIIIl bets 566
+RIPtonStack folds
+IIIlIIIIl collected 2451 from pot
+*** SUMMARY ***
+Total pot 2451 | No rake
+Board: [8c 5h 8h]
+Seat 1: IIIlIIIIl (button) won 2451
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 4 - HandId: #2603595864731549753-42-1669753266 - Holdem no limit (40/175/350) - 2022/11/29 20:21:06 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #2 is the button
+Seat 1: IIIlIIIIl (19915, 3€ bounty)
+Seat 2: YL_ML_GL_42 (21466, 3€ bounty)
+Seat 3: RIPtonStack (16940, 3€ bounty)
+Seat 4: Hash-Sama (16078, 3€ bounty)
+Seat 5: wmx-kiw6kys (24723, 3€ bounty)
+Seat 6: Bet2P0ney (20858, 3€ bounty)
+*** ANTE/BLINDS ***
+RIPtonStack posts ante 40
+Hash-Sama posts ante 40
+IIIlIIIIl posts ante 40
+YL_ML_GL_42 posts ante 40
+wmx-kiw6kys posts ante 40
+Bet2P0ney posts ante 40
+RIPtonStack posts small blind 175
+Hash-Sama posts big blind 350
+Dealt to YL_ML_GL_42 [5h Ts]
+*** PRE-FLOP *** 
+wmx-kiw6kys raises 350 to 700
+Bet2P0ney calls 700
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+RIPtonStack folds
+Hash-Sama calls 350
+*** FLOP *** [7s 5s 2c]
+Hash-Sama checks
+wmx-kiw6kys bets 1660
+Bet2P0ney calls 1660
+Hash-Sama folds
+*** TURN *** [7s 5s 2c][Kd]
+wmx-kiw6kys checks
+Bet2P0ney checks
+*** RIVER *** [7s 5s 2c Kd][2h]
+wmx-kiw6kys checks
+Bet2P0ney checks
+*** SHOW DOWN ***
+wmx-kiw6kys shows [7h Ah] (Two pairs : 7 and 2)
+Bet2P0ney shows [8s 8d] (Two pairs : 8 and 2)
+Bet2P0ney collected 5835 from pot
+*** SUMMARY ***
+Total pot 5835 | No rake
+Board: [7s 5s 2c Kd 2h]
+Seat 5: wmx-kiw6kys showed [7h Ah] and lost with Two pairs : 7 and 2
+Seat 6: Bet2P0ney showed [8s 8d] and won 5835 with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 4 - HandId: #2603595864731549753-43-1669753376 - Holdem no limit (40/175/350) - 2022/11/29 20:22:56 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #3 is the button
+Seat 1: IIIlIIIIl (19875, 3€ bounty)
+Seat 2: YL_ML_GL_42 (21426, 3€ bounty)
+Seat 3: RIPtonStack (16725, 3€ bounty)
+Seat 4: Hash-Sama (15338, 3€ bounty)
+Seat 5: wmx-kiw6kys (22323, 3€ bounty)
+Seat 6: Bet2P0ney (24293, 3€ bounty)
+*** ANTE/BLINDS ***
+Hash-Sama posts ante 40
+wmx-kiw6kys posts ante 40
+IIIlIIIIl posts ante 40
+YL_ML_GL_42 posts ante 40
+RIPtonStack posts ante 40
+Bet2P0ney posts ante 40
+Hash-Sama posts small blind 175
+wmx-kiw6kys posts big blind 350
+Dealt to YL_ML_GL_42 [9d Ac]
+*** PRE-FLOP *** 
+Bet2P0ney folds
+IIIlIIIIl raises 385 to 735
+YL_ML_GL_42 calls 735
+RIPtonStack folds
+Hash-Sama folds
+wmx-kiw6kys folds
+*** FLOP *** [6d 6s 9c]
+IIIlIIIIl checks
+YL_ML_GL_42 bets 1788
+IIIlIIIIl folds
+YL_ML_GL_42 collected 4023 from pot
+*** SUMMARY ***
+Total pot 4023 | No rake
+Board: [6d 6s 9c]
+Seat 2: YL_ML_GL_42 won 4023
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 4 - HandId: #2603595864731549753-44-1669753425 - Holdem no limit (40/175/350) - 2022/11/29 20:23:45 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #4 is the button
+Seat 1: IIIlIIIIl (19100, 3€ bounty)
+Seat 2: YL_ML_GL_42 (22886, 3€ bounty)
+Seat 3: RIPtonStack (16685, 3€ bounty)
+Seat 4: Hash-Sama (15123, 3€ bounty)
+Seat 5: wmx-kiw6kys (21933, 3€ bounty)
+Seat 6: Bet2P0ney (24253, 3€ bounty)
+*** ANTE/BLINDS ***
+wmx-kiw6kys posts ante 40
+Bet2P0ney posts ante 40
+IIIlIIIIl posts ante 40
+YL_ML_GL_42 posts ante 40
+RIPtonStack posts ante 40
+Hash-Sama posts ante 40
+wmx-kiw6kys posts small blind 175
+Bet2P0ney posts big blind 350
+Dealt to YL_ML_GL_42 [6s 2h]
+*** PRE-FLOP *** 
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+RIPtonStack raises 525 to 875
+Hash-Sama folds
+wmx-kiw6kys raises 2100 to 2975
+Bet2P0ney folds
+RIPtonStack calls 2100
+*** FLOP *** [5c 7d Kc]
+wmx-kiw6kys bets 2158
+RIPtonStack folds
+wmx-kiw6kys collected 8698 from pot
+*** SUMMARY ***
+Total pot 8698 | No rake
+Board: [5c 7d Kc]
+Seat 5: wmx-kiw6kys (small blind) won 8698
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 5 - HandId: #2603595864731549753-45-1669753489 - Holdem no limit (50/200/400) - 2022/11/29 20:24:49 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #5 is the button
+Seat 1: IIIlIIIIl (19060, 3€ bounty)
+Seat 2: YL_ML_GL_42 (22846, 3€ bounty)
+Seat 3: RIPtonStack (13670, 3€ bounty)
+Seat 4: Hash-Sama (15083, 3€ bounty)
+Seat 5: wmx-kiw6kys (25458, 3€ bounty)
+Seat 6: Bet2P0ney (23863, 3€ bounty)
+*** ANTE/BLINDS ***
+Bet2P0ney posts ante 50
+IIIlIIIIl posts ante 50
+YL_ML_GL_42 posts ante 50
+RIPtonStack posts ante 50
+Hash-Sama posts ante 50
+wmx-kiw6kys posts ante 50
+Bet2P0ney posts small blind 200
+IIIlIIIIl posts big blind 400
+Dealt to YL_ML_GL_42 [6h Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+RIPtonStack folds
+Hash-Sama raises 1000 to 1400
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl folds
+Hash-Sama collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Seat 4: Hash-Sama won 2300
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 5 - HandId: #2603595864731549753-46-1669753547 - Holdem no limit (50/200/400) - 2022/11/29 20:25:47 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #6 is the button
+Seat 1: IIIlIIIIl (18610, 3€ bounty)
+Seat 2: YL_ML_GL_42 (22796, 3€ bounty)
+Seat 3: RIPtonStack (13620, 3€ bounty)
+Seat 4: Hash-Sama (15933, 3€ bounty)
+Seat 5: wmx-kiw6kys (25408, 3€ bounty)
+Seat 6: Bet2P0ney (23613, 3€ bounty)
+*** ANTE/BLINDS ***
+IIIlIIIIl posts ante 50
+YL_ML_GL_42 posts ante 50
+RIPtonStack posts ante 50
+Hash-Sama posts ante 50
+wmx-kiw6kys posts ante 50
+Bet2P0ney posts ante 50
+IIIlIIIIl posts small blind 200
+YL_ML_GL_42 posts big blind 400
+Dealt to YL_ML_GL_42 [Jh 7h]
+*** PRE-FLOP *** 
+RIPtonStack folds
+Hash-Sama folds
+wmx-kiw6kys raises 400 to 800
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+wmx-kiw6kys collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 5: wmx-kiw6kys won 1700
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 5 - HandId: #2603595864731549753-47-1669753577 - Holdem no limit (50/200/400) - 2022/11/29 20:26:17 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #1 is the button
+Seat 1: IIIlIIIIl (18360, 3€ bounty)
+Seat 2: YL_ML_GL_42 (22346, 3€ bounty)
+Seat 3: RIPtonStack (13570, 3€ bounty)
+Seat 4: Hash-Sama (15883, 3€ bounty)
+Seat 5: wmx-kiw6kys (26258, 3€ bounty)
+Seat 6: Bet2P0ney (23563, 3€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 50
+RIPtonStack posts ante 50
+IIIlIIIIl posts ante 50
+Hash-Sama posts ante 50
+wmx-kiw6kys posts ante 50
+Bet2P0ney posts ante 50
+YL_ML_GL_42 posts small blind 200
+RIPtonStack posts big blind 400
+Dealt to YL_ML_GL_42 [Ks 8s]
+*** PRE-FLOP *** 
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney raises 440 to 840
+IIIlIIIIl folds
+YL_ML_GL_42 calls 640
+RIPtonStack folds
+*** FLOP *** [Ad 9h 4d]
+YL_ML_GL_42 bets 1904
+Bet2P0ney folds
+YL_ML_GL_42 collected 4284 from pot
+*** SUMMARY ***
+Total pot 4284 | No rake
+Board: [Ad 9h 4d]
+Seat 2: YL_ML_GL_42 (small blind) won 4284
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 5 - HandId: #2603595864731549753-48-1669753634 - Holdem no limit (50/200/400) - 2022/11/29 20:27:14 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #2 is the button
+Seat 1: IIIlIIIIl (18310, 3€ bounty)
+Seat 2: YL_ML_GL_42 (23836, 3€ bounty)
+Seat 3: RIPtonStack (13120, 3€ bounty)
+Seat 4: Hash-Sama (15833, 3€ bounty)
+Seat 5: wmx-kiw6kys (26208, 3€ bounty)
+Seat 6: Bet2P0ney (22673, 3€ bounty)
+*** ANTE/BLINDS ***
+RIPtonStack posts ante 50
+Hash-Sama posts ante 50
+IIIlIIIIl posts ante 50
+YL_ML_GL_42 posts ante 50
+wmx-kiw6kys posts ante 50
+Bet2P0ney posts ante 50
+RIPtonStack posts small blind 200
+Hash-Sama posts big blind 400
+Dealt to YL_ML_GL_42 [3d 5d]
+*** PRE-FLOP *** 
+wmx-kiw6kys raises 400 to 800
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+RIPtonStack folds
+Hash-Sama folds
+wmx-kiw6kys collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 5: wmx-kiw6kys won 1700
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 5 - HandId: #2603595864731549753-49-1669753667 - Holdem no limit (50/200/400) - 2022/11/29 20:27:47 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #3 is the button
+Seat 1: IIIlIIIIl (18260, 3€ bounty)
+Seat 2: YL_ML_GL_42 (23786, 3€ bounty)
+Seat 3: RIPtonStack (12870, 3€ bounty)
+Seat 4: Hash-Sama (15383, 3€ bounty)
+Seat 5: wmx-kiw6kys (27058, 3€ bounty)
+Seat 6: Bet2P0ney (22623, 3€ bounty)
+*** ANTE/BLINDS ***
+Hash-Sama posts ante 50
+wmx-kiw6kys posts ante 50
+IIIlIIIIl posts ante 50
+YL_ML_GL_42 posts ante 50
+RIPtonStack posts ante 50
+Bet2P0ney posts ante 50
+Hash-Sama posts small blind 200
+wmx-kiw6kys posts big blind 400
+Dealt to YL_ML_GL_42 [7s 5s]
+*** PRE-FLOP *** 
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+RIPtonStack folds
+Hash-Sama folds
+wmx-kiw6kys collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 5: wmx-kiw6kys (big blind) won 900
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 5 - HandId: #2603595864731549753-50-1669753698 - Holdem no limit (50/200/400) - 2022/11/29 20:28:18 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #4 is the button
+Seat 1: IIIlIIIIl (18210, 3€ bounty)
+Seat 2: YL_ML_GL_42 (23736, 3€ bounty)
+Seat 3: RIPtonStack (12820, 3€ bounty)
+Seat 4: Hash-Sama (15133, 3€ bounty)
+Seat 5: wmx-kiw6kys (27508, 3€ bounty)
+Seat 6: Bet2P0ney (22573, 3€ bounty)
+*** ANTE/BLINDS ***
+wmx-kiw6kys posts ante 50
+Bet2P0ney posts ante 50
+IIIlIIIIl posts ante 50
+YL_ML_GL_42 posts ante 50
+RIPtonStack posts ante 50
+Hash-Sama posts ante 50
+wmx-kiw6kys posts small blind 200
+Bet2P0ney posts big blind 400
+Dealt to YL_ML_GL_42 [9d 2h]
+*** PRE-FLOP *** 
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+RIPtonStack folds
+Hash-Sama raises 600 to 1000
+wmx-kiw6kys folds
+Bet2P0ney folds
+Hash-Sama collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 4: Hash-Sama (button) won 1900
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 5 - HandId: #2603595864731549753-51-1669753736 - Holdem no limit (50/200/400) - 2022/11/29 20:28:56 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #5 is the button
+Seat 1: IIIlIIIIl (18160, 3€ bounty)
+Seat 2: YL_ML_GL_42 (23686, 3€ bounty)
+Seat 3: RIPtonStack (12770, 3€ bounty)
+Seat 4: Hash-Sama (15983, 3€ bounty)
+Seat 5: wmx-kiw6kys (27258, 3€ bounty)
+Seat 6: Bet2P0ney (22123, 3€ bounty)
+*** ANTE/BLINDS ***
+Bet2P0ney posts ante 50
+IIIlIIIIl posts ante 50
+YL_ML_GL_42 posts ante 50
+RIPtonStack posts ante 50
+Hash-Sama posts ante 50
+wmx-kiw6kys posts ante 50
+Bet2P0ney posts small blind 200
+IIIlIIIIl posts big blind 400
+Dealt to YL_ML_GL_42 [7h 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 800 to 1200
+RIPtonStack folds
+Hash-Sama folds
+wmx-kiw6kys raises 2400 to 3600
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 raises 20036 to 23636 and is all-in
+wmx-kiw6kys calls 20036
+*** FLOP *** [Js Qd 4d]
+*** TURN *** [Js Qd 4d][2d]
+*** RIVER *** [Js Qd 4d 2d][7s]
+*** SHOW DOWN ***
+wmx-kiw6kys shows [Ks Kh] (One pair : Kings)
+YL_ML_GL_42 shows [7h 7d] (Trips of 7)
+YL_ML_GL_42 collected 48172 from pot
+*** SUMMARY ***
+Total pot 48172 | No rake
+Board: [Js Qd 4d 2d 7s]
+Seat 2: YL_ML_GL_42 showed [7h 7d] and won 48172 with Trips of 7
+Seat 5: wmx-kiw6kys (button) showed [Ks Kh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 5 - HandId: #2603595864731549753-52-1669753806 - Holdem no limit (50/200/400) - 2022/11/29 20:30:06 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #6 is the button
+Seat 1: IIIlIIIIl (17710, 3€ bounty)
+Seat 2: YL_ML_GL_42 (48172, 3€ bounty)
+Seat 3: RIPtonStack (12720, 3€ bounty)
+Seat 4: Hash-Sama (15933, 3€ bounty)
+Seat 5: wmx-kiw6kys (3572, 3€ bounty)
+Seat 6: Bet2P0ney (21873, 3€ bounty)
+*** ANTE/BLINDS ***
+IIIlIIIIl posts ante 50
+YL_ML_GL_42 posts ante 50
+RIPtonStack posts ante 50
+Hash-Sama posts ante 50
+wmx-kiw6kys posts ante 50
+Bet2P0ney posts ante 50
+IIIlIIIIl posts small blind 200
+YL_ML_GL_42 posts big blind 400
+Dealt to YL_ML_GL_42 [Ac 9c]
+*** PRE-FLOP *** 
+RIPtonStack folds
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl calls 200
+YL_ML_GL_42 raises 1100 to 1500
+IIIlIIIIl folds
+YL_ML_GL_42 collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 2200
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 6 - HandId: #2603595864731549753-53-1669753833 - Holdem no limit (60/250/500) - 2022/11/29 20:30:33 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #1 is the button
+Seat 1: IIIlIIIIl (17260, 3€ bounty)
+Seat 2: YL_ML_GL_42 (48822, 3€ bounty)
+Seat 3: RIPtonStack (12670, 3€ bounty)
+Seat 4: Hash-Sama (15883, 3€ bounty)
+Seat 5: wmx-kiw6kys (3522, 3€ bounty)
+Seat 6: Bet2P0ney (21823, 3€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+RIPtonStack posts ante 60
+IIIlIIIIl posts ante 60
+Hash-Sama posts ante 60
+wmx-kiw6kys posts ante 60
+Bet2P0ney posts ante 60
+YL_ML_GL_42 posts small blind 250
+RIPtonStack posts big blind 500
+Dealt to YL_ML_GL_42 [9d Jc]
+*** PRE-FLOP *** 
+Hash-Sama folds
+wmx-kiw6kys folds
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 raises 1000 to 1500
+RIPtonStack folds
+YL_ML_GL_42 collected 2360 from pot
+*** SUMMARY ***
+Total pot 2360 | No rake
+Seat 2: YL_ML_GL_42 (small blind) won 2360
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 6 - HandId: #2603595864731549753-54-1669753872 - Holdem no limit (60/250/500) - 2022/11/29 20:31:12 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #2 is the button
+Seat 1: IIIlIIIIl (17200, 3€ bounty)
+Seat 2: YL_ML_GL_42 (49622, 3€ bounty)
+Seat 3: RIPtonStack (12110, 3€ bounty)
+Seat 4: Hash-Sama (15823, 3€ bounty)
+Seat 5: wmx-kiw6kys (3462, 3€ bounty)
+Seat 6: Bet2P0ney (21763, 3€ bounty)
+*** ANTE/BLINDS ***
+RIPtonStack posts ante 60
+Hash-Sama posts ante 60
+IIIlIIIIl posts ante 60
+YL_ML_GL_42 posts ante 60
+wmx-kiw6kys posts ante 60
+Bet2P0ney posts ante 60
+RIPtonStack posts small blind 250
+Hash-Sama posts big blind 500
+Dealt to YL_ML_GL_42 [8s 8d]
+*** PRE-FLOP *** 
+wmx-kiw6kys folds
+Bet2P0ney raises 550 to 1050
+IIIlIIIIl folds
+YL_ML_GL_42 calls 1050
+RIPtonStack folds
+Hash-Sama calls 550
+*** FLOP *** [5c 3h 6d]
+Hash-Sama checks
+Bet2P0ney bets 1316
+YL_ML_GL_42 calls 1316
+Hash-Sama folds
+*** TURN *** [5c 3h 6d][9d]
+Bet2P0ney checks
+YL_ML_GL_42 bets 4155
+Bet2P0ney folds
+YL_ML_GL_42 collected 10547 from pot
+*** SUMMARY ***
+Total pot 10547 | No rake
+Board: [5c 3h 6d 9d]
+Seat 2: YL_ML_GL_42 (button) won 10547
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 6 - HandId: #2603595864731549753-55-1669753944 - Holdem no limit (60/250/500) - 2022/11/29 20:32:24 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #3 is the button
+Seat 1: IIIlIIIIl (17140, 3€ bounty)
+Seat 2: YL_ML_GL_42 (53588, 3€ bounty)
+Seat 3: RIPtonStack (11800, 3€ bounty)
+Seat 4: Hash-Sama (14713, 3€ bounty)
+Seat 5: wmx-kiw6kys (3402, 3€ bounty)
+Seat 6: Bet2P0ney (19337, 3€ bounty)
+*** ANTE/BLINDS ***
+Hash-Sama posts ante 60
+wmx-kiw6kys posts ante 60
+IIIlIIIIl posts ante 60
+YL_ML_GL_42 posts ante 60
+RIPtonStack posts ante 60
+Bet2P0ney posts ante 60
+Hash-Sama posts small blind 250
+wmx-kiw6kys posts big blind 500
+Dealt to YL_ML_GL_42 [9s 6h]
+*** PRE-FLOP *** 
+Bet2P0ney folds
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+RIPtonStack raises 625 to 1125
+Hash-Sama folds
+wmx-kiw6kys calls 625
+*** FLOP *** [Jd 3s 4c]
+wmx-kiw6kys checks
+RIPtonStack bets 1001
+wmx-kiw6kys raises 1214 to 2215
+RIPtonStack calls 1214
+*** TURN *** [Jd 3s 4c][2c]
+wmx-kiw6kys bets 2 and is all-in
+RIPtonStack calls 2
+*** RIVER *** [Jd 3s 4c 2c][Kh]
+*** SHOW DOWN ***
+wmx-kiw6kys shows [3d Th] (One pair : 3)
+RIPtonStack shows [4s Ah] (One pair : 4)
+RIPtonStack collected 7294 from pot
+*** SUMMARY ***
+Total pot 7294 | No rake
+Board: [Jd 3s 4c 2c Kh]
+Seat 3: RIPtonStack (button) showed [4s Ah] and won 7294 with One pair : 4
+Seat 5: wmx-kiw6kys (big blind) showed [3d Th] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 6 - HandId: #2603595864731549753-56-1669754003 - Holdem no limit (60/250/500) - 2022/11/29 20:33:23 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #4 is the button
+Seat 1: IIIlIIIIl (17080, 3€ bounty)
+Seat 2: YL_ML_GL_42 (53528, 3€ bounty)
+Seat 3: RIPtonStack (15692, 4.50€ bounty)
+Seat 4: Hash-Sama (14403, 3€ bounty)
+Seat 6: Bet2P0ney (19277, 3€ bounty)
+*** ANTE/BLINDS ***
+Bet2P0ney posts ante 60
+IIIlIIIIl posts ante 60
+YL_ML_GL_42 posts ante 60
+RIPtonStack posts ante 60
+Hash-Sama posts ante 60
+Bet2P0ney posts big blind 500
+Dealt to YL_ML_GL_42 [6h 4s]
+*** PRE-FLOP *** 
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+RIPtonStack raises 750 to 1250
+Hash-Sama folds
+Bet2P0ney calls 750
+*** FLOP *** [3c Td 9s]
+Bet2P0ney checks
+RIPtonStack bets 1000
+Bet2P0ney calls 1000
+*** TURN *** [3c Td 9s][2h]
+Bet2P0ney checks
+RIPtonStack bets 2000
+Bet2P0ney calls 2000
+*** RIVER *** [3c Td 9s 2h][Jc]
+Bet2P0ney checks
+RIPtonStack bets 11382 and is all-in
+Bet2P0ney folds
+RIPtonStack collected 20182 from pot
+*** SUMMARY ***
+Total pot 20182 | No rake
+Board: [3c Td 9s 2h Jc]
+Seat 3: RIPtonStack won 20182
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 6 - HandId: #2603595864731549753-57-1669754086 - Holdem no limit (60/250/500) - 2022/11/29 20:34:46 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #5 is the button
+Seat 1: IIIlIIIIl (17020, 3€ bounty)
+Seat 2: YL_ML_GL_42 (53468, 3€ bounty)
+Seat 3: RIPtonStack (20182, 4.50€ bounty)
+Seat 4: Hash-Sama (14343, 3€ bounty)
+Seat 5: Paulbac_1501 (20000, 3€ bounty)
+Seat 6: Bet2P0ney (14967, 3€ bounty)
+*** ANTE/BLINDS ***
+Bet2P0ney posts ante 60
+IIIlIIIIl posts ante 60
+YL_ML_GL_42 posts ante 60
+RIPtonStack posts ante 60
+Hash-Sama posts ante 60
+Bet2P0ney posts small blind 250
+IIIlIIIIl posts big blind 500
+Dealt to YL_ML_GL_42 [Ac 5s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+RIPtonStack folds
+Hash-Sama raises 750 to 1250
+Bet2P0ney folds
+IIIlIIIIl calls 750
+*** FLOP *** [3c Jh 9c]
+IIIlIIIIl checks
+Hash-Sama checks
+*** TURN *** [3c Jh 9c][Qd]
+IIIlIIIIl checks
+Hash-Sama bets 1525
+IIIlIIIIl calls 1525
+*** RIVER *** [3c Jh 9c Qd][Ad]
+IIIlIIIIl checks
+Hash-Sama bets 3050
+IIIlIIIIl folds
+Hash-Sama collected 9150 from pot
+*** SUMMARY ***
+Total pot 9150 | No rake
+Board: [3c Jh 9c Qd Ad]
+Seat 4: Hash-Sama won 9150
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 7 - HandId: #2603595864731549753-58-1669754197 - Holdem no limit (70/300/600) - 2022/11/29 20:36:37 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #6 is the button
+Seat 1: IIIlIIIIl (14185, 3€ bounty)
+Seat 2: YL_ML_GL_42 (53408, 3€ bounty)
+Seat 3: RIPtonStack (20122, 4.50€ bounty)
+Seat 4: Hash-Sama (17608, 3€ bounty)
+Seat 5: Paulbac_1501 (20000, 3€ bounty)
+Seat 6: Bet2P0ney (14657, 3€ bounty)
+*** ANTE/BLINDS ***
+IIIlIIIIl posts ante 70
+YL_ML_GL_42 posts ante 70
+RIPtonStack posts ante 70
+Hash-Sama posts ante 70
+Paulbac_1501 posts ante 70
+Bet2P0ney posts ante 70
+IIIlIIIIl posts small blind 300
+YL_ML_GL_42 posts big blind 600
+Dealt to YL_ML_GL_42 [Ks Kc]
+*** PRE-FLOP *** 
+RIPtonStack folds
+Hash-Sama folds
+Paulbac_1501 raises 600 to 1200
+Bet2P0ney raises 13387 to 14587 and is all-in
+IIIlIIIIl folds
+YL_ML_GL_42 raises 38751 to 53338 and is all-in
+Paulbac_1501 folds
+*** FLOP *** [8s 8c 9s]
+*** TURN *** [8s 8c 9s][4d]
+*** RIVER *** [8s 8c 9s 4d][Jc]
+*** SHOW DOWN ***
+Bet2P0ney shows [Qd Qs] (Two pairs : Queens and 8)
+YL_ML_GL_42 shows [Ks Kc] (Two pairs : Kings and 8)
+YL_ML_GL_42 collected 69845 from pot
+*** SUMMARY ***
+Total pot 69845 | No rake
+Board: [8s 8c 9s 4d Jc]
+Seat 2: YL_ML_GL_42 (big blind) showed [Ks Kc] and won 69845 with Two pairs : Kings and 8
+Seat 6: Bet2P0ney (button) showed [Qd Qs] and lost with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 7 - HandId: #2603595864731549753-59-1669754239 - Holdem no limit (70/300/600) - 2022/11/29 20:37:19 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #1 is the button
+Seat 1: IIIlIIIIl (13815, 3€ bounty)
+Seat 2: YL_ML_GL_42 (69845, 4.50€ bounty)
+Seat 3: RIPtonStack (20052, 4.50€ bounty)
+Seat 4: Hash-Sama (17538, 3€ bounty)
+Seat 5: Paulbac_1501 (18730, 3€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 70
+RIPtonStack posts ante 70
+IIIlIIIIl posts ante 70
+Hash-Sama posts ante 70
+Paulbac_1501 posts ante 70
+YL_ML_GL_42 posts small blind 300
+RIPtonStack posts big blind 600
+Dealt to YL_ML_GL_42 [9h Kc]
+*** PRE-FLOP *** 
+Hash-Sama folds
+Paulbac_1501 raises 600 to 1200
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+RIPtonStack folds
+Paulbac_1501 collected 2450 from pot
+*** SUMMARY ***
+Total pot 2450 | No rake
+Seat 5: Paulbac_1501 won 2450
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 7 - HandId: #2603595864731549753-60-1669754298 - Holdem no limit (70/300/600) - 2022/11/29 20:38:18 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #2 is the button
+Seat 1: IIIlIIIIl (13745, 3€ bounty)
+Seat 2: YL_ML_GL_42 (69475, 4.50€ bounty)
+Seat 3: RIPtonStack (19382, 4.50€ bounty)
+Seat 4: Hash-Sama (17468, 3€ bounty)
+Seat 5: Paulbac_1501 (19910, 3€ bounty)
+*** ANTE/BLINDS ***
+RIPtonStack posts ante 70
+Hash-Sama posts ante 70
+IIIlIIIIl posts ante 70
+YL_ML_GL_42 posts ante 70
+Paulbac_1501 posts ante 70
+RIPtonStack posts small blind 300
+Hash-Sama posts big blind 600
+Dealt to YL_ML_GL_42 [5h Ah]
+*** PRE-FLOP *** 
+Paulbac_1501 folds
+IIIlIIIIl folds
+YL_ML_GL_42 raises 1200 to 1800
+RIPtonStack folds
+Hash-Sama folds
+YL_ML_GL_42 collected 3050 from pot
+*** SUMMARY ***
+Total pot 3050 | No rake
+Seat 2: YL_ML_GL_42 (button) won 3050
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 7 - HandId: #2603595864731549753-61-1669754326 - Holdem no limit (70/300/600) - 2022/11/29 20:38:46 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #3 is the button
+Seat 1: IIIlIIIIl (13675, 3€ bounty)
+Seat 2: YL_ML_GL_42 (70655, 4.50€ bounty)
+Seat 3: RIPtonStack (19012, 4.50€ bounty)
+Seat 4: Hash-Sama (16798, 3€ bounty)
+Seat 5: Paulbac_1501 (19840, 3€ bounty)
+*** ANTE/BLINDS ***
+Hash-Sama posts ante 70
+Paulbac_1501 posts ante 70
+IIIlIIIIl posts ante 70
+YL_ML_GL_42 posts ante 70
+RIPtonStack posts ante 70
+Hash-Sama posts small blind 300
+Paulbac_1501 posts big blind 600
+Dealt to YL_ML_GL_42 [As 6s]
+*** PRE-FLOP *** 
+IIIlIIIIl folds
+YL_ML_GL_42 raises 1200 to 1800
+RIPtonStack folds
+Hash-Sama folds
+Paulbac_1501 folds
+YL_ML_GL_42 collected 3050 from pot
+*** SUMMARY ***
+Total pot 3050 | No rake
+Seat 2: YL_ML_GL_42 won 3050
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 7 - HandId: #2603595864731549753-62-1669754357 - Holdem no limit (70/300/600) - 2022/11/29 20:39:17 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #4 is the button
+Seat 1: IIIlIIIIl (13605, 3€ bounty)
+Seat 2: YL_ML_GL_42 (71835, 4.50€ bounty)
+Seat 3: RIPtonStack (18942, 4.50€ bounty)
+Seat 4: Hash-Sama (16428, 3€ bounty)
+Seat 5: Paulbac_1501 (19170, 3€ bounty)
+Seat 6: Insulofish (110336, 11.25€ bounty)
+*** ANTE/BLINDS ***
+Paulbac_1501 posts ante 70
+Insulofish posts ante 70
+IIIlIIIIl posts ante 70
+YL_ML_GL_42 posts ante 70
+RIPtonStack posts ante 70
+Hash-Sama posts ante 70
+Paulbac_1501 posts small blind 300
+Insulofish posts big blind 600
+Dealt to YL_ML_GL_42 [Ac Ts]
+*** PRE-FLOP *** 
+IIIlIIIIl folds
+YL_ML_GL_42 raises 1200 to 1800
+RIPtonStack folds
+Hash-Sama folds
+Paulbac_1501 raises 17300 to 19100 and is all-in
+Insulofish folds
+YL_ML_GL_42 calls 17300
+*** FLOP *** [Qc 3d 6c]
+*** TURN *** [Qc 3d 6c][3h]
+*** RIVER *** [Qc 3d 6c 3h][Jh]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ac Ts] (One pair : 3)
+Paulbac_1501 shows [9h 9c] (Two pairs : 9 and 3)
+Paulbac_1501 collected 39220 from pot
+*** SUMMARY ***
+Total pot 39220 | No rake
+Board: [Qc 3d 6c 3h Jh]
+Seat 2: YL_ML_GL_42 showed [Ac Ts] and lost with One pair : 3
+Seat 5: Paulbac_1501 (small blind) showed [9h 9c] and won 39220 with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 7 - HandId: #2603595864731549753-63-1669754391 - Holdem no limit (70/300/600) - 2022/11/29 20:39:51 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #5 is the button
+Seat 1: IIIlIIIIl (13535, 3€ bounty)
+Seat 2: YL_ML_GL_42 (52665, 4.50€ bounty)
+Seat 3: RIPtonStack (18872, 4.50€ bounty)
+Seat 4: Hash-Sama (16358, 3€ bounty)
+Seat 5: Paulbac_1501 (39220, 3€ bounty)
+Seat 6: Insulofish (109666, 11.25€ bounty)
+*** ANTE/BLINDS ***
+Insulofish posts ante 70
+IIIlIIIIl posts ante 70
+YL_ML_GL_42 posts ante 70
+RIPtonStack posts ante 70
+Hash-Sama posts ante 70
+Paulbac_1501 posts ante 70
+Insulofish posts small blind 300
+IIIlIIIIl posts big blind 600
+Dealt to YL_ML_GL_42 [Qh 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+RIPtonStack folds
+Hash-Sama folds
+Paulbac_1501 raises 600 to 1200
+Insulofish folds
+IIIlIIIIl raises 12265 to 13465 and is all-in
+Paulbac_1501 folds
+IIIlIIIIl collected 15385 from pot
+*** SUMMARY ***
+Total pot 15385 | No rake
+Seat 1: IIIlIIIIl (big blind) won 15385
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 7 - HandId: #2603595864731549753-64-1669754433 - Holdem no limit (70/300/600) - 2022/11/29 20:40:33 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #6 is the button
+Seat 1: IIIlIIIIl (15385, 3€ bounty)
+Seat 2: YL_ML_GL_42 (52595, 4.50€ bounty)
+Seat 3: RIPtonStack (18802, 4.50€ bounty)
+Seat 4: Hash-Sama (16288, 3€ bounty)
+Seat 5: Paulbac_1501 (37950, 3€ bounty)
+Seat 6: Insulofish (109296, 11.25€ bounty)
+*** ANTE/BLINDS ***
+IIIlIIIIl posts ante 70
+YL_ML_GL_42 posts ante 70
+RIPtonStack posts ante 70
+Hash-Sama posts ante 70
+Paulbac_1501 posts ante 70
+Insulofish posts ante 70
+IIIlIIIIl posts small blind 300
+YL_ML_GL_42 posts big blind 600
+Dealt to YL_ML_GL_42 [Qh 7s]
+*** PRE-FLOP *** 
+RIPtonStack folds
+Hash-Sama folds
+Paulbac_1501 raises 600 to 1200
+Insulofish calls 1200
+IIIlIIIIl folds
+YL_ML_GL_42 calls 600
+*** FLOP *** [2c Qs Ah]
+YL_ML_GL_42 checks
+Paulbac_1501 bets 1512
+Insulofish calls 1512
+YL_ML_GL_42 folds
+*** TURN *** [2c Qs Ah][3s]
+Paulbac_1501 bets 3672
+Insulofish folds
+Paulbac_1501 collected 11016 from pot
+*** SUMMARY ***
+Total pot 11016 | No rake
+Board: [2c Qs Ah 3s]
+Seat 5: Paulbac_1501 won 11016
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 7 - HandId: #2603595864731549753-65-1669754483 - Holdem no limit (70/300/600) - 2022/11/29 20:41:23 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #1 is the button
+Seat 1: IIIlIIIIl (15015, 3€ bounty)
+Seat 2: YL_ML_GL_42 (51325, 4.50€ bounty)
+Seat 3: RIPtonStack (18732, 4.50€ bounty)
+Seat 4: Hash-Sama (16218, 3€ bounty)
+Seat 5: Paulbac_1501 (42512, 3€ bounty)
+Seat 6: Insulofish (106514, 11.25€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 70
+RIPtonStack posts ante 70
+IIIlIIIIl posts ante 70
+Hash-Sama posts ante 70
+Paulbac_1501 posts ante 70
+Insulofish posts ante 70
+YL_ML_GL_42 posts small blind 300
+RIPtonStack posts big blind 600
+Dealt to YL_ML_GL_42 [8c Qh]
+*** PRE-FLOP *** 
+Hash-Sama folds
+Paulbac_1501 folds
+Insulofish folds
+IIIlIIIIl raises 660 to 1260
+YL_ML_GL_42 folds
+RIPtonStack raises 2760 to 4020
+IIIlIIIIl folds
+RIPtonStack collected 6000 from pot
+*** SUMMARY ***
+Total pot 6000 | No rake
+Seat 3: RIPtonStack (big blind) won 6000
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 7 - HandId: #2603595864731549753-66-1669754517 - Holdem no limit (70/300/600) - 2022/11/29 20:41:57 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #2 is the button
+Seat 1: IIIlIIIIl (13685, 3€ bounty)
+Seat 2: YL_ML_GL_42 (50955, 4.50€ bounty)
+Seat 3: RIPtonStack (20642, 4.50€ bounty)
+Seat 4: Hash-Sama (16148, 3€ bounty)
+Seat 5: Paulbac_1501 (42442, 3€ bounty)
+Seat 6: Insulofish (106444, 11.25€ bounty)
+*** ANTE/BLINDS ***
+RIPtonStack posts ante 70
+Hash-Sama posts ante 70
+IIIlIIIIl posts ante 70
+YL_ML_GL_42 posts ante 70
+Paulbac_1501 posts ante 70
+Insulofish posts ante 70
+RIPtonStack posts small blind 300
+Hash-Sama posts big blind 600
+Dealt to YL_ML_GL_42 [3h 8d]
+*** PRE-FLOP *** 
+Paulbac_1501 folds
+Insulofish folds
+IIIlIIIIl folds
+YL_ML_GL_42 folds
+RIPtonStack calls 300
+Hash-Sama checks
+*** FLOP *** [Ac 8c Js]
+RIPtonStack checks
+Hash-Sama checks
+*** TURN *** [Ac 8c Js][7s]
+RIPtonStack bets 810
+Hash-Sama folds
+RIPtonStack collected 2430 from pot
+*** SUMMARY ***
+Total pot 2430 | No rake
+Board: [Ac 8c Js 7s]
+Seat 3: RIPtonStack (small blind) won 2430
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 8 - HandId: #2603595864731549753-67-1669754608 - Holdem no limit (80/350/700) - 2022/11/29 20:43:28 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #3 is the button
+Seat 1: IIIlIIIIl (13615, 3€ bounty)
+Seat 2: YL_ML_GL_42 (50885, 4.50€ bounty)
+Seat 3: RIPtonStack (21592, 4.50€ bounty)
+Seat 4: Hash-Sama (15478, 3€ bounty)
+Seat 5: Paulbac_1501 (42372, 3€ bounty)
+Seat 6: Insulofish (106374, 11.25€ bounty)
+*** ANTE/BLINDS ***
+Hash-Sama posts ante 80
+Paulbac_1501 posts ante 80
+IIIlIIIIl posts ante 80
+YL_ML_GL_42 posts ante 80
+RIPtonStack posts ante 80
+Insulofish posts ante 80
+Hash-Sama posts small blind 350
+Paulbac_1501 posts big blind 700
+Dealt to YL_ML_GL_42 [As 4s]
+*** PRE-FLOP *** 
+Insulofish folds
+IIIlIIIIl folds
+YL_ML_GL_42 raises 1400 to 2100
+RIPtonStack folds
+Hash-Sama folds
+Paulbac_1501 calls 1400
+*** FLOP *** [8c 4c 4d]
+Paulbac_1501 checks
+YL_ML_GL_42 bets 1258
+Paulbac_1501 calls 1258
+*** TURN *** [8c 4c 4d][9c]
+Paulbac_1501 checks
+YL_ML_GL_42 bets 1887
+Paulbac_1501 raises 2735 to 4622
+YL_ML_GL_42 raises 42825 to 47447 and is all-in
+Paulbac_1501 calls 34312 and is all-in
+*** RIVER *** [8c 4c 4d 9c][Td]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [As 4s] (Trips of 4)
+Paulbac_1501 shows [Tc 7c] (Flush Ten high)
+Paulbac_1501 collected 85414 from main pot
+YL_ML_GL_42 collected 8513 from side pot 1
+*** SUMMARY ***
+Total pot 93927 | No rake
+Board: [8c 4c 4d 9c Td]
+Seat 2: YL_ML_GL_42 showed [As 4s] and won 8513 with Trips of 4
+Seat 5: Paulbac_1501 (big blind) showed [Tc 7c] and won 85414 with Flush Ten high
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 8 - HandId: #2603595864731549753-68-1669754691 - Holdem no limit (80/350/700) - 2022/11/29 20:44:51 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #4 is the button
+Seat 1: IIIlIIIIl (13535, 3€ bounty)
+Seat 2: YL_ML_GL_42 (8513, 4.50€ bounty)
+Seat 3: RIPtonStack (21512, 4.50€ bounty)
+Seat 4: Hash-Sama (15048, 3€ bounty)
+Seat 5: Paulbac_1501 (85414, 3€ bounty)
+Seat 6: Insulofish (106294, 11.25€ bounty)
+*** ANTE/BLINDS ***
+Paulbac_1501 posts ante 80
+Insulofish posts ante 80
+IIIlIIIIl posts ante 80
+YL_ML_GL_42 posts ante 80
+RIPtonStack posts ante 80
+Hash-Sama posts ante 80
+Paulbac_1501 posts small blind 350
+Insulofish posts big blind 700
+Dealt to YL_ML_GL_42 [7d 3h]
+*** PRE-FLOP *** 
+IIIlIIIIl raises 12755 to 13455 and is all-in
+YL_ML_GL_42 folds
+RIPtonStack folds
+Hash-Sama folds
+Paulbac_1501 folds
+Insulofish folds
+IIIlIIIIl collected 14985 from pot
+*** SUMMARY ***
+Total pot 14985 | No rake
+Seat 1: IIIlIIIIl won 14985
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 8 - HandId: #2603595864731549753-69-1669754719 - Holdem no limit (80/350/700) - 2022/11/29 20:45:19 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #5 is the button
+Seat 1: IIIlIIIIl (14985, 3€ bounty)
+Seat 2: YL_ML_GL_42 (8433, 4.50€ bounty)
+Seat 3: RIPtonStack (21432, 4.50€ bounty)
+Seat 4: Hash-Sama (14968, 3€ bounty)
+Seat 5: Paulbac_1501 (84984, 3€ bounty)
+Seat 6: Insulofish (105514, 11.25€ bounty)
+*** ANTE/BLINDS ***
+Insulofish posts ante 80
+IIIlIIIIl posts ante 80
+YL_ML_GL_42 posts ante 80
+RIPtonStack posts ante 80
+Hash-Sama posts ante 80
+Paulbac_1501 posts ante 80
+Insulofish posts small blind 350
+IIIlIIIIl posts big blind 700
+Dealt to YL_ML_GL_42 [3c 8h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+RIPtonStack raises 700 to 1400
+Hash-Sama folds
+Paulbac_1501 folds
+Insulofish folds
+IIIlIIIIl folds
+RIPtonStack collected 2930 from pot
+*** SUMMARY ***
+Total pot 2930 | No rake
+Seat 3: RIPtonStack won 2930
+
+
+Winamax Poker - Tournament "ROAD TO MASS START MYSTERY 50 €" buyIn: 9€ + 1€ level: 8 - HandId: #2603595864731549753-70-1669754739 - Holdem no limit (80/350/700) - 2022/11/29 20:45:39 UTC
+Table: 'ROAD TO MASS START MYSTERY 50 €(606196901)#0056' 6-max (real money) Seat #6 is the button
+Seat 1: IIIlIIIIl (14205, 3€ bounty)
+Seat 2: YL_ML_GL_42 (8353, 4.50€ bounty)
+Seat 3: RIPtonStack (22882, 4.50€ bounty)
+Seat 4: Hash-Sama (14888, 3€ bounty)
+Seat 5: Paulbac_1501 (84904, 3€ bounty)
+Seat 6: Insulofish (105084, 11.25€ bounty)
+*** ANTE/BLINDS ***
+IIIlIIIIl posts ante 80
+YL_ML_GL_42 posts ante 80
+RIPtonStack posts ante 80
+Hash-Sama posts ante 80
+Paulbac_1501 posts ante 80
+Insulofish posts ante 80
+IIIlIIIIl posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [Td Kh]
+*** PRE-FLOP *** 
+RIPtonStack folds
+Hash-Sama folds
+Paulbac_1501 raises 700 to 1400
+Insulofish folds
+IIIlIIIIl folds
+YL_ML_GL_42 raises 6873 to 8273 and is all-in
+Paulbac_1501 calls 6873
+*** FLOP *** [6c 7s 2h]
+*** TURN *** [6c 7s 2h][Jc]
+*** RIVER *** [6c 7s 2h Jc][3h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Td Kh] (High card : King)
+Paulbac_1501 shows [7h 6h] (Two pairs : 7 and 6)
+Paulbac_1501 collected 17376 from pot
+*** SUMMARY ***
+Total pot 17376 | No rake
+Board: [6c 7s 2h Jc 3h]
+Seat 2: YL_ML_GL_42 (big blind) showed [Td Kh] and lost with High card : King
+Seat 5: Paulbac_1501 showed [7h 6h] and won 17376 with Two pairs : 7 and 6
+
+

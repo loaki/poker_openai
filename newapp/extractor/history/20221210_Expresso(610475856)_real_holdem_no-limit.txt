@@ -1,0 +1,254 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2621973836517605377-1-1670707190 - Holdem no limit (10/20) - 2022/12/10 21:19:50 UTC
+Table: 'Expresso(610475856)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Joyu8 (500)
+Seat 2: YS_93 (500)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+YS_93 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [5s As]
+*** PRE-FLOP *** 
+Joyu8 folds
+YS_93 calls 10
+YL_ML_GL_42 raises 40 to 60
+YS_93 calls 40
+*** FLOP *** [Qc 7h 3h]
+YS_93 bets 440 and is all-in
+YL_ML_GL_42 folds
+YS_93 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Qc 7h 3h]
+Seat 2: YS_93 (small blind) won 560
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2621973836517605377-2-1670707208 - Holdem no limit (10/20) - 2022/12/10 21:20:08 UTC
+Table: 'Expresso(610475856)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Joyu8 (500)
+Seat 2: YS_93 (560)
+Seat 3: YL_ML_GL_42 (440)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Joyu8 posts big blind 20
+Dealt to YL_ML_GL_42 [8h 7d]
+*** PRE-FLOP *** 
+YS_93 raises 30 to 50
+YL_ML_GL_42 folds
+Joyu8 calls 30
+*** FLOP *** [Ts As Qc]
+Joyu8 checks
+YS_93 bets 110
+Joyu8 folds
+YS_93 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [Ts As Qc]
+Seat 2: YS_93 (button) won 220
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2621973836517605377-3-1670707228 - Holdem no limit (10/20) - 2022/12/10 21:20:28 UTC
+Table: 'Expresso(610475856)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Joyu8 (450)
+Seat 2: YS_93 (620)
+Seat 3: YL_ML_GL_42 (430)
+*** ANTE/BLINDS ***
+Joyu8 posts small blind 10
+YS_93 posts big blind 20
+Dealt to YL_ML_GL_42 [Ah Kh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 20 to 40
+Joyu8 calls 30
+YS_93 raises 60 to 100
+YL_ML_GL_42 raises 330 to 430 and is all-in
+Joyu8 folds
+YS_93 calls 330
+*** FLOP *** [2h 5s Qd]
+*** TURN *** [2h 5s Qd][2d]
+*** RIVER *** [2h 5s Qd 2d][Th]
+*** SHOW DOWN ***
+YS_93 shows [Kd Ac] (One pair : 2)
+YL_ML_GL_42 shows [Ah Kh] (One pair : 2)
+YL_ML_GL_42 collected 450 from pot
+YS_93 collected 450 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2h 5s Qd 2d Th]
+Seat 2: YS_93 (big blind) showed [Kd Ac] and won 450 with One pair : 2
+Seat 3: YL_ML_GL_42 (button) showed [Ah Kh] and won 450 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2621973836517605377-4-1670707249 - Holdem no limit (10/20) - 2022/12/10 21:20:49 UTC
+Table: 'Expresso(610475856)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Joyu8 (410)
+Seat 2: YS_93 (640)
+Seat 3: YL_ML_GL_42 (450)
+*** ANTE/BLINDS ***
+YS_93 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [2d 5d]
+*** PRE-FLOP *** 
+Joyu8 folds
+YS_93 raises 20 to 40
+YL_ML_GL_42 calls 20
+*** FLOP *** [Ad Ah Ts]
+YS_93 bets 600 and is all-in
+YL_ML_GL_42 folds
+YS_93 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [Ad Ah Ts]
+Seat 2: YS_93 (small blind) won 680
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2621973836517605377-5-1670707264 - Holdem no limit (10/20) - 2022/12/10 21:21:04 UTC
+Table: 'Expresso(610475856)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Joyu8 (410)
+Seat 2: YS_93 (680)
+Seat 3: YL_ML_GL_42 (410)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Joyu8 posts big blind 20
+Dealt to YL_ML_GL_42 [Qs Qh]
+*** PRE-FLOP *** 
+YS_93 calls 20
+YL_ML_GL_42 raises 60 to 80
+Joyu8 folds
+YS_93 calls 60
+*** FLOP *** [8s 9c 2d]
+YL_ML_GL_42 bets 45
+YS_93 raises 45 to 90
+YL_ML_GL_42 raises 240 to 330 and is all-in
+YS_93 calls 240
+*** TURN *** [8s 9c 2d][9h]
+*** RIVER *** [8s 9c 2d 9h][As]
+*** SHOW DOWN ***
+YS_93 shows [7d 5d] (One pair : 9)
+YL_ML_GL_42 shows [Qs Qh] (Two pairs : Queens and 9)
+YL_ML_GL_42 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [8s 9c 2d 9h As]
+Seat 2: YS_93 (button) showed [7d 5d] and lost with One pair : 9
+Seat 3: YL_ML_GL_42 (small blind) showed [Qs Qh] and won 840 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2621973836517605377-6-1670707309 - Holdem no limit (15/30) - 2022/12/10 21:21:49 UTC
+Table: 'Expresso(610475856)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Joyu8 (390)
+Seat 2: YS_93 (270)
+Seat 3: YL_ML_GL_42 (840)
+*** ANTE/BLINDS ***
+Joyu8 posts small blind 15
+YS_93 posts big blind 30
+Dealt to YL_ML_GL_42 [2s 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Joyu8 raises 30 to 60
+YS_93 raises 210 to 270 and is all-in
+Joyu8 folds
+YS_93 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: YS_93 (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2621973836517605377-7-1670707321 - Holdem no limit (15/30) - 2022/12/10 21:22:01 UTC
+Table: 'Expresso(610475856)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Joyu8 (330)
+Seat 2: YS_93 (330)
+Seat 3: YL_ML_GL_42 (840)
+*** ANTE/BLINDS ***
+YS_93 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [8s 9d]
+*** PRE-FLOP *** 
+Joyu8 folds
+YS_93 calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [3h 7s 3c]
+YS_93 bets 300 and is all-in
+YL_ML_GL_42 folds
+YS_93 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [3h 7s 3c]
+Seat 2: YS_93 (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2621973836517605377-8-1670707336 - Holdem no limit (15/30) - 2022/12/10 21:22:16 UTC
+Table: 'Expresso(610475856)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Joyu8 (330)
+Seat 2: YS_93 (360)
+Seat 3: YL_ML_GL_42 (810)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Joyu8 posts big blind 30
+Dealt to YL_ML_GL_42 [Jh 5s]
+*** PRE-FLOP *** 
+YS_93 raises 45 to 75
+YL_ML_GL_42 folds
+Joyu8 folds
+YS_93 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: YS_93 (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2621973836517605377-9-1670707346 - Holdem no limit (15/30) - 2022/12/10 21:22:26 UTC
+Table: 'Expresso(610475856)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Joyu8 (300)
+Seat 2: YS_93 (405)
+Seat 3: YL_ML_GL_42 (795)
+*** ANTE/BLINDS ***
+Joyu8 posts small blind 15
+YS_93 posts big blind 30
+Dealt to YL_ML_GL_42 [Th Qs]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+Joyu8 folds
+YS_93 raises 195 to 285
+YL_ML_GL_42 raises 510 to 795 and is all-in
+YS_93 calls 120 and is all-in
+*** FLOP *** [Kd 7s 3c]
+*** TURN *** [Kd 7s 3c][8s]
+*** RIVER *** [Kd 7s 3c 8s][6d]
+*** SHOW DOWN ***
+YS_93 shows [5d Ks] (One pair : Kings)
+YL_ML_GL_42 shows [Th Qs] (High card : King)
+YL_ML_GL_42 collected 390 from side pot 1
+YS_93 collected 825 from main pot
+*** SUMMARY ***
+Total pot 1215 | No rake
+Board: [Kd 7s 3c 8s 6d]
+Seat 2: YS_93 (big blind) showed [5d Ks] and won 825 with One pair : Kings
+Seat 3: YL_ML_GL_42 (button) showed [Th Qs] and won 390 with High card : King
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2621973836517605377-10-1670707363 - Holdem no limit (15/30) - 2022/12/10 21:22:43 UTC
+Table: 'Expresso(610475856)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Joyu8 (285)
+Seat 2: YS_93 (825)
+Seat 3: YL_ML_GL_42 (390)
+*** ANTE/BLINDS ***
+YS_93 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [5s Js]
+*** PRE-FLOP *** 
+Joyu8 folds
+YS_93 raises 60 to 90
+YL_ML_GL_42 raises 300 to 390 and is all-in
+YS_93 calls 300
+*** FLOP *** [4h 9s 3s]
+*** TURN *** [4h 9s 3s][7h]
+*** RIVER *** [4h 9s 3s 7h][2h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [5s Js] (High card : Jack)
+YS_93 shows [As Qs] (High card : Ace)
+YS_93 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [4h 9s 3s 7h 2h]
+Seat 2: YS_93 (small blind) showed [As Qs] and won 780 with High card : Ace
+Seat 3: YL_ML_GL_42 (big blind) showed [5s Js] and lost with High card : Jack
+
+

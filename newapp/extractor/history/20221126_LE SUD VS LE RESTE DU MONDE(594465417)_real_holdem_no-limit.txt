@@ -1,0 +1,3900 @@
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2553209524618002441-1-1669491027 - Holdem no limit (25/100/200) - 2022/11/26 19:30:27 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0008' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (20000, 0.90€ bounty)
+Seat 2: Anthobzh35 (20000, 0.90€ bounty)
+Seat 3: Kracoucass (20000, 0.90€ bounty)
+Seat 4: Link67420 (20000, 0.90€ bounty)
+Seat 5: quechulo (20000, 0.90€ bounty)
+Seat 6: MANU D NASH (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MANU D NASH posts ante 25
+YL_ML_GL_42 posts ante 25
+Anthobzh35 posts ante 25
+Kracoucass posts ante 25
+Link67420 posts ante 25
+quechulo posts ante 25
+MANU D NASH posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [5s Kd]
+*** PRE-FLOP *** 
+Anthobzh35 folds
+Kracoucass folds
+Link67420 folds
+quechulo raises 200 to 400
+MANU D NASH raises 1000 to 1400
+YL_ML_GL_42 folds
+quechulo folds
+MANU D NASH collected 2150 from pot
+*** SUMMARY ***
+Total pot 2150 | No rake
+Seat 6: MANU D NASH (small blind) won 2150
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2553209524618002441-2-1669491063 - Holdem no limit (25/100/200) - 2022/11/26 19:31:03 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0008' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (19775, 0.90€ bounty)
+Seat 2: Anthobzh35 (19975, 0.90€ bounty)
+Seat 3: Lou-Kali (20000, 0.90€ bounty)
+Seat 4: Link67420 (19975, 0.90€ bounty)
+Seat 5: quechulo (19575, 0.90€ bounty)
+Seat 6: MANU D NASH (20725, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Anthobzh35 posts ante 25
+Lou-Kali posts ante 25
+Link67420 posts ante 25
+quechulo posts ante 25
+MANU D NASH posts ante 25
+YL_ML_GL_42 posts small blind 100
+Anthobzh35 posts big blind 200
+Dealt to YL_ML_GL_42 [3c 3d]
+*** PRE-FLOP *** 
+Lou-Kali folds
+Link67420 folds
+quechulo folds
+MANU D NASH folds
+YL_ML_GL_42 raises 550 to 750
+Anthobzh35 raises 1500 to 2250
+YL_ML_GL_42 raises 17500 to 19750 and is all-in
+Anthobzh35 raises 200 to 19950 and is all-in
+*** FLOP *** [3s Ks 6h]
+*** TURN *** [3s Ks 6h][Ts]
+*** RIVER *** [3s Ks 6h Ts][8c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [3c 3d] (Trips of 3)
+Anthobzh35 shows [Ac Ad] (One pair : Aces)
+Anthobzh35 collected 200 from side pot 1
+YL_ML_GL_42 collected 39650 from main pot
+*** SUMMARY ***
+Total pot 39850 | No rake
+Board: [3s Ks 6h Ts 8c]
+Seat 1: YL_ML_GL_42 (small blind) showed [3c 3d] and won 39650 with Trips of 3
+Seat 2: Anthobzh35 (big blind) showed [Ac Ad] and won 200 with One pair : Aces
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2553209524618002441-3-1669491130 - Holdem no limit (25/100/200) - 2022/11/26 19:32:10 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0008' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (39650, 0.90€ bounty)
+Seat 2: Anthobzh35 (200, 0.90€ bounty)
+Seat 3: Lou-Kali (19975, 0.90€ bounty)
+Seat 4: gunnersafc (20000, 0.90€ bounty)
+Seat 5: quechulo (19550, 0.90€ bounty)
+Seat 6: MANU D NASH (20700, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Anthobzh35 posts ante 25
+Lou-Kali posts ante 25
+YL_ML_GL_42 posts ante 25
+gunnersafc posts ante 25
+quechulo posts ante 25
+MANU D NASH posts ante 25
+Anthobzh35 posts small blind 100
+Lou-Kali posts big blind 200
+Dealt to YL_ML_GL_42 [2d 3d]
+*** PRE-FLOP *** 
+gunnersafc folds
+quechulo folds
+MANU D NASH raises 220 to 420
+YL_ML_GL_42 folds
+Anthobzh35 calls 75 and is all-in
+Lou-Kali folds
+*** FLOP *** [5d Kc Ts]
+*** TURN *** [5d Kc Ts][2h]
+*** RIVER *** [5d Kc Ts 2h][Jh]
+*** SHOW DOWN ***
+Anthobzh35 shows [3c 6c] (High card : King)
+MANU D NASH shows [Ah 7c] (High card : Ace)
+MANU D NASH collected 945 from pot
+*** SUMMARY ***
+Total pot 945 | No rake
+Board: [5d Kc Ts 2h Jh]
+Seat 2: Anthobzh35 (small blind) showed [3c 6c] and lost with High card : King
+Seat 6: MANU D NASH showed [Ah 7c] and won 945 with High card : Ace
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2553209524618002441-4-1669491205 - Holdem no limit (25/100/200) - 2022/11/26 19:33:25 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0008' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (39625, 0.90€ bounty)
+Seat 3: Lou-Kali (19750, 0.90€ bounty)
+Seat 4: gunnersafc (19975, 0.90€ bounty)
+Seat 5: quechulo (19525, 0.90€ bounty)
+Seat 6: MANU D NASH (21200, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Lou-Kali posts ante 25
+gunnersafc posts ante 25
+YL_ML_GL_42 posts ante 25
+quechulo posts ante 25
+MANU D NASH posts ante 25
+Lou-Kali posts small blind 100
+gunnersafc posts big blind 200
+Dealt to YL_ML_GL_42 [5d Jh]
+*** PRE-FLOP *** 
+quechulo folds
+MANU D NASH raises 220 to 420
+YL_ML_GL_42 folds
+Lou-Kali calls 320
+gunnersafc calls 220
+*** FLOP *** [8d 5h 4h]
+Lou-Kali checks
+gunnersafc checks
+MANU D NASH bets 776
+Lou-Kali folds
+gunnersafc calls 776
+*** TURN *** [8d 5h 4h][5s]
+gunnersafc checks
+MANU D NASH bets 2115
+gunnersafc folds
+MANU D NASH collected 5052 from pot
+*** SUMMARY ***
+Total pot 5052 | No rake
+Board: [8d 5h 4h 5s]
+Seat 6: MANU D NASH won 5052
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2553209524618002441-5-1669491266 - Holdem no limit (25/100/200) - 2022/11/26 19:34:26 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0008' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (39600, 0.90€ bounty)
+Seat 2: 25 GOAT (20000, 0.90€ bounty)
+Seat 3: Lou-Kali (19305, 0.90€ bounty)
+Seat 4: gunnersafc (18754, 0.90€ bounty)
+Seat 5: quechulo (19500, 0.90€ bounty)
+Seat 6: MANU D NASH (22916, 1.35€ bounty)
+*** ANTE/BLINDS ***
+gunnersafc posts ante 25
+quechulo posts ante 25
+YL_ML_GL_42 posts ante 25
+25 GOAT posts ante 25
+Lou-Kali posts ante 25
+MANU D NASH posts ante 25
+gunnersafc posts small blind 100
+quechulo posts big blind 200
+Dealt to YL_ML_GL_42 [3d Jd]
+*** PRE-FLOP *** 
+MANU D NASH raises 220 to 420
+YL_ML_GL_42 folds
+25 GOAT folds
+Lou-Kali folds
+gunnersafc calls 320
+quechulo calls 220
+*** FLOP *** [4h 8d 4d]
+gunnersafc checks
+quechulo checks
+MANU D NASH bets 790
+gunnersafc calls 790
+quechulo folds
+*** TURN *** [4h 8d 4d][2h]
+gunnersafc checks
+MANU D NASH bets 2153
+gunnersafc calls 2153
+*** RIVER *** [4h 8d 4d 2h][Ad]
+gunnersafc checks
+MANU D NASH checks
+*** SHOW DOWN ***
+MANU D NASH shows [Th Ts] (Two pairs : Tens and 4)
+gunnersafc shows [8s 8h] (Full of 8 and 4)
+gunnersafc collected 7296 from pot
+*** SUMMARY ***
+Total pot 7296 | No rake
+Board: [4h 8d 4d 2h Ad]
+Seat 4: gunnersafc (small blind) showed [8s 8h] and won 7296 with Full of 8 and 4
+Seat 6: MANU D NASH showed [Th Ts] and lost with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-1-1669491331 - Holdem no limit (25/100/200) - 2022/11/26 19:35:31 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: jumalu34 (41625, 1.35€ bounty)
+Seat 2: Atmarmy (20644, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (39575, 0.90€ bounty)
+Seat 5: Nestou30 (20000, 0.90€ bounty)
+Seat 6: Breizh-AV1 (17722, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Nestou30 posts ante 25
+jumalu34 posts ante 25
+Atmarmy posts ante 25
+Breizh-AV1 posts ante 25
+YL_ML_GL_42 posts small blind 100
+Nestou30 posts big blind 200
+Dealt to YL_ML_GL_42 [9d 7s]
+*** PRE-FLOP *** 
+Breizh-AV1 folds
+jumalu34 folds
+Atmarmy raises 400 to 600
+YL_ML_GL_42 folds
+Nestou30 raises 19375 to 19975 and is all-in
+Atmarmy calls 19375
+*** FLOP *** [Qs 4d Ks]
+*** TURN *** [Qs 4d Ks][2h]
+*** RIVER *** [Qs 4d Ks 2h][Ad]
+*** SHOW DOWN ***
+Atmarmy shows [Qh Kh] (Two pairs : Kings and Queens)
+Nestou30 shows [Kc Kd] (Trips of Kings)
+Nestou30 collected 40175 from pot
+*** SUMMARY ***
+Total pot 40175 | No rake
+Board: [Qs 4d Ks 2h Ad]
+Seat 2: Atmarmy (button) showed [Qh Kh] and lost with Two pairs : Kings and Queens
+Seat 5: Nestou30 (big blind) showed [Kc Kd] and won 40175 with Trips of Kings
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-2-1669491370 - Holdem no limit (25/100/200) - 2022/11/26 19:36:10 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: jumalu34 (41600, 1.35€ bounty)
+Seat 2: Atmarmy (644, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (39450, 0.90€ bounty)
+Seat 4: xawax44 (20000, 0.90€ bounty)
+Seat 5: Nestou30 (40175, 0.90€ bounty)
+Seat 6: Breizh-AV1 (17697, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+jumalu34 posts ante 25
+Atmarmy posts ante 25
+YL_ML_GL_42 posts ante 25
+Nestou30 posts small blind 100
+Breizh-AV1 posts big blind 200
+Dealt to YL_ML_GL_42 [3h 4h]
+*** PRE-FLOP *** 
+jumalu34 folds
+Atmarmy raises 419 to 619 and is all-in
+YL_ML_GL_42 folds
+Nestou30 raises 39531 to 40150 and is all-in
+Breizh-AV1 folds
+*** FLOP *** [8s Qs Td]
+*** TURN *** [8s Qs Td][Ad]
+*** RIVER *** [8s Qs Td Ad][6d]
+*** SHOW DOWN ***
+Atmarmy shows [7h 2c] (High card : Ace)
+Nestou30 shows [Ah Tc] (Two pairs : Aces and Tens)
+Nestou30 collected 41094 from pot
+*** SUMMARY ***
+Total pot 41094 | No rake
+Board: [8s Qs Td Ad 6d]
+Seat 2: Atmarmy showed [7h 2c] and lost with High card : Ace
+Seat 5: Nestou30 (small blind) showed [Ah Tc] and won 41094 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-3-1669491396 - Holdem no limit (25/100/200) - 2022/11/26 19:36:36 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: jumalu34 (41575, 1.35€ bounty)
+Seat 2: FwBerws (20000, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (39425, 0.90€ bounty)
+Seat 4: xawax44 (20000, 0.90€ bounty)
+Seat 5: Nestou30 (41094, 1.35€ bounty)
+Seat 6: Breizh-AV1 (17472, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Breizh-AV1 posts ante 25
+jumalu34 posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+xawax44 posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts small blind 100
+jumalu34 posts big blind 200
+Dealt to YL_ML_GL_42 [Ad 2c]
+*** PRE-FLOP *** 
+FwBerws folds
+YL_ML_GL_42 raises 400 to 600
+xawax44 calls 600
+Nestou30 folds
+Breizh-AV1 folds
+jumalu34 calls 400
+*** FLOP *** [Ac 4c Jh]
+jumalu34 checks
+YL_ML_GL_42 bets 1333
+xawax44 calls 1333
+jumalu34 calls 1333
+*** TURN *** [Ac 4c Jh][8c]
+jumalu34 checks
+YL_ML_GL_42 checks
+xawax44 checks
+*** RIVER *** [Ac 4c Jh 8c][As]
+jumalu34 checks
+YL_ML_GL_42 bets 3025
+xawax44 calls 3025
+jumalu34 folds
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ad 2c] (Trips of Aces)
+xawax44 shows [Ts Ah] (Trips of Aces)
+xawax44 collected 12099 from pot
+*** SUMMARY ***
+Total pot 12099 | No rake
+Board: [Ac 4c Jh 8c As]
+Seat 3: YL_ML_GL_42 showed [Ad 2c] and lost with Trips of Aces
+Seat 4: xawax44 showed [Ts Ah] and won 12099 with Trips of Aces
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-4-1669491520 - Holdem no limit (25/100/200) - 2022/11/26 19:38:40 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: jumalu34 (39617, 1.35€ bounty)
+Seat 2: FwBerws (19975, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (34442, 0.90€ bounty)
+Seat 4: xawax44 (27116, 0.90€ bounty)
+Seat 5: Nestou30 (41069, 1.35€ bounty)
+Seat 6: Breizh-AV1 (17347, 0.90€ bounty)
+*** ANTE/BLINDS ***
+jumalu34 posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+xawax44 posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+jumalu34 posts small blind 100
+FwBerws posts big blind 200
+Dealt to YL_ML_GL_42 [4d 7c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+xawax44 folds
+Nestou30 raises 200 to 400
+Breizh-AV1 folds
+jumalu34 folds
+FwBerws folds
+Nestou30 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 5: Nestou30 won 850
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-5-1669491544 - Holdem no limit (25/100/200) - 2022/11/26 19:39:04 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: jumalu34 (39492, 1.35€ bounty)
+Seat 2: FwBerws (19750, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (34417, 0.90€ bounty)
+Seat 4: xawax44 (27091, 0.90€ bounty)
+Seat 5: Nestou30 (41494, 1.35€ bounty)
+Seat 6: Breizh-AV1 (17322, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+jumalu34 posts ante 25
+xawax44 posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+FwBerws posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [8h 9c]
+*** PRE-FLOP *** 
+xawax44 folds
+Nestou30 folds
+Breizh-AV1 folds
+jumalu34 folds
+FwBerws folds
+YL_ML_GL_42 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 3: YL_ML_GL_42 (big blind) won 450
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-6-1669491596 - Holdem no limit (25/100/200) - 2022/11/26 19:39:56 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: jumalu34 (39467, 1.35€ bounty)
+Seat 2: FwBerws (19625, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (34642, 0.90€ bounty)
+Seat 4: xawax44 (27066, 0.90€ bounty)
+Seat 5: Nestou30 (41469, 1.35€ bounty)
+Seat 6: Breizh-AV1 (17297, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+xawax44 posts ante 25
+jumalu34 posts ante 25
+FwBerws posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+YL_ML_GL_42 posts small blind 100
+xawax44 posts big blind 200
+Dealt to YL_ML_GL_42 [Ah Td]
+*** PRE-FLOP *** 
+Nestou30 calls 200
+Breizh-AV1 folds
+jumalu34 folds
+FwBerws folds
+YL_ML_GL_42 raises 750 to 950
+xawax44 folds
+Nestou30 calls 750
+*** FLOP *** [6h Ac 5d]
+YL_ML_GL_42 bets 1125
+Nestou30 folds
+YL_ML_GL_42 collected 3375 from pot
+*** SUMMARY ***
+Total pot 3375 | No rake
+Board: [6h Ac 5d]
+Seat 3: YL_ML_GL_42 (small blind) won 3375
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-7-1669491632 - Holdem no limit (25/100/200) - 2022/11/26 19:40:32 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: jumalu34 (39442, 1.35€ bounty)
+Seat 2: FwBerws (19600, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (35917, 0.90€ bounty)
+Seat 4: xawax44 (26841, 0.90€ bounty)
+Seat 5: Nestou30 (40494, 1.35€ bounty)
+Seat 6: Breizh-AV1 (17272, 0.90€ bounty)
+*** ANTE/BLINDS ***
+xawax44 posts ante 25
+Nestou30 posts ante 25
+jumalu34 posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+Breizh-AV1 posts ante 25
+xawax44 posts small blind 100
+Nestou30 posts big blind 200
+Dealt to YL_ML_GL_42 [8s Qs]
+*** PRE-FLOP *** 
+Breizh-AV1 raises 250 to 450
+jumalu34 folds
+FwBerws folds
+YL_ML_GL_42 folds
+xawax44 folds
+Nestou30 calls 250
+*** FLOP *** [4h Th Jd]
+Nestou30 checks
+Breizh-AV1 checks
+*** TURN *** [4h Th Jd][Jh]
+Nestou30 checks
+Breizh-AV1 checks
+*** RIVER *** [4h Th Jd Jh][Ac]
+Nestou30 checks
+Breizh-AV1 bets 748
+Nestou30 folds
+Breizh-AV1 collected 1898 from pot
+*** SUMMARY ***
+Total pot 1898 | No rake
+Board: [4h Th Jd Jh Ac]
+Seat 6: Breizh-AV1 won 1898
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-8-1669491702 - Holdem no limit (25/100/200) - 2022/11/26 19:41:42 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: jumalu34 (39417, 1.35€ bounty)
+Seat 2: FwBerws (19575, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (35892, 0.90€ bounty)
+Seat 4: xawax44 (26716, 0.90€ bounty)
+Seat 5: Nestou30 (40019, 1.35€ bounty)
+Seat 6: Breizh-AV1 (17947, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+jumalu34 posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+xawax44 posts ante 25
+Nestou30 posts small blind 100
+Breizh-AV1 posts big blind 200
+Dealt to YL_ML_GL_42 [Jh Jd]
+*** PRE-FLOP *** 
+jumalu34 folds
+FwBerws folds
+YL_ML_GL_42 raises 400 to 600
+xawax44 calls 600
+Nestou30 folds
+Breizh-AV1 folds
+*** FLOP *** [7h 5s Jc]
+YL_ML_GL_42 checks
+xawax44 bets 578
+YL_ML_GL_42 calls 578
+*** TURN *** [7h 5s Jc][6c]
+YL_ML_GL_42 checks
+xawax44 bets 1403
+YL_ML_GL_42 calls 1403
+*** RIVER *** [7h 5s Jc 6c][6d]
+YL_ML_GL_42 checks
+xawax44 bets 2806
+YL_ML_GL_42 raises 30480 to 33286 and is all-in
+xawax44 calls 21304 and is all-in
+*** SHOW DOWN ***
+xawax44 shows [7s 8s] (Two pairs : 7 and 6)
+YL_ML_GL_42 shows [Jh Jd] (Full of Jacks and 6)
+YL_ML_GL_42 collected 63008 from pot
+*** SUMMARY ***
+Total pot 63008 | No rake
+Board: [7h 5s Jc 6c 6d]
+Seat 3: YL_ML_GL_42 showed [Jh Jd] and won 63008 with Full of Jacks and 6
+Seat 4: xawax44 (button) showed [7s 8s] and lost with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-9-1669491803 - Holdem no limit (25/100/200) - 2022/11/26 19:43:23 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: jumalu34 (39392, 1.35€ bounty)
+Seat 2: FwBerws (19550, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (63008, 1.35€ bounty)
+Seat 5: Nestou30 (39894, 1.35€ bounty)
+Seat 6: Breizh-AV1 (17722, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Breizh-AV1 posts ante 25
+jumalu34 posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts small blind 100
+jumalu34 posts big blind 200
+Dealt to YL_ML_GL_42 [Td 8s]
+*** PRE-FLOP *** 
+FwBerws folds
+YL_ML_GL_42 folds
+Nestou30 raises 400 to 600
+Breizh-AV1 raises 17097 to 17697 and is all-in
+jumalu34 folds
+Nestou30 calls 17097
+*** FLOP *** [3h Ad 9h]
+*** TURN *** [3h Ad 9h][Jc]
+*** RIVER *** [3h Ad 9h Jc][Ah]
+*** SHOW DOWN ***
+Nestou30 shows [6h 6s] (Two pairs : Aces and 6)
+Breizh-AV1 shows [Ac Kd] (Trips of Aces)
+Breizh-AV1 collected 35719 from pot
+*** SUMMARY ***
+Total pot 35719 | No rake
+Board: [3h Ad 9h Jc Ah]
+Seat 5: Nestou30 (button) showed [6h 6s] and lost with Two pairs : Aces and 6
+Seat 6: Breizh-AV1 (small blind) showed [Ac Kd] and won 35719 with Trips of Aces
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-10-1669491837 - Holdem no limit (25/100/200) - 2022/11/26 19:43:57 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: jumalu34 (39167, 1.35€ bounty)
+Seat 2: FwBerws (19525, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (62983, 1.35€ bounty)
+Seat 4: Fafouti (20000, 0.90€ bounty)
+Seat 5: Nestou30 (22172, 1.35€ bounty)
+Seat 6: Breizh-AV1 (35719, 0.90€ bounty)
+*** ANTE/BLINDS ***
+jumalu34 posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+Fafouti posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+jumalu34 posts small blind 100
+FwBerws posts big blind 200
+Dealt to YL_ML_GL_42 [8c Qc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 400 to 600
+Fafouti calls 600
+Nestou30 folds
+Breizh-AV1 folds
+jumalu34 folds
+FwBerws folds
+*** FLOP *** [6d Qh 4c]
+YL_ML_GL_42 bets 578
+Fafouti calls 578
+*** TURN *** [6d Qh 4c][4d]
+YL_ML_GL_42 bets 1403
+Fafouti calls 1403
+*** RIVER *** [6d Qh 4c 4d][Kc]
+YL_ML_GL_42 bets 3648
+Fafouti raises 13746 to 17394 and is all-in
+YL_ML_GL_42 calls 13746
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [8c Qc] (Two pairs : Queens and 4)
+Fafouti shows [4s Qs] (Full of 4 and Queens)
+Fafouti collected 40400 from pot
+*** SUMMARY ***
+Total pot 40400 | No rake
+Board: [6d Qh 4c 4d Kc]
+Seat 3: YL_ML_GL_42 showed [8c Qc] and lost with Two pairs : Queens and 4
+Seat 4: Fafouti showed [4s Qs] and won 40400 with Full of 4 and Queens
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-11-1669491899 - Holdem no limit (25/100/200) - 2022/11/26 19:44:59 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: jumalu34 (39042, 1.35€ bounty)
+Seat 2: FwBerws (19300, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (42983, 1.35€ bounty)
+Seat 4: Danye25 (20000, 0.90€ bounty)
+Seat 5: Nestou30 (22147, 1.35€ bounty)
+Seat 6: Breizh-AV1 (35694, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+jumalu34 posts ante 25
+Danye25 posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+FwBerws posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Th 3h]
+*** PRE-FLOP *** 
+Danye25 calls 200
+Nestou30 raises 850 to 1050
+Breizh-AV1 folds
+jumalu34 folds
+FwBerws folds
+YL_ML_GL_42 folds
+Danye25 calls 850
+*** FLOP *** [Jh 6c 3c]
+Danye25 bets 18925 and is all-in
+Nestou30 folds
+Danye25 collected 21475 from pot
+*** SUMMARY ***
+Total pot 21475 | No rake
+Board: [Jh 6c 3c]
+Seat 4: Danye25 won 21475
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-12-1669491938 - Holdem no limit (25/100/200) - 2022/11/26 19:45:38 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: jumalu34 (39017, 1.35€ bounty)
+Seat 2: FwBerws (19175, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (42758, 1.35€ bounty)
+Seat 4: Danye25 (21475, 0.90€ bounty)
+Seat 5: Nestou30 (21072, 1.35€ bounty)
+Seat 6: Breizh-AV1 (35669, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Danye25 posts ante 25
+jumalu34 posts ante 25
+FwBerws posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+YL_ML_GL_42 posts small blind 100
+Danye25 posts big blind 200
+Dealt to YL_ML_GL_42 [Tc 3d]
+*** PRE-FLOP *** 
+Nestou30 folds
+Breizh-AV1 folds
+jumalu34 raises 400 to 600
+FwBerws folds
+YL_ML_GL_42 folds
+Danye25 folds
+jumalu34 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 1: jumalu34 won 1050
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-13-1669491982 - Holdem no limit (25/100/200) - 2022/11/26 19:46:22 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: jumalu34 (39442, 1.35€ bounty)
+Seat 2: FwBerws (19150, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (42633, 1.35€ bounty)
+Seat 4: Danye25 (21250, 0.90€ bounty)
+Seat 5: Nestou30 (21047, 1.35€ bounty)
+Seat 6: Breizh-AV1 (35644, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Danye25 posts ante 25
+Nestou30 posts ante 25
+jumalu34 posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+Breizh-AV1 posts ante 25
+Danye25 posts small blind 100
+Nestou30 posts big blind 200
+Dealt to YL_ML_GL_42 [Tc 6c]
+*** PRE-FLOP *** 
+Breizh-AV1 folds
+jumalu34 folds
+FwBerws folds
+YL_ML_GL_42 raises 650 to 850
+Danye25 folds
+Nestou30 calls 650
+*** FLOP *** [7h 3d Ks]
+Nestou30 checks
+YL_ML_GL_42 checks
+*** TURN *** [7h 3d Ks][Jd]
+Nestou30 checks
+YL_ML_GL_42 checks
+*** RIVER *** [7h 3d Ks Jd][5c]
+Nestou30 checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Tc 6c] (High card : King)
+Nestou30 shows [8c Ah] (High card : Ace)
+Nestou30 collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | No rake
+Board: [7h 3d Ks Jd 5c]
+Seat 3: YL_ML_GL_42 (button) showed [Tc 6c] and lost with High card : King
+Seat 5: Nestou30 (big blind) showed [8c Ah] and won 1950 with High card : Ace
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-14-1669492042 - Holdem no limit (25/100/200) - 2022/11/26 19:47:22 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: jumalu34 (39417, 1.35€ bounty)
+Seat 2: FwBerws (19125, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (41758, 1.35€ bounty)
+Seat 4: Danye25 (21125, 0.90€ bounty)
+Seat 5: Nestou30 (22122, 1.35€ bounty)
+Seat 6: Breizh-AV1 (35619, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+jumalu34 posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+Danye25 posts ante 25
+Nestou30 posts small blind 100
+Breizh-AV1 posts big blind 200
+Dealt to YL_ML_GL_42 [Ks Tc]
+*** PRE-FLOP *** 
+jumalu34 folds
+FwBerws folds
+YL_ML_GL_42 raises 400 to 600
+Danye25 folds
+Nestou30 calls 500
+Breizh-AV1 calls 400
+*** FLOP *** [Qs Qh 9d]
+Nestou30 checks
+Breizh-AV1 checks
+YL_ML_GL_42 checks
+*** TURN *** [Qs Qh 9d][5h]
+Nestou30 bets 1268
+Breizh-AV1 calls 1268
+YL_ML_GL_42 folds
+*** RIVER *** [Qs Qh 9d 5h][3d]
+Nestou30 checks
+Breizh-AV1 checks
+*** SHOW DOWN ***
+Breizh-AV1 shows [Ad 5d] (Two pairs : Queens and 5)
+Nestou30 shows [Ac 9h] (Two pairs : Queens and 9)
+Nestou30 collected 4486 from pot
+*** SUMMARY ***
+Total pot 4486 | No rake
+Board: [Qs Qh 9d 5h 3d]
+Seat 5: Nestou30 (small blind) showed [Ac 9h] and won 4486 with Two pairs : Queens and 9
+Seat 6: Breizh-AV1 (big blind) showed [Ad 5d] and lost with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-15-1669492086 - Holdem no limit (25/100/200) - 2022/11/26 19:48:06 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: jumalu34 (39392, 1.35€ bounty)
+Seat 2: FwBerws (19100, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (41133, 1.35€ bounty)
+Seat 4: Danye25 (21100, 0.90€ bounty)
+Seat 5: Nestou30 (24715, 1.35€ bounty)
+Seat 6: Breizh-AV1 (33726, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Breizh-AV1 posts ante 25
+jumalu34 posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+Danye25 posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts small blind 100
+jumalu34 posts big blind 200
+Dealt to YL_ML_GL_42 [5s 7h]
+*** PRE-FLOP *** 
+FwBerws folds
+YL_ML_GL_42 folds
+Danye25 raises 850 to 1050
+Nestou30 folds
+Breizh-AV1 folds
+jumalu34 calls 850
+*** FLOP *** [8c 9d 8h]
+jumalu34 checks
+Danye25 bets 823
+jumalu34 calls 823
+*** TURN *** [8c 9d 8h][Ac]
+jumalu34 checks
+Danye25 bets 2597
+jumalu34 calls 2597
+*** RIVER *** [8c 9d 8h Ac][Jc]
+jumalu34 bets 34897 and is all-in
+Danye25 calls 16605 and is all-in
+*** SHOW DOWN ***
+Danye25 shows [Ad Ks] (Two pairs : Aces and 8)
+jumalu34 shows [Tc 7c] (Flush Ace high)
+jumalu34 collected 60692 from pot
+*** SUMMARY ***
+Total pot 60692 | No rake
+Board: [8c 9d 8h Ac Jc]
+Seat 1: jumalu34 (big blind) showed [Tc 7c] and won 60692 with Flush Ace high
+Seat 4: Danye25 showed [Ad Ks] and lost with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-16-1669492158 - Holdem no limit (25/100/200) - 2022/11/26 19:49:18 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: jumalu34 (60692, 1.80€ bounty)
+Seat 2: FwBerws (19075, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (41108, 1.35€ bounty)
+Seat 5: Nestou30 (24690, 1.35€ bounty)
+Seat 6: Breizh-AV1 (33601, 0.90€ bounty)
+*** ANTE/BLINDS ***
+jumalu34 posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+jumalu34 posts small blind 100
+FwBerws posts big blind 200
+Dealt to YL_ML_GL_42 [3h 3c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 400 to 600
+Nestou30 folds
+Breizh-AV1 calls 600
+jumalu34 folds
+FwBerws folds
+*** FLOP *** [2d 5c 2h]
+YL_ML_GL_42 bets 1056
+Breizh-AV1 calls 1056
+*** TURN *** [2d 5c 2h][5s]
+YL_ML_GL_42 checks
+Breizh-AV1 bets 1308
+YL_ML_GL_42 calls 1308
+*** RIVER *** [2d 5c 2h 5s][8h]
+YL_ML_GL_42 bets 5082
+Breizh-AV1 calls 5082
+*** SHOW DOWN ***
+Breizh-AV1 shows [Qc Ah] (Two pairs : 5 and 2)
+YL_ML_GL_42 shows [3h 3c] (Two pairs : 5 and 3)
+YL_ML_GL_42 collected 16517 from pot
+*** SUMMARY ***
+Total pot 16517 | No rake
+Board: [2d 5c 2h 5s 8h]
+Seat 3: YL_ML_GL_42 showed [3h 3c] and won 16517 with Two pairs : 5 and 3
+Seat 6: Breizh-AV1 (button) showed [Qc Ah] and lost with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-17-1669492215 - Holdem no limit (25/100/200) - 2022/11/26 19:50:15 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: jumalu34 (60567, 1.80€ bounty)
+Seat 2: FwBerws (18850, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (49554, 1.35€ bounty)
+Seat 4: ValocheCoca (20000, 0.90€ bounty)
+Seat 5: Nestou30 (24665, 1.35€ bounty)
+Seat 6: Breizh-AV1 (25530, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+jumalu34 posts ante 25
+ValocheCoca posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+FwBerws posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Ks Kd]
+*** PRE-FLOP *** 
+ValocheCoca folds
+Nestou30 raises 400 to 600
+Breizh-AV1 folds
+jumalu34 calls 600
+FwBerws folds
+YL_ML_GL_42 raises 2050 to 2650
+Nestou30 calls 2050
+jumalu34 calls 2050
+*** FLOP *** [2h 6c Jc]
+YL_ML_GL_42 bets 5330
+Nestou30 folds
+jumalu34 folds
+YL_ML_GL_42 collected 13530 from pot
+*** SUMMARY ***
+Total pot 13530 | No rake
+Board: [2h 6c Jc]
+Seat 3: YL_ML_GL_42 (big blind) won 13530
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-18-1669492249 - Holdem no limit (25/100/200) - 2022/11/26 19:50:49 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: jumalu34 (57892, 1.80€ bounty)
+Seat 2: FwBerws (18725, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (55079, 1.35€ bounty)
+Seat 4: ValocheCoca (19975, 0.90€ bounty)
+Seat 5: Nestou30 (21990, 1.35€ bounty)
+Seat 6: Breizh-AV1 (25505, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+ValocheCoca posts ante 25
+jumalu34 posts ante 25
+FwBerws posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+YL_ML_GL_42 posts small blind 100
+ValocheCoca posts big blind 200
+Dealt to YL_ML_GL_42 [8c Kd]
+*** PRE-FLOP *** 
+Nestou30 folds
+Breizh-AV1 folds
+jumalu34 raises 200 to 400
+FwBerws calls 400
+YL_ML_GL_42 calls 300
+ValocheCoca calls 200
+*** FLOP *** [9c 8s Ac]
+YL_ML_GL_42 bets 1138
+ValocheCoca calls 1138
+jumalu34 calls 1138
+FwBerws folds
+*** TURN *** [9c 8s Ac][3h]
+YL_ML_GL_42 checks
+ValocheCoca checks
+jumalu34 checks
+*** RIVER *** [9c 8s Ac 3h][5c]
+YL_ML_GL_42 checks
+ValocheCoca bets 18412 and is all-in
+jumalu34 folds
+YL_ML_GL_42 folds
+ValocheCoca collected 23576 from pot
+*** SUMMARY ***
+Total pot 23576 | No rake
+Board: [9c 8s Ac 3h 5c]
+Seat 4: ValocheCoca (big blind) won 23576
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-19-1669492331 - Holdem no limit (25/100/200) - 2022/11/26 19:52:11 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: jumalu34 (56329, 1.80€ bounty)
+Seat 2: FwBerws (18300, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (53516, 1.35€ bounty)
+Seat 4: ValocheCoca (23576, 0.90€ bounty)
+Seat 5: Nestou30 (21965, 1.35€ bounty)
+Seat 6: Breizh-AV1 (25480, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ValocheCoca posts ante 25
+Nestou30 posts ante 25
+jumalu34 posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+Breizh-AV1 posts ante 25
+ValocheCoca posts small blind 100
+Nestou30 posts big blind 200
+Dealt to YL_ML_GL_42 [2c 7d]
+*** PRE-FLOP *** 
+Breizh-AV1 folds
+jumalu34 folds
+FwBerws folds
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 5: Nestou30 (big blind) won 450
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-20-1669492338 - Holdem no limit (25/100/200) - 2022/11/26 19:52:18 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: jumalu34 (56304, 1.80€ bounty)
+Seat 2: FwBerws (18275, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (53491, 1.35€ bounty)
+Seat 4: ValocheCoca (23451, 0.90€ bounty)
+Seat 5: Nestou30 (22190, 1.35€ bounty)
+Seat 6: Breizh-AV1 (25455, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+jumalu34 posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+ValocheCoca posts ante 25
+Nestou30 posts small blind 100
+Breizh-AV1 posts big blind 200
+Dealt to YL_ML_GL_42 [4h Ah]
+*** PRE-FLOP *** 
+jumalu34 folds
+FwBerws folds
+YL_ML_GL_42 raises 400 to 600
+ValocheCoca calls 600
+Nestou30 calls 500
+Breizh-AV1 calls 400
+*** FLOP *** [Jd 4c 3d]
+Nestou30 checks
+Breizh-AV1 checks
+YL_ML_GL_42 checks
+ValocheCoca checks
+*** TURN *** [Jd 4c 3d][6d]
+Nestou30 checks
+Breizh-AV1 checks
+YL_ML_GL_42 checks
+ValocheCoca checks
+*** RIVER *** [Jd 4c 3d 6d][Qd]
+Nestou30 checks
+Breizh-AV1 checks
+YL_ML_GL_42 checks
+ValocheCoca checks
+*** SHOW DOWN ***
+ValocheCoca shows [3c Ac] (One pair : 3)
+Nestou30 shows [Tc Ks] (High card : King)
+Breizh-AV1 shows [9h Th] (High card : Queen)
+YL_ML_GL_42 shows [4h Ah] (One pair : 4)
+YL_ML_GL_42 collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Board: [Jd 4c 3d 6d Qd]
+Seat 3: YL_ML_GL_42 showed [4h Ah] and won 2550 with One pair : 4
+Seat 4: ValocheCoca (button) showed [3c Ac] and lost with One pair : 3
+Seat 5: Nestou30 (small blind) showed [Tc Ks] and lost with High card : King
+Seat 6: Breizh-AV1 (big blind) showed [9h Th] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-21-1669492409 - Holdem no limit (25/100/200) - 2022/11/26 19:53:29 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: jumalu34 (56279, 1.80€ bounty)
+Seat 2: FwBerws (18250, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (55416, 1.35€ bounty)
+Seat 4: ValocheCoca (22826, 0.90€ bounty)
+Seat 5: Nestou30 (21565, 1.35€ bounty)
+Seat 6: Breizh-AV1 (24830, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Breizh-AV1 posts ante 25
+jumalu34 posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+ValocheCoca posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts small blind 100
+jumalu34 posts big blind 200
+Dealt to YL_ML_GL_42 [3c Ad]
+*** PRE-FLOP *** 
+FwBerws folds
+YL_ML_GL_42 raises 200 to 400
+ValocheCoca calls 400
+Nestou30 folds
+Breizh-AV1 folds
+jumalu34 calls 200
+*** FLOP *** [6s Kd Qs]
+jumalu34 checks
+YL_ML_GL_42 checks
+ValocheCoca bets 200
+jumalu34 calls 200
+YL_ML_GL_42 calls 200
+*** TURN *** [6s Kd Qs][8d]
+jumalu34 checks
+YL_ML_GL_42 checks
+ValocheCoca bets 200
+jumalu34 calls 200
+YL_ML_GL_42 calls 200
+*** RIVER *** [6s Kd Qs 8d][8h]
+jumalu34 checks
+YL_ML_GL_42 checks
+ValocheCoca checks
+*** SHOW DOWN ***
+jumalu34 shows [Jd Ah] (One pair : 8)
+YL_ML_GL_42 shows [3c Ad] (One pair : 8)
+ValocheCoca shows [Qh Ts] (Two pairs : Queens and 8)
+ValocheCoca collected 2650 from pot
+*** SUMMARY ***
+Total pot 2650 | No rake
+Board: [6s Kd Qs 8d 8h]
+Seat 1: jumalu34 (big blind) showed [Jd Ah] and lost with One pair : 8
+Seat 3: YL_ML_GL_42 showed [3c Ad] and lost with One pair : 8
+Seat 4: ValocheCoca showed [Qh Ts] and won 2650 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-22-1669492459 - Holdem no limit (25/100/200) - 2022/11/26 19:54:19 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: jumalu34 (55454, 1.80€ bounty)
+Seat 2: FwBerws (18225, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (54591, 1.35€ bounty)
+Seat 4: ValocheCoca (24651, 0.90€ bounty)
+Seat 5: Nestou30 (21540, 1.35€ bounty)
+Seat 6: Breizh-AV1 (24705, 0.90€ bounty)
+*** ANTE/BLINDS ***
+jumalu34 posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+ValocheCoca posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+jumalu34 posts small blind 100
+FwBerws posts big blind 200
+Dealt to YL_ML_GL_42 [6s 9c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 folds
+Breizh-AV1 folds
+jumalu34 raises 200 to 400
+FwBerws folds
+jumalu34 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Seat 1: jumalu34 (small blind) won 750
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 30 - HandId: #2553209524618002557-23-1669492476 - Holdem no limit (25/100/200) - 2022/11/26 19:54:36 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: jumalu34 (55779, 1.80€ bounty)
+Seat 2: FwBerws (18000, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (54566, 1.35€ bounty)
+Seat 4: ValocheCoca (24626, 0.90€ bounty)
+Seat 5: Nestou30 (21515, 1.35€ bounty)
+Seat 6: Breizh-AV1 (24680, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+jumalu34 posts ante 25
+ValocheCoca posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+FwBerws posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [6s 6d]
+*** PRE-FLOP *** 
+ValocheCoca folds
+Nestou30 folds
+Breizh-AV1 folds
+jumalu34 raises 200 to 400
+FwBerws raises 900 to 1300
+YL_ML_GL_42 calls 1100
+jumalu34 calls 900
+*** FLOP *** [Ad 7d Ah]
+FwBerws bets 2800
+YL_ML_GL_42 folds
+jumalu34 folds
+FwBerws collected 6850 from pot
+*** SUMMARY ***
+Total pot 6850 | No rake
+Board: [Ad 7d Ah]
+Seat 2: FwBerws (small blind) won 6850
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2553209524618002557-24-1669492863 - Holdem no limit (25/100/200) - 2022/11/26 20:01:03 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: jumalu34 (54454, 1.80€ bounty)
+Seat 2: FwBerws (20725, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (53241, 1.35€ bounty)
+Seat 4: ValocheCoca (24601, 0.90€ bounty)
+Seat 5: Nestou30 (21490, 1.35€ bounty)
+Seat 6: Breizh-AV1 (24655, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+ValocheCoca posts ante 25
+jumalu34 posts ante 25
+FwBerws posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+YL_ML_GL_42 posts small blind 100
+ValocheCoca posts big blind 200
+Dealt to YL_ML_GL_42 [3h 6h]
+*** PRE-FLOP *** 
+Nestou30 folds
+Breizh-AV1 folds
+jumalu34 folds
+FwBerws raises 400 to 600
+YL_ML_GL_42 folds
+ValocheCoca folds
+FwBerws collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 2: FwBerws (button) won 1050
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2553209524618002557-25-1669492900 - Holdem no limit (25/100/200) - 2022/11/26 20:01:40 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: jumalu34 (54429, 1.80€ bounty)
+Seat 2: FwBerws (21150, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (53116, 1.35€ bounty)
+Seat 4: ValocheCoca (24376, 0.90€ bounty)
+Seat 5: Nestou30 (21465, 1.35€ bounty)
+Seat 6: Breizh-AV1 (24630, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ValocheCoca posts ante 25
+Nestou30 posts ante 25
+jumalu34 posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+Breizh-AV1 posts ante 25
+ValocheCoca posts small blind 100
+Nestou30 posts big blind 200
+Dealt to YL_ML_GL_42 [7d 6c]
+*** PRE-FLOP *** 
+Breizh-AV1 raises 250 to 450
+jumalu34 folds
+FwBerws folds
+YL_ML_GL_42 folds
+ValocheCoca calls 350
+Nestou30 calls 250
+*** FLOP *** [6d Th 2s]
+ValocheCoca checks
+Nestou30 checks
+Breizh-AV1 checks
+*** TURN *** [6d Th 2s][Qd]
+ValocheCoca bets 200
+Nestou30 folds
+Breizh-AV1 raises 1165 to 1365
+ValocheCoca calls 1165
+*** RIVER *** [6d Th 2s Qd][5s]
+ValocheCoca checks
+Breizh-AV1 bets 2750
+ValocheCoca calls 2750
+*** SHOW DOWN ***
+ValocheCoca shows [Qh 9s] (One pair : Queens)
+Breizh-AV1 shows [Qc Kd] (One pair : Queens)
+Breizh-AV1 collected 9730 from pot
+*** SUMMARY ***
+Total pot 9730 | No rake
+Board: [6d Th 2s Qd 5s]
+Seat 4: ValocheCoca (small blind) showed [Qh 9s] and lost with One pair : Queens
+Seat 6: Breizh-AV1 showed [Qc Kd] and won 9730 with One pair : Queens
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2553209524618002557-26-1669492965 - Holdem no limit (25/100/200) - 2022/11/26 20:02:45 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #4 is the button
+Seat 2: FwBerws (21125, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (53091, 1.35€ bounty)
+Seat 4: ValocheCoca (19786, 0.90€ bounty)
+Seat 5: Nestou30 (20990, 1.35€ bounty)
+Seat 6: Breizh-AV1 (29770, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+ValocheCoca posts ante 25
+Nestou30 posts small blind 100
+Breizh-AV1 posts big blind 200
+Dealt to YL_ML_GL_42 [5d Jh]
+*** PRE-FLOP *** 
+FwBerws folds
+YL_ML_GL_42 folds
+ValocheCoca calls 200
+Nestou30 raises 400 to 600
+Breizh-AV1 folds
+ValocheCoca calls 400
+*** FLOP *** [9s 4h Ah]
+Nestou30 checks
+ValocheCoca checks
+*** TURN *** [9s 4h Ah][Kh]
+Nestou30 bets 534
+ValocheCoca raises 534 to 1068
+Nestou30 calls 534
+*** RIVER *** [9s 4h Ah Kh][Th]
+Nestou30 checks
+ValocheCoca bets 200
+Nestou30 calls 200
+*** SHOW DOWN ***
+Nestou30 shows [5c Ad] (One pair : Aces)
+ValocheCoca shows [6h 8h] (Flush Ace high)
+ValocheCoca collected 4061 from pot
+*** SUMMARY ***
+Total pot 4061 | No rake
+Board: [9s 4h Ah Kh Th]
+Seat 4: ValocheCoca (button) showed [6h 8h] and won 4061 with Flush Ace high
+Seat 5: Nestou30 (small blind) showed [5c Ad] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2553209524618002557-27-1669493007 - Holdem no limit (25/100/200) - 2022/11/26 20:03:27 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: FishDe Paie (20000, 0.90€ bounty)
+Seat 2: FwBerws (21100, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (53066, 1.35€ bounty)
+Seat 4: ValocheCoca (21954, 0.90€ bounty)
+Seat 5: Nestou30 (19097, 1.35€ bounty)
+Seat 6: Breizh-AV1 (29545, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Breizh-AV1 posts ante 25
+FishDe Paie posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+ValocheCoca posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts small blind 100
+FishDe Paie posts big blind 200
+Dealt to YL_ML_GL_42 [7c Js]
+*** PRE-FLOP *** 
+FwBerws folds
+YL_ML_GL_42 folds
+ValocheCoca calls 200
+Nestou30 folds
+Breizh-AV1 calls 100
+FishDe Paie checks
+*** FLOP *** [9h 8s Jc]
+Breizh-AV1 checks
+FishDe Paie checks
+ValocheCoca checks
+*** TURN *** [9h 8s Jc][Ks]
+Breizh-AV1 checks
+FishDe Paie bets 200
+ValocheCoca folds
+Breizh-AV1 folds
+FishDe Paie collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Board: [9h 8s Jc Ks]
+Seat 1: FishDe Paie (big blind) won 950
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2553209524618002557-28-1669493063 - Holdem no limit (25/100/200) - 2022/11/26 20:04:23 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: FishDe Paie (20525, 0.90€ bounty)
+Seat 2: FwBerws (21075, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (53041, 1.35€ bounty)
+Seat 4: ValocheCoca (21729, 0.90€ bounty)
+Seat 5: Nestou30 (19072, 1.35€ bounty)
+Seat 6: Breizh-AV1 (29320, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FishDe Paie posts ante 25
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+ValocheCoca posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+FishDe Paie posts small blind 100
+FwBerws posts big blind 200
+Dealt to YL_ML_GL_42 [Kc Jh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 400 to 600
+ValocheCoca calls 600
+Nestou30 raises 1200 to 1800
+Breizh-AV1 folds
+FishDe Paie folds
+FwBerws folds
+YL_ML_GL_42 calls 1200
+ValocheCoca calls 1200
+*** FLOP *** [Ks 6h Td]
+YL_ML_GL_42 bets 3803
+ValocheCoca folds
+Nestou30 folds
+YL_ML_GL_42 collected 9653 from pot
+*** SUMMARY ***
+Total pot 9653 | No rake
+Board: [Ks 6h Td]
+Seat 3: YL_ML_GL_42 won 9653
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2553209524618002557-29-1669493112 - Holdem no limit (25/100/200) - 2022/11/26 20:05:12 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: FishDe Paie (20400, 0.90€ bounty)
+Seat 2: FwBerws (20850, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (57066, 1.35€ bounty)
+Seat 4: ValocheCoca (19904, 0.90€ bounty)
+Seat 5: Nestou30 (17247, 1.35€ bounty)
+Seat 6: Breizh-AV1 (29295, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FwBerws posts ante 25
+YL_ML_GL_42 posts ante 25
+FishDe Paie posts ante 25
+ValocheCoca posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+FwBerws posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [9d 6d]
+*** PRE-FLOP *** 
+ValocheCoca folds
+Nestou30 folds
+Breizh-AV1 raises 250 to 450
+FishDe Paie folds
+FwBerws folds
+YL_ML_GL_42 folds
+Breizh-AV1 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 6: Breizh-AV1 won 900
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2553209524618002557-30-1669493168 - Holdem no limit (25/100/200) - 2022/11/26 20:06:08 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: FishDe Paie (20375, 0.90€ bounty)
+Seat 2: FwBerws (20725, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (56841, 1.35€ bounty)
+Seat 4: ValocheCoca (19879, 0.90€ bounty)
+Seat 5: Nestou30 (17222, 1.35€ bounty)
+Seat 6: Breizh-AV1 (29720, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+ValocheCoca posts ante 25
+FishDe Paie posts ante 25
+FwBerws posts ante 25
+Nestou30 posts ante 25
+Breizh-AV1 posts ante 25
+YL_ML_GL_42 posts small blind 100
+ValocheCoca posts big blind 200
+Dealt to YL_ML_GL_42 [9d 3s]
+*** PRE-FLOP *** 
+Nestou30 raises 200 to 400
+Breizh-AV1 folds
+FishDe Paie folds
+FwBerws folds
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 5: Nestou30 won 850
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2553209524618002557-31-1669493199 - Holdem no limit (30/125/250) - 2022/11/26 20:06:39 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: FishDe Paie (20350, 0.90€ bounty)
+Seat 2: FwBerws (20700, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (56716, 1.35€ bounty)
+Seat 4: ValocheCoca (19654, 0.90€ bounty)
+Seat 5: Nestou30 (17647, 1.35€ bounty)
+Seat 6: Breizh-AV1 (29695, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ValocheCoca posts ante 30
+Nestou30 posts ante 30
+FishDe Paie posts ante 30
+FwBerws posts ante 30
+YL_ML_GL_42 posts ante 30
+Breizh-AV1 posts ante 30
+ValocheCoca posts small blind 125
+Nestou30 posts big blind 250
+Dealt to YL_ML_GL_42 [Ks 4c]
+*** PRE-FLOP *** 
+Breizh-AV1 folds
+FishDe Paie folds
+FwBerws folds
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Seat 5: Nestou30 (big blind) won 555
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2553209524618002557-32-1669493254 - Holdem no limit (30/125/250) - 2022/11/26 20:07:34 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: FishDe Paie (20320, 0.90€ bounty)
+Seat 2: FwBerws (20670, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (56686, 1.35€ bounty)
+Seat 4: ValocheCoca (19499, 0.90€ bounty)
+Seat 5: Nestou30 (17922, 1.35€ bounty)
+Seat 6: Breizh-AV1 (29665, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Nestou30 posts ante 30
+Breizh-AV1 posts ante 30
+FishDe Paie posts ante 30
+FwBerws posts ante 30
+YL_ML_GL_42 posts ante 30
+ValocheCoca posts ante 30
+Nestou30 posts small blind 125
+Breizh-AV1 posts big blind 250
+Dealt to YL_ML_GL_42 [6h 7d]
+*** PRE-FLOP *** 
+FishDe Paie folds
+FwBerws folds
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 raises 250 to 500
+Breizh-AV1 calls 250
+*** FLOP *** [Ah Kc Ts]
+Nestou30 checks
+Breizh-AV1 bets 413
+Nestou30 calls 413
+*** TURN *** [Ah Kc Ts][4s]
+Nestou30 checks
+Breizh-AV1 bets 702
+Nestou30 calls 702
+*** RIVER *** [Ah Kc Ts 4s][Td]
+Nestou30 checks
+Breizh-AV1 bets 1705
+Nestou30 calls 1705
+*** SHOW DOWN ***
+Nestou30 shows [Kh 8c] (Two pairs : Kings and Tens)
+Breizh-AV1 shows [Tc Ks] (Full of Tens and Kings)
+Breizh-AV1 collected 6820 from pot
+*** SUMMARY ***
+Total pot 6820 | No rake
+Board: [Ah Kc Ts 4s Td]
+Seat 5: Nestou30 (small blind) showed [Kh 8c] and lost with Two pairs : Kings and Tens
+Seat 6: Breizh-AV1 (big blind) showed [Tc Ks] and won 6820 with Full of Tens and Kings
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2553209524618002557-33-1669493336 - Holdem no limit (30/125/250) - 2022/11/26 20:08:56 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: FishDe Paie (20290, 0.90€ bounty)
+Seat 2: FwBerws (20640, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (56656, 1.35€ bounty)
+Seat 4: ValocheCoca (19469, 0.90€ bounty)
+Seat 5: Nestou30 (14572, 1.35€ bounty)
+Seat 6: Breizh-AV1 (33135, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Breizh-AV1 posts ante 30
+FishDe Paie posts ante 30
+FwBerws posts ante 30
+YL_ML_GL_42 posts ante 30
+ValocheCoca posts ante 30
+Nestou30 posts ante 30
+Breizh-AV1 posts small blind 125
+FishDe Paie posts big blind 250
+Dealt to YL_ML_GL_42 [2c Qd]
+*** PRE-FLOP *** 
+FwBerws raises 375 to 625
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 calls 625
+Breizh-AV1 calls 500
+FishDe Paie calls 375
+*** FLOP *** [Ad As Qh]
+Breizh-AV1 checks
+FishDe Paie checks
+FwBerws bets 1625
+Nestou30 folds
+Breizh-AV1 folds
+FishDe Paie folds
+FwBerws collected 4305 from pot
+*** SUMMARY ***
+Total pot 4305 | No rake
+Board: [Ad As Qh]
+Seat 2: FwBerws won 4305
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2553209524618002557-34-1669493421 - Holdem no limit (30/125/250) - 2022/11/26 20:10:21 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: FishDe Paie (19635, 0.90€ bounty)
+Seat 2: FwBerws (22665, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (56626, 1.35€ bounty)
+Seat 4: ValocheCoca (19439, 0.90€ bounty)
+Seat 5: Nestou30 (13917, 1.35€ bounty)
+Seat 6: Breizh-AV1 (32480, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FishDe Paie posts ante 30
+FwBerws posts ante 30
+YL_ML_GL_42 posts ante 30
+ValocheCoca posts ante 30
+Nestou30 posts ante 30
+Breizh-AV1 posts ante 30
+FishDe Paie posts small blind 125
+FwBerws posts big blind 250
+Dealt to YL_ML_GL_42 [Qh Jh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 500 to 750
+ValocheCoca folds
+Nestou30 folds
+Breizh-AV1 folds
+FishDe Paie folds
+FwBerws calls 500
+*** FLOP *** [7c 8s 6h]
+FwBerws checks
+YL_ML_GL_42 checks
+*** TURN *** [7c 8s 6h][2s]
+FwBerws bets 1375
+YL_ML_GL_42 folds
+FwBerws collected 3180 from pot
+*** SUMMARY ***
+Total pot 3180 | No rake
+Board: [7c 8s 6h 2s]
+Seat 2: FwBerws (big blind) won 3180
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2553209524618002557-35-1669493498 - Holdem no limit (30/125/250) - 2022/11/26 20:11:38 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: FishDe Paie (19480, 0.90€ bounty)
+Seat 2: FwBerws (23690, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (55846, 1.35€ bounty)
+Seat 4: ValocheCoca (19409, 0.90€ bounty)
+Seat 5: Nestou30 (13887, 1.35€ bounty)
+Seat 6: Breizh-AV1 (32450, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FwBerws posts ante 30
+YL_ML_GL_42 posts ante 30
+FishDe Paie posts ante 30
+ValocheCoca posts ante 30
+Nestou30 posts ante 30
+Breizh-AV1 posts ante 30
+FwBerws posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [5s 4h]
+*** PRE-FLOP *** 
+ValocheCoca raises 250 to 500
+Nestou30 calls 500
+Breizh-AV1 folds
+FishDe Paie raises 250 to 750
+FwBerws folds
+YL_ML_GL_42 folds
+ValocheCoca calls 250
+Nestou30 calls 250
+*** FLOP *** [Qh 5c 6c]
+ValocheCoca checks
+Nestou30 checks
+FishDe Paie checks
+*** TURN *** [Qh 5c 6c][Td]
+ValocheCoca checks
+Nestou30 checks
+FishDe Paie checks
+*** RIVER *** [Qh 5c 6c Td][Tc]
+ValocheCoca bets 250
+Nestou30 folds
+FishDe Paie folds
+ValocheCoca collected 3055 from pot
+*** SUMMARY ***
+Total pot 3055 | No rake
+Board: [Qh 5c 6c Td Tc]
+Seat 4: ValocheCoca won 3055
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2553209524618002557-36-1669493574 - Holdem no limit (35/150/300) - 2022/11/26 20:12:54 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: FishDe Paie (18700, 0.90€ bounty)
+Seat 2: FwBerws (23535, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (55566, 1.35€ bounty)
+Seat 4: ValocheCoca (21434, 0.90€ bounty)
+Seat 5: Nestou30 (13107, 1.35€ bounty)
+Seat 6: Breizh-AV1 (32420, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+ValocheCoca posts ante 35
+FishDe Paie posts ante 35
+FwBerws posts ante 35
+Nestou30 posts ante 35
+Breizh-AV1 posts ante 35
+YL_ML_GL_42 posts small blind 150
+ValocheCoca posts big blind 300
+Dealt to YL_ML_GL_42 [Qs 8s]
+*** PRE-FLOP *** 
+Nestou30 calls 300
+Breizh-AV1 raises 375 to 675
+FishDe Paie folds
+FwBerws folds
+YL_ML_GL_42 calls 525
+ValocheCoca calls 375
+Nestou30 calls 375
+*** FLOP *** [Kh 5s 6h]
+YL_ML_GL_42 checks
+ValocheCoca checks
+Nestou30 bets 2910
+Breizh-AV1 folds
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 collected 5820 from pot
+*** SUMMARY ***
+Total pot 5820 | No rake
+Board: [Kh 5s 6h]
+Seat 5: Nestou30 won 5820
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2553209524618002557-37-1669493656 - Holdem no limit (35/150/300) - 2022/11/26 20:14:16 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: FishDe Paie (18665, 0.90€ bounty)
+Seat 2: FwBerws (23500, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (54856, 1.35€ bounty)
+Seat 4: ValocheCoca (20724, 0.90€ bounty)
+Seat 5: Nestou30 (15307, 1.35€ bounty)
+Seat 6: Breizh-AV1 (31710, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ValocheCoca posts ante 35
+Nestou30 posts ante 35
+FishDe Paie posts ante 35
+FwBerws posts ante 35
+YL_ML_GL_42 posts ante 35
+Breizh-AV1 posts ante 35
+ValocheCoca posts small blind 150
+Nestou30 posts big blind 300
+Dealt to YL_ML_GL_42 [Jh 7s]
+*** PRE-FLOP *** 
+Breizh-AV1 folds
+FishDe Paie folds
+FwBerws folds
+YL_ML_GL_42 raises 960 to 1260
+ValocheCoca folds
+Nestou30 folds
+YL_ML_GL_42 collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | No rake
+Seat 3: YL_ML_GL_42 (button) won 1920
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2553209524618002557-38-1669493726 - Holdem no limit (35/150/300) - 2022/11/26 20:15:26 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: FishDe Paie (18630, 0.90€ bounty)
+Seat 2: FwBerws (23465, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (55481, 1.35€ bounty)
+Seat 4: ValocheCoca (20539, 0.90€ bounty)
+Seat 5: Nestou30 (14972, 1.35€ bounty)
+Seat 6: Breizh-AV1 (31675, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Nestou30 posts ante 35
+Breizh-AV1 posts ante 35
+FishDe Paie posts ante 35
+FwBerws posts ante 35
+YL_ML_GL_42 posts ante 35
+ValocheCoca posts ante 35
+Nestou30 posts small blind 150
+Breizh-AV1 posts big blind 300
+Dealt to YL_ML_GL_42 [2c 3d]
+*** PRE-FLOP *** 
+FishDe Paie folds
+FwBerws raises 450 to 750
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 calls 600
+Breizh-AV1 folds
+*** FLOP *** [Js Kd 7s]
+Nestou30 checks
+FwBerws bets 1350
+Nestou30 folds
+FwBerws collected 3360 from pot
+*** SUMMARY ***
+Total pot 3360 | No rake
+Board: [Js Kd 7s]
+Seat 2: FwBerws won 3360
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2553209524618002557-39-1669493762 - Holdem no limit (35/150/300) - 2022/11/26 20:16:02 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: FishDe Paie (18595, 0.90€ bounty)
+Seat 2: FwBerws (24690, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (55446, 1.35€ bounty)
+Seat 4: ValocheCoca (20504, 0.90€ bounty)
+Seat 5: Nestou30 (14187, 1.35€ bounty)
+Seat 6: Breizh-AV1 (31340, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Breizh-AV1 posts ante 35
+FishDe Paie posts ante 35
+FwBerws posts ante 35
+YL_ML_GL_42 posts ante 35
+ValocheCoca posts ante 35
+Nestou30 posts ante 35
+Breizh-AV1 posts small blind 150
+FishDe Paie posts big blind 300
+Dealt to YL_ML_GL_42 [Th Ad]
+*** PRE-FLOP *** 
+FwBerws folds
+YL_ML_GL_42 raises 600 to 900
+ValocheCoca calls 900
+Nestou30 raises 13252 to 14152 and is all-in
+Breizh-AV1 folds
+FishDe Paie folds
+YL_ML_GL_42 calls 13252
+ValocheCoca calls 13252
+*** FLOP *** [6c 6s 2s]
+YL_ML_GL_42 bets 41259 and is all-in
+ValocheCoca calls 6317 and is all-in
+*** TURN *** [6c 6s 2s][Kh]
+*** RIVER *** [6c 6s 2s Kh][3c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Th Ad] (One pair : 6)
+ValocheCoca shows [3d 7d] (Two pairs : 6 and 3)
+Nestou30 shows [3h 3s] (Full of 3 and 6)
+Nestou30 collected 43116 from main pot
+ValocheCoca collected 12634 from side pot 1
+YL_ML_GL_42 collected 34942 from side pot 2
+*** SUMMARY ***
+Total pot 90692 | No rake
+Board: [6c 6s 2s Kh 3c]
+Seat 3: YL_ML_GL_42 showed [Th Ad] and won 34942 with One pair : 6
+Seat 4: ValocheCoca showed [3d 7d] and won 12634 with Two pairs : 6 and 3
+Seat 5: Nestou30 (button) showed [3h 3s] and won 43116 with Full of 3 and 6
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2553209524618002557-40-1669493797 - Holdem no limit (35/150/300) - 2022/11/26 20:16:37 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: FishDe Paie (18260, 0.90€ bounty)
+Seat 2: FwBerws (24655, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (34942, 1.35€ bounty)
+Seat 4: ValocheCoca (12634, 0.90€ bounty)
+Seat 5: Nestou30 (43116, 1.35€ bounty)
+Seat 6: Breizh-AV1 (31155, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FishDe Paie posts ante 35
+FwBerws posts ante 35
+YL_ML_GL_42 posts ante 35
+ValocheCoca posts ante 35
+Nestou30 posts ante 35
+Breizh-AV1 posts ante 35
+FishDe Paie posts small blind 150
+FwBerws posts big blind 300
+Dealt to YL_ML_GL_42 [Ad 2c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 34607 to 34907 and is all-in
+ValocheCoca folds
+Nestou30 folds
+Breizh-AV1 folds
+FishDe Paie folds
+FwBerws folds
+YL_ML_GL_42 collected 35567 from pot
+*** SUMMARY ***
+Total pot 35567 | No rake
+Seat 3: YL_ML_GL_42 won 35567
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2553209524618002557-41-1669493817 - Holdem no limit (35/150/300) - 2022/11/26 20:16:57 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: FishDe Paie (18075, 0.90€ bounty)
+Seat 2: FwBerws (24320, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (35567, 1.35€ bounty)
+Seat 4: ValocheCoca (12599, 0.90€ bounty)
+Seat 5: Nestou30 (43081, 1.35€ bounty)
+Seat 6: Breizh-AV1 (31120, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FwBerws posts ante 35
+YL_ML_GL_42 posts ante 35
+FishDe Paie posts ante 35
+ValocheCoca posts ante 35
+Nestou30 posts ante 35
+Breizh-AV1 posts ante 35
+FwBerws posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [Td Ts]
+*** PRE-FLOP *** 
+ValocheCoca raises 12264 to 12564 and is all-in
+Nestou30 folds
+Breizh-AV1 folds
+FishDe Paie folds
+FwBerws folds
+YL_ML_GL_42 calls 12264
+*** FLOP *** [7c 4c 7d]
+*** TURN *** [7c 4c 7d][8h]
+*** RIVER *** [7c 4c 7d 8h][6c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Td Ts] (Two pairs : Tens and 7)
+ValocheCoca shows [5c Ad] (Straight 8 high)
+ValocheCoca collected 25488 from pot
+*** SUMMARY ***
+Total pot 25488 | No rake
+Board: [7c 4c 7d 8h 6c]
+Seat 3: YL_ML_GL_42 (big blind) showed [Td Ts] and lost with Two pairs : Tens and 7
+Seat 4: ValocheCoca showed [5c Ad] and won 25488 with Straight 8 high
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2553209524618002557-42-1669493836 - Holdem no limit (35/150/300) - 2022/11/26 20:17:16 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: FishDe Paie (18040, 0.90€ bounty)
+Seat 2: FwBerws (24135, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (22968, 1.35€ bounty)
+Seat 4: ValocheCoca (25488, 0.90€ bounty)
+Seat 5: Nestou30 (43046, 1.35€ bounty)
+Seat 6: Breizh-AV1 (31085, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+ValocheCoca posts ante 35
+FishDe Paie posts ante 35
+FwBerws posts ante 35
+Nestou30 posts ante 35
+Breizh-AV1 posts ante 35
+YL_ML_GL_42 posts small blind 150
+ValocheCoca posts big blind 300
+Dealt to YL_ML_GL_42 [7c Kc]
+*** PRE-FLOP *** 
+Nestou30 calls 300
+Breizh-AV1 folds
+FishDe Paie folds
+FwBerws folds
+YL_ML_GL_42 raises 22633 to 22933 and is all-in
+ValocheCoca folds
+Nestou30 folds
+YL_ML_GL_42 collected 23743 from pot
+*** SUMMARY ***
+Total pot 23743 | No rake
+Seat 3: YL_ML_GL_42 (small blind) won 23743
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2553209524618002557-43-1669493863 - Holdem no limit (35/150/300) - 2022/11/26 20:17:43 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: FishDe Paie (18005, 0.90€ bounty)
+Seat 2: FwBerws (24100, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (23743, 1.35€ bounty)
+Seat 4: ValocheCoca (25153, 0.90€ bounty)
+Seat 5: Nestou30 (42711, 1.35€ bounty)
+Seat 6: Breizh-AV1 (31050, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ValocheCoca posts ante 35
+Nestou30 posts ante 35
+FishDe Paie posts ante 35
+FwBerws posts ante 35
+YL_ML_GL_42 posts ante 35
+Breizh-AV1 posts ante 35
+ValocheCoca posts small blind 150
+Nestou30 posts big blind 300
+Dealt to YL_ML_GL_42 [3s 2h]
+*** PRE-FLOP *** 
+Breizh-AV1 folds
+FishDe Paie folds
+FwBerws folds
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 5: Nestou30 (big blind) won 660
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2553209524618002557-44-1669493874 - Holdem no limit (35/150/300) - 2022/11/26 20:17:54 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: FishDe Paie (17970, 0.90€ bounty)
+Seat 2: FwBerws (24065, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (23708, 1.35€ bounty)
+Seat 4: ValocheCoca (24968, 0.90€ bounty)
+Seat 5: Nestou30 (43036, 1.35€ bounty)
+Seat 6: Breizh-AV1 (31015, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Nestou30 posts ante 35
+Breizh-AV1 posts ante 35
+FishDe Paie posts ante 35
+FwBerws posts ante 35
+YL_ML_GL_42 posts ante 35
+ValocheCoca posts ante 35
+Nestou30 posts small blind 150
+Breizh-AV1 posts big blind 300
+Dealt to YL_ML_GL_42 [3h 8c]
+*** PRE-FLOP *** 
+FishDe Paie folds
+FwBerws folds
+YL_ML_GL_42 folds
+ValocheCoca raises 960 to 1260
+Nestou30 raises 41741 to 43001 and is all-in
+Breizh-AV1 folds
+ValocheCoca calls 23673 and is all-in
+*** FLOP *** [Ts Jd 3c]
+*** TURN *** [Ts Jd 3c][3s]
+*** RIVER *** [Ts Jd 3c 3s][7h]
+*** SHOW DOWN ***
+ValocheCoca shows [Kd Ks] (Two pairs : Kings and 3)
+Nestou30 shows [Qh As] (One pair : 3)
+Nestou30 collected 18068 from side pot 1
+ValocheCoca collected 50376 from main pot
+*** SUMMARY ***
+Total pot 68444 | No rake
+Board: [Ts Jd 3c 3s 7h]
+Seat 4: ValocheCoca (button) showed [Kd Ks] and won 50376 with Two pairs : Kings and 3
+Seat 5: Nestou30 (small blind) showed [Qh As] and won 18068 with One pair : 3
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2553209524618002557-45-1669493901 - Holdem no limit (35/150/300) - 2022/11/26 20:18:21 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: FishDe Paie (17935, 0.90€ bounty)
+Seat 2: FwBerws (24030, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (23673, 1.35€ bounty)
+Seat 4: ValocheCoca (50376, 0.90€ bounty)
+Seat 5: Nestou30 (18068, 1.35€ bounty)
+Seat 6: Breizh-AV1 (30680, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Breizh-AV1 posts ante 35
+FishDe Paie posts ante 35
+FwBerws posts ante 35
+YL_ML_GL_42 posts ante 35
+ValocheCoca posts ante 35
+Nestou30 posts ante 35
+Breizh-AV1 posts small blind 150
+FishDe Paie posts big blind 300
+Dealt to YL_ML_GL_42 [Ah Qh]
+*** PRE-FLOP *** 
+FwBerws raises 450 to 750
+YL_ML_GL_42 raises 2160 to 2910
+ValocheCoca calls 2910
+Nestou30 folds
+Breizh-AV1 folds
+FishDe Paie calls 2610
+FwBerws folds
+*** FLOP *** [6h 8c 2d]
+FishDe Paie checks
+YL_ML_GL_42 checks
+ValocheCoca checks
+*** TURN *** [6h 8c 2d][5h]
+FishDe Paie bets 300
+YL_ML_GL_42 raises 8292 to 8592
+ValocheCoca folds
+FishDe Paie folds
+YL_ML_GL_42 collected 18732 from pot
+*** SUMMARY ***
+Total pot 18732 | No rake
+Board: [6h 8c 2d 5h]
+Seat 3: YL_ML_GL_42 won 18732
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2553209524618002557-46-1669493954 - Holdem no limit (40/175/350) - 2022/11/26 20:19:14 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: FishDe Paie (14690, 0.90€ bounty)
+Seat 2: FwBerws (23245, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (30868, 1.35€ bounty)
+Seat 4: ValocheCoca (47431, 0.90€ bounty)
+Seat 5: Nestou30 (18033, 1.35€ bounty)
+Seat 6: Breizh-AV1 (30495, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FishDe Paie posts ante 40
+FwBerws posts ante 40
+YL_ML_GL_42 posts ante 40
+ValocheCoca posts ante 40
+Nestou30 posts ante 40
+Breizh-AV1 posts ante 40
+FishDe Paie posts small blind 175
+FwBerws posts big blind 350
+Dealt to YL_ML_GL_42 [Js Ks]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 1115 to 1465
+ValocheCoca folds
+Nestou30 folds
+Breizh-AV1 folds
+FishDe Paie folds
+FwBerws folds
+YL_ML_GL_42 collected 2230 from pot
+*** SUMMARY ***
+Total pot 2230 | No rake
+Seat 3: YL_ML_GL_42 won 2230
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2553209524618002557-47-1669493974 - Holdem no limit (40/175/350) - 2022/11/26 20:19:34 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: FishDe Paie (14475, 0.90€ bounty)
+Seat 2: FwBerws (22855, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (31593, 1.35€ bounty)
+Seat 4: ValocheCoca (47391, 0.90€ bounty)
+Seat 5: Nestou30 (17993, 1.35€ bounty)
+Seat 6: Breizh-AV1 (30455, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FwBerws posts ante 40
+YL_ML_GL_42 posts ante 40
+FishDe Paie posts ante 40
+ValocheCoca posts ante 40
+Nestou30 posts ante 40
+Breizh-AV1 posts ante 40
+FwBerws posts small blind 175
+YL_ML_GL_42 posts big blind 350
+Dealt to YL_ML_GL_42 [8c Ks]
+*** PRE-FLOP *** 
+ValocheCoca folds
+Nestou30 folds
+Breizh-AV1 folds
+FishDe Paie raises 14085 to 14435 and is all-in
+FwBerws folds
+YL_ML_GL_42 folds
+FishDe Paie collected 15200 from pot
+*** SUMMARY ***
+Total pot 15200 | No rake
+Seat 1: FishDe Paie (button) won 15200
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2553209524618002557-48-1669493995 - Holdem no limit (40/175/350) - 2022/11/26 20:19:55 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: FishDe Paie (15200, 0.90€ bounty)
+Seat 2: FwBerws (22640, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (31203, 1.35€ bounty)
+Seat 4: ValocheCoca (47351, 0.90€ bounty)
+Seat 5: Nestou30 (17953, 1.35€ bounty)
+Seat 6: Breizh-AV1 (30415, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 40
+ValocheCoca posts ante 40
+FishDe Paie posts ante 40
+FwBerws posts ante 40
+Nestou30 posts ante 40
+Breizh-AV1 posts ante 40
+YL_ML_GL_42 posts small blind 175
+ValocheCoca posts big blind 350
+Dealt to YL_ML_GL_42 [8s Qh]
+*** PRE-FLOP *** 
+Nestou30 raises 17563 to 17913 and is all-in
+Breizh-AV1 folds
+FishDe Paie folds
+FwBerws raises 4687 to 22600 and is all-in
+YL_ML_GL_42 folds
+ValocheCoca folds
+*** FLOP *** [3d 9c 5s]
+*** TURN *** [3d 9c 5s][8c]
+*** RIVER *** [3d 9c 5s 8c][5h]
+*** SHOW DOWN ***
+FwBerws shows [Qs Ah] (One pair : 5)
+Nestou30 shows [2s 2c] (Two pairs : 5 and 2)
+Nestou30 collected 36591 from main pot
+FwBerws collected 4687 from side pot 1
+*** SUMMARY ***
+Total pot 41278 | No rake
+Board: [3d 9c 5s 8c 5h]
+Seat 2: FwBerws (button) showed [Qs Ah] and won 4687 with One pair : 5
+Seat 5: Nestou30 showed [2s 2c] and won 36591 with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2553209524618002557-49-1669494029 - Holdem no limit (40/175/350) - 2022/11/26 20:20:29 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: FishDe Paie (15160, 0.90€ bounty)
+Seat 2: FwBerws (4687, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (30988, 1.35€ bounty)
+Seat 4: ValocheCoca (46961, 0.90€ bounty)
+Seat 5: Nestou30 (36591, 1.35€ bounty)
+Seat 6: Breizh-AV1 (30375, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ValocheCoca posts ante 40
+Nestou30 posts ante 40
+FishDe Paie posts ante 40
+FwBerws posts ante 40
+YL_ML_GL_42 posts ante 40
+Breizh-AV1 posts ante 40
+ValocheCoca posts small blind 175
+Nestou30 posts big blind 350
+Dealt to YL_ML_GL_42 [Js Qh]
+*** PRE-FLOP *** 
+Breizh-AV1 raises 438 to 788
+FishDe Paie folds
+FwBerws folds
+YL_ML_GL_42 calls 788
+ValocheCoca folds
+Nestou30 calls 438
+*** FLOP *** [9d Kh Qd]
+Nestou30 checks
+Breizh-AV1 checks
+YL_ML_GL_42 bets 1806
+Nestou30 calls 1806
+Breizh-AV1 folds
+*** TURN *** [9d Kh Qd][5h]
+Nestou30 checks
+YL_ML_GL_42 bets 5113
+Nestou30 folds
+YL_ML_GL_42 collected 11504 from pot
+*** SUMMARY ***
+Total pot 11504 | No rake
+Board: [9d Kh Qd 5h]
+Seat 3: YL_ML_GL_42 (button) won 11504
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2553209524618002557-50-1669494081 - Holdem no limit (40/175/350) - 2022/11/26 20:21:21 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: FishDe Paie (15120, 0.90€ bounty)
+Seat 2: FwBerws (4647, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (34745, 1.35€ bounty)
+Seat 4: ValocheCoca (46746, 0.90€ bounty)
+Seat 5: Nestou30 (33957, 1.35€ bounty)
+Seat 6: Breizh-AV1 (29547, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Nestou30 posts ante 40
+Breizh-AV1 posts ante 40
+FishDe Paie posts ante 40
+FwBerws posts ante 40
+YL_ML_GL_42 posts ante 40
+ValocheCoca posts ante 40
+Nestou30 posts small blind 175
+Breizh-AV1 posts big blind 350
+Dealt to YL_ML_GL_42 [2h As]
+*** PRE-FLOP *** 
+FishDe Paie folds
+FwBerws folds
+YL_ML_GL_42 raises 700 to 1050
+ValocheCoca folds
+Nestou30 folds
+Breizh-AV1 folds
+YL_ML_GL_42 collected 1815 from pot
+*** SUMMARY ***
+Total pot 1815 | No rake
+Seat 3: YL_ML_GL_42 won 1815
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2553209524618002557-51-1669494096 - Holdem no limit (40/175/350) - 2022/11/26 20:21:36 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: FishDe Paie (15080, 0.90€ bounty)
+Seat 2: FwBerws (4607, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (35470, 1.35€ bounty)
+Seat 4: ValocheCoca (46706, 0.90€ bounty)
+Seat 5: Nestou30 (33742, 1.35€ bounty)
+Seat 6: Breizh-AV1 (29157, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Breizh-AV1 posts ante 40
+FishDe Paie posts ante 40
+FwBerws posts ante 40
+YL_ML_GL_42 posts ante 40
+ValocheCoca posts ante 40
+Nestou30 posts ante 40
+Breizh-AV1 posts small blind 175
+FishDe Paie posts big blind 350
+Dealt to YL_ML_GL_42 [5c 2h]
+*** PRE-FLOP *** 
+FwBerws folds
+YL_ML_GL_42 folds
+ValocheCoca calls 350
+Nestou30 raises 1465 to 1815
+Breizh-AV1 folds
+FishDe Paie folds
+ValocheCoca calls 1465
+*** FLOP *** [Qd Ks 7s]
+ValocheCoca checks
+Nestou30 checks
+*** TURN *** [Qd Ks 7s][5s]
+ValocheCoca checks
+Nestou30 bets 2857
+ValocheCoca folds
+Nestou30 collected 7252 from pot
+*** SUMMARY ***
+Total pot 7252 | No rake
+Board: [Qd Ks 7s 5s]
+Seat 5: Nestou30 (button) won 7252
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2553209524618002557-52-1669494137 - Holdem no limit (40/175/350) - 2022/11/26 20:22:17 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: FishDe Paie (14690, 0.90€ bounty)
+Seat 2: FwBerws (4567, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (35430, 1.35€ bounty)
+Seat 4: ValocheCoca (44851, 0.90€ bounty)
+Seat 5: Nestou30 (36282, 1.35€ bounty)
+Seat 6: Breizh-AV1 (28942, 0.90€ bounty)
+*** ANTE/BLINDS ***
+FishDe Paie posts ante 40
+FwBerws posts ante 40
+YL_ML_GL_42 posts ante 40
+ValocheCoca posts ante 40
+Nestou30 posts ante 40
+Breizh-AV1 posts ante 40
+FishDe Paie posts small blind 175
+FwBerws posts big blind 350
+Dealt to YL_ML_GL_42 [Jd 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 raises 350 to 700
+Breizh-AV1 folds
+FishDe Paie calls 525
+FwBerws raises 3827 to 4527 and is all-in
+Nestou30 calls 3827
+FishDe Paie folds
+*** FLOP *** [6s Jh 4d]
+*** TURN *** [6s Jh 4d][6d]
+*** RIVER *** [6s Jh 4d 6d][8h]
+*** SHOW DOWN ***
+FwBerws shows [7s 9s] (One pair : 6)
+Nestou30 shows [Qd Kh] (One pair : 6)
+Nestou30 collected 9994 from pot
+*** SUMMARY ***
+Total pot 9994 | No rake
+Board: [6s Jh 4d 6d 8h]
+Seat 2: FwBerws (big blind) showed [7s 9s] and lost with One pair : 6
+Seat 5: Nestou30 showed [Qd Kh] and won 9994 with One pair : 6
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2553209524618002557-53-1669494193 - Holdem no limit (40/175/350) - 2022/11/26 20:23:13 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: FishDe Paie (13950, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (35390, 1.35€ bounty)
+Seat 4: ValocheCoca (44811, 0.90€ bounty)
+Seat 5: Nestou30 (41709, 1.80€ bounty)
+Seat 6: Breizh-AV1 (28902, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 40
+FishDe Paie posts ante 40
+ValocheCoca posts ante 40
+Nestou30 posts ante 40
+Breizh-AV1 posts ante 40
+YL_ML_GL_42 posts big blind 350
+Dealt to YL_ML_GL_42 [Kd Th]
+*** PRE-FLOP *** 
+ValocheCoca raises 350 to 700
+Nestou30 folds
+Breizh-AV1 folds
+FishDe Paie calls 700
+YL_ML_GL_42 calls 350
+*** FLOP *** [Jc Js Ts]
+YL_ML_GL_42 bets 1840
+ValocheCoca folds
+FishDe Paie calls 1840
+*** TURN *** [Jc Js Ts][6s]
+YL_ML_GL_42 bets 4784
+FishDe Paie calls 4784
+*** RIVER *** [Jc Js Ts 6s][7h]
+YL_ML_GL_42 bets 28026 and is all-in
+FishDe Paie calls 6586 and is all-in
+*** SHOW DOWN ***
+FishDe Paie shows [4h 4d] (Two pairs : Jacks and 4)
+YL_ML_GL_42 shows [Kd Th] (Two pairs : Jacks and Tens)
+YL_ML_GL_42 collected 50160 from pot
+*** SUMMARY ***
+Total pot 50160 | No rake
+Board: [Jc Js Ts 6s 7h]
+Seat 1: FishDe Paie (button) showed [4h 4d] and lost with Two pairs : Jacks and 4
+Seat 3: YL_ML_GL_42 (big blind) showed [Kd Th] and won 50160 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2553209524618002557-54-1669494265 - Holdem no limit (50/200/400) - 2022/11/26 20:24:25 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 2: Metallifan30 (20000, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (50160, 1.80€ bounty)
+Seat 4: ValocheCoca (44071, 0.90€ bounty)
+Seat 5: Nestou30 (41669, 1.80€ bounty)
+Seat 6: Breizh-AV1 (28862, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 50
+ValocheCoca posts ante 50
+Nestou30 posts ante 50
+Breizh-AV1 posts ante 50
+YL_ML_GL_42 posts small blind 200
+ValocheCoca posts big blind 400
+Dealt to YL_ML_GL_42 [Ts Ah]
+*** PRE-FLOP *** 
+Nestou30 folds
+Breizh-AV1 folds
+YL_ML_GL_42 raises 800 to 1200
+ValocheCoca folds
+YL_ML_GL_42 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Seat 3: YL_ML_GL_42 (small blind) won 1800
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2553209524618002557-55-1669494277 - Holdem no limit (50/200/400) - 2022/11/26 20:24:37 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 2: Metallifan30 (20000, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (50710, 1.80€ bounty)
+Seat 4: ValocheCoca (43621, 0.90€ bounty)
+Seat 5: Nestou30 (41619, 1.80€ bounty)
+Seat 6: Breizh-AV1 (28812, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ValocheCoca posts ante 50
+Nestou30 posts ante 50
+Metallifan30 posts ante 50
+YL_ML_GL_42 posts ante 50
+Breizh-AV1 posts ante 50
+ValocheCoca posts small blind 200
+Nestou30 posts big blind 400
+Dealt to YL_ML_GL_42 [Qd Td]
+*** PRE-FLOP *** 
+Breizh-AV1 raises 500 to 900
+Metallifan30 folds
+YL_ML_GL_42 calls 900
+ValocheCoca calls 700
+Nestou30 calls 500
+*** FLOP *** [5d Ad Jh]
+ValocheCoca bets 400
+Nestou30 calls 400
+Breizh-AV1 raises 3688 to 4088
+YL_ML_GL_42 calls 4088
+ValocheCoca folds
+Nestou30 folds
+*** TURN *** [5d Ad Jh][Ah]
+Breizh-AV1 checks
+YL_ML_GL_42 bets 45672 and is all-in
+Breizh-AV1 calls 23774 and is all-in
+*** RIVER *** [5d Ad Jh Ah][4d]
+*** SHOW DOWN ***
+Breizh-AV1 shows [8h As] (Trips of Aces)
+YL_ML_GL_42 shows [Qd Td] (Flush Ace high)
+YL_ML_GL_42 collected 82272 from pot
+*** SUMMARY ***
+Total pot 82272 | No rake
+Board: [5d Ad Jh Ah 4d]
+Seat 3: YL_ML_GL_42 (button) showed [Qd Td] and won 82272 with Flush Ace high
+Seat 6: Breizh-AV1 showed [8h As] and lost with Trips of Aces
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2553209524618002557-56-1669494355 - Holdem no limit (50/200/400) - 2022/11/26 20:25:55 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: yASkuza (20000, 0.90€ bounty)
+Seat 2: Metallifan30 (19950, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (82272, 2.25€ bounty)
+Seat 4: ValocheCoca (42271, 0.90€ bounty)
+Seat 5: Nestou30 (40269, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Nestou30 posts ante 50
+yASkuza posts ante 50
+Metallifan30 posts ante 50
+YL_ML_GL_42 posts ante 50
+ValocheCoca posts ante 50
+Nestou30 posts small blind 200
+yASkuza posts big blind 400
+Dealt to YL_ML_GL_42 [Ad Ts]
+*** PRE-FLOP *** 
+Metallifan30 raises 400 to 800
+YL_ML_GL_42 raises 2450 to 3250
+ValocheCoca folds
+Nestou30 folds
+yASkuza folds
+Metallifan30 folds
+YL_ML_GL_42 collected 4900 from pot
+*** SUMMARY ***
+Total pot 4900 | No rake
+Seat 3: YL_ML_GL_42 won 4900
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2553209524618002557-57-1669494381 - Holdem no limit (50/200/400) - 2022/11/26 20:26:21 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: yASkuza (19550, 0.90€ bounty)
+Seat 2: Metallifan30 (19100, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (83872, 2.25€ bounty)
+Seat 4: ValocheCoca (42221, 0.90€ bounty)
+Seat 5: Nestou30 (40019, 1.80€ bounty)
+*** ANTE/BLINDS ***
+yASkuza posts ante 50
+Metallifan30 posts ante 50
+YL_ML_GL_42 posts ante 50
+ValocheCoca posts ante 50
+Nestou30 posts ante 50
+yASkuza posts small blind 200
+Metallifan30 posts big blind 400
+Dealt to YL_ML_GL_42 [Ts 2c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ValocheCoca raises 400 to 800
+Nestou30 folds
+yASkuza folds
+Metallifan30 calls 400
+*** FLOP *** [7h 3c Qd]
+Metallifan30 checks
+ValocheCoca bets 400
+Metallifan30 calls 400
+*** TURN *** [7h 3c Qd][Ks]
+Metallifan30 checks
+ValocheCoca bets 713
+Metallifan30 folds
+ValocheCoca collected 3563 from pot
+*** SUMMARY ***
+Total pot 3563 | No rake
+Board: [7h 3c Qd Ks]
+Seat 4: ValocheCoca won 3563
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2553209524618002557-58-1669494418 - Holdem no limit (50/200/400) - 2022/11/26 20:26:58 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: yASkuza (19300, 0.90€ bounty)
+Seat 2: Metallifan30 (17850, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (83822, 2.25€ bounty)
+Seat 4: ValocheCoca (43821, 0.90€ bounty)
+Seat 5: Nestou30 (39969, 1.80€ bounty)
+Seat 6: Cristianhavm (26792, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Metallifan30 posts ante 50
+YL_ML_GL_42 posts ante 50
+yASkuza posts ante 50
+ValocheCoca posts ante 50
+Nestou30 posts ante 50
+Cristianhavm posts ante 50
+Metallifan30 posts small blind 200
+YL_ML_GL_42 posts big blind 400
+Dealt to YL_ML_GL_42 [6c Tc]
+*** PRE-FLOP *** 
+ValocheCoca folds
+Nestou30 folds
+Cristianhavm raises 600 to 1000
+yASkuza folds
+Metallifan30 calls 800
+YL_ML_GL_42 calls 600
+*** FLOP *** [4s 9c Js]
+Metallifan30 checks
+YL_ML_GL_42 checks
+Cristianhavm bets 1155
+Metallifan30 calls 1155
+YL_ML_GL_42 folds
+*** TURN *** [4s 9c Js][Qs]
+Metallifan30 checks
+Cristianhavm bets 1963
+Metallifan30 calls 1963
+*** RIVER *** [4s 9c Js Qs][Qh]
+Metallifan30 bets 3338
+Cristianhavm calls 3338
+*** SHOW DOWN ***
+Metallifan30 shows [5d 9d] (Two pairs : Queens and 9)
+Cristianhavm shows [Jh 4h] (Two pairs : Queens and Jacks)
+Cristianhavm collected 16212 from pot
+*** SUMMARY ***
+Total pot 16212 | No rake
+Board: [4s 9c Js Qs Qh]
+Seat 2: Metallifan30 (small blind) showed [5d 9d] and lost with Two pairs : Queens and 9
+Seat 6: Cristianhavm showed [Jh 4h] and won 16212 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2553209524618002557-59-1669494491 - Holdem no limit (50/200/400) - 2022/11/26 20:28:11 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: yASkuza (19250, 0.90€ bounty)
+Seat 2: Metallifan30 (10344, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (82772, 2.25€ bounty)
+Seat 4: ValocheCoca (43771, 0.90€ bounty)
+Seat 5: Nestou30 (39919, 1.80€ bounty)
+Seat 6: Cristianhavm (35498, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 50
+ValocheCoca posts ante 50
+yASkuza posts ante 50
+Metallifan30 posts ante 50
+Nestou30 posts ante 50
+Cristianhavm posts ante 50
+YL_ML_GL_42 posts small blind 200
+ValocheCoca posts big blind 400
+Dealt to YL_ML_GL_42 [5c 9s]
+*** PRE-FLOP *** 
+Nestou30 raises 600 to 1000
+Cristianhavm folds
+yASkuza folds
+Metallifan30 folds
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 5: Nestou30 won 1900
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2553209524618002557-60-1669494522 - Holdem no limit (50/200/400) - 2022/11/26 20:28:42 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: yASkuza (19200, 0.90€ bounty)
+Seat 2: Metallifan30 (10294, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (82522, 2.25€ bounty)
+Seat 4: ValocheCoca (43321, 0.90€ bounty)
+Seat 5: Nestou30 (40769, 1.80€ bounty)
+Seat 6: Cristianhavm (35448, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ValocheCoca posts ante 50
+Nestou30 posts ante 50
+yASkuza posts ante 50
+Metallifan30 posts ante 50
+YL_ML_GL_42 posts ante 50
+Cristianhavm posts ante 50
+ValocheCoca posts small blind 200
+Nestou30 posts big blind 400
+Dealt to YL_ML_GL_42 [3c 7d]
+*** PRE-FLOP *** 
+Cristianhavm calls 400
+yASkuza folds
+Metallifan30 raises 400 to 800
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 folds
+Cristianhavm calls 400
+*** FLOP *** [8h Ks 5s]
+Cristianhavm checks
+Metallifan30 bets 1625
+Cristianhavm folds
+Metallifan30 collected 4125 from pot
+*** SUMMARY ***
+Total pot 4125 | No rake
+Board: [8h Ks 5s]
+Seat 2: Metallifan30 won 4125
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2553209524618002557-61-1669494625 - Holdem no limit (60/250/500) - 2022/11/26 20:30:25 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: yASkuza (19150, 0.90€ bounty)
+Seat 2: Metallifan30 (11944, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (82472, 2.25€ bounty)
+Seat 4: ValocheCoca (43071, 0.90€ bounty)
+Seat 5: Nestou30 (40319, 1.80€ bounty)
+Seat 6: Cristianhavm (34598, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Nestou30 posts ante 60
+Cristianhavm posts ante 60
+yASkuza posts ante 60
+Metallifan30 posts ante 60
+YL_ML_GL_42 posts ante 60
+ValocheCoca posts ante 60
+Nestou30 posts small blind 250
+Cristianhavm posts big blind 500
+Dealt to YL_ML_GL_42 [9c 2s]
+*** PRE-FLOP *** 
+yASkuza folds
+Metallifan30 folds
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 calls 250
+Cristianhavm checks
+*** FLOP *** [6s 5c Th]
+Nestou30 checks
+Cristianhavm checks
+*** TURN *** [6s 5c Th][9d]
+Nestou30 checks
+Cristianhavm checks
+*** RIVER *** [6s 5c Th 9d][Kc]
+Nestou30 bets 884
+Cristianhavm folds
+Nestou30 collected 2244 from pot
+*** SUMMARY ***
+Total pot 2244 | No rake
+Board: [6s 5c Th 9d Kc]
+Seat 5: Nestou30 (small blind) won 2244
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2553209524618002557-62-1669494679 - Holdem no limit (60/250/500) - 2022/11/26 20:31:19 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: yASkuza (19090, 0.90€ bounty)
+Seat 2: Metallifan30 (11884, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (82412, 2.25€ bounty)
+Seat 4: ValocheCoca (43011, 0.90€ bounty)
+Seat 5: Nestou30 (41119, 1.80€ bounty)
+Seat 6: Cristianhavm (34038, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Cristianhavm posts ante 60
+yASkuza posts ante 60
+Metallifan30 posts ante 60
+YL_ML_GL_42 posts ante 60
+ValocheCoca posts ante 60
+Nestou30 posts ante 60
+Cristianhavm posts small blind 250
+yASkuza posts big blind 500
+Dealt to YL_ML_GL_42 [6d 2s]
+*** PRE-FLOP *** 
+Metallifan30 folds
+YL_ML_GL_42 folds
+ValocheCoca raises 500 to 1000
+Nestou30 calls 1000
+Cristianhavm calls 750
+yASkuza calls 500
+*** FLOP *** [5c Ts 7c]
+Cristianhavm bets 1526
+yASkuza calls 1526
+ValocheCoca raises 8938 to 10464
+Nestou30 folds
+Cristianhavm folds
+yASkuza raises 7566 to 18030 and is all-in
+ValocheCoca calls 7566
+*** TURN *** [5c Ts 7c][5d]
+*** RIVER *** [5c Ts 7c 5d][9s]
+*** SHOW DOWN ***
+yASkuza shows [8d 9d] (Two pairs : 9 and 5)
+ValocheCoca shows [7s 7d] (Full of 7 and 5)
+ValocheCoca collected 41946 from pot
+*** SUMMARY ***
+Total pot 41946 | No rake
+Board: [5c Ts 7c 5d 9s]
+Seat 1: yASkuza (big blind) showed [8d 9d] and lost with Two pairs : 9 and 5
+Seat 4: ValocheCoca showed [7s 7d] and won 41946 with Full of 7 and 5
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2553209524618002557-63-1669494733 - Holdem no limit (60/250/500) - 2022/11/26 20:32:13 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #6 is the button
+Seat 2: Metallifan30 (11824, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (82352, 2.25€ bounty)
+Seat 4: ValocheCoca (65867, 1.35€ bounty)
+Seat 5: Nestou30 (40059, 1.80€ bounty)
+Seat 6: Cristianhavm (31452, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Metallifan30 posts ante 60
+YL_ML_GL_42 posts ante 60
+ValocheCoca posts ante 60
+Nestou30 posts ante 60
+Cristianhavm posts ante 60
+Metallifan30 posts big blind 500
+Dealt to YL_ML_GL_42 [3h Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 folds
+Cristianhavm folds
+Metallifan30 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Seat 2: Metallifan30 (big blind) won 800
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2553209524618002557-64-1669494759 - Holdem no limit (60/250/500) - 2022/11/26 20:32:39 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #1 is the button
+Seat 2: Metallifan30 (12064, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (82292, 2.25€ bounty)
+Seat 4: ValocheCoca (65807, 1.35€ bounty)
+Seat 5: Nestou30 (39999, 1.80€ bounty)
+Seat 6: Cristianhavm (31392, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Metallifan30 posts ante 60
+YL_ML_GL_42 posts ante 60
+ValocheCoca posts ante 60
+Nestou30 posts ante 60
+Cristianhavm posts ante 60
+Metallifan30 posts small blind 250
+YL_ML_GL_42 posts big blind 500
+Dealt to YL_ML_GL_42 [2d 4c]
+*** PRE-FLOP *** 
+ValocheCoca folds
+Nestou30 folds
+Cristianhavm raises 750 to 1250
+Metallifan30 calls 1000
+YL_ML_GL_42 folds
+*** FLOP *** [8d 5h Jc]
+Metallifan30 bets 2145
+Cristianhavm calls 2145
+*** TURN *** [8d 5h Jc][Ah]
+Metallifan30 bets 8609 and is all-in
+Cristianhavm calls 8609
+*** RIVER *** [8d 5h Jc Ah][Ad]
+*** SHOW DOWN ***
+Cristianhavm shows [Kh Th] (One pair : Aces)
+Metallifan30 shows [Ks Qc] (One pair : Aces)
+Metallifan30 collected 24808 from pot
+*** SUMMARY ***
+Total pot 24808 | No rake
+Board: [8d 5h Jc Ah Ad]
+Seat 2: Metallifan30 (small blind) showed [Ks Qc] and won 24808 with One pair : Aces
+Seat 6: Cristianhavm showed [Kh Th] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2553209524618002557-65-1669494813 - Holdem no limit (60/250/500) - 2022/11/26 20:33:33 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: Jojocat (20000, 0.90€ bounty)
+Seat 2: Metallifan30 (24808, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (81732, 2.25€ bounty)
+Seat 4: ValocheCoca (65747, 1.35€ bounty)
+Seat 5: Nestou30 (39939, 1.80€ bounty)
+Seat 6: Cristianhavm (19328, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+ValocheCoca posts ante 60
+Jojocat posts ante 60
+Metallifan30 posts ante 60
+Nestou30 posts ante 60
+Cristianhavm posts ante 60
+YL_ML_GL_42 posts small blind 250
+ValocheCoca posts big blind 500
+Dealt to YL_ML_GL_42 [6h 5s]
+*** PRE-FLOP *** 
+Nestou30 folds
+Cristianhavm raises 750 to 1250
+Jojocat folds
+Metallifan30 calls 1250
+YL_ML_GL_42 folds
+ValocheCoca folds
+*** FLOP *** [4c 8c 3d]
+Cristianhavm checks
+Metallifan30 checks
+*** TURN *** [4c 8c 3d][Ac]
+Cristianhavm checks
+Metallifan30 checks
+*** RIVER *** [4c 8c 3d Ac][8h]
+Cristianhavm checks
+Metallifan30 bets 2347
+Cristianhavm folds
+Metallifan30 collected 5957 from pot
+*** SUMMARY ***
+Total pot 5957 | No rake
+Board: [4c 8c 3d Ac 8h]
+Seat 2: Metallifan30 (button) won 5957
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2553209524618002557-66-1669494869 - Holdem no limit (60/250/500) - 2022/11/26 20:34:29 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: Jojocat (19940, 0.90€ bounty)
+Seat 2: Metallifan30 (27108, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (81422, 2.25€ bounty)
+Seat 4: ValocheCoca (65187, 1.35€ bounty)
+Seat 5: Nestou30 (39879, 1.80€ bounty)
+Seat 6: Cristianhavm (18018, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ValocheCoca posts ante 60
+Nestou30 posts ante 60
+Jojocat posts ante 60
+Metallifan30 posts ante 60
+YL_ML_GL_42 posts ante 60
+Cristianhavm posts ante 60
+ValocheCoca posts small blind 250
+Nestou30 posts big blind 500
+Dealt to YL_ML_GL_42 [5c 7c]
+*** PRE-FLOP *** 
+Cristianhavm folds
+Jojocat calls 500
+Metallifan30 folds
+YL_ML_GL_42 folds
+ValocheCoca calls 250
+Nestou30 checks
+*** FLOP *** [4s 8c 8s]
+ValocheCoca bets 1860
+Nestou30 folds
+Jojocat folds
+ValocheCoca collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Board: [4s 8c 8s]
+Seat 4: ValocheCoca (small blind) won 3720
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2553209524618002557-67-1669494937 - Holdem no limit (60/250/500) - 2022/11/26 20:35:37 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: Jojocat (19380, 0.90€ bounty)
+Seat 2: Metallifan30 (27048, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (81362, 2.25€ bounty)
+Seat 4: ValocheCoca (66487, 1.35€ bounty)
+Seat 5: Nestou30 (39319, 1.80€ bounty)
+Seat 6: Cristianhavm (17958, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Nestou30 posts ante 60
+Cristianhavm posts ante 60
+Jojocat posts ante 60
+Metallifan30 posts ante 60
+YL_ML_GL_42 posts ante 60
+ValocheCoca posts ante 60
+Nestou30 posts small blind 250
+Cristianhavm posts big blind 500
+Dealt to YL_ML_GL_42 [5d 9c]
+*** PRE-FLOP *** 
+Jojocat folds
+Metallifan30 folds
+YL_ML_GL_42 folds
+ValocheCoca calls 500
+Nestou30 calls 250
+Cristianhavm checks
+*** FLOP *** [2s Td 2h]
+Nestou30 checks
+Cristianhavm checks
+ValocheCoca checks
+*** TURN *** [2s Td 2h][9s]
+Nestou30 checks
+Cristianhavm checks
+ValocheCoca checks
+*** RIVER *** [2s Td 2h 9s][7s]
+Nestou30 bets 1860
+Cristianhavm raises 15538 to 17398 and is all-in
+ValocheCoca folds
+Nestou30 calls 15538
+*** SHOW DOWN ***
+Nestou30 shows [6h 8c] (Straight Ten high)
+Cristianhavm shows [6s 4s] (Flush 9 high)
+Cristianhavm collected 36656 from pot
+*** SUMMARY ***
+Total pot 36656 | No rake
+Board: [2s Td 2h 9s 7s]
+Seat 5: Nestou30 (small blind) showed [6h 8c] and lost with Straight Ten high
+Seat 6: Cristianhavm (big blind) showed [6s 4s] and won 36656 with Flush 9 high
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2553209524618002557-68-1669495000 - Holdem no limit (70/300/600) - 2022/11/26 20:36:40 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: Jojocat (19320, 0.90€ bounty)
+Seat 2: Metallifan30 (26988, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (81302, 2.25€ bounty)
+Seat 4: ValocheCoca (65927, 1.35€ bounty)
+Seat 5: Nestou30 (21361, 1.80€ bounty)
+Seat 6: Cristianhavm (36656, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Cristianhavm posts ante 70
+Jojocat posts ante 70
+Metallifan30 posts ante 70
+YL_ML_GL_42 posts ante 70
+ValocheCoca posts ante 70
+Nestou30 posts ante 70
+Cristianhavm posts small blind 300
+Jojocat posts big blind 600
+Dealt to YL_ML_GL_42 [6d 5d]
+*** PRE-FLOP *** 
+Metallifan30 folds
+YL_ML_GL_42 folds
+ValocheCoca calls 600
+Nestou30 raises 20691 to 21291 and is all-in
+Cristianhavm folds
+Jojocat folds
+ValocheCoca folds
+Nestou30 collected 23211 from pot
+*** SUMMARY ***
+Total pot 23211 | No rake
+Seat 5: Nestou30 (button) won 23211
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2553209524618002557-69-1669495035 - Holdem no limit (70/300/600) - 2022/11/26 20:37:15 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: Jojocat (18650, 0.90€ bounty)
+Seat 2: Metallifan30 (26918, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (81232, 2.25€ bounty)
+Seat 4: ValocheCoca (65257, 1.35€ bounty)
+Seat 5: Nestou30 (23211, 1.80€ bounty)
+Seat 6: Cristianhavm (36286, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Jojocat posts ante 70
+Metallifan30 posts ante 70
+YL_ML_GL_42 posts ante 70
+ValocheCoca posts ante 70
+Nestou30 posts ante 70
+Cristianhavm posts ante 70
+Jojocat posts small blind 300
+Metallifan30 posts big blind 600
+Dealt to YL_ML_GL_42 [6d 3d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 calls 600
+Cristianhavm raises 900 to 1500
+Jojocat raises 17080 to 18580 and is all-in
+Metallifan30 folds
+Nestou30 folds
+Cristianhavm calls 17080
+*** FLOP *** [Ad 9h 2s]
+*** TURN *** [Ad 9h 2s][Th]
+*** RIVER *** [Ad 9h 2s Th][2c]
+*** SHOW DOWN ***
+Jojocat shows [Ah 5h] (Two pairs : Aces and 2)
+Cristianhavm shows [5c Ac] (Two pairs : Aces and 2)
+Cristianhavm collected 19390 from pot
+Jojocat collected 19390 from pot
+*** SUMMARY ***
+Total pot 38780 | No rake
+Board: [Ad 9h 2s Th 2c]
+Seat 1: Jojocat (small blind) showed [Ah 5h] and won 19390 with Two pairs : Aces and 2
+Seat 6: Cristianhavm (button) showed [5c Ac] and won 19390 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2553209524618002557-70-1669495063 - Holdem no limit (70/300/600) - 2022/11/26 20:37:43 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: Jojocat (19390, 0.90€ bounty)
+Seat 2: Metallifan30 (26248, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (81162, 2.25€ bounty)
+Seat 4: ValocheCoca (65187, 1.35€ bounty)
+Seat 5: Nestou30 (22541, 1.80€ bounty)
+Seat 6: Cristianhavm (37026, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Metallifan30 posts ante 70
+YL_ML_GL_42 posts ante 70
+Jojocat posts ante 70
+ValocheCoca posts ante 70
+Nestou30 posts ante 70
+Cristianhavm posts ante 70
+Metallifan30 posts small blind 300
+YL_ML_GL_42 posts big blind 600
+Dealt to YL_ML_GL_42 [3c 7c]
+*** PRE-FLOP *** 
+ValocheCoca raises 600 to 1200
+Nestou30 folds
+Cristianhavm folds
+Jojocat folds
+Metallifan30 folds
+YL_ML_GL_42 calls 600
+*** FLOP *** [4h 8h Jd]
+YL_ML_GL_42 checks
+ValocheCoca checks
+*** TURN *** [4h 8h Jd][2s]
+YL_ML_GL_42 checks
+ValocheCoca checks
+*** RIVER *** [4h 8h Jd 2s][7s]
+YL_ML_GL_42 bets 2496
+ValocheCoca calls 2496
+*** SHOW DOWN ***
+ValocheCoca shows [Ah Th] (High card : Ace)
+YL_ML_GL_42 shows [3c 7c] (One pair : 7)
+YL_ML_GL_42 collected 8112 from pot
+*** SUMMARY ***
+Total pot 8112 | No rake
+Board: [4h 8h Jd 2s 7s]
+Seat 3: YL_ML_GL_42 (big blind) showed [3c 7c] and won 8112 with One pair : 7
+Seat 4: ValocheCoca showed [Ah Th] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2553209524618002557-71-1669495116 - Holdem no limit (70/300/600) - 2022/11/26 20:38:36 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: Jojocat (19320, 0.90€ bounty)
+Seat 2: Metallifan30 (25878, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (85508, 2.25€ bounty)
+Seat 4: ValocheCoca (61421, 1.35€ bounty)
+Seat 5: Nestou30 (22471, 1.80€ bounty)
+Seat 6: Cristianhavm (36956, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 70
+ValocheCoca posts ante 70
+Jojocat posts ante 70
+Metallifan30 posts ante 70
+Nestou30 posts ante 70
+Cristianhavm posts ante 70
+YL_ML_GL_42 posts small blind 300
+ValocheCoca posts big blind 600
+Dealt to YL_ML_GL_42 [Kc 9d]
+*** PRE-FLOP *** 
+Nestou30 folds
+Cristianhavm folds
+Jojocat calls 600
+Metallifan30 calls 600
+YL_ML_GL_42 folds
+ValocheCoca checks
+*** FLOP *** [5c 8d Qh]
+ValocheCoca checks
+Jojocat checks
+Metallifan30 bets 1638
+ValocheCoca calls 1638
+Jojocat calls 1638
+*** TURN *** [5c 8d Qh][6s]
+ValocheCoca bets 7434
+Jojocat folds
+Metallifan30 folds
+ValocheCoca collected 14868 from pot
+*** SUMMARY ***
+Total pot 14868 | No rake
+Board: [5c 8d Qh 6s]
+Seat 4: ValocheCoca (big blind) won 14868
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2553209524618002557-72-1669495153 - Holdem no limit (70/300/600) - 2022/11/26 20:39:13 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: Jojocat (17012, 0.90€ bounty)
+Seat 2: Metallifan30 (23570, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (85138, 2.25€ bounty)
+Seat 4: ValocheCoca (66547, 1.35€ bounty)
+Seat 5: Nestou30 (22401, 1.80€ bounty)
+Seat 6: Cristianhavm (36886, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ValocheCoca posts ante 70
+Nestou30 posts ante 70
+Jojocat posts ante 70
+Metallifan30 posts ante 70
+YL_ML_GL_42 posts ante 70
+Cristianhavm posts ante 70
+ValocheCoca posts small blind 300
+Nestou30 posts big blind 600
+Dealt to YL_ML_GL_42 [3s 3h]
+*** PRE-FLOP *** 
+Cristianhavm raises 900 to 1500
+Jojocat raises 15442 to 16942 and is all-in
+Metallifan30 folds
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 folds
+Cristianhavm folds
+Jojocat collected 19762 from pot
+*** SUMMARY ***
+Total pot 19762 | No rake
+Seat 1: Jojocat won 19762
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2553209524618002557-73-1669495201 - Holdem no limit (70/300/600) - 2022/11/26 20:40:01 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: Jojocat (19762, 0.90€ bounty)
+Seat 2: Metallifan30 (23500, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (85068, 2.25€ bounty)
+Seat 4: ValocheCoca (66177, 1.35€ bounty)
+Seat 5: Nestou30 (21731, 1.80€ bounty)
+Seat 6: Cristianhavm (35316, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Nestou30 posts ante 70
+Cristianhavm posts ante 70
+Jojocat posts ante 70
+Metallifan30 posts ante 70
+YL_ML_GL_42 posts ante 70
+ValocheCoca posts ante 70
+Nestou30 posts small blind 300
+Cristianhavm posts big blind 600
+Dealt to YL_ML_GL_42 [Ac 7d]
+*** PRE-FLOP *** 
+Jojocat raises 19092 to 19692 and is all-in
+Metallifan30 folds
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 folds
+Cristianhavm folds
+Jojocat collected 21012 from pot
+*** SUMMARY ***
+Total pot 21012 | No rake
+Seat 1: Jojocat won 21012
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2553209524618002557-74-1669495238 - Holdem no limit (70/300/600) - 2022/11/26 20:40:38 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: Jojocat (21012, 0.90€ bounty)
+Seat 2: Metallifan30 (23430, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (84998, 2.25€ bounty)
+Seat 4: ValocheCoca (66107, 1.35€ bounty)
+Seat 5: Nestou30 (21361, 1.80€ bounty)
+Seat 6: Cristianhavm (34646, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Cristianhavm posts ante 70
+Jojocat posts ante 70
+Metallifan30 posts ante 70
+YL_ML_GL_42 posts ante 70
+ValocheCoca posts ante 70
+Nestou30 posts ante 70
+Cristianhavm posts small blind 300
+Jojocat posts big blind 600
+Dealt to YL_ML_GL_42 [Th 5s]
+*** PRE-FLOP *** 
+Metallifan30 folds
+YL_ML_GL_42 folds
+ValocheCoca calls 600
+Nestou30 calls 600
+Cristianhavm calls 300
+Jojocat checks
+*** FLOP *** [2d 6c 2c]
+Cristianhavm checks
+Jojocat checks
+ValocheCoca checks
+Nestou30 checks
+*** TURN *** [2d 6c 2c][4s]
+Cristianhavm checks
+Jojocat bets 2820
+ValocheCoca folds
+Nestou30 folds
+Cristianhavm folds
+Jojocat collected 5640 from pot
+*** SUMMARY ***
+Total pot 5640 | No rake
+Board: [2d 6c 2c 4s]
+Seat 1: Jojocat (big blind) won 5640
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2553209524618002557-75-1669495317 - Holdem no limit (70/300/600) - 2022/11/26 20:41:57 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: Jojocat (23162, 0.90€ bounty)
+Seat 2: Metallifan30 (23360, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (84928, 2.25€ bounty)
+Seat 4: ValocheCoca (65437, 1.35€ bounty)
+Seat 5: Nestou30 (20691, 1.80€ bounty)
+Seat 6: Cristianhavm (33976, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Jojocat posts ante 70
+Metallifan30 posts ante 70
+YL_ML_GL_42 posts ante 70
+ValocheCoca posts ante 70
+Nestou30 posts ante 70
+Cristianhavm posts ante 70
+Jojocat posts small blind 300
+Metallifan30 posts big blind 600
+Dealt to YL_ML_GL_42 [6c 2c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ValocheCoca folds
+Nestou30 folds
+Cristianhavm raises 900 to 1500
+Jojocat folds
+Metallifan30 calls 900
+*** FLOP *** [9h 7h 2h]
+Metallifan30 checks
+Cristianhavm bets 1302
+Metallifan30 calls 1302
+*** TURN *** [9h 7h 2h][7s]
+Metallifan30 checks
+Cristianhavm bets 2213
+Metallifan30 calls 2213
+*** RIVER *** [9h 7h 2h 7s][9s]
+Metallifan30 checks
+Cristianhavm checks
+*** SHOW DOWN ***
+Cristianhavm shows [Qh Jc] (Two pairs : 9 and 7)
+Metallifan30 shows [Ac 9d] (Full of 9 and 7)
+Metallifan30 collected 10750 from pot
+*** SUMMARY ***
+Total pot 10750 | No rake
+Board: [9h 7h 2h 7s 9s]
+Seat 2: Metallifan30 (big blind) showed [Ac 9d] and won 10750 with Full of 9 and 7
+Seat 6: Cristianhavm (button) showed [Qh Jc] and lost with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2553209524618002557-76-1669495380 - Holdem no limit (80/350/700) - 2022/11/26 20:43:00 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: Jojocat (22792, 0.90€ bounty)
+Seat 2: Metallifan30 (29025, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (84858, 2.25€ bounty)
+Seat 4: ValocheCoca (65367, 1.35€ bounty)
+Seat 5: Nestou30 (20621, 1.80€ bounty)
+Seat 6: Cristianhavm (28891, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Metallifan30 posts ante 80
+YL_ML_GL_42 posts ante 80
+Jojocat posts ante 80
+ValocheCoca posts ante 80
+Nestou30 posts ante 80
+Cristianhavm posts ante 80
+Metallifan30 posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [3s Kh]
+*** PRE-FLOP *** 
+ValocheCoca calls 700
+Nestou30 folds
+Cristianhavm folds
+Jojocat raises 700 to 1400
+Metallifan30 calls 1050
+YL_ML_GL_42 calls 700
+ValocheCoca calls 700
+*** FLOP *** [6d Js 3h]
+Metallifan30 checks
+YL_ML_GL_42 checks
+ValocheCoca checks
+Jojocat checks
+*** TURN *** [6d Js 3h][8s]
+Metallifan30 bets 3952
+YL_ML_GL_42 folds
+ValocheCoca folds
+Jojocat calls 3952
+*** RIVER *** [6d Js 3h 8s][2d]
+Metallifan30 bets 9090
+Jojocat folds
+Metallifan30 collected 23074 from pot
+*** SUMMARY ***
+Total pot 23074 | No rake
+Board: [6d Js 3h 8s 2d]
+Seat 2: Metallifan30 (small blind) won 23074
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2553209524618002557-77-1669495427 - Holdem no limit (80/350/700) - 2022/11/26 20:43:47 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: Jojocat (17360, 0.90€ bounty)
+Seat 2: Metallifan30 (37577, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (83378, 2.25€ bounty)
+Seat 4: ValocheCoca (63887, 1.35€ bounty)
+Seat 5: Nestou30 (20541, 1.80€ bounty)
+Seat 6: Cristianhavm (28811, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+ValocheCoca posts ante 80
+Jojocat posts ante 80
+Metallifan30 posts ante 80
+Nestou30 posts ante 80
+Cristianhavm posts ante 80
+YL_ML_GL_42 posts small blind 350
+ValocheCoca posts big blind 700
+Dealt to YL_ML_GL_42 [Ad 3h]
+*** PRE-FLOP *** 
+Nestou30 calls 700
+Cristianhavm folds
+Jojocat folds
+Metallifan30 folds
+YL_ML_GL_42 raises 1400 to 2100
+ValocheCoca calls 1400
+Nestou30 calls 1400
+*** FLOP *** [2d 5d 9h]
+YL_ML_GL_42 bets 5424
+ValocheCoca calls 5424
+Nestou30 raises 12937 to 18361 and is all-in
+YL_ML_GL_42 calls 12937
+ValocheCoca calls 12937
+*** TURN *** [2d 5d 9h][2s]
+YL_ML_GL_42 checks
+ValocheCoca checks
+*** RIVER *** [2d 5d 9h 2s][6s]
+YL_ML_GL_42 bets 62837 and is all-in
+ValocheCoca calls 43346 and is all-in
+*** SHOW DOWN ***
+Nestou30 shows [Kd 9d] (Two pairs : 9 and 2)
+YL_ML_GL_42 shows [Ad 3h] (One pair : 2)
+ValocheCoca shows [9c As] (Two pairs : 9 and 2)
+ValocheCoca collected 148555 from main pot
+YL_ML_GL_42 collected 19491 from side pot 1
+*** SUMMARY ***
+Total pot 168046 | No rake
+Board: [2d 5d 9h 2s 6s]
+Seat 3: YL_ML_GL_42 (small blind) showed [Ad 3h] and won 19491 with One pair : 2
+Seat 4: ValocheCoca (big blind) showed [9c As] and won 148555 with Two pairs : 9 and 2
+Seat 5: Nestou30 showed [Kd 9d] and lost with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2553209524618002557-78-1669495486 - Holdem no limit (80/350/700) - 2022/11/26 20:44:46 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: Jojocat (17280, 0.90€ bounty)
+Seat 2: Metallifan30 (37497, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (19491, 2.25€ bounty)
+Seat 4: ValocheCoca (148555, 2.25€ bounty)
+Seat 6: Cristianhavm (28731, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ValocheCoca posts ante 80
+Cristianhavm posts ante 80
+Jojocat posts ante 80
+Metallifan30 posts ante 80
+YL_ML_GL_42 posts ante 80
+ValocheCoca posts small blind 350
+Cristianhavm posts big blind 700
+Dealt to YL_ML_GL_42 [5s Ac]
+*** PRE-FLOP *** 
+Jojocat folds
+Metallifan30 calls 700
+YL_ML_GL_42 raises 18711 to 19411 and is all-in
+ValocheCoca calls 19061
+Cristianhavm folds
+Metallifan30 folds
+*** FLOP *** [Qc 5h 2h]
+*** TURN *** [Qc 5h 2h][Ah]
+*** RIVER *** [Qc 5h 2h Ah][9c]
+*** SHOW DOWN ***
+ValocheCoca shows [6h As] (One pair : Aces)
+YL_ML_GL_42 shows [5s Ac] (Two pairs : Aces and 5)
+YL_ML_GL_42 collected 40622 from pot
+*** SUMMARY ***
+Total pot 40622 | No rake
+Board: [Qc 5h 2h Ah 9c]
+Seat 3: YL_ML_GL_42 (button) showed [5s Ac] and won 40622 with Two pairs : Aces and 5
+Seat 4: ValocheCoca (small blind) showed [6h As] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2553209524618002557-79-1669495529 - Holdem no limit (80/350/700) - 2022/11/26 20:45:29 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: Jojocat (17200, 0.90€ bounty)
+Seat 2: Metallifan30 (36717, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (40622, 2.25€ bounty)
+Seat 4: ValocheCoca (129064, 2.25€ bounty)
+Seat 5: josephinange (20000, 0.90€ bounty)
+Seat 6: Cristianhavm (27951, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Cristianhavm posts ante 80
+Jojocat posts ante 80
+Metallifan30 posts ante 80
+YL_ML_GL_42 posts ante 80
+ValocheCoca posts ante 80
+Cristianhavm posts small blind 350
+Jojocat posts big blind 700
+Dealt to YL_ML_GL_42 [Qd Qc]
+*** PRE-FLOP *** 
+Metallifan30 folds
+YL_ML_GL_42 raises 39842 to 40542 and is all-in
+ValocheCoca folds
+Cristianhavm folds
+Jojocat folds
+YL_ML_GL_42 collected 41992 from pot
+*** SUMMARY ***
+Total pot 41992 | No rake
+Seat 3: YL_ML_GL_42 won 41992
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2553209524618002557-80-1669495539 - Holdem no limit (80/350/700) - 2022/11/26 20:45:39 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: Jojocat (16420, 0.90€ bounty)
+Seat 2: Metallifan30 (36637, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (41992, 2.25€ bounty)
+Seat 4: ValocheCoca (128984, 2.25€ bounty)
+Seat 5: josephinange (20000, 0.90€ bounty)
+Seat 6: Cristianhavm (27521, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Jojocat posts ante 80
+Metallifan30 posts ante 80
+YL_ML_GL_42 posts ante 80
+ValocheCoca posts ante 80
+josephinange posts ante 80
+Cristianhavm posts ante 80
+Jojocat posts small blind 350
+Metallifan30 posts big blind 700
+Dealt to YL_ML_GL_42 [9c Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 41212 to 41912 and is all-in
+ValocheCoca folds
+josephinange calls 19920 and is all-in
+Cristianhavm folds
+Jojocat calls 15990 and is all-in
+Metallifan30 folds
+*** FLOP *** [2h 5d Qh]
+*** TURN *** [2h 5d Qh][9d]
+*** RIVER *** [2h 5d Qh 9d][4d]
+*** SHOW DOWN ***
+josephinange shows [8d 8c] (One pair : 8)
+Jojocat shows [3h As] (Straight 5 high)
+YL_ML_GL_42 shows [9c Ts] (One pair : 9)
+YL_ML_GL_42 collected 29152 from side pot 1
+Jojocat collected 50200 from main pot
+*** SUMMARY ***
+Total pot 79352 | No rake
+Board: [2h 5d Qh 9d 4d]
+Seat 1: Jojocat (small blind) showed [3h As] and won 50200 with Straight 5 high
+Seat 3: YL_ML_GL_42 showed [9c Ts] and won 29152 with One pair : 9
+Seat 5: josephinange showed [8d 8c] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2553209524618002557-81-1669495571 - Holdem no limit (80/350/700) - 2022/11/26 20:46:11 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: Jojocat (50200, 0.90€ bounty)
+Seat 2: Metallifan30 (35857, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (29152, 2.70€ bounty)
+Seat 4: ValocheCoca (128904, 2.25€ bounty)
+Seat 6: Cristianhavm (27441, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Metallifan30 posts ante 80
+YL_ML_GL_42 posts ante 80
+Jojocat posts ante 80
+ValocheCoca posts ante 80
+Cristianhavm posts ante 80
+Metallifan30 posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [Jd 4h]
+*** PRE-FLOP *** 
+ValocheCoca calls 700
+Cristianhavm raises 1050 to 1750
+Jojocat folds
+Metallifan30 folds
+YL_ML_GL_42 folds
+ValocheCoca calls 1050
+*** FLOP *** [6d 4c 2s]
+ValocheCoca checks
+Cristianhavm checks
+*** TURN *** [6d 4c 2s][8s]
+ValocheCoca checks
+Cristianhavm bets 1733
+ValocheCoca calls 1733
+*** RIVER *** [6d 4c 2s 8s][9c]
+ValocheCoca checks
+Cristianhavm bets 2946
+ValocheCoca folds
+Cristianhavm collected 11362 from pot
+*** SUMMARY ***
+Total pot 11362 | No rake
+Board: [6d 4c 2s 8s 9c]
+Seat 6: Cristianhavm won 11362
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2553209524618002557-82-1669495635 - Holdem no limit (80/350/700) - 2022/11/26 20:47:15 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: Jojocat (50120, 0.90€ bounty)
+Seat 2: Metallifan30 (35427, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (28372, 2.70€ bounty)
+Seat 4: ValocheCoca (125341, 2.25€ bounty)
+Seat 5: OneTimeEver (31190, 1.80€ bounty)
+Seat 6: Cristianhavm (32294, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+ValocheCoca posts ante 80
+Jojocat posts ante 80
+Metallifan30 posts ante 80
+OneTimeEver posts ante 80
+Cristianhavm posts ante 80
+YL_ML_GL_42 posts small blind 350
+ValocheCoca posts big blind 700
+Dealt to YL_ML_GL_42 [Ks 2c]
+*** PRE-FLOP *** 
+OneTimeEver raises 1400 to 2100
+Cristianhavm folds
+Jojocat folds
+Metallifan30 folds
+YL_ML_GL_42 folds
+ValocheCoca calls 1400
+*** FLOP *** [8c Jd Ac]
+ValocheCoca bets 700
+OneTimeEver calls 700
+*** TURN *** [8c Jd Ac][2s]
+ValocheCoca bets 700
+OneTimeEver calls 700
+*** RIVER *** [8c Jd Ac 2s][3s]
+ValocheCoca bets 700
+OneTimeEver calls 700
+*** SHOW DOWN ***
+ValocheCoca shows [7h 8h] (One pair : 8)
+OneTimeEver shows [Qs Jh] (One pair : Jacks)
+OneTimeEver collected 9230 from pot
+*** SUMMARY ***
+Total pot 9230 | No rake
+Board: [8c Jd Ac 2s 3s]
+Seat 4: ValocheCoca (big blind) showed [7h 8h] and lost with One pair : 8
+Seat 5: OneTimeEver showed [Qs Jh] and won 9230 with One pair : Jacks
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2553209524618002557-83-1669495680 - Holdem no limit (80/350/700) - 2022/11/26 20:48:00 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: Jojocat (50040, 0.90€ bounty)
+Seat 2: Metallifan30 (35347, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (27942, 2.70€ bounty)
+Seat 4: ValocheCoca (121061, 2.25€ bounty)
+Seat 5: OneTimeEver (36140, 1.80€ bounty)
+Seat 6: Cristianhavm (32214, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ValocheCoca posts ante 80
+OneTimeEver posts ante 80
+Jojocat posts ante 80
+Metallifan30 posts ante 80
+YL_ML_GL_42 posts ante 80
+Cristianhavm posts ante 80
+ValocheCoca posts small blind 350
+OneTimeEver posts big blind 700
+Dealt to YL_ML_GL_42 [Js 4d]
+*** PRE-FLOP *** 
+Cristianhavm folds
+Jojocat folds
+Metallifan30 calls 700
+YL_ML_GL_42 folds
+ValocheCoca calls 350
+OneTimeEver checks
+*** FLOP *** [8d 2d 6s]
+ValocheCoca checks
+OneTimeEver checks
+Metallifan30 bets 1677
+ValocheCoca folds
+OneTimeEver calls 1677
+*** TURN *** [8d 2d 6s][Ts]
+OneTimeEver checks
+Metallifan30 checks
+*** RIVER *** [8d 2d 6s Ts][Ah]
+OneTimeEver bets 5934
+Metallifan30 calls 5934
+*** SHOW DOWN ***
+OneTimeEver shows [9h Ks] (High card : Ace)
+Metallifan30 shows [9d Ad] (One pair : Aces)
+Metallifan30 collected 17802 from pot
+*** SUMMARY ***
+Total pot 17802 | No rake
+Board: [8d 2d 6s Ts Ah]
+Seat 2: Metallifan30 showed [9d Ad] and won 17802 with One pair : Aces
+Seat 5: OneTimeEver (big blind) showed [9h Ks] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2553209524618002557-84-1669495775 - Holdem no limit (100/400/800) - 2022/11/26 20:49:35 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: Jojocat (49960, 0.90€ bounty)
+Seat 2: Metallifan30 (44758, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (27862, 2.70€ bounty)
+Seat 4: ValocheCoca (120281, 2.25€ bounty)
+Seat 5: OneTimeEver (27749, 1.80€ bounty)
+Seat 6: Cristianhavm (32134, 0.90€ bounty)
+*** ANTE/BLINDS ***
+OneTimeEver posts ante 100
+Cristianhavm posts ante 100
+Jojocat posts ante 100
+Metallifan30 posts ante 100
+YL_ML_GL_42 posts ante 100
+ValocheCoca posts ante 100
+OneTimeEver posts small blind 400
+Cristianhavm posts big blind 800
+Dealt to YL_ML_GL_42 [8c 3c]
+*** PRE-FLOP *** 
+Jojocat folds
+Metallifan30 calls 800
+YL_ML_GL_42 folds
+ValocheCoca raises 800 to 1600
+OneTimeEver folds
+Cristianhavm calls 800
+Metallifan30 calls 800
+*** FLOP *** [Th Qc Td]
+Cristianhavm checks
+Metallifan30 checks
+ValocheCoca bets 5800
+Cristianhavm folds
+Metallifan30 folds
+ValocheCoca collected 11600 from pot
+*** SUMMARY ***
+Total pot 11600 | No rake
+Board: [Th Qc Td]
+Seat 4: ValocheCoca (button) won 11600
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2553209524618002557-85-1669495826 - Holdem no limit (100/400/800) - 2022/11/26 20:50:26 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: Jojocat (49860, 0.90€ bounty)
+Seat 2: Metallifan30 (43058, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (27762, 2.70€ bounty)
+Seat 4: ValocheCoca (124381, 2.25€ bounty)
+Seat 5: OneTimeEver (27249, 1.80€ bounty)
+Seat 6: Cristianhavm (30434, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Cristianhavm posts ante 100
+Jojocat posts ante 100
+Metallifan30 posts ante 100
+YL_ML_GL_42 posts ante 100
+ValocheCoca posts ante 100
+OneTimeEver posts ante 100
+Cristianhavm posts small blind 400
+Jojocat posts big blind 800
+Dealt to YL_ML_GL_42 [3s 3h]
+*** PRE-FLOP *** 
+Metallifan30 folds
+YL_ML_GL_42 raises 26862 to 27662 and is all-in
+ValocheCoca folds
+OneTimeEver folds
+Cristianhavm folds
+Jojocat folds
+YL_ML_GL_42 collected 29462 from pot
+*** SUMMARY ***
+Total pot 29462 | No rake
+Seat 3: YL_ML_GL_42 won 29462
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2553209524618002557-86-1669495861 - Holdem no limit (100/400/800) - 2022/11/26 20:51:01 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: Jojocat (48960, 0.90€ bounty)
+Seat 2: Metallifan30 (42958, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (29462, 2.70€ bounty)
+Seat 4: ValocheCoca (124281, 2.25€ bounty)
+Seat 5: OneTimeEver (27149, 1.80€ bounty)
+Seat 6: Cristianhavm (29934, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Jojocat posts ante 100
+Metallifan30 posts ante 100
+YL_ML_GL_42 posts ante 100
+ValocheCoca posts ante 100
+OneTimeEver posts ante 100
+Cristianhavm posts ante 100
+Jojocat posts small blind 400
+Metallifan30 posts big blind 800
+Dealt to YL_ML_GL_42 [3s Ah]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ValocheCoca calls 800
+OneTimeEver folds
+Cristianhavm folds
+Jojocat folds
+Metallifan30 checks
+*** FLOP *** [7d 6h 9d]
+Metallifan30 checks
+ValocheCoca checks
+*** TURN *** [7d 6h 9d][7c]
+Metallifan30 checks
+ValocheCoca checks
+*** RIVER *** [7d 6h 9d 7c][4d]
+Metallifan30 bets 1690
+ValocheCoca folds
+Metallifan30 collected 4290 from pot
+*** SUMMARY ***
+Total pot 4290 | No rake
+Board: [7d 6h 9d 7c 4d]
+Seat 2: Metallifan30 (big blind) won 4290
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2553209524618002557-87-1669495916 - Holdem no limit (100/400/800) - 2022/11/26 20:51:56 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: Jojocat (48460, 0.90€ bounty)
+Seat 2: Metallifan30 (44658, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (29362, 2.70€ bounty)
+Seat 4: ValocheCoca (123381, 2.25€ bounty)
+Seat 5: OneTimeEver (27049, 1.80€ bounty)
+Seat 6: Cristianhavm (29834, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Metallifan30 posts ante 100
+YL_ML_GL_42 posts ante 100
+Jojocat posts ante 100
+ValocheCoca posts ante 100
+OneTimeEver posts ante 100
+Cristianhavm posts ante 100
+Metallifan30 posts small blind 400
+YL_ML_GL_42 posts big blind 800
+Dealt to YL_ML_GL_42 [7c 2d]
+*** PRE-FLOP *** 
+ValocheCoca calls 800
+OneTimeEver folds
+Cristianhavm calls 800
+Jojocat folds
+Metallifan30 calls 400
+YL_ML_GL_42 checks
+*** FLOP *** [Kc Kd Tc]
+Metallifan30 checks
+YL_ML_GL_42 checks
+ValocheCoca bets 3800
+Cristianhavm folds
+Metallifan30 folds
+YL_ML_GL_42 folds
+ValocheCoca collected 7600 from pot
+*** SUMMARY ***
+Total pot 7600 | No rake
+Board: [Kc Kd Tc]
+Seat 4: ValocheCoca won 7600
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2553209524618002557-88-1669495967 - Holdem no limit (100/400/800) - 2022/11/26 20:52:47 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: Jojocat (48360, 0.90€ bounty)
+Seat 2: Metallifan30 (43758, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (28462, 2.70€ bounty)
+Seat 4: ValocheCoca (126281, 2.25€ bounty)
+Seat 5: OneTimeEver (26949, 1.80€ bounty)
+Seat 6: Cristianhavm (28934, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 100
+ValocheCoca posts ante 100
+Jojocat posts ante 100
+Metallifan30 posts ante 100
+OneTimeEver posts ante 100
+Cristianhavm posts ante 100
+YL_ML_GL_42 posts small blind 400
+ValocheCoca posts big blind 800
+Dealt to YL_ML_GL_42 [Th Jd]
+*** PRE-FLOP *** 
+OneTimeEver folds
+Cristianhavm folds
+Jojocat folds
+Metallifan30 folds
+YL_ML_GL_42 raises 2200 to 3000
+ValocheCoca folds
+YL_ML_GL_42 collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | No rake
+Seat 3: YL_ML_GL_42 (small blind) won 4400
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2553209524618002557-89-1669495999 - Holdem no limit (100/400/800) - 2022/11/26 20:53:19 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: Jojocat (48260, 0.90€ bounty)
+Seat 2: Metallifan30 (43658, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (29762, 2.70€ bounty)
+Seat 4: ValocheCoca (125381, 2.25€ bounty)
+Seat 5: OneTimeEver (26849, 1.80€ bounty)
+Seat 6: Cristianhavm (28834, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ValocheCoca posts ante 100
+OneTimeEver posts ante 100
+Jojocat posts ante 100
+Metallifan30 posts ante 100
+YL_ML_GL_42 posts ante 100
+Cristianhavm posts ante 100
+ValocheCoca posts small blind 400
+OneTimeEver posts big blind 800
+Dealt to YL_ML_GL_42 [4d 9d]
+*** PRE-FLOP *** 
+Cristianhavm folds
+Jojocat calls 800
+Metallifan30 calls 800
+YL_ML_GL_42 folds
+ValocheCoca folds
+OneTimeEver checks
+*** FLOP *** [3s 5h Ks]
+OneTimeEver checks
+Jojocat checks
+Metallifan30 bets 2210
+OneTimeEver folds
+Jojocat folds
+Metallifan30 collected 5610 from pot
+*** SUMMARY ***
+Total pot 5610 | No rake
+Board: [3s 5h Ks]
+Seat 2: Metallifan30 won 5610
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2553209524618002557-90-1669496052 - Holdem no limit (100/400/800) - 2022/11/26 20:54:12 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: Jojocat (47360, 0.90€ bounty)
+Seat 2: Metallifan30 (46158, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (29662, 2.70€ bounty)
+Seat 4: ValocheCoca (124881, 2.25€ bounty)
+Seat 5: OneTimeEver (25949, 1.80€ bounty)
+Seat 6: Cristianhavm (28734, 0.90€ bounty)
+*** ANTE/BLINDS ***
+OneTimeEver posts ante 100
+Cristianhavm posts ante 100
+Jojocat posts ante 100
+Metallifan30 posts ante 100
+YL_ML_GL_42 posts ante 100
+ValocheCoca posts ante 100
+OneTimeEver posts small blind 400
+Cristianhavm posts big blind 800
+Dealt to YL_ML_GL_42 [4d As]
+*** PRE-FLOP *** 
+Jojocat folds
+Metallifan30 folds
+YL_ML_GL_42 raises 2600 to 3400
+ValocheCoca calls 3400
+OneTimeEver raises 22449 to 25849 and is all-in
+Cristianhavm folds
+YL_ML_GL_42 folds
+ValocheCoca calls 22449
+*** FLOP *** [4c 6d Qc]
+*** TURN *** [4c 6d Qc][Th]
+*** RIVER *** [4c 6d Qc Th][7d]
+*** SHOW DOWN ***
+OneTimeEver shows [Ad 5s] (High card : Ace)
+ValocheCoca shows [8c 7c] (One pair : 7)
+ValocheCoca collected 56498 from pot
+*** SUMMARY ***
+Total pot 56498 | No rake
+Board: [4c 6d Qc Th 7d]
+Seat 4: ValocheCoca (button) showed [8c 7c] and won 56498 with One pair : 7
+Seat 5: OneTimeEver (small blind) showed [Ad 5s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2553209524618002557-92-1669496462 - Holdem no limit (120/500/1000) - 2022/11/26 21:01:02 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: Jojocat (46140, 0.90€ bounty)
+Seat 2: Metallifan30 (44938, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (26042, 2.70€ bounty)
+Seat 4: ValocheCoca (158910, 3.15€ bounty)
+Seat 5: 93K.MBAPPE93 (20000, 0.90€ bounty)
+Seat 6: Cristianhavm (26714, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Jojocat posts ante 120
+Metallifan30 posts ante 120
+YL_ML_GL_42 posts ante 120
+ValocheCoca posts ante 120
+93K.MBAPPE93 posts ante 120
+Cristianhavm posts ante 120
+Jojocat posts small blind 500
+Metallifan30 posts big blind 1000
+Dealt to YL_ML_GL_42 [5c Kc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ValocheCoca folds
+93K.MBAPPE93 folds
+Cristianhavm raises 1500 to 2500
+Jojocat folds
+Metallifan30 calls 1500
+*** FLOP *** [Ac 5h Qh]
+Metallifan30 checks
+Cristianhavm bets 2177
+Metallifan30 folds
+Cristianhavm collected 8397 from pot
+*** SUMMARY ***
+Total pot 8397 | No rake
+Board: [Ac 5h Qh]
+Seat 6: Cristianhavm (button) won 8397
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2553209524618002557-93-1669496547 - Holdem no limit (120/500/1000) - 2022/11/26 21:02:27 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: Jojocat (45520, 0.90€ bounty)
+Seat 2: Metallifan30 (42318, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (25922, 2.70€ bounty)
+Seat 4: ValocheCoca (158790, 3.15€ bounty)
+Seat 5: 93K.MBAPPE93 (19880, 0.90€ bounty)
+Seat 6: Cristianhavm (30314, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Metallifan30 posts ante 120
+YL_ML_GL_42 posts ante 120
+Jojocat posts ante 120
+ValocheCoca posts ante 120
+93K.MBAPPE93 posts ante 120
+Cristianhavm posts ante 120
+Metallifan30 posts small blind 500
+YL_ML_GL_42 posts big blind 1000
+Dealt to YL_ML_GL_42 [3s 3d]
+*** PRE-FLOP *** 
+ValocheCoca folds
+93K.MBAPPE93 folds
+Cristianhavm raises 1500 to 2500
+Jojocat folds
+Metallifan30 folds
+YL_ML_GL_42 raises 23302 to 25802 and is all-in
+Cristianhavm folds
+YL_ML_GL_42 collected 29522 from pot
+*** SUMMARY ***
+Total pot 29522 | No rake
+Seat 3: YL_ML_GL_42 (big blind) won 29522
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2553209524618002557-94-1669496572 - Holdem no limit (120/500/1000) - 2022/11/26 21:02:52 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: Jojocat (45400, 0.90€ bounty)
+Seat 2: Metallifan30 (41698, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (29522, 2.70€ bounty)
+Seat 4: ValocheCoca (158670, 3.15€ bounty)
+Seat 5: 93K.MBAPPE93 (19760, 0.90€ bounty)
+Seat 6: Cristianhavm (27694, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 120
+ValocheCoca posts ante 120
+Jojocat posts ante 120
+Metallifan30 posts ante 120
+93K.MBAPPE93 posts ante 120
+Cristianhavm posts ante 120
+YL_ML_GL_42 posts small blind 500
+ValocheCoca posts big blind 1000
+Dealt to YL_ML_GL_42 [6c 5d]
+*** PRE-FLOP *** 
+93K.MBAPPE93 folds
+Cristianhavm folds
+Jojocat folds
+Metallifan30 folds
+YL_ML_GL_42 folds
+ValocheCoca collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 4: ValocheCoca (big blind) won 2220
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2553209524618002557-95-1669496577 - Holdem no limit (120/500/1000) - 2022/11/26 21:02:57 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: Jojocat (45280, 0.90€ bounty)
+Seat 2: Metallifan30 (41578, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (28902, 2.70€ bounty)
+Seat 4: ValocheCoca (159770, 3.15€ bounty)
+Seat 5: 93K.MBAPPE93 (19640, 0.90€ bounty)
+Seat 6: Cristianhavm (27574, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ValocheCoca posts ante 120
+93K.MBAPPE93 posts ante 120
+Jojocat posts ante 120
+Metallifan30 posts ante 120
+YL_ML_GL_42 posts ante 120
+Cristianhavm posts ante 120
+ValocheCoca posts small blind 500
+93K.MBAPPE93 posts big blind 1000
+Dealt to YL_ML_GL_42 [8c Qs]
+*** PRE-FLOP *** 
+Cristianhavm folds
+Jojocat folds
+Metallifan30 folds
+YL_ML_GL_42 raises 2000 to 3000
+ValocheCoca calls 2500
+93K.MBAPPE93 folds
+*** FLOP *** [5d Ah 9d]
+ValocheCoca checks
+YL_ML_GL_42 checks
+*** TURN *** [5d Ah 9d][6s]
+ValocheCoca bets 7720
+YL_ML_GL_42 folds
+ValocheCoca collected 15440 from pot
+*** SUMMARY ***
+Total pot 15440 | No rake
+Board: [5d Ah 9d 6s]
+Seat 4: ValocheCoca (small blind) won 15440
+
+
+Winamax Poker - Tournament "LE SUD VS LE RESTE DU MONDE" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2553209524618002557-96-1669496601 - Holdem no limit (120/500/1000) - 2022/11/26 21:03:21 UTC
+Table: 'LE SUD VS LE RESTE DU MONDE(594465417)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: Jojocat (45160, 0.90€ bounty)
+Seat 2: Metallifan30 (41458, 0.90€ bounty)
+Seat 3: YL_ML_GL_42 (25782, 2.70€ bounty)
+Seat 4: ValocheCoca (164370, 3.15€ bounty)
+Seat 5: 93K.MBAPPE93 (18520, 0.90€ bounty)
+Seat 6: Cristianhavm (27454, 0.90€ bounty)
+*** ANTE/BLINDS ***
+93K.MBAPPE93 posts ante 120
+Cristianhavm posts ante 120
+Jojocat posts ante 120
+Metallifan30 posts ante 120
+YL_ML_GL_42 posts ante 120
+ValocheCoca posts ante 120
+93K.MBAPPE93 posts small blind 500
+Cristianhavm posts big blind 1000
+Dealt to YL_ML_GL_42 [4c Ah]
+*** PRE-FLOP *** 
+Jojocat folds
+Metallifan30 folds
+YL_ML_GL_42 raises 3220 to 4220
+ValocheCoca raises 3220 to 7440
+93K.MBAPPE93 folds
+Cristianhavm calls 6440
+YL_ML_GL_42 raises 18222 to 25662 and is all-in
+ValocheCoca calls 18222
+Cristianhavm calls 18222
+*** FLOP *** [9d 9h 4h]
+Cristianhavm bets 1672 and is all-in
+ValocheCoca calls 1672
+*** TURN *** [9d 9h 4h][Jh]
+*** RIVER *** [9d 9h 4h Jh][Td]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [4c Ah] (Two pairs : 9 and 4)
+ValocheCoca shows [As Qs] (One pair : 9)
+Cristianhavm shows [Ts Jc] (Two pairs : Jacks and Tens)
+Cristianhavm collected 81550 from pot
+*** SUMMARY ***
+Total pot 81550 | No rake
+Board: [9d 9h 4h Jh Td]
+Seat 3: YL_ML_GL_42 showed [4c Ah] and lost with Two pairs : 9 and 4
+Seat 4: ValocheCoca (button) showed [As Qs] and lost with One pair : 9
+Seat 6: Cristianhavm (big blind) showed [Ts Jc] and won 81550 with Two pairs : Jacks and Tens
+
+

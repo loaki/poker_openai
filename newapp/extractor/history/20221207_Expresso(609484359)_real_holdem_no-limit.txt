@@ -1,0 +1,455 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2617715389328523265-1-1670451352 - Holdem no limit (10/20) - 2022/12/07 22:15:52 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ameljaz (500)
+Seat 2: Jojo171644 (500)
+Seat 3: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Ameljaz posts big blind 20
+Dealt to YL_ML_GL_42 [4h 4d]
+*** PRE-FLOP *** 
+Jojo171644 folds
+YL_ML_GL_42 raises 40 to 60
+Ameljaz calls 40
+*** FLOP *** [Jd As 7h]
+YL_ML_GL_42 checks
+Ameljaz bets 20
+YL_ML_GL_42 raises 420 to 440 and is all-in
+Ameljaz folds
+YL_ML_GL_42 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Jd As 7h]
+Seat 3: YL_ML_GL_42 (small blind) won 580
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2617715389328523265-2-1670451373 - Holdem no limit (10/20) - 2022/12/07 22:16:13 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ameljaz (420)
+Seat 2: Jojo171644 (500)
+Seat 3: YL_ML_GL_42 (580)
+*** ANTE/BLINDS ***
+Ameljaz posts small blind 10
+Jojo171644 posts big blind 20
+Dealt to YL_ML_GL_42 [Ah 5s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+Ameljaz calls 60
+Jojo171644 calls 50
+*** FLOP *** [Jc 8h Js]
+Ameljaz checks
+Jojo171644 checks
+YL_ML_GL_42 checks
+*** TURN *** [Jc 8h Js][2c]
+Ameljaz checks
+Jojo171644 bets 74
+YL_ML_GL_42 folds
+Ameljaz calls 74
+*** RIVER *** [Jc 8h Js 2c][7s]
+Ameljaz checks
+Jojo171644 bets 125
+Ameljaz folds
+Jojo171644 collected 483 from pot
+*** SUMMARY ***
+Total pot 483 | No rake
+Board: [Jc 8h Js 2c 7s]
+Seat 2: Jojo171644 (big blind) won 483
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2617715389328523265-3-1670451401 - Holdem no limit (10/20) - 2022/12/07 22:16:41 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ameljaz (276)
+Seat 2: Jojo171644 (714)
+Seat 3: YL_ML_GL_42 (510)
+*** ANTE/BLINDS ***
+Jojo171644 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [3s Kc]
+*** PRE-FLOP *** 
+Ameljaz calls 20
+Jojo171644 calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [9h 2d 8c]
+Jojo171644 bets 694 and is all-in
+YL_ML_GL_42 folds
+Ameljaz folds
+Jojo171644 collected 754 from pot
+*** SUMMARY ***
+Total pot 754 | No rake
+Board: [9h 2d 8c]
+Seat 2: Jojo171644 (small blind) won 754
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2617715389328523265-4-1670451418 - Holdem no limit (10/20) - 2022/12/07 22:16:58 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ameljaz (256)
+Seat 2: Jojo171644 (754)
+Seat 3: YL_ML_GL_42 (490)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Ameljaz posts big blind 20
+Dealt to YL_ML_GL_42 [8h 4c]
+*** PRE-FLOP *** 
+Jojo171644 calls 20
+YL_ML_GL_42 folds
+Ameljaz checks
+*** FLOP *** [6d Kd Kc]
+Ameljaz checks
+Jojo171644 bets 20
+Ameljaz folds
+Jojo171644 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [6d Kd Kc]
+Seat 2: Jojo171644 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2617715389328523265-5-1670451431 - Holdem no limit (10/20) - 2022/12/07 22:17:11 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ameljaz (236)
+Seat 2: Jojo171644 (784)
+Seat 3: YL_ML_GL_42 (480)
+*** ANTE/BLINDS ***
+Ameljaz posts small blind 10
+Jojo171644 posts big blind 20
+Dealt to YL_ML_GL_42 [5c Ks]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+Ameljaz calls 60
+Jojo171644 calls 50
+*** FLOP *** [3d 9h Kc]
+Ameljaz checks
+Jojo171644 checks
+YL_ML_GL_42 checks
+*** TURN *** [3d 9h Kc][2s]
+Ameljaz checks
+Jojo171644 bets 20
+YL_ML_GL_42 calls 20
+Ameljaz calls 20
+*** RIVER *** [3d 9h Kc 2s][Ac]
+Ameljaz checks
+Jojo171644 bets 95
+YL_ML_GL_42 calls 95
+Ameljaz folds
+*** SHOW DOWN ***
+Jojo171644 shows [8c 2c] (One pair : 2)
+YL_ML_GL_42 shows [5c Ks] (One pair : Kings)
+YL_ML_GL_42 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [3d 9h Kc 2s Ac]
+Seat 2: Jojo171644 (big blind) showed [8c 2c] and lost with One pair : 2
+Seat 3: YL_ML_GL_42 (button) showed [5c Ks] and won 460 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2617715389328523265-6-1670451459 - Holdem no limit (15/30) - 2022/12/07 22:17:39 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ameljaz (146)
+Seat 2: Jojo171644 (599)
+Seat 3: YL_ML_GL_42 (755)
+*** ANTE/BLINDS ***
+Jojo171644 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Kh 7d]
+*** PRE-FLOP *** 
+Ameljaz folds
+Jojo171644 calls 15
+YL_ML_GL_42 raises 60 to 90
+Jojo171644 calls 60
+*** FLOP *** [9c Qc Qs]
+Jojo171644 checks
+YL_ML_GL_42 bets 180
+Jojo171644 folds
+YL_ML_GL_42 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [9c Qc Qs]
+Seat 3: YL_ML_GL_42 (big blind) won 360
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2617715389328523265-7-1670451477 - Holdem no limit (15/30) - 2022/12/07 22:17:57 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ameljaz (146)
+Seat 2: Jojo171644 (509)
+Seat 3: YL_ML_GL_42 (845)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Ameljaz posts big blind 30
+Dealt to YL_ML_GL_42 [9h 5s]
+*** PRE-FLOP *** 
+Jojo171644 folds
+YL_ML_GL_42 folds
+Ameljaz collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Ameljaz (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2617715389328523265-8-1670451485 - Holdem no limit (15/30) - 2022/12/07 22:18:05 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ameljaz (161)
+Seat 2: Jojo171644 (509)
+Seat 3: YL_ML_GL_42 (830)
+*** ANTE/BLINDS ***
+Ameljaz posts small blind 15
+Jojo171644 posts big blind 30
+Dealt to YL_ML_GL_42 [Ad 4d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 75 to 105
+Ameljaz folds
+Jojo171644 folds
+YL_ML_GL_42 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 3: YL_ML_GL_42 (button) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2617715389328523265-9-1670451493 - Holdem no limit (15/30) - 2022/12/07 22:18:13 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ameljaz (146)
+Seat 2: Jojo171644 (479)
+Seat 3: YL_ML_GL_42 (875)
+*** ANTE/BLINDS ***
+Jojo171644 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [3h 7d]
+*** PRE-FLOP *** 
+Ameljaz folds
+Jojo171644 raises 449 to 479 and is all-in
+YL_ML_GL_42 folds
+Jojo171644 collected 509 from pot
+*** SUMMARY ***
+Total pot 509 | No rake
+Seat 2: Jojo171644 (small blind) won 509
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2617715389328523265-10-1670451499 - Holdem no limit (15/30) - 2022/12/07 22:18:19 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ameljaz (146)
+Seat 2: Jojo171644 (509)
+Seat 3: YL_ML_GL_42 (845)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Ameljaz posts big blind 30
+Dealt to YL_ML_GL_42 [8s Qc]
+*** PRE-FLOP *** 
+Jojo171644 folds
+YL_ML_GL_42 raises 60 to 90
+Ameljaz raises 56 to 146 and is all-in
+YL_ML_GL_42 calls 56
+*** FLOP *** [Jc Js 7c]
+*** TURN *** [Jc Js 7c][8d]
+*** RIVER *** [Jc Js 7c 8d][2h]
+*** SHOW DOWN ***
+Ameljaz shows [7h 6s] (Two pairs : Jacks and 7)
+YL_ML_GL_42 shows [8s Qc] (Two pairs : Jacks and 8)
+YL_ML_GL_42 collected 292 from pot
+*** SUMMARY ***
+Total pot 292 | No rake
+Board: [Jc Js 7c 8d 2h]
+Seat 1: Ameljaz (big blind) showed [7h 6s] and lost with Two pairs : Jacks and 7
+Seat 3: YL_ML_GL_42 (small blind) showed [8s Qc] and won 292 with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2617715389328523265-11-1670451518 - Holdem no limit (15/30) - 2022/12/07 22:18:38 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Jojo171644 (509)
+Seat 3: YL_ML_GL_42 (991)
+*** ANTE/BLINDS ***
+Jojo171644 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Jh Ks]
+*** PRE-FLOP *** 
+Jojo171644 calls 15
+YL_ML_GL_42 raises 91 to 121
+Jojo171644 folds
+YL_ML_GL_42 collected 151 from pot
+*** SUMMARY ***
+Total pot 151 | No rake
+Seat 3: YL_ML_GL_42 (big blind) won 151
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2617715389328523265-12-1670451528 - Holdem no limit (20/40) - 2022/12/07 22:18:48 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Jojo171644 (479)
+Seat 3: YL_ML_GL_42 (1021)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Jojo171644 posts big blind 40
+Dealt to YL_ML_GL_42 [6s 8d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Jojo171644 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Jojo171644 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2617715389328523265-13-1670451532 - Holdem no limit (20/40) - 2022/12/07 22:18:52 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Jojo171644 (499)
+Seat 3: YL_ML_GL_42 (1001)
+*** ANTE/BLINDS ***
+Jojo171644 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Jc 7h]
+*** PRE-FLOP *** 
+Jojo171644 calls 20
+YL_ML_GL_42 checks
+*** FLOP *** [6c Js 5h]
+YL_ML_GL_42 bets 40
+Jojo171644 folds
+YL_ML_GL_42 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [6c Js 5h]
+Seat 3: YL_ML_GL_42 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2617715389328523265-14-1670451541 - Holdem no limit (20/40) - 2022/12/07 22:19:01 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Jojo171644 (459)
+Seat 3: YL_ML_GL_42 (1041)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Jojo171644 posts big blind 40
+Dealt to YL_ML_GL_42 [7h 4d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 20
+Jojo171644 checks
+*** FLOP *** [Kd 8c Ks]
+Jojo171644 checks
+YL_ML_GL_42 checks
+*** TURN *** [Kd 8c Ks][4c]
+Jojo171644 bets 40
+YL_ML_GL_42 calls 40
+*** RIVER *** [Kd 8c Ks 4c][2s]
+Jojo171644 bets 379 and is all-in
+YL_ML_GL_42 calls 379
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7h 4d] (Two pairs : Kings and 4)
+Jojo171644 shows [6d Kh] (Trips of Kings)
+Jojo171644 collected 918 from pot
+*** SUMMARY ***
+Total pot 918 | No rake
+Board: [Kd 8c Ks 4c 2s]
+Seat 2: Jojo171644 (big blind) showed [6d Kh] and won 918 with Trips of Kings
+Seat 3: YL_ML_GL_42 (small blind) (button) showed [7h 4d] and lost with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2617715389328523265-15-1670451560 - Holdem no limit (20/40) - 2022/12/07 22:19:20 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Jojo171644 (918)
+Seat 3: YL_ML_GL_42 (582)
+*** ANTE/BLINDS ***
+Jojo171644 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Qd 5s]
+*** PRE-FLOP *** 
+Jojo171644 calls 20
+YL_ML_GL_42 checks
+*** FLOP *** [2h Kc 8d]
+YL_ML_GL_42 checks
+Jojo171644 checks
+*** TURN *** [2h Kc 8d][4h]
+YL_ML_GL_42 checks
+Jojo171644 bets 40
+YL_ML_GL_42 folds
+Jojo171644 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2h Kc 8d 4h]
+Seat 2: Jojo171644 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2617715389328523265-16-1670451570 - Holdem no limit (20/40) - 2022/12/07 22:19:30 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Jojo171644 (958)
+Seat 3: YL_ML_GL_42 (542)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Jojo171644 posts big blind 40
+Dealt to YL_ML_GL_42 [5d Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+Jojo171644 folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 3: YL_ML_GL_42 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2617715389328523265-17-1670451576 - Holdem no limit (20/40) - 2022/12/07 22:19:36 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Jojo171644 (918)
+Seat 3: YL_ML_GL_42 (582)
+*** ANTE/BLINDS ***
+Jojo171644 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [8c 3h]
+*** PRE-FLOP *** 
+Jojo171644 calls 20
+YL_ML_GL_42 checks
+*** FLOP *** [Qc 4s Jd]
+YL_ML_GL_42 checks
+Jojo171644 checks
+*** TURN *** [Qc 4s Jd][7d]
+YL_ML_GL_42 checks
+Jojo171644 checks
+*** RIVER *** [Qc 4s Jd 7d][2c]
+YL_ML_GL_42 checks
+Jojo171644 bets 40
+YL_ML_GL_42 calls 40
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [8c 3h] (High card : Queen)
+Jojo171644 shows [Tc 8h] (High card : Queen)
+Jojo171644 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Qc 4s Jd 7d 2c]
+Seat 2: Jojo171644 (small blind) (button) showed [Tc 8h] and won 160 with High card : Queen
+Seat 3: YL_ML_GL_42 (big blind) showed [8c 3h] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2617715389328523265-18-1670451593 - Holdem no limit (20/40) - 2022/12/07 22:19:53 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Jojo171644 (998)
+Seat 3: YL_ML_GL_42 (502)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Jojo171644 posts big blind 40
+Dealt to YL_ML_GL_42 [Qh 7h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 462 to 502 and is all-in
+Jojo171644 folds
+YL_ML_GL_42 collected 542 from pot
+*** SUMMARY ***
+Total pot 542 | No rake
+Seat 3: YL_ML_GL_42 (small blind) (button) won 542
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2617715389328523265-19-1670451598 - Holdem no limit (20/40) - 2022/12/07 22:19:58 UTC
+Table: 'Expresso(609484359)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Jojo171644 (958)
+Seat 3: YL_ML_GL_42 (542)
+*** ANTE/BLINDS ***
+Jojo171644 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [6h 4h]
+*** PRE-FLOP *** 
+Jojo171644 raises 918 to 958 and is all-in
+YL_ML_GL_42 calls 502 and is all-in
+*** FLOP *** [2d 2s 8s]
+*** TURN *** [2d 2s 8s][3s]
+*** RIVER *** [2d 2s 8s 3s][2h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [6h 4h] (Trips of 2)
+Jojo171644 shows [3h Ah] (Full of 2 and 3)
+Jojo171644 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [2d 2s 8s 3s 2h]
+Seat 2: Jojo171644 (small blind) (button) showed [3h Ah] and won 1500 with Full of 2 and 3
+Seat 3: YL_ML_GL_42 (big blind) showed [6h 4h] and lost with Trips of 2
+
+

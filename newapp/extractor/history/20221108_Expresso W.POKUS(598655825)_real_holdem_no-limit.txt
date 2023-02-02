@@ -1,0 +1,160 @@
+Winamax Poker - Tournament "Expresso W.POKUS" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2571207189934899201-1-1667924470 - Holdem no limit (10/20) - 2022/11/08 16:21:10 UTC
+Table: 'Expresso W.POKUS(598655825)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ismaaurei34 (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Ty-boubou (500)
+*** ANTE/BLINDS ***
+Ty-boubou posts small blind 10
+ismaaurei34 posts big blind 20
+Dealt to YL_ML_GL_42 [3h 5d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Ty-boubou raises 20 to 40
+ismaaurei34 folds
+Ty-boubou collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Ty-boubou (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso W.POKUS" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2571207189934899201-2-1667924479 - Holdem no limit (10/20) - 2022/11/08 16:21:19 UTC
+Table: 'Expresso W.POKUS(598655825)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ismaaurei34 (480)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Ty-boubou (520)
+*** ANTE/BLINDS ***
+ismaaurei34 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [9c Qh]
+*** PRE-FLOP *** 
+Ty-boubou folds
+ismaaurei34 calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [Js Kh 4h]
+ismaaurei34 checks
+YL_ML_GL_42 checks
+*** TURN *** [Js Kh 4h][Ac]
+ismaaurei34 bets 20
+YL_ML_GL_42 calls 20
+*** RIVER *** [Js Kh 4h Ac][4d]
+ismaaurei34 bets 80
+YL_ML_GL_42 folds
+ismaaurei34 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Js Kh 4h Ac 4d]
+Seat 1: ismaaurei34 (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso W.POKUS" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2571207189934899201-3-1667924508 - Holdem no limit (10/20) - 2022/11/08 16:21:48 UTC
+Table: 'Expresso W.POKUS(598655825)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ismaaurei34 (520)
+Seat 2: YL_ML_GL_42 (460)
+Seat 3: Ty-boubou (520)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Ty-boubou posts big blind 20
+Dealt to YL_ML_GL_42 [Ks Jc]
+*** PRE-FLOP *** 
+ismaaurei34 raises 20 to 40
+YL_ML_GL_42 raises 100 to 140
+Ty-boubou folds
+ismaaurei34 calls 100
+*** FLOP *** [3c 6c Ad]
+YL_ML_GL_42 bets 320 and is all-in
+ismaaurei34 folds
+YL_ML_GL_42 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [3c 6c Ad]
+Seat 2: YL_ML_GL_42 (small blind) won 620
+
+
+Winamax Poker - Tournament "Expresso W.POKUS" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2571207189934899201-4-1667924532 - Holdem no limit (10/20) - 2022/11/08 16:22:12 UTC
+Table: 'Expresso W.POKUS(598655825)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ismaaurei34 (380)
+Seat 2: YL_ML_GL_42 (620)
+Seat 3: Ty-boubou (500)
+*** ANTE/BLINDS ***
+Ty-boubou posts small blind 10
+ismaaurei34 posts big blind 20
+Dealt to YL_ML_GL_42 [2d 2s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 600 to 620 and is all-in
+Ty-boubou calls 490 and is all-in
+ismaaurei34 folds
+*** FLOP *** [9d 3h Kc]
+*** TURN *** [9d 3h Kc][6h]
+*** RIVER *** [9d 3h Kc 6h][Ks]
+*** SHOW DOWN ***
+Ty-boubou shows [Qc Ad] (One pair : Kings)
+YL_ML_GL_42 shows [2d 2s] (Two pairs : Kings and 2)
+YL_ML_GL_42 collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | No rake
+Board: [9d 3h Kc 6h Ks]
+Seat 2: YL_ML_GL_42 (button) showed [2d 2s] and won 1140 with Two pairs : Kings and 2
+Seat 3: Ty-boubou (small blind) showed [Qc Ad] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso W.POKUS" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2571207189934899201-5-1667924549 - Holdem no limit (10/20) - 2022/11/08 16:22:29 UTC
+Table: 'Expresso W.POKUS(598655825)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ismaaurei34 (360)
+Seat 2: YL_ML_GL_42 (1140)
+*** ANTE/BLINDS ***
+ismaaurei34 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [2d Ts]
+*** PRE-FLOP *** 
+ismaaurei34 raises 340 to 360 and is all-in
+YL_ML_GL_42 folds
+ismaaurei34 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 1: ismaaurei34 (small blind) (button) won 380
+
+
+Winamax Poker - Tournament "Expresso W.POKUS" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2571207189934899201-6-1667924555 - Holdem no limit (10/20) - 2022/11/08 16:22:35 UTC
+Table: 'Expresso W.POKUS(598655825)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ismaaurei34 (380)
+Seat 2: YL_ML_GL_42 (1120)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+ismaaurei34 posts big blind 20
+Dealt to YL_ML_GL_42 [4c 6c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ismaaurei34 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: ismaaurei34 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso W.POKUS" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #2571207189934899201-7-1667924559 - Holdem no limit (10/20) - 2022/11/08 16:22:39 UTC
+Table: 'Expresso W.POKUS(598655825)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ismaaurei34 (390)
+Seat 2: YL_ML_GL_42 (1110)
+*** ANTE/BLINDS ***
+ismaaurei34 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [8h Jc]
+*** PRE-FLOP *** 
+ismaaurei34 raises 20 to 40
+YL_ML_GL_42 calls 20
+*** FLOP *** [4c 3h 8d]
+YL_ML_GL_42 bets 64
+ismaaurei34 raises 286 to 350 and is all-in
+YL_ML_GL_42 calls 286
+*** TURN *** [4c 3h 8d][5c]
+*** RIVER *** [4c 3h 8d 5c][Qs]
+*** SHOW DOWN ***
+ismaaurei34 shows [8s 9d] (One pair : 8)
+YL_ML_GL_42 shows [8h Jc] (One pair : 8)
+YL_ML_GL_42 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [4c 3h 8d 5c Qs]
+Seat 1: ismaaurei34 (small blind) (button) showed [8s 9d] and lost with One pair : 8
+Seat 2: YL_ML_GL_42 (big blind) showed [8h Jc] and won 780 with One pair : 8
+
+

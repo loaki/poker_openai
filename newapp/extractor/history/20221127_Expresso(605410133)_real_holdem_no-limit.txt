@@ -1,0 +1,249 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2600216721902010369-1-1669564734 - Holdem no limit (10/20) - 2022/11/27 15:58:54 UTC
+Table: 'Expresso(605410133)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: Steven3913 (500)
+Seat 3: Lexflex (500)
+*** ANTE/BLINDS ***
+Lexflex posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [7d 6c]
+*** PRE-FLOP *** 
+Steven3913 folds
+Lexflex folds
+YL_ML_GL_42 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2600216721902010369-2-1669564740 - Holdem no limit (10/20) - 2022/11/27 15:59:00 UTC
+Table: 'Expresso(605410133)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (510)
+Seat 2: Steven3913 (500)
+Seat 3: Lexflex (490)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Steven3913 posts big blind 20
+Dealt to YL_ML_GL_42 [Ks 5h]
+*** PRE-FLOP *** 
+Lexflex calls 20
+YL_ML_GL_42 calls 10
+Steven3913 checks
+*** FLOP *** [Js Ah Jh]
+YL_ML_GL_42 checks
+Steven3913 checks
+Lexflex checks
+*** TURN *** [Js Ah Jh][5s]
+YL_ML_GL_42 checks
+Steven3913 checks
+Lexflex checks
+*** RIVER *** [Js Ah Jh 5s][Th]
+YL_ML_GL_42 bets 48
+Steven3913 folds
+Lexflex folds
+YL_ML_GL_42 collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [Js Ah Jh 5s Th]
+Seat 1: YL_ML_GL_42 (small blind) won 108
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2600216721902010369-3-1669564762 - Holdem no limit (10/20) - 2022/11/27 15:59:22 UTC
+Table: 'Expresso(605410133)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (550)
+Seat 2: Steven3913 (480)
+Seat 3: Lexflex (470)
+*** ANTE/BLINDS ***
+Steven3913 posts small blind 10
+Lexflex posts big blind 20
+Dealt to YL_ML_GL_42 [Kh 9s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+Steven3913 folds
+Lexflex calls 50
+*** FLOP *** [7s Ts Jh]
+Lexflex checks
+YL_ML_GL_42 bets 120
+Lexflex calls 120
+*** TURN *** [7s Ts Jh][8h]
+Lexflex bets 20
+YL_ML_GL_42 calls 20
+*** RIVER *** [7s Ts Jh 8h][Td]
+Lexflex bets 151
+YL_ML_GL_42 raises 189 to 340 and is all-in
+Lexflex folds
+YL_ML_GL_42 collected 921 from pot
+*** SUMMARY ***
+Total pot 921 | No rake
+Board: [7s Ts Jh 8h Td]
+Seat 1: YL_ML_GL_42 (button) won 921
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2600216721902010369-4-1669564788 - Holdem no limit (10/20) - 2022/11/27 15:59:48 UTC
+Table: 'Expresso(605410133)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (921)
+Seat 2: Steven3913 (470)
+Seat 3: Lexflex (109)
+*** ANTE/BLINDS ***
+Lexflex posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [3c Ah]
+*** PRE-FLOP *** 
+Steven3913 calls 20
+Lexflex raises 89 to 109 and is all-in
+YL_ML_GL_42 calls 89
+Steven3913 calls 89
+*** FLOP *** [2d 3d Qd]
+YL_ML_GL_42 checks
+Steven3913 checks
+*** TURN *** [2d 3d Qd][6h]
+YL_ML_GL_42 checks
+Steven3913 checks
+*** RIVER *** [2d 3d Qd 6h][Jc]
+YL_ML_GL_42 bets 262
+Steven3913 folds
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [3c Ah] (One pair : 3)
+Lexflex shows [7s 7c] (One pair : 7)
+Lexflex collected 327 from main pot
+YL_ML_GL_42 collected 262 from side pot 1
+*** SUMMARY ***
+Total pot 589 | No rake
+Board: [2d 3d Qd 6h Jc]
+Seat 1: YL_ML_GL_42 (big blind) showed [3c Ah] and won 262 with One pair : 3
+Seat 3: Lexflex (small blind) showed [7s 7c] and won 327 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2600216721902010369-5-1669564812 - Holdem no limit (10/20) - 2022/11/27 16:00:12 UTC
+Table: 'Expresso(605410133)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (812)
+Seat 2: Steven3913 (361)
+Seat 3: Lexflex (327)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Steven3913 posts big blind 20
+Dealt to YL_ML_GL_42 [Ts 9c]
+*** PRE-FLOP *** 
+Lexflex raises 20 to 40
+YL_ML_GL_42 calls 30
+Steven3913 folds
+*** FLOP *** [Js Kc Jh]
+YL_ML_GL_42 bets 100
+Lexflex calls 100
+*** TURN *** [Js Kc Jh][6c]
+YL_ML_GL_42 bets 672 and is all-in
+Lexflex calls 187 and is all-in
+*** RIVER *** [Js Kc Jh 6c][8c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ts 9c] (One pair : Jacks)
+Lexflex shows [9d Qs] (One pair : Jacks)
+Lexflex collected 674 from main pot
+YL_ML_GL_42 collected 485 from side pot 1
+*** SUMMARY ***
+Total pot 1159 | No rake
+Board: [Js Kc Jh 6c 8c]
+Seat 1: YL_ML_GL_42 (small blind) showed [Ts 9c] and won 485 with One pair : Jacks
+Seat 3: Lexflex (button) showed [9d Qs] and won 674 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2600216721902010369-6-1669564840 - Holdem no limit (15/30) - 2022/11/27 16:00:40 UTC
+Table: 'Expresso(605410133)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (485)
+Seat 2: Steven3913 (341)
+Seat 3: Lexflex (674)
+*** ANTE/BLINDS ***
+Steven3913 posts small blind 15
+Lexflex posts big blind 30
+Dealt to YL_ML_GL_42 [7s 3d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Steven3913 calls 15
+Lexflex checks
+*** FLOP *** [Kh 6c 8s]
+Steven3913 checks
+Lexflex checks
+*** TURN *** [Kh 6c 8s][8d]
+Steven3913 checks
+Lexflex checks
+*** RIVER *** [Kh 6c 8s 8d][6s]
+Steven3913 checks
+Lexflex checks
+*** SHOW DOWN ***
+Steven3913 shows [Tc 4s] (Two pairs : 8 and 6)
+Lexflex shows [Qd 9d] (Two pairs : 8 and 6)
+Lexflex collected 30 from pot
+Steven3913 collected 30 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Kh 6c 8s 8d 6s]
+Seat 2: Steven3913 (small blind) showed [Tc 4s] and won 30 with Two pairs : 8 and 6
+Seat 3: Lexflex (big blind) showed [Qd 9d] and won 30 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2600216721902010369-7-1669564879 - Holdem no limit (15/30) - 2022/11/27 16:01:19 UTC
+Table: 'Expresso(605410133)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (485)
+Seat 2: Steven3913 (341)
+Seat 3: Lexflex (674)
+*** ANTE/BLINDS ***
+Lexflex posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Ah As]
+*** PRE-FLOP *** 
+Steven3913 calls 30
+Lexflex raises 30 to 60
+YL_ML_GL_42 raises 150 to 210
+Steven3913 calls 180
+Lexflex calls 150
+*** FLOP *** [Qs 4h 6h]
+Lexflex checks
+YL_ML_GL_42 bets 221
+Steven3913 calls 131 and is all-in
+Lexflex calls 221
+*** TURN *** [Qs 4h 6h][2h]
+Lexflex checks
+YL_ML_GL_42 checks
+*** RIVER *** [Qs 4h 6h 2h][Kc]
+Lexflex checks
+YL_ML_GL_42 bets 54 and is all-in
+Lexflex raises 54 to 108
+*** SHOW DOWN ***
+Steven3913 shows [7c Kh] (One pair : Kings)
+YL_ML_GL_42 shows [Ah As] (One pair : Aces)
+Lexflex shows [Jd Kd] (One pair : Kings)
+Lexflex collected 54 from side pot 1
+YL_ML_GL_42 collected 1311 from main pot
+*** SUMMARY ***
+Total pot 1365 | No rake
+Board: [Qs 4h 6h 2h Kc]
+Seat 1: YL_ML_GL_42 (big blind) showed [Ah As] and won 1311 with One pair : Aces
+Seat 2: Steven3913 (button) showed [7c Kh] and lost with One pair : Kings
+Seat 3: Lexflex (small blind) showed [Jd Kd] and won 54 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2600216721902010369-8-1669564920 - Holdem no limit (20/40) - 2022/11/27 16:02:00 UTC
+Table: 'Expresso(605410133)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1311)
+Seat 3: Lexflex (189)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Lexflex posts big blind 40
+Dealt to YL_ML_GL_42 [Ac Ad]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 20
+Lexflex raises 149 to 189 and is all-in
+YL_ML_GL_42 calls 149
+*** FLOP *** [2s 5c 6c]
+*** TURN *** [2s 5c 6c][2c]
+*** RIVER *** [2s 5c 6c 2c][4d]
+*** SHOW DOWN ***
+Lexflex shows [8d Kh] (One pair : 2)
+YL_ML_GL_42 shows [Ac Ad] (Two pairs : Aces and 2)
+YL_ML_GL_42 collected 378 from pot
+*** SUMMARY ***
+Total pot 378 | No rake
+Board: [2s 5c 6c 2c 4d]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [Ac Ad] and won 378 with Two pairs : Aces and 2
+Seat 3: Lexflex (big blind) showed [8d Kh] and lost with One pair : 2
+
+

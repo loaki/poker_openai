@@ -1,0 +1,226 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2603252739794272257-1-1669724632 - Holdem no limit (10/20) - 2022/11/29 12:23:52 UTC
+Table: 'Expresso Nitro(606117011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: chentegtb (300)
+Seat 2: YL_ML_GL_42 (300)
+Seat 3: El1tejiss (300)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+El1tejiss posts big blind 20
+Dealt to YL_ML_GL_42 [Ts 8d]
+*** PRE-FLOP *** 
+chentegtb folds
+YL_ML_GL_42 calls 10
+El1tejiss raises 40 to 60
+YL_ML_GL_42 raises 240 to 300 and is all-in
+El1tejiss calls 240 and is all-in
+*** FLOP *** [9s Jd 4h]
+*** TURN *** [9s Jd 4h][Js]
+*** RIVER *** [9s Jd 4h Js][Qc]
+*** SHOW DOWN ***
+El1tejiss shows [As Tc] (One pair : Jacks)
+YL_ML_GL_42 shows [Ts 8d] (Straight Queen high)
+YL_ML_GL_42 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [9s Jd 4h Js Qc]
+Seat 2: YL_ML_GL_42 (small blind) showed [Ts 8d] and won 600 with Straight Queen high
+Seat 3: El1tejiss (big blind) showed [As Tc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2603252739794272257-2-1669724655 - Holdem no limit (10/20) - 2022/11/29 12:24:15 UTC
+Table: 'Expresso Nitro(606117011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: chentegtb (300)
+Seat 2: YL_ML_GL_42 (600)
+*** ANTE/BLINDS ***
+chentegtb posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [3d 6d]
+*** PRE-FLOP *** 
+chentegtb raises 20 to 40
+YL_ML_GL_42 calls 20
+*** FLOP *** [9d Ks Tc]
+YL_ML_GL_42 checks
+chentegtb bets 28
+YL_ML_GL_42 folds
+chentegtb collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [9d Ks Tc]
+Seat 1: chentegtb (small blind) (button) won 108
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2603252739794272257-3-1669724672 - Holdem no limit (10/20) - 2022/11/29 12:24:32 UTC
+Table: 'Expresso Nitro(606117011)#0' 3-max (real money) Seat #2 is the button
+Seat 1: chentegtb (340)
+Seat 2: YL_ML_GL_42 (560)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+chentegtb posts big blind 20
+Dealt to YL_ML_GL_42 [5c Td]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+chentegtb collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: chentegtb (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2603252739794272257-4-1669724675 - Holdem no limit (10/20) - 2022/11/29 12:24:35 UTC
+Table: 'Expresso Nitro(606117011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: chentegtb (350)
+Seat 2: YL_ML_GL_42 (550)
+*** ANTE/BLINDS ***
+chentegtb posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Kh As]
+*** PRE-FLOP *** 
+chentegtb folds
+YL_ML_GL_42 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #2603252739794272257-5-1669724681 - Holdem no limit (10/20) - 2022/11/29 12:24:41 UTC
+Table: 'Expresso Nitro(606117011)#0' 3-max (real money) Seat #2 is the button
+Seat 1: chentegtb (340)
+Seat 2: YL_ML_GL_42 (560)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+chentegtb posts big blind 20
+Dealt to YL_ML_GL_42 [Ah 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 40 to 60
+chentegtb calls 40
+*** FLOP *** [9s Qd Ac]
+chentegtb checks
+YL_ML_GL_42 checks
+*** TURN *** [9s Qd Ac][2s]
+chentegtb checks
+YL_ML_GL_42 bets 42
+chentegtb calls 42
+*** RIVER *** [9s Qd Ac 2s][9h]
+chentegtb checks
+YL_ML_GL_42 bets 163
+chentegtb calls 163
+*** SHOW DOWN ***
+chentegtb shows [Td Qh] (Two pairs : Queens and 9)
+YL_ML_GL_42 shows [Ah 8s] (Two pairs : Aces and 9)
+YL_ML_GL_42 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [9s Qd Ac 2s 9h]
+Seat 1: chentegtb (big blind) showed [Td Qh] and lost with Two pairs : Queens and 9
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [Ah 8s] and won 530 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2603252739794272257-6-1669724717 - Holdem no limit (15/30) - 2022/11/29 12:25:17 UTC
+Table: 'Expresso Nitro(606117011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: chentegtb (75)
+Seat 2: YL_ML_GL_42 (825)
+*** ANTE/BLINDS ***
+chentegtb posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Jc Ad]
+*** PRE-FLOP *** 
+chentegtb raises 45 to 75 and is all-in
+YL_ML_GL_42 calls 45
+*** FLOP *** [4c Qd 2d]
+*** TURN *** [4c Qd 2d][8s]
+*** RIVER *** [4c Qd 2d 8s][3s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Jc Ad] (High card : Ace)
+chentegtb shows [8h 7d] (One pair : 8)
+chentegtb collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [4c Qd 2d 8s 3s]
+Seat 1: chentegtb (small blind) (button) showed [8h 7d] and won 150 with One pair : 8
+Seat 2: YL_ML_GL_42 (big blind) showed [Jc Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2603252739794272257-7-1669724731 - Holdem no limit (15/30) - 2022/11/29 12:25:31 UTC
+Table: 'Expresso Nitro(606117011)#0' 3-max (real money) Seat #2 is the button
+Seat 1: chentegtb (150)
+Seat 2: YL_ML_GL_42 (750)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+chentegtb posts big blind 30
+Dealt to YL_ML_GL_42 [8s 5c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+chentegtb folds
+YL_ML_GL_42 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: YL_ML_GL_42 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #2603252739794272257-8-1669724743 - Holdem no limit (15/30) - 2022/11/29 12:25:43 UTC
+Table: 'Expresso Nitro(606117011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: chentegtb (120)
+Seat 2: YL_ML_GL_42 (780)
+*** ANTE/BLINDS ***
+chentegtb posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Js 4c]
+*** PRE-FLOP *** 
+chentegtb raises 90 to 120 and is all-in
+YL_ML_GL_42 folds
+chentegtb collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: chentegtb (small blind) (button) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2603252739794272257-9-1669724751 - Holdem no limit (20/40) - 2022/11/29 12:25:51 UTC
+Table: 'Expresso Nitro(606117011)#0' 3-max (real money) Seat #2 is the button
+Seat 1: chentegtb (150)
+Seat 2: YL_ML_GL_42 (750)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+chentegtb posts big blind 40
+Dealt to YL_ML_GL_42 [Jc 6d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+chentegtb raises 30 to 150 and is all-in
+YL_ML_GL_42 calls 30
+*** FLOP *** [Qh 8s 9s]
+*** TURN *** [Qh 8s 9s][Ks]
+*** RIVER *** [Qh 8s 9s Ks][As]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Jc 6d] (High card : Ace)
+chentegtb shows [4d Qs] (Flush Ace high)
+chentegtb collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Qh 8s 9s Ks As]
+Seat 1: chentegtb (big blind) showed [4d Qs] and won 300 with Flush Ace high
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [Jc 6d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #2603252739794272257-10-1669724767 - Holdem no limit (20/40) - 2022/11/29 12:26:07 UTC
+Table: 'Expresso Nitro(606117011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: chentegtb (300)
+Seat 2: YL_ML_GL_42 (600)
+*** ANTE/BLINDS ***
+chentegtb posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [8s 6s]
+*** PRE-FLOP *** 
+chentegtb raises 260 to 300 and is all-in
+YL_ML_GL_42 calls 260
+*** FLOP *** [Jc 5h Ac]
+*** TURN *** [Jc 5h Ac][5d]
+*** RIVER *** [Jc 5h Ac 5d][8c]
+*** SHOW DOWN ***
+chentegtb shows [3h 3s] (Two pairs : 5 and 3)
+YL_ML_GL_42 shows [8s 6s] (Two pairs : 8 and 5)
+YL_ML_GL_42 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jc 5h Ac 5d 8c]
+Seat 1: chentegtb (small blind) (button) showed [3h 3s] and lost with Two pairs : 5 and 3
+Seat 2: YL_ML_GL_42 (big blind) showed [8s 6s] and won 600 with Two pairs : 8 and 5
+
+

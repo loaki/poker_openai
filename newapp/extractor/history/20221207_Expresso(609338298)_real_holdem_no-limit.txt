@@ -1,0 +1,58 @@
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2617088062110302209-1-1670429509 - Holdem no limit (10/20) - 2022/12/07 16:11:49 UTC
+Table: 'Expresso(609338298)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: Markisio11 (500)
+Seat 3: GRISPOIL10 (500)
+*** ANTE/BLINDS ***
+Markisio11 posts small blind 10
+GRISPOIL10 posts big blind 20
+Dealt to YL_ML_GL_42 [3s Kh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 20
+Markisio11 calls 10
+GRISPOIL10 checks
+*** FLOP *** [Td 3d 7d]
+Markisio11 bets 60
+GRISPOIL10 raises 420 to 480 and is all-in
+YL_ML_GL_42 folds
+Markisio11 calls 420 and is all-in
+*** TURN *** [Td 3d 7d][Qs]
+*** RIVER *** [Td 3d 7d Qs][Ah]
+*** SHOW DOWN ***
+GRISPOIL10 shows [Th 3c] (Two pairs : Tens and 3)
+Markisio11 shows [7c Ts] (Two pairs : Tens and 7)
+Markisio11 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [Td 3d 7d Qs Ah]
+Seat 2: Markisio11 (small blind) showed [7c Ts] and won 1020 with Two pairs : Tens and 7
+Seat 3: GRISPOIL10 (big blind) showed [Th 3c] and lost with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 9.30€ + 0.70€ level: 1 - HandId: #2617088062110302209-2-1670429541 - Holdem no limit (10/20) - 2022/12/07 16:12:21 UTC
+Table: 'Expresso(609338298)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (480)
+Seat 2: Markisio11 (1020)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Markisio11 posts big blind 20
+Dealt to YL_ML_GL_42 [4c 7c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 40 to 60
+Markisio11 raises 90 to 150
+YL_ML_GL_42 raises 330 to 480 and is all-in
+Markisio11 calls 330
+*** FLOP *** [3d 2h Td]
+*** TURN *** [3d 2h Td][Qd]
+*** RIVER *** [3d 2h Td Qd][Jd]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [4c 7c] (High card : Queen)
+Markisio11 shows [8d 8s] (Flush Queen high)
+Markisio11 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [3d 2h Td Qd Jd]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [4c 7c] and lost with High card : Queen
+Seat 2: Markisio11 (big blind) showed [8d 8s] and won 960 with Flush Queen high
+
+

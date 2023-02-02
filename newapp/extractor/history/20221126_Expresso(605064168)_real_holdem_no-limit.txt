@@ -1,0 +1,284 @@
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2598730813541449729-1-1669481976 - Holdem no limit (10/20) - 2022/11/26 16:59:36 UTC
+Table: 'Expresso(605064168)#0' 3-max (real money) Seat #3 is the button
+Seat 1: rafraf21 (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Doublego82 (500)
+*** ANTE/BLINDS ***
+rafraf21 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [8d Kc]
+*** PRE-FLOP *** 
+Doublego82 calls 20
+rafraf21 calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [Kd 8s 9s]
+rafraf21 checks
+YL_ML_GL_42 bets 20
+Doublego82 calls 20
+rafraf21 calls 20
+*** TURN *** [Kd 8s 9s][Qh]
+rafraf21 checks
+YL_ML_GL_42 checks
+Doublego82 bets 20
+rafraf21 calls 20
+YL_ML_GL_42 calls 20
+*** RIVER *** [Kd 8s 9s Qh][7h]
+rafraf21 checks
+YL_ML_GL_42 bets 144
+Doublego82 folds
+rafraf21 calls 144
+*** SHOW DOWN ***
+rafraf21 shows [2s Qs] (One pair : Queens)
+YL_ML_GL_42 shows [8d Kc] (Two pairs : Kings and 8)
+YL_ML_GL_42 collected 468 from pot
+*** SUMMARY ***
+Total pot 468 | No rake
+Board: [Kd 8s 9s Qh 7h]
+Seat 1: rafraf21 (small blind) showed [2s Qs] and lost with One pair : Queens
+Seat 2: YL_ML_GL_42 (big blind) showed [8d Kc] and won 468 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2598730813541449729-2-1669482040 - Holdem no limit (10/20) - 2022/11/26 17:00:40 UTC
+Table: 'Expresso(605064168)#0' 3-max (real money) Seat #1 is the button
+Seat 1: rafraf21 (296)
+Seat 2: YL_ML_GL_42 (764)
+Seat 3: Doublego82 (440)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Doublego82 posts big blind 20
+Dealt to YL_ML_GL_42 [3c Ts]
+*** PRE-FLOP *** 
+rafraf21 folds
+YL_ML_GL_42 calls 10
+Doublego82 checks
+*** FLOP *** [6s 5d 2d]
+YL_ML_GL_42 checks
+Doublego82 bets 40
+YL_ML_GL_42 folds
+Doublego82 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [6s 5d 2d]
+Seat 3: Doublego82 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2598730813541449729-3-1669482075 - Holdem no limit (15/30) - 2022/11/26 17:01:15 UTC
+Table: 'Expresso(605064168)#0' 3-max (real money) Seat #2 is the button
+Seat 1: rafraf21 (296)
+Seat 2: YL_ML_GL_42 (744)
+Seat 3: Doublego82 (460)
+*** ANTE/BLINDS ***
+Doublego82 posts small blind 15
+rafraf21 posts big blind 30
+Dealt to YL_ML_GL_42 [Td 9h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 75 to 105
+Doublego82 folds
+rafraf21 folds
+YL_ML_GL_42 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 2: YL_ML_GL_42 (button) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2598730813541449729-4-1669482083 - Holdem no limit (15/30) - 2022/11/26 17:01:23 UTC
+Table: 'Expresso(605064168)#0' 3-max (real money) Seat #3 is the button
+Seat 1: rafraf21 (266)
+Seat 2: YL_ML_GL_42 (789)
+Seat 3: Doublego82 (445)
+*** ANTE/BLINDS ***
+rafraf21 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [4h 8d]
+*** PRE-FLOP *** 
+Doublego82 folds
+rafraf21 calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [Js 7h 9c]
+rafraf21 checks
+YL_ML_GL_42 checks
+*** TURN *** [Js 7h 9c][5h]
+rafraf21 bets 30
+YL_ML_GL_42 calls 30
+*** RIVER *** [Js 7h 9c 5h][Qh]
+rafraf21 bets 30
+YL_ML_GL_42 folds
+rafraf21 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Js 7h 9c 5h Qh]
+Seat 1: rafraf21 (small blind) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2598730813541449729-5-1669482106 - Holdem no limit (15/30) - 2022/11/26 17:01:46 UTC
+Table: 'Expresso(605064168)#0' 3-max (real money) Seat #1 is the button
+Seat 1: rafraf21 (326)
+Seat 2: YL_ML_GL_42 (729)
+Seat 3: Doublego82 (445)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Doublego82 posts big blind 30
+Dealt to YL_ML_GL_42 [Qc 6h]
+*** PRE-FLOP *** 
+rafraf21 calls 30
+YL_ML_GL_42 folds
+Doublego82 checks
+*** FLOP *** [6d 9d 2d]
+Doublego82 checks
+rafraf21 checks
+*** TURN *** [6d 9d 2d][6s]
+Doublego82 checks
+rafraf21 bets 30
+Doublego82 calls 30
+*** RIVER *** [6d 9d 2d 6s][4h]
+Doublego82 checks
+rafraf21 bets 88
+Doublego82 calls 88
+*** SHOW DOWN ***
+Doublego82 shows [As 2h] (Two pairs : 6 and 2)
+rafraf21 shows [4d 8d] (Flush 9 high)
+rafraf21 collected 311 from pot
+*** SUMMARY ***
+Total pot 311 | No rake
+Board: [6d 9d 2d 6s 4h]
+Seat 1: rafraf21 (button) showed [4d 8d] and won 311 with Flush 9 high
+Seat 3: Doublego82 (big blind) showed [As 2h] and lost with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2598730813541449729-6-1669482145 - Holdem no limit (15/30) - 2022/11/26 17:02:25 UTC
+Table: 'Expresso(605064168)#0' 3-max (real money) Seat #2 is the button
+Seat 1: rafraf21 (489)
+Seat 2: YL_ML_GL_42 (714)
+Seat 3: Doublego82 (297)
+*** ANTE/BLINDS ***
+Doublego82 posts small blind 15
+rafraf21 posts big blind 30
+Dealt to YL_ML_GL_42 [5h 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Doublego82 calls 15
+rafraf21 checks
+*** FLOP *** [2d As 3c]
+Doublego82 bets 60
+rafraf21 calls 60
+*** TURN *** [2d As 3c][9s]
+Doublego82 bets 180
+rafraf21 raises 180 to 360
+Doublego82 calls 27 and is all-in
+*** RIVER *** [2d As 3c 9s][6d]
+*** SHOW DOWN ***
+Doublego82 shows [3s Ts] (One pair : 3)
+rafraf21 shows [3h 6h] (Two pairs : 6 and 3)
+rafraf21 collected 747 from pot
+*** SUMMARY ***
+Total pot 747 | No rake
+Board: [2d As 3c 9s 6d]
+Seat 1: rafraf21 (big blind) showed [3h 6h] and won 747 with Two pairs : 6 and 3
+Seat 3: Doublego82 (small blind) showed [3s Ts] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2598730813541449729-7-1669482186 - Holdem no limit (20/40) - 2022/11/26 17:03:06 UTC
+Table: 'Expresso(605064168)#0' 3-max (real money) Seat #1 is the button
+Seat 1: rafraf21 (786)
+Seat 2: YL_ML_GL_42 (714)
+*** ANTE/BLINDS ***
+rafraf21 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [4c Th]
+*** PRE-FLOP *** 
+rafraf21 calls 20
+YL_ML_GL_42 checks
+*** FLOP *** [8s 5c 8c]
+YL_ML_GL_42 checks
+rafraf21 checks
+*** TURN *** [8s 5c 8c][5s]
+YL_ML_GL_42 checks
+rafraf21 bets 40
+YL_ML_GL_42 folds
+rafraf21 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8s 5c 8c 5s]
+Seat 1: rafraf21 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2598730813541449729-8-1669482218 - Holdem no limit (20/40) - 2022/11/26 17:03:38 UTC
+Table: 'Expresso(605064168)#0' 3-max (real money) Seat #2 is the button
+Seat 1: rafraf21 (826)
+Seat 2: YL_ML_GL_42 (674)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+rafraf21 posts big blind 40
+Dealt to YL_ML_GL_42 [Qs Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+rafraf21 calls 80
+*** FLOP *** [7d 4h 9s]
+rafraf21 bets 706 and is all-in
+YL_ML_GL_42 calls 554 and is all-in
+*** TURN *** [7d 4h 9s][Ks]
+*** RIVER *** [7d 4h 9s Ks][6s]
+*** SHOW DOWN ***
+rafraf21 shows [5c 9d] (One pair : 9)
+YL_ML_GL_42 shows [Qs Ts] (Flush King high)
+YL_ML_GL_42 collected 1348 from main pot
+rafraf21 collected 152 from side pot 1
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [7d 4h 9s Ks 6s]
+Seat 1: rafraf21 (big blind) showed [5c 9d] and won 152 with One pair : 9
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [Qs Ts] and won 1348 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2598730813541449729-9-1669482238 - Holdem no limit (20/40) - 2022/11/26 17:03:58 UTC
+Table: 'Expresso(605064168)#0' 3-max (real money) Seat #1 is the button
+Seat 1: rafraf21 (152)
+Seat 2: YL_ML_GL_42 (1348)
+*** ANTE/BLINDS ***
+rafraf21 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [7c 4d]
+*** PRE-FLOP *** 
+rafraf21 calls 20
+YL_ML_GL_42 checks
+*** FLOP *** [Td Ah 9s]
+YL_ML_GL_42 checks
+rafraf21 checks
+*** TURN *** [Td Ah 9s][5s]
+YL_ML_GL_42 checks
+rafraf21 checks
+*** RIVER *** [Td Ah 9s 5s][4c]
+YL_ML_GL_42 bets 80
+rafraf21 folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Td Ah 9s 5s 4c]
+Seat 2: YL_ML_GL_42 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 4 - HandId: #2598730813541449729-10-1669482268 - Holdem no limit (30/60) - 2022/11/26 17:04:28 UTC
+Table: 'Expresso(605064168)#0' 3-max (real money) Seat #2 is the button
+Seat 1: rafraf21 (112)
+Seat 2: YL_ML_GL_42 (1388)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+rafraf21 posts big blind 60
+Dealt to YL_ML_GL_42 [3d Td]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 120 to 180
+rafraf21 calls 52 and is all-in
+*** FLOP *** [2h 2d Th]
+*** TURN *** [2h 2d Th][8d]
+*** RIVER *** [2h 2d Th 8d][Qd]
+*** SHOW DOWN ***
+rafraf21 shows [6h 6s] (Two pairs : 6 and 2)
+YL_ML_GL_42 shows [3d Td] (Flush Queen high)
+YL_ML_GL_42 collected 292 from pot
+*** SUMMARY ***
+Total pot 292 | No rake
+Board: [2h 2d Th 8d Qd]
+Seat 1: rafraf21 (big blind) showed [6h 6s] and lost with Two pairs : 6 and 2
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [3d Td] and won 292 with Flush Queen high
+
+

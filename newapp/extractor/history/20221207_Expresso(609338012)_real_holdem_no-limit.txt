@@ -1,0 +1,27 @@
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2617086833749655553-1-1670429451 - Holdem no limit (10/20) - 2022/12/07 16:10:51 UTC
+Table: 'Expresso(609338012)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: Suedy49 (500)
+Seat 3: Toddu30 (500)
+*** ANTE/BLINDS ***
+Toddu30 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Ks Kc]
+*** PRE-FLOP *** 
+Suedy49 raises 480 to 500 and is all-in
+Toddu30 folds
+YL_ML_GL_42 calls 480 and is all-in
+*** FLOP *** [7d 3c 6h]
+*** TURN *** [7d 3c 6h][As]
+*** RIVER *** [7d 3c 6h As][5h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ks Kc] (One pair : Kings)
+Suedy49 shows [Kd Ad] (One pair : Aces)
+Suedy49 collected 1010 from pot
+*** SUMMARY ***
+Total pot 1010 | No rake
+Board: [7d 3c 6h As 5h]
+Seat 1: YL_ML_GL_42 (big blind) showed [Ks Kc] and lost with One pair : Kings
+Seat 2: Suedy49 (button) showed [Kd Ad] and won 1010 with One pair : Aces
+
+

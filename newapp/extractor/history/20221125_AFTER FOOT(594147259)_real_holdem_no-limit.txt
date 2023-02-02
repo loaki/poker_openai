@@ -1,0 +1,3097 @@
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2551843046413041790-1-1669413665 - Holdem no limit (25/100/200) - 2022/11/25 22:01:05 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #4 is the button
+Seat 1: johnmrt (20000, 0.90€ bounty)
+Seat 2: Mikabaruo (20000, 0.90€ bounty)
+Seat 3: King Homard (20000, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (20000, 0.90€ bounty)
+Seat 5: Hall-in8z (20000, 0.90€ bounty)
+Seat 6: barbidouile (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Hall-in8z posts ante 25
+barbidouile posts ante 25
+johnmrt posts ante 25
+Mikabaruo posts ante 25
+King Homard posts ante 25
+YL_ML_GL_42 posts ante 25
+Hall-in8z posts small blind 100
+barbidouile posts big blind 200
+Dealt to YL_ML_GL_42 [7s Td]
+*** PRE-FLOP *** 
+johnmrt folds
+Mikabaruo raises 400 to 600
+King Homard folds
+YL_ML_GL_42 folds
+Hall-in8z folds
+barbidouile folds
+Mikabaruo collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 2: Mikabaruo won 1050
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2551843046413041790-2-1669413733 - Holdem no limit (25/100/200) - 2022/11/25 22:02:13 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #5 is the button
+Seat 1: johnmrt (19975, 0.90€ bounty)
+Seat 2: Mikabaruo (20425, 0.90€ bounty)
+Seat 3: King Homard (19975, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (19975, 0.90€ bounty)
+Seat 5: Hall-in8z (19875, 0.90€ bounty)
+Seat 6: barbidouile (19775, 0.90€ bounty)
+*** ANTE/BLINDS ***
+barbidouile posts ante 25
+johnmrt posts ante 25
+Mikabaruo posts ante 25
+King Homard posts ante 25
+YL_ML_GL_42 posts ante 25
+Hall-in8z posts ante 25
+barbidouile posts small blind 100
+johnmrt posts big blind 200
+Dealt to YL_ML_GL_42 [As Th]
+*** PRE-FLOP *** 
+Mikabaruo raises 300 to 500
+King Homard folds
+YL_ML_GL_42 calls 500
+Hall-in8z folds
+barbidouile folds
+johnmrt folds
+*** FLOP *** [6c 3h 9s]
+Mikabaruo bets 943
+YL_ML_GL_42 folds
+Mikabaruo collected 2393 from pot
+*** SUMMARY ***
+Total pot 2393 | No rake
+Board: [6c 3h 9s]
+Seat 2: Mikabaruo won 2393
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2551843046413041790-3-1669413789 - Holdem no limit (25/100/200) - 2022/11/25 22:03:09 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #6 is the button
+Seat 1: johnmrt (19750, 0.90€ bounty)
+Seat 2: Mikabaruo (21350, 0.90€ bounty)
+Seat 3: King Homard (19950, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (19450, 0.90€ bounty)
+Seat 5: Hall-in8z (19850, 0.90€ bounty)
+Seat 6: barbidouile (19650, 0.90€ bounty)
+*** ANTE/BLINDS ***
+johnmrt posts ante 25
+Mikabaruo posts ante 25
+King Homard posts ante 25
+YL_ML_GL_42 posts ante 25
+Hall-in8z posts ante 25
+barbidouile posts ante 25
+johnmrt posts small blind 100
+Mikabaruo posts big blind 200
+Dealt to YL_ML_GL_42 [7d 4d]
+*** PRE-FLOP *** 
+King Homard raises 300 to 500
+YL_ML_GL_42 folds
+Hall-in8z calls 500
+barbidouile folds
+johnmrt folds
+Mikabaruo raises 750 to 1250
+King Homard folds
+Hall-in8z calls 750
+*** FLOP *** [5h 5c Qc]
+Mikabaruo bets 2113
+Hall-in8z folds
+Mikabaruo collected 5363 from pot
+*** SUMMARY ***
+Total pot 5363 | No rake
+Board: [5h 5c Qc]
+Seat 2: Mikabaruo (big blind) won 5363
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #2551843046413041790-4-1669413838 - Holdem no limit (25/100/200) - 2022/11/25 22:03:58 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #1 is the button
+Seat 1: johnmrt (19625, 0.90€ bounty)
+Seat 2: Mikabaruo (23325, 0.90€ bounty)
+Seat 3: King Homard (19425, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (19425, 0.90€ bounty)
+Seat 5: Hall-in8z (18575, 0.90€ bounty)
+Seat 6: barbidouile (19625, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Mikabaruo posts ante 25
+King Homard posts ante 25
+johnmrt posts ante 25
+YL_ML_GL_42 posts ante 25
+Hall-in8z posts ante 25
+barbidouile posts ante 25
+Mikabaruo posts small blind 100
+King Homard posts big blind 200
+Dealt to YL_ML_GL_42 [Ac 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Hall-in8z folds
+barbidouile calls 200
+johnmrt folds
+Mikabaruo raises 750 to 950
+King Homard folds
+barbidouile calls 750
+*** FLOP *** [6h Kh Qc]
+Mikabaruo bets 1463
+barbidouile calls 1463
+*** TURN *** [6h Kh Qc][6d]
+Mikabaruo checks
+barbidouile checks
+*** RIVER *** [6h Kh Qc 6d][Jh]
+Mikabaruo checks
+barbidouile bets 1812
+Mikabaruo calls 1812
+*** SHOW DOWN ***
+Mikabaruo shows [8c 8s] (Two pairs : 8 and 6)
+barbidouile shows [Qh Jc] (Two pairs : Queens and Jacks)
+barbidouile collected 8800 from pot
+*** SUMMARY ***
+Total pot 8800 | No rake
+Board: [6h Kh Qc 6d Jh]
+Seat 2: Mikabaruo (small blind) showed [8c 8s] and lost with Two pairs : 8 and 6
+Seat 6: barbidouile showed [Qh Jc] and won 8800 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2551843046413041790-5-1669413915 - Holdem no limit (30/125/250) - 2022/11/25 22:05:15 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #2 is the button
+Seat 1: johnmrt (19600, 0.90€ bounty)
+Seat 2: Mikabaruo (19075, 0.90€ bounty)
+Seat 3: King Homard (19200, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (19400, 0.90€ bounty)
+Seat 5: Hall-in8z (18550, 0.90€ bounty)
+Seat 6: barbidouile (24175, 0.90€ bounty)
+*** ANTE/BLINDS ***
+King Homard posts ante 30
+YL_ML_GL_42 posts ante 30
+johnmrt posts ante 30
+Mikabaruo posts ante 30
+Hall-in8z posts ante 30
+barbidouile posts ante 30
+King Homard posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [Ks Js]
+*** PRE-FLOP *** 
+Hall-in8z raises 250 to 500
+barbidouile folds
+johnmrt folds
+Mikabaruo folds
+King Homard folds
+YL_ML_GL_42 calls 250
+*** FLOP *** [Tc 2s 5c]
+YL_ML_GL_42 bets 1044
+Hall-in8z calls 1044
+*** TURN *** [Tc 2s 5c][3s]
+YL_ML_GL_42 bets 1697
+Hall-in8z calls 1697
+*** RIVER *** [Tc 2s 5c 3s][2d]
+YL_ML_GL_42 checks
+Hall-in8z bets 2375
+YL_ML_GL_42 folds
+Hall-in8z collected 9162 from pot
+*** SUMMARY ***
+Total pot 9162 | No rake
+Board: [Tc 2s 5c 3s 2d]
+Seat 5: Hall-in8z won 9162
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #2551843046413041790-6-1669413985 - Holdem no limit (30/125/250) - 2022/11/25 22:06:25 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #3 is the button
+Seat 1: johnmrt (19570, 0.90€ bounty)
+Seat 2: Mikabaruo (19045, 0.90€ bounty)
+Seat 3: King Homard (19045, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (16129, 0.90€ bounty)
+Seat 5: Hall-in8z (22066, 0.90€ bounty)
+Seat 6: barbidouile (24145, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 30
+Hall-in8z posts ante 30
+johnmrt posts ante 30
+Mikabaruo posts ante 30
+King Homard posts ante 30
+barbidouile posts ante 30
+YL_ML_GL_42 posts small blind 125
+Hall-in8z posts big blind 250
+Dealt to YL_ML_GL_42 [7c As]
+*** PRE-FLOP *** 
+barbidouile calls 250
+johnmrt folds
+Mikabaruo folds
+King Homard folds
+YL_ML_GL_42 raises 500 to 750
+Hall-in8z folds
+barbidouile calls 500
+*** FLOP *** [6d Jc 8s]
+YL_ML_GL_42 checks
+barbidouile checks
+*** TURN *** [6d Jc 8s][4s]
+YL_ML_GL_42 checks
+barbidouile checks
+*** RIVER *** [6d Jc 8s 4s][3s]
+YL_ML_GL_42 bets 965
+barbidouile folds
+YL_ML_GL_42 collected 2895 from pot
+*** SUMMARY ***
+Total pot 2895 | No rake
+Board: [6d Jc 8s 4s 3s]
+Seat 4: YL_ML_GL_42 (small blind) won 2895
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2551843046413041790-7-1669414059 - Holdem no limit (35/150/300) - 2022/11/25 22:07:39 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #4 is the button
+Seat 1: johnmrt (19540, 0.90€ bounty)
+Seat 2: Mikabaruo (19015, 0.90€ bounty)
+Seat 3: King Homard (19015, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (17279, 0.90€ bounty)
+Seat 5: Hall-in8z (21786, 0.90€ bounty)
+Seat 6: barbidouile (23365, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Hall-in8z posts ante 35
+barbidouile posts ante 35
+johnmrt posts ante 35
+Mikabaruo posts ante 35
+King Homard posts ante 35
+YL_ML_GL_42 posts ante 35
+Hall-in8z posts small blind 150
+barbidouile posts big blind 300
+Dealt to YL_ML_GL_42 [7d 8h]
+*** PRE-FLOP *** 
+johnmrt folds
+Mikabaruo folds
+King Homard raises 450 to 750
+YL_ML_GL_42 folds
+Hall-in8z folds
+barbidouile folds
+King Homard collected 1410 from pot
+*** SUMMARY ***
+Total pot 1410 | No rake
+Seat 3: King Homard won 1410
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2551843046413041790-8-1669414089 - Holdem no limit (35/150/300) - 2022/11/25 22:08:09 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #5 is the button
+Seat 1: johnmrt (19505, 0.90€ bounty)
+Seat 2: Mikabaruo (18980, 0.90€ bounty)
+Seat 3: King Homard (19640, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (17244, 0.90€ bounty)
+Seat 5: Hall-in8z (21601, 0.90€ bounty)
+Seat 6: barbidouile (23030, 0.90€ bounty)
+*** ANTE/BLINDS ***
+barbidouile posts ante 35
+johnmrt posts ante 35
+Mikabaruo posts ante 35
+King Homard posts ante 35
+YL_ML_GL_42 posts ante 35
+Hall-in8z posts ante 35
+barbidouile posts small blind 150
+johnmrt posts big blind 300
+Dealt to YL_ML_GL_42 [Kc 2c]
+*** PRE-FLOP *** 
+Mikabaruo raises 600 to 900
+King Homard folds
+YL_ML_GL_42 folds
+Hall-in8z folds
+barbidouile folds
+johnmrt folds
+Mikabaruo collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Seat 2: Mikabaruo won 1560
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #2551843046413041790-9-1669414113 - Holdem no limit (35/150/300) - 2022/11/25 22:08:33 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #6 is the button
+Seat 1: johnmrt (19170, 0.90€ bounty)
+Seat 2: Mikabaruo (19605, 0.90€ bounty)
+Seat 3: King Homard (19605, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (17209, 0.90€ bounty)
+Seat 5: Hall-in8z (21566, 0.90€ bounty)
+Seat 6: barbidouile (22845, 0.90€ bounty)
+*** ANTE/BLINDS ***
+johnmrt posts ante 35
+Mikabaruo posts ante 35
+King Homard posts ante 35
+YL_ML_GL_42 posts ante 35
+Hall-in8z posts ante 35
+barbidouile posts ante 35
+johnmrt posts small blind 150
+Mikabaruo posts big blind 300
+Dealt to YL_ML_GL_42 [5h 3c]
+*** PRE-FLOP *** 
+King Homard folds
+YL_ML_GL_42 folds
+Hall-in8z folds
+barbidouile folds
+johnmrt calls 150
+Mikabaruo raises 450 to 750
+johnmrt folds
+Mikabaruo collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 2: Mikabaruo (big blind) won 1260
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2551843046413041790-10-1669414171 - Holdem no limit (40/175/350) - 2022/11/25 22:09:31 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #1 is the button
+Seat 1: johnmrt (18835, 0.90€ bounty)
+Seat 2: Mikabaruo (20080, 0.90€ bounty)
+Seat 3: King Homard (19570, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (17174, 0.90€ bounty)
+Seat 5: Hall-in8z (21531, 0.90€ bounty)
+Seat 6: barbidouile (22810, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Mikabaruo posts ante 40
+King Homard posts ante 40
+johnmrt posts ante 40
+YL_ML_GL_42 posts ante 40
+Hall-in8z posts ante 40
+barbidouile posts ante 40
+Mikabaruo posts small blind 175
+King Homard posts big blind 350
+Dealt to YL_ML_GL_42 [9h Qd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Hall-in8z folds
+barbidouile folds
+johnmrt calls 350
+Mikabaruo folds
+King Homard checks
+*** FLOP *** [As 6s 9s]
+King Homard checks
+johnmrt bets 390
+King Homard raises 1095 to 1485
+johnmrt calls 1095
+*** TURN *** [As 6s 9s][5d]
+King Homard bets 4785
+johnmrt calls 4785
+*** RIVER *** [As 6s 9s 5d][2s]
+King Homard bets 12910 and is all-in
+johnmrt calls 12175 and is all-in
+*** SHOW DOWN ***
+johnmrt shows [6c 6d] (Trips of 6)
+King Homard shows [Jh Ks] (Flush Ace high)
+King Homard collected 38740 from pot
+*** SUMMARY ***
+Total pot 38740 | No rake
+Board: [As 6s 9s 5d 2s]
+Seat 1: johnmrt (button) showed [6c 6d] and lost with Trips of 6
+Seat 3: King Homard (big blind) showed [Jh Ks] and won 38740 with Flush Ace high
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #2551843046413041790-11-1669414270 - Holdem no limit (40/175/350) - 2022/11/25 22:11:10 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #2 is the button
+Seat 1: SonicLeChat (20000, 0.90€ bounty)
+Seat 2: Mikabaruo (19865, 0.90€ bounty)
+Seat 3: King Homard (38740, 1.35€ bounty)
+Seat 4: YL_ML_GL_42 (17134, 0.90€ bounty)
+Seat 5: Hall-in8z (21491, 0.90€ bounty)
+Seat 6: barbidouile (22770, 0.90€ bounty)
+*** ANTE/BLINDS ***
+King Homard posts ante 40
+YL_ML_GL_42 posts ante 40
+SonicLeChat posts ante 40
+Mikabaruo posts ante 40
+Hall-in8z posts ante 40
+barbidouile posts ante 40
+King Homard posts small blind 175
+YL_ML_GL_42 posts big blind 350
+Dealt to YL_ML_GL_42 [Jd Ts]
+*** PRE-FLOP *** 
+Hall-in8z folds
+barbidouile calls 350
+SonicLeChat folds
+Mikabaruo raises 525 to 875
+King Homard folds
+YL_ML_GL_42 calls 525
+barbidouile calls 525
+*** FLOP *** [6c 7s Kh]
+YL_ML_GL_42 checks
+barbidouile checks
+Mikabaruo checks
+*** TURN *** [6c 7s Kh][Js]
+YL_ML_GL_42 bets 1976
+barbidouile calls 1976
+Mikabaruo folds
+*** RIVER *** [6c 7s Kh Js][Qs]
+YL_ML_GL_42 bets 14243 and is all-in
+barbidouile folds
+YL_ML_GL_42 collected 21235 from pot
+*** SUMMARY ***
+Total pot 21235 | No rake
+Board: [6c 7s Kh Js Qs]
+Seat 4: YL_ML_GL_42 (big blind) won 21235
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2551843046413041790-12-1669414359 - Holdem no limit (50/200/400) - 2022/11/25 22:12:39 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #3 is the button
+Seat 1: SonicLeChat (19960, 0.90€ bounty)
+Seat 2: Mikabaruo (18950, 0.90€ bounty)
+Seat 3: King Homard (38525, 1.35€ bounty)
+Seat 4: YL_ML_GL_42 (21235, 0.90€ bounty)
+Seat 5: Hall-in8z (21451, 0.90€ bounty)
+Seat 6: barbidouile (19879, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 50
+Hall-in8z posts ante 50
+SonicLeChat posts ante 50
+Mikabaruo posts ante 50
+King Homard posts ante 50
+barbidouile posts ante 50
+YL_ML_GL_42 posts small blind 200
+Hall-in8z posts big blind 400
+Dealt to YL_ML_GL_42 [5c 3c]
+*** PRE-FLOP *** 
+barbidouile calls 400
+SonicLeChat raises 600 to 1000
+Mikabaruo folds
+King Homard folds
+YL_ML_GL_42 folds
+Hall-in8z folds
+barbidouile calls 600
+*** FLOP *** [As Ts 9h]
+barbidouile checks
+SonicLeChat bets 2320
+barbidouile calls 2320
+*** TURN *** [As Ts 9h][6s]
+barbidouile checks
+SonicLeChat bets 6032
+barbidouile raises 10477 to 16509 and is all-in
+SonicLeChat calls 10477
+*** RIVER *** [As Ts 9h 6s][8d]
+*** SHOW DOWN ***
+barbidouile shows [Tc Js] (One pair : Tens)
+SonicLeChat shows [Ac 3d] (One pair : Aces)
+SonicLeChat collected 40558 from pot
+*** SUMMARY ***
+Total pot 40558 | No rake
+Board: [As Ts 9h 6s 8d]
+Seat 1: SonicLeChat showed [Ac 3d] and won 40558 with One pair : Aces
+Seat 6: barbidouile showed [Tc Js] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2551843046413041790-13-1669414400 - Holdem no limit (50/200/400) - 2022/11/25 22:13:20 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #4 is the button
+Seat 1: SonicLeChat (40639, 1.35€ bounty)
+Seat 2: Mikabaruo (18900, 0.90€ bounty)
+Seat 3: King Homard (38475, 1.35€ bounty)
+Seat 4: YL_ML_GL_42 (20985, 0.90€ bounty)
+Seat 5: Hall-in8z (21001, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Hall-in8z posts ante 50
+SonicLeChat posts ante 50
+Mikabaruo posts ante 50
+King Homard posts ante 50
+YL_ML_GL_42 posts ante 50
+Hall-in8z posts small blind 200
+SonicLeChat posts big blind 400
+Dealt to YL_ML_GL_42 [Js Kh]
+*** PRE-FLOP *** 
+Mikabaruo raises 600 to 1000
+King Homard folds
+YL_ML_GL_42 calls 1000
+Hall-in8z folds
+SonicLeChat folds
+*** FLOP *** [4h Jd 3h]
+Mikabaruo bets 1853
+YL_ML_GL_42 raises 6556 to 8409
+Mikabaruo folds
+YL_ML_GL_42 collected 13112 from pot
+*** SUMMARY ***
+Total pot 13112 | No rake
+Board: [4h Jd 3h]
+Seat 4: YL_ML_GL_42 (button) won 13112
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #2551843046413041790-14-1669414440 - Holdem no limit (50/200/400) - 2022/11/25 22:14:00 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #5 is the button
+Seat 1: SonicLeChat (40189, 1.35€ bounty)
+Seat 2: Mikabaruo (15997, 0.90€ bounty)
+Seat 3: King Homard (38425, 1.35€ bounty)
+Seat 4: YL_ML_GL_42 (24638, 0.90€ bounty)
+Seat 5: Hall-in8z (20751, 0.90€ bounty)
+Seat 6: Mange 2 Q (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+SonicLeChat posts ante 50
+Mikabaruo posts ante 50
+King Homard posts ante 50
+YL_ML_GL_42 posts ante 50
+Hall-in8z posts ante 50
+SonicLeChat posts small blind 200
+Mikabaruo posts big blind 400
+Dealt to YL_ML_GL_42 [Kc 9d]
+*** PRE-FLOP *** 
+King Homard folds
+YL_ML_GL_42 folds
+Hall-in8z folds
+SonicLeChat calls 200
+Mikabaruo raises 800 to 1200
+SonicLeChat calls 800
+*** FLOP *** [8d Tc 6h]
+SonicLeChat checks
+Mikabaruo bets 1723
+SonicLeChat folds
+Mikabaruo collected 4373 from pot
+*** SUMMARY ***
+Total pot 4373 | No rake
+Board: [8d Tc 6h]
+Seat 2: Mikabaruo (big blind) won 4373
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2551843046413041790-15-1669414467 - Holdem no limit (60/250/500) - 2022/11/25 22:14:27 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #1 is the button
+Seat 1: SonicLeChat (38939, 1.35€ bounty)
+Seat 2: Mikabaruo (17397, 0.90€ bounty)
+Seat 3: King Homard (38375, 1.35€ bounty)
+Seat 4: YL_ML_GL_42 (24588, 0.90€ bounty)
+Seat 5: Hall-in8z (20701, 0.90€ bounty)
+Seat 6: Mange 2 Q (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Mikabaruo posts ante 60
+King Homard posts ante 60
+SonicLeChat posts ante 60
+YL_ML_GL_42 posts ante 60
+Hall-in8z posts ante 60
+Mange 2 Q posts ante 60
+Mikabaruo posts small blind 250
+King Homard posts big blind 500
+Dealt to YL_ML_GL_42 [8d 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Hall-in8z raises 625 to 1125
+Mange 2 Q folds
+SonicLeChat folds
+Mikabaruo folds
+King Homard calls 625
+*** FLOP *** [Js Th As]
+King Homard checks
+Hall-in8z bets 1001
+King Homard raises 3689 to 4690
+Hall-in8z raises 14826 to 19516 and is all-in
+King Homard calls 14826
+*** TURN *** [Js Th As][2d]
+*** RIVER *** [Js Th As 2d][Qc]
+*** SHOW DOWN ***
+King Homard shows [Jc Td] (Two pairs : Jacks and Tens)
+Hall-in8z shows [Kc Ac] (Straight Ace high)
+Hall-in8z collected 41892 from pot
+*** SUMMARY ***
+Total pot 41892 | No rake
+Board: [Js Th As 2d Qc]
+Seat 3: King Homard (big blind) showed [Jc Td] and lost with Two pairs : Jacks and Tens
+Seat 5: Hall-in8z showed [Kc Ac] and won 41892 with Straight Ace high
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2551843046413041790-16-1669414508 - Holdem no limit (60/250/500) - 2022/11/25 22:15:08 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #2 is the button
+Seat 1: SonicLeChat (38879, 1.35€ bounty)
+Seat 2: Mikabaruo (17087, 0.90€ bounty)
+Seat 3: King Homard (17674, 1.35€ bounty)
+Seat 4: YL_ML_GL_42 (24528, 0.90€ bounty)
+Seat 5: Hall-in8z (41892, 0.90€ bounty)
+Seat 6: Mange 2 Q (19940, 0.90€ bounty)
+*** ANTE/BLINDS ***
+King Homard posts ante 60
+YL_ML_GL_42 posts ante 60
+SonicLeChat posts ante 60
+Mikabaruo posts ante 60
+Hall-in8z posts ante 60
+Mange 2 Q posts ante 60
+King Homard posts small blind 250
+YL_ML_GL_42 posts big blind 500
+Dealt to YL_ML_GL_42 [9c 5h]
+*** PRE-FLOP *** 
+Hall-in8z folds
+Mange 2 Q raises 750 to 1250
+SonicLeChat calls 1250
+Mikabaruo calls 1250
+King Homard folds
+YL_ML_GL_42 folds
+*** FLOP *** [6s 9s Ad]
+Mange 2 Q bets 1701
+SonicLeChat raises 1786 to 3487
+Mikabaruo folds
+Mange 2 Q calls 1786
+*** TURN *** [6s 9s Ad][Qc]
+Mange 2 Q checks
+SonicLeChat bets 9467
+Mange 2 Q folds
+SonicLeChat collected 21301 from pot
+*** SUMMARY ***
+Total pot 21301 | No rake
+Board: [6s 9s Ad Qc]
+Seat 1: SonicLeChat won 21301
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #2551843046413041790-17-1669414580 - Holdem no limit (60/250/500) - 2022/11/25 22:16:20 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #3 is the button
+Seat 1: SonicLeChat (45916, 1.35€ bounty)
+Seat 2: Mikabaruo (15777, 0.90€ bounty)
+Seat 3: King Homard (17364, 1.35€ bounty)
+Seat 4: YL_ML_GL_42 (23968, 0.90€ bounty)
+Seat 5: Hall-in8z (41832, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+Hall-in8z posts ante 60
+SonicLeChat posts ante 60
+Mikabaruo posts ante 60
+King Homard posts ante 60
+YL_ML_GL_42 posts small blind 250
+Hall-in8z posts big blind 500
+Dealt to YL_ML_GL_42 [7h 4d]
+*** PRE-FLOP *** 
+SonicLeChat calls 500
+Mikabaruo folds
+King Homard calls 500
+YL_ML_GL_42 folds
+Hall-in8z checks
+*** FLOP *** [6c Jc Ah]
+Hall-in8z checks
+SonicLeChat bets 1025
+King Homard calls 1025
+Hall-in8z calls 1025
+*** TURN *** [6c Jc Ah][Kc]
+Hall-in8z checks
+SonicLeChat checks
+King Homard bets 3331
+Hall-in8z folds
+SonicLeChat folds
+King Homard collected 8456 from pot
+*** SUMMARY ***
+Total pot 8456 | No rake
+Board: [6c Jc Ah Kc]
+Seat 3: King Homard (button) won 8456
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2551843046413041790-18-1669414638 - Holdem no limit (70/300/600) - 2022/11/25 22:17:18 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #4 is the button
+Seat 1: SonicLeChat (44331, 1.35€ bounty)
+Seat 2: Mikabaruo (15717, 0.90€ bounty)
+Seat 3: King Homard (20904, 1.35€ bounty)
+Seat 4: YL_ML_GL_42 (23658, 0.90€ bounty)
+Seat 5: Hall-in8z (40247, 0.90€ bounty)
+Seat 6: KatQuiLeurre (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Hall-in8z posts ante 70
+KatQuiLeurre posts ante 70
+SonicLeChat posts ante 70
+Mikabaruo posts ante 70
+King Homard posts ante 70
+YL_ML_GL_42 posts ante 70
+Hall-in8z posts small blind 300
+KatQuiLeurre posts big blind 600
+Dealt to YL_ML_GL_42 [Kc Qc]
+*** PRE-FLOP *** 
+SonicLeChat folds
+Mikabaruo folds
+King Homard folds
+YL_ML_GL_42 raises 1920 to 2520
+Hall-in8z folds
+KatQuiLeurre folds
+YL_ML_GL_42 collected 3840 from pot
+*** SUMMARY ***
+Total pot 3840 | No rake
+Seat 4: YL_ML_GL_42 (button) won 3840
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2551843046413041790-19-1669414679 - Holdem no limit (70/300/600) - 2022/11/25 22:17:59 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #5 is the button
+Seat 1: SonicLeChat (44261, 1.35€ bounty)
+Seat 2: Mikabaruo (15647, 0.90€ bounty)
+Seat 3: King Homard (20834, 1.35€ bounty)
+Seat 4: YL_ML_GL_42 (24908, 0.90€ bounty)
+Seat 5: Hall-in8z (39877, 0.90€ bounty)
+Seat 6: KatQuiLeurre (19330, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KatQuiLeurre posts ante 70
+SonicLeChat posts ante 70
+Mikabaruo posts ante 70
+King Homard posts ante 70
+YL_ML_GL_42 posts ante 70
+Hall-in8z posts ante 70
+KatQuiLeurre posts small blind 300
+SonicLeChat posts big blind 600
+Dealt to YL_ML_GL_42 [Jh 4c]
+*** PRE-FLOP *** 
+Mikabaruo folds
+King Homard raises 600 to 1200
+YL_ML_GL_42 folds
+Hall-in8z folds
+KatQuiLeurre folds
+SonicLeChat calls 600
+*** FLOP *** [5c 2s 9s]
+SonicLeChat bets 2496
+King Homard raises 17068 to 19564 and is all-in
+SonicLeChat calls 17068
+*** TURN *** [5c 2s 9s][9c]
+*** RIVER *** [5c 2s 9s 9c][Qc]
+*** SHOW DOWN ***
+King Homard shows [Js Qs] (Two pairs : Queens and 9)
+SonicLeChat shows [9d 8s] (Trips of 9)
+SonicLeChat collected 42248 from pot
+*** SUMMARY ***
+Total pot 42248 | No rake
+Board: [5c 2s 9s 9c Qc]
+Seat 1: SonicLeChat (big blind) showed [9d 8s] and won 42248 with Trips of 9
+Seat 3: King Homard showed [Js Qs] and lost with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #2551843046413041790-20-1669414722 - Holdem no limit (70/300/600) - 2022/11/25 22:18:42 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #6 is the button
+Seat 1: SonicLeChat (65675, 2.02€ bounty)
+Seat 2: Mikabaruo (15577, 0.90€ bounty)
+Seat 3: R8namax (20000, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (24838, 0.90€ bounty)
+Seat 5: Hall-in8z (39807, 0.90€ bounty)
+Seat 6: KatQuiLeurre (18960, 0.90€ bounty)
+*** ANTE/BLINDS ***
+SonicLeChat posts ante 70
+Mikabaruo posts ante 70
+R8namax posts ante 70
+YL_ML_GL_42 posts ante 70
+Hall-in8z posts ante 70
+KatQuiLeurre posts ante 70
+SonicLeChat posts small blind 300
+Mikabaruo posts big blind 600
+Dealt to YL_ML_GL_42 [Td 4c]
+*** PRE-FLOP *** 
+R8namax folds
+YL_ML_GL_42 folds
+Hall-in8z folds
+KatQuiLeurre folds
+SonicLeChat folds
+Mikabaruo collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Seat 2: Mikabaruo (big blind) won 1320
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2551843046413041790-21-1669414745 - Holdem no limit (80/350/700) - 2022/11/25 22:19:05 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #1 is the button
+Seat 1: SonicLeChat (65305, 2.02€ bounty)
+Seat 2: Mikabaruo (16227, 0.90€ bounty)
+Seat 3: R8namax (19930, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (24768, 0.90€ bounty)
+Seat 5: Hall-in8z (39737, 0.90€ bounty)
+Seat 6: KatQuiLeurre (18890, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Mikabaruo posts ante 80
+R8namax posts ante 80
+SonicLeChat posts ante 80
+YL_ML_GL_42 posts ante 80
+Hall-in8z posts ante 80
+KatQuiLeurre posts ante 80
+Mikabaruo posts small blind 350
+R8namax posts big blind 700
+Dealt to YL_ML_GL_42 [9d Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Hall-in8z folds
+KatQuiLeurre raises 875 to 1575
+SonicLeChat folds
+Mikabaruo calls 1225
+R8namax folds
+*** FLOP *** [3c Td Qd]
+Mikabaruo checks
+KatQuiLeurre bets 2815
+Mikabaruo folds
+KatQuiLeurre collected 7145 from pot
+*** SUMMARY ***
+Total pot 7145 | No rake
+Board: [3c Td Qd]
+Seat 6: KatQuiLeurre won 7145
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2551843046413041790-22-1669414800 - Holdem no limit (80/350/700) - 2022/11/25 22:20:00 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #2 is the button
+Seat 1: SonicLeChat (65225, 2.02€ bounty)
+Seat 2: Mikabaruo (14572, 0.90€ bounty)
+Seat 3: R8namax (19150, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (24688, 0.90€ bounty)
+Seat 5: Hall-in8z (39657, 0.90€ bounty)
+Seat 6: KatQuiLeurre (21565, 0.90€ bounty)
+*** ANTE/BLINDS ***
+R8namax posts ante 80
+YL_ML_GL_42 posts ante 80
+SonicLeChat posts ante 80
+Mikabaruo posts ante 80
+Hall-in8z posts ante 80
+KatQuiLeurre posts ante 80
+R8namax posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [7s 9c]
+*** PRE-FLOP *** 
+Hall-in8z raises 875 to 1575
+KatQuiLeurre folds
+SonicLeChat folds
+Mikabaruo folds
+R8namax folds
+YL_ML_GL_42 folds
+Hall-in8z collected 3105 from pot
+*** SUMMARY ***
+Total pot 3105 | No rake
+Seat 5: Hall-in8z won 3105
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #2551843046413041790-23-1669414845 - Holdem no limit (80/350/700) - 2022/11/25 22:20:45 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #3 is the button
+Seat 1: SonicLeChat (65145, 2.02€ bounty)
+Seat 2: Mikabaruo (14492, 0.90€ bounty)
+Seat 3: R8namax (18720, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (23908, 0.90€ bounty)
+Seat 5: Hall-in8z (41107, 0.90€ bounty)
+Seat 6: KatQuiLeurre (21485, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+Hall-in8z posts ante 80
+SonicLeChat posts ante 80
+Mikabaruo posts ante 80
+R8namax posts ante 80
+KatQuiLeurre posts ante 80
+YL_ML_GL_42 posts small blind 350
+Hall-in8z posts big blind 700
+Dealt to YL_ML_GL_42 [Jh 4c]
+*** PRE-FLOP *** 
+KatQuiLeurre folds
+SonicLeChat calls 700
+Mikabaruo raises 1050 to 1750
+R8namax folds
+YL_ML_GL_42 folds
+Hall-in8z calls 1050
+SonicLeChat raises 6080 to 7830
+Mikabaruo folds
+Hall-in8z folds
+SonicLeChat collected 12160 from pot
+*** SUMMARY ***
+Total pot 12160 | No rake
+Seat 1: SonicLeChat won 12160
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2551843046413041790-24-1669414896 - Holdem no limit (100/400/800) - 2022/11/25 22:21:36 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #4 is the button
+Seat 1: SonicLeChat (69395, 2.02€ bounty)
+Seat 2: Mikabaruo (12662, 0.90€ bounty)
+Seat 3: R8namax (18640, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (23478, 0.90€ bounty)
+Seat 5: Hall-in8z (39277, 0.90€ bounty)
+Seat 6: KatQuiLeurre (21405, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Hall-in8z posts ante 100
+KatQuiLeurre posts ante 100
+SonicLeChat posts ante 100
+Mikabaruo posts ante 100
+R8namax posts ante 100
+YL_ML_GL_42 posts ante 100
+Hall-in8z posts small blind 400
+KatQuiLeurre posts big blind 800
+Dealt to YL_ML_GL_42 [6s Ts]
+*** PRE-FLOP *** 
+SonicLeChat calls 800
+Mikabaruo folds
+R8namax folds
+YL_ML_GL_42 calls 800
+Hall-in8z calls 400
+KatQuiLeurre checks
+*** FLOP *** [7d Tc Js]
+Hall-in8z checks
+KatQuiLeurre checks
+SonicLeChat bets 3040
+YL_ML_GL_42 calls 3040
+Hall-in8z folds
+KatQuiLeurre calls 3040
+*** TURN *** [7d Tc Js][9h]
+KatQuiLeurre checks
+SonicLeChat bets 10336
+YL_ML_GL_42 folds
+KatQuiLeurre raises 7129 to 17465 and is all-in
+SonicLeChat calls 7129
+*** RIVER *** [7d Tc Js 9h][Jd]
+*** SHOW DOWN ***
+SonicLeChat shows [Qd Qc] (Two pairs : Queens and Jacks)
+KatQuiLeurre shows [8s 9c] (Straight Jack high)
+KatQuiLeurre collected 47850 from pot
+*** SUMMARY ***
+Total pot 47850 | No rake
+Board: [7d Tc Js 9h Jd]
+Seat 1: SonicLeChat showed [Qd Qc] and lost with Two pairs : Queens and Jacks
+Seat 6: KatQuiLeurre (big blind) showed [8s 9c] and won 47850 with Straight Jack high
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2551843046413041790-25-1669414987 - Holdem no limit (100/400/800) - 2022/11/25 22:23:07 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #5 is the button
+Seat 1: SonicLeChat (47990, 2.02€ bounty)
+Seat 2: Mikabaruo (12562, 0.90€ bounty)
+Seat 3: R8namax (18540, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (19538, 0.90€ bounty)
+Seat 5: Hall-in8z (38377, 0.90€ bounty)
+Seat 6: KatQuiLeurre (47850, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KatQuiLeurre posts ante 100
+SonicLeChat posts ante 100
+Mikabaruo posts ante 100
+R8namax posts ante 100
+YL_ML_GL_42 posts ante 100
+Hall-in8z posts ante 100
+KatQuiLeurre posts small blind 400
+SonicLeChat posts big blind 800
+Dealt to YL_ML_GL_42 [Qd 3d]
+*** PRE-FLOP *** 
+Mikabaruo folds
+R8namax folds
+YL_ML_GL_42 folds
+Hall-in8z folds
+KatQuiLeurre raises 2000 to 2800
+SonicLeChat raises 45090 to 47890 and is all-in
+KatQuiLeurre calls 44950 and is all-in
+*** FLOP *** [8c 7c Jh]
+*** TURN *** [8c 7c Jh][7h]
+*** RIVER *** [8c 7c Jh 7h][Td]
+*** SHOW DOWN ***
+SonicLeChat shows [As Tc] (Two pairs : Tens and 7)
+KatQuiLeurre shows [Ad Ah] (Two pairs : Aces and 7)
+KatQuiLeurre collected 96100 from main pot
+SonicLeChat collected 140 from side pot 1
+*** SUMMARY ***
+Total pot 96240 | No rake
+Board: [8c 7c Jh 7h Td]
+Seat 1: SonicLeChat (big blind) showed [As Tc] and won 140 with Two pairs : Tens and 7
+Seat 6: KatQuiLeurre (small blind) showed [Ad Ah] and won 96100 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #2551843046413041790-26-1669415021 - Holdem no limit (100/400/800) - 2022/11/25 22:23:41 UTC
+Table: 'AFTER FOOT(594147259)#125' 6-max (real money) Seat #6 is the button
+Seat 1: SonicLeChat (140, 2.02€ bounty)
+Seat 2: Mikabaruo (12462, 0.90€ bounty)
+Seat 3: R8namax (18440, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (19438, 0.90€ bounty)
+Seat 5: Hall-in8z (38277, 0.90€ bounty)
+Seat 6: KatQuiLeurre (96100, 0.90€ bounty)
+*** ANTE/BLINDS ***
+SonicLeChat posts ante 100
+Mikabaruo posts ante 100
+R8namax posts ante 100
+YL_ML_GL_42 posts ante 100
+Hall-in8z posts ante 100
+KatQuiLeurre posts ante 100
+SonicLeChat posts small blind 40 and is all-in
+Mikabaruo posts big blind 800
+Dealt to YL_ML_GL_42 [2c 2s]
+*** PRE-FLOP *** 
+R8namax folds
+YL_ML_GL_42 raises 18538 to 19338 and is all-in
+Hall-in8z folds
+KatQuiLeurre raises 18538 to 37876
+Mikabaruo folds
+*** FLOP *** [5d 7d Ac]
+*** TURN *** [5d 7d Ac][Td]
+*** RIVER *** [5d 7d Ac Td][Ad]
+*** SHOW DOWN ***
+SonicLeChat shows [6c Kc] (One pair : Aces)
+YL_ML_GL_42 shows [2c 2s] (Two pairs : Aces and 2)
+KatQuiLeurre shows [Kd As] (Flush Ace high)
+KatQuiLeurre collected 58654 from pot
+*** SUMMARY ***
+Total pot 58654 | No rake
+Board: [5d 7d Ac Td Ad]
+Seat 1: SonicLeChat (small blind) showed [6c Kc] and lost with One pair : Aces
+Seat 4: YL_ML_GL_42 showed [2c 2s] and lost with Two pairs : Aces and 2
+Seat 6: KatQuiLeurre (button) showed [Kd As] and won 58654 with Flush Ace high
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2551843046413041744-47-1669415126 - Holdem no limit (120/500/1000) - 2022/11/25 22:25:26 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #5 is the button
+Seat 1: Abdoulau (31130, 0.90€ bounty)
+Seat 2: Jo0581 (159145, 4.27€ bounty)
+Seat 3: braisdenais8 (20000, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (20000, 0.90€ bounty)
+Seat 5: JossTeTe (80124, 2.25€ bounty)
+Seat 6: Carpiste02 (25406, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Carpiste02 posts ante 120
+Abdoulau posts ante 120
+Jo0581 posts ante 120
+braisdenais8 posts ante 120
+YL_ML_GL_42 posts ante 120
+JossTeTe posts ante 120
+Carpiste02 posts small blind 500
+Abdoulau posts big blind 1000
+Dealt to YL_ML_GL_42 [Qd 7s]
+*** PRE-FLOP *** 
+Jo0581 folds
+braisdenais8 folds
+YL_ML_GL_42 folds
+JossTeTe folds
+Carpiste02 calls 500
+Abdoulau checks
+*** FLOP *** [4c 9h 6s]
+Carpiste02 checks
+Abdoulau bets 1000
+Carpiste02 folds
+Abdoulau collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Board: [4c 9h 6s]
+Seat 1: Abdoulau (big blind) won 3720
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #2551843046413041744-48-1669415150 - Holdem no limit (120/500/1000) - 2022/11/25 22:25:50 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #6 is the button
+Seat 1: Abdoulau (32730, 0.90€ bounty)
+Seat 2: Jo0581 (159025, 4.27€ bounty)
+Seat 3: braisdenais8 (19880, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (19880, 0.90€ bounty)
+Seat 5: JossTeTe (80004, 2.25€ bounty)
+Seat 6: Carpiste02 (24286, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Abdoulau posts ante 120
+Jo0581 posts ante 120
+braisdenais8 posts ante 120
+YL_ML_GL_42 posts ante 120
+JossTeTe posts ante 120
+Carpiste02 posts ante 120
+Abdoulau posts small blind 500
+Jo0581 posts big blind 1000
+Dealt to YL_ML_GL_42 [9s 5c]
+*** PRE-FLOP *** 
+braisdenais8 folds
+YL_ML_GL_42 folds
+JossTeTe raises 1000 to 2000
+Carpiste02 folds
+Abdoulau calls 1500
+Jo0581 calls 1000
+*** FLOP *** [2s Jc 4d]
+Abdoulau checks
+Jo0581 bets 2352
+JossTeTe folds
+Abdoulau folds
+Jo0581 collected 9072 from pot
+*** SUMMARY ***
+Total pot 9072 | No rake
+Board: [2s Jc 4d]
+Seat 2: Jo0581 (big blind) won 9072
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2551843046413041744-49-1669415208 - Holdem no limit (140/600/1200) - 2022/11/25 22:26:48 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #1 is the button
+Seat 1: Abdoulau (30610, 0.90€ bounty)
+Seat 2: Jo0581 (163625, 4.27€ bounty)
+Seat 3: braisdenais8 (19760, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (19760, 0.90€ bounty)
+Seat 5: JossTeTe (77884, 2.25€ bounty)
+Seat 6: Carpiste02 (24166, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Jo0581 posts ante 140
+braisdenais8 posts ante 140
+Abdoulau posts ante 140
+YL_ML_GL_42 posts ante 140
+JossTeTe posts ante 140
+Carpiste02 posts ante 140
+Jo0581 posts small blind 600
+braisdenais8 posts big blind 1200
+Dealt to YL_ML_GL_42 [2d As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 18420 to 19620 and is all-in
+JossTeTe folds
+Carpiste02 folds
+Abdoulau folds
+Jo0581 calls 19020
+braisdenais8 folds
+*** FLOP *** [5d Qd 4h]
+*** TURN *** [5d Qd 4h][3s]
+*** RIVER *** [5d Qd 4h 3s][7s]
+*** SHOW DOWN ***
+Jo0581 shows [Kc Ks] (One pair : Kings)
+YL_ML_GL_42 shows [2d As] (Straight 5 high)
+YL_ML_GL_42 collected 41280 from pot
+*** SUMMARY ***
+Total pot 41280 | No rake
+Board: [5d Qd 4h 3s 7s]
+Seat 2: Jo0581 (small blind) showed [Kc Ks] and lost with One pair : Kings
+Seat 4: YL_ML_GL_42 showed [2d As] and won 41280 with Straight 5 high
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2551843046413041744-50-1669415239 - Holdem no limit (140/600/1200) - 2022/11/25 22:27:19 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #2 is the button
+Seat 1: Abdoulau (30470, 0.90€ bounty)
+Seat 2: Jo0581 (143865, 4.27€ bounty)
+Seat 3: braisdenais8 (18420, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (41280, 0.90€ bounty)
+Seat 5: JossTeTe (77744, 2.25€ bounty)
+Seat 6: Carpiste02 (24026, 0.90€ bounty)
+*** ANTE/BLINDS ***
+braisdenais8 posts ante 140
+YL_ML_GL_42 posts ante 140
+Abdoulau posts ante 140
+Jo0581 posts ante 140
+JossTeTe posts ante 140
+Carpiste02 posts ante 140
+braisdenais8 posts small blind 600
+YL_ML_GL_42 posts big blind 1200
+Dealt to YL_ML_GL_42 [Th Jc]
+*** PRE-FLOP *** 
+JossTeTe folds
+Carpiste02 folds
+Abdoulau calls 1200
+Jo0581 folds
+braisdenais8 folds
+YL_ML_GL_42 checks
+*** FLOP *** [9c 8h 2d]
+YL_ML_GL_42 bets 3840
+Abdoulau folds
+YL_ML_GL_42 collected 7680 from pot
+*** SUMMARY ***
+Total pot 7680 | No rake
+Board: [9c 8h 2d]
+Seat 4: YL_ML_GL_42 (big blind) won 7680
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2551843046413041744-51-1669415267 - Holdem no limit (140/600/1200) - 2022/11/25 22:27:47 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #3 is the button
+Seat 1: Abdoulau (29130, 0.90€ bounty)
+Seat 2: Jo0581 (143725, 4.27€ bounty)
+Seat 3: braisdenais8 (17680, 0.90€ bounty)
+Seat 4: YL_ML_GL_42 (43780, 0.90€ bounty)
+Seat 5: JossTeTe (77604, 2.25€ bounty)
+Seat 6: Carpiste02 (23886, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 140
+JossTeTe posts ante 140
+Abdoulau posts ante 140
+Jo0581 posts ante 140
+braisdenais8 posts ante 140
+Carpiste02 posts ante 140
+YL_ML_GL_42 posts small blind 600
+JossTeTe posts big blind 1200
+Dealt to YL_ML_GL_42 [2s 8s]
+*** PRE-FLOP *** 
+Carpiste02 folds
+Abdoulau folds
+Jo0581 raises 1440 to 2640
+braisdenais8 raises 14900 to 17540 and is all-in
+YL_ML_GL_42 folds
+JossTeTe folds
+Jo0581 calls 14900
+*** FLOP *** [8d Td 6h]
+*** TURN *** [8d Td 6h][Jc]
+*** RIVER *** [8d Td 6h Jc][7h]
+*** SHOW DOWN ***
+braisdenais8 shows [Ah 8c] (One pair : 8)
+Jo0581 shows [Th Ac] (One pair : Tens)
+Jo0581 collected 37720 from pot
+*** SUMMARY ***
+Total pot 37720 | No rake
+Board: [8d Td 6h Jc 7h]
+Seat 2: Jo0581 showed [Th Ac] and won 37720 with One pair : Tens
+Seat 3: braisdenais8 (button) showed [Ah 8c] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #2551843046413041744-52-1669415325 - Holdem no limit (140/600/1200) - 2022/11/25 22:28:45 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #4 is the button
+Seat 1: Abdoulau (28990, 0.90€ bounty)
+Seat 2: Jo0581 (163765, 4.72€ bounty)
+Seat 4: YL_ML_GL_42 (43040, 0.90€ bounty)
+Seat 5: JossTeTe (76264, 2.25€ bounty)
+Seat 6: Carpiste02 (23746, 0.90€ bounty)
+*** ANTE/BLINDS ***
+JossTeTe posts ante 140
+Carpiste02 posts ante 140
+Abdoulau posts ante 140
+Jo0581 posts ante 140
+YL_ML_GL_42 posts ante 140
+JossTeTe posts small blind 600
+Carpiste02 posts big blind 1200
+Dealt to YL_ML_GL_42 [Ad Kc]
+*** PRE-FLOP *** 
+Abdoulau folds
+Jo0581 folds
+YL_ML_GL_42 raises 2400 to 3600
+JossTeTe raises 12000 to 15600
+Carpiste02 raises 8006 to 23606 and is all-in
+YL_ML_GL_42 raises 19294 to 42900 and is all-in
+JossTeTe calls 27300
+*** FLOP *** [3c 5c Kd]
+*** TURN *** [3c 5c Kd][Qd]
+*** RIVER *** [3c 5c Kd Qd][Jd]
+*** SHOW DOWN ***
+JossTeTe shows [6c 6d] (One pair : 6)
+Carpiste02 shows [4h 4s] (One pair : 4)
+YL_ML_GL_42 shows [Ad Kc] (One pair : Kings)
+YL_ML_GL_42 collected 110106 from pot
+*** SUMMARY ***
+Total pot 110106 | No rake
+Board: [3c 5c Kd Qd Jd]
+Seat 4: YL_ML_GL_42 (button) showed [Ad Kc] and won 110106 with One pair : Kings
+Seat 5: JossTeTe (small blind) showed [6c 6d] and lost with One pair : 6
+Seat 6: Carpiste02 (big blind) showed [4h 4s] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #2551843046413041744-53-1669415373 - Holdem no limit (160/700/1400) - 2022/11/25 22:29:33 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #5 is the button
+Seat 1: Abdoulau (28850, 0.90€ bounty)
+Seat 2: Jo0581 (163625, 4.72€ bounty)
+Seat 3: zaka-ab (74796, 2.70€ bounty)
+Seat 4: YL_ML_GL_42 (110106, 1.35€ bounty)
+Seat 5: JossTeTe (33224, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Abdoulau posts ante 160
+Jo0581 posts ante 160
+zaka-ab posts ante 160
+YL_ML_GL_42 posts ante 160
+JossTeTe posts ante 160
+Abdoulau posts big blind 1400
+Dealt to YL_ML_GL_42 [2s 3c]
+*** PRE-FLOP *** 
+Jo0581 folds
+zaka-ab folds
+YL_ML_GL_42 folds
+JossTeTe folds
+Abdoulau collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | No rake
+Seat 1: Abdoulau (big blind) won 2200
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #2551843046413041744-54-1669415390 - Holdem no limit (160/700/1400) - 2022/11/25 22:29:50 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #6 is the button
+Seat 1: Abdoulau (29490, 0.90€ bounty)
+Seat 2: Jo0581 (163465, 4.72€ bounty)
+Seat 3: zaka-ab (74636, 2.70€ bounty)
+Seat 4: YL_ML_GL_42 (109946, 1.35€ bounty)
+Seat 5: JossTeTe (33064, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Abdoulau posts ante 160
+Jo0581 posts ante 160
+zaka-ab posts ante 160
+YL_ML_GL_42 posts ante 160
+JossTeTe posts ante 160
+Abdoulau posts small blind 700
+Jo0581 posts big blind 1400
+Dealt to YL_ML_GL_42 [Ac 6d]
+*** PRE-FLOP *** 
+zaka-ab calls 1400
+YL_ML_GL_42 raises 5700 to 7100
+JossTeTe folds
+Abdoulau folds
+Jo0581 folds
+zaka-ab calls 5700
+*** FLOP *** [2c Jc 9h]
+zaka-ab checks
+YL_ML_GL_42 bets 11115
+zaka-ab folds
+YL_ML_GL_42 collected 28215 from pot
+*** SUMMARY ***
+Total pot 28215 | No rake
+Board: [2c Jc 9h]
+Seat 4: YL_ML_GL_42 won 28215
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #2551843046413041744-55-1669415418 - Holdem no limit (160/700/1400) - 2022/11/25 22:30:18 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #1 is the button
+Seat 1: Abdoulau (28630, 0.90€ bounty)
+Seat 2: Jo0581 (161905, 4.72€ bounty)
+Seat 3: zaka-ab (67376, 2.70€ bounty)
+Seat 4: YL_ML_GL_42 (119786, 1.35€ bounty)
+Seat 5: JossTeTe (32904, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Jo0581 posts ante 160
+zaka-ab posts ante 160
+Abdoulau posts ante 160
+YL_ML_GL_42 posts ante 160
+JossTeTe posts ante 160
+Jo0581 posts small blind 700
+zaka-ab posts big blind 1400
+Dealt to YL_ML_GL_42 [7d 6h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+JossTeTe folds
+Abdoulau folds
+Jo0581 calls 700
+zaka-ab checks
+*** FLOP *** [Ah 7h Ks]
+Jo0581 bets 1400
+zaka-ab calls 1400
+*** TURN *** [Ah 7h Ks][Qc]
+Jo0581 checks
+zaka-ab bets 4160
+Jo0581 calls 4160
+*** RIVER *** [Ah 7h Ks Qc][Kd]
+Jo0581 checks
+zaka-ab checks
+*** SHOW DOWN ***
+zaka-ab shows [7c 5c] (Two pairs : Kings and 7)
+Jo0581 shows [2s Qs] (Two pairs : Kings and Queens)
+Jo0581 collected 14720 from pot
+*** SUMMARY ***
+Total pot 14720 | No rake
+Board: [Ah 7h Ks Qc Kd]
+Seat 2: Jo0581 (small blind) showed [2s Qs] and won 14720 with Two pairs : Kings and Queens
+Seat 3: zaka-ab (big blind) showed [7c 5c] and lost with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #2551843046413041744-56-1669415468 - Holdem no limit (160/700/1400) - 2022/11/25 22:31:08 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #2 is the button
+Seat 1: Abdoulau (28470, 0.90€ bounty)
+Seat 2: Jo0581 (169505, 4.72€ bounty)
+Seat 3: zaka-ab (60256, 2.70€ bounty)
+Seat 4: YL_ML_GL_42 (119626, 1.35€ bounty)
+Seat 5: JossTeTe (32744, 2.25€ bounty)
+Seat 6: PhilM66 (27865, 0.90€ bounty)
+*** ANTE/BLINDS ***
+zaka-ab posts ante 160
+YL_ML_GL_42 posts ante 160
+Abdoulau posts ante 160
+Jo0581 posts ante 160
+JossTeTe posts ante 160
+PhilM66 posts ante 160
+zaka-ab posts small blind 700
+YL_ML_GL_42 posts big blind 1400
+Dealt to YL_ML_GL_42 [Qs Ts]
+*** PRE-FLOP *** 
+JossTeTe folds
+PhilM66 folds
+Abdoulau folds
+Jo0581 folds
+zaka-ab calls 700
+YL_ML_GL_42 raises 2800 to 4200
+zaka-ab folds
+YL_ML_GL_42 collected 6560 from pot
+*** SUMMARY ***
+Total pot 6560 | No rake
+Seat 4: YL_ML_GL_42 (big blind) won 6560
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #2551843046413041744-57-1669415489 - Holdem no limit (160/700/1400) - 2022/11/25 22:31:29 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #3 is the button
+Seat 1: Abdoulau (28310, 0.90€ bounty)
+Seat 2: Jo0581 (169345, 4.72€ bounty)
+Seat 3: zaka-ab (58696, 2.70€ bounty)
+Seat 4: YL_ML_GL_42 (121826, 1.35€ bounty)
+Seat 5: JossTeTe (32584, 2.25€ bounty)
+Seat 6: PhilM66 (27705, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 160
+JossTeTe posts ante 160
+Abdoulau posts ante 160
+Jo0581 posts ante 160
+zaka-ab posts ante 160
+PhilM66 posts ante 160
+YL_ML_GL_42 posts small blind 700
+JossTeTe posts big blind 1400
+Dealt to YL_ML_GL_42 [Th As]
+*** PRE-FLOP *** 
+PhilM66 calls 1400
+Abdoulau folds
+Jo0581 folds
+zaka-ab calls 1400
+YL_ML_GL_42 raises 4905 to 6305
+JossTeTe raises 26119 to 32424 and is all-in
+PhilM66 calls 26145 and is all-in
+zaka-ab folds
+YL_ML_GL_42 raises 89242 to 121666 and is all-in
+*** FLOP *** [Ah 4h 5c]
+*** TURN *** [Ah 4h 5c][5h]
+*** RIVER *** [Ah 4h 5c 5h][Qc]
+*** SHOW DOWN ***
+JossTeTe shows [Js Tc] (One pair : 5)
+YL_ML_GL_42 shows [Th As] (Two pairs : Aces and 5)
+PhilM66 shows [6d Ad] (Two pairs : Aces and 5)
+PhilM66 collected 42498 from main pot
+YL_ML_GL_42 collected 141497 from side pot 1
+*** SUMMARY ***
+Total pot 183995 | No rake
+Board: [Ah 4h 5c 5h Qc]
+Seat 4: YL_ML_GL_42 (small blind) showed [Th As] and won 141497 with Two pairs : Aces and 5
+Seat 5: JossTeTe (big blind) showed [Js Tc] and lost with One pair : 5
+Seat 6: PhilM66 showed [6d Ad] and won 42498 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #2551843046413041744-58-1669415539 - Holdem no limit (200/800/1600) - 2022/11/25 22:32:19 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #4 is the button
+Seat 1: Abdoulau (28150, 0.90€ bounty)
+Seat 2: Jo0581 (169185, 4.72€ bounty)
+Seat 3: zaka-ab (57136, 2.70€ bounty)
+Seat 4: YL_ML_GL_42 (141497, 2.47€ bounty)
+Seat 6: PhilM66 (42498, 0.90€ bounty)
+*** ANTE/BLINDS ***
+PhilM66 posts ante 200
+Abdoulau posts ante 200
+Jo0581 posts ante 200
+zaka-ab posts ante 200
+YL_ML_GL_42 posts ante 200
+PhilM66 posts big blind 1600
+Dealt to YL_ML_GL_42 [8d 6s]
+*** PRE-FLOP *** 
+Abdoulau folds
+Jo0581 folds
+zaka-ab raises 48406 to 50006
+YL_ML_GL_42 folds
+PhilM66 calls 40698 and is all-in
+*** FLOP *** [8h 5c Qs]
+*** TURN *** [8h 5c Qs][Jh]
+*** RIVER *** [8h 5c Qs Jh][Ks]
+*** SHOW DOWN ***
+zaka-ab shows [4h Ah] (High card : Ace)
+PhilM66 shows [As Qc] (One pair : Queens)
+PhilM66 collected 85596 from main pot
+zaka-ab collected 7708 from side pot 1
+*** SUMMARY ***
+Total pot 93304 | No rake
+Board: [8h 5c Qs Jh Ks]
+Seat 3: zaka-ab showed [4h Ah] and won 7708 with High card : Ace
+Seat 6: PhilM66 (big blind) showed [As Qc] and won 85596 with One pair : Queens
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #2551843046413041744-59-1669415563 - Holdem no limit (200/800/1600) - 2022/11/25 22:32:43 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #5 is the button
+Seat 1: Abdoulau (27950, 0.90€ bounty)
+Seat 2: Jo0581 (168985, 4.72€ bounty)
+Seat 3: zaka-ab (14638, 2.70€ bounty)
+Seat 4: YL_ML_GL_42 (141297, 2.47€ bounty)
+Seat 6: PhilM66 (85596, 0.90€ bounty)
+*** ANTE/BLINDS ***
+PhilM66 posts ante 200
+Abdoulau posts ante 200
+Jo0581 posts ante 200
+zaka-ab posts ante 200
+YL_ML_GL_42 posts ante 200
+PhilM66 posts small blind 800
+Abdoulau posts big blind 1600
+Dealt to YL_ML_GL_42 [Qc 4h]
+*** PRE-FLOP *** 
+Jo0581 folds
+zaka-ab folds
+YL_ML_GL_42 folds
+PhilM66 folds
+Abdoulau collected 3400 from pot
+*** SUMMARY ***
+Total pot 3400 | No rake
+Seat 1: Abdoulau (big blind) won 3400
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #2551843046413041744-60-1669415590 - Holdem no limit (200/800/1600) - 2022/11/25 22:33:10 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #6 is the button
+Seat 1: Abdoulau (29550, 0.90€ bounty)
+Seat 2: Jo0581 (168785, 4.72€ bounty)
+Seat 3: zaka-ab (14438, 2.70€ bounty)
+Seat 4: YL_ML_GL_42 (141097, 2.47€ bounty)
+Seat 5: inalex8680 (9520, 0.90€ bounty)
+Seat 6: PhilM66 (84596, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Abdoulau posts ante 200
+Jo0581 posts ante 200
+zaka-ab posts ante 200
+YL_ML_GL_42 posts ante 200
+inalex8680 posts ante 200
+PhilM66 posts ante 200
+Abdoulau posts small blind 800
+Jo0581 posts big blind 1600
+Dealt to YL_ML_GL_42 [Td 8d]
+*** PRE-FLOP *** 
+zaka-ab raises 12638 to 14238 and is all-in
+YL_ML_GL_42 folds
+inalex8680 calls 9320 and is all-in
+PhilM66 folds
+Abdoulau folds
+Jo0581 calls 12638
+*** FLOP *** [2s 4h 2h]
+*** TURN *** [2s 4h 2h][9d]
+*** RIVER *** [2s 4h 2h 9d][Jc]
+*** SHOW DOWN ***
+zaka-ab shows [9s 8c] (Two pairs : 9 and 2)
+Jo0581 shows [Kc 9c] (Two pairs : 9 and 2)
+inalex8680 shows [Jd Ad] (Two pairs : Jacks and 2)
+inalex8680 collected 29960 from main pot
+Jo0581 collected 9836 from side pot 1
+*** SUMMARY ***
+Total pot 39796 | No rake
+Board: [2s 4h 2h 9d Jc]
+Seat 2: Jo0581 (big blind) showed [Kc 9c] and won 9836 with Two pairs : 9 and 2
+Seat 3: zaka-ab showed [9s 8c] and lost with Two pairs : 9 and 2
+Seat 5: inalex8680 showed [Jd Ad] and won 29960 with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #2551843046413041744-61-1669415611 - Holdem no limit (200/800/1600) - 2022/11/25 22:33:31 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #1 is the button
+Seat 1: Abdoulau (28550, 0.90€ bounty)
+Seat 2: Jo0581 (164183, 6.07€ bounty)
+Seat 4: YL_ML_GL_42 (140897, 2.47€ bounty)
+Seat 5: inalex8680 (29960, 0.90€ bounty)
+Seat 6: PhilM66 (84396, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Jo0581 posts ante 200
+YL_ML_GL_42 posts ante 200
+Abdoulau posts ante 200
+inalex8680 posts ante 200
+PhilM66 posts ante 200
+Jo0581 posts small blind 800
+YL_ML_GL_42 posts big blind 1600
+Dealt to YL_ML_GL_42 [Ts 8h]
+*** PRE-FLOP *** 
+inalex8680 calls 1600
+PhilM66 folds
+Abdoulau folds
+Jo0581 folds
+YL_ML_GL_42 checks
+*** FLOP *** [7c Qc Th]
+YL_ML_GL_42 bets 4000
+inalex8680 folds
+YL_ML_GL_42 collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Board: [7c Qc Th]
+Seat 4: YL_ML_GL_42 (big blind) won 9000
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #2551843046413041744-62-1669415634 - Holdem no limit (200/800/1600) - 2022/11/25 22:33:54 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #2 is the button
+Seat 1: Abdoulau (28350, 0.90€ bounty)
+Seat 2: Jo0581 (163183, 6.07€ bounty)
+Seat 3: Jontxu1970 (80521, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (144097, 2.47€ bounty)
+Seat 5: inalex8680 (28160, 0.90€ bounty)
+Seat 6: PhilM66 (84196, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 200
+inalex8680 posts ante 200
+Abdoulau posts ante 200
+Jo0581 posts ante 200
+PhilM66 posts ante 200
+YL_ML_GL_42 posts small blind 800
+inalex8680 posts big blind 1600
+Dealt to YL_ML_GL_42 [Qd Kd]
+*** PRE-FLOP *** 
+PhilM66 folds
+Abdoulau folds
+Jo0581 folds
+YL_ML_GL_42 raises 3200 to 4800
+inalex8680 calls 3200
+*** FLOP *** [7c Kc 3c]
+YL_ML_GL_42 bets 8480
+inalex8680 calls 8480
+*** TURN *** [7c Kc 3c][5c]
+YL_ML_GL_42 checks
+inalex8680 bets 14680 and is all-in
+YL_ML_GL_42 calls 14680
+*** RIVER *** [7c Kc 3c 5c][Qh]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Qd Kd] (Two pairs : Kings and Queens)
+inalex8680 shows [9c 9h] (Flush King high)
+inalex8680 collected 56920 from pot
+*** SUMMARY ***
+Total pot 56920 | No rake
+Board: [7c Kc 3c 5c Qh]
+Seat 4: YL_ML_GL_42 (small blind) showed [Qd Kd] and lost with Two pairs : Kings and Queens
+Seat 5: inalex8680 (big blind) showed [9c 9h] and won 56920 with Flush King high
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #2551843046413041744-63-1669415676 - Holdem no limit (250/1000/2000) - 2022/11/25 22:34:36 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #4 is the button
+Seat 1: Abdoulau (28150, 0.90€ bounty)
+Seat 2: Jo0581 (162983, 6.07€ bounty)
+Seat 3: Jontxu1970 (80521, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (115937, 2.47€ bounty)
+Seat 5: inalex8680 (56920, 0.90€ bounty)
+Seat 6: PhilM66 (83996, 0.90€ bounty)
+*** ANTE/BLINDS ***
+inalex8680 posts ante 250
+PhilM66 posts ante 250
+Abdoulau posts ante 250
+Jo0581 posts ante 250
+Jontxu1970 posts ante 250
+YL_ML_GL_42 posts ante 250
+inalex8680 posts small blind 1000
+PhilM66 posts big blind 2000
+Dealt to YL_ML_GL_42 [7c 6s]
+*** PRE-FLOP *** 
+Abdoulau folds
+Jo0581 raises 2400 to 4400
+Jontxu1970 folds
+YL_ML_GL_42 folds
+inalex8680 folds
+PhilM66 folds
+Jo0581 collected 8900 from pot
+*** SUMMARY ***
+Total pot 8900 | No rake
+Seat 2: Jo0581 won 8900
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #2551843046413041744-64-1669415691 - Holdem no limit (250/1000/2000) - 2022/11/25 22:34:51 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #5 is the button
+Seat 1: Abdoulau (27900, 0.90€ bounty)
+Seat 2: Jo0581 (167233, 6.07€ bounty)
+Seat 3: Jontxu1970 (80271, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (115687, 2.47€ bounty)
+Seat 5: inalex8680 (55670, 0.90€ bounty)
+Seat 6: PhilM66 (81746, 0.90€ bounty)
+*** ANTE/BLINDS ***
+PhilM66 posts ante 250
+Abdoulau posts ante 250
+Jo0581 posts ante 250
+Jontxu1970 posts ante 250
+YL_ML_GL_42 posts ante 250
+inalex8680 posts ante 250
+PhilM66 posts small blind 1000
+Abdoulau posts big blind 2000
+Dealt to YL_ML_GL_42 [7h 2c]
+*** PRE-FLOP *** 
+Jo0581 folds
+Jontxu1970 raises 2500 to 4500
+YL_ML_GL_42 folds
+inalex8680 folds
+PhilM66 folds
+Abdoulau folds
+Jontxu1970 collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Seat 3: Jontxu1970 won 9000
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #2551843046413041744-65-1669415710 - Holdem no limit (250/1000/2000) - 2022/11/25 22:35:10 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #6 is the button
+Seat 1: Abdoulau (25650, 0.90€ bounty)
+Seat 2: Jo0581 (166983, 6.07€ bounty)
+Seat 3: Jontxu1970 (84521, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (115437, 2.47€ bounty)
+Seat 5: inalex8680 (55420, 0.90€ bounty)
+Seat 6: PhilM66 (80496, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Abdoulau posts ante 250
+Jo0581 posts ante 250
+Jontxu1970 posts ante 250
+YL_ML_GL_42 posts ante 250
+inalex8680 posts ante 250
+PhilM66 posts ante 250
+Abdoulau posts small blind 1000
+Jo0581 posts big blind 2000
+Dealt to YL_ML_GL_42 [4c 7d]
+*** PRE-FLOP *** 
+Jontxu1970 folds
+YL_ML_GL_42 folds
+inalex8680 folds
+PhilM66 folds
+Abdoulau folds
+Jo0581 collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Seat 2: Jo0581 (big blind) won 4500
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #2551843046413041744-66-1669415752 - Holdem no limit (250/1000/2000) - 2022/11/25 22:35:52 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #1 is the button
+Seat 1: Abdoulau (24400, 0.90€ bounty)
+Seat 2: Jo0581 (169233, 6.07€ bounty)
+Seat 3: Jontxu1970 (84271, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (115187, 2.47€ bounty)
+Seat 5: inalex8680 (55170, 0.90€ bounty)
+Seat 6: PhilM66 (80246, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Jo0581 posts ante 250
+Jontxu1970 posts ante 250
+Abdoulau posts ante 250
+YL_ML_GL_42 posts ante 250
+inalex8680 posts ante 250
+PhilM66 posts ante 250
+Jo0581 posts small blind 1000
+Jontxu1970 posts big blind 2000
+Dealt to YL_ML_GL_42 [5c Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+inalex8680 calls 2000
+PhilM66 folds
+Abdoulau folds
+Jo0581 calls 1000
+Jontxu1970 checks
+*** FLOP *** [6s As Th]
+Jo0581 checks
+Jontxu1970 bets 2000
+inalex8680 calls 2000
+Jo0581 folds
+*** TURN *** [6s As Th][Kh]
+Jontxu1970 bets 2000
+inalex8680 raises 2000 to 4000
+Jontxu1970 raises 2000 to 6000
+inalex8680 calls 2000
+*** RIVER *** [6s As Th Kh][7c]
+Jontxu1970 bets 2000
+inalex8680 calls 2000
+*** SHOW DOWN ***
+Jontxu1970 shows [5s Ah] (One pair : Aces)
+inalex8680 shows [Kd Ac] (Two pairs : Aces and Kings)
+inalex8680 collected 27500 from pot
+*** SUMMARY ***
+Total pot 27500 | No rake
+Board: [6s As Th Kh 7c]
+Seat 3: Jontxu1970 (big blind) showed [5s Ah] and lost with One pair : Aces
+Seat 5: inalex8680 showed [Kd Ac] and won 27500 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #2551843046413041744-67-1669415790 - Holdem no limit (250/1000/2000) - 2022/11/25 22:36:30 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #2 is the button
+Seat 1: Abdoulau (24150, 0.90€ bounty)
+Seat 2: Jo0581 (166983, 6.07€ bounty)
+Seat 3: Jontxu1970 (72021, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (114937, 2.47€ bounty)
+Seat 5: inalex8680 (70420, 0.90€ bounty)
+Seat 6: PhilM66 (79996, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Jontxu1970 posts ante 250
+YL_ML_GL_42 posts ante 250
+Abdoulau posts ante 250
+Jo0581 posts ante 250
+inalex8680 posts ante 250
+PhilM66 posts ante 250
+Jontxu1970 posts small blind 1000
+YL_ML_GL_42 posts big blind 2000
+Dealt to YL_ML_GL_42 [2c Ad]
+*** PRE-FLOP *** 
+inalex8680 folds
+PhilM66 folds
+Abdoulau folds
+Jo0581 raises 3000 to 5000
+Jontxu1970 folds
+YL_ML_GL_42 calls 3000
+*** FLOP *** [Ah Jd 2d]
+YL_ML_GL_42 checks
+Jo0581 bets 4375
+YL_ML_GL_42 calls 4375
+*** TURN *** [Ah Jd 2d][5s]
+YL_ML_GL_42 checks
+Jo0581 bets 10625
+YL_ML_GL_42 calls 10625
+*** RIVER *** [Ah Jd 2d 5s][Kd]
+YL_ML_GL_42 checks
+Jo0581 checks
+*** SHOW DOWN ***
+Jo0581 shows [8s Kh] (One pair : Kings)
+YL_ML_GL_42 shows [2c Ad] (Two pairs : Aces and 2)
+YL_ML_GL_42 collected 42500 from pot
+*** SUMMARY ***
+Total pot 42500 | No rake
+Board: [Ah Jd 2d 5s Kd]
+Seat 2: Jo0581 (button) showed [8s Kh] and lost with One pair : Kings
+Seat 4: YL_ML_GL_42 (big blind) showed [2c Ad] and won 42500 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #2551843046413041744-68-1669415850 - Holdem no limit (300/1250/2500) - 2022/11/25 22:37:30 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #3 is the button
+Seat 1: Abdoulau (23900, 0.90€ bounty)
+Seat 2: Jo0581 (146733, 6.07€ bounty)
+Seat 3: Jontxu1970 (70771, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (137187, 2.47€ bounty)
+Seat 5: inalex8680 (70170, 0.90€ bounty)
+Seat 6: PhilM66 (79746, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 300
+inalex8680 posts ante 300
+Abdoulau posts ante 300
+Jo0581 posts ante 300
+Jontxu1970 posts ante 300
+PhilM66 posts ante 300
+YL_ML_GL_42 posts small blind 1250
+inalex8680 posts big blind 2500
+Dealt to YL_ML_GL_42 [Qs 8c]
+*** PRE-FLOP *** 
+PhilM66 folds
+Abdoulau folds
+Jo0581 folds
+Jontxu1970 raises 67971 to 70471 and is all-in
+YL_ML_GL_42 folds
+inalex8680 folds
+Jontxu1970 collected 76021 from pot
+*** SUMMARY ***
+Total pot 76021 | No rake
+Seat 3: Jontxu1970 (button) won 76021
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #2551843046413041744-69-1669415863 - Holdem no limit (300/1250/2500) - 2022/11/25 22:37:43 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #4 is the button
+Seat 1: Abdoulau (23600, 0.90€ bounty)
+Seat 2: Jo0581 (146433, 6.07€ bounty)
+Seat 3: Jontxu1970 (76021, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (135637, 2.47€ bounty)
+Seat 5: inalex8680 (67370, 0.90€ bounty)
+Seat 6: PhilM66 (79446, 0.90€ bounty)
+*** ANTE/BLINDS ***
+inalex8680 posts ante 300
+PhilM66 posts ante 300
+Abdoulau posts ante 300
+Jo0581 posts ante 300
+Jontxu1970 posts ante 300
+YL_ML_GL_42 posts ante 300
+inalex8680 posts small blind 1250
+PhilM66 posts big blind 2500
+Dealt to YL_ML_GL_42 [2c 8s]
+*** PRE-FLOP *** 
+Abdoulau folds
+Jo0581 folds
+Jontxu1970 folds
+YL_ML_GL_42 folds
+inalex8680 calls 1250
+PhilM66 checks
+*** FLOP *** [Kd Ad 5c]
+inalex8680 checks
+PhilM66 bets 76646 and is all-in
+inalex8680 folds
+PhilM66 collected 83446 from pot
+*** SUMMARY ***
+Total pot 83446 | No rake
+Board: [Kd Ad 5c]
+Seat 6: PhilM66 (big blind) won 83446
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #2551843046413041744-70-1669415908 - Holdem no limit (300/1250/2500) - 2022/11/25 22:38:28 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #5 is the button
+Seat 1: Abdoulau (23300, 0.90€ bounty)
+Seat 2: Jo0581 (146133, 6.07€ bounty)
+Seat 3: Jontxu1970 (75721, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (135337, 2.47€ bounty)
+Seat 5: inalex8680 (64570, 0.90€ bounty)
+Seat 6: PhilM66 (83446, 0.90€ bounty)
+*** ANTE/BLINDS ***
+PhilM66 posts ante 300
+Abdoulau posts ante 300
+Jo0581 posts ante 300
+Jontxu1970 posts ante 300
+YL_ML_GL_42 posts ante 300
+inalex8680 posts ante 300
+PhilM66 posts small blind 1250
+Abdoulau posts big blind 2500
+Dealt to YL_ML_GL_42 [2h 3h]
+*** PRE-FLOP *** 
+Jo0581 folds
+Jontxu1970 raises 3125 to 5625
+YL_ML_GL_42 calls 5625
+inalex8680 folds
+PhilM66 folds
+Abdoulau folds
+*** FLOP *** [Js 2d Ad]
+Jontxu1970 bets 69796 and is all-in
+YL_ML_GL_42 folds
+Jontxu1970 collected 86596 from pot
+*** SUMMARY ***
+Total pot 86596 | No rake
+Board: [Js 2d Ad]
+Seat 3: Jontxu1970 won 86596
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #2551843046413041744-71-1669415938 - Holdem no limit (300/1250/2500) - 2022/11/25 22:38:58 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #6 is the button
+Seat 1: Abdoulau (20500, 0.90€ bounty)
+Seat 2: Jo0581 (145833, 6.07€ bounty)
+Seat 3: Jontxu1970 (86596, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (129412, 2.47€ bounty)
+Seat 5: inalex8680 (64270, 0.90€ bounty)
+Seat 6: PhilM66 (81896, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Abdoulau posts ante 300
+Jo0581 posts ante 300
+Jontxu1970 posts ante 300
+YL_ML_GL_42 posts ante 300
+inalex8680 posts ante 300
+PhilM66 posts ante 300
+Abdoulau posts small blind 1250
+Jo0581 posts big blind 2500
+Dealt to YL_ML_GL_42 [4h 3s]
+*** PRE-FLOP *** 
+Jontxu1970 raises 83796 to 86296 and is all-in
+YL_ML_GL_42 folds
+inalex8680 folds
+PhilM66 folds
+Abdoulau folds
+Jo0581 folds
+Jontxu1970 shows [Ah Kh] (High card : Ace)
+Jontxu1970 collected 91846 from pot
+*** SUMMARY ***
+Total pot 91846 | No rake
+Seat 3: Jontxu1970 showed [Ah Kh] and won 91846 with High card : Ace
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 16 - HandId: #2551843046413041744-72-1669415949 - Holdem no limit (350/1500/3000) - 2022/11/25 22:39:09 UTC
+Table: 'AFTER FOOT(594147259)#079' 6-max (real money) Seat #1 is the button
+Seat 1: Abdoulau (18950, 0.90€ bounty)
+Seat 2: Jo0581 (143033, 6.07€ bounty)
+Seat 3: Jontxu1970 (91846, 1.80€ bounty)
+Seat 4: YL_ML_GL_42 (129112, 2.47€ bounty)
+Seat 5: inalex8680 (63970, 0.90€ bounty)
+Seat 6: PhilM66 (81596, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Jo0581 posts ante 350
+Jontxu1970 posts ante 350
+Abdoulau posts ante 350
+YL_ML_GL_42 posts ante 350
+inalex8680 posts ante 350
+PhilM66 posts ante 350
+Jo0581 posts small blind 1500
+Jontxu1970 posts big blind 3000
+Dealt to YL_ML_GL_42 [8c 9h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+inalex8680 folds
+PhilM66 folds
+Abdoulau folds
+Jo0581 raises 7500 to 10500
+Jontxu1970 calls 7500
+*** FLOP *** [Qd 4c Jh]
+Jo0581 checks
+Jontxu1970 checks
+*** TURN *** [Qd 4c Jh][7c]
+Jo0581 checks
+Jontxu1970 checks
+*** RIVER *** [Qd 4c Jh 7c][5h]
+Jo0581 bets 11550
+Jontxu1970 raises 11550 to 23100
+Jo0581 folds
+Jontxu1970 collected 57750 from pot
+*** SUMMARY ***
+Total pot 57750 | No rake
+Board: [Qd 4c Jh 7c 5h]
+Seat 3: Jontxu1970 (big blind) won 57750
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 16 - HandId: #2551843046413041695-71-1669416081 - Holdem no limit (350/1500/3000) - 2022/11/25 22:41:21 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (128762, 2.47€ bounty)
+Seat 2: Royal Gambas (167248, 3.76€ bounty)
+Seat 3: edwvas (87230, 1.35€ bounty)
+Seat 4: Pitou26800 (39475, 1.35€ bounty)
+Seat 5: Le_Spip (106066, 1.35€ bounty)
+Seat 6: Mikabaruo (79000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+edwvas posts ante 350
+Pitou26800 posts ante 350
+YL_ML_GL_42 posts ante 350
+Royal Gambas posts ante 350
+Le_Spip posts ante 350
+Mikabaruo posts ante 350
+edwvas posts small blind 1500
+Pitou26800 posts big blind 3000
+Dealt to YL_ML_GL_42 [9c Jh]
+*** PRE-FLOP *** 
+Le_Spip raises 3000 to 6000
+Mikabaruo folds
+YL_ML_GL_42 folds
+Royal Gambas folds
+edwvas raises 80880 to 86880 and is all-in
+Pitou26800 folds
+Le_Spip folds
+edwvas collected 97980 from pot
+*** SUMMARY ***
+Total pot 97980 | No rake
+Seat 3: edwvas (small blind) won 97980
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #2551843046413041695-72-1669416118 - Holdem no limit (400/1750/3500) - 2022/11/25 22:41:58 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (128412, 2.47€ bounty)
+Seat 2: Royal Gambas (166898, 3.76€ bounty)
+Seat 3: edwvas (97980, 1.35€ bounty)
+Seat 4: Pitou26800 (36125, 1.35€ bounty)
+Seat 5: Le_Spip (99716, 1.35€ bounty)
+Seat 6: Mikabaruo (78650, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Pitou26800 posts ante 400
+Le_Spip posts ante 400
+YL_ML_GL_42 posts ante 400
+Royal Gambas posts ante 400
+edwvas posts ante 400
+Mikabaruo posts ante 400
+Pitou26800 posts small blind 1750
+Le_Spip posts big blind 3500
+Dealt to YL_ML_GL_42 [6h 8s]
+*** PRE-FLOP *** 
+Mikabaruo raises 5250 to 8750
+YL_ML_GL_42 folds
+Royal Gambas folds
+edwvas folds
+Pitou26800 folds
+Le_Spip folds
+Mikabaruo collected 16400 from pot
+*** SUMMARY ***
+Total pot 16400 | No rake
+Seat 6: Mikabaruo won 16400
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #2551843046413041695-73-1669416134 - Holdem no limit (400/1750/3500) - 2022/11/25 22:42:14 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (128012, 2.47€ bounty)
+Seat 2: Royal Gambas (166498, 3.76€ bounty)
+Seat 3: edwvas (97580, 1.35€ bounty)
+Seat 4: Pitou26800 (33975, 1.35€ bounty)
+Seat 5: Le_Spip (95816, 1.35€ bounty)
+Seat 6: Mikabaruo (85900, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Le_Spip posts ante 400
+Mikabaruo posts ante 400
+YL_ML_GL_42 posts ante 400
+Royal Gambas posts ante 400
+edwvas posts ante 400
+Pitou26800 posts ante 400
+Le_Spip posts small blind 1750
+Mikabaruo posts big blind 3500
+Dealt to YL_ML_GL_42 [Kd 3d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Royal Gambas raises 4550 to 8050
+edwvas folds
+Pitou26800 folds
+Le_Spip folds
+Mikabaruo calls 4550
+*** FLOP *** [9d Qh 3c]
+Mikabaruo checks
+Royal Gambas bets 13163
+Mikabaruo folds
+Royal Gambas collected 33413 from pot
+*** SUMMARY ***
+Total pot 33413 | No rake
+Board: [9d Qh 3c]
+Seat 2: Royal Gambas won 33413
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #2551843046413041695-74-1669416168 - Holdem no limit (400/1750/3500) - 2022/11/25 22:42:48 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (127612, 2.47€ bounty)
+Seat 2: Royal Gambas (178298, 3.76€ bounty)
+Seat 3: edwvas (97180, 1.35€ bounty)
+Seat 4: Pitou26800 (33575, 1.35€ bounty)
+Seat 5: Le_Spip (93666, 1.35€ bounty)
+Seat 6: Mikabaruo (77450, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Mikabaruo posts ante 400
+YL_ML_GL_42 posts ante 400
+Royal Gambas posts ante 400
+edwvas posts ante 400
+Pitou26800 posts ante 400
+Le_Spip posts ante 400
+Mikabaruo posts small blind 1750
+YL_ML_GL_42 posts big blind 3500
+Dealt to YL_ML_GL_42 [7c Kd]
+*** PRE-FLOP *** 
+Royal Gambas folds
+edwvas folds
+Pitou26800 folds
+Le_Spip folds
+Mikabaruo raises 5250 to 8750
+YL_ML_GL_42 calls 5250
+*** FLOP *** [6c 7h 5s]
+Mikabaruo bets 12935
+YL_ML_GL_42 raises 45770 to 58705
+Mikabaruo folds
+YL_ML_GL_42 collected 91540 from pot
+*** SUMMARY ***
+Total pot 91540 | No rake
+Board: [6c 7h 5s]
+Seat 1: YL_ML_GL_42 (big blind) won 91540
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #2551843046413041695-75-1669416211 - Holdem no limit (400/1750/3500) - 2022/11/25 22:43:31 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (151297, 2.47€ bounty)
+Seat 2: Royal Gambas (177898, 3.76€ bounty)
+Seat 3: edwvas (96780, 1.35€ bounty)
+Seat 4: Pitou26800 (33175, 1.35€ bounty)
+Seat 5: Le_Spip (93266, 1.35€ bounty)
+Seat 6: Mikabaruo (55365, 0.90€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 400
+Royal Gambas posts ante 400
+edwvas posts ante 400
+Pitou26800 posts ante 400
+Le_Spip posts ante 400
+Mikabaruo posts ante 400
+YL_ML_GL_42 posts small blind 1750
+Royal Gambas posts big blind 3500
+Dealt to YL_ML_GL_42 [9h 3d]
+*** PRE-FLOP *** 
+edwvas folds
+Pitou26800 folds
+Le_Spip folds
+Mikabaruo folds
+YL_ML_GL_42 folds
+Royal Gambas collected 7650 from pot
+*** SUMMARY ***
+Total pot 7650 | No rake
+Seat 2: Royal Gambas (big blind) won 7650
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #2551843046413041695-76-1669416229 - Holdem no limit (400/1750/3500) - 2022/11/25 22:43:49 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (149147, 2.47€ bounty)
+Seat 2: Royal Gambas (181648, 3.76€ bounty)
+Seat 3: edwvas (96380, 1.35€ bounty)
+Seat 4: Pitou26800 (32775, 1.35€ bounty)
+Seat 5: Le_Spip (92866, 1.35€ bounty)
+Seat 6: Mikabaruo (54965, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Royal Gambas posts ante 400
+edwvas posts ante 400
+YL_ML_GL_42 posts ante 400
+Pitou26800 posts ante 400
+Le_Spip posts ante 400
+Mikabaruo posts ante 400
+Royal Gambas posts small blind 1750
+edwvas posts big blind 3500
+Dealt to YL_ML_GL_42 [9s Qd]
+*** PRE-FLOP *** 
+Pitou26800 raises 28875 to 32375 and is all-in
+Le_Spip folds
+Mikabaruo folds
+YL_ML_GL_42 folds
+Royal Gambas folds
+edwvas folds
+Pitou26800 collected 40025 from pot
+*** SUMMARY ***
+Total pot 40025 | No rake
+Seat 4: Pitou26800 won 40025
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #2551843046413041695-77-1669416267 - Holdem no limit (500/2000/4000) - 2022/11/25 22:44:27 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (148747, 2.47€ bounty)
+Seat 2: Royal Gambas (179498, 3.76€ bounty)
+Seat 3: edwvas (92480, 1.35€ bounty)
+Seat 4: Pitou26800 (40025, 1.35€ bounty)
+Seat 5: Le_Spip (92466, 1.35€ bounty)
+Seat 6: Mikabaruo (54565, 0.90€ bounty)
+*** ANTE/BLINDS ***
+edwvas posts ante 500
+Pitou26800 posts ante 500
+YL_ML_GL_42 posts ante 500
+Royal Gambas posts ante 500
+Le_Spip posts ante 500
+Mikabaruo posts ante 500
+edwvas posts small blind 2000
+Pitou26800 posts big blind 4000
+Dealt to YL_ML_GL_42 [Jd Kc]
+*** PRE-FLOP *** 
+Le_Spip folds
+Mikabaruo raises 6000 to 10000
+YL_ML_GL_42 calls 10000
+Royal Gambas folds
+edwvas folds
+Pitou26800 folds
+*** FLOP *** [6s 6h Ad]
+Mikabaruo bets 44065 and is all-in
+YL_ML_GL_42 folds
+Mikabaruo collected 73065 from pot
+*** SUMMARY ***
+Total pot 73065 | No rake
+Board: [6s 6h Ad]
+Seat 6: Mikabaruo won 73065
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #2551843046413041695-78-1669416316 - Holdem no limit (500/2000/4000) - 2022/11/25 22:45:16 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (138247, 2.47€ bounty)
+Seat 2: Royal Gambas (178998, 3.76€ bounty)
+Seat 3: edwvas (89980, 1.35€ bounty)
+Seat 4: Pitou26800 (35525, 1.35€ bounty)
+Seat 5: Le_Spip (91966, 1.35€ bounty)
+Seat 6: Mikabaruo (73065, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Pitou26800 posts ante 500
+Le_Spip posts ante 500
+YL_ML_GL_42 posts ante 500
+Royal Gambas posts ante 500
+edwvas posts ante 500
+Mikabaruo posts ante 500
+Pitou26800 posts small blind 2000
+Le_Spip posts big blind 4000
+Dealt to YL_ML_GL_42 [2s 8s]
+*** PRE-FLOP *** 
+Mikabaruo raises 6000 to 10000
+YL_ML_GL_42 folds
+Royal Gambas folds
+edwvas folds
+Pitou26800 raises 25025 to 35025 and is all-in
+Le_Spip folds
+Mikabaruo raises 37540 to 72565 and is all-in
+*** FLOP *** [9c Qh Ac]
+*** TURN *** [9c Qh Ac][As]
+*** RIVER *** [9c Qh Ac As][7c]
+*** SHOW DOWN ***
+Pitou26800 shows [6c 6h] (Two pairs : Aces and 6)
+Mikabaruo shows [Jd 9s] (Two pairs : Aces and 9)
+Mikabaruo collected 114590 from pot
+*** SUMMARY ***
+Total pot 114590 | No rake
+Board: [9c Qh Ac As 7c]
+Seat 4: Pitou26800 (small blind) showed [6c 6h] and lost with Two pairs : Aces and 6
+Seat 6: Mikabaruo showed [Jd 9s] and won 114590 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #2551843046413041695-79-1669416369 - Holdem no limit (500/2000/4000) - 2022/11/25 22:46:09 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (137747, 2.47€ bounty)
+Seat 2: Royal Gambas (178498, 3.76€ bounty)
+Seat 3: edwvas (89480, 1.35€ bounty)
+Seat 5: Le_Spip (87466, 1.35€ bounty)
+Seat 6: Mikabaruo (114590, 1.57€ bounty)
+*** ANTE/BLINDS ***
+Le_Spip posts ante 500
+Mikabaruo posts ante 500
+YL_ML_GL_42 posts ante 500
+Royal Gambas posts ante 500
+edwvas posts ante 500
+Le_Spip posts small blind 2000
+Mikabaruo posts big blind 4000
+Dealt to YL_ML_GL_42 [As 6s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 8000 to 12000
+Royal Gambas folds
+edwvas folds
+Le_Spip folds
+Mikabaruo calls 8000
+*** FLOP *** [Jd 8d 2h]
+Mikabaruo checks
+YL_ML_GL_42 bets 18525
+Mikabaruo folds
+YL_ML_GL_42 collected 47025 from pot
+*** SUMMARY ***
+Total pot 47025 | No rake
+Board: [Jd 8d 2h]
+Seat 1: YL_ML_GL_42 won 47025
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #2551843046413041695-80-1669416413 - Holdem no limit (600/2500/5000) - 2022/11/25 22:46:53 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (153747, 2.47€ bounty)
+Seat 2: Royal Gambas (177998, 3.76€ bounty)
+Seat 3: edwvas (88980, 1.35€ bounty)
+Seat 4: Kasynys (30667, 1.80€ bounty)
+Seat 5: Le_Spip (84966, 1.35€ bounty)
+Seat 6: Mikabaruo (102090, 1.57€ bounty)
+*** ANTE/BLINDS ***
+Mikabaruo posts ante 600
+YL_ML_GL_42 posts ante 600
+Royal Gambas posts ante 600
+edwvas posts ante 600
+Kasynys posts ante 600
+Le_Spip posts ante 600
+Mikabaruo posts small blind 2500
+YL_ML_GL_42 posts big blind 5000
+Dealt to YL_ML_GL_42 [Jd Qs]
+*** PRE-FLOP *** 
+Royal Gambas folds
+edwvas folds
+Kasynys folds
+Le_Spip folds
+Mikabaruo raises 7500 to 12500
+YL_ML_GL_42 calls 7500
+*** FLOP *** [Jc 7s 2s]
+Mikabaruo bets 10010
+YL_ML_GL_42 calls 10010
+*** TURN *** [Jc 7s 2s][Ac]
+Mikabaruo checks
+YL_ML_GL_42 bets 38896
+Mikabaruo folds
+YL_ML_GL_42 collected 87516 from pot
+*** SUMMARY ***
+Total pot 87516 | No rake
+Board: [Jc 7s 2s Ac]
+Seat 1: YL_ML_GL_42 (big blind) won 87516
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #2551843046413041695-81-1669416483 - Holdem no limit (600/2500/5000) - 2022/11/25 22:48:03 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (179257, 2.47€ bounty)
+Seat 2: Royal Gambas (177398, 3.76€ bounty)
+Seat 3: edwvas (88380, 1.35€ bounty)
+Seat 4: Kasynys (30067, 1.80€ bounty)
+Seat 5: Le_Spip (84366, 1.35€ bounty)
+Seat 6: Mikabaruo (78980, 1.57€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 600
+Royal Gambas posts ante 600
+edwvas posts ante 600
+Kasynys posts ante 600
+Le_Spip posts ante 600
+Mikabaruo posts ante 600
+YL_ML_GL_42 posts small blind 2500
+Royal Gambas posts big blind 5000
+Dealt to YL_ML_GL_42 [5d Jd]
+*** PRE-FLOP *** 
+edwvas folds
+Kasynys folds
+Le_Spip folds
+Mikabaruo raises 73380 to 78380 and is all-in
+YL_ML_GL_42 folds
+Royal Gambas folds
+Mikabaruo collected 89480 from pot
+*** SUMMARY ***
+Total pot 89480 | No rake
+Seat 6: Mikabaruo (button) won 89480
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #2551843046413041695-82-1669416499 - Holdem no limit (600/2500/5000) - 2022/11/25 22:48:19 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (176157, 2.47€ bounty)
+Seat 2: Royal Gambas (171798, 3.76€ bounty)
+Seat 3: edwvas (87780, 1.35€ bounty)
+Seat 4: Kasynys (29467, 1.80€ bounty)
+Seat 5: Le_Spip (83766, 1.35€ bounty)
+Seat 6: Mikabaruo (89480, 1.57€ bounty)
+*** ANTE/BLINDS ***
+Royal Gambas posts ante 600
+edwvas posts ante 600
+YL_ML_GL_42 posts ante 600
+Kasynys posts ante 600
+Le_Spip posts ante 600
+Mikabaruo posts ante 600
+Royal Gambas posts small blind 2500
+edwvas posts big blind 5000
+Dealt to YL_ML_GL_42 [2h 8c]
+*** PRE-FLOP *** 
+Kasynys folds
+Le_Spip folds
+Mikabaruo raises 7500 to 12500
+YL_ML_GL_42 folds
+Royal Gambas folds
+edwvas calls 7500
+*** FLOP *** [Td 7s Qs]
+edwvas bets 74680 and is all-in
+Mikabaruo raises 1700 to 76380 and is all-in
+*** TURN *** [Td 7s Qs][9s]
+*** RIVER *** [Td 7s Qs 9s][4s]
+*** SHOW DOWN ***
+edwvas shows [6s 8s] (Flush Queen high)
+Mikabaruo shows [Ad Qd] (One pair : Queens)
+Mikabaruo collected 1700 from side pot 1
+edwvas collected 180460 from main pot
+*** SUMMARY ***
+Total pot 182160 | No rake
+Board: [Td 7s Qs 9s 4s]
+Seat 3: edwvas (big blind) showed [6s 8s] and won 180460 with Flush Queen high
+Seat 6: Mikabaruo showed [Ad Qd] and won 1700 with One pair : Queens
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #2551843046413041695-83-1669416570 - Holdem no limit (700/3000/6000) - 2022/11/25 22:49:30 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (175557, 2.47€ bounty)
+Seat 2: Royal Gambas (168698, 3.76€ bounty)
+Seat 3: edwvas (180460, 1.35€ bounty)
+Seat 4: Kasynys (28867, 1.80€ bounty)
+Seat 5: Le_Spip (83166, 1.35€ bounty)
+Seat 6: Mikabaruo (1700, 1.57€ bounty)
+*** ANTE/BLINDS ***
+edwvas posts ante 700
+Kasynys posts ante 700
+YL_ML_GL_42 posts ante 700
+Royal Gambas posts ante 700
+Le_Spip posts ante 700
+Mikabaruo posts ante 700
+edwvas posts small blind 3000
+Kasynys posts big blind 6000
+Dealt to YL_ML_GL_42 [8c 3c]
+*** PRE-FLOP *** 
+Le_Spip raises 6000 to 12000
+Mikabaruo folds
+YL_ML_GL_42 folds
+Royal Gambas raises 155998 to 167998 and is all-in
+edwvas folds
+Kasynys folds
+Le_Spip folds
+Royal Gambas collected 193198 from pot
+*** SUMMARY ***
+Total pot 193198 | No rake
+Seat 2: Royal Gambas (button) won 193198
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #2551843046413041695-84-1669416604 - Holdem no limit (700/3000/6000) - 2022/11/25 22:50:04 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (174857, 2.47€ bounty)
+Seat 2: Royal Gambas (193198, 3.76€ bounty)
+Seat 3: edwvas (176760, 1.35€ bounty)
+Seat 4: Kasynys (22167, 1.80€ bounty)
+Seat 5: Le_Spip (70466, 1.35€ bounty)
+Seat 6: Mikabaruo (1000, 1.57€ bounty)
+*** ANTE/BLINDS ***
+Kasynys posts ante 700
+Le_Spip posts ante 700
+YL_ML_GL_42 posts ante 700
+Royal Gambas posts ante 700
+edwvas posts ante 700
+Mikabaruo posts ante 700
+Kasynys posts small blind 3000
+Le_Spip posts big blind 6000
+Dealt to YL_ML_GL_42 [6s 4s]
+*** PRE-FLOP *** 
+Mikabaruo calls 300 and is all-in
+YL_ML_GL_42 folds
+Royal Gambas calls 6000
+edwvas raises 170060 to 176060 and is all-in
+Kasynys calls 18467 and is all-in
+Le_Spip folds
+Royal Gambas folds
+*** FLOP *** [9s 7h 6d]
+*** TURN *** [9s 7h 6d][4h]
+*** RIVER *** [9s 7h 6d 4h][Qs]
+*** SHOW DOWN ***
+Mikabaruo shows [2d 4c] (One pair : 4)
+edwvas shows [Ah 3c] (High card : Ace)
+Kasynys shows [Ad As] (One pair : Aces)
+Kasynys collected 59434 from main pot
+edwvas collected 154593 from side pot 1
+*** SUMMARY ***
+Total pot 214027 | No rake
+Board: [9s 7h 6d 4h Qs]
+Seat 3: edwvas (button) showed [Ah 3c] and won 154593 with High card : Ace
+Seat 4: Kasynys (small blind) showed [Ad As] and won 59434 with One pair : Aces
+Seat 6: Mikabaruo showed [2d 4c] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #2551843046413041695-85-1669416630 - Holdem no limit (700/3000/6000) - 2022/11/25 22:50:30 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (174157, 2.47€ bounty)
+Seat 2: Royal Gambas (186498, 3.76€ bounty)
+Seat 3: edwvas (154593, 1.35€ bounty)
+Seat 4: Kasynys (59434, 2.58€ bounty)
+Seat 5: Le_Spip (63766, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Le_Spip posts ante 700
+YL_ML_GL_42 posts ante 700
+Royal Gambas posts ante 700
+edwvas posts ante 700
+Kasynys posts ante 700
+Le_Spip posts small blind 3000
+YL_ML_GL_42 posts big blind 6000
+Dealt to YL_ML_GL_42 [4h Tc]
+*** PRE-FLOP *** 
+Royal Gambas folds
+edwvas raises 147893 to 153893 and is all-in
+Kasynys folds
+Le_Spip folds
+YL_ML_GL_42 folds
+edwvas collected 166393 from pot
+*** SUMMARY ***
+Total pot 166393 | No rake
+Seat 3: edwvas won 166393
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #2551843046413041695-86-1669416637 - Holdem no limit (700/3000/6000) - 2022/11/25 22:50:37 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (167457, 2.47€ bounty)
+Seat 2: Royal Gambas (185798, 3.76€ bounty)
+Seat 3: edwvas (166393, 1.35€ bounty)
+Seat 4: Kasynys (58734, 2.58€ bounty)
+Seat 5: Le_Spip (60066, 1.35€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 700
+Royal Gambas posts ante 700
+edwvas posts ante 700
+Kasynys posts ante 700
+Le_Spip posts ante 700
+YL_ML_GL_42 posts small blind 3000
+Royal Gambas posts big blind 6000
+Dealt to YL_ML_GL_42 [7s 9s]
+*** PRE-FLOP *** 
+edwvas folds
+Kasynys folds
+Le_Spip folds
+YL_ML_GL_42 raises 15500 to 21500
+Royal Gambas folds
+YL_ML_GL_42 collected 31000 from pot
+*** SUMMARY ***
+Total pot 31000 | No rake
+Seat 1: YL_ML_GL_42 (small blind) won 31000
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #2551843046413041695-87-1669416655 - Holdem no limit (700/3000/6000) - 2022/11/25 22:50:55 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (176257, 2.47€ bounty)
+Seat 2: Royal Gambas (179098, 3.76€ bounty)
+Seat 3: edwvas (165693, 1.35€ bounty)
+Seat 4: Kasynys (58034, 2.58€ bounty)
+Seat 5: Le_Spip (59366, 1.35€ bounty)
+Seat 6: MaXiSuM (326838, 4.60€ bounty)
+*** ANTE/BLINDS ***
+Royal Gambas posts ante 700
+edwvas posts ante 700
+YL_ML_GL_42 posts ante 700
+Kasynys posts ante 700
+Le_Spip posts ante 700
+MaXiSuM posts ante 700
+Royal Gambas posts small blind 3000
+edwvas posts big blind 6000
+Dealt to YL_ML_GL_42 [3s Td]
+*** PRE-FLOP *** 
+Kasynys folds
+Le_Spip raises 52666 to 58666 and is all-in
+MaXiSuM folds
+YL_ML_GL_42 folds
+Royal Gambas folds
+edwvas calls 52666
+*** FLOP *** [Tc 2s 4h]
+*** TURN *** [Tc 2s 4h][6s]
+*** RIVER *** [Tc 2s 4h 6s][Kh]
+*** SHOW DOWN ***
+edwvas shows [3d 4d] (One pair : 4)
+Le_Spip shows [Ks Qc] (One pair : Kings)
+Le_Spip collected 124532 from pot
+*** SUMMARY ***
+Total pot 124532 | No rake
+Board: [Tc 2s 4h 6s Kh]
+Seat 3: edwvas (big blind) showed [3d 4d] and lost with One pair : 4
+Seat 5: Le_Spip showed [Ks Qc] and won 124532 with One pair : Kings
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #2551843046413041695-88-1669416675 - Holdem no limit (700/3000/6000) - 2022/11/25 22:51:15 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (175557, 2.47€ bounty)
+Seat 2: Royal Gambas (175398, 3.76€ bounty)
+Seat 3: edwvas (106327, 1.35€ bounty)
+Seat 4: Kasynys (57334, 2.58€ bounty)
+Seat 5: Le_Spip (124532, 1.35€ bounty)
+Seat 6: MaXiSuM (326138, 4.60€ bounty)
+*** ANTE/BLINDS ***
+edwvas posts ante 700
+Kasynys posts ante 700
+YL_ML_GL_42 posts ante 700
+Royal Gambas posts ante 700
+Le_Spip posts ante 700
+MaXiSuM posts ante 700
+edwvas posts small blind 3000
+Kasynys posts big blind 6000
+Dealt to YL_ML_GL_42 [8c 3h]
+*** PRE-FLOP *** 
+Le_Spip folds
+MaXiSuM folds
+YL_ML_GL_42 folds
+Royal Gambas raises 6000 to 12000
+edwvas raises 93627 to 105627 and is all-in
+Kasynys folds
+Royal Gambas raises 69071 to 174698 and is all-in
+*** FLOP *** [8h 4c Kd]
+*** TURN *** [8h 4c Kd][6c]
+*** RIVER *** [8h 4c Kd 6c][As]
+*** SHOW DOWN ***
+edwvas shows [Qh Ac] (One pair : Aces)
+Royal Gambas shows [Ah Ad] (Trips of Aces)
+Royal Gambas collected 290525 from pot
+*** SUMMARY ***
+Total pot 290525 | No rake
+Board: [8h 4c Kd 6c As]
+Seat 2: Royal Gambas (button) showed [Ah Ad] and won 290525 with Trips of Aces
+Seat 3: edwvas (small blind) showed [Qh Ac] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #2551843046413041695-89-1669416692 - Holdem no limit (700/3000/6000) - 2022/11/25 22:51:32 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (174857, 2.47€ bounty)
+Seat 2: Royal Gambas (290525, 4.43€ bounty)
+Seat 4: Kasynys (50634, 2.58€ bounty)
+Seat 5: Le_Spip (123832, 1.35€ bounty)
+Seat 6: MaXiSuM (325438, 4.60€ bounty)
+*** ANTE/BLINDS ***
+Kasynys posts ante 700
+Le_Spip posts ante 700
+YL_ML_GL_42 posts ante 700
+Royal Gambas posts ante 700
+MaXiSuM posts ante 700
+Kasynys posts small blind 3000
+Le_Spip posts big blind 6000
+Dealt to YL_ML_GL_42 [3c 8s]
+*** PRE-FLOP *** 
+MaXiSuM folds
+YL_ML_GL_42 folds
+Royal Gambas raises 6000 to 12000
+Kasynys folds
+Le_Spip folds
+Royal Gambas collected 24500 from pot
+*** SUMMARY ***
+Total pot 24500 | No rake
+Seat 2: Royal Gambas won 24500
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #2551843046413041695-90-1669416701 - Holdem no limit (800/3500/7000) - 2022/11/25 22:51:41 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (174157, 2.47€ bounty)
+Seat 2: Royal Gambas (302325, 4.43€ bounty)
+Seat 3: Prince Pablo (77752, 2.58€ bounty)
+Seat 4: Kasynys (46934, 2.58€ bounty)
+Seat 5: Le_Spip (117132, 1.35€ bounty)
+Seat 6: MaXiSuM (324738, 4.60€ bounty)
+*** ANTE/BLINDS ***
+Le_Spip posts ante 800
+MaXiSuM posts ante 800
+YL_ML_GL_42 posts ante 800
+Royal Gambas posts ante 800
+Prince Pablo posts ante 800
+Kasynys posts ante 800
+Le_Spip posts small blind 3500
+MaXiSuM posts big blind 7000
+Dealt to YL_ML_GL_42 [Kc 3c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Royal Gambas folds
+Prince Pablo folds
+Kasynys folds
+Le_Spip folds
+MaXiSuM collected 15300 from pot
+*** SUMMARY ***
+Total pot 15300 | No rake
+Seat 6: MaXiSuM (big blind) won 15300
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #2551843046413041695-91-1669416733 - Holdem no limit (800/3500/7000) - 2022/11/25 22:52:13 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (173357, 2.47€ bounty)
+Seat 2: Royal Gambas (301525, 4.43€ bounty)
+Seat 3: Prince Pablo (76952, 2.58€ bounty)
+Seat 4: Kasynys (46134, 2.58€ bounty)
+Seat 5: Le_Spip (112832, 1.35€ bounty)
+Seat 6: MaXiSuM (332238, 4.60€ bounty)
+*** ANTE/BLINDS ***
+MaXiSuM posts ante 800
+YL_ML_GL_42 posts ante 800
+Royal Gambas posts ante 800
+Prince Pablo posts ante 800
+Kasynys posts ante 800
+Le_Spip posts ante 800
+MaXiSuM posts small blind 3500
+YL_ML_GL_42 posts big blind 7000
+Dealt to YL_ML_GL_42 [8c Tc]
+*** PRE-FLOP *** 
+Royal Gambas folds
+Prince Pablo folds
+Kasynys folds
+Le_Spip raises 105032 to 112032 and is all-in
+MaXiSuM folds
+YL_ML_GL_42 folds
+Le_Spip collected 127332 from pot
+*** SUMMARY ***
+Total pot 127332 | No rake
+Seat 5: Le_Spip (button) won 127332
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #2551843046413041695-92-1669416758 - Holdem no limit (800/3500/7000) - 2022/11/25 22:52:38 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (165557, 2.47€ bounty)
+Seat 2: Royal Gambas (300725, 4.43€ bounty)
+Seat 3: Prince Pablo (76152, 2.58€ bounty)
+Seat 4: Kasynys (45334, 2.58€ bounty)
+Seat 5: Le_Spip (127332, 1.35€ bounty)
+Seat 6: MaXiSuM (327938, 4.60€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 800
+Royal Gambas posts ante 800
+Prince Pablo posts ante 800
+Kasynys posts ante 800
+Le_Spip posts ante 800
+MaXiSuM posts ante 800
+YL_ML_GL_42 posts small blind 3500
+Royal Gambas posts big blind 7000
+Dealt to YL_ML_GL_42 [6c 9h]
+*** PRE-FLOP *** 
+Prince Pablo folds
+Kasynys folds
+Le_Spip raises 119532 to 126532 and is all-in
+MaXiSuM folds
+YL_ML_GL_42 folds
+Royal Gambas raises 173393 to 299925 and is all-in
+*** FLOP *** [2d 7d Th]
+*** TURN *** [2d 7d Th][8s]
+*** RIVER *** [2d 7d Th 8s][8h]
+*** SHOW DOWN ***
+Le_Spip shows [Qd Ad] (One pair : 8)
+Royal Gambas shows [Ac Kh] (One pair : 8)
+Royal Gambas collected 434757 from pot
+*** SUMMARY ***
+Total pot 434757 | No rake
+Board: [2d 7d Th 8s 8h]
+Seat 2: Royal Gambas (big blind) showed [Ac Kh] and won 434757 with One pair : 8
+Seat 5: Le_Spip showed [Qd Ad] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #2551843046413041695-93-1669416781 - Holdem no limit (800/3500/7000) - 2022/11/25 22:53:01 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (161257, 2.47€ bounty)
+Seat 2: Royal Gambas (434757, 5.10€ bounty)
+Seat 3: Prince Pablo (75352, 2.58€ bounty)
+Seat 4: Kasynys (44534, 2.58€ bounty)
+Seat 5: bolo19 (56007, 3.02€ bounty)
+Seat 6: MaXiSuM (327138, 4.60€ bounty)
+*** ANTE/BLINDS ***
+Royal Gambas posts ante 800
+Prince Pablo posts ante 800
+YL_ML_GL_42 posts ante 800
+Kasynys posts ante 800
+bolo19 posts ante 800
+MaXiSuM posts ante 800
+Royal Gambas posts small blind 3500
+Prince Pablo posts big blind 7000
+Dealt to YL_ML_GL_42 [Ah 7c]
+*** PRE-FLOP *** 
+Kasynys folds
+bolo19 folds
+MaXiSuM folds
+YL_ML_GL_42 raises 14000 to 21000
+Royal Gambas folds
+Prince Pablo folds
+YL_ML_GL_42 collected 36300 from pot
+*** SUMMARY ***
+Total pot 36300 | No rake
+Seat 1: YL_ML_GL_42 (button) won 36300
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #2551843046413041695-94-1669416814 - Holdem no limit (800/3500/7000) - 2022/11/25 22:53:34 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (175757, 2.47€ bounty)
+Seat 2: Royal Gambas (430457, 5.10€ bounty)
+Seat 3: Prince Pablo (67552, 2.58€ bounty)
+Seat 4: Kasynys (43734, 2.58€ bounty)
+Seat 5: bolo19 (55207, 3.02€ bounty)
+Seat 6: MaXiSuM (326338, 4.60€ bounty)
+*** ANTE/BLINDS ***
+Prince Pablo posts ante 800
+Kasynys posts ante 800
+YL_ML_GL_42 posts ante 800
+Royal Gambas posts ante 800
+bolo19 posts ante 800
+MaXiSuM posts ante 800
+Prince Pablo posts small blind 3500
+Kasynys posts big blind 7000
+Dealt to YL_ML_GL_42 [7d 4h]
+*** PRE-FLOP *** 
+bolo19 folds
+MaXiSuM folds
+YL_ML_GL_42 folds
+Royal Gambas raises 7000 to 14000
+Prince Pablo raises 52752 to 66752 and is all-in
+Kasynys calls 35934 and is all-in
+Royal Gambas folds
+*** FLOP *** [Qd 4d 3d]
+*** TURN *** [Qd 4d 3d][Kh]
+*** RIVER *** [Qd 4d 3d Kh][Qc]
+*** SHOW DOWN ***
+Prince Pablo shows [Ah Js] (One pair : Queens)
+Kasynys shows [Kd 8d] (Flush King high)
+Kasynys collected 104668 from main pot
+Prince Pablo collected 23818 from side pot 1
+*** SUMMARY ***
+Total pot 128486 | No rake
+Board: [Qd 4d 3d Kh Qc]
+Seat 3: Prince Pablo (small blind) showed [Ah Js] and won 23818 with One pair : Queens
+Seat 4: Kasynys (big blind) showed [Kd 8d] and won 104668 with Flush King high
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #2551843046413041695-95-1669416856 - Holdem no limit (1000/4000/8000) - 2022/11/25 22:54:16 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (174957, 2.47€ bounty)
+Seat 2: Royal Gambas (415657, 5.10€ bounty)
+Seat 3: Prince Pablo (23818, 2.58€ bounty)
+Seat 4: Kasynys (104668, 2.58€ bounty)
+Seat 5: bolo19 (54407, 3.02€ bounty)
+Seat 6: MaXiSuM (325538, 4.60€ bounty)
+*** ANTE/BLINDS ***
+Kasynys posts ante 1000
+bolo19 posts ante 1000
+YL_ML_GL_42 posts ante 1000
+Royal Gambas posts ante 1000
+Prince Pablo posts ante 1000
+MaXiSuM posts ante 1000
+Kasynys posts small blind 4000
+bolo19 posts big blind 8000
+Dealt to YL_ML_GL_42 [8d 2h]
+*** PRE-FLOP *** 
+MaXiSuM folds
+YL_ML_GL_42 folds
+Royal Gambas raises 8000 to 16000
+Prince Pablo folds
+Kasynys folds
+bolo19 folds
+Royal Gambas collected 34000 from pot
+*** SUMMARY ***
+Total pot 34000 | No rake
+Seat 2: Royal Gambas won 34000
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #2551843046413041695-96-1669416871 - Holdem no limit (1000/4000/8000) - 2022/11/25 22:54:31 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (173957, 2.47€ bounty)
+Seat 2: Royal Gambas (432657, 5.10€ bounty)
+Seat 3: Prince Pablo (22818, 2.58€ bounty)
+Seat 4: Kasynys (99668, 2.58€ bounty)
+Seat 5: bolo19 (45407, 3.02€ bounty)
+Seat 6: MaXiSuM (324538, 4.60€ bounty)
+*** ANTE/BLINDS ***
+bolo19 posts ante 1000
+MaXiSuM posts ante 1000
+YL_ML_GL_42 posts ante 1000
+Royal Gambas posts ante 1000
+Prince Pablo posts ante 1000
+Kasynys posts ante 1000
+bolo19 posts small blind 4000
+MaXiSuM posts big blind 8000
+Dealt to YL_ML_GL_42 [Ac 7s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 16000 to 24000
+Royal Gambas calls 24000
+Prince Pablo folds
+Kasynys folds
+bolo19 folds
+MaXiSuM folds
+*** FLOP *** [8d 6s 9c]
+YL_ML_GL_42 bets 52800
+Royal Gambas folds
+YL_ML_GL_42 collected 118800 from pot
+*** SUMMARY ***
+Total pot 118800 | No rake
+Board: [8d 6s 9c]
+Seat 1: YL_ML_GL_42 won 118800
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #2551843046413041695-97-1669417262 - Holdem no limit (1000/4000/8000) - 2022/11/25 23:01:02 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #5 is the button
+Seat 1: YL_ML_GL_42 (214957, 2.47€ bounty)
+Seat 2: Royal Gambas (407657, 5.10€ bounty)
+Seat 3: Prince Pablo (21818, 2.58€ bounty)
+Seat 4: Kasynys (98668, 2.58€ bounty)
+Seat 5: bolo19 (40407, 3.02€ bounty)
+Seat 6: MaXiSuM (315538, 4.60€ bounty)
+*** ANTE/BLINDS ***
+MaXiSuM posts ante 1000
+YL_ML_GL_42 posts ante 1000
+Royal Gambas posts ante 1000
+Prince Pablo posts ante 1000
+Kasynys posts ante 1000
+bolo19 posts ante 1000
+MaXiSuM posts small blind 4000
+YL_ML_GL_42 posts big blind 8000
+Dealt to YL_ML_GL_42 [Ts Td]
+*** PRE-FLOP *** 
+Royal Gambas folds
+Prince Pablo folds
+Kasynys raises 89668 to 97668 and is all-in
+bolo19 folds
+MaXiSuM folds
+YL_ML_GL_42 raises 116289 to 213957 and is all-in
+*** FLOP *** [8c Ah Jd]
+*** TURN *** [8c Ah Jd][4c]
+*** RIVER *** [8c Ah Jd 4c][Ks]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ts Td] (One pair : Tens)
+Kasynys shows [9h Ad] (One pair : Aces)
+Kasynys collected 205336 from main pot
+YL_ML_GL_42 collected 116289 from side pot 1
+*** SUMMARY ***
+Total pot 321625 | No rake
+Board: [8c Ah Jd 4c Ks]
+Seat 1: YL_ML_GL_42 (big blind) showed [Ts Td] and won 116289 with One pair : Tens
+Seat 4: Kasynys showed [9h Ad] and won 205336 with One pair : Aces
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #2551843046413041695-98-1669417324 - Holdem no limit (1000/4000/8000) - 2022/11/25 23:02:04 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (116289, 2.47€ bounty)
+Seat 2: Royal Gambas (406657, 5.10€ bounty)
+Seat 3: Prince Pablo (20818, 2.58€ bounty)
+Seat 4: Kasynys (205336, 2.58€ bounty)
+Seat 5: bolo19 (39407, 3.02€ bounty)
+Seat 6: MaXiSuM (310538, 4.60€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 1000
+Royal Gambas posts ante 1000
+Prince Pablo posts ante 1000
+Kasynys posts ante 1000
+bolo19 posts ante 1000
+MaXiSuM posts ante 1000
+YL_ML_GL_42 posts small blind 4000
+Royal Gambas posts big blind 8000
+Dealt to YL_ML_GL_42 [2c 7h]
+*** PRE-FLOP *** 
+Prince Pablo folds
+Kasynys folds
+bolo19 raises 30407 to 38407 and is all-in
+MaXiSuM folds
+YL_ML_GL_42 folds
+Royal Gambas calls 30407
+*** FLOP *** [4h 2h 3s]
+*** TURN *** [4h 2h 3s][3h]
+*** RIVER *** [4h 2h 3s 3h][9d]
+*** SHOW DOWN ***
+Royal Gambas shows [Js 4s] (Two pairs : 4 and 3)
+bolo19 shows [5c Ah] (Straight 5 high)
+bolo19 collected 86814 from pot
+*** SUMMARY ***
+Total pot 86814 | No rake
+Board: [4h 2h 3s 3h 9d]
+Seat 2: Royal Gambas (big blind) showed [Js 4s] and lost with Two pairs : 4 and 3
+Seat 5: bolo19 showed [5c Ah] and won 86814 with Straight 5 high
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 23 - HandId: #2551843046413041695-99-1669417398 - Holdem no limit (1200/5000/10000) - 2022/11/25 23:03:18 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (111289, 2.47€ bounty)
+Seat 2: Royal Gambas (367250, 5.10€ bounty)
+Seat 3: Prince Pablo (19818, 2.58€ bounty)
+Seat 4: Kasynys (204336, 2.58€ bounty)
+Seat 5: bolo19 (86814, 3.02€ bounty)
+Seat 6: MaXiSuM (309538, 4.60€ bounty)
+*** ANTE/BLINDS ***
+Royal Gambas posts ante 1200
+Prince Pablo posts ante 1200
+YL_ML_GL_42 posts ante 1200
+Kasynys posts ante 1200
+bolo19 posts ante 1200
+MaXiSuM posts ante 1200
+Royal Gambas posts small blind 5000
+Prince Pablo posts big blind 10000
+Dealt to YL_ML_GL_42 [9c 7d]
+*** PRE-FLOP *** 
+Kasynys folds
+bolo19 calls 10000
+MaXiSuM folds
+YL_ML_GL_42 folds
+Royal Gambas calls 5000
+Prince Pablo checks
+*** FLOP *** [Ts 3h 2h]
+Royal Gambas checks
+Prince Pablo checks
+bolo19 bets 10000
+Royal Gambas calls 10000
+Prince Pablo folds
+*** TURN *** [Ts 3h 2h][5h]
+Royal Gambas checks
+bolo19 checks
+*** RIVER *** [Ts 3h 2h 5h][6d]
+Royal Gambas bets 75000
+bolo19 folds
+Royal Gambas collected 132200 from pot
+*** SUMMARY ***
+Total pot 132200 | No rake
+Board: [Ts 3h 2h 5h 6d]
+Seat 2: Royal Gambas (small blind) won 132200
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 23 - HandId: #2551843046413041695-100-1669417429 - Holdem no limit (1200/5000/10000) - 2022/11/25 23:03:49 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (110089, 2.47€ bounty)
+Seat 2: Royal Gambas (403250, 5.10€ bounty)
+Seat 3: Prince Pablo (8618, 2.58€ bounty)
+Seat 4: Kasynys (203136, 2.58€ bounty)
+Seat 5: bolo19 (65614, 3.02€ bounty)
+Seat 6: MaXiSuM (308338, 4.60€ bounty)
+*** ANTE/BLINDS ***
+Prince Pablo posts ante 1200
+Kasynys posts ante 1200
+YL_ML_GL_42 posts ante 1200
+Royal Gambas posts ante 1200
+bolo19 posts ante 1200
+MaXiSuM posts ante 1200
+Prince Pablo posts small blind 5000
+Kasynys posts big blind 10000
+Dealt to YL_ML_GL_42 [6c 8c]
+*** PRE-FLOP *** 
+bolo19 calls 10000
+MaXiSuM raises 25000 to 35000
+YL_ML_GL_42 folds
+Royal Gambas folds
+Prince Pablo folds
+Kasynys folds
+bolo19 raises 29414 to 64414 and is all-in
+MaXiSuM raises 29414 to 93828
+*** FLOP *** [9s 5d 6s]
+*** TURN *** [9s 5d 6s][2h]
+*** RIVER *** [9s 5d 6s 2h][Jd]
+*** SHOW DOWN ***
+bolo19 shows [Kh Ad] (High card : Ace)
+MaXiSuM shows [Td Tc] (One pair : Tens)
+MaXiSuM collected 180442 from pot
+*** SUMMARY ***
+Total pot 180442 | No rake
+Board: [9s 5d 6s 2h Jd]
+Seat 5: bolo19 showed [Kh Ad] and lost with High card : Ace
+Seat 6: MaXiSuM showed [Td Tc] and won 180442 with One pair : Tens
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 23 - HandId: #2551843046413041695-101-1669417460 - Holdem no limit (1200/5000/10000) - 2022/11/25 23:04:20 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (108889, 2.47€ bounty)
+Seat 2: Royal Gambas (402050, 5.10€ bounty)
+Seat 3: Prince Pablo (2418, 2.58€ bounty)
+Seat 4: Kasynys (191936, 2.58€ bounty)
+Seat 6: MaXiSuM (393752, 6.11€ bounty)
+*** ANTE/BLINDS ***
+Kasynys posts ante 1200
+MaXiSuM posts ante 1200
+YL_ML_GL_42 posts ante 1200
+Royal Gambas posts ante 1200
+Prince Pablo posts ante 1200
+Kasynys posts small blind 5000
+MaXiSuM posts big blind 10000
+Dealt to YL_ML_GL_42 [Kd Ah]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 20000 to 30000
+Royal Gambas folds
+Prince Pablo calls 1218 and is all-in
+Kasynys folds
+MaXiSuM folds
+*** FLOP *** [Ac 7s Jc]
+*** TURN *** [Ac 7s Jc][4s]
+*** RIVER *** [Ac 7s Jc 4s][Kh]
+*** SHOW DOWN ***
+Prince Pablo shows [Ad Qh] (One pair : Aces)
+YL_ML_GL_42 shows [Kd Ah] (Two pairs : Aces and Kings)
+YL_ML_GL_42 collected 52218 from pot
+*** SUMMARY ***
+Total pot 52218 | No rake
+Board: [Ac 7s Jc 4s Kh]
+Seat 1: YL_ML_GL_42 showed [Kd Ah] and won 52218 with Two pairs : Aces and Kings
+Seat 3: Prince Pablo (button) showed [Ad Qh] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 23 - HandId: #2551843046413041695-102-1669417486 - Holdem no limit (1200/5000/10000) - 2022/11/25 23:04:46 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #4 is the button
+Seat 1: YL_ML_GL_42 (129907, 3.76€ bounty)
+Seat 2: Royal Gambas (400850, 5.10€ bounty)
+Seat 4: Kasynys (185736, 2.58€ bounty)
+Seat 6: MaXiSuM (382552, 6.11€ bounty)
+*** ANTE/BLINDS ***
+MaXiSuM posts ante 1200
+YL_ML_GL_42 posts ante 1200
+Royal Gambas posts ante 1200
+Kasynys posts ante 1200
+MaXiSuM posts small blind 5000
+YL_ML_GL_42 posts big blind 10000
+Dealt to YL_ML_GL_42 [Th 4c]
+*** PRE-FLOP *** 
+Royal Gambas folds
+Kasynys raises 10000 to 20000
+MaXiSuM folds
+YL_ML_GL_42 folds
+Kasynys collected 39800 from pot
+*** SUMMARY ***
+Total pot 39800 | No rake
+Seat 4: Kasynys (button) won 39800
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 23 - HandId: #2551843046413041695-103-1669417496 - Holdem no limit (1200/5000/10000) - 2022/11/25 23:04:56 UTC
+Table: 'AFTER FOOT(594147259)#030' 6-max (real money) Seat #6 is the button
+Seat 1: YL_ML_GL_42 (118707, 3.76€ bounty)
+Seat 2: Royal Gambas (399650, 5.10€ bounty)
+Seat 4: Kasynys (204336, 2.58€ bounty)
+Seat 6: MaXiSuM (376352, 6.11€ bounty)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 1200
+Royal Gambas posts ante 1200
+Kasynys posts ante 1200
+MaXiSuM posts ante 1200
+YL_ML_GL_42 posts small blind 5000
+Royal Gambas posts big blind 10000
+Dealt to YL_ML_GL_42 [9d Kd]
+*** PRE-FLOP *** 
+Kasynys folds
+MaXiSuM folds
+YL_ML_GL_42 raises 24800 to 34800
+Royal Gambas calls 24800
+*** FLOP *** [4d 3c 2d]
+YL_ML_GL_42 bets 26040
+Royal Gambas raises 126480 to 152520
+YL_ML_GL_42 calls 56667 and is all-in
+*** TURN *** [4d 3c 2d][2h]
+*** RIVER *** [4d 3c 2d 2h][2s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [9d Kd] (Trips of 2)
+Royal Gambas shows [Ks 3s] (Full of 2 and 3)
+Royal Gambas collected 309627 from pot
+*** SUMMARY ***
+Total pot 309627 | No rake
+Board: [4d 3c 2d 2h 2s]
+Seat 1: YL_ML_GL_42 (small blind) showed [9d Kd] and lost with Trips of 2
+Seat 2: Royal Gambas (big blind) showed [Ks 3s] and won 309627 with Full of 2 and 3
+
+

@@ -1,0 +1,2713 @@
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 29 - HandId: #2562274456823136645-2-1667852028 - Holdem no limit (25/100/200) - 2022/11/07 20:13:48 UTC
+Table: 'W POKUS Event 27(596576011)#0388' 6-max (real money) Seat #1 is the button
+Seat 1: jm4cfly (21425)
+Seat 2: AShove (19800)
+Seat 3: doudinhio (19775)
+Seat 4: YL_ML_GL_42 (20000)
+Seat 5: Pookiblinder (19475)
+Seat 6: CarlosIsGone (21275)
+*** ANTE/BLINDS ***
+AShove posts ante 25
+doudinhio posts ante 25
+jm4cfly posts ante 25
+YL_ML_GL_42 posts ante 25
+Pookiblinder posts ante 25
+CarlosIsGone posts ante 25
+AShove posts small blind 100
+doudinhio posts big blind 200
+Dealt to YL_ML_GL_42 [6h Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Pookiblinder folds
+CarlosIsGone folds
+jm4cfly folds
+AShove raises 400 to 600
+doudinhio folds
+AShove collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 2: AShove (small blind) won 950
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 29 - HandId: #2562274456823136645-3-1667852057 - Holdem no limit (25/100/200) - 2022/11/07 20:14:17 UTC
+Table: 'W POKUS Event 27(596576011)#0388' 6-max (real money) Seat #2 is the button
+Seat 1: jm4cfly (21400)
+Seat 2: AShove (20125)
+Seat 3: doudinhio (19550)
+Seat 4: YL_ML_GL_42 (19975)
+Seat 5: Pookiblinder (19450)
+Seat 6: CarlosIsGone (21250)
+*** ANTE/BLINDS ***
+doudinhio posts ante 25
+YL_ML_GL_42 posts ante 25
+jm4cfly posts ante 25
+AShove posts ante 25
+Pookiblinder posts ante 25
+CarlosIsGone posts ante 25
+doudinhio posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [5s Tc]
+*** PRE-FLOP *** 
+Pookiblinder raises 300 to 500
+CarlosIsGone calls 500
+jm4cfly folds
+AShove calls 500
+doudinhio folds
+YL_ML_GL_42 folds
+*** FLOP *** [9s Jh Td]
+Pookiblinder checks
+CarlosIsGone bets 683
+AShove raises 18917 to 19600 and is all-in
+Pookiblinder folds
+CarlosIsGone calls 18917
+*** TURN *** [9s Jh Td][Ad]
+*** RIVER *** [9s Jh Td Ad][Ah]
+*** SHOW DOWN ***
+CarlosIsGone shows [Qh Qs] (Two pairs : Aces and Queens)
+AShove shows [8c 7d] (Straight Jack high)
+AShove collected 41150 from pot
+*** SUMMARY ***
+Total pot 41150 | No rake
+Board: [9s Jh Td Ad Ah]
+Seat 2: AShove (button) showed [8c 7d] and won 41150 with Straight Jack high
+Seat 6: CarlosIsGone showed [Qh Qs] and lost with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 29 - HandId: #2562274456823136645-4-1667852134 - Holdem no limit (25/100/200) - 2022/11/07 20:15:34 UTC
+Table: 'W POKUS Event 27(596576011)#0388' 6-max (real money) Seat #3 is the button
+Seat 1: jm4cfly (21375)
+Seat 2: AShove (41150)
+Seat 3: doudinhio (19425)
+Seat 4: YL_ML_GL_42 (19750)
+Seat 5: Pookiblinder (18925)
+Seat 6: CarlosIsGone (1125)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Pookiblinder posts ante 25
+jm4cfly posts ante 25
+AShove posts ante 25
+doudinhio posts ante 25
+CarlosIsGone posts ante 25
+YL_ML_GL_42 posts small blind 100
+Pookiblinder posts big blind 200
+Dealt to YL_ML_GL_42 [Ad 6s]
+*** PRE-FLOP *** 
+CarlosIsGone folds
+jm4cfly folds
+AShove folds
+doudinhio folds
+YL_ML_GL_42 raises 497 to 697
+Pookiblinder folds
+YL_ML_GL_42 collected 1047 from pot
+*** SUMMARY ***
+Total pot 1047 | No rake
+Seat 4: YL_ML_GL_42 (small blind) won 1047
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 29 - HandId: #2562274456823136645-5-1667852189 - Holdem no limit (25/100/200) - 2022/11/07 20:16:29 UTC
+Table: 'W POKUS Event 27(596576011)#0388' 6-max (real money) Seat #4 is the button
+Seat 1: jm4cfly (21350)
+Seat 2: AShove (41125)
+Seat 3: doudinhio (19400)
+Seat 4: YL_ML_GL_42 (20075)
+Seat 5: Pookiblinder (18700)
+Seat 6: CarlosIsGone (1100)
+*** ANTE/BLINDS ***
+Pookiblinder posts ante 25
+CarlosIsGone posts ante 25
+jm4cfly posts ante 25
+AShove posts ante 25
+doudinhio posts ante 25
+YL_ML_GL_42 posts ante 25
+Pookiblinder posts small blind 100
+CarlosIsGone posts big blind 200
+Dealt to YL_ML_GL_42 [6s 9c]
+*** PRE-FLOP *** 
+jm4cfly folds
+AShove folds
+doudinhio folds
+YL_ML_GL_42 folds
+Pookiblinder folds
+CarlosIsGone collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 6: CarlosIsGone (big blind) won 450
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 29 - HandId: #2562274456823136645-6-1667852220 - Holdem no limit (25/100/200) - 2022/11/07 20:17:00 UTC
+Table: 'W POKUS Event 27(596576011)#0388' 6-max (real money) Seat #5 is the button
+Seat 1: jm4cfly (21325)
+Seat 2: Sefyou1883 (20000)
+Seat 3: doudinhio (19375)
+Seat 4: YL_ML_GL_42 (20050)
+Seat 5: Pookiblinder (18575)
+Seat 6: CarlosIsGone (1325)
+*** ANTE/BLINDS ***
+CarlosIsGone posts ante 25
+jm4cfly posts ante 25
+Sefyou1883 posts ante 25
+doudinhio posts ante 25
+YL_ML_GL_42 posts ante 25
+Pookiblinder posts ante 25
+CarlosIsGone posts small blind 100
+jm4cfly posts big blind 200
+Dealt to YL_ML_GL_42 [Qh 9s]
+*** PRE-FLOP *** 
+Sefyou1883 raises 650 to 850
+doudinhio folds
+YL_ML_GL_42 folds
+Pookiblinder folds
+CarlosIsGone folds
+jm4cfly calls 650
+*** FLOP *** [Qc Qd 8c]
+jm4cfly checks
+Sefyou1883 bets 683
+jm4cfly calls 683
+*** TURN *** [Qc Qd 8c][2d]
+jm4cfly checks
+Sefyou1883 checks
+*** RIVER *** [Qc Qd 8c 2d][5s]
+jm4cfly bets 2155
+Sefyou1883 folds
+jm4cfly collected 5471 from pot
+*** SUMMARY ***
+Total pot 5471 | No rake
+Board: [Qc Qd 8c 2d 5s]
+Seat 1: jm4cfly (big blind) won 5471
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 29 - HandId: #2562274456823136645-7-1667852303 - Holdem no limit (25/100/200) - 2022/11/07 20:18:23 UTC
+Table: 'W POKUS Event 27(596576011)#0388' 6-max (real money) Seat #6 is the button
+Seat 1: jm4cfly (23083)
+Seat 2: Sefyou1883 (18442)
+Seat 3: doudinhio (19350)
+Seat 4: YL_ML_GL_42 (20025)
+Seat 5: Pookiblinder (18550)
+Seat 6: CarlosIsGone (1200)
+*** ANTE/BLINDS ***
+jm4cfly posts ante 25
+Sefyou1883 posts ante 25
+doudinhio posts ante 25
+YL_ML_GL_42 posts ante 25
+Pookiblinder posts ante 25
+CarlosIsGone posts ante 25
+jm4cfly posts small blind 100
+Sefyou1883 posts big blind 200
+Dealt to YL_ML_GL_42 [3h Js]
+*** PRE-FLOP *** 
+doudinhio folds
+YL_ML_GL_42 folds
+Pookiblinder folds
+CarlosIsGone raises 975 to 1175 and is all-in
+jm4cfly folds
+Sefyou1883 folds
+CarlosIsGone collected 1625 from pot
+*** SUMMARY ***
+Total pot 1625 | No rake
+Seat 6: CarlosIsGone (button) won 1625
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 29 - HandId: #2562274456823136645-8-1667852336 - Holdem no limit (25/100/200) - 2022/11/07 20:18:56 UTC
+Table: 'W POKUS Event 27(596576011)#0388' 6-max (real money) Seat #1 is the button
+Seat 1: jm4cfly (22958)
+Seat 2: Sefyou1883 (18217)
+Seat 3: doudinhio (19325)
+Seat 4: YL_ML_GL_42 (20000)
+Seat 5: Pookiblinder (18525)
+Seat 6: CarlosIsGone (1625)
+*** ANTE/BLINDS ***
+Sefyou1883 posts ante 25
+doudinhio posts ante 25
+jm4cfly posts ante 25
+YL_ML_GL_42 posts ante 25
+Pookiblinder posts ante 25
+CarlosIsGone posts ante 25
+Sefyou1883 posts small blind 100
+doudinhio posts big blind 200
+Dealt to YL_ML_GL_42 [6c 6d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 200 to 400
+Pookiblinder folds
+CarlosIsGone folds
+jm4cfly calls 400
+Sefyou1883 raises 800 to 1200
+doudinhio folds
+YL_ML_GL_42 folds
+jm4cfly calls 800
+*** FLOP *** [9d Ad Qc]
+Sefyou1883 checks
+jm4cfly checks
+*** TURN *** [9d Ad Qc][Ts]
+Sefyou1883 bets 1103
+jm4cfly calls 1103
+*** RIVER *** [9d Ad Qc Ts][5h]
+Sefyou1883 checks
+jm4cfly bets 4285
+Sefyou1883 calls 4285
+*** SHOW DOWN ***
+Sefyou1883 shows [Kh Kc] (One pair : Kings)
+jm4cfly shows [9h Tc] (Two pairs : Tens and 9)
+jm4cfly collected 13926 from pot
+*** SUMMARY ***
+Total pot 13926 | No rake
+Board: [9d Ad Qc Ts 5h]
+Seat 1: jm4cfly (button) showed [9h Tc] and won 13926 with Two pairs : Tens and 9
+Seat 2: Sefyou1883 (small blind) showed [Kh Kc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 29 - HandId: #2562274456823136645-9-1667852448 - Holdem no limit (25/100/200) - 2022/11/07 20:20:48 UTC
+Table: 'W POKUS Event 27(596576011)#0388' 6-max (real money) Seat #2 is the button
+Seat 1: jm4cfly (30271)
+Seat 2: Sefyou1883 (11604)
+Seat 3: doudinhio (19100)
+Seat 4: YL_ML_GL_42 (19575)
+Seat 5: Pookiblinder (18500)
+Seat 6: CarlosIsGone (1600)
+*** ANTE/BLINDS ***
+doudinhio posts ante 25
+YL_ML_GL_42 posts ante 25
+jm4cfly posts ante 25
+Sefyou1883 posts ante 25
+Pookiblinder posts ante 25
+CarlosIsGone posts ante 25
+doudinhio posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [2d Qd]
+*** PRE-FLOP *** 
+Pookiblinder folds
+CarlosIsGone folds
+jm4cfly folds
+Sefyou1883 raises 11379 to 11579 and is all-in
+doudinhio folds
+YL_ML_GL_42 folds
+Sefyou1883 collected 12029 from pot
+*** SUMMARY ***
+Total pot 12029 | No rake
+Seat 2: Sefyou1883 (button) won 12029
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 29 - HandId: #2562274456823136645-10-1667852492 - Holdem no limit (25/100/200) - 2022/11/07 20:21:32 UTC
+Table: 'W POKUS Event 27(596576011)#0388' 6-max (real money) Seat #3 is the button
+Seat 1: jm4cfly (30246)
+Seat 2: Sefyou1883 (12029)
+Seat 3: doudinhio (18975)
+Seat 4: YL_ML_GL_42 (19350)
+Seat 5: Pookiblinder (18475)
+Seat 6: CarlosIsGone (1575)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Pookiblinder posts ante 25
+jm4cfly posts ante 25
+Sefyou1883 posts ante 25
+doudinhio posts ante 25
+CarlosIsGone posts ante 25
+YL_ML_GL_42 posts small blind 100
+Pookiblinder posts big blind 200
+Dealt to YL_ML_GL_42 [9s 3h]
+*** PRE-FLOP *** 
+CarlosIsGone folds
+jm4cfly folds
+Sefyou1883 folds
+doudinhio raises 250 to 450
+YL_ML_GL_42 folds
+Pookiblinder folds
+doudinhio collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 3: doudinhio (button) won 900
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 29 - HandId: #2562274456823136645-11-1667852533 - Holdem no limit (25/100/200) - 2022/11/07 20:22:13 UTC
+Table: 'W POKUS Event 27(596576011)#0388' 6-max (real money) Seat #4 is the button
+Seat 1: jm4cfly (30221)
+Seat 2: Sefyou1883 (12004)
+Seat 3: doudinhio (19400)
+Seat 4: YL_ML_GL_42 (19225)
+Seat 5: Pookiblinder (18250)
+Seat 6: CarlosIsGone (1550)
+*** ANTE/BLINDS ***
+Pookiblinder posts ante 25
+CarlosIsGone posts ante 25
+jm4cfly posts ante 25
+Sefyou1883 posts ante 25
+doudinhio posts ante 25
+YL_ML_GL_42 posts ante 25
+Pookiblinder posts small blind 100
+CarlosIsGone posts big blind 200
+Dealt to YL_ML_GL_42 [5h 6h]
+*** PRE-FLOP *** 
+jm4cfly folds
+Sefyou1883 folds
+doudinhio folds
+YL_ML_GL_42 folds
+Pookiblinder folds
+CarlosIsGone collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 6: CarlosIsGone (big blind) won 450
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 29 - HandId: #2562274456823136645-12-1667852587 - Holdem no limit (25/100/200) - 2022/11/07 20:23:07 UTC
+Table: 'W POKUS Event 27(596576011)#0388' 6-max (real money) Seat #5 is the button
+Seat 1: jm4cfly (30196)
+Seat 2: Sefyou1883 (11979)
+Seat 3: doudinhio (19375)
+Seat 4: YL_ML_GL_42 (19200)
+Seat 5: Pookiblinder (18125)
+Seat 6: CarlosIsGone (1775)
+*** ANTE/BLINDS ***
+CarlosIsGone posts ante 25
+jm4cfly posts ante 25
+Sefyou1883 posts ante 25
+doudinhio posts ante 25
+YL_ML_GL_42 posts ante 25
+Pookiblinder posts ante 25
+CarlosIsGone posts small blind 100
+jm4cfly posts big blind 200
+Dealt to YL_ML_GL_42 [4c Qh]
+*** PRE-FLOP *** 
+Sefyou1883 folds
+doudinhio folds
+YL_ML_GL_42 folds
+Pookiblinder raises 300 to 500
+CarlosIsGone raises 1250 to 1750 and is all-in
+jm4cfly folds
+Pookiblinder calls 1250
+*** FLOP *** [8d Th 8s]
+*** TURN *** [8d Th 8s][7h]
+*** RIVER *** [8d Th 8s 7h][8h]
+*** SHOW DOWN ***
+CarlosIsGone shows [4d Kd] (Trips of 8)
+Pookiblinder shows [Ah 8c] (Quads of 8)
+Pookiblinder collected 3850 from pot
+*** SUMMARY ***
+Total pot 3850 | No rake
+Board: [8d Th 8s 7h 8h]
+Seat 5: Pookiblinder (button) showed [Ah 8c] and won 3850 with Quads of 8
+Seat 6: CarlosIsGone (small blind) showed [4d Kd] and lost with Trips of 8
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 29 - HandId: #2562274456823136645-13-1667852636 - Holdem no limit (25/100/200) - 2022/11/07 20:23:56 UTC
+Table: 'W POKUS Event 27(596576011)#0388' 6-max (real money) Seat #6 is the button
+Seat 1: jm4cfly (29971)
+Seat 2: Sefyou1883 (11954)
+Seat 3: doudinhio (19350)
+Seat 4: YL_ML_GL_42 (19175)
+Seat 5: Pookiblinder (20200)
+*** ANTE/BLINDS ***
+jm4cfly posts ante 25
+Sefyou1883 posts ante 25
+doudinhio posts ante 25
+YL_ML_GL_42 posts ante 25
+Pookiblinder posts ante 25
+jm4cfly posts small blind 100
+Sefyou1883 posts big blind 200
+Dealt to YL_ML_GL_42 [6h 9d]
+*** PRE-FLOP *** 
+doudinhio folds
+YL_ML_GL_42 folds
+Pookiblinder folds
+jm4cfly raises 300 to 500
+Sefyou1883 folds
+jm4cfly collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | No rake
+Seat 1: jm4cfly (small blind) won 825
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 29 - HandId: #2562274456823136645-14-1667852663 - Holdem no limit (25/100/200) - 2022/11/07 20:24:23 UTC
+Table: 'W POKUS Event 27(596576011)#0388' 6-max (real money) Seat #1 is the button
+Seat 1: jm4cfly (30271)
+Seat 2: Sefyou1883 (11729)
+Seat 3: doudinhio (19325)
+Seat 4: YL_ML_GL_42 (19150)
+Seat 5: Pookiblinder (20175)
+Seat 6: Rood Gun (20000)
+*** ANTE/BLINDS ***
+Sefyou1883 posts ante 25
+doudinhio posts ante 25
+jm4cfly posts ante 25
+YL_ML_GL_42 posts ante 25
+Pookiblinder posts ante 25
+Rood Gun posts ante 25
+Sefyou1883 posts small blind 100
+doudinhio posts big blind 200
+Dealt to YL_ML_GL_42 [Ts 9s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Pookiblinder raises 300 to 500
+Rood Gun folds
+jm4cfly folds
+Sefyou1883 folds
+doudinhio calls 300
+*** FLOP *** [5d 2d 8s]
+doudinhio checks
+Pookiblinder bets 438
+doudinhio folds
+Pookiblinder collected 1688 from pot
+*** SUMMARY ***
+Total pot 1688 | No rake
+Board: [5d 2d 8s]
+Seat 5: Pookiblinder won 1688
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2562274456823136645-15-1667852726 - Holdem no limit (30/125/250) - 2022/11/07 20:25:26 UTC
+Table: 'W POKUS Event 27(596576011)#0388' 6-max (real money) Seat #2 is the button
+Seat 1: jm4cfly (30246)
+Seat 2: Sefyou1883 (11604)
+Seat 3: doudinhio (18800)
+Seat 4: YL_ML_GL_42 (19125)
+Seat 5: Pookiblinder (20900)
+Seat 6: Rood Gun (19975)
+*** ANTE/BLINDS ***
+doudinhio posts ante 30
+YL_ML_GL_42 posts ante 30
+jm4cfly posts ante 30
+Sefyou1883 posts ante 30
+Pookiblinder posts ante 30
+Rood Gun posts ante 30
+doudinhio posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [6d 9d]
+*** PRE-FLOP *** 
+Pookiblinder raises 375 to 625
+Rood Gun folds
+jm4cfly folds
+Sefyou1883 folds
+doudinhio folds
+YL_ML_GL_42 calls 375
+*** FLOP *** [5d Kc 8c]
+YL_ML_GL_42 checks
+Pookiblinder bets 544
+YL_ML_GL_42 calls 544
+*** TURN *** [5d Kc 8c][Ah]
+YL_ML_GL_42 bets 1322
+Pookiblinder calls 1322
+*** RIVER *** [5d Kc 8c Ah][9c]
+YL_ML_GL_42 checks
+Pookiblinder bets 3437
+YL_ML_GL_42 raises 13167 to 16604 and is all-in
+Pookiblinder calls 13167
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [6d 9d] (One pair : 9)
+Pookiblinder shows [Qc Jc] (Flush King high)
+Pookiblinder collected 38495 from pot
+*** SUMMARY ***
+Total pot 38495 | No rake
+Board: [5d Kc 8c Ah 9c]
+Seat 4: YL_ML_GL_42 (big blind) showed [6d 9d] and lost with One pair : 9
+Seat 5: Pookiblinder showed [Qc Jc] and won 38495 with Flush King high
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2562274456823136646-12-1667852841 - Holdem no limit (30/125/250) - 2022/11/07 20:27:21 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #4 is the button
+Seat 1: El Bachar (33450)
+Seat 2: YL_ML_GL_42 (20000)
+Seat 3: Piltrafilla (37848)
+Seat 4: chinner38 (14315)
+Seat 5: JvTlAmAitre (20478)
+Seat 6: DB25 (22333)
+*** ANTE/BLINDS ***
+JvTlAmAitre posts ante 30
+DB25 posts ante 30
+El Bachar posts ante 30
+YL_ML_GL_42 posts ante 30
+Piltrafilla posts ante 30
+chinner38 posts ante 30
+JvTlAmAitre posts small blind 125
+DB25 posts big blind 250
+Dealt to YL_ML_GL_42 [2c Kc]
+*** PRE-FLOP *** 
+El Bachar folds
+YL_ML_GL_42 folds
+Piltrafilla folds
+chinner38 calls 250
+JvTlAmAitre calls 125
+DB25 checks
+*** FLOP *** [9s Jh Th]
+JvTlAmAitre checks
+DB25 checks
+chinner38 checks
+*** TURN *** [9s Jh Th][4h]
+JvTlAmAitre checks
+DB25 bets 500
+chinner38 calls 500
+JvTlAmAitre folds
+*** RIVER *** [9s Jh Th 4h][2h]
+DB25 checks
+chinner38 bets 1930
+DB25 folds
+chinner38 collected 3860 from pot
+*** SUMMARY ***
+Total pot 3860 | No rake
+Board: [9s Jh Th 4h 2h]
+Seat 4: chinner38 (button) won 3860
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2562274456823136646-13-1667852907 - Holdem no limit (30/125/250) - 2022/11/07 20:28:27 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #5 is the button
+Seat 1: El Bachar (33420)
+Seat 2: YL_ML_GL_42 (19970)
+Seat 3: Piltrafilla (37818)
+Seat 4: chinner38 (15465)
+Seat 5: JvTlAmAitre (20198)
+Seat 6: DB25 (21553)
+*** ANTE/BLINDS ***
+DB25 posts ante 30
+El Bachar posts ante 30
+YL_ML_GL_42 posts ante 30
+Piltrafilla posts ante 30
+chinner38 posts ante 30
+JvTlAmAitre posts ante 30
+DB25 posts small blind 125
+El Bachar posts big blind 250
+Dealt to YL_ML_GL_42 [As 8c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Piltrafilla folds
+chinner38 calls 250
+JvTlAmAitre folds
+DB25 raises 250 to 500
+El Bachar folds
+chinner38 calls 250
+*** FLOP *** [5s 6d 2s]
+DB25 checks
+chinner38 bets 500
+DB25 calls 500
+*** TURN *** [5s 6d 2s][8s]
+DB25 checks
+chinner38 checks
+*** RIVER *** [5s 6d 2s 8s][7s]
+DB25 checks
+chinner38 checks
+*** SHOW DOWN ***
+DB25 shows [Tc Kc] (High card : King)
+chinner38 shows [2h Qh] (One pair : 2)
+chinner38 collected 2430 from pot
+*** SUMMARY ***
+Total pot 2430 | No rake
+Board: [5s 6d 2s 8s 7s]
+Seat 4: chinner38 showed [2h Qh] and won 2430 with One pair : 2
+Seat 6: DB25 (small blind) showed [Tc Kc] and lost with High card : King
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2562274456823136646-14-1667852975 - Holdem no limit (30/125/250) - 2022/11/07 20:29:35 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #6 is the button
+Seat 1: El Bachar (33140)
+Seat 2: YL_ML_GL_42 (19940)
+Seat 3: Piltrafilla (37788)
+Seat 4: chinner38 (16865)
+Seat 5: JvTlAmAitre (20168)
+Seat 6: DB25 (20523)
+*** ANTE/BLINDS ***
+El Bachar posts ante 30
+YL_ML_GL_42 posts ante 30
+Piltrafilla posts ante 30
+chinner38 posts ante 30
+JvTlAmAitre posts ante 30
+DB25 posts ante 30
+El Bachar posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [9h Ac]
+*** PRE-FLOP *** 
+Piltrafilla folds
+chinner38 calls 250
+JvTlAmAitre raises 500 to 750
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 calls 500
+chinner38 calls 500
+*** FLOP *** [Jh 9s As]
+YL_ML_GL_42 checks
+chinner38 checks
+JvTlAmAitre checks
+*** TURN *** [Jh 9s As][3s]
+YL_ML_GL_42 bets 1278
+chinner38 folds
+JvTlAmAitre folds
+YL_ML_GL_42 collected 3833 from pot
+*** SUMMARY ***
+Total pot 3833 | No rake
+Board: [Jh 9s As 3s]
+Seat 2: YL_ML_GL_42 (big blind) won 3833
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2562274456823136646-15-1667853042 - Holdem no limit (35/150/300) - 2022/11/07 20:30:42 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #1 is the button
+Seat 1: El Bachar (32985)
+Seat 2: YL_ML_GL_42 (21715)
+Seat 3: Piltrafilla (37758)
+Seat 4: chinner38 (16085)
+Seat 5: JvTlAmAitre (19388)
+Seat 6: DB25 (20493)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+Piltrafilla posts ante 35
+El Bachar posts ante 35
+chinner38 posts ante 35
+JvTlAmAitre posts ante 35
+DB25 posts ante 35
+YL_ML_GL_42 posts small blind 150
+Piltrafilla posts big blind 300
+Dealt to YL_ML_GL_42 [Jd Kc]
+*** PRE-FLOP *** 
+chinner38 calls 300
+JvTlAmAitre raises 750 to 1050
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 calls 900
+Piltrafilla calls 750
+chinner38 calls 750
+*** FLOP *** [Ah Ad 8c]
+YL_ML_GL_42 checks
+Piltrafilla checks
+chinner38 bets 300
+JvTlAmAitre calls 300
+YL_ML_GL_42 folds
+Piltrafilla calls 300
+*** TURN *** [Ah Ad 8c][7s]
+Piltrafilla checks
+chinner38 checks
+JvTlAmAitre checks
+*** RIVER *** [Ah Ad 8c 7s][7c]
+Piltrafilla checks
+chinner38 bets 300
+JvTlAmAitre folds
+Piltrafilla folds
+chinner38 collected 5610 from pot
+*** SUMMARY ***
+Total pot 5610 | No rake
+Board: [Ah Ad 8c 7s 7c]
+Seat 4: chinner38 won 5610
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2562274456823136646-16-1667853128 - Holdem no limit (35/150/300) - 2022/11/07 20:32:08 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #2 is the button
+Seat 1: El Bachar (32950)
+Seat 2: YL_ML_GL_42 (20630)
+Seat 3: Piltrafilla (36373)
+Seat 4: chinner38 (20010)
+Seat 5: JvTlAmAitre (18003)
+Seat 6: DB25 (20458)
+*** ANTE/BLINDS ***
+Piltrafilla posts ante 35
+chinner38 posts ante 35
+El Bachar posts ante 35
+YL_ML_GL_42 posts ante 35
+JvTlAmAitre posts ante 35
+DB25 posts ante 35
+Piltrafilla posts small blind 150
+chinner38 posts big blind 300
+Dealt to YL_ML_GL_42 [3s 7c]
+*** PRE-FLOP *** 
+JvTlAmAitre folds
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 folds
+Piltrafilla folds
+chinner38 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 4: chinner38 (big blind) won 660
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2562274456823136646-17-1667853147 - Holdem no limit (35/150/300) - 2022/11/07 20:32:27 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #3 is the button
+Seat 1: El Bachar (32915)
+Seat 2: YL_ML_GL_42 (20595)
+Seat 3: Piltrafilla (36188)
+Seat 4: chinner38 (20335)
+Seat 5: JvTlAmAitre (17968)
+Seat 6: DB25 (20423)
+*** ANTE/BLINDS ***
+chinner38 posts ante 35
+JvTlAmAitre posts ante 35
+El Bachar posts ante 35
+YL_ML_GL_42 posts ante 35
+Piltrafilla posts ante 35
+DB25 posts ante 35
+chinner38 posts small blind 150
+JvTlAmAitre posts big blind 300
+Dealt to YL_ML_GL_42 [8c 7h]
+*** PRE-FLOP *** 
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 folds
+Piltrafilla folds
+chinner38 calls 150
+JvTlAmAitre raises 600 to 900
+chinner38 calls 600
+*** FLOP *** [Kd Ks 4c]
+chinner38 checks
+JvTlAmAitre bets 704
+chinner38 calls 704
+*** TURN *** [Kd Ks 4c][9d]
+chinner38 checks
+JvTlAmAitre bets 1196
+chinner38 calls 1196
+*** RIVER *** [Kd Ks 4c 9d][Jc]
+chinner38 bets 17500 and is all-in
+JvTlAmAitre folds
+chinner38 collected 23310 from pot
+*** SUMMARY ***
+Total pot 23310 | No rake
+Board: [Kd Ks 4c 9d Jc]
+Seat 4: chinner38 (small blind) won 23310
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2562274456823136646-18-1667853217 - Holdem no limit (35/150/300) - 2022/11/07 20:33:37 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #4 is the button
+Seat 1: El Bachar (32880)
+Seat 2: YL_ML_GL_42 (20560)
+Seat 3: Piltrafilla (36153)
+Seat 4: chinner38 (23310)
+Seat 5: JvTlAmAitre (15133)
+Seat 6: DB25 (20388)
+*** ANTE/BLINDS ***
+JvTlAmAitre posts ante 35
+DB25 posts ante 35
+El Bachar posts ante 35
+YL_ML_GL_42 posts ante 35
+Piltrafilla posts ante 35
+chinner38 posts ante 35
+JvTlAmAitre posts small blind 150
+DB25 posts big blind 300
+Dealt to YL_ML_GL_42 [2d 5c]
+*** PRE-FLOP *** 
+El Bachar folds
+YL_ML_GL_42 folds
+Piltrafilla folds
+chinner38 calls 300
+JvTlAmAitre calls 150
+DB25 checks
+*** FLOP *** [9h Ac Qd]
+JvTlAmAitre checks
+DB25 checks
+chinner38 checks
+*** TURN *** [9h Ac Qd][Th]
+JvTlAmAitre checks
+DB25 checks
+chinner38 bets 300
+JvTlAmAitre folds
+DB25 calls 300
+*** RIVER *** [9h Ac Qd Th][Qc]
+DB25 checks
+chinner38 checks
+*** SHOW DOWN ***
+chinner38 shows [Js 5d] (One pair : Queens)
+DB25 shows [Kc 2h] (One pair : Queens)
+DB25 collected 1710 from pot
+*** SUMMARY ***
+Total pot 1710 | No rake
+Board: [9h Ac Qd Th Qc]
+Seat 4: chinner38 (button) showed [Js 5d] and lost with One pair : Queens
+Seat 6: DB25 (big blind) showed [Kc 2h] and won 1710 with One pair : Queens
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2562274456823136646-19-1667853268 - Holdem no limit (35/150/300) - 2022/11/07 20:34:28 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #5 is the button
+Seat 1: El Bachar (32845)
+Seat 2: YL_ML_GL_42 (20525)
+Seat 3: Piltrafilla (36118)
+Seat 4: chinner38 (22675)
+Seat 5: JvTlAmAitre (14798)
+Seat 6: DB25 (21463)
+*** ANTE/BLINDS ***
+DB25 posts ante 35
+El Bachar posts ante 35
+YL_ML_GL_42 posts ante 35
+Piltrafilla posts ante 35
+chinner38 posts ante 35
+JvTlAmAitre posts ante 35
+DB25 posts small blind 150
+El Bachar posts big blind 300
+Dealt to YL_ML_GL_42 [Qs 2h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Piltrafilla raises 450 to 750
+chinner38 calls 750
+JvTlAmAitre folds
+DB25 folds
+El Bachar folds
+*** FLOP *** [As Kh Js]
+Piltrafilla bets 1200
+chinner38 calls 1200
+*** TURN *** [As Kh Js][Ah]
+Piltrafilla bets 2964
+chinner38 folds
+Piltrafilla collected 7524 from pot
+*** SUMMARY ***
+Total pot 7524 | No rake
+Board: [As Kh Js Ah]
+Seat 3: Piltrafilla won 7524
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2562274456823136646-20-1667853320 - Holdem no limit (35/150/300) - 2022/11/07 20:35:20 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #6 is the button
+Seat 1: El Bachar (32510)
+Seat 2: YL_ML_GL_42 (20490)
+Seat 3: Piltrafilla (38693)
+Seat 4: chinner38 (20690)
+Seat 5: JvTlAmAitre (14763)
+Seat 6: DB25 (21278)
+*** ANTE/BLINDS ***
+El Bachar posts ante 35
+YL_ML_GL_42 posts ante 35
+Piltrafilla posts ante 35
+chinner38 posts ante 35
+JvTlAmAitre posts ante 35
+DB25 posts ante 35
+El Bachar posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [9c Jh]
+*** PRE-FLOP *** 
+Piltrafilla folds
+chinner38 calls 300
+JvTlAmAitre folds
+DB25 raises 1260 to 1560
+El Bachar folds
+YL_ML_GL_42 folds
+chinner38 calls 1260
+*** FLOP *** [Kh Tc Kc]
+chinner38 checks
+DB25 bets 1323
+chinner38 folds
+DB25 collected 5103 from pot
+*** SUMMARY ***
+Total pot 5103 | No rake
+Board: [Kh Tc Kc]
+Seat 6: DB25 (button) won 5103
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2562274456823136646-21-1667853352 - Holdem no limit (40/175/350) - 2022/11/07 20:35:52 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #1 is the button
+Seat 1: El Bachar (32325)
+Seat 2: YL_ML_GL_42 (20155)
+Seat 3: Piltrafilla (38658)
+Seat 4: chinner38 (19095)
+Seat 5: JvTlAmAitre (14728)
+Seat 6: DB25 (23463)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 40
+Piltrafilla posts ante 40
+El Bachar posts ante 40
+chinner38 posts ante 40
+JvTlAmAitre posts ante 40
+DB25 posts ante 40
+YL_ML_GL_42 posts small blind 175
+Piltrafilla posts big blind 350
+Dealt to YL_ML_GL_42 [As Tc]
+*** PRE-FLOP *** 
+chinner38 calls 350
+JvTlAmAitre calls 350
+DB25 raises 700 to 1050
+El Bachar folds
+YL_ML_GL_42 calls 875
+Piltrafilla folds
+chinner38 calls 700
+JvTlAmAitre calls 700
+*** FLOP *** [3s Td 9c]
+YL_ML_GL_42 bets 3114
+chinner38 folds
+JvTlAmAitre calls 3114
+DB25 folds
+*** TURN *** [3s Td 9c][Ts]
+YL_ML_GL_42 checks
+JvTlAmAitre checks
+*** RIVER *** [3s Td 9c Ts][5s]
+YL_ML_GL_42 bets 7162
+JvTlAmAitre folds
+YL_ML_GL_42 collected 18180 from pot
+*** SUMMARY ***
+Total pot 18180 | No rake
+Board: [3s Td 9c Ts 5s]
+Seat 2: YL_ML_GL_42 (small blind) won 18180
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2562274456823136646-22-1667853425 - Holdem no limit (40/175/350) - 2022/11/07 20:37:05 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #2 is the button
+Seat 1: El Bachar (32285)
+Seat 2: YL_ML_GL_42 (26969)
+Seat 3: Piltrafilla (38268)
+Seat 4: chinner38 (18005)
+Seat 5: JvTlAmAitre (10524)
+Seat 6: DB25 (22373)
+*** ANTE/BLINDS ***
+Piltrafilla posts ante 40
+chinner38 posts ante 40
+El Bachar posts ante 40
+YL_ML_GL_42 posts ante 40
+JvTlAmAitre posts ante 40
+DB25 posts ante 40
+Piltrafilla posts small blind 175
+chinner38 posts big blind 350
+Dealt to YL_ML_GL_42 [Kc 9c]
+*** PRE-FLOP *** 
+JvTlAmAitre folds
+DB25 folds
+El Bachar raises 350 to 700
+YL_ML_GL_42 calls 700
+Piltrafilla calls 525
+chinner38 calls 350
+*** FLOP *** [5d Qd Td]
+Piltrafilla checks
+chinner38 checks
+El Bachar checks
+YL_ML_GL_42 checks
+*** TURN *** [5d Qd Td][Jd]
+Piltrafilla checks
+chinner38 checks
+El Bachar checks
+YL_ML_GL_42 checks
+*** RIVER *** [5d Qd Td Jd][3h]
+Piltrafilla checks
+chinner38 checks
+El Bachar checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kc 9c] (Straight King high)
+Piltrafilla shows [Tc Js] (Two pairs : Jacks and Tens)
+chinner38 shows [7s Ac] (High card : Ace)
+El Bachar shows [Kh Ah] (Straight Ace high)
+El Bachar collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Board: [5d Qd Td Jd 3h]
+Seat 1: El Bachar showed [Kh Ah] and won 3040 with Straight Ace high
+Seat 2: YL_ML_GL_42 (button) showed [Kc 9c] and lost with Straight King high
+Seat 3: Piltrafilla (small blind) showed [Tc Js] and lost with Two pairs : Jacks and Tens
+Seat 4: chinner38 (big blind) showed [7s Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2562274456823136646-23-1667853507 - Holdem no limit (40/175/350) - 2022/11/07 20:38:27 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #3 is the button
+Seat 1: El Bachar (34585)
+Seat 2: YL_ML_GL_42 (26229)
+Seat 3: Piltrafilla (37528)
+Seat 4: chinner38 (17265)
+Seat 5: JvTlAmAitre (10484)
+Seat 6: DB25 (22333)
+*** ANTE/BLINDS ***
+chinner38 posts ante 40
+JvTlAmAitre posts ante 40
+El Bachar posts ante 40
+YL_ML_GL_42 posts ante 40
+Piltrafilla posts ante 40
+DB25 posts ante 40
+chinner38 posts small blind 175
+JvTlAmAitre posts big blind 350
+Dealt to YL_ML_GL_42 [Tc 6h]
+*** PRE-FLOP *** 
+DB25 raises 1115 to 1465
+El Bachar folds
+YL_ML_GL_42 folds
+Piltrafilla calls 1465
+chinner38 calls 1290
+JvTlAmAitre folds
+*** FLOP *** [Ah 7d Ts]
+chinner38 checks
+DB25 bets 1745
+Piltrafilla calls 1745
+chinner38 folds
+*** TURN *** [Ah 7d Ts][2c]
+DB25 checks
+Piltrafilla bets 4200
+DB25 folds
+Piltrafilla collected 12675 from pot
+*** SUMMARY ***
+Total pot 12675 | No rake
+Board: [Ah 7d Ts 2c]
+Seat 3: Piltrafilla (button) won 12675
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2562274456823136646-24-1667853578 - Holdem no limit (40/175/350) - 2022/11/07 20:39:38 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #4 is the button
+Seat 1: El Bachar (34545)
+Seat 2: YL_ML_GL_42 (26189)
+Seat 3: Piltrafilla (42753)
+Seat 4: chinner38 (15760)
+Seat 5: JvTlAmAitre (10094)
+Seat 6: DB25 (19083)
+*** ANTE/BLINDS ***
+JvTlAmAitre posts ante 40
+DB25 posts ante 40
+El Bachar posts ante 40
+YL_ML_GL_42 posts ante 40
+Piltrafilla posts ante 40
+chinner38 posts ante 40
+JvTlAmAitre posts small blind 175
+DB25 posts big blind 350
+Dealt to YL_ML_GL_42 [3s Ac]
+*** PRE-FLOP *** 
+El Bachar folds
+YL_ML_GL_42 raises 350 to 700
+Piltrafilla raises 1050 to 1750
+chinner38 folds
+JvTlAmAitre folds
+DB25 folds
+YL_ML_GL_42 calls 1050
+*** FLOP *** [Ts Jc Jd]
+YL_ML_GL_42 checks
+Piltrafilla checks
+*** TURN *** [Ts Jc Jd][7d]
+YL_ML_GL_42 checks
+Piltrafilla bets 2100
+YL_ML_GL_42 folds
+Piltrafilla collected 6365 from pot
+*** SUMMARY ***
+Total pot 6365 | No rake
+Board: [Ts Jc Jd 7d]
+Seat 3: Piltrafilla won 6365
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2562274456823136646-25-1667853654 - Holdem no limit (50/200/400) - 2022/11/07 20:40:54 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #5 is the button
+Seat 1: El Bachar (34505)
+Seat 2: YL_ML_GL_42 (24399)
+Seat 3: Piltrafilla (45228)
+Seat 4: chinner38 (15720)
+Seat 5: JvTlAmAitre (9879)
+Seat 6: DB25 (18693)
+*** ANTE/BLINDS ***
+DB25 posts ante 50
+El Bachar posts ante 50
+YL_ML_GL_42 posts ante 50
+Piltrafilla posts ante 50
+chinner38 posts ante 50
+JvTlAmAitre posts ante 50
+DB25 posts small blind 200
+El Bachar posts big blind 400
+Dealt to YL_ML_GL_42 [Ad Js]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 400 to 800
+Piltrafilla calls 800
+chinner38 calls 800
+JvTlAmAitre folds
+DB25 calls 600
+El Bachar folds
+*** FLOP *** [5s Qd Jd]
+DB25 checks
+YL_ML_GL_42 checks
+Piltrafilla bets 1365
+chinner38 calls 1365
+DB25 folds
+YL_ML_GL_42 calls 1365
+*** TURN *** [5s Qd Jd][4d]
+YL_ML_GL_42 checks
+Piltrafilla bets 2798
+chinner38 calls 2798
+YL_ML_GL_42 calls 2798
+*** RIVER *** [5s Qd Jd 4d][9c]
+YL_ML_GL_42 checks
+Piltrafilla checks
+chinner38 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ad Js] (One pair : Jacks)
+chinner38 shows [Td Ah] (High card : Ace)
+Piltrafilla shows [Qc Kd] (One pair : Queens)
+Piltrafilla collected 16389 from pot
+*** SUMMARY ***
+Total pot 16389 | No rake
+Board: [5s Qd Jd 4d 9c]
+Seat 2: YL_ML_GL_42 showed [Ad Js] and lost with One pair : Jacks
+Seat 3: Piltrafilla showed [Qc Kd] and won 16389 with One pair : Queens
+Seat 4: chinner38 showed [Td Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2562274456823136646-26-1667853779 - Holdem no limit (50/200/400) - 2022/11/07 20:42:59 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #6 is the button
+Seat 1: El Bachar (34055)
+Seat 2: YL_ML_GL_42 (19386)
+Seat 3: Piltrafilla (56604)
+Seat 4: chinner38 (10707)
+Seat 5: JvTlAmAitre (9829)
+Seat 6: DB25 (17843)
+*** ANTE/BLINDS ***
+El Bachar posts ante 50
+YL_ML_GL_42 posts ante 50
+Piltrafilla posts ante 50
+chinner38 posts ante 50
+JvTlAmAitre posts ante 50
+DB25 posts ante 50
+El Bachar posts small blind 200
+YL_ML_GL_42 posts big blind 400
+Dealt to YL_ML_GL_42 [Tc 7s]
+*** PRE-FLOP *** 
+Piltrafilla folds
+chinner38 calls 400
+JvTlAmAitre folds
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 checks
+*** FLOP *** [Ah 8d Kc]
+YL_ML_GL_42 checks
+chinner38 bets 400
+YL_ML_GL_42 folds
+chinner38 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Board: [Ah 8d Kc]
+Seat 4: chinner38 won 1700
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2562274456823136646-27-1667853798 - Holdem no limit (50/200/400) - 2022/11/07 20:43:18 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #1 is the button
+Seat 1: El Bachar (33805)
+Seat 2: YL_ML_GL_42 (18936)
+Seat 3: Piltrafilla (56554)
+Seat 4: chinner38 (11557)
+Seat 5: JvTlAmAitre (9779)
+Seat 6: DB25 (17793)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 50
+Piltrafilla posts ante 50
+El Bachar posts ante 50
+chinner38 posts ante 50
+JvTlAmAitre posts ante 50
+DB25 posts ante 50
+YL_ML_GL_42 posts small blind 200
+Piltrafilla posts big blind 400
+Dealt to YL_ML_GL_42 [8s Th]
+*** PRE-FLOP *** 
+chinner38 folds
+JvTlAmAitre folds
+DB25 raises 600 to 1000
+El Bachar folds
+YL_ML_GL_42 folds
+Piltrafilla folds
+DB25 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 6: DB25 won 1900
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2562274456823136646-28-1667853816 - Holdem no limit (50/200/400) - 2022/11/07 20:43:36 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #2 is the button
+Seat 1: El Bachar (33755)
+Seat 2: YL_ML_GL_42 (18686)
+Seat 3: Piltrafilla (56104)
+Seat 4: chinner38 (11507)
+Seat 5: JvTlAmAitre (9729)
+Seat 6: DB25 (18643)
+*** ANTE/BLINDS ***
+Piltrafilla posts ante 50
+chinner38 posts ante 50
+El Bachar posts ante 50
+YL_ML_GL_42 posts ante 50
+JvTlAmAitre posts ante 50
+DB25 posts ante 50
+Piltrafilla posts small blind 200
+chinner38 posts big blind 400
+Dealt to YL_ML_GL_42 [8h 8d]
+*** PRE-FLOP *** 
+JvTlAmAitre raises 9279 to 9679 and is all-in
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 calls 9679
+Piltrafilla folds
+chinner38 folds
+*** FLOP *** [5c 4d Ks]
+*** TURN *** [5c 4d Ks][As]
+*** RIVER *** [5c 4d Ks As][8c]
+*** SHOW DOWN ***
+JvTlAmAitre shows [7c Ah] (One pair : Aces)
+YL_ML_GL_42 shows [8h 8d] (Trips of 8)
+YL_ML_GL_42 collected 20258 from pot
+*** SUMMARY ***
+Total pot 20258 | No rake
+Board: [5c 4d Ks As 8c]
+Seat 2: YL_ML_GL_42 (button) showed [8h 8d] and won 20258 with Trips of 8
+Seat 5: JvTlAmAitre showed [7c Ah] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2562274456823136646-29-1667853860 - Holdem no limit (50/200/400) - 2022/11/07 20:44:20 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #3 is the button
+Seat 1: El Bachar (33705)
+Seat 2: YL_ML_GL_42 (29215)
+Seat 3: Piltrafilla (55854)
+Seat 4: chinner38 (11057)
+Seat 6: DB25 (18593)
+*** ANTE/BLINDS ***
+chinner38 posts ante 50
+DB25 posts ante 50
+El Bachar posts ante 50
+YL_ML_GL_42 posts ante 50
+Piltrafilla posts ante 50
+chinner38 posts small blind 200
+DB25 posts big blind 400
+Dealt to YL_ML_GL_42 [Ad 3d]
+*** PRE-FLOP *** 
+El Bachar folds
+YL_ML_GL_42 raises 400 to 800
+Piltrafilla folds
+chinner38 raises 10207 to 11007 and is all-in
+DB25 folds
+YL_ML_GL_42 folds
+chinner38 collected 12457 from pot
+*** SUMMARY ***
+Total pot 12457 | No rake
+Seat 4: chinner38 (small blind) won 12457
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2562274456823136646-30-1667853923 - Holdem no limit (60/250/500) - 2022/11/07 20:45:23 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #4 is the button
+Seat 1: El Bachar (33655)
+Seat 2: YL_ML_GL_42 (28365)
+Seat 3: Piltrafilla (55804)
+Seat 4: chinner38 (12457)
+Seat 5: Fobos (20000)
+Seat 6: DB25 (18143)
+*** ANTE/BLINDS ***
+DB25 posts ante 60
+El Bachar posts ante 60
+YL_ML_GL_42 posts ante 60
+Piltrafilla posts ante 60
+chinner38 posts ante 60
+DB25 posts small blind 250
+El Bachar posts big blind 500
+Dealt to YL_ML_GL_42 [2h 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Piltrafilla raises 750 to 1250
+chinner38 folds
+DB25 folds
+El Bachar folds
+Piltrafilla collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Seat 3: Piltrafilla won 2300
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2562274456823136646-31-1667853951 - Holdem no limit (60/250/500) - 2022/11/07 20:45:51 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #6 is the button
+Seat 1: El Bachar (33095)
+Seat 2: YL_ML_GL_42 (28305)
+Seat 3: Piltrafilla (56794)
+Seat 4: chinner38 (12397)
+Seat 5: Fobos (20000)
+Seat 6: DB25 (17833)
+*** ANTE/BLINDS ***
+El Bachar posts ante 60
+YL_ML_GL_42 posts ante 60
+Piltrafilla posts ante 60
+chinner38 posts ante 60
+Fobos posts ante 60
+DB25 posts ante 60
+El Bachar posts small blind 250
+YL_ML_GL_42 posts big blind 500
+Dealt to YL_ML_GL_42 [7d 7c]
+*** PRE-FLOP *** 
+Piltrafilla raises 750 to 1250
+chinner38 calls 1250
+Fobos calls 1250
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 calls 750
+*** FLOP *** [9d 5s Kd]
+YL_ML_GL_42 checks
+Piltrafilla checks
+chinner38 bets 11087 and is all-in
+Fobos folds
+YL_ML_GL_42 folds
+Piltrafilla folds
+chinner38 collected 16697 from pot
+*** SUMMARY ***
+Total pot 16697 | No rake
+Board: [9d 5s Kd]
+Seat 4: chinner38 won 16697
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2562274456823136646-32-1667854039 - Holdem no limit (60/250/500) - 2022/11/07 20:47:19 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #1 is the button
+Seat 1: El Bachar (32785)
+Seat 2: YL_ML_GL_42 (26995)
+Seat 3: Piltrafilla (55484)
+Seat 4: chinner38 (16697)
+Seat 5: Fobos (18690)
+Seat 6: DB25 (17773)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+Piltrafilla posts ante 60
+El Bachar posts ante 60
+chinner38 posts ante 60
+Fobos posts ante 60
+DB25 posts ante 60
+YL_ML_GL_42 posts small blind 250
+Piltrafilla posts big blind 500
+Dealt to YL_ML_GL_42 [Qd Ah]
+*** PRE-FLOP *** 
+chinner38 calls 500
+Fobos folds
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 raises 1000 to 1500
+Piltrafilla calls 1000
+chinner38 calls 1000
+*** FLOP *** [9c 3s 2d]
+YL_ML_GL_42 checks
+Piltrafilla bets 1701
+chinner38 calls 1701
+YL_ML_GL_42 folds
+*** TURN *** [9c 3s 2d][5c]
+Piltrafilla bets 4000
+chinner38 raises 9436 to 13436 and is all-in
+Piltrafilla calls 9436
+*** RIVER *** [9c 3s 2d 5c][Qs]
+*** SHOW DOWN ***
+Piltrafilla shows [5h 9h] (Two pairs : 9 and 5)
+chinner38 shows [9d Qh] (Two pairs : Queens and 9)
+chinner38 collected 35134 from pot
+*** SUMMARY ***
+Total pot 35134 | No rake
+Board: [9c 3s 2d 5c Qs]
+Seat 3: Piltrafilla (big blind) showed [5h 9h] and lost with Two pairs : 9 and 5
+Seat 4: chinner38 showed [9d Qh] and won 35134 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2562274456823136646-33-1667854125 - Holdem no limit (60/250/500) - 2022/11/07 20:48:45 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #2 is the button
+Seat 1: El Bachar (32725)
+Seat 2: YL_ML_GL_42 (25435)
+Seat 3: Piltrafilla (38787)
+Seat 4: chinner38 (35134)
+Seat 5: Fobos (18630)
+Seat 6: DB25 (17713)
+*** ANTE/BLINDS ***
+Piltrafilla posts ante 60
+chinner38 posts ante 60
+El Bachar posts ante 60
+YL_ML_GL_42 posts ante 60
+Fobos posts ante 60
+DB25 posts ante 60
+Piltrafilla posts small blind 250
+chinner38 posts big blind 500
+Dealt to YL_ML_GL_42 [4h 8h]
+*** PRE-FLOP *** 
+Fobos folds
+DB25 raises 500 to 1000
+El Bachar folds
+YL_ML_GL_42 folds
+Piltrafilla folds
+chinner38 calls 500
+*** FLOP *** [3s 8c 3c]
+chinner38 checks
+DB25 bets 1305
+chinner38 folds
+DB25 collected 3915 from pot
+*** SUMMARY ***
+Total pot 3915 | No rake
+Board: [3s 8c 3c]
+Seat 6: DB25 won 3915
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2562274456823136646-34-1667854150 - Holdem no limit (60/250/500) - 2022/11/07 20:49:10 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #3 is the button
+Seat 1: El Bachar (32665)
+Seat 2: YL_ML_GL_42 (25375)
+Seat 3: Piltrafilla (38477)
+Seat 4: chinner38 (34074)
+Seat 5: Fobos (18570)
+Seat 6: DB25 (19263)
+*** ANTE/BLINDS ***
+chinner38 posts ante 60
+Fobos posts ante 60
+El Bachar posts ante 60
+YL_ML_GL_42 posts ante 60
+Piltrafilla posts ante 60
+DB25 posts ante 60
+chinner38 posts small blind 250
+Fobos posts big blind 500
+Dealt to YL_ML_GL_42 [6d 6s]
+*** PRE-FLOP *** 
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 raises 500 to 1000
+Piltrafilla calls 1000
+chinner38 folds
+Fobos raises 4500 to 5500
+YL_ML_GL_42 folds
+Piltrafilla folds
+Fobos collected 8110 from pot
+*** SUMMARY ***
+Total pot 8110 | No rake
+Seat 5: Fobos (big blind) won 8110
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2562274456823136646-35-1667854228 - Holdem no limit (70/300/600) - 2022/11/07 20:50:28 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #4 is the button
+Seat 1: El Bachar (32605)
+Seat 2: YL_ML_GL_42 (24315)
+Seat 3: Piltrafilla (37417)
+Seat 4: chinner38 (33764)
+Seat 5: Fobos (21120)
+Seat 6: DB25 (19203)
+*** ANTE/BLINDS ***
+Fobos posts ante 70
+DB25 posts ante 70
+El Bachar posts ante 70
+YL_ML_GL_42 posts ante 70
+Piltrafilla posts ante 70
+chinner38 posts ante 70
+Fobos posts small blind 300
+DB25 posts big blind 600
+Dealt to YL_ML_GL_42 [7s 4s]
+*** PRE-FLOP *** 
+El Bachar folds
+YL_ML_GL_42 folds
+Piltrafilla folds
+chinner38 calls 600
+Fobos calls 300
+DB25 checks
+*** FLOP *** [As 8s Kc]
+Fobos checks
+DB25 checks
+chinner38 checks
+*** TURN *** [As 8s Kc][Ks]
+Fobos bets 1110
+DB25 folds
+chinner38 folds
+Fobos collected 3330 from pot
+*** SUMMARY ***
+Total pot 3330 | No rake
+Board: [As 8s Kc Ks]
+Seat 5: Fobos (small blind) won 3330
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2562274456823136646-36-1667854256 - Holdem no limit (70/300/600) - 2022/11/07 20:50:56 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #5 is the button
+Seat 1: El Bachar (32535)
+Seat 2: YL_ML_GL_42 (24245)
+Seat 3: Piltrafilla (37347)
+Seat 4: chinner38 (33094)
+Seat 5: Fobos (22670)
+Seat 6: DB25 (18533)
+*** ANTE/BLINDS ***
+DB25 posts ante 70
+El Bachar posts ante 70
+YL_ML_GL_42 posts ante 70
+Piltrafilla posts ante 70
+chinner38 posts ante 70
+Fobos posts ante 70
+DB25 posts small blind 300
+El Bachar posts big blind 600
+Dealt to YL_ML_GL_42 [9s As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 600 to 1200
+Piltrafilla calls 1200
+chinner38 folds
+Fobos folds
+DB25 folds
+El Bachar folds
+*** FLOP *** [7d Qc Th]
+YL_ML_GL_42 bets 1860
+Piltrafilla calls 1860
+*** TURN *** [7d Qc Th][9h]
+YL_ML_GL_42 bets 3720
+Piltrafilla calls 3720
+*** RIVER *** [7d Qc Th 9h][4c]
+YL_ML_GL_42 bets 17395 and is all-in
+Piltrafilla folds
+YL_ML_GL_42 collected 32275 from pot
+*** SUMMARY ***
+Total pot 32275 | No rake
+Board: [7d Qc Th 9h 4c]
+Seat 2: YL_ML_GL_42 won 32275
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2562274456823136646-37-1667854340 - Holdem no limit (70/300/600) - 2022/11/07 20:52:20 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #6 is the button
+Seat 1: El Bachar (31865)
+Seat 2: YL_ML_GL_42 (32275)
+Seat 3: Piltrafilla (30497)
+Seat 4: chinner38 (33024)
+Seat 5: Fobos (22600)
+Seat 6: DB25 (18163)
+*** ANTE/BLINDS ***
+El Bachar posts ante 70
+YL_ML_GL_42 posts ante 70
+Piltrafilla posts ante 70
+chinner38 posts ante 70
+Fobos posts ante 70
+DB25 posts ante 70
+El Bachar posts small blind 300
+YL_ML_GL_42 posts big blind 600
+Dealt to YL_ML_GL_42 [Qc 8c]
+*** PRE-FLOP *** 
+Piltrafilla calls 600
+chinner38 folds
+Fobos folds
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 checks
+*** FLOP *** [Ah Qd 8h]
+YL_ML_GL_42 checks
+Piltrafilla bets 672
+YL_ML_GL_42 calls 672
+*** TURN *** [Ah Qd 8h][2h]
+YL_ML_GL_42 checks
+Piltrafilla bets 1500
+YL_ML_GL_42 calls 1500
+*** RIVER *** [Ah Qd 8h 2h][7d]
+YL_ML_GL_42 bets 1566
+Piltrafilla calls 1566
+*** SHOW DOWN ***
+Piltrafilla shows [9c Ac] (One pair : Aces)
+YL_ML_GL_42 shows [Qc 8c] (Two pairs : Queens and 8)
+YL_ML_GL_42 collected 9396 from pot
+*** SUMMARY ***
+Total pot 9396 | No rake
+Board: [Ah Qd 8h 2h 7d]
+Seat 2: YL_ML_GL_42 (big blind) showed [Qc 8c] and won 9396 with Two pairs : Queens and 8
+Seat 3: Piltrafilla showed [9c Ac] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2562274456823136646-38-1667854443 - Holdem no limit (70/300/600) - 2022/11/07 20:54:03 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #1 is the button
+Seat 1: El Bachar (31495)
+Seat 2: YL_ML_GL_42 (37263)
+Seat 3: Piltrafilla (26089)
+Seat 4: chinner38 (32954)
+Seat 5: Fobos (22530)
+Seat 6: DB25 (18093)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 70
+Piltrafilla posts ante 70
+El Bachar posts ante 70
+chinner38 posts ante 70
+Fobos posts ante 70
+DB25 posts ante 70
+YL_ML_GL_42 posts small blind 300
+Piltrafilla posts big blind 600
+Dealt to YL_ML_GL_42 [5c 2s]
+*** PRE-FLOP *** 
+chinner38 calls 600
+Fobos folds
+DB25 calls 600
+El Bachar raises 3120 to 3720
+YL_ML_GL_42 folds
+Piltrafilla folds
+chinner38 folds
+DB25 folds
+El Bachar collected 6240 from pot
+*** SUMMARY ***
+Total pot 6240 | No rake
+Seat 1: El Bachar (button) won 6240
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2562274456823136646-39-1667854480 - Holdem no limit (70/300/600) - 2022/11/07 20:54:40 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #2 is the button
+Seat 1: El Bachar (33945)
+Seat 2: YL_ML_GL_42 (36893)
+Seat 3: Piltrafilla (25419)
+Seat 4: chinner38 (32284)
+Seat 5: Fobos (22460)
+Seat 6: DB25 (17423)
+*** ANTE/BLINDS ***
+Piltrafilla posts ante 70
+chinner38 posts ante 70
+El Bachar posts ante 70
+YL_ML_GL_42 posts ante 70
+Fobos posts ante 70
+DB25 posts ante 70
+Piltrafilla posts small blind 300
+chinner38 posts big blind 600
+Dealt to YL_ML_GL_42 [7h 5s]
+*** PRE-FLOP *** 
+Fobos folds
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 folds
+Piltrafilla raises 900 to 1500
+chinner38 calls 900
+*** FLOP *** [4h Qh 7d]
+Piltrafilla bets 1500
+chinner38 calls 1500
+*** TURN *** [4h Qh 7d][3h]
+Piltrafilla bets 3300
+chinner38 calls 3300
+*** RIVER *** [4h Qh 7d 3h][3d]
+Piltrafilla bets 8463
+chinner38 calls 8463
+*** SHOW DOWN ***
+Piltrafilla shows [Qc 9s] (Two pairs : Queens and 3)
+chinner38 shows [Qs Kh] (Two pairs : Queens and 3)
+chinner38 collected 29946 from pot
+*** SUMMARY ***
+Total pot 29946 | No rake
+Board: [4h Qh 7d 3h 3d]
+Seat 3: Piltrafilla (small blind) showed [Qc 9s] and lost with Two pairs : Queens and 3
+Seat 4: chinner38 (big blind) showed [Qs Kh] and won 29946 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2562274456823136646-40-1667854866 - Holdem no limit (70/300/600) - 2022/11/07 21:01:06 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #3 is the button
+Seat 1: El Bachar (33875)
+Seat 2: YL_ML_GL_42 (36823)
+Seat 3: Piltrafilla (10586)
+Seat 4: chinner38 (47397)
+Seat 5: Fobos (22390)
+Seat 6: DB25 (17353)
+*** ANTE/BLINDS ***
+chinner38 posts ante 70
+Fobos posts ante 70
+El Bachar posts ante 70
+YL_ML_GL_42 posts ante 70
+Piltrafilla posts ante 70
+DB25 posts ante 70
+chinner38 posts small blind 300
+Fobos posts big blind 600
+Dealt to YL_ML_GL_42 [3h 8d]
+*** PRE-FLOP *** 
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 folds
+Piltrafilla raises 900 to 1500
+chinner38 calls 1200
+Fobos raises 5100 to 6600
+Piltrafilla raises 3916 to 10516 and is all-in
+chinner38 calls 9016
+Fobos calls 3916
+*** FLOP *** [Kh Jh Js]
+chinner38 checks
+Fobos bets 11804 and is all-in
+chinner38 folds
+*** TURN *** [Kh Jh Js][2d]
+*** RIVER *** [Kh Jh Js 2d][5s]
+*** SHOW DOWN ***
+Piltrafilla shows [Tc 9c] (One pair : Jacks)
+Fobos shows [Ks Qd] (Two pairs : Kings and Jacks)
+Fobos collected 43772 from pot
+*** SUMMARY ***
+Total pot 43772 | No rake
+Board: [Kh Jh Js 2d 5s]
+Seat 3: Piltrafilla (button) showed [Tc 9c] and lost with One pair : Jacks
+Seat 5: Fobos (big blind) showed [Ks Qd] and won 43772 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2562274456823136646-41-1667854956 - Holdem no limit (80/350/700) - 2022/11/07 21:02:36 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #4 is the button
+Seat 1: El Bachar (33805)
+Seat 2: YL_ML_GL_42 (36753)
+Seat 4: chinner38 (36811)
+Seat 5: Fobos (43772)
+Seat 6: DB25 (17283)
+*** ANTE/BLINDS ***
+Fobos posts ante 80
+DB25 posts ante 80
+El Bachar posts ante 80
+YL_ML_GL_42 posts ante 80
+chinner38 posts ante 80
+Fobos posts small blind 350
+DB25 posts big blind 700
+Dealt to YL_ML_GL_42 [9d Jh]
+*** PRE-FLOP *** 
+El Bachar folds
+YL_ML_GL_42 folds
+chinner38 calls 700
+Fobos raises 2450 to 3150
+DB25 folds
+chinner38 calls 2450
+*** FLOP *** [2d 2h 3d]
+Fobos bets 3700
+chinner38 folds
+Fobos collected 11100 from pot
+*** SUMMARY ***
+Total pot 11100 | No rake
+Board: [2d 2h 3d]
+Seat 5: Fobos (small blind) won 11100
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2562274456823136646-42-1667855016 - Holdem no limit (80/350/700) - 2022/11/07 21:03:36 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #5 is the button
+Seat 1: El Bachar (33725)
+Seat 2: YL_ML_GL_42 (36673)
+Seat 3: HUNTERMILF (20000)
+Seat 4: chinner38 (33581)
+Seat 5: Fobos (47942)
+Seat 6: DB25 (16503)
+*** ANTE/BLINDS ***
+DB25 posts ante 80
+El Bachar posts ante 80
+YL_ML_GL_42 posts ante 80
+HUNTERMILF posts ante 80
+chinner38 posts ante 80
+Fobos posts ante 80
+DB25 posts small blind 350
+El Bachar posts big blind 700
+Dealt to YL_ML_GL_42 [3c 2h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+HUNTERMILF raises 770 to 1470
+chinner38 calls 1470
+Fobos folds
+DB25 calls 1120
+El Bachar folds
+*** FLOP *** [Th Jd 8s]
+DB25 checks
+HUNTERMILF checks
+chinner38 bets 700
+DB25 raises 700 to 1400
+HUNTERMILF folds
+chinner38 calls 700
+*** TURN *** [Th Jd 8s][Qh]
+DB25 checks
+chinner38 bets 5454
+DB25 calls 5454
+*** RIVER *** [Th Jd 8s Qh][9c]
+DB25 checks
+chinner38 bets 25177 and is all-in
+DB25 folds
+chinner38 collected 44475 from pot
+*** SUMMARY ***
+Total pot 44475 | No rake
+Board: [Th Jd 8s Qh 9c]
+Seat 4: chinner38 won 44475
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2562274456823136646-43-1667855067 - Holdem no limit (80/350/700) - 2022/11/07 21:04:27 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #6 is the button
+Seat 1: El Bachar (32945)
+Seat 2: YL_ML_GL_42 (36593)
+Seat 3: HUNTERMILF (18450)
+Seat 4: chinner38 (44475)
+Seat 5: Fobos (47862)
+Seat 6: DB25 (8099)
+*** ANTE/BLINDS ***
+El Bachar posts ante 80
+YL_ML_GL_42 posts ante 80
+HUNTERMILF posts ante 80
+chinner38 posts ante 80
+Fobos posts ante 80
+DB25 posts ante 80
+El Bachar posts small blind 350
+YL_ML_GL_42 posts big blind 700
+Dealt to YL_ML_GL_42 [4h 3d]
+*** PRE-FLOP *** 
+HUNTERMILF folds
+chinner38 calls 700
+Fobos folds
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 checks
+*** FLOP *** [Jc Th 6d]
+YL_ML_GL_42 checks
+chinner38 checks
+*** TURN *** [Jc Th 6d][9c]
+YL_ML_GL_42 checks
+chinner38 checks
+*** RIVER *** [Jc Th 6d 9c][8c]
+YL_ML_GL_42 checks
+chinner38 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [4h 3d] (High card : Jack)
+chinner38 shows [3s 3h] (One pair : 3)
+chinner38 collected 2230 from pot
+*** SUMMARY ***
+Total pot 2230 | No rake
+Board: [Jc Th 6d 9c 8c]
+Seat 2: YL_ML_GL_42 (big blind) showed [4h 3d] and lost with High card : Jack
+Seat 4: chinner38 showed [3s 3h] and won 2230 with One pair : 3
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2562274456823136646-44-1667855117 - Holdem no limit (80/350/700) - 2022/11/07 21:05:17 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #1 is the button
+Seat 1: El Bachar (32515)
+Seat 2: YL_ML_GL_42 (35813)
+Seat 3: HUNTERMILF (18370)
+Seat 4: chinner38 (45925)
+Seat 5: Fobos (47782)
+Seat 6: DB25 (8019)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 80
+HUNTERMILF posts ante 80
+El Bachar posts ante 80
+chinner38 posts ante 80
+Fobos posts ante 80
+DB25 posts ante 80
+YL_ML_GL_42 posts small blind 350
+HUNTERMILF posts big blind 700
+Dealt to YL_ML_GL_42 [4h 9h]
+*** PRE-FLOP *** 
+chinner38 calls 700
+Fobos raises 1750 to 2450
+DB25 calls 2450
+El Bachar folds
+YL_ML_GL_42 folds
+HUNTERMILF folds
+chinner38 calls 1750
+*** FLOP *** [Ah 5h Jd]
+chinner38 checks
+Fobos bets 2220
+DB25 folds
+chinner38 folds
+Fobos collected 11100 from pot
+*** SUMMARY ***
+Total pot 11100 | No rake
+Board: [Ah 5h Jd]
+Seat 5: Fobos won 11100
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2562274456823136646-45-1667855162 - Holdem no limit (80/350/700) - 2022/11/07 21:06:02 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #2 is the button
+Seat 1: El Bachar (32435)
+Seat 2: YL_ML_GL_42 (35383)
+Seat 3: HUNTERMILF (17590)
+Seat 4: chinner38 (43395)
+Seat 5: Fobos (54132)
+Seat 6: DB25 (5489)
+*** ANTE/BLINDS ***
+HUNTERMILF posts ante 80
+chinner38 posts ante 80
+El Bachar posts ante 80
+YL_ML_GL_42 posts ante 80
+Fobos posts ante 80
+DB25 posts ante 80
+HUNTERMILF posts small blind 350
+chinner38 posts big blind 700
+Dealt to YL_ML_GL_42 [7c Jh]
+*** PRE-FLOP *** 
+Fobos folds
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 folds
+HUNTERMILF calls 350
+chinner38 checks
+*** FLOP *** [9c Ad Jd]
+HUNTERMILF bets 700
+chinner38 folds
+HUNTERMILF collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | No rake
+Board: [9c Ad Jd]
+Seat 3: HUNTERMILF (small blind) won 2580
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2562274456823136646-46-1667855195 - Holdem no limit (100/400/800) - 2022/11/07 21:06:35 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #3 is the button
+Seat 1: El Bachar (32355)
+Seat 2: YL_ML_GL_42 (35303)
+Seat 3: HUNTERMILF (18690)
+Seat 4: chinner38 (42615)
+Seat 5: Fobos (54052)
+Seat 6: DB25 (5409)
+*** ANTE/BLINDS ***
+chinner38 posts ante 100
+Fobos posts ante 100
+El Bachar posts ante 100
+YL_ML_GL_42 posts ante 100
+HUNTERMILF posts ante 100
+DB25 posts ante 100
+chinner38 posts small blind 400
+Fobos posts big blind 800
+Dealt to YL_ML_GL_42 [Js 5s]
+*** PRE-FLOP *** 
+DB25 folds
+El Bachar raises 800 to 1600
+YL_ML_GL_42 folds
+HUNTERMILF folds
+chinner38 calls 1200
+Fobos calls 800
+*** FLOP *** [Ac 5h 2d]
+chinner38 checks
+Fobos checks
+El Bachar checks
+*** TURN *** [Ac 5h 2d][Jh]
+chinner38 checks
+Fobos checks
+El Bachar checks
+*** RIVER *** [Ac 5h 2d Jh][5d]
+chinner38 checks
+Fobos bets 5400
+El Bachar folds
+chinner38 folds
+Fobos collected 10800 from pot
+*** SUMMARY ***
+Total pot 10800 | No rake
+Board: [Ac 5h 2d Jh 5d]
+Seat 5: Fobos (big blind) won 10800
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2562274456823136646-47-1667855280 - Holdem no limit (100/400/800) - 2022/11/07 21:08:00 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #4 is the button
+Seat 1: El Bachar (30655)
+Seat 2: YL_ML_GL_42 (35203)
+Seat 3: HUNTERMILF (18590)
+Seat 4: chinner38 (40915)
+Seat 5: Fobos (57752)
+Seat 6: DB25 (5309)
+*** ANTE/BLINDS ***
+Fobos posts ante 100
+DB25 posts ante 100
+El Bachar posts ante 100
+YL_ML_GL_42 posts ante 100
+HUNTERMILF posts ante 100
+chinner38 posts ante 100
+Fobos posts small blind 400
+DB25 posts big blind 800
+Dealt to YL_ML_GL_42 [4s 3h]
+*** PRE-FLOP *** 
+El Bachar folds
+YL_ML_GL_42 folds
+HUNTERMILF folds
+chinner38 calls 800
+Fobos folds
+DB25 checks
+*** FLOP *** [9h 6s 4c]
+DB25 checks
+chinner38 bets 800
+DB25 folds
+chinner38 collected 3400 from pot
+*** SUMMARY ***
+Total pot 3400 | No rake
+Board: [9h 6s 4c]
+Seat 4: chinner38 (button) won 3400
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2562274456823136646-48-1667855318 - Holdem no limit (100/400/800) - 2022/11/07 21:08:38 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #5 is the button
+Seat 1: El Bachar (30555)
+Seat 2: YL_ML_GL_42 (35103)
+Seat 3: HUNTERMILF (18490)
+Seat 4: chinner38 (42615)
+Seat 5: Fobos (57252)
+Seat 6: DB25 (4409)
+*** ANTE/BLINDS ***
+DB25 posts ante 100
+El Bachar posts ante 100
+YL_ML_GL_42 posts ante 100
+HUNTERMILF posts ante 100
+chinner38 posts ante 100
+Fobos posts ante 100
+DB25 posts small blind 400
+El Bachar posts big blind 800
+Dealt to YL_ML_GL_42 [5s Jd]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+HUNTERMILF folds
+chinner38 calls 800
+Fobos raises 2400 to 3200
+DB25 folds
+El Bachar folds
+chinner38 calls 2400
+*** FLOP *** [3d 3s 3c]
+chinner38 checks
+Fobos bets 2706
+chinner38 folds
+Fobos collected 10906 from pot
+*** SUMMARY ***
+Total pot 10906 | No rake
+Board: [3d 3s 3c]
+Seat 5: Fobos (button) won 10906
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2562274456823136646-49-1667855349 - Holdem no limit (100/400/800) - 2022/11/07 21:09:09 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #6 is the button
+Seat 1: El Bachar (29655)
+Seat 2: YL_ML_GL_42 (35003)
+Seat 3: HUNTERMILF (18390)
+Seat 4: chinner38 (39315)
+Seat 5: Fobos (62152)
+Seat 6: DB25 (3909)
+*** ANTE/BLINDS ***
+El Bachar posts ante 100
+YL_ML_GL_42 posts ante 100
+HUNTERMILF posts ante 100
+chinner38 posts ante 100
+Fobos posts ante 100
+DB25 posts ante 100
+El Bachar posts small blind 400
+YL_ML_GL_42 posts big blind 800
+Dealt to YL_ML_GL_42 [5d 3d]
+*** PRE-FLOP *** 
+HUNTERMILF folds
+chinner38 calls 800
+Fobos folds
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 checks
+*** FLOP *** [9h 9c 2d]
+YL_ML_GL_42 checks
+chinner38 checks
+*** TURN *** [9h 9c 2d][6h]
+YL_ML_GL_42 checks
+chinner38 bets 800
+YL_ML_GL_42 calls 800
+*** RIVER *** [9h 9c 2d 6h][7h]
+YL_ML_GL_42 checks
+chinner38 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [5d 3d] (One pair : 9)
+chinner38 shows [As Qc] (One pair : 9)
+chinner38 collected 4200 from pot
+*** SUMMARY ***
+Total pot 4200 | No rake
+Board: [9h 9c 2d 6h 7h]
+Seat 2: YL_ML_GL_42 (big blind) showed [5d 3d] and lost with One pair : 9
+Seat 4: chinner38 showed [As Qc] and won 4200 with One pair : 9
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2562274456823136646-50-1667855401 - Holdem no limit (100/400/800) - 2022/11/07 21:10:01 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #1 is the button
+Seat 1: El Bachar (29155)
+Seat 2: YL_ML_GL_42 (33303)
+Seat 3: HUNTERMILF (18290)
+Seat 4: chinner38 (41815)
+Seat 5: Fobos (62052)
+Seat 6: DB25 (3809)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 100
+HUNTERMILF posts ante 100
+El Bachar posts ante 100
+chinner38 posts ante 100
+Fobos posts ante 100
+DB25 posts ante 100
+YL_ML_GL_42 posts small blind 400
+HUNTERMILF posts big blind 800
+Dealt to YL_ML_GL_42 [Td Qh]
+*** PRE-FLOP *** 
+chinner38 calls 800
+Fobos folds
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 calls 400
+HUNTERMILF checks
+*** FLOP *** [3d 4d 4c]
+YL_ML_GL_42 checks
+HUNTERMILF checks
+chinner38 checks
+*** TURN *** [3d 4d 4c][8s]
+YL_ML_GL_42 checks
+HUNTERMILF bets 2250
+chinner38 folds
+YL_ML_GL_42 folds
+HUNTERMILF collected 5250 from pot
+*** SUMMARY ***
+Total pot 5250 | No rake
+Board: [3d 4d 4c 8s]
+Seat 3: HUNTERMILF (big blind) won 5250
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2562274456823136646-51-1667855452 - Holdem no limit (100/400/800) - 2022/11/07 21:10:52 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #2 is the button
+Seat 1: El Bachar (29055)
+Seat 2: YL_ML_GL_42 (32403)
+Seat 3: HUNTERMILF (20390)
+Seat 4: chinner38 (40915)
+Seat 5: Fobos (61952)
+Seat 6: DB25 (3709)
+*** ANTE/BLINDS ***
+HUNTERMILF posts ante 100
+chinner38 posts ante 100
+El Bachar posts ante 100
+YL_ML_GL_42 posts ante 100
+Fobos posts ante 100
+DB25 posts ante 100
+HUNTERMILF posts small blind 400
+chinner38 posts big blind 800
+Dealt to YL_ML_GL_42 [Js 2h]
+*** PRE-FLOP *** 
+Fobos raises 800 to 1600
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 folds
+HUNTERMILF folds
+chinner38 calls 800
+*** FLOP *** [8h Kh 5h]
+chinner38 checks
+Fobos checks
+*** TURN *** [8h Kh 5h][Qc]
+chinner38 bets 800
+Fobos calls 800
+*** RIVER *** [8h Kh 5h Qc][2s]
+chinner38 bets 2030
+Fobos calls 2030
+*** SHOW DOWN ***
+Fobos shows [Jc Jd] (One pair : Jacks)
+chinner38 shows [5c Qs] (Two pairs : Queens and 5)
+chinner38 collected 9860 from pot
+*** SUMMARY ***
+Total pot 9860 | No rake
+Board: [8h Kh 5h Qc 2s]
+Seat 4: chinner38 (big blind) showed [5c Qs] and won 9860 with Two pairs : Queens and 5
+Seat 5: Fobos showed [Jc Jd] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2562274456823136646-52-1667855523 - Holdem no limit (120/500/1000) - 2022/11/07 21:12:03 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #3 is the button
+Seat 1: El Bachar (28955)
+Seat 2: YL_ML_GL_42 (32303)
+Seat 3: HUNTERMILF (19890)
+Seat 4: chinner38 (46245)
+Seat 5: Fobos (57422)
+Seat 6: DB25 (3609)
+*** ANTE/BLINDS ***
+chinner38 posts ante 120
+Fobos posts ante 120
+El Bachar posts ante 120
+YL_ML_GL_42 posts ante 120
+HUNTERMILF posts ante 120
+DB25 posts ante 120
+chinner38 posts small blind 500
+Fobos posts big blind 1000
+Dealt to YL_ML_GL_42 [7d Kc]
+*** PRE-FLOP *** 
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 folds
+HUNTERMILF folds
+chinner38 calls 500
+Fobos checks
+*** FLOP *** [5c Qd 8s]
+chinner38 checks
+Fobos checks
+*** TURN *** [5c Qd 8s][3c]
+chinner38 checks
+Fobos bets 2040
+chinner38 folds
+Fobos collected 4760 from pot
+*** SUMMARY ***
+Total pot 4760 | No rake
+Board: [5c Qd 8s 3c]
+Seat 5: Fobos (big blind) won 4760
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2562274456823136646-53-1667855558 - Holdem no limit (120/500/1000) - 2022/11/07 21:12:38 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #4 is the button
+Seat 1: El Bachar (28835)
+Seat 2: YL_ML_GL_42 (32183)
+Seat 3: HUNTERMILF (19770)
+Seat 4: chinner38 (45125)
+Seat 5: Fobos (59022)
+Seat 6: DB25 (3489)
+*** ANTE/BLINDS ***
+Fobos posts ante 120
+DB25 posts ante 120
+El Bachar posts ante 120
+YL_ML_GL_42 posts ante 120
+HUNTERMILF posts ante 120
+chinner38 posts ante 120
+Fobos posts small blind 500
+DB25 posts big blind 1000
+Dealt to YL_ML_GL_42 [Td 4d]
+*** PRE-FLOP *** 
+El Bachar folds
+YL_ML_GL_42 folds
+HUNTERMILF folds
+chinner38 folds
+Fobos calls 500
+DB25 raises 2369 to 3369 and is all-in
+Fobos calls 2369
+*** FLOP *** [5h Kd Kc]
+*** TURN *** [5h Kd Kc][Ad]
+*** RIVER *** [5h Kd Kc Ad][9s]
+*** SHOW DOWN ***
+Fobos shows [7s Jd] (One pair : Kings)
+DB25 shows [Ts Kh] (Trips of Kings)
+DB25 collected 7458 from pot
+*** SUMMARY ***
+Total pot 7458 | No rake
+Board: [5h Kd Kc Ad 9s]
+Seat 5: Fobos (small blind) showed [7s Jd] and lost with One pair : Kings
+Seat 6: DB25 (big blind) showed [Ts Kh] and won 7458 with Trips of Kings
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2562274456823136646-54-1667855596 - Holdem no limit (120/500/1000) - 2022/11/07 21:13:16 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #5 is the button
+Seat 1: El Bachar (28715)
+Seat 2: YL_ML_GL_42 (32063)
+Seat 3: HUNTERMILF (19650)
+Seat 4: chinner38 (45005)
+Seat 5: Fobos (55533)
+Seat 6: DB25 (7458)
+*** ANTE/BLINDS ***
+DB25 posts ante 120
+El Bachar posts ante 120
+YL_ML_GL_42 posts ante 120
+HUNTERMILF posts ante 120
+chinner38 posts ante 120
+Fobos posts ante 120
+DB25 posts small blind 500
+El Bachar posts big blind 1000
+Dealt to YL_ML_GL_42 [2s Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+HUNTERMILF folds
+chinner38 calls 1000
+Fobos folds
+DB25 folds
+El Bachar checks
+*** FLOP *** [9h 4d Ad]
+El Bachar checks
+chinner38 checks
+*** TURN *** [9h 4d Ad][4h]
+El Bachar checks
+chinner38 bets 1000
+El Bachar folds
+chinner38 collected 4220 from pot
+*** SUMMARY ***
+Total pot 4220 | No rake
+Board: [9h 4d Ad 4h]
+Seat 4: chinner38 won 4220
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2562274456823136646-55-1667855651 - Holdem no limit (120/500/1000) - 2022/11/07 21:14:11 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #6 is the button
+Seat 1: El Bachar (27595)
+Seat 2: YL_ML_GL_42 (31943)
+Seat 3: HUNTERMILF (19530)
+Seat 4: chinner38 (47105)
+Seat 5: Fobos (55413)
+Seat 6: DB25 (6838)
+*** ANTE/BLINDS ***
+El Bachar posts ante 120
+YL_ML_GL_42 posts ante 120
+HUNTERMILF posts ante 120
+chinner38 posts ante 120
+Fobos posts ante 120
+DB25 posts ante 120
+El Bachar posts small blind 500
+YL_ML_GL_42 posts big blind 1000
+Dealt to YL_ML_GL_42 [2d 3s]
+*** PRE-FLOP *** 
+HUNTERMILF folds
+chinner38 folds
+Fobos raises 1000 to 2000
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 folds
+Fobos collected 4220 from pot
+*** SUMMARY ***
+Total pot 4220 | No rake
+Seat 5: Fobos won 4220
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2562274456823136646-56-1667855675 - Holdem no limit (120/500/1000) - 2022/11/07 21:14:35 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #1 is the button
+Seat 1: El Bachar (26975)
+Seat 2: YL_ML_GL_42 (30823)
+Seat 3: HUNTERMILF (19410)
+Seat 4: chinner38 (46985)
+Seat 5: Fobos (57513)
+Seat 6: DB25 (6718)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 120
+HUNTERMILF posts ante 120
+El Bachar posts ante 120
+chinner38 posts ante 120
+Fobos posts ante 120
+DB25 posts ante 120
+YL_ML_GL_42 posts small blind 500
+HUNTERMILF posts big blind 1000
+Dealt to YL_ML_GL_42 [2h 6h]
+*** PRE-FLOP *** 
+chinner38 calls 1000
+Fobos folds
+DB25 folds
+El Bachar folds
+YL_ML_GL_42 calls 500
+HUNTERMILF checks
+*** FLOP *** [5c Ah 6c]
+YL_ML_GL_42 checks
+HUNTERMILF checks
+chinner38 bets 1302
+YL_ML_GL_42 folds
+HUNTERMILF calls 1302
+*** TURN *** [5c Ah 6c][Qc]
+HUNTERMILF checks
+chinner38 checks
+*** RIVER *** [5c Ah 6c Qc][4c]
+HUNTERMILF checks
+chinner38 checks
+*** SHOW DOWN ***
+HUNTERMILF shows [5h Jh] (One pair : 5)
+chinner38 shows [7s As] (One pair : Aces)
+chinner38 collected 6324 from pot
+*** SUMMARY ***
+Total pot 6324 | No rake
+Board: [5c Ah 6c Qc 4c]
+Seat 3: HUNTERMILF (big blind) showed [5h Jh] and lost with One pair : 5
+Seat 4: chinner38 showed [7s As] and won 6324 with One pair : Aces
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2562274456823136646-57-1667855734 - Holdem no limit (120/500/1000) - 2022/11/07 21:15:34 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #2 is the button
+Seat 1: El Bachar (26855)
+Seat 2: YL_ML_GL_42 (29703)
+Seat 3: HUNTERMILF (16988)
+Seat 4: chinner38 (50887)
+Seat 5: Fobos (57393)
+Seat 6: DB25 (6598)
+*** ANTE/BLINDS ***
+HUNTERMILF posts ante 120
+chinner38 posts ante 120
+El Bachar posts ante 120
+YL_ML_GL_42 posts ante 120
+Fobos posts ante 120
+DB25 posts ante 120
+HUNTERMILF posts small blind 500
+chinner38 posts big blind 1000
+Dealt to YL_ML_GL_42 [8h 2s]
+*** PRE-FLOP *** 
+Fobos folds
+DB25 folds
+El Bachar raises 1000 to 2000
+YL_ML_GL_42 folds
+HUNTERMILF folds
+chinner38 calls 1000
+*** FLOP *** [Jd Kd Jh]
+chinner38 checks
+El Bachar bets 1827
+chinner38 folds
+El Bachar collected 7047 from pot
+*** SUMMARY ***
+Total pot 7047 | No rake
+Board: [Jd Kd Jh]
+Seat 1: El Bachar won 7047
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2562274456823136646-58-1667855772 - Holdem no limit (120/500/1000) - 2022/11/07 21:16:12 UTC
+Table: 'W POKUS Event 27(596576011)#0389' 6-max (real money) Seat #3 is the button
+Seat 1: El Bachar (29955)
+Seat 2: YL_ML_GL_42 (29583)
+Seat 3: HUNTERMILF (16368)
+Seat 4: chinner38 (48767)
+Seat 5: Fobos (57273)
+Seat 6: DB25 (6478)
+*** ANTE/BLINDS ***
+chinner38 posts ante 120
+Fobos posts ante 120
+El Bachar posts ante 120
+YL_ML_GL_42 posts ante 120
+HUNTERMILF posts ante 120
+DB25 posts ante 120
+chinner38 posts small blind 500
+Fobos posts big blind 1000
+Dealt to YL_ML_GL_42 [7h Jc]
+*** PRE-FLOP *** 
+DB25 raises 5358 to 6358 and is all-in
+El Bachar folds
+YL_ML_GL_42 folds
+HUNTERMILF folds
+chinner38 calls 5858
+Fobos folds
+*** FLOP *** [Qc 6d 4h]
+*** TURN *** [Qc 6d 4h][3d]
+*** RIVER *** [Qc 6d 4h 3d][Kh]
+*** SHOW DOWN ***
+DB25 shows [9d Ah] (High card : Ace)
+chinner38 shows [4c Ad] (One pair : 4)
+chinner38 collected 14436 from pot
+*** SUMMARY ***
+Total pot 14436 | No rake
+Board: [Qc 6d 4h 3d Kh]
+Seat 4: chinner38 (small blind) showed [4c Ad] and won 14436 with One pair : 4
+Seat 6: DB25 showed [9d Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2562274456823136334-91-1667856283 - Holdem no limit (160/700/1400) - 2022/11/07 21:24:43 UTC
+Table: 'W POKUS Event 27(596576011)#0077' 6-max (real money) Seat #5 is the button
+Seat 1: Parti-2-Rien (78229)
+Seat 2: Iwan2rakeFri (98066)
+Seat 4: YL_ML_GL_42 (27623)
+Seat 5: PipoLaSauce4 (119494)
+Seat 6: Cernunnos (15386)
+*** ANTE/BLINDS ***
+Cernunnos posts ante 160
+Parti-2-Rien posts ante 160
+Iwan2rakeFri posts ante 160
+YL_ML_GL_42 posts ante 160
+PipoLaSauce4 posts ante 160
+Cernunnos posts small blind 700
+Parti-2-Rien posts big blind 1400
+Dealt to YL_ML_GL_42 [2h 8d]
+*** PRE-FLOP *** 
+Iwan2rakeFri raises 1400 to 2800
+YL_ML_GL_42 folds
+PipoLaSauce4 calls 2800
+Cernunnos folds
+Parti-2-Rien calls 1400
+*** FLOP *** [6d 9d 2s]
+Parti-2-Rien checks
+Iwan2rakeFri checks
+PipoLaSauce4 checks
+*** TURN *** [6d 9d 2s][Kh]
+Parti-2-Rien bets 7920
+Iwan2rakeFri folds
+PipoLaSauce4 folds
+Parti-2-Rien collected 17820 from pot
+*** SUMMARY ***
+Total pot 17820 | No rake
+Board: [6d 9d 2s Kh]
+Seat 1: Parti-2-Rien (big blind) won 17820
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2562274456823136334-92-1667856388 - Holdem no limit (200/800/1600) - 2022/11/07 21:26:28 UTC
+Table: 'W POKUS Event 27(596576011)#0077' 6-max (real money) Seat #6 is the button
+Seat 1: Parti-2-Rien (85169)
+Seat 2: Iwan2rakeFri (95106)
+Seat 3: Babtistuta (17300)
+Seat 4: YL_ML_GL_42 (27463)
+Seat 5: PipoLaSauce4 (116534)
+Seat 6: Cernunnos (14526)
+*** ANTE/BLINDS ***
+Parti-2-Rien posts ante 200
+Iwan2rakeFri posts ante 200
+Babtistuta posts ante 200
+YL_ML_GL_42 posts ante 200
+PipoLaSauce4 posts ante 200
+Cernunnos posts ante 200
+Parti-2-Rien posts small blind 800
+Iwan2rakeFri posts big blind 1600
+Dealt to YL_ML_GL_42 [3d Jd]
+*** PRE-FLOP *** 
+Babtistuta folds
+YL_ML_GL_42 folds
+PipoLaSauce4 folds
+Cernunnos raises 12726 to 14326 and is all-in
+Parti-2-Rien folds
+Iwan2rakeFri folds
+Cernunnos collected 17926 from pot
+*** SUMMARY ***
+Total pot 17926 | No rake
+Seat 6: Cernunnos (button) won 17926
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2562274456823136334-93-1667856436 - Holdem no limit (200/800/1600) - 2022/11/07 21:27:16 UTC
+Table: 'W POKUS Event 27(596576011)#0077' 6-max (real money) Seat #1 is the button
+Seat 1: Parti-2-Rien (84169)
+Seat 2: Iwan2rakeFri (93306)
+Seat 3: Babtistuta (17100)
+Seat 4: YL_ML_GL_42 (27263)
+Seat 5: PipoLaSauce4 (116334)
+Seat 6: Cernunnos (17926)
+*** ANTE/BLINDS ***
+Iwan2rakeFri posts ante 200
+Babtistuta posts ante 200
+Parti-2-Rien posts ante 200
+YL_ML_GL_42 posts ante 200
+PipoLaSauce4 posts ante 200
+Cernunnos posts ante 200
+Iwan2rakeFri posts small blind 800
+Babtistuta posts big blind 1600
+Dealt to YL_ML_GL_42 [8s Ts]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+PipoLaSauce4 folds
+Cernunnos folds
+Parti-2-Rien calls 1600
+Iwan2rakeFri folds
+Babtistuta raises 15300 to 16900 and is all-in
+Parti-2-Rien calls 15300
+*** FLOP *** [6c Ad 4s]
+*** TURN *** [6c Ad 4s][7h]
+*** RIVER *** [6c Ad 4s 7h][Kd]
+*** SHOW DOWN ***
+Babtistuta shows [Th Ah] (One pair : Aces)
+Parti-2-Rien shows [Ac Kc] (Two pairs : Aces and Kings)
+Parti-2-Rien collected 35800 from pot
+*** SUMMARY ***
+Total pot 35800 | No rake
+Board: [6c Ad 4s 7h Kd]
+Seat 1: Parti-2-Rien (button) showed [Ac Kc] and won 35800 with Two pairs : Aces and Kings
+Seat 3: Babtistuta (big blind) showed [Th Ah] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2562274456823136334-94-1667856488 - Holdem no limit (200/800/1600) - 2022/11/07 21:28:08 UTC
+Table: 'W POKUS Event 27(596576011)#0077' 6-max (real money) Seat #2 is the button
+Seat 1: Parti-2-Rien (102869)
+Seat 2: Iwan2rakeFri (92306)
+Seat 4: YL_ML_GL_42 (27063)
+Seat 5: PipoLaSauce4 (116134)
+Seat 6: Cernunnos (17726)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 200
+Parti-2-Rien posts ante 200
+Iwan2rakeFri posts ante 200
+PipoLaSauce4 posts ante 200
+Cernunnos posts ante 200
+YL_ML_GL_42 posts big blind 1600
+Dealt to YL_ML_GL_42 [Kd 2s]
+*** PRE-FLOP *** 
+PipoLaSauce4 raises 1600 to 3200
+Cernunnos folds
+Parti-2-Rien folds
+Iwan2rakeFri folds
+YL_ML_GL_42 folds
+PipoLaSauce4 collected 5800 from pot
+*** SUMMARY ***
+Total pot 5800 | No rake
+Seat 5: PipoLaSauce4 won 5800
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2562274456823136334-95-1667856512 - Holdem no limit (200/800/1600) - 2022/11/07 21:28:32 UTC
+Table: 'W POKUS Event 27(596576011)#0077' 6-max (real money) Seat #3 is the button
+Seat 1: Parti-2-Rien (102669)
+Seat 2: Iwan2rakeFri (92106)
+Seat 3: SachaTouYA (48245)
+Seat 4: YL_ML_GL_42 (25263)
+Seat 5: PipoLaSauce4 (118534)
+Seat 6: Cernunnos (17526)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 200
+PipoLaSauce4 posts ante 200
+Parti-2-Rien posts ante 200
+Iwan2rakeFri posts ante 200
+Cernunnos posts ante 200
+YL_ML_GL_42 posts small blind 800
+PipoLaSauce4 posts big blind 1600
+Dealt to YL_ML_GL_42 [Jc Td]
+*** PRE-FLOP *** 
+Cernunnos raises 15726 to 17326 and is all-in
+Parti-2-Rien folds
+Iwan2rakeFri folds
+YL_ML_GL_42 folds
+PipoLaSauce4 folds
+Cernunnos collected 20726 from pot
+*** SUMMARY ***
+Total pot 20726 | No rake
+Seat 6: Cernunnos won 20726
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2562274456823136334-96-1667856532 - Holdem no limit (200/800/1600) - 2022/11/07 21:28:52 UTC
+Table: 'W POKUS Event 27(596576011)#0077' 6-max (real money) Seat #4 is the button
+Seat 1: Parti-2-Rien (102469)
+Seat 2: Iwan2rakeFri (91906)
+Seat 3: SachaTouYA (48245)
+Seat 4: YL_ML_GL_42 (24263)
+Seat 5: PipoLaSauce4 (116734)
+Seat 6: Cernunnos (20726)
+*** ANTE/BLINDS ***
+PipoLaSauce4 posts ante 200
+Cernunnos posts ante 200
+Parti-2-Rien posts ante 200
+Iwan2rakeFri posts ante 200
+SachaTouYA posts ante 200
+YL_ML_GL_42 posts ante 200
+PipoLaSauce4 posts small blind 800
+Cernunnos posts big blind 1600
+Dealt to YL_ML_GL_42 [Qd 5s]
+*** PRE-FLOP *** 
+Parti-2-Rien folds
+Iwan2rakeFri folds
+SachaTouYA folds
+YL_ML_GL_42 folds
+PipoLaSauce4 raises 114934 to 116534 and is all-in
+Cernunnos calls 18926 and is all-in
+*** FLOP *** [Qc 9d Ad]
+*** TURN *** [Qc 9d Ad][4h]
+*** RIVER *** [Qc 9d Ad 4h][6h]
+*** SHOW DOWN ***
+PipoLaSauce4 shows [Th Ts] (One pair : Tens)
+Cernunnos shows [Kc Kh] (One pair : Kings)
+Cernunnos collected 42252 from main pot
+PipoLaSauce4 collected 96008 from side pot 1
+*** SUMMARY ***
+Total pot 138260 | No rake
+Board: [Qc 9d Ad 4h 6h]
+Seat 5: PipoLaSauce4 (small blind) showed [Th Ts] and won 96008 with One pair : Tens
+Seat 6: Cernunnos (big blind) showed [Kc Kh] and won 42252 with One pair : Kings
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2562274456823136334-97-1667856552 - Holdem no limit (200/800/1600) - 2022/11/07 21:29:12 UTC
+Table: 'W POKUS Event 27(596576011)#0077' 6-max (real money) Seat #5 is the button
+Seat 1: Parti-2-Rien (102269)
+Seat 2: Iwan2rakeFri (91706)
+Seat 3: SachaTouYA (48045)
+Seat 4: YL_ML_GL_42 (24063)
+Seat 5: PipoLaSauce4 (96008)
+Seat 6: Cernunnos (42252)
+*** ANTE/BLINDS ***
+Cernunnos posts ante 200
+Parti-2-Rien posts ante 200
+Iwan2rakeFri posts ante 200
+SachaTouYA posts ante 200
+YL_ML_GL_42 posts ante 200
+PipoLaSauce4 posts ante 200
+Cernunnos posts small blind 800
+Parti-2-Rien posts big blind 1600
+Dealt to YL_ML_GL_42 [3d 5s]
+*** PRE-FLOP *** 
+Iwan2rakeFri folds
+SachaTouYA raises 1600 to 3200
+YL_ML_GL_42 folds
+PipoLaSauce4 calls 3200
+Cernunnos folds
+Parti-2-Rien raises 11600 to 14800
+SachaTouYA folds
+PipoLaSauce4 folds
+Parti-2-Rien collected 23200 from pot
+*** SUMMARY ***
+Total pot 23200 | No rake
+Seat 1: Parti-2-Rien (big blind) won 23200
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2562274456823136334-98-1667856588 - Holdem no limit (200/800/1600) - 2022/11/07 21:29:48 UTC
+Table: 'W POKUS Event 27(596576011)#0077' 6-max (real money) Seat #6 is the button
+Seat 1: Parti-2-Rien (110469)
+Seat 2: Iwan2rakeFri (91506)
+Seat 3: SachaTouYA (44645)
+Seat 4: YL_ML_GL_42 (23863)
+Seat 5: PipoLaSauce4 (92608)
+Seat 6: Cernunnos (41252)
+*** ANTE/BLINDS ***
+Parti-2-Rien posts ante 200
+Iwan2rakeFri posts ante 200
+SachaTouYA posts ante 200
+YL_ML_GL_42 posts ante 200
+PipoLaSauce4 posts ante 200
+Cernunnos posts ante 200
+Parti-2-Rien posts small blind 800
+Iwan2rakeFri posts big blind 1600
+Dealt to YL_ML_GL_42 [Ah 6d]
+*** PRE-FLOP *** 
+SachaTouYA folds
+YL_ML_GL_42 raises 22063 to 23663 and is all-in
+PipoLaSauce4 folds
+Cernunnos folds
+Parti-2-Rien folds
+Iwan2rakeFri folds
+YL_ML_GL_42 collected 27263 from pot
+*** SUMMARY ***
+Total pot 27263 | No rake
+Seat 4: YL_ML_GL_42 won 27263
+
+
+Winamax Poker - Tournament "W POKUS Event 27" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2562274456823136334-99-1667856607 - Holdem no limit (200/800/1600) - 2022/11/07 21:30:07 UTC
+Table: 'W POKUS Event 27(596576011)#0077' 6-max (real money) Seat #1 is the button
+Seat 1: Parti-2-Rien (109469)
+Seat 2: Iwan2rakeFri (89706)
+Seat 3: SachaTouYA (44445)
+Seat 4: YL_ML_GL_42 (27263)
+Seat 5: PipoLaSauce4 (92408)
+Seat 6: Cernunnos (41052)
+*** ANTE/BLINDS ***
+Iwan2rakeFri posts ante 200
+SachaTouYA posts ante 200
+Parti-2-Rien posts ante 200
+YL_ML_GL_42 posts ante 200
+PipoLaSauce4 posts ante 200
+Cernunnos posts ante 200
+Iwan2rakeFri posts small blind 800
+SachaTouYA posts big blind 1600
+Dealt to YL_ML_GL_42 [3h 3c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 25463 to 27063 and is all-in
+PipoLaSauce4 raises 65145 to 92208 and is all-in
+Cernunnos folds
+Parti-2-Rien folds
+Iwan2rakeFri folds
+SachaTouYA folds
+*** FLOP *** [Ts 5h 5c]
+*** TURN *** [Ts 5h 5c][7s]
+*** RIVER *** [Ts 5h 5c 7s][8h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [3h 3c] (Two pairs : 5 and 3)
+PipoLaSauce4 shows [Ah As] (Two pairs : Aces and 5)
+PipoLaSauce4 collected 122871 from pot
+*** SUMMARY ***
+Total pot 122871 | No rake
+Board: [Ts 5h 5c 7s 8h]
+Seat 4: YL_ML_GL_42 showed [3h 3c] and lost with Two pairs : 5 and 3
+Seat 5: PipoLaSauce4 showed [Ah As] and won 122871 with Two pairs : Aces and 5
+
+

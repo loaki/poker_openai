@@ -1,0 +1,3936 @@
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-1-1669140025 - Holdem no limit (25/100/200) - 2022/11/22 18:00:25 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (20000)
+Seat 2: YL_ML_GL_42 (20000)
+Seat 3: YHGNS1312 (20000)
+Seat 4: CENT98 (20000)
+Seat 5: dimi_11 (20000)
+Seat 6: BAD FIGHTER (20000)
+*** ANTE/BLINDS ***
+dimi_11 posts ante 25
+BAD FIGHTER posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+dimi_11 posts small blind 100
+BAD FIGHTER posts big blind 200
+Dealt to YL_ML_GL_42 [6h Ts]
+*** PRE-FLOP *** 
+Dangery folds
+YL_ML_GL_42 folds
+YHGNS1312 raises 200 to 400
+CENT98 raises 800 to 1200
+dimi_11 folds
+BAD FIGHTER folds
+YHGNS1312 raises 2300 to 3500
+CENT98 calls 2300
+*** FLOP *** [4h 7s 3h]
+YHGNS1312 bets 2608
+CENT98 folds
+YHGNS1312 collected 10058 from pot
+*** SUMMARY ***
+Total pot 10058 | No rake
+Board: [4h 7s 3h]
+Seat 3: YHGNS1312 won 10058
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-2-1669140157 - Holdem no limit (25/100/200) - 2022/11/22 18:02:37 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (19975)
+Seat 2: YL_ML_GL_42 (19975)
+Seat 3: YHGNS1312 (23925)
+Seat 4: CENT98 (16475)
+Seat 5: dimi_11 (19875)
+Seat 6: BAD FIGHTER (19775)
+*** ANTE/BLINDS ***
+BAD FIGHTER posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+dimi_11 posts ante 25
+BAD FIGHTER posts small blind 100
+Dangery posts big blind 200
+Dealt to YL_ML_GL_42 [8d Kc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+YHGNS1312 folds
+CENT98 folds
+dimi_11 folds
+BAD FIGHTER folds
+Dangery collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 1: Dangery (big blind) won 450
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-3-1669140206 - Holdem no limit (25/100/200) - 2022/11/22 18:03:26 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (20200)
+Seat 2: YL_ML_GL_42 (19950)
+Seat 3: YHGNS1312 (23900)
+Seat 4: CENT98 (16450)
+Seat 5: dimi_11 (19850)
+Seat 6: BAD FIGHTER (19650)
+*** ANTE/BLINDS ***
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+dimi_11 posts ante 25
+BAD FIGHTER posts ante 25
+Dangery posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [7h Kd]
+*** PRE-FLOP *** 
+YHGNS1312 folds
+CENT98 folds
+dimi_11 raises 200 to 400
+BAD FIGHTER raises 600 to 1000
+Dangery folds
+YL_ML_GL_42 folds
+dimi_11 folds
+BAD FIGHTER collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Seat 6: BAD FIGHTER (button) won 1850
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-4-1669140333 - Holdem no limit (25/100/200) - 2022/11/22 18:05:33 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (20075)
+Seat 2: YL_ML_GL_42 (19725)
+Seat 3: YHGNS1312 (23875)
+Seat 4: CENT98 (16425)
+Seat 5: dimi_11 (19425)
+Seat 6: BAD FIGHTER (20475)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+Dangery posts ante 25
+CENT98 posts ante 25
+dimi_11 posts ante 25
+BAD FIGHTER posts ante 25
+YL_ML_GL_42 posts small blind 100
+YHGNS1312 posts big blind 200
+Dealt to YL_ML_GL_42 [Qc 7c]
+*** PRE-FLOP *** 
+CENT98 folds
+dimi_11 folds
+BAD FIGHTER calls 200
+Dangery folds
+YL_ML_GL_42 calls 100
+YHGNS1312 checks
+*** FLOP *** [5s 9s Td]
+YL_ML_GL_42 checks
+YHGNS1312 checks
+BAD FIGHTER bets 263
+YL_ML_GL_42 folds
+YHGNS1312 folds
+BAD FIGHTER collected 1013 from pot
+*** SUMMARY ***
+Total pot 1013 | No rake
+Board: [5s 9s Td]
+Seat 6: BAD FIGHTER won 1013
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-5-1669140414 - Holdem no limit (25/100/200) - 2022/11/22 18:06:54 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (20050)
+Seat 2: YL_ML_GL_42 (19500)
+Seat 3: YHGNS1312 (23650)
+Seat 4: CENT98 (16400)
+Seat 6: BAD FIGHTER (21000)
+*** ANTE/BLINDS ***
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+BAD FIGHTER posts ante 25
+YHGNS1312 posts small blind 100
+CENT98 posts big blind 200
+Dealt to YL_ML_GL_42 [Td Js]
+*** PRE-FLOP *** 
+BAD FIGHTER raises 300 to 500
+Dangery folds
+YL_ML_GL_42 folds
+YHGNS1312 folds
+CENT98 folds
+BAD FIGHTER collected 925 from pot
+*** SUMMARY ***
+Total pot 925 | No rake
+Seat 6: BAD FIGHTER won 925
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-6-1669140437 - Holdem no limit (25/100/200) - 2022/11/22 18:07:17 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: Dangery (20025)
+Seat 2: YL_ML_GL_42 (19475)
+Seat 3: YHGNS1312 (23525)
+Seat 4: CENT98 (16175)
+Seat 5: merino2703 (20000)
+*** ANTE/BLINDS ***
+CENT98 posts ante 25
+merino2703 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+CENT98 posts small blind 100
+merino2703 posts big blind 200
+Dealt to YL_ML_GL_42 [Jc 3h]
+*** PRE-FLOP *** 
+Dangery folds
+YL_ML_GL_42 folds
+YHGNS1312 folds
+CENT98 folds
+merino2703 collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 5: merino2703 (big blind) won 425
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-7-1669140449 - Holdem no limit (25/100/200) - 2022/11/22 18:07:29 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (20000)
+Seat 2: YL_ML_GL_42 (19450)
+Seat 3: YHGNS1312 (23500)
+Seat 4: CENT98 (16050)
+Seat 5: merino2703 (20200)
+*** ANTE/BLINDS ***
+merino2703 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+merino2703 posts small blind 100
+Dangery posts big blind 200
+Dealt to YL_ML_GL_42 [Tc 3h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+YHGNS1312 raises 200 to 400
+CENT98 folds
+merino2703 calls 300
+Dangery folds
+*** FLOP *** [3s Qd Jh]
+merino2703 checks
+YHGNS1312 bets 394
+merino2703 folds
+YHGNS1312 collected 1519 from pot
+*** SUMMARY ***
+Total pot 1519 | No rake
+Board: [3s Qd Jh]
+Seat 3: YHGNS1312 won 1519
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-8-1669140504 - Holdem no limit (25/100/200) - 2022/11/22 18:08:24 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (19775)
+Seat 2: YL_ML_GL_42 (19425)
+Seat 3: YHGNS1312 (24200)
+Seat 4: CENT98 (16025)
+Seat 5: merino2703 (19775)
+Seat 6: DrdRacing10 (20000)
+*** ANTE/BLINDS ***
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+merino2703 posts ante 25
+Dangery posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Ac Ad]
+*** PRE-FLOP *** 
+YHGNS1312 raises 200 to 400
+CENT98 calls 400
+merino2703 folds
+Dangery folds
+YL_ML_GL_42 raises 1001 to 1401
+YHGNS1312 folds
+CENT98 folds
+YL_ML_GL_42 collected 2426 from pot
+*** SUMMARY ***
+Total pot 2426 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 2426
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-9-1669140557 - Holdem no limit (25/100/200) - 2022/11/22 18:09:17 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (19650)
+Seat 2: YL_ML_GL_42 (20425)
+Seat 3: YHGNS1312 (23775)
+Seat 4: CENT98 (15600)
+Seat 5: merino2703 (19750)
+Seat 6: DrdRacing10 (20000)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+Dangery posts ante 25
+CENT98 posts ante 25
+merino2703 posts ante 25
+DrdRacing10 posts ante 25
+YL_ML_GL_42 posts small blind 100
+YHGNS1312 posts big blind 200
+Dealt to YL_ML_GL_42 [7s 7c]
+*** PRE-FLOP *** 
+CENT98 raises 200 to 400
+merino2703 folds
+DrdRacing10 folds
+Dangery folds
+YL_ML_GL_42 calls 300
+YHGNS1312 calls 200
+*** FLOP *** [Th 3d 8s]
+YL_ML_GL_42 checks
+YHGNS1312 checks
+CENT98 checks
+*** TURN *** [Th 3d 8s][Ks]
+YL_ML_GL_42 checks
+YHGNS1312 checks
+CENT98 checks
+*** RIVER *** [Th 3d 8s Ks][9s]
+YL_ML_GL_42 checks
+YHGNS1312 checks
+CENT98 checks
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7s 7c] (One pair : 7)
+CENT98 shows [6d 6c] (One pair : 6)
+YHGNS1312 shows [Qs 8d] (One pair : 8)
+YHGNS1312 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [Th 3d 8s Ks 9s]
+Seat 2: YL_ML_GL_42 (small blind) showed [7s 7c] and lost with One pair : 7
+Seat 3: YHGNS1312 (big blind) showed [Qs 8d] and won 1350 with One pair : 8
+Seat 4: CENT98 showed [6d 6c] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-10-1669140638 - Holdem no limit (25/100/200) - 2022/11/22 18:10:38 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (19625)
+Seat 2: YL_ML_GL_42 (20000)
+Seat 3: YHGNS1312 (24700)
+Seat 4: CENT98 (15175)
+Seat 5: merino2703 (19725)
+Seat 6: DrdRacing10 (19975)
+*** ANTE/BLINDS ***
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+merino2703 posts ante 25
+DrdRacing10 posts ante 25
+YHGNS1312 posts small blind 100
+CENT98 posts big blind 200
+Dealt to YL_ML_GL_42 [9d 5s]
+*** PRE-FLOP *** 
+merino2703 raises 650 to 850
+DrdRacing10 folds
+Dangery folds
+YL_ML_GL_42 folds
+YHGNS1312 folds
+CENT98 folds
+merino2703 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Seat 5: merino2703 won 1300
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-11-1669140671 - Holdem no limit (25/100/200) - 2022/11/22 18:11:11 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: Dangery (19600)
+Seat 2: YL_ML_GL_42 (19975)
+Seat 3: YHGNS1312 (24575)
+Seat 4: CENT98 (14950)
+Seat 5: merino2703 (20150)
+Seat 6: DrdRacing10 (19950)
+*** ANTE/BLINDS ***
+CENT98 posts ante 25
+merino2703 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+DrdRacing10 posts ante 25
+CENT98 posts small blind 100
+merino2703 posts big blind 200
+Dealt to YL_ML_GL_42 [Ts 6d]
+*** PRE-FLOP *** 
+DrdRacing10 folds
+Dangery folds
+YL_ML_GL_42 folds
+YHGNS1312 raises 200 to 400
+CENT98 folds
+merino2703 calls 200
+*** FLOP *** [3d 7h Ah]
+merino2703 checks
+YHGNS1312 bets 368
+merino2703 calls 368
+*** TURN *** [3d 7h Ah][Ac]
+merino2703 checks
+YHGNS1312 bets 625
+merino2703 calls 625
+*** RIVER *** [3d 7h Ah Ac][Js]
+merino2703 bets 3036
+YHGNS1312 calls 3036
+*** SHOW DOWN ***
+merino2703 shows [9h Ks] (One pair : Aces)
+YHGNS1312 shows [Qh 7c] (Two pairs : Aces and 7)
+YHGNS1312 collected 9108 from pot
+*** SUMMARY ***
+Total pot 9108 | No rake
+Board: [3d 7h Ah Ac Js]
+Seat 3: YHGNS1312 (button) showed [Qh 7c] and won 9108 with Two pairs : Aces and 7
+Seat 5: merino2703 (big blind) showed [9h Ks] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-12-1669140714 - Holdem no limit (25/100/200) - 2022/11/22 18:11:54 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (19575)
+Seat 2: YL_ML_GL_42 (19950)
+Seat 3: YHGNS1312 (29229)
+Seat 4: CENT98 (14825)
+Seat 5: merino2703 (15696)
+Seat 6: DrdRacing10 (19925)
+*** ANTE/BLINDS ***
+merino2703 posts ante 25
+DrdRacing10 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+merino2703 posts small blind 100
+DrdRacing10 posts big blind 200
+Dealt to YL_ML_GL_42 [3s Th]
+*** PRE-FLOP *** 
+Dangery folds
+YL_ML_GL_42 folds
+YHGNS1312 raises 200 to 400
+CENT98 calls 400
+merino2703 calls 300
+DrdRacing10 raises 1750 to 2150
+YHGNS1312 folds
+CENT98 calls 1750
+merino2703 folds
+*** FLOP *** [4c 7h 7s]
+DrdRacing10 bets 1837
+CENT98 folds
+DrdRacing10 collected 7087 from pot
+*** SUMMARY ***
+Total pot 7087 | No rake
+Board: [4c 7h 7s]
+Seat 6: DrdRacing10 (big blind) won 7087
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-13-1669140770 - Holdem no limit (25/100/200) - 2022/11/22 18:12:50 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (19550)
+Seat 2: YL_ML_GL_42 (19925)
+Seat 3: YHGNS1312 (28804)
+Seat 4: CENT98 (12650)
+Seat 5: merino2703 (15271)
+Seat 6: DrdRacing10 (23000)
+*** ANTE/BLINDS ***
+DrdRacing10 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+merino2703 posts ante 25
+DrdRacing10 posts small blind 100
+Dangery posts big blind 200
+Dealt to YL_ML_GL_42 [7h 6c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+YHGNS1312 folds
+CENT98 folds
+merino2703 folds
+DrdRacing10 calls 100
+Dangery checks
+*** FLOP *** [Qs 2d 6d]
+DrdRacing10 bets 358
+Dangery folds
+DrdRacing10 collected 908 from pot
+*** SUMMARY ***
+Total pot 908 | No rake
+Board: [Qs 2d 6d]
+Seat 6: DrdRacing10 (small blind) won 908
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-14-1669140827 - Holdem no limit (25/100/200) - 2022/11/22 18:13:47 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (19325)
+Seat 2: YL_ML_GL_42 (19900)
+Seat 3: YHGNS1312 (28779)
+Seat 4: CENT98 (12625)
+Seat 5: merino2703 (15246)
+Seat 6: DrdRacing10 (23325)
+*** ANTE/BLINDS ***
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+merino2703 posts ante 25
+DrdRacing10 posts ante 25
+Dangery posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Td 4h]
+*** PRE-FLOP *** 
+YHGNS1312 folds
+CENT98 folds
+merino2703 raises 400 to 600
+DrdRacing10 folds
+Dangery raises 1000 to 1600
+YL_ML_GL_42 folds
+merino2703 calls 1000
+*** FLOP *** [3s 5c 4s]
+Dangery bets 1243
+merino2703 raises 12378 to 13621 and is all-in
+Dangery folds
+merino2703 collected 18414 from pot
+*** SUMMARY ***
+Total pot 18414 | No rake
+Board: [3s 5c 4s]
+Seat 5: merino2703 won 18414
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-15-1669140920 - Holdem no limit (25/100/200) - 2022/11/22 18:15:20 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (16457)
+Seat 2: YL_ML_GL_42 (19675)
+Seat 3: YHGNS1312 (28754)
+Seat 4: CENT98 (12600)
+Seat 5: merino2703 (18414)
+Seat 6: DrdRacing10 (23300)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+Dangery posts ante 25
+CENT98 posts ante 25
+merino2703 posts ante 25
+DrdRacing10 posts ante 25
+YL_ML_GL_42 posts small blind 100
+YHGNS1312 posts big blind 200
+Dealt to YL_ML_GL_42 [Ah 3d]
+*** PRE-FLOP *** 
+CENT98 folds
+merino2703 folds
+DrdRacing10 raises 650 to 850
+Dangery raises 1550 to 2400
+YL_ML_GL_42 folds
+YHGNS1312 folds
+DrdRacing10 calls 1550
+*** FLOP *** [Js Ts Jd]
+DrdRacing10 bets 200
+Dangery raises 3730 to 3930
+DrdRacing10 calls 3730
+*** TURN *** [Js Ts Jd][Qs]
+DrdRacing10 bets 16945 and is all-in
+Dangery calls 10102 and is all-in
+*** RIVER *** [Js Ts Jd Qs][3s]
+*** SHOW DOWN ***
+Dangery shows [Ad Jh] (Trips of Jacks)
+DrdRacing10 shows [6d 6c] (Two pairs : Jacks and 6)
+DrdRacing10 collected 6843 from side pot 1
+Dangery collected 33314 from main pot
+*** SUMMARY ***
+Total pot 40157 | No rake
+Board: [Js Ts Jd Qs 3s]
+Seat 1: Dangery (button) showed [Ad Jh] and won 33314 with Trips of Jacks
+Seat 6: DrdRacing10 showed [6d 6c] and won 6843 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-16-1669140995 - Holdem no limit (25/100/200) - 2022/11/22 18:16:35 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (33314)
+Seat 2: YL_ML_GL_42 (19550)
+Seat 3: YHGNS1312 (28529)
+Seat 4: CENT98 (12575)
+Seat 5: merino2703 (18389)
+Seat 6: DrdRacing10 (6843)
+*** ANTE/BLINDS ***
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+merino2703 posts ante 25
+DrdRacing10 posts ante 25
+YHGNS1312 posts small blind 100
+CENT98 posts big blind 200
+Dealt to YL_ML_GL_42 [8s 9s]
+*** PRE-FLOP *** 
+merino2703 folds
+DrdRacing10 folds
+Dangery raises 200 to 400
+YL_ML_GL_42 folds
+YHGNS1312 raises 1100 to 1500
+CENT98 calls 1300
+Dangery folds
+*** FLOP *** [Ks 2h As]
+YHGNS1312 bets 1243
+CENT98 folds
+YHGNS1312 collected 4793 from pot
+*** SUMMARY ***
+Total pot 4793 | No rake
+Board: [Ks 2h As]
+Seat 3: YHGNS1312 (small blind) won 4793
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-17-1669141080 - Holdem no limit (25/100/200) - 2022/11/22 18:18:00 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: Dangery (32889)
+Seat 2: YL_ML_GL_42 (19525)
+Seat 3: YHGNS1312 (30554)
+Seat 4: CENT98 (11050)
+Seat 5: merino2703 (18364)
+Seat 6: DrdRacing10 (6818)
+*** ANTE/BLINDS ***
+CENT98 posts ante 25
+merino2703 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+DrdRacing10 posts ante 25
+CENT98 posts small blind 100
+merino2703 posts big blind 200
+Dealt to YL_ML_GL_42 [4d 8d]
+*** PRE-FLOP *** 
+DrdRacing10 folds
+Dangery raises 200 to 400
+YL_ML_GL_42 folds
+YHGNS1312 folds
+CENT98 calls 300
+merino2703 calls 200
+*** FLOP *** [6c 9c Th]
+CENT98 bets 800
+merino2703 folds
+Dangery calls 800
+*** TURN *** [6c 9c Th][Tc]
+CENT98 checks
+Dangery checks
+*** RIVER *** [6c 9c Th Tc][5c]
+CENT98 bets 2200
+Dangery folds
+CENT98 collected 5150 from pot
+*** SUMMARY ***
+Total pot 5150 | No rake
+Board: [6c 9c Th Tc 5c]
+Seat 4: CENT98 (small blind) won 5150
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-18-1669141181 - Holdem no limit (25/100/200) - 2022/11/22 18:19:41 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (31664)
+Seat 2: YL_ML_GL_42 (19500)
+Seat 3: YHGNS1312 (30529)
+Seat 4: CENT98 (12775)
+Seat 5: merino2703 (17939)
+Seat 6: DrdRacing10 (6793)
+*** ANTE/BLINDS ***
+merino2703 posts ante 25
+DrdRacing10 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+merino2703 posts small blind 100
+DrdRacing10 posts big blind 200
+Dealt to YL_ML_GL_42 [4h 6c]
+*** PRE-FLOP *** 
+Dangery folds
+YL_ML_GL_42 folds
+YHGNS1312 folds
+CENT98 raises 200 to 400
+merino2703 raises 600 to 1000
+DrdRacing10 folds
+CENT98 calls 600
+*** FLOP *** [Kc 8s 7c]
+merino2703 checks
+CENT98 checks
+*** TURN *** [Kc 8s 7c][3c]
+merino2703 bets 823
+CENT98 calls 823
+*** RIVER *** [Kc 8s 7c 3c][5c]
+merino2703 checks
+CENT98 checks
+*** SHOW DOWN ***
+CENT98 shows [3d 3s] (Trips of 3)
+merino2703 shows [Ad Ac] (Flush Ace high)
+merino2703 collected 3996 from pot
+*** SUMMARY ***
+Total pot 3996 | No rake
+Board: [Kc 8s 7c 3c 5c]
+Seat 4: CENT98 (button) showed [3d 3s] and lost with Trips of 3
+Seat 5: merino2703 (small blind) showed [Ad Ac] and won 3996 with Flush Ace high
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-19-1669141244 - Holdem no limit (25/100/200) - 2022/11/22 18:20:44 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (31639)
+Seat 2: YL_ML_GL_42 (19475)
+Seat 3: YHGNS1312 (30504)
+Seat 4: CENT98 (10927)
+Seat 5: merino2703 (20087)
+Seat 6: DrdRacing10 (6568)
+*** ANTE/BLINDS ***
+DrdRacing10 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+merino2703 posts ante 25
+DrdRacing10 posts small blind 100
+Dangery posts big blind 200
+Dealt to YL_ML_GL_42 [Qc Kc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 400 to 600
+YHGNS1312 folds
+CENT98 calls 600
+merino2703 folds
+DrdRacing10 raises 5943 to 6543 and is all-in
+Dangery folds
+YL_ML_GL_42 raises 12907 to 19450 and is all-in
+CENT98 folds
+*** FLOP *** [9s 7d 3s]
+*** TURN *** [9s 7d 3s][Td]
+*** RIVER *** [9s 7d 3s Td][2d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Qc Kc] (High card : King)
+DrdRacing10 shows [Ah 8c] (High card : Ace)
+DrdRacing10 collected 14036 from main pot
+YL_ML_GL_42 collected 12907 from side pot 1
+*** SUMMARY ***
+Total pot 26943 | No rake
+Board: [9s 7d 3s Td 2d]
+Seat 2: YL_ML_GL_42 showed [Qc Kc] and won 12907 with High card : King
+Seat 6: DrdRacing10 (small blind) showed [Ah 8c] and won 14036 with High card : Ace
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-20-1669141298 - Holdem no limit (25/100/200) - 2022/11/22 18:21:38 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (31414)
+Seat 2: YL_ML_GL_42 (12907)
+Seat 3: YHGNS1312 (30479)
+Seat 4: CENT98 (10302)
+Seat 5: merino2703 (20062)
+Seat 6: DrdRacing10 (14036)
+*** ANTE/BLINDS ***
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+merino2703 posts ante 25
+DrdRacing10 posts ante 25
+Dangery posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Qd 3h]
+*** PRE-FLOP *** 
+YHGNS1312 folds
+CENT98 folds
+merino2703 raises 650 to 850
+DrdRacing10 calls 850
+Dangery folds
+YL_ML_GL_42 folds
+*** FLOP *** [4c 8h 7c]
+merino2703 bets 753
+DrdRacing10 folds
+merino2703 collected 2903 from pot
+*** SUMMARY ***
+Total pot 2903 | No rake
+Board: [4c 8h 7c]
+Seat 5: merino2703 won 2903
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-21-1669141334 - Holdem no limit (25/100/200) - 2022/11/22 18:22:14 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (31289)
+Seat 2: YL_ML_GL_42 (12682)
+Seat 3: YHGNS1312 (30454)
+Seat 4: CENT98 (10277)
+Seat 5: merino2703 (21337)
+Seat 6: DrdRacing10 (13161)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+Dangery posts ante 25
+CENT98 posts ante 25
+merino2703 posts ante 25
+DrdRacing10 posts ante 25
+YL_ML_GL_42 posts small blind 100
+YHGNS1312 posts big blind 200
+Dealt to YL_ML_GL_42 [Ad 9s]
+*** PRE-FLOP *** 
+CENT98 folds
+merino2703 calls 200
+DrdRacing10 raises 850 to 1050
+Dangery folds
+YL_ML_GL_42 calls 950
+YHGNS1312 folds
+merino2703 calls 850
+*** FLOP *** [Ac 7c Tc]
+YL_ML_GL_42 bets 2275
+merino2703 raises 17987 to 20262 and is all-in
+DrdRacing10 calls 12086 and is all-in
+YL_ML_GL_42 calls 9332 and is all-in
+*** TURN *** [Ac 7c Tc][Js]
+*** RIVER *** [Ac 7c Tc Js][8h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ad 9s] (Straight Jack high)
+merino2703 shows [Ah 5c] (One pair : Aces)
+DrdRacing10 shows [Ts Td] (Trips of Tens)
+DrdRacing10 collected 958 from side pot 1
+merino2703 collected 8176 from side pot 2
+YL_ML_GL_42 collected 38321 from main pot
+*** SUMMARY ***
+Total pot 47455 | No rake
+Board: [Ac 7c Tc Js 8h]
+Seat 2: YL_ML_GL_42 (small blind) showed [Ad 9s] and won 38321 with Straight Jack high
+Seat 5: merino2703 showed [Ah 5c] and won 8176 with One pair : Aces
+Seat 6: DrdRacing10 showed [Ts Td] and won 958 with Trips of Tens
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-22-1669141406 - Holdem no limit (25/100/200) - 2022/11/22 18:23:26 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (31264)
+Seat 2: YL_ML_GL_42 (38321)
+Seat 3: YHGNS1312 (30229)
+Seat 4: CENT98 (10252)
+Seat 5: merino2703 (8176)
+Seat 6: DrdRacing10 (958)
+*** ANTE/BLINDS ***
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+merino2703 posts ante 25
+DrdRacing10 posts ante 25
+YHGNS1312 posts small blind 100
+CENT98 posts big blind 200
+Dealt to YL_ML_GL_42 [Tc 9s]
+*** PRE-FLOP *** 
+merino2703 raises 650 to 850
+DrdRacing10 folds
+Dangery folds
+YL_ML_GL_42 folds
+YHGNS1312 folds
+CENT98 folds
+merino2703 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Seat 5: merino2703 won 1300
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-23-1669141444 - Holdem no limit (25/100/200) - 2022/11/22 18:24:04 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: Dangery (31239)
+Seat 2: YL_ML_GL_42 (38296)
+Seat 3: YHGNS1312 (30104)
+Seat 4: CENT98 (10027)
+Seat 5: merino2703 (8601)
+Seat 6: DrdRacing10 (933)
+*** ANTE/BLINDS ***
+CENT98 posts ante 25
+merino2703 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+DrdRacing10 posts ante 25
+CENT98 posts small blind 100
+merino2703 posts big blind 200
+Dealt to YL_ML_GL_42 [4d Tc]
+*** PRE-FLOP *** 
+DrdRacing10 folds
+Dangery folds
+YL_ML_GL_42 folds
+YHGNS1312 folds
+CENT98 raises 200 to 400
+merino2703 calls 200
+*** FLOP *** [2c Kd Qs]
+CENT98 checks
+merino2703 bets 618
+CENT98 calls 618
+*** TURN *** [2c Kd Qs][Qd]
+CENT98 bets 600
+merino2703 calls 600
+*** RIVER *** [2c Kd Qs Qd][7d]
+CENT98 checks
+merino2703 bets 4628
+CENT98 folds
+merino2703 collected 8014 from pot
+*** SUMMARY ***
+Total pot 8014 | No rake
+Board: [2c Kd Qs Qd 7d]
+Seat 5: merino2703 (big blind) won 8014
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-24-1669141496 - Holdem no limit (25/100/200) - 2022/11/22 18:24:56 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (31214)
+Seat 2: YL_ML_GL_42 (38271)
+Seat 3: YHGNS1312 (30079)
+Seat 4: CENT98 (8384)
+Seat 5: merino2703 (10344)
+Seat 6: DrdRacing10 (908)
+*** ANTE/BLINDS ***
+merino2703 posts ante 25
+DrdRacing10 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+merino2703 posts small blind 100
+DrdRacing10 posts big blind 200
+Dealt to YL_ML_GL_42 [7c Tc]
+*** PRE-FLOP *** 
+Dangery raises 200 to 400
+YL_ML_GL_42 folds
+YHGNS1312 raises 800 to 1200
+CENT98 folds
+merino2703 folds
+DrdRacing10 folds
+Dangery folds
+YHGNS1312 collected 2050 from pot
+*** SUMMARY ***
+Total pot 2050 | No rake
+Seat 3: YHGNS1312 won 2050
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-25-1669141538 - Holdem no limit (25/100/200) - 2022/11/22 18:25:38 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (30789)
+Seat 2: YL_ML_GL_42 (38246)
+Seat 3: YHGNS1312 (30904)
+Seat 4: CENT98 (8359)
+Seat 5: merino2703 (10219)
+Seat 6: DrdRacing10 (683)
+*** ANTE/BLINDS ***
+DrdRacing10 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+YHGNS1312 posts ante 25
+CENT98 posts ante 25
+merino2703 posts ante 25
+DrdRacing10 posts small blind 100
+Dangery posts big blind 200
+Dealt to YL_ML_GL_42 [4s 6c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+YHGNS1312 folds
+CENT98 raises 200 to 400
+merino2703 folds
+DrdRacing10 folds
+Dangery raises 1200 to 1600
+CENT98 calls 1200
+*** FLOP *** [8h 5s Td]
+Dangery bets 1208
+CENT98 folds
+Dangery collected 4658 from pot
+*** SUMMARY ***
+Total pot 4658 | No rake
+Board: [8h 5s Td]
+Seat 1: Dangery (big blind) won 4658
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-26-1669141591 - Holdem no limit (25/100/200) - 2022/11/22 18:26:31 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (32614)
+Seat 2: YL_ML_GL_42 (38221)
+Seat 3: Sergiobueu (20000)
+Seat 4: CENT98 (6734)
+Seat 5: merino2703 (10194)
+Seat 6: DrdRacing10 (558)
+*** ANTE/BLINDS ***
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+Sergiobueu posts ante 25
+CENT98 posts ante 25
+merino2703 posts ante 25
+DrdRacing10 posts ante 25
+Dangery posts small blind 100
+YL_ML_GL_42 posts big blind 200
+Dealt to YL_ML_GL_42 [Td Jc]
+*** PRE-FLOP *** 
+Sergiobueu raises 400 to 600
+CENT98 folds
+merino2703 folds
+DrdRacing10 calls 533 and is all-in
+Dangery folds
+YL_ML_GL_42 calls 400
+*** FLOP *** [6d 5h Jh]
+YL_ML_GL_42 bets 1586
+Sergiobueu folds
+*** TURN *** [6d 5h Jh][9s]
+*** RIVER *** [6d 5h Jh 9s][6s]
+*** SHOW DOWN ***
+DrdRacing10 shows [Ad 7s] (One pair : 6)
+YL_ML_GL_42 shows [Td Jc] (Two pairs : Jacks and 6)
+YL_ML_GL_42 collected 3569 from pot
+*** SUMMARY ***
+Total pot 3569 | No rake
+Board: [6d 5h Jh 9s 6s]
+Seat 2: YL_ML_GL_42 (big blind) showed [Td Jc] and won 3569 with Two pairs : Jacks and 6
+Seat 6: DrdRacing10 (button) showed [Ad 7s] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-27-1669141645 - Holdem no limit (25/100/200) - 2022/11/22 18:27:25 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (32489)
+Seat 2: YL_ML_GL_42 (39579)
+Seat 3: Sergiobueu (19375)
+Seat 4: CENT98 (6709)
+Seat 5: merino2703 (10169)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 25
+Sergiobueu posts ante 25
+Dangery posts ante 25
+CENT98 posts ante 25
+merino2703 posts ante 25
+YL_ML_GL_42 posts small blind 100
+Sergiobueu posts big blind 200
+Dealt to YL_ML_GL_42 [9c 2h]
+*** PRE-FLOP *** 
+CENT98 folds
+merino2703 raises 625 to 825
+Dangery folds
+YL_ML_GL_42 folds
+Sergiobueu calls 625
+*** FLOP *** [Jd 4c Kc]
+Sergiobueu checks
+merino2703 bets 1875
+Sergiobueu folds
+merino2703 collected 3750 from pot
+*** SUMMARY ***
+Total pot 3750 | No rake
+Board: [Jd 4c Kc]
+Seat 5: merino2703 won 3750
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-28-1669141690 - Holdem no limit (25/100/200) - 2022/11/22 18:28:10 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (32464)
+Seat 2: YL_ML_GL_42 (39454)
+Seat 3: Sergiobueu (18525)
+Seat 4: CENT98 (6684)
+Seat 5: merino2703 (11194)
+Seat 6: Titif88 (20000)
+*** ANTE/BLINDS ***
+Sergiobueu posts ante 25
+CENT98 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+merino2703 posts ante 25
+Titif88 posts ante 25
+Sergiobueu posts small blind 100
+CENT98 posts big blind 200
+Dealt to YL_ML_GL_42 [2h Kh]
+*** PRE-FLOP *** 
+merino2703 calls 200
+Titif88 folds
+Dangery raises 600 to 800
+YL_ML_GL_42 folds
+Sergiobueu calls 700
+CENT98 folds
+merino2703 raises 2750 to 3550
+Dangery folds
+Sergiobueu folds
+merino2703 collected 5500 from pot
+*** SUMMARY ***
+Total pot 5500 | No rake
+Seat 5: merino2703 won 5500
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-29-1669141746 - Holdem no limit (25/100/200) - 2022/11/22 18:29:06 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: Dangery (31639)
+Seat 2: YL_ML_GL_42 (39429)
+Seat 3: Sergiobueu (17700)
+Seat 4: CENT98 (6459)
+Seat 5: merino2703 (13119)
+Seat 6: Titif88 (19975)
+*** ANTE/BLINDS ***
+CENT98 posts ante 25
+merino2703 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+Sergiobueu posts ante 25
+Titif88 posts ante 25
+CENT98 posts small blind 100
+merino2703 posts big blind 200
+Dealt to YL_ML_GL_42 [6c 5s]
+*** PRE-FLOP *** 
+Titif88 calls 200
+Dangery folds
+YL_ML_GL_42 folds
+Sergiobueu raises 400 to 600
+CENT98 folds
+merino2703 folds
+Titif88 calls 400
+*** FLOP *** [7c 7s 7h]
+Titif88 checks
+Sergiobueu bets 578
+Titif88 calls 578
+*** TURN *** [7c 7s 7h][2d]
+Titif88 checks
+Sergiobueu bets 982
+Titif88 calls 982
+*** RIVER *** [7c 7s 7h 2d][Kc]
+Titif88 checks
+Sergiobueu bets 2385
+Titif88 raises 15405 to 17790 and is all-in
+Sergiobueu folds
+Titif88 collected 24945 from pot
+*** SUMMARY ***
+Total pot 24945 | No rake
+Board: [7c 7s 7h 2d Kc]
+Seat 6: Titif88 won 24945
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-30-1669141850 - Holdem no limit (25/100/200) - 2022/11/22 18:30:50 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (31614)
+Seat 2: YL_ML_GL_42 (39404)
+Seat 3: Sergiobueu (13130)
+Seat 4: CENT98 (6334)
+Seat 5: merino2703 (12894)
+Seat 6: Titif88 (24945)
+*** ANTE/BLINDS ***
+merino2703 posts ante 25
+Titif88 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+Sergiobueu posts ante 25
+CENT98 posts ante 25
+merino2703 posts small blind 100
+Titif88 posts big blind 200
+Dealt to YL_ML_GL_42 [7h Js]
+*** PRE-FLOP *** 
+Dangery raises 200 to 400
+YL_ML_GL_42 folds
+Sergiobueu folds
+CENT98 folds
+merino2703 calls 300
+Titif88 calls 200
+*** FLOP *** [7s Kc Kh]
+merino2703 checks
+Titif88 checks
+Dangery checks
+*** TURN *** [7s Kc Kh][3s]
+merino2703 checks
+Titif88 checks
+Dangery checks
+*** RIVER *** [7s Kc Kh 3s][Ac]
+merino2703 bets 1600
+Titif88 folds
+Dangery calls 1600
+*** SHOW DOWN ***
+Dangery shows [3d Ad] (Two pairs : Aces and Kings)
+merino2703 shows [Jh Ks] (Trips of Kings)
+merino2703 collected 4550 from pot
+*** SUMMARY ***
+Total pot 4550 | No rake
+Board: [7s Kc Kh 3s Ac]
+Seat 1: Dangery showed [3d Ad] and lost with Two pairs : Aces and Kings
+Seat 5: merino2703 (small blind) showed [Jh Ks] and won 4550 with Trips of Kings
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #2547953828972462104-31-1669142037 - Holdem no limit (25/100/200) - 2022/11/22 18:33:57 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (29589)
+Seat 2: YL_ML_GL_42 (39379)
+Seat 3: Sergiobueu (13105)
+Seat 4: CENT98 (6309)
+Seat 5: merino2703 (15419)
+Seat 6: Titif88 (24520)
+*** ANTE/BLINDS ***
+Titif88 posts ante 25
+Dangery posts ante 25
+YL_ML_GL_42 posts ante 25
+Sergiobueu posts ante 25
+CENT98 posts ante 25
+merino2703 posts ante 25
+Titif88 posts small blind 100
+Dangery posts big blind 200
+Dealt to YL_ML_GL_42 [Qs 7h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Sergiobueu raises 400 to 600
+CENT98 folds
+merino2703 folds
+Titif88 calls 500
+Dangery calls 400
+*** FLOP *** [5c 3s 3c]
+Titif88 checks
+Dangery checks
+Sergiobueu bets 975
+Titif88 folds
+Dangery folds
+Sergiobueu collected 2925 from pot
+*** SUMMARY ***
+Total pot 2925 | No rake
+Board: [5c 3s 3c]
+Seat 3: Sergiobueu won 2925
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2547953828972462104-32-1669142162 - Holdem no limit (30/125/250) - 2022/11/22 18:36:02 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (28964)
+Seat 2: YL_ML_GL_42 (39354)
+Seat 3: Sergiobueu (14430)
+Seat 4: CENT98 (6284)
+Seat 5: merino2703 (15394)
+Seat 6: Titif88 (23895)
+*** ANTE/BLINDS ***
+Dangery posts ante 30
+YL_ML_GL_42 posts ante 30
+Sergiobueu posts ante 30
+CENT98 posts ante 30
+merino2703 posts ante 30
+Titif88 posts ante 30
+Dangery posts small blind 125
+YL_ML_GL_42 posts big blind 250
+Dealt to YL_ML_GL_42 [8s Qc]
+*** PRE-FLOP *** 
+Sergiobueu raises 500 to 750
+CENT98 calls 750
+merino2703 folds
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 calls 500
+*** FLOP *** [Ts Qs Kc]
+YL_ML_GL_42 bets 1661
+Sergiobueu raises 2108 to 3769
+CENT98 folds
+YL_ML_GL_42 calls 2108
+*** TURN *** [Ts Qs Kc][Ad]
+YL_ML_GL_42 checks
+Sergiobueu checks
+*** RIVER *** [Ts Qs Kc Ad][8d]
+YL_ML_GL_42 bets 8074
+Sergiobueu calls 8074
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [8s Qc] (Two pairs : Queens and 8)
+Sergiobueu shows [Ks Td] (Two pairs : Kings and Tens)
+Sergiobueu collected 26241 from pot
+*** SUMMARY ***
+Total pot 26241 | No rake
+Board: [Ts Qs Kc Ad 8d]
+Seat 2: YL_ML_GL_42 (big blind) showed [8s Qc] and lost with Two pairs : Queens and 8
+Seat 3: Sergiobueu showed [Ks Td] and won 26241 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2547953828972462104-33-1669142271 - Holdem no limit (30/125/250) - 2022/11/22 18:37:51 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (28809)
+Seat 2: YL_ML_GL_42 (26731)
+Seat 3: Sergiobueu (28048)
+Seat 4: CENT98 (5504)
+Seat 5: merino2703 (15364)
+Seat 6: Titif88 (23865)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 30
+Sergiobueu posts ante 30
+Dangery posts ante 30
+CENT98 posts ante 30
+merino2703 posts ante 30
+Titif88 posts ante 30
+YL_ML_GL_42 posts small blind 125
+Sergiobueu posts big blind 250
+Dealt to YL_ML_GL_42 [8h Qd]
+*** PRE-FLOP *** 
+CENT98 folds
+merino2703 folds
+Titif88 folds
+Dangery raises 250 to 500
+YL_ML_GL_42 calls 375
+Sergiobueu raises 1000 to 1500
+Dangery raises 27279 to 28779 and is all-in
+YL_ML_GL_42 folds
+Sergiobueu folds
+Dangery collected 30959 from pot
+*** SUMMARY ***
+Total pot 30959 | No rake
+Seat 1: Dangery (button) won 30959
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2547953828972462104-34-1669142360 - Holdem no limit (30/125/250) - 2022/11/22 18:39:20 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (30959)
+Seat 2: YL_ML_GL_42 (26201)
+Seat 3: Sergiobueu (26518)
+Seat 4: CENT98 (5474)
+Seat 5: merino2703 (15334)
+Seat 6: Titif88 (23835)
+*** ANTE/BLINDS ***
+Sergiobueu posts ante 30
+CENT98 posts ante 30
+Dangery posts ante 30
+YL_ML_GL_42 posts ante 30
+merino2703 posts ante 30
+Titif88 posts ante 30
+Sergiobueu posts small blind 125
+CENT98 posts big blind 250
+Dealt to YL_ML_GL_42 [Qd 3d]
+*** PRE-FLOP *** 
+merino2703 folds
+Titif88 folds
+Dangery raises 250 to 500
+YL_ML_GL_42 folds
+Sergiobueu raises 1000 to 1500
+CENT98 folds
+Dangery calls 1000
+*** FLOP *** [5h 6c 4c]
+Sergiobueu bets 1715
+Dangery folds
+Sergiobueu collected 5145 from pot
+*** SUMMARY ***
+Total pot 5145 | No rake
+Board: [5h 6c 4c]
+Seat 3: Sergiobueu (small blind) won 5145
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2547953828972462104-35-1669142456 - Holdem no limit (30/125/250) - 2022/11/22 18:40:56 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: Dangery (29429)
+Seat 2: YL_ML_GL_42 (26171)
+Seat 3: Sergiobueu (28418)
+Seat 4: CENT98 (5194)
+Seat 5: merino2703 (15304)
+Seat 6: Titif88 (23805)
+*** ANTE/BLINDS ***
+CENT98 posts ante 30
+merino2703 posts ante 30
+Dangery posts ante 30
+YL_ML_GL_42 posts ante 30
+Sergiobueu posts ante 30
+Titif88 posts ante 30
+CENT98 posts small blind 125
+merino2703 posts big blind 250
+Dealt to YL_ML_GL_42 [8h Jd]
+*** PRE-FLOP *** 
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 folds
+Sergiobueu raises 500 to 750
+CENT98 folds
+merino2703 calls 500
+*** FLOP *** [Jc Kh Ks]
+merino2703 checks
+Sergiobueu bets 903
+merino2703 folds
+Sergiobueu collected 2708 from pot
+*** SUMMARY ***
+Total pot 2708 | No rake
+Board: [Jc Kh Ks]
+Seat 3: Sergiobueu (button) won 2708
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #2547953828972462104-36-1669142509 - Holdem no limit (30/125/250) - 2022/11/22 18:41:49 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (29399)
+Seat 2: YL_ML_GL_42 (26141)
+Seat 3: Sergiobueu (29443)
+Seat 4: CENT98 (5039)
+Seat 5: merino2703 (14524)
+Seat 6: Titif88 (23775)
+*** ANTE/BLINDS ***
+merino2703 posts ante 30
+Titif88 posts ante 30
+Dangery posts ante 30
+YL_ML_GL_42 posts ante 30
+Sergiobueu posts ante 30
+CENT98 posts ante 30
+merino2703 posts small blind 125
+Titif88 posts big blind 250
+Dealt to YL_ML_GL_42 [6c 9s]
+*** PRE-FLOP *** 
+Dangery folds
+YL_ML_GL_42 folds
+Sergiobueu raises 500 to 750
+CENT98 folds
+merino2703 raises 1930 to 2680
+Titif88 calls 2430
+Sergiobueu calls 1930
+*** FLOP *** [7s 4c 8s]
+merino2703 bets 11814 and is all-in
+Titif88 folds
+Sergiobueu calls 11814
+*** TURN *** [7s 4c 8s][6s]
+*** RIVER *** [7s 4c 8s 6s][9d]
+*** SHOW DOWN ***
+Sergiobueu shows [8d Ks] (One pair : 8)
+merino2703 shows [9h Ac] (One pair : 9)
+merino2703 collected 31848 from pot
+*** SUMMARY ***
+Total pot 31848 | No rake
+Board: [7s 4c 8s 6s 9d]
+Seat 3: Sergiobueu showed [8d Ks] and lost with One pair : 8
+Seat 5: merino2703 (small blind) showed [9h Ac] and won 31848 with One pair : 9
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2547953828972462104-37-1669142565 - Holdem no limit (35/150/300) - 2022/11/22 18:42:45 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (29369)
+Seat 2: YL_ML_GL_42 (26111)
+Seat 3: Sergiobueu (14919)
+Seat 4: CENT98 (5009)
+Seat 5: merino2703 (31848)
+Seat 6: Titif88 (21065)
+*** ANTE/BLINDS ***
+Titif88 posts ante 35
+Dangery posts ante 35
+YL_ML_GL_42 posts ante 35
+Sergiobueu posts ante 35
+CENT98 posts ante 35
+merino2703 posts ante 35
+Titif88 posts small blind 150
+Dangery posts big blind 300
+Dealt to YL_ML_GL_42 [4s 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Sergiobueu folds
+CENT98 raises 300 to 600
+merino2703 folds
+Titif88 raises 1200 to 1800
+Dangery folds
+CENT98 folds
+Titif88 collected 2910 from pot
+*** SUMMARY ***
+Total pot 2910 | No rake
+Seat 6: Titif88 (small blind) won 2910
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2547953828972462104-38-1669142628 - Holdem no limit (35/150/300) - 2022/11/22 18:43:48 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (29034)
+Seat 2: YL_ML_GL_42 (26076)
+Seat 3: Sergiobueu (14884)
+Seat 4: CENT98 (4374)
+Seat 5: merino2703 (31813)
+Seat 6: Titif88 (22140)
+*** ANTE/BLINDS ***
+Dangery posts ante 35
+YL_ML_GL_42 posts ante 35
+Sergiobueu posts ante 35
+CENT98 posts ante 35
+merino2703 posts ante 35
+Titif88 posts ante 35
+Dangery posts small blind 150
+YL_ML_GL_42 posts big blind 300
+Dealt to YL_ML_GL_42 [3d As]
+*** PRE-FLOP *** 
+Sergiobueu folds
+CENT98 calls 300
+merino2703 folds
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 raises 960 to 1260
+CENT98 calls 960
+*** FLOP *** [Tc 7d Ac]
+YL_ML_GL_42 bets 2304
+CENT98 folds
+YL_ML_GL_42 collected 5184 from pot
+*** SUMMARY ***
+Total pot 5184 | No rake
+Board: [Tc 7d Ac]
+Seat 2: YL_ML_GL_42 (big blind) won 5184
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2547953828972462104-39-1669142685 - Holdem no limit (35/150/300) - 2022/11/22 18:44:45 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (28849)
+Seat 2: YL_ML_GL_42 (27661)
+Seat 3: Sergiobueu (14849)
+Seat 4: CENT98 (3079)
+Seat 5: merino2703 (31778)
+Seat 6: Titif88 (22105)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 35
+Sergiobueu posts ante 35
+Dangery posts ante 35
+CENT98 posts ante 35
+merino2703 posts ante 35
+Titif88 posts ante 35
+YL_ML_GL_42 posts small blind 150
+Sergiobueu posts big blind 300
+Dealt to YL_ML_GL_42 [Jh 5d]
+*** PRE-FLOP *** 
+CENT98 folds
+merino2703 folds
+Titif88 folds
+Dangery raises 300 to 600
+YL_ML_GL_42 folds
+Sergiobueu folds
+Dangery collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 1: Dangery (button) won 1260
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2547953828972462104-40-1669142727 - Holdem no limit (35/150/300) - 2022/11/22 18:45:27 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (29474)
+Seat 2: YL_ML_GL_42 (27476)
+Seat 3: Sergiobueu (14514)
+Seat 4: CENT98 (3044)
+Seat 5: merino2703 (31743)
+Seat 6: Titif88 (22070)
+*** ANTE/BLINDS ***
+Sergiobueu posts ante 35
+CENT98 posts ante 35
+Dangery posts ante 35
+YL_ML_GL_42 posts ante 35
+merino2703 posts ante 35
+Titif88 posts ante 35
+Sergiobueu posts small blind 150
+CENT98 posts big blind 300
+Dealt to YL_ML_GL_42 [2d 2c]
+*** PRE-FLOP *** 
+merino2703 folds
+Titif88 raises 600 to 900
+Dangery folds
+YL_ML_GL_42 calls 900
+Sergiobueu folds
+CENT98 folds
+*** FLOP *** [Td Tc Ad]
+Titif88 checks
+YL_ML_GL_42 bets 1968
+Titif88 calls 1968
+*** TURN *** [Td Tc Ad][Ts]
+Titif88 checks
+YL_ML_GL_42 bets 6396
+Titif88 folds
+YL_ML_GL_42 collected 12792 from pot
+*** SUMMARY ***
+Total pot 12792 | No rake
+Board: [Td Tc Ad Ts]
+Seat 2: YL_ML_GL_42 (button) won 12792
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2547953828972462104-41-1669142793 - Holdem no limit (35/150/300) - 2022/11/22 18:46:33 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: Dangery (29439)
+Seat 2: YL_ML_GL_42 (30969)
+Seat 3: Sergiobueu (14329)
+Seat 4: CENT98 (2709)
+Seat 5: merino2703 (31708)
+Seat 6: Titif88 (19167)
+*** ANTE/BLINDS ***
+CENT98 posts ante 35
+merino2703 posts ante 35
+Dangery posts ante 35
+YL_ML_GL_42 posts ante 35
+Sergiobueu posts ante 35
+Titif88 posts ante 35
+CENT98 posts small blind 150
+merino2703 posts big blind 300
+Dealt to YL_ML_GL_42 [Jd 2c]
+*** PRE-FLOP *** 
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 folds
+Sergiobueu raises 960 to 1260
+CENT98 folds
+merino2703 calls 960
+*** FLOP *** [Ts 6h 4s]
+merino2703 checks
+Sergiobueu bets 2880
+merino2703 calls 2880
+*** TURN *** [Ts 6h 4s][2d]
+merino2703 checks
+Sergiobueu bets 10154 and is all-in
+merino2703 calls 10154
+*** RIVER *** [Ts 6h 4s 2d][7h]
+*** SHOW DOWN ***
+merino2703 shows [3s Qs] (High card : Queen)
+Sergiobueu shows [Qc Kc] (High card : King)
+Sergiobueu collected 28948 from pot
+*** SUMMARY ***
+Total pot 28948 | No rake
+Board: [Ts 6h 4s 2d 7h]
+Seat 3: Sergiobueu (button) showed [Qc Kc] and won 28948 with High card : King
+Seat 5: merino2703 (big blind) showed [3s Qs] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2547953828972462104-42-1669142852 - Holdem no limit (35/150/300) - 2022/11/22 18:47:32 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (29404)
+Seat 2: YL_ML_GL_42 (30934)
+Seat 3: Sergiobueu (28948)
+Seat 4: CENT98 (2524)
+Seat 5: merino2703 (17379)
+Seat 6: Titif88 (19132)
+*** ANTE/BLINDS ***
+merino2703 posts ante 35
+Titif88 posts ante 35
+Dangery posts ante 35
+YL_ML_GL_42 posts ante 35
+Sergiobueu posts ante 35
+CENT98 posts ante 35
+merino2703 posts small blind 150
+Titif88 posts big blind 300
+Dealt to YL_ML_GL_42 [8h 8d]
+*** PRE-FLOP *** 
+Dangery raises 300 to 600
+YL_ML_GL_42 raises 1860 to 2460
+Sergiobueu raises 26453 to 28913 and is all-in
+CENT98 folds
+merino2703 folds
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 calls 26453
+*** FLOP *** [3c 7d 9d]
+*** TURN *** [3c 7d 9d][3d]
+*** RIVER *** [3c 7d 9d 3d][5h]
+*** SHOW DOWN ***
+Sergiobueu shows [As 4h] (One pair : 3)
+YL_ML_GL_42 shows [8h 8d] (Two pairs : 8 and 3)
+YL_ML_GL_42 collected 59086 from pot
+*** SUMMARY ***
+Total pot 59086 | No rake
+Board: [3c 7d 9d 3d 5h]
+Seat 2: YL_ML_GL_42 showed [8h 8d] and won 59086 with Two pairs : 8 and 3
+Seat 3: Sergiobueu showed [As 4h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #2547953828972462104-43-1669142921 - Holdem no limit (35/150/300) - 2022/11/22 18:48:41 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (28769)
+Seat 2: YL_ML_GL_42 (61072)
+Seat 4: CENT98 (2489)
+Seat 5: merino2703 (17194)
+Seat 6: Titif88 (18797)
+*** ANTE/BLINDS ***
+Titif88 posts ante 35
+Dangery posts ante 35
+YL_ML_GL_42 posts ante 35
+CENT98 posts ante 35
+merino2703 posts ante 35
+Titif88 posts small blind 150
+Dangery posts big blind 300
+Dealt to YL_ML_GL_42 [7s 2s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+CENT98 folds
+merino2703 folds
+Titif88 calls 150
+Dangery raises 900 to 1200
+Titif88 calls 900
+*** FLOP *** [4h Kc Kh]
+Titif88 checks
+Dangery bets 901
+Titif88 folds
+Dangery collected 3476 from pot
+*** SUMMARY ***
+Total pot 3476 | No rake
+Board: [4h Kc Kh]
+Seat 1: Dangery (big blind) won 3476
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2547953828972462104-44-1669142977 - Holdem no limit (40/175/350) - 2022/11/22 18:49:37 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (30109)
+Seat 2: YL_ML_GL_42 (61037)
+Seat 3: Parata_666 (20000)
+Seat 4: CENT98 (2454)
+Seat 5: merino2703 (17159)
+Seat 6: Titif88 (17562)
+*** ANTE/BLINDS ***
+Dangery posts ante 40
+YL_ML_GL_42 posts ante 40
+Parata_666 posts ante 40
+CENT98 posts ante 40
+merino2703 posts ante 40
+Titif88 posts ante 40
+Dangery posts small blind 175
+YL_ML_GL_42 posts big blind 350
+Dealt to YL_ML_GL_42 [4h 3d]
+*** PRE-FLOP *** 
+Parata_666 raises 700 to 1050
+CENT98 raises 1364 to 2414 and is all-in
+merino2703 folds
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 raises 17546 to 19960 and is all-in
+*** FLOP *** [7h Tc Kd]
+*** TURN *** [7h Tc Kd][Ks]
+*** RIVER *** [7h Tc Kd Ks][7s]
+*** SHOW DOWN ***
+Parata_666 shows [Ad Jh] (Two pairs : Kings and 7)
+CENT98 shows [8h Ah] (Two pairs : Kings and 7)
+CENT98 collected 2797 from main pot
+Parata_666 collected 20342 from side pot 1
+*** SUMMARY ***
+Total pot 23139 | No rake
+Board: [7h Tc Kd Ks 7s]
+Seat 3: Parata_666 showed [Ad Jh] and won 20342 with Two pairs : Kings and 7
+Seat 4: CENT98 showed [8h Ah] and won 2797 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2547953828972462104-45-1669143049 - Holdem no limit (40/175/350) - 2022/11/22 18:50:49 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (29894)
+Seat 2: YL_ML_GL_42 (60647)
+Seat 3: Parata_666 (20342)
+Seat 4: CENT98 (2797)
+Seat 5: merino2703 (17119)
+Seat 6: Titif88 (17522)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 40
+Parata_666 posts ante 40
+Dangery posts ante 40
+CENT98 posts ante 40
+merino2703 posts ante 40
+Titif88 posts ante 40
+YL_ML_GL_42 posts small blind 175
+Parata_666 posts big blind 350
+Dealt to YL_ML_GL_42 [Jh Qd]
+*** PRE-FLOP *** 
+CENT98 folds
+merino2703 folds
+Titif88 folds
+Dangery raises 350 to 700
+YL_ML_GL_42 calls 525
+Parata_666 raises 19602 to 20302 and is all-in
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 collected 21942 from pot
+*** SUMMARY ***
+Total pot 21942 | No rake
+Seat 3: Parata_666 (big blind) won 21942
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2547953828972462104-46-1669143124 - Holdem no limit (40/175/350) - 2022/11/22 18:52:04 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (29154)
+Seat 2: YL_ML_GL_42 (59907)
+Seat 3: Parata_666 (21942)
+Seat 4: CENT98 (2757)
+Seat 5: merino2703 (17079)
+Seat 6: Titif88 (17482)
+*** ANTE/BLINDS ***
+Parata_666 posts ante 40
+CENT98 posts ante 40
+Dangery posts ante 40
+YL_ML_GL_42 posts ante 40
+merino2703 posts ante 40
+Titif88 posts ante 40
+Parata_666 posts small blind 175
+CENT98 posts big blind 350
+Dealt to YL_ML_GL_42 [Qh 4h]
+*** PRE-FLOP *** 
+merino2703 raises 525 to 875
+Titif88 calls 875
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 calls 700
+CENT98 folds
+*** FLOP *** [Ks 6h Ad]
+Parata_666 checks
+merino2703 checks
+Titif88 checks
+*** TURN *** [Ks 6h Ad][4d]
+Parata_666 bets 1125
+merino2703 calls 1125
+Titif88 calls 1125
+*** RIVER *** [Ks 6h Ad 4d][9h]
+Parata_666 checks
+merino2703 bets 6590
+Titif88 folds
+Parata_666 folds
+merino2703 collected 13180 from pot
+*** SUMMARY ***
+Total pot 13180 | No rake
+Board: [Ks 6h Ad 4d 9h]
+Seat 5: merino2703 won 13180
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2547953828972462104-47-1669143202 - Holdem no limit (40/175/350) - 2022/11/22 18:53:22 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: Dangery (29114)
+Seat 2: YL_ML_GL_42 (59867)
+Seat 3: Parata_666 (19902)
+Seat 4: CENT98 (2367)
+Seat 5: merino2703 (21629)
+Seat 6: Titif88 (15442)
+*** ANTE/BLINDS ***
+CENT98 posts ante 40
+merino2703 posts ante 40
+Dangery posts ante 40
+YL_ML_GL_42 posts ante 40
+Parata_666 posts ante 40
+Titif88 posts ante 40
+CENT98 posts small blind 175
+merino2703 posts big blind 350
+Dealt to YL_ML_GL_42 [2d 4d]
+*** PRE-FLOP *** 
+Titif88 folds
+Dangery raises 350 to 700
+YL_ML_GL_42 folds
+Parata_666 calls 700
+CENT98 folds
+merino2703 calls 350
+*** FLOP *** [8d Jh 5d]
+merino2703 checks
+Dangery checks
+Parata_666 bets 2450
+merino2703 calls 2450
+Dangery folds
+*** TURN *** [8d Jh 5d][Tc]
+merino2703 checks
+Parata_666 bets 2595
+merino2703 calls 2595
+*** RIVER *** [8d Jh 5d Tc][Jc]
+merino2703 bets 4412
+Parata_666 raises 9705 to 14117 and is all-in
+merino2703 calls 9705
+*** SHOW DOWN ***
+merino2703 shows [8s 3d] (Two pairs : Jacks and 8)
+Parata_666 shows [Qs 8c] (Two pairs : Jacks and 8)
+Parata_666 collected 40839 from pot
+*** SUMMARY ***
+Total pot 40839 | No rake
+Board: [8d Jh 5d Tc Jc]
+Seat 3: Parata_666 (button) showed [Qs 8c] and won 40839 with Two pairs : Jacks and 8
+Seat 5: merino2703 (big blind) showed [8s 3d] and lost with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2547953828972462104-48-1669143662 - Holdem no limit (40/175/350) - 2022/11/22 19:01:02 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (28374)
+Seat 2: YL_ML_GL_42 (59827)
+Seat 3: Parata_666 (40839)
+Seat 4: CENT98 (2152)
+Seat 5: merino2703 (1727)
+Seat 6: Titif88 (15402)
+*** ANTE/BLINDS ***
+merino2703 posts ante 40
+Titif88 posts ante 40
+Dangery posts ante 40
+YL_ML_GL_42 posts ante 40
+Parata_666 posts ante 40
+CENT98 posts ante 40
+merino2703 posts small blind 175
+Titif88 posts big blind 350
+Dealt to YL_ML_GL_42 [9h 2s]
+*** PRE-FLOP *** 
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 folds
+CENT98 folds
+merino2703 raises 1337 to 1687 and is all-in
+Titif88 folds
+merino2703 collected 2277 from pot
+*** SUMMARY ***
+Total pot 2277 | No rake
+Seat 5: merino2703 (small blind) won 2277
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #2547953828972462104-49-1669143733 - Holdem no limit (40/175/350) - 2022/11/22 19:02:13 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (28334)
+Seat 2: YL_ML_GL_42 (59787)
+Seat 3: Parata_666 (40799)
+Seat 4: CENT98 (2112)
+Seat 5: merino2703 (2277)
+Seat 6: Titif88 (15012)
+*** ANTE/BLINDS ***
+Titif88 posts ante 40
+Dangery posts ante 40
+YL_ML_GL_42 posts ante 40
+Parata_666 posts ante 40
+CENT98 posts ante 40
+merino2703 posts ante 40
+Titif88 posts small blind 175
+Dangery posts big blind 350
+Dealt to YL_ML_GL_42 [6s As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 700 to 1050
+Parata_666 folds
+CENT98 folds
+merino2703 calls 1050
+Titif88 folds
+Dangery calls 700
+*** FLOP *** [Kh Ad Tc]
+Dangery checks
+YL_ML_GL_42 bets 2852
+merino2703 calls 1187 and is all-in
+Dangery folds
+*** TURN *** [Kh Ad Tc][5s]
+*** RIVER *** [Kh Ad Tc 5s][8c]
+*** SHOW DOWN ***
+merino2703 shows [9h Qh] (High card : Ace)
+YL_ML_GL_42 shows [6s As] (One pair : Aces)
+YL_ML_GL_42 collected 7604 from pot
+*** SUMMARY ***
+Total pot 7604 | No rake
+Board: [Kh Ad Tc 5s 8c]
+Seat 2: YL_ML_GL_42 showed [6s As] and won 7604 with One pair : Aces
+Seat 5: merino2703 (button) showed [9h Qh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2547953828972462104-50-1669143828 - Holdem no limit (50/200/400) - 2022/11/22 19:03:48 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (27244)
+Seat 2: YL_ML_GL_42 (63449)
+Seat 3: Parata_666 (40759)
+Seat 4: CENT98 (2072)
+Seat 6: Titif88 (14797)
+*** ANTE/BLINDS ***
+Dangery posts ante 50
+YL_ML_GL_42 posts ante 50
+Parata_666 posts ante 50
+CENT98 posts ante 50
+Titif88 posts ante 50
+Dangery posts small blind 200
+YL_ML_GL_42 posts big blind 400
+Dealt to YL_ML_GL_42 [Qd 2s]
+*** PRE-FLOP *** 
+Parata_666 folds
+CENT98 folds
+Titif88 calls 400
+Dangery raises 1450 to 1850
+YL_ML_GL_42 folds
+Titif88 folds
+Dangery collected 2900 from pot
+*** SUMMARY ***
+Total pot 2900 | No rake
+Seat 1: Dangery (small blind) won 2900
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2547953828972462104-51-1669143867 - Holdem no limit (50/200/400) - 2022/11/22 19:04:27 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (28244)
+Seat 2: YL_ML_GL_42 (62999)
+Seat 3: Parata_666 (40709)
+Seat 4: CENT98 (2022)
+Seat 5: Takeutshi (20000)
+Seat 6: Titif88 (14347)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 50
+Parata_666 posts ante 50
+Dangery posts ante 50
+CENT98 posts ante 50
+Takeutshi posts ante 50
+Titif88 posts ante 50
+YL_ML_GL_42 posts small blind 200
+Parata_666 posts big blind 400
+Dealt to YL_ML_GL_42 [Kd 4d]
+*** PRE-FLOP *** 
+CENT98 raises 1572 to 1972 and is all-in
+Takeutshi raises 3944 to 5916
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 folds
+*** FLOP *** [3d 8h 9h]
+*** TURN *** [3d 8h 9h][5c]
+*** RIVER *** [3d 8h 9h 5c][4c]
+*** SHOW DOWN ***
+CENT98 shows [Ah 7s] (High card : Ace)
+Takeutshi shows [Th Tc] (One pair : Tens)
+Takeutshi collected 8788 from pot
+*** SUMMARY ***
+Total pot 8788 | No rake
+Board: [3d 8h 9h 5c 4c]
+Seat 4: CENT98 showed [Ah 7s] and lost with High card : Ace
+Seat 5: Takeutshi showed [Th Tc] and won 8788 with One pair : Tens
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2547953828972462104-52-1669143908 - Holdem no limit (50/200/400) - 2022/11/22 19:05:08 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (28194)
+Seat 2: YL_ML_GL_42 (62749)
+Seat 3: Parata_666 (40259)
+Seat 4: Gsandsmile (20000)
+Seat 5: Takeutshi (22822)
+Seat 6: Titif88 (14297)
+*** ANTE/BLINDS ***
+Parata_666 posts ante 50
+Gsandsmile posts ante 50
+Dangery posts ante 50
+YL_ML_GL_42 posts ante 50
+Takeutshi posts ante 50
+Titif88 posts ante 50
+Parata_666 posts small blind 200
+Gsandsmile posts big blind 400
+Dealt to YL_ML_GL_42 [Jh Qd]
+*** PRE-FLOP *** 
+Takeutshi raises 400 to 800
+Titif88 folds
+Dangery raises 1600 to 2400
+YL_ML_GL_42 folds
+Parata_666 folds
+Gsandsmile folds
+Takeutshi folds
+Dangery collected 4100 from pot
+*** SUMMARY ***
+Total pot 4100 | No rake
+Seat 1: Dangery won 4100
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #2547953828972462104-54-1669144110 - Holdem no limit (50/200/400) - 2022/11/22 19:08:30 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (29794)
+Seat 2: YL_ML_GL_42 (61449)
+Seat 3: Parata_666 (61359)
+Seat 4: Ejderhaaaa (20000)
+Seat 5: Takeutshi (21522)
+Seat 6: Titif88 (14197)
+*** ANTE/BLINDS ***
+Takeutshi posts ante 50
+Titif88 posts ante 50
+Dangery posts ante 50
+YL_ML_GL_42 posts ante 50
+Parata_666 posts ante 50
+Takeutshi posts small blind 200
+Titif88 posts big blind 400
+Dealt to YL_ML_GL_42 [5c 3h]
+*** PRE-FLOP *** 
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 folds
+Takeutshi folds
+Titif88 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 6: Titif88 (big blind) won 850
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2547953828972462104-55-1669144203 - Holdem no limit (60/250/500) - 2022/11/22 19:10:03 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (29744)
+Seat 2: YL_ML_GL_42 (61399)
+Seat 3: Parata_666 (61309)
+Seat 4: Ejderhaaaa (20000)
+Seat 5: Takeutshi (21272)
+Seat 6: Titif88 (14597)
+*** ANTE/BLINDS ***
+Titif88 posts ante 60
+Dangery posts ante 60
+YL_ML_GL_42 posts ante 60
+Parata_666 posts ante 60
+Ejderhaaaa posts ante 60
+Takeutshi posts ante 60
+Titif88 posts small blind 250
+Dangery posts big blind 500
+Dealt to YL_ML_GL_42 [Jh Ah]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 1000 to 1500
+Parata_666 folds
+Ejderhaaaa calls 1500
+Takeutshi folds
+Titif88 folds
+Dangery folds
+*** FLOP *** [Qc Kh As]
+YL_ML_GL_42 bets 3288
+Ejderhaaaa folds
+YL_ML_GL_42 collected 7398 from pot
+*** SUMMARY ***
+Total pot 7398 | No rake
+Board: [Qc Kh As]
+Seat 2: YL_ML_GL_42 won 7398
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2547953828972462104-56-1669144286 - Holdem no limit (60/250/500) - 2022/11/22 19:11:26 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (29184)
+Seat 2: YL_ML_GL_42 (63949)
+Seat 3: Parata_666 (61249)
+Seat 4: Ejderhaaaa (18440)
+Seat 5: Takeutshi (21212)
+Seat 6: Titif88 (14287)
+*** ANTE/BLINDS ***
+Dangery posts ante 60
+YL_ML_GL_42 posts ante 60
+Parata_666 posts ante 60
+Ejderhaaaa posts ante 60
+Takeutshi posts ante 60
+Titif88 posts ante 60
+Dangery posts small blind 250
+YL_ML_GL_42 posts big blind 500
+Dealt to YL_ML_GL_42 [Js 5h]
+*** PRE-FLOP *** 
+Parata_666 folds
+Ejderhaaaa folds
+Takeutshi folds
+Titif88 calls 500
+Dangery folds
+YL_ML_GL_42 checks
+*** FLOP *** [8c 7d 6c]
+YL_ML_GL_42 bets 1610
+Titif88 folds
+YL_ML_GL_42 collected 3220 from pot
+*** SUMMARY ***
+Total pot 3220 | No rake
+Board: [8c 7d 6c]
+Seat 2: YL_ML_GL_42 (big blind) won 3220
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2547953828972462104-57-1669144335 - Holdem no limit (60/250/500) - 2022/11/22 19:12:15 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (28874)
+Seat 2: YL_ML_GL_42 (64999)
+Seat 3: Parata_666 (61189)
+Seat 4: Ejderhaaaa (18380)
+Seat 5: Takeutshi (21152)
+Seat 6: Titif88 (13727)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 60
+Parata_666 posts ante 60
+Dangery posts ante 60
+Ejderhaaaa posts ante 60
+Takeutshi posts ante 60
+Titif88 posts ante 60
+YL_ML_GL_42 posts small blind 250
+Parata_666 posts big blind 500
+Dealt to YL_ML_GL_42 [Qd 7d]
+*** PRE-FLOP *** 
+Ejderhaaaa calls 500
+Takeutshi folds
+Titif88 raises 750 to 1250
+Dangery folds
+YL_ML_GL_42 calls 1000
+Parata_666 folds
+Ejderhaaaa calls 750
+*** FLOP *** [3d Ah 8h]
+YL_ML_GL_42 checks
+Ejderhaaaa checks
+Titif88 bets 2997
+YL_ML_GL_42 folds
+Ejderhaaaa folds
+Titif88 collected 7607 from pot
+*** SUMMARY ***
+Total pot 7607 | No rake
+Board: [3d Ah 8h]
+Seat 6: Titif88 won 7607
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2547953828972462104-58-1669144395 - Holdem no limit (60/250/500) - 2022/11/22 19:13:15 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (28814)
+Seat 2: YL_ML_GL_42 (63689)
+Seat 3: Parata_666 (60629)
+Seat 4: Ejderhaaaa (17070)
+Seat 5: Takeutshi (21092)
+Seat 6: Titif88 (17027)
+*** ANTE/BLINDS ***
+Parata_666 posts ante 60
+Ejderhaaaa posts ante 60
+Dangery posts ante 60
+YL_ML_GL_42 posts ante 60
+Takeutshi posts ante 60
+Titif88 posts ante 60
+Parata_666 posts small blind 250
+Ejderhaaaa posts big blind 500
+Dealt to YL_ML_GL_42 [5d 2d]
+*** PRE-FLOP *** 
+Takeutshi folds
+Titif88 raises 16467 to 16967 and is all-in
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 folds
+Ejderhaaaa calls 16467
+*** FLOP *** [6h Kd 5h]
+*** TURN *** [6h Kd 5h][8s]
+*** RIVER *** [6h Kd 5h 8s][6s]
+*** SHOW DOWN ***
+Ejderhaaaa shows [Ac 7h] (One pair : 6)
+Titif88 shows [Js As] (One pair : 6)
+Titif88 collected 34544 from pot
+*** SUMMARY ***
+Total pot 34544 | No rake
+Board: [6h Kd 5h 8s 6s]
+Seat 4: Ejderhaaaa (big blind) showed [Ac 7h] and lost with One pair : 6
+Seat 6: Titif88 showed [Js As] and won 34544 with One pair : 6
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #2547953828972462104-59-1669144489 - Holdem no limit (60/250/500) - 2022/11/22 19:14:49 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: Dangery (28754)
+Seat 2: YL_ML_GL_42 (63629)
+Seat 3: Parata_666 (60319)
+Seat 4: Ejderhaaaa (43)
+Seat 5: Takeutshi (21032)
+Seat 6: Titif88 (34544)
+*** ANTE/BLINDS ***
+Ejderhaaaa posts ante 43 and is all-in
+Takeutshi posts ante 60
+Dangery posts ante 60
+YL_ML_GL_42 posts ante 60
+Parata_666 posts ante 60
+Titif88 posts ante 60
+Ejderhaaaa posts small blind 0 and is all-in
+Takeutshi posts big blind 500
+Dealt to YL_ML_GL_42 [7c 6c]
+*** PRE-FLOP *** 
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 raises 1000 to 1500
+Parata_666 folds
+Takeutshi calls 1000
+*** FLOP *** [Ks 9d 2s]
+Takeutshi checks
+YL_ML_GL_42 checks
+*** TURN *** [Ks 9d 2s][8s]
+Takeutshi checks
+YL_ML_GL_42 checks
+*** RIVER *** [Ks 9d 2s 8s][6s]
+Takeutshi checks
+YL_ML_GL_42 bets 2674
+Takeutshi folds
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [7c 6c] (One pair : 6)
+Ejderhaaaa shows [2d Kd] (Two pairs : Kings and 2)
+Ejderhaaaa collected 258 from main pot
+YL_ML_GL_42 collected 5759 from side pot 1
+*** SUMMARY ***
+Total pot 6017 | No rake
+Board: [Ks 9d 2s 8s 6s]
+Seat 2: YL_ML_GL_42 showed [7c 6c] and won 5759 with One pair : 6
+Seat 4: Ejderhaaaa (small blind) showed [2d Kd] and won 258 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2547953828972462104-60-1669144614 - Holdem no limit (70/300/600) - 2022/11/22 19:16:54 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (28694)
+Seat 2: YL_ML_GL_42 (65154)
+Seat 3: Parata_666 (60259)
+Seat 4: Ejderhaaaa (258)
+Seat 5: Takeutshi (19472)
+Seat 6: Titif88 (34484)
+*** ANTE/BLINDS ***
+Takeutshi posts ante 70
+Titif88 posts ante 70
+Dangery posts ante 70
+YL_ML_GL_42 posts ante 70
+Parata_666 posts ante 70
+Ejderhaaaa posts ante 70
+Takeutshi posts small blind 300
+Titif88 posts big blind 600
+Dealt to YL_ML_GL_42 [9h 4c]
+*** PRE-FLOP *** 
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 calls 600
+Ejderhaaaa calls 188 and is all-in
+Takeutshi folds
+Titif88 checks
+*** FLOP *** [6d Kc 8c]
+Titif88 checks
+Parata_666 checks
+*** TURN *** [6d Kc 8c][Ad]
+Titif88 bets 738
+Parata_666 calls 738
+*** RIVER *** [6d Kc 8c Ad][7s]
+Titif88 checks
+Parata_666 bets 4500
+Titif88 folds
+*** SHOW DOWN ***
+Ejderhaaaa shows [6c 3c] (One pair : 6)
+Parata_666 shows [8s Jd] (One pair : 8)
+Parata_666 collected 8084 from pot
+*** SUMMARY ***
+Total pot 8084 | No rake
+Board: [6d Kc 8c Ad 7s]
+Seat 3: Parata_666 showed [8s Jd] and won 8084 with One pair : 8
+Seat 4: Ejderhaaaa (button) showed [6c 3c] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2547953828972462104-61-1669144731 - Holdem no limit (70/300/600) - 2022/11/22 19:18:51 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (28624)
+Seat 2: YL_ML_GL_42 (65084)
+Seat 3: Parata_666 (62435)
+Seat 5: Takeutshi (19102)
+Seat 6: Titif88 (33076)
+*** ANTE/BLINDS ***
+Titif88 posts ante 70
+Dangery posts ante 70
+YL_ML_GL_42 posts ante 70
+Parata_666 posts ante 70
+Takeutshi posts ante 70
+Titif88 posts small blind 300
+Dangery posts big blind 600
+Dealt to YL_ML_GL_42 [6c 6h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 1200 to 1800
+Parata_666 folds
+Takeutshi folds
+Titif88 folds
+Dangery calls 1200
+*** FLOP *** [3h 8d Qh]
+Dangery checks
+YL_ML_GL_42 bets 3400
+Dangery folds
+YL_ML_GL_42 collected 7650 from pot
+*** SUMMARY ***
+Total pot 7650 | No rake
+Board: [3h 8d Qh]
+Seat 2: YL_ML_GL_42 won 7650
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #2547953828972462104-62-1669144852 - Holdem no limit (70/300/600) - 2022/11/22 19:20:52 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (26754)
+Seat 2: YL_ML_GL_42 (67464)
+Seat 3: Parata_666 (62365)
+Seat 4: RuLo95 (20000)
+Seat 5: Takeutshi (19032)
+Seat 6: Titif88 (32706)
+*** ANTE/BLINDS ***
+Dangery posts ante 70
+YL_ML_GL_42 posts ante 70
+Parata_666 posts ante 70
+RuLo95 posts ante 70
+Takeutshi posts ante 70
+Titif88 posts ante 70
+Dangery posts small blind 300
+YL_ML_GL_42 posts big blind 600
+Dealt to YL_ML_GL_42 [3d 2c]
+*** PRE-FLOP *** 
+Parata_666 raises 1200 to 1800
+RuLo95 folds
+Takeutshi folds
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 collected 3120 from pot
+*** SUMMARY ***
+Total pot 3120 | No rake
+Seat 3: Parata_666 won 3120
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2547953828972462104-64-1669145088 - Holdem no limit (80/350/700) - 2022/11/22 19:24:48 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (23914)
+Seat 2: YL_ML_GL_42 (41056)
+Seat 3: Parata_666 (62945)
+Seat 4: RuLo95 (19860)
+Seat 5: Takeutshi (18892)
+Seat 6: Titif88 (61654)
+*** ANTE/BLINDS ***
+Parata_666 posts ante 80
+RuLo95 posts ante 80
+Dangery posts ante 80
+YL_ML_GL_42 posts ante 80
+Takeutshi posts ante 80
+Titif88 posts ante 80
+Parata_666 posts small blind 350
+RuLo95 posts big blind 700
+Dealt to YL_ML_GL_42 [As 2s]
+*** PRE-FLOP *** 
+Takeutshi folds
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 folds
+RuLo95 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 4: RuLo95 (big blind) won 1530
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2547953828972462104-66-1669145203 - Holdem no limit (80/350/700) - 2022/11/22 19:26:43 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (23754)
+Seat 2: YL_ML_GL_42 (40896)
+Seat 3: Parata_666 (62435)
+Seat 4: RuLo95 (21710)
+Seat 5: Takeutshi (18032)
+Seat 6: Titif88 (61494)
+*** ANTE/BLINDS ***
+Takeutshi posts ante 80
+Titif88 posts ante 80
+Dangery posts ante 80
+YL_ML_GL_42 posts ante 80
+Parata_666 posts ante 80
+RuLo95 posts ante 80
+Takeutshi posts small blind 350
+Titif88 posts big blind 700
+Dealt to YL_ML_GL_42 [6d Qc]
+*** PRE-FLOP *** 
+Dangery raises 700 to 1400
+YL_ML_GL_42 folds
+Parata_666 folds
+RuLo95 raises 700 to 2100
+Takeutshi folds
+Titif88 folds
+Dangery raises 21574 to 23674 and is all-in
+RuLo95 calls 19530 and is all-in
+*** FLOP *** [5c 8h 7s]
+*** TURN *** [5c 8h 7s][5d]
+*** RIVER *** [5c 8h 7s 5d][8c]
+*** SHOW DOWN ***
+RuLo95 shows [Kc Jd] (Two pairs : 8 and 5)
+Dangery shows [9h 9c] (Two pairs : 9 and 8)
+Dangery collected 46834 from pot
+*** SUMMARY ***
+Total pot 46834 | No rake
+Board: [5c 8h 7s 5d 8c]
+Seat 1: Dangery showed [9h 9c] and won 46834 with Two pairs : 9 and 8
+Seat 4: RuLo95 (button) showed [Kc Jd] and lost with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #2547953828972462104-67-1669145289 - Holdem no limit (80/350/700) - 2022/11/22 19:28:09 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (46834)
+Seat 2: YL_ML_GL_42 (40816)
+Seat 3: Parata_666 (62355)
+Seat 5: Takeutshi (17602)
+Seat 6: Titif88 (60714)
+*** ANTE/BLINDS ***
+Titif88 posts ante 80
+Dangery posts ante 80
+YL_ML_GL_42 posts ante 80
+Parata_666 posts ante 80
+Takeutshi posts ante 80
+Titif88 posts small blind 350
+Dangery posts big blind 700
+Dealt to YL_ML_GL_42 [5s Jh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Parata_666 raises 1050 to 1750
+Takeutshi folds
+Titif88 calls 1400
+Dangery calls 1050
+*** FLOP *** [Kd 6s 2h]
+Titif88 checks
+Dangery checks
+Parata_666 bets 3673
+Titif88 folds
+Dangery calls 3673
+*** TURN *** [Kd 6s 2h][5h]
+Dangery checks
+Parata_666 bets 8447
+Dangery folds
+Parata_666 collected 21443 from pot
+*** SUMMARY ***
+Total pot 21443 | No rake
+Board: [Kd 6s 2h 5h]
+Seat 3: Parata_666 won 21443
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2547953828972462104-68-1669145422 - Holdem no limit (100/400/800) - 2022/11/22 19:30:22 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (41331)
+Seat 2: YL_ML_GL_42 (40736)
+Seat 3: Parata_666 (69848)
+Seat 4: LeJuDoRRange (20000)
+Seat 5: Takeutshi (17522)
+Seat 6: Titif88 (58884)
+*** ANTE/BLINDS ***
+Dangery posts ante 100
+YL_ML_GL_42 posts ante 100
+Parata_666 posts ante 100
+LeJuDoRRange posts ante 100
+Takeutshi posts ante 100
+Titif88 posts ante 100
+Dangery posts small blind 400
+YL_ML_GL_42 posts big blind 800
+Dealt to YL_ML_GL_42 [7s Ks]
+*** PRE-FLOP *** 
+Parata_666 folds
+LeJuDoRRange folds
+Takeutshi raises 800 to 1600
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 calls 800
+*** FLOP *** [2h 8c Tc]
+YL_ML_GL_42 checks
+Takeutshi bets 1470
+YL_ML_GL_42 folds
+Takeutshi collected 5670 from pot
+*** SUMMARY ***
+Total pot 5670 | No rake
+Board: [2h 8c Tc]
+Seat 5: Takeutshi won 5670
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2547953828972462104-69-1669145507 - Holdem no limit (100/400/800) - 2022/11/22 19:31:47 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (40831)
+Seat 2: YL_ML_GL_42 (39036)
+Seat 3: Parata_666 (69748)
+Seat 4: LeJuDoRRange (19900)
+Seat 5: Takeutshi (20022)
+Seat 6: Titif88 (58784)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 100
+Parata_666 posts ante 100
+Dangery posts ante 100
+LeJuDoRRange posts ante 100
+Takeutshi posts ante 100
+Titif88 posts ante 100
+YL_ML_GL_42 posts small blind 400
+Parata_666 posts big blind 800
+Dealt to YL_ML_GL_42 [Ac 6d]
+*** PRE-FLOP *** 
+LeJuDoRRange folds
+Takeutshi folds
+Titif88 raises 1200 to 2000
+Dangery folds
+YL_ML_GL_42 calls 1600
+Parata_666 folds
+*** FLOP *** [4h 7d Kh]
+YL_ML_GL_42 checks
+Titif88 bets 3510
+YL_ML_GL_42 folds
+Titif88 collected 8910 from pot
+*** SUMMARY ***
+Total pot 8910 | No rake
+Board: [4h 7d Kh]
+Seat 6: Titif88 won 8910
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2547953828972462104-70-1669145597 - Holdem no limit (100/400/800) - 2022/11/22 19:33:17 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (40731)
+Seat 2: YL_ML_GL_42 (36936)
+Seat 3: Parata_666 (68848)
+Seat 4: LeJuDoRRange (19800)
+Seat 5: Takeutshi (19922)
+Seat 6: Titif88 (62084)
+*** ANTE/BLINDS ***
+Parata_666 posts ante 100
+LeJuDoRRange posts ante 100
+Dangery posts ante 100
+YL_ML_GL_42 posts ante 100
+Takeutshi posts ante 100
+Titif88 posts ante 100
+Parata_666 posts small blind 400
+LeJuDoRRange posts big blind 800
+Dealt to YL_ML_GL_42 [8h Qs]
+*** PRE-FLOP *** 
+Takeutshi folds
+Titif88 calls 800
+Dangery raises 2400 to 3200
+YL_ML_GL_42 folds
+Parata_666 folds
+LeJuDoRRange folds
+Titif88 calls 2400
+*** FLOP *** [6d Ah Jc]
+Titif88 checks
+Dangery bets 4100
+Titif88 folds
+Dangery collected 12300 from pot
+*** SUMMARY ***
+Total pot 12300 | No rake
+Board: [6d Ah Jc]
+Seat 1: Dangery won 12300
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2547953828972462104-71-1669145704 - Holdem no limit (100/400/800) - 2022/11/22 19:35:04 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: Dangery (45631)
+Seat 2: YL_ML_GL_42 (36836)
+Seat 3: Parata_666 (68348)
+Seat 4: LeJuDoRRange (18900)
+Seat 5: Takeutshi (19822)
+Seat 6: Titif88 (58784)
+*** ANTE/BLINDS ***
+LeJuDoRRange posts ante 100
+Takeutshi posts ante 100
+Dangery posts ante 100
+YL_ML_GL_42 posts ante 100
+Parata_666 posts ante 100
+Titif88 posts ante 100
+LeJuDoRRange posts small blind 400
+Takeutshi posts big blind 800
+Dealt to YL_ML_GL_42 [Kc 6c]
+*** PRE-FLOP *** 
+Titif88 calls 800
+Dangery folds
+YL_ML_GL_42 raises 1600 to 2400
+Parata_666 folds
+LeJuDoRRange calls 2000
+Takeutshi folds
+Titif88 calls 1600
+*** FLOP *** [Jd 7s 2d]
+LeJuDoRRange checks
+Titif88 checks
+YL_ML_GL_42 checks
+*** TURN *** [Jd 7s 2d][Qh]
+LeJuDoRRange checks
+Titif88 checks
+YL_ML_GL_42 checks
+*** RIVER *** [Jd 7s 2d Qh][2h]
+LeJuDoRRange bets 1600
+Titif88 folds
+YL_ML_GL_42 folds
+LeJuDoRRange collected 10200 from pot
+*** SUMMARY ***
+Total pot 10200 | No rake
+Board: [Jd 7s 2d Qh 2h]
+Seat 4: LeJuDoRRange (small blind) won 10200
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #2547953828972462104-72-1669145837 - Holdem no limit (100/400/800) - 2022/11/22 19:37:17 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (45531)
+Seat 2: YL_ML_GL_42 (34336)
+Seat 3: Parata_666 (68248)
+Seat 4: LeJuDoRRange (25000)
+Seat 5: Takeutshi (18922)
+Seat 6: Titif88 (56284)
+*** ANTE/BLINDS ***
+Takeutshi posts ante 100
+Titif88 posts ante 100
+Dangery posts ante 100
+YL_ML_GL_42 posts ante 100
+Parata_666 posts ante 100
+LeJuDoRRange posts ante 100
+Takeutshi posts small blind 400
+Titif88 posts big blind 800
+Dealt to YL_ML_GL_42 [7c 7h]
+*** PRE-FLOP *** 
+Dangery raises 800 to 1600
+YL_ML_GL_42 raises 5000 to 6600
+Parata_666 folds
+LeJuDoRRange folds
+Takeutshi folds
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 collected 10000 from pot
+*** SUMMARY ***
+Total pot 10000 | No rake
+Seat 2: YL_ML_GL_42 won 10000
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2547953828972462104-73-1669145897 - Holdem no limit (120/500/1000) - 2022/11/22 19:38:17 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (43831)
+Seat 2: YL_ML_GL_42 (37636)
+Seat 3: Parata_666 (68148)
+Seat 4: LeJuDoRRange (24900)
+Seat 5: Takeutshi (18422)
+Seat 6: Titif88 (55384)
+*** ANTE/BLINDS ***
+Titif88 posts ante 120
+Dangery posts ante 120
+YL_ML_GL_42 posts ante 120
+Parata_666 posts ante 120
+LeJuDoRRange posts ante 120
+Takeutshi posts ante 120
+Titif88 posts small blind 500
+Dangery posts big blind 1000
+Dealt to YL_ML_GL_42 [Qc 7s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Parata_666 folds
+LeJuDoRRange folds
+Takeutshi folds
+Titif88 folds
+Dangery collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 1: Dangery (big blind) won 2220
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2547953828972462104-74-1669145920 - Holdem no limit (120/500/1000) - 2022/11/22 19:38:40 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (44931)
+Seat 2: YL_ML_GL_42 (37516)
+Seat 3: Parata_666 (68028)
+Seat 4: LeJuDoRRange (24780)
+Seat 5: Takeutshi (18302)
+Seat 6: Titif88 (54764)
+*** ANTE/BLINDS ***
+Dangery posts ante 120
+YL_ML_GL_42 posts ante 120
+Parata_666 posts ante 120
+LeJuDoRRange posts ante 120
+Takeutshi posts ante 120
+Titif88 posts ante 120
+Dangery posts small blind 500
+YL_ML_GL_42 posts big blind 1000
+Dealt to YL_ML_GL_42 [2d Ts]
+*** PRE-FLOP *** 
+Parata_666 folds
+LeJuDoRRange raises 1000 to 2000
+Takeutshi folds
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 folds
+LeJuDoRRange collected 4220 from pot
+*** SUMMARY ***
+Total pot 4220 | No rake
+Seat 4: LeJuDoRRange won 4220
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2547953828972462104-75-1669145959 - Holdem no limit (120/500/1000) - 2022/11/22 19:39:19 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (44311)
+Seat 2: YL_ML_GL_42 (36396)
+Seat 3: Parata_666 (67908)
+Seat 5: Takeutshi (18182)
+Seat 6: Titif88 (54644)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 120
+Parata_666 posts ante 120
+Dangery posts ante 120
+Takeutshi posts ante 120
+Titif88 posts ante 120
+YL_ML_GL_42 posts small blind 500
+Parata_666 posts big blind 1000
+Dealt to YL_ML_GL_42 [7c 5c]
+*** PRE-FLOP *** 
+Takeutshi folds
+Titif88 calls 1000
+Dangery folds
+YL_ML_GL_42 calls 500
+Parata_666 raises 2000 to 3000
+Titif88 calls 2000
+YL_ML_GL_42 calls 2000
+*** FLOP *** [2s Qd 6d]
+YL_ML_GL_42 checks
+Parata_666 bets 6240
+Titif88 folds
+YL_ML_GL_42 folds
+Parata_666 collected 15840 from pot
+*** SUMMARY ***
+Total pot 15840 | No rake
+Board: [2s Qd 6d]
+Seat 3: Parata_666 (big blind) won 15840
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2547953828972462104-76-1669146010 - Holdem no limit (120/500/1000) - 2022/11/22 19:40:10 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (44191)
+Seat 2: YL_ML_GL_42 (33276)
+Seat 3: Parata_666 (74388)
+Seat 4: .LucAsVsAs. (20000)
+Seat 5: Takeutshi (18062)
+Seat 6: Titif88 (51524)
+*** ANTE/BLINDS ***
+Parata_666 posts ante 120
+.LucAsVsAs. posts ante 120
+Dangery posts ante 120
+YL_ML_GL_42 posts ante 120
+Takeutshi posts ante 120
+Titif88 posts ante 120
+Parata_666 posts small blind 500
+.LucAsVsAs. posts big blind 1000
+Dealt to YL_ML_GL_42 [Td Jc]
+*** PRE-FLOP *** 
+Takeutshi folds
+Titif88 calls 1000
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 calls 500
+.LucAsVsAs. raises 18880 to 19880 and is all-in
+Titif88 calls 18880
+Parata_666 folds
+*** FLOP *** [Ac 6s 9c]
+*** TURN *** [Ac 6s 9c][Kc]
+*** RIVER *** [Ac 6s 9c Kc][2d]
+*** SHOW DOWN ***
+.LucAsVsAs. shows [4h 4d] (One pair : 4)
+Titif88 shows [Th Ad] (One pair : Aces)
+Titif88 collected 41480 from pot
+*** SUMMARY ***
+Total pot 41480 | No rake
+Board: [Ac 6s 9c Kc 2d]
+Seat 4: .LucAsVsAs. (big blind) showed [4h 4d] and lost with One pair : 4
+Seat 6: Titif88 showed [Th Ad] and won 41480 with One pair : Aces
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2547953828972462104-77-1669146072 - Holdem no limit (120/500/1000) - 2022/11/22 19:41:12 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: Dangery (44071)
+Seat 2: YL_ML_GL_42 (33156)
+Seat 3: Parata_666 (73268)
+Seat 5: Takeutshi (17942)
+Seat 6: Titif88 (73004)
+*** ANTE/BLINDS ***
+Takeutshi posts ante 120
+Dangery posts ante 120
+YL_ML_GL_42 posts ante 120
+Parata_666 posts ante 120
+Titif88 posts ante 120
+Takeutshi posts big blind 1000
+Dealt to YL_ML_GL_42 [4h Td]
+*** PRE-FLOP *** 
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 raises 72148 to 73148 and is all-in
+Takeutshi folds
+Parata_666 collected 74748 from pot
+*** SUMMARY ***
+Total pot 74748 | No rake
+Seat 3: Parata_666 (button) won 74748
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2547953828972462104-78-1669146119 - Holdem no limit (120/500/1000) - 2022/11/22 19:41:59 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (43951)
+Seat 2: YL_ML_GL_42 (33036)
+Seat 3: Parata_666 (74748)
+Seat 5: Takeutshi (16822)
+Seat 6: Titif88 (72884)
+*** ANTE/BLINDS ***
+Takeutshi posts ante 120
+Titif88 posts ante 120
+Dangery posts ante 120
+YL_ML_GL_42 posts ante 120
+Parata_666 posts ante 120
+Takeutshi posts small blind 500
+Titif88 posts big blind 1000
+Dealt to YL_ML_GL_42 [2c 7s]
+*** PRE-FLOP *** 
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 folds
+Takeutshi raises 15702 to 16702 and is all-in
+Titif88 folds
+Takeutshi collected 18302 from pot
+*** SUMMARY ***
+Total pot 18302 | No rake
+Seat 5: Takeutshi (small blind) won 18302
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2547953828972462104-79-1669146173 - Holdem no limit (120/500/1000) - 2022/11/22 19:42:53 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (43831)
+Seat 2: YL_ML_GL_42 (32916)
+Seat 3: Parata_666 (74628)
+Seat 5: Takeutshi (18302)
+Seat 6: Titif88 (71764)
+*** ANTE/BLINDS ***
+Titif88 posts ante 120
+Dangery posts ante 120
+YL_ML_GL_42 posts ante 120
+Parata_666 posts ante 120
+Takeutshi posts ante 120
+Titif88 posts small blind 500
+Dangery posts big blind 1000
+Dealt to YL_ML_GL_42 [9d 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Parata_666 folds
+Takeutshi folds
+Titif88 folds
+Dangery collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 1: Dangery (big blind) won 2100
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #2547953828972462104-80-1669146202 - Holdem no limit (120/500/1000) - 2022/11/22 19:43:22 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (44811)
+Seat 2: YL_ML_GL_42 (32796)
+Seat 3: Parata_666 (74508)
+Seat 4: Ovlc (20000)
+Seat 5: Takeutshi (18182)
+Seat 6: Titif88 (71144)
+*** ANTE/BLINDS ***
+Dangery posts ante 120
+YL_ML_GL_42 posts ante 120
+Parata_666 posts ante 120
+Ovlc posts ante 120
+Takeutshi posts ante 120
+Titif88 posts ante 120
+Dangery posts small blind 500
+YL_ML_GL_42 posts big blind 1000
+Dealt to YL_ML_GL_42 [Td 6c]
+*** PRE-FLOP *** 
+Parata_666 folds
+Ovlc folds
+Takeutshi folds
+Titif88 folds
+Dangery raises 43691 to 44691 and is all-in
+YL_ML_GL_42 folds
+Dangery collected 46411 from pot
+*** SUMMARY ***
+Total pot 46411 | No rake
+Seat 1: Dangery (small blind) won 46411
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2547953828972462104-81-1669146286 - Holdem no limit (140/600/1200) - 2022/11/22 19:44:46 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (46411)
+Seat 2: YL_ML_GL_42 (31676)
+Seat 3: Parata_666 (74388)
+Seat 4: Ovlc (19880)
+Seat 5: Takeutshi (18062)
+Seat 6: Titif88 (71024)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 140
+Parata_666 posts ante 140
+Dangery posts ante 140
+Ovlc posts ante 140
+Takeutshi posts ante 140
+Titif88 posts ante 140
+YL_ML_GL_42 posts small blind 600
+Parata_666 posts big blind 1200
+Dealt to YL_ML_GL_42 [4d 6h]
+*** PRE-FLOP *** 
+Ovlc folds
+Takeutshi folds
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 3: Parata_666 (big blind) won 2640
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2547953828972462104-82-1669146307 - Holdem no limit (140/600/1200) - 2022/11/22 19:45:07 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (46271)
+Seat 2: YL_ML_GL_42 (30936)
+Seat 3: Parata_666 (75688)
+Seat 4: Ovlc (19740)
+Seat 5: Takeutshi (17922)
+Seat 6: Titif88 (70884)
+*** ANTE/BLINDS ***
+Parata_666 posts ante 140
+Ovlc posts ante 140
+Dangery posts ante 140
+YL_ML_GL_42 posts ante 140
+Takeutshi posts ante 140
+Titif88 posts ante 140
+Parata_666 posts small blind 600
+Ovlc posts big blind 1200
+Dealt to YL_ML_GL_42 [Kd 7h]
+*** PRE-FLOP *** 
+Takeutshi folds
+Titif88 folds
+Dangery raises 1200 to 2400
+YL_ML_GL_42 folds
+Parata_666 folds
+Ovlc calls 1200
+*** FLOP *** [Ks 3h 6c]
+Ovlc checks
+Dangery bets 2184
+Ovlc folds
+Dangery collected 8424 from pot
+*** SUMMARY ***
+Total pot 8424 | No rake
+Board: [Ks 3h 6c]
+Seat 1: Dangery won 8424
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2547953828972462104-83-1669146449 - Holdem no limit (140/600/1200) - 2022/11/22 19:47:29 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: Dangery (49971)
+Seat 2: YL_ML_GL_42 (30796)
+Seat 3: Parata_666 (74948)
+Seat 4: Ovlc (17200)
+Seat 5: Takeutshi (17782)
+Seat 6: Titif88 (70744)
+*** ANTE/BLINDS ***
+Ovlc posts ante 140
+Takeutshi posts ante 140
+Dangery posts ante 140
+YL_ML_GL_42 posts ante 140
+Parata_666 posts ante 140
+Titif88 posts ante 140
+Ovlc posts small blind 600
+Takeutshi posts big blind 1200
+Dealt to YL_ML_GL_42 [As Ks]
+*** PRE-FLOP *** 
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 raises 2400 to 3600
+Parata_666 folds
+Ovlc folds
+Takeutshi folds
+YL_ML_GL_42 collected 6240 from pot
+*** SUMMARY ***
+Total pot 6240 | No rake
+Seat 2: YL_ML_GL_42 won 6240
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2547953828972462104-84-1669146488 - Holdem no limit (140/600/1200) - 2022/11/22 19:48:08 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (49831)
+Seat 2: YL_ML_GL_42 (33296)
+Seat 3: Parata_666 (74808)
+Seat 4: Ovlc (16460)
+Seat 5: Takeutshi (16442)
+Seat 6: Titif88 (70604)
+*** ANTE/BLINDS ***
+Takeutshi posts ante 140
+Titif88 posts ante 140
+Dangery posts ante 140
+YL_ML_GL_42 posts ante 140
+Parata_666 posts ante 140
+Ovlc posts ante 140
+Takeutshi posts small blind 600
+Titif88 posts big blind 1200
+Dealt to YL_ML_GL_42 [6c 6d]
+*** PRE-FLOP *** 
+Dangery folds
+YL_ML_GL_42 raises 2400 to 3600
+Parata_666 folds
+Ovlc folds
+Takeutshi folds
+Titif88 calls 2400
+*** FLOP *** [5c Ah 8s]
+Titif88 checks
+YL_ML_GL_42 bets 6912
+Titif88 folds
+YL_ML_GL_42 collected 15552 from pot
+*** SUMMARY ***
+Total pot 15552 | No rake
+Board: [5c Ah 8s]
+Seat 2: YL_ML_GL_42 won 15552
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2547953828972462104-85-1669146550 - Holdem no limit (140/600/1200) - 2022/11/22 19:49:10 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (49691)
+Seat 2: YL_ML_GL_42 (38196)
+Seat 3: Parata_666 (74668)
+Seat 4: Ovlc (16320)
+Seat 5: Takeutshi (15702)
+Seat 6: Titif88 (66864)
+*** ANTE/BLINDS ***
+Titif88 posts ante 140
+Dangery posts ante 140
+YL_ML_GL_42 posts ante 140
+Parata_666 posts ante 140
+Ovlc posts ante 140
+Takeutshi posts ante 140
+Titif88 posts small blind 600
+Dangery posts big blind 1200
+Dealt to YL_ML_GL_42 [7c Qs]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Parata_666 raises 1200 to 2400
+Ovlc raises 13780 to 16180 and is all-in
+Takeutshi folds
+Titif88 folds
+Dangery folds
+Parata_666 folds
+Ovlc collected 21220 from pot
+*** SUMMARY ***
+Total pot 21220 | No rake
+Seat 4: Ovlc won 21220
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2547953828972462104-86-1669146591 - Holdem no limit (140/600/1200) - 2022/11/22 19:49:51 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (48351)
+Seat 2: YL_ML_GL_42 (38056)
+Seat 3: Parata_666 (72128)
+Seat 4: Ovlc (21220)
+Seat 5: Takeutshi (15562)
+Seat 6: Titif88 (66124)
+*** ANTE/BLINDS ***
+Dangery posts ante 140
+YL_ML_GL_42 posts ante 140
+Parata_666 posts ante 140
+Ovlc posts ante 140
+Takeutshi posts ante 140
+Titif88 posts ante 140
+Dangery posts small blind 600
+YL_ML_GL_42 posts big blind 1200
+Dealt to YL_ML_GL_42 [Jh Jc]
+*** PRE-FLOP *** 
+Parata_666 folds
+Ovlc folds
+Takeutshi folds
+Titif88 folds
+Dangery raises 2400 to 3600
+YL_ML_GL_42 raises 34316 to 37916 and is all-in
+Dangery folds
+YL_ML_GL_42 collected 42356 from pot
+*** SUMMARY ***
+Total pot 42356 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 42356
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #2547953828972462104-87-1669146638 - Holdem no limit (140/600/1200) - 2022/11/22 19:50:38 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (44611)
+Seat 2: YL_ML_GL_42 (42356)
+Seat 3: Parata_666 (71988)
+Seat 4: Ovlc (21080)
+Seat 5: Takeutshi (15422)
+Seat 6: Titif88 (65984)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 140
+Parata_666 posts ante 140
+Dangery posts ante 140
+Ovlc posts ante 140
+Takeutshi posts ante 140
+Titif88 posts ante 140
+YL_ML_GL_42 posts small blind 600
+Parata_666 posts big blind 1200
+Dealt to YL_ML_GL_42 [5s As]
+*** PRE-FLOP *** 
+Ovlc calls 1200
+Takeutshi folds
+Titif88 calls 1200
+Dangery folds
+YL_ML_GL_42 raises 2400 to 3600
+Parata_666 folds
+Ovlc calls 2400
+Titif88 calls 2400
+*** FLOP *** [7c 2h 9d]
+YL_ML_GL_42 checks
+Ovlc checks
+Titif88 checks
+*** TURN *** [7c 2h 9d][5h]
+YL_ML_GL_42 bets 10272
+Ovlc folds
+Titif88 folds
+YL_ML_GL_42 collected 23112 from pot
+*** SUMMARY ***
+Total pot 23112 | No rake
+Board: [7c 2h 9d 5h]
+Seat 2: YL_ML_GL_42 (small blind) won 23112
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2547953828972462104-88-1669146736 - Holdem no limit (160/700/1400) - 2022/11/22 19:52:16 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (44471)
+Seat 2: YL_ML_GL_42 (51456)
+Seat 3: Parata_666 (70648)
+Seat 4: Ovlc (17340)
+Seat 5: Takeutshi (15282)
+Seat 6: Titif88 (62244)
+*** ANTE/BLINDS ***
+Parata_666 posts ante 160
+Ovlc posts ante 160
+Dangery posts ante 160
+YL_ML_GL_42 posts ante 160
+Takeutshi posts ante 160
+Titif88 posts ante 160
+Parata_666 posts small blind 700
+Ovlc posts big blind 1400
+Dealt to YL_ML_GL_42 [6s 2d]
+*** PRE-FLOP *** 
+Takeutshi folds
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 calls 700
+Ovlc checks
+*** FLOP *** [7s 5s Kd]
+Parata_666 checks
+Ovlc bets 3760
+Parata_666 folds
+Ovlc collected 7520 from pot
+*** SUMMARY ***
+Total pot 7520 | No rake
+Board: [7s 5s Kd]
+Seat 4: Ovlc (big blind) won 7520
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2547953828972462104-89-1669146823 - Holdem no limit (160/700/1400) - 2022/11/22 19:53:43 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: Dangery (44311)
+Seat 2: YL_ML_GL_42 (51296)
+Seat 3: Parata_666 (69088)
+Seat 4: Ovlc (19540)
+Seat 5: Takeutshi (15122)
+Seat 6: Titif88 (62084)
+*** ANTE/BLINDS ***
+Ovlc posts ante 160
+Takeutshi posts ante 160
+Dangery posts ante 160
+YL_ML_GL_42 posts ante 160
+Parata_666 posts ante 160
+Titif88 posts ante 160
+Ovlc posts small blind 700
+Takeutshi posts big blind 1400
+Dealt to YL_ML_GL_42 [3s 2c]
+*** PRE-FLOP *** 
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 folds
+Ovlc calls 700
+Takeutshi checks
+*** FLOP *** [4h 8d Jd]
+Ovlc checks
+Takeutshi checks
+*** TURN *** [4h 8d Jd][As]
+Ovlc checks
+Takeutshi bets 1400
+Ovlc folds
+Takeutshi collected 5160 from pot
+*** SUMMARY ***
+Total pot 5160 | No rake
+Board: [4h 8d Jd As]
+Seat 5: Takeutshi (big blind) won 5160
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2547953828972462104-90-1669146863 - Holdem no limit (160/700/1400) - 2022/11/22 19:54:23 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (44151)
+Seat 2: YL_ML_GL_42 (51136)
+Seat 3: Parata_666 (68928)
+Seat 4: Ovlc (17980)
+Seat 5: Takeutshi (17322)
+Seat 6: Titif88 (61924)
+*** ANTE/BLINDS ***
+Takeutshi posts ante 160
+Titif88 posts ante 160
+Dangery posts ante 160
+YL_ML_GL_42 posts ante 160
+Parata_666 posts ante 160
+Ovlc posts ante 160
+Takeutshi posts small blind 700
+Titif88 posts big blind 1400
+Dealt to YL_ML_GL_42 [5h Jd]
+*** PRE-FLOP *** 
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 folds
+Ovlc folds
+Takeutshi folds
+Titif88 collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 6: Titif88 (big blind) won 3060
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2547953828972462104-91-1669146890 - Holdem no limit (160/700/1400) - 2022/11/22 19:54:50 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (43991)
+Seat 2: YL_ML_GL_42 (50976)
+Seat 3: Parata_666 (68768)
+Seat 4: Ovlc (17820)
+Seat 5: Takeutshi (16462)
+Seat 6: Titif88 (63424)
+*** ANTE/BLINDS ***
+Titif88 posts ante 160
+Dangery posts ante 160
+YL_ML_GL_42 posts ante 160
+Parata_666 posts ante 160
+Ovlc posts ante 160
+Takeutshi posts ante 160
+Titif88 posts small blind 700
+Dangery posts big blind 1400
+Dealt to YL_ML_GL_42 [7c Ad]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Parata_666 folds
+Ovlc calls 1400
+Takeutshi folds
+Titif88 raises 61864 to 63264 and is all-in
+Dangery folds
+Ovlc folds
+Titif88 collected 67024 from pot
+*** SUMMARY ***
+Total pot 67024 | No rake
+Seat 6: Titif88 (small blind) won 67024
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2547953828972462104-92-1669147263 - Holdem no limit (160/700/1400) - 2022/11/22 20:01:03 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (42431)
+Seat 2: YL_ML_GL_42 (50816)
+Seat 3: Parata_666 (68608)
+Seat 4: Ovlc (16260)
+Seat 5: Takeutshi (16302)
+Seat 6: Titif88 (67024)
+*** ANTE/BLINDS ***
+Dangery posts ante 160
+YL_ML_GL_42 posts ante 160
+Parata_666 posts ante 160
+Ovlc posts ante 160
+Takeutshi posts ante 160
+Titif88 posts ante 160
+Dangery posts small blind 700
+YL_ML_GL_42 posts big blind 1400
+Dealt to YL_ML_GL_42 [8d 2s]
+*** PRE-FLOP *** 
+Parata_666 folds
+Ovlc folds
+Takeutshi raises 14742 to 16142 and is all-in
+Titif88 calls 16142
+Dangery folds
+YL_ML_GL_42 folds
+*** FLOP *** [Th Td 7c]
+*** TURN *** [Th Td 7c][Jc]
+*** RIVER *** [Th Td 7c Jc][9h]
+*** SHOW DOWN ***
+Takeutshi shows [Kc 9c] (Two pairs : Tens and 9)
+Titif88 shows [Js Tc] (Full of Tens and Jacks)
+Titif88 collected 35344 from pot
+*** SUMMARY ***
+Total pot 35344 | No rake
+Board: [Th Td 7c Jc 9h]
+Seat 5: Takeutshi showed [Kc 9c] and lost with Two pairs : Tens and 9
+Seat 6: Titif88 (button) showed [Js Tc] and won 35344 with Full of Tens and Jacks
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2547953828972462104-93-1669147339 - Holdem no limit (160/700/1400) - 2022/11/22 20:02:19 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (41571)
+Seat 2: YL_ML_GL_42 (49256)
+Seat 3: Parata_666 (68448)
+Seat 4: Ovlc (16100)
+Seat 6: Titif88 (86066)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 160
+Parata_666 posts ante 160
+Dangery posts ante 160
+Ovlc posts ante 160
+Titif88 posts ante 160
+YL_ML_GL_42 posts small blind 700
+Parata_666 posts big blind 1400
+Dealt to YL_ML_GL_42 [Ac 7c]
+*** PRE-FLOP *** 
+Ovlc folds
+Titif88 calls 1400
+Dangery folds
+YL_ML_GL_42 raises 5000 to 6400
+Parata_666 folds
+Titif88 folds
+YL_ML_GL_42 collected 10000 from pot
+*** SUMMARY ***
+Total pot 10000 | No rake
+Seat 2: YL_ML_GL_42 (small blind) won 10000
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2547953828972462104-94-1669147408 - Holdem no limit (160/700/1400) - 2022/11/22 20:03:28 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (41411)
+Seat 2: YL_ML_GL_42 (52696)
+Seat 3: Parata_666 (66888)
+Seat 4: Ovlc (15940)
+Seat 6: Titif88 (84506)
+*** ANTE/BLINDS ***
+Parata_666 posts ante 160
+Ovlc posts ante 160
+Dangery posts ante 160
+YL_ML_GL_42 posts ante 160
+Titif88 posts ante 160
+Parata_666 posts small blind 700
+Ovlc posts big blind 1400
+Dealt to YL_ML_GL_42 [4s Qs]
+*** PRE-FLOP *** 
+Titif88 folds
+Dangery raises 1400 to 2800
+YL_ML_GL_42 folds
+Parata_666 folds
+Ovlc folds
+Dangery collected 5700 from pot
+*** SUMMARY ***
+Total pot 5700 | No rake
+Seat 1: Dangery won 5700
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #2547953828972462104-95-1669147447 - Holdem no limit (160/700/1400) - 2022/11/22 20:04:07 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: Dangery (44151)
+Seat 2: YL_ML_GL_42 (52536)
+Seat 3: Parata_666 (66028)
+Seat 4: Ovlc (14380)
+Seat 5: teamPSG38 (173797)
+Seat 6: Titif88 (84346)
+*** ANTE/BLINDS ***
+Ovlc posts ante 160
+teamPSG38 posts ante 160
+Dangery posts ante 160
+YL_ML_GL_42 posts ante 160
+Parata_666 posts ante 160
+Titif88 posts ante 160
+Ovlc posts small blind 700
+teamPSG38 posts big blind 1400
+Dealt to YL_ML_GL_42 [8s Ac]
+*** PRE-FLOP *** 
+Titif88 folds
+Dangery raises 1400 to 2800
+YL_ML_GL_42 calls 2800
+Parata_666 raises 11460 to 14260
+Ovlc folds
+teamPSG38 folds
+Dangery folds
+YL_ML_GL_42 raises 38116 to 52376 and is all-in
+Parata_666 calls 38116
+*** FLOP *** [Qs 6c 4d]
+*** TURN *** [Qs 6c 4d][8d]
+*** RIVER *** [Qs 6c 4d 8d][Jh]
+*** SHOW DOWN ***
+Parata_666 shows [Ks Ad] (High card : Ace)
+YL_ML_GL_42 shows [8s Ac] (One pair : 8)
+YL_ML_GL_42 collected 110612 from pot
+*** SUMMARY ***
+Total pot 110612 | No rake
+Board: [Qs 6c 4d 8d Jh]
+Seat 2: YL_ML_GL_42 showed [8s Ac] and won 110612 with One pair : 8
+Seat 3: Parata_666 (button) showed [Ks Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2547953828972462104-96-1669147517 - Holdem no limit (200/800/1600) - 2022/11/22 20:05:17 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (41191)
+Seat 2: YL_ML_GL_42 (110612)
+Seat 3: Parata_666 (13492)
+Seat 4: Ovlc (13520)
+Seat 5: teamPSG38 (172237)
+Seat 6: Titif88 (84186)
+*** ANTE/BLINDS ***
+teamPSG38 posts ante 200
+Titif88 posts ante 200
+Dangery posts ante 200
+YL_ML_GL_42 posts ante 200
+Parata_666 posts ante 200
+Ovlc posts ante 200
+teamPSG38 posts small blind 800
+Titif88 posts big blind 1600
+Dealt to YL_ML_GL_42 [9d Th]
+*** PRE-FLOP *** 
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 raises 11692 to 13292 and is all-in
+Ovlc folds
+teamPSG38 folds
+Titif88 folds
+Parata_666 collected 16892 from pot
+*** SUMMARY ***
+Total pot 16892 | No rake
+Seat 3: Parata_666 won 16892
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2547953828972462104-97-1669147550 - Holdem no limit (200/800/1600) - 2022/11/22 20:05:50 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (40991)
+Seat 2: YL_ML_GL_42 (110412)
+Seat 3: Parata_666 (16892)
+Seat 4: Ovlc (13320)
+Seat 5: teamPSG38 (171237)
+Seat 6: Titif88 (82386)
+*** ANTE/BLINDS ***
+Titif88 posts ante 200
+Dangery posts ante 200
+YL_ML_GL_42 posts ante 200
+Parata_666 posts ante 200
+Ovlc posts ante 200
+teamPSG38 posts ante 200
+Titif88 posts small blind 800
+Dangery posts big blind 1600
+Dealt to YL_ML_GL_42 [Ts 2s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Parata_666 raises 15092 to 16692 and is all-in
+Ovlc folds
+teamPSG38 folds
+Titif88 folds
+Dangery calls 15092
+*** FLOP *** [5d 5c 7h]
+*** TURN *** [5d 5c 7h][Jc]
+*** RIVER *** [5d 5c 7h Jc][Td]
+*** SHOW DOWN ***
+Dangery shows [8d Ah] (One pair : 5)
+Parata_666 shows [As 2c] (One pair : 5)
+Parata_666 collected 17692 from pot
+Dangery collected 17692 from pot
+*** SUMMARY ***
+Total pot 35384 | No rake
+Board: [5d 5c 7h Jc Td]
+Seat 1: Dangery (big blind) showed [8d Ah] and won 17692 with One pair : 5
+Seat 3: Parata_666 showed [As 2c] and won 17692 with One pair : 5
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2547953828972462104-98-1669147598 - Holdem no limit (200/800/1600) - 2022/11/22 20:06:38 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (41791)
+Seat 2: YL_ML_GL_42 (110212)
+Seat 3: Parata_666 (17692)
+Seat 4: Ovlc (13120)
+Seat 5: teamPSG38 (171037)
+Seat 6: Titif88 (81386)
+*** ANTE/BLINDS ***
+Dangery posts ante 200
+YL_ML_GL_42 posts ante 200
+Parata_666 posts ante 200
+Ovlc posts ante 200
+teamPSG38 posts ante 200
+Titif88 posts ante 200
+Dangery posts small blind 800
+YL_ML_GL_42 posts big blind 1600
+Dealt to YL_ML_GL_42 [9h 8s]
+*** PRE-FLOP *** 
+Parata_666 raises 15892 to 17492 and is all-in
+Ovlc folds
+teamPSG38 folds
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 collected 21092 from pot
+*** SUMMARY ***
+Total pot 21092 | No rake
+Seat 3: Parata_666 won 21092
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2547953828972462104-99-1669147626 - Holdem no limit (200/800/1600) - 2022/11/22 20:07:06 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (40791)
+Seat 2: YL_ML_GL_42 (108412)
+Seat 3: Parata_666 (21092)
+Seat 4: Ovlc (12920)
+Seat 5: teamPSG38 (170837)
+Seat 6: Titif88 (81186)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 200
+Parata_666 posts ante 200
+Dangery posts ante 200
+Ovlc posts ante 200
+teamPSG38 posts ante 200
+Titif88 posts ante 200
+YL_ML_GL_42 posts small blind 800
+Parata_666 posts big blind 1600
+Dealt to YL_ML_GL_42 [Qc 9s]
+*** PRE-FLOP *** 
+Ovlc calls 1600
+teamPSG38 folds
+Titif88 folds
+Dangery raises 4800 to 6400
+YL_ML_GL_42 folds
+Parata_666 raises 14492 to 20892 and is all-in
+Ovlc calls 11120 and is all-in
+Dangery folds
+*** FLOP *** [Kc Ac 8d]
+*** TURN *** [Kc Ac 8d][Td]
+*** RIVER *** [Kc Ac 8d Td][7s]
+*** SHOW DOWN ***
+Ovlc shows [3d Kd] (One pair : Kings)
+Parata_666 shows [Ad 6c] (One pair : Aces)
+Parata_666 collected 42012 from pot
+*** SUMMARY ***
+Total pot 42012 | No rake
+Board: [Kc Ac 8d Td 7s]
+Seat 3: Parata_666 (big blind) showed [Ad 6c] and won 42012 with One pair : Aces
+Seat 4: Ovlc showed [3d Kd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2547953828972462104-100-1669147689 - Holdem no limit (200/800/1600) - 2022/11/22 20:08:09 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (34191)
+Seat 2: YL_ML_GL_42 (107412)
+Seat 3: Parata_666 (42012)
+Seat 5: teamPSG38 (170637)
+Seat 6: Titif88 (80986)
+*** ANTE/BLINDS ***
+Parata_666 posts ante 200
+teamPSG38 posts ante 200
+Dangery posts ante 200
+YL_ML_GL_42 posts ante 200
+Titif88 posts ante 200
+Parata_666 posts small blind 800
+teamPSG38 posts big blind 1600
+Dealt to YL_ML_GL_42 [Kc As]
+*** PRE-FLOP *** 
+Titif88 folds
+Dangery raises 1600 to 3200
+YL_ML_GL_42 raises 9800 to 13000
+Parata_666 folds
+teamPSG38 folds
+Dangery folds
+YL_ML_GL_42 collected 19600 from pot
+*** SUMMARY ***
+Total pot 19600 | No rake
+Seat 2: YL_ML_GL_42 (button) won 19600
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2547953828972462104-101-1669147725 - Holdem no limit (200/800/1600) - 2022/11/22 20:08:45 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: Dangery (30791)
+Seat 2: YL_ML_GL_42 (113812)
+Seat 3: Parata_666 (41012)
+Seat 4: mybeerandme (25490)
+Seat 5: teamPSG38 (168837)
+Seat 6: Titif88 (80786)
+*** ANTE/BLINDS ***
+teamPSG38 posts ante 200
+Titif88 posts ante 200
+Dangery posts ante 200
+YL_ML_GL_42 posts ante 200
+Parata_666 posts ante 200
+teamPSG38 posts small blind 800
+Titif88 posts big blind 1600
+Dealt to YL_ML_GL_42 [Td Ac]
+*** PRE-FLOP *** 
+Dangery folds
+YL_ML_GL_42 raises 3200 to 4800
+Parata_666 calls 4800
+teamPSG38 folds
+Titif88 folds
+*** FLOP *** [Qs Qd 4d]
+YL_ML_GL_42 bets 4550
+Parata_666 raises 4778 to 9328
+YL_ML_GL_42 folds
+Parata_666 collected 26878 from pot
+*** SUMMARY ***
+Total pot 26878 | No rake
+Board: [Qs Qd 4d]
+Seat 3: Parata_666 (button) won 26878
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #2547953828972462104-102-1669147814 - Holdem no limit (200/800/1600) - 2022/11/22 20:10:14 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (30591)
+Seat 2: YL_ML_GL_42 (104262)
+Seat 3: Parata_666 (53562)
+Seat 4: mybeerandme (25490)
+Seat 5: teamPSG38 (167837)
+Seat 6: Titif88 (78986)
+*** ANTE/BLINDS ***
+Titif88 posts ante 200
+Dangery posts ante 200
+YL_ML_GL_42 posts ante 200
+Parata_666 posts ante 200
+mybeerandme posts ante 200
+teamPSG38 posts ante 200
+Titif88 posts small blind 800
+Dangery posts big blind 1600
+Dealt to YL_ML_GL_42 [4s Ac]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Parata_666 folds
+mybeerandme folds
+teamPSG38 calls 1600
+Titif88 calls 800
+Dangery checks
+*** FLOP *** [Th Qs Tc]
+Titif88 checks
+Dangery checks
+teamPSG38 checks
+*** TURN *** [Th Qs Tc][5c]
+Titif88 bets 3900
+Dangery folds
+teamPSG38 folds
+Titif88 collected 9900 from pot
+*** SUMMARY ***
+Total pot 9900 | No rake
+Board: [Th Qs Tc 5c]
+Seat 6: Titif88 (small blind) won 9900
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2547953828972462104-103-1669147928 - Holdem no limit (250/1000/2000) - 2022/11/22 20:12:08 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 1: Dangery (28791)
+Seat 2: YL_ML_GL_42 (104062)
+Seat 3: Parata_666 (53362)
+Seat 4: mybeerandme (25290)
+Seat 5: teamPSG38 (166037)
+Seat 6: Titif88 (83186)
+*** ANTE/BLINDS ***
+Dangery posts ante 250
+YL_ML_GL_42 posts ante 250
+Parata_666 posts ante 250
+mybeerandme posts ante 250
+teamPSG38 posts ante 250
+Titif88 posts ante 250
+Dangery posts small blind 1000
+YL_ML_GL_42 posts big blind 2000
+Dealt to YL_ML_GL_42 [8c 2c]
+*** PRE-FLOP *** 
+Parata_666 folds
+mybeerandme folds
+teamPSG38 folds
+Titif88 folds
+Dangery calls 1000
+YL_ML_GL_42 checks
+*** FLOP *** [Ac As Qh]
+Dangery bets 2000
+YL_ML_GL_42 calls 2000
+*** TURN *** [Ac As Qh][4d]
+Dangery checks
+YL_ML_GL_42 checks
+*** RIVER *** [Ac As Qh 4d][6h]
+Dangery checks
+YL_ML_GL_42 bets 9500
+Dangery folds
+YL_ML_GL_42 collected 19000 from pot
+*** SUMMARY ***
+Total pot 19000 | No rake
+Board: [Ac As Qh 4d 6h]
+Seat 2: YL_ML_GL_42 (big blind) won 19000
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2547953828972462104-104-1669148030 - Holdem no limit (250/1000/2000) - 2022/11/22 20:13:50 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Dangery (24541)
+Seat 2: YL_ML_GL_42 (109312)
+Seat 3: Parata_666 (53112)
+Seat 4: mybeerandme (25040)
+Seat 5: teamPSG38 (165787)
+Seat 6: Titif88 (82936)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 250
+Parata_666 posts ante 250
+Dangery posts ante 250
+mybeerandme posts ante 250
+teamPSG38 posts ante 250
+Titif88 posts ante 250
+YL_ML_GL_42 posts small blind 1000
+Parata_666 posts big blind 2000
+Dealt to YL_ML_GL_42 [Tc 2h]
+*** PRE-FLOP *** 
+mybeerandme folds
+teamPSG38 folds
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Seat 3: Parata_666 (big blind) won 4500
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2547953828972462104-105-1669148047 - Holdem no limit (250/1000/2000) - 2022/11/22 20:14:07 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Dangery (24291)
+Seat 2: YL_ML_GL_42 (108062)
+Seat 3: Parata_666 (55362)
+Seat 4: mybeerandme (24790)
+Seat 5: teamPSG38 (165537)
+Seat 6: Titif88 (82686)
+*** ANTE/BLINDS ***
+Parata_666 posts ante 250
+mybeerandme posts ante 250
+Dangery posts ante 250
+YL_ML_GL_42 posts ante 250
+teamPSG38 posts ante 250
+Titif88 posts ante 250
+Parata_666 posts small blind 1000
+mybeerandme posts big blind 2000
+Dealt to YL_ML_GL_42 [2c Ac]
+*** PRE-FLOP *** 
+teamPSG38 folds
+Titif88 folds
+Dangery raises 2000 to 4000
+YL_ML_GL_42 raises 12500 to 16500
+Parata_666 folds
+mybeerandme folds
+Dangery folds
+YL_ML_GL_42 collected 25000 from pot
+*** SUMMARY ***
+Total pot 25000 | No rake
+Seat 2: YL_ML_GL_42 (button) won 25000
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2547953828972462104-106-1669148080 - Holdem no limit (250/1000/2000) - 2022/11/22 20:14:40 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #3 is the button
+Seat 1: Dangery (20041)
+Seat 2: YL_ML_GL_42 (116312)
+Seat 3: Parata_666 (54112)
+Seat 4: mybeerandme (22540)
+Seat 5: teamPSG38 (165287)
+Seat 6: Titif88 (82436)
+*** ANTE/BLINDS ***
+mybeerandme posts ante 250
+teamPSG38 posts ante 250
+Dangery posts ante 250
+YL_ML_GL_42 posts ante 250
+Parata_666 posts ante 250
+Titif88 posts ante 250
+mybeerandme posts small blind 1000
+teamPSG38 posts big blind 2000
+Dealt to YL_ML_GL_42 [Kh 8s]
+*** PRE-FLOP *** 
+Titif88 folds
+Dangery folds
+YL_ML_GL_42 folds
+Parata_666 calls 2000
+mybeerandme folds
+teamPSG38 checks
+*** FLOP *** [6s 8d 3c]
+teamPSG38 checks
+Parata_666 checks
+*** TURN *** [6s 8d 3c][Ks]
+teamPSG38 checks
+Parata_666 bets 4225
+teamPSG38 folds
+Parata_666 collected 10725 from pot
+*** SUMMARY ***
+Total pot 10725 | No rake
+Board: [6s 8d 3c Ks]
+Seat 3: Parata_666 (button) won 10725
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2547953828972462104-107-1669148167 - Holdem no limit (250/1000/2000) - 2022/11/22 20:16:07 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #4 is the button
+Seat 1: Dangery (19791)
+Seat 2: YL_ML_GL_42 (116062)
+Seat 3: Parata_666 (58362)
+Seat 4: mybeerandme (21290)
+Seat 5: teamPSG38 (163037)
+Seat 6: Titif88 (82186)
+*** ANTE/BLINDS ***
+teamPSG38 posts ante 250
+Titif88 posts ante 250
+Dangery posts ante 250
+YL_ML_GL_42 posts ante 250
+Parata_666 posts ante 250
+mybeerandme posts ante 250
+teamPSG38 posts small blind 1000
+Titif88 posts big blind 2000
+Dealt to YL_ML_GL_42 [3h 3d]
+*** PRE-FLOP *** 
+Dangery folds
+YL_ML_GL_42 raises 4000 to 6000
+Parata_666 calls 6000
+mybeerandme raises 15040 to 21040 and is all-in
+teamPSG38 folds
+Titif88 folds
+YL_ML_GL_42 folds
+Parata_666 raises 37072 to 58112 and is all-in
+*** FLOP *** [Qs 2h Ks]
+*** TURN *** [Qs 2h Ks][7s]
+*** RIVER *** [Qs 2h Ks 7s][7h]
+*** SHOW DOWN ***
+Parata_666 shows [8h Ah] (One pair : 7)
+mybeerandme shows [Qc As] (Two pairs : Queens and 7)
+mybeerandme collected 52580 from main pot
+Parata_666 collected 37072 from side pot 1
+*** SUMMARY ***
+Total pot 89652 | No rake
+Board: [Qs 2h Ks 7s 7h]
+Seat 3: Parata_666 showed [8h Ah] and won 37072 with One pair : 7
+Seat 4: mybeerandme (button) showed [Qc As] and won 52580 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2547953828972462104-108-1669148219 - Holdem no limit (250/1000/2000) - 2022/11/22 20:16:59 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #5 is the button
+Seat 1: Dangery (19541)
+Seat 2: YL_ML_GL_42 (109812)
+Seat 3: Parata_666 (37072)
+Seat 4: mybeerandme (52580)
+Seat 5: teamPSG38 (161787)
+Seat 6: Titif88 (79936)
+*** ANTE/BLINDS ***
+Titif88 posts ante 250
+Dangery posts ante 250
+YL_ML_GL_42 posts ante 250
+Parata_666 posts ante 250
+mybeerandme posts ante 250
+teamPSG38 posts ante 250
+Titif88 posts small blind 1000
+Dangery posts big blind 2000
+Dealt to YL_ML_GL_42 [8c Ks]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Parata_666 folds
+mybeerandme folds
+teamPSG38 calls 2000
+Titif88 folds
+Dangery raises 17291 to 19291 and is all-in
+teamPSG38 calls 17291
+*** FLOP *** [2c 9h 7h]
+*** TURN *** [2c 9h 7h][3d]
+*** RIVER *** [2c 9h 7h 3d][Qs]
+*** SHOW DOWN ***
+Dangery shows [Ac Jd] (High card : Ace)
+teamPSG38 shows [Ts 7s] (One pair : 7)
+teamPSG38 collected 41082 from pot
+*** SUMMARY ***
+Total pot 41082 | No rake
+Board: [2c 9h 7h 3d Qs]
+Seat 1: Dangery (big blind) showed [Ac Jd] and lost with High card : Ace
+Seat 5: teamPSG38 (button) showed [Ts 7s] and won 41082 with One pair : 7
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #2547953828972462104-109-1669148272 - Holdem no limit (250/1000/2000) - 2022/11/22 20:17:52 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #6 is the button
+Seat 2: YL_ML_GL_42 (109562)
+Seat 3: Parata_666 (36822)
+Seat 4: mybeerandme (52330)
+Seat 5: teamPSG38 (183328)
+Seat 6: Titif88 (78686)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 250
+Parata_666 posts ante 250
+mybeerandme posts ante 250
+teamPSG38 posts ante 250
+Titif88 posts ante 250
+YL_ML_GL_42 posts big blind 2000
+Dealt to YL_ML_GL_42 [Kd 9h]
+*** PRE-FLOP *** 
+Parata_666 raises 34572 to 36572 and is all-in
+mybeerandme folds
+teamPSG38 folds
+Titif88 folds
+YL_ML_GL_42 folds
+Parata_666 collected 39822 from pot
+*** SUMMARY ***
+Total pot 39822 | No rake
+Seat 3: Parata_666 won 39822
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #2547953828972462104-110-1669148302 - Holdem no limit (300/1250/2500) - 2022/11/22 20:18:22 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #1 is the button
+Seat 2: YL_ML_GL_42 (107312)
+Seat 3: Parata_666 (39822)
+Seat 4: mybeerandme (52080)
+Seat 5: teamPSG38 (183078)
+Seat 6: Titif88 (78436)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts ante 300
+Parata_666 posts ante 300
+mybeerandme posts ante 300
+teamPSG38 posts ante 300
+Titif88 posts ante 300
+YL_ML_GL_42 posts small blind 1250
+Parata_666 posts big blind 2500
+Dealt to YL_ML_GL_42 [8h 8c]
+*** PRE-FLOP *** 
+mybeerandme folds
+teamPSG38 folds
+Titif88 folds
+YL_ML_GL_42 raises 104512 to 107012 and is all-in
+Parata_666 folds
+YL_ML_GL_42 collected 111012 from pot
+*** SUMMARY ***
+Total pot 111012 | No rake
+Seat 2: YL_ML_GL_42 (small blind) won 111012
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #2547953828972462104-111-1669148357 - Holdem no limit (300/1250/2500) - 2022/11/22 20:19:17 UTC
+Table: 'MYSTERY KO(593241730)#0023' 6-max (real money) Seat #2 is the button
+Seat 1: Ptit_Poks (144791)
+Seat 2: YL_ML_GL_42 (111012)
+Seat 3: Parata_666 (37022)
+Seat 4: mybeerandme (51780)
+Seat 5: teamPSG38 (182778)
+Seat 6: Titif88 (78136)
+*** ANTE/BLINDS ***
+Parata_666 posts ante 300
+mybeerandme posts ante 300
+Ptit_Poks posts ante 300
+YL_ML_GL_42 posts ante 300
+teamPSG38 posts ante 300
+Titif88 posts ante 300
+Parata_666 posts small blind 1250
+mybeerandme posts big blind 2500
+Dealt to YL_ML_GL_42 [Kc 9c]
+*** PRE-FLOP *** 
+teamPSG38 calls 2500
+Titif88 folds
+Ptit_Poks raises 5000 to 7500
+YL_ML_GL_42 calls 7500
+Parata_666 folds
+mybeerandme folds
+teamPSG38 calls 5000
+*** FLOP *** [6c 2h 5s]
+teamPSG38 checks
+Ptit_Poks checks
+YL_ML_GL_42 checks
+*** TURN *** [6c 2h 5s][Ks]
+teamPSG38 checks
+Ptit_Poks bets 21250
+YL_ML_GL_42 raises 81962 to 103212 and is all-in
+teamPSG38 raises 71766 to 174978 and is all-in
+Ptit_Poks folds
+*** RIVER *** [6c 2h 5s Ks][7c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kc 9c] (One pair : Kings)
+teamPSG38 shows [Kh As] (One pair : Kings)
+teamPSG38 collected 327490 from pot
+*** SUMMARY ***
+Total pot 327490 | No rake
+Board: [6c 2h 5s Ks 7c]
+Seat 2: YL_ML_GL_42 (button) showed [Kc 9c] and lost with One pair : Kings
+Seat 5: teamPSG38 showed [Kh As] and won 327490 with One pair : Kings
+
+

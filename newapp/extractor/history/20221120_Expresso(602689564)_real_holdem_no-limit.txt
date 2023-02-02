@@ -1,0 +1,281 @@
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2588531967020498945-1-1668948580 - Holdem no limit (10/20) - 2022/11/20 12:49:40 UTC
+Table: 'Expresso(602689564)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Dr.Pepar (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: ASMODAY 45 (500)
+*** ANTE/BLINDS ***
+ASMODAY 45 posts small blind 10
+Dr.Pepar posts big blind 20
+Dealt to YL_ML_GL_42 [5h Js]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+ASMODAY 45 calls 10
+Dr.Pepar checks
+*** FLOP *** [6c Qs Tc]
+ASMODAY 45 checks
+Dr.Pepar bets 20
+ASMODAY 45 folds
+Dr.Pepar collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [6c Qs Tc]
+Seat 1: Dr.Pepar (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2588531967020498945-2-1668948606 - Holdem no limit (10/20) - 2022/11/20 12:50:06 UTC
+Table: 'Expresso(602689564)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Dr.Pepar (520)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: ASMODAY 45 (480)
+*** ANTE/BLINDS ***
+Dr.Pepar posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [9h 4h]
+*** PRE-FLOP *** 
+ASMODAY 45 folds
+Dr.Pepar raises 20 to 40
+YL_ML_GL_42 calls 20
+*** FLOP *** [5d 5c Kh]
+Dr.Pepar bets 20
+YL_ML_GL_42 folds
+Dr.Pepar collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [5d 5c Kh]
+Seat 1: Dr.Pepar (small blind) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2588531967020498945-3-1668948630 - Holdem no limit (10/20) - 2022/11/20 12:50:30 UTC
+Table: 'Expresso(602689564)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Dr.Pepar (560)
+Seat 2: YL_ML_GL_42 (460)
+Seat 3: ASMODAY 45 (480)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+ASMODAY 45 posts big blind 20
+Dealt to YL_ML_GL_42 [Ts 2s]
+*** PRE-FLOP *** 
+Dr.Pepar folds
+YL_ML_GL_42 raises 40 to 60
+ASMODAY 45 calls 40
+*** FLOP *** [Jd 6s 8d]
+YL_ML_GL_42 checks
+ASMODAY 45 checks
+*** TURN *** [Jd 6s 8d][Th]
+YL_ML_GL_42 checks
+ASMODAY 45 checks
+*** RIVER *** [Jd 6s 8d Th][6c]
+YL_ML_GL_42 bets 78
+ASMODAY 45 folds
+YL_ML_GL_42 collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [Jd 6s 8d Th 6c]
+Seat 2: YL_ML_GL_42 (small blind) won 198
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2588531967020498945-4-1668948653 - Holdem no limit (10/20) - 2022/11/20 12:50:53 UTC
+Table: 'Expresso(602689564)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Dr.Pepar (560)
+Seat 2: YL_ML_GL_42 (520)
+Seat 3: ASMODAY 45 (420)
+*** ANTE/BLINDS ***
+ASMODAY 45 posts small blind 10
+Dr.Pepar posts big blind 20
+Dealt to YL_ML_GL_42 [Jh Kh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+ASMODAY 45 raises 350 to 420 and is all-in
+Dr.Pepar folds
+YL_ML_GL_42 calls 350
+*** FLOP *** [Td 2h 4s]
+*** TURN *** [Td 2h 4s][2c]
+*** RIVER *** [Td 2h 4s 2c][Js]
+*** SHOW DOWN ***
+ASMODAY 45 shows [Th Ah] (Two pairs : Tens and 2)
+YL_ML_GL_42 shows [Jh Kh] (Two pairs : Jacks and 2)
+YL_ML_GL_42 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [Td 2h 4s 2c Js]
+Seat 2: YL_ML_GL_42 (button) showed [Jh Kh] and won 860 with Two pairs : Jacks and 2
+Seat 3: ASMODAY 45 (small blind) showed [Th Ah] and lost with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2588531967020498945-5-1668948674 - Holdem no limit (15/30) - 2022/11/20 12:51:14 UTC
+Table: 'Expresso(602689564)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Dr.Pepar (540)
+Seat 2: YL_ML_GL_42 (960)
+*** ANTE/BLINDS ***
+Dr.Pepar posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [9c Qd]
+*** PRE-FLOP *** 
+Dr.Pepar folds
+YL_ML_GL_42 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2588531967020498945-6-1668948679 - Holdem no limit (15/30) - 2022/11/20 12:51:19 UTC
+Table: 'Expresso(602689564)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Dr.Pepar (525)
+Seat 2: YL_ML_GL_42 (975)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Dr.Pepar posts big blind 30
+Dealt to YL_ML_GL_42 [3h 6d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Dr.Pepar collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Dr.Pepar (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2588531967020498945-7-1668948683 - Holdem no limit (15/30) - 2022/11/20 12:51:23 UTC
+Table: 'Expresso(602689564)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Dr.Pepar (540)
+Seat 2: YL_ML_GL_42 (960)
+*** ANTE/BLINDS ***
+Dr.Pepar posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [2d 8c]
+*** PRE-FLOP *** 
+Dr.Pepar folds
+YL_ML_GL_42 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2588531967020498945-8-1668948694 - Holdem no limit (15/30) - 2022/11/20 12:51:34 UTC
+Table: 'Expresso(602689564)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Dr.Pepar (525)
+Seat 2: YL_ML_GL_42 (975)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Dr.Pepar posts big blind 30
+Dealt to YL_ML_GL_42 [6h 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 calls 15
+Dr.Pepar raises 105 to 135
+YL_ML_GL_42 folds
+Dr.Pepar collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Seat 1: Dr.Pepar (big blind) won 165
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2588531967020498945-9-1668948708 - Holdem no limit (15/30) - 2022/11/20 12:51:48 UTC
+Table: 'Expresso(602689564)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Dr.Pepar (555)
+Seat 2: YL_ML_GL_42 (945)
+*** ANTE/BLINDS ***
+Dr.Pepar posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [6s 2d]
+*** PRE-FLOP *** 
+Dr.Pepar raises 30 to 60
+YL_ML_GL_42 folds
+Dr.Pepar collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Dr.Pepar (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2588531967020498945-10-1668948716 - Holdem no limit (15/30) - 2022/11/20 12:51:56 UTC
+Table: 'Expresso(602689564)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Dr.Pepar (585)
+Seat 2: YL_ML_GL_42 (915)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+Dr.Pepar posts big blind 30
+Dealt to YL_ML_GL_42 [Kh Qh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 30 to 60
+Dr.Pepar raises 525 to 585 and is all-in
+YL_ML_GL_42 calls 525
+*** FLOP *** [8h Ad 9h]
+*** TURN *** [8h Ad 9h][6s]
+*** RIVER *** [8h Ad 9h 6s][Jd]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kh Qh] (High card : Ace)
+Dr.Pepar shows [8d 8s] (Trips of 8)
+Dr.Pepar collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Board: [8h Ad 9h 6s Jd]
+Seat 1: Dr.Pepar (big blind) showed [8d 8s] and won 1170 with Trips of 8
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [Kh Qh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2588531967020498945-11-1668948745 - Holdem no limit (15/30) - 2022/11/20 12:52:25 UTC
+Table: 'Expresso(602689564)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Dr.Pepar (1170)
+Seat 2: YL_ML_GL_42 (330)
+*** ANTE/BLINDS ***
+Dr.Pepar posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [9s Tc]
+*** PRE-FLOP *** 
+Dr.Pepar raises 30 to 60
+YL_ML_GL_42 raises 270 to 330 and is all-in
+Dr.Pepar raises 840 to 1170 and is all-in
+*** FLOP *** [4h 9h 9c]
+*** TURN *** [4h 9h 9c][As]
+*** RIVER *** [4h 9h 9c As][3s]
+*** SHOW DOWN ***
+Dr.Pepar shows [Jd Jc] (Two pairs : Jacks and 9)
+YL_ML_GL_42 shows [9s Tc] (Trips of 9)
+YL_ML_GL_42 collected 660 from main pot
+Dr.Pepar collected 840 from side pot 1
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [4h 9h 9c As 3s]
+Seat 1: Dr.Pepar (small blind) (button) showed [Jd Jc] and won 840 with Two pairs : Jacks and 9
+Seat 2: YL_ML_GL_42 (big blind) showed [9s Tc] and won 660 with Trips of 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2588531967020498945-12-1668948765 - Holdem no limit (20/40) - 2022/11/20 12:52:45 UTC
+Table: 'Expresso(602689564)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Dr.Pepar (840)
+Seat 2: YL_ML_GL_42 (660)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+Dr.Pepar posts big blind 40
+Dealt to YL_ML_GL_42 [Jd 2c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+Dr.Pepar collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Dr.Pepar (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2588531967020498945-13-1668948771 - Holdem no limit (20/40) - 2022/11/20 12:52:51 UTC
+Table: 'Expresso(602689564)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Dr.Pepar (860)
+Seat 2: YL_ML_GL_42 (640)
+*** ANTE/BLINDS ***
+Dr.Pepar posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Td Kh]
+*** PRE-FLOP *** 
+Dr.Pepar raises 820 to 860 and is all-in
+YL_ML_GL_42 calls 600 and is all-in
+*** FLOP *** [Jd Ac 9h]
+*** TURN *** [Jd Ac 9h][5h]
+*** RIVER *** [Jd Ac 9h 5h][3s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Td Kh] (High card : Ace)
+Dr.Pepar shows [4s 4h] (One pair : 4)
+Dr.Pepar collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Jd Ac 9h 5h 3s]
+Seat 1: Dr.Pepar (small blind) (button) showed [4s 4h] and won 1500 with One pair : 4
+Seat 2: YL_ML_GL_42 (big blind) showed [Td Kh] and lost with High card : Ace
+
+

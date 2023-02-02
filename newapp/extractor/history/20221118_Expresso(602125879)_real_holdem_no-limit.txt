@@ -1,0 +1,737 @@
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2586110958380253185-1-1668807205 - Holdem no limit (10/20) - 2022/11/18 21:33:25 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: le kec (500)
+Seat 3: PORTE-HERO (500)
+*** ANTE/BLINDS ***
+le kec posts small blind 10
+PORTE-HERO posts big blind 20
+Dealt to YL_ML_GL_42 [4c Td]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+le kec calls 10
+PORTE-HERO checks
+*** FLOP *** [Ah 7c 9s]
+le kec bets 20
+PORTE-HERO folds
+le kec collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ah 7c 9s]
+Seat 2: le kec (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2586110958380253185-2-1668807217 - Holdem no limit (10/20) - 2022/11/18 21:33:37 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: le kec (520)
+Seat 3: PORTE-HERO (480)
+*** ANTE/BLINDS ***
+PORTE-HERO posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Ah 6d]
+*** PRE-FLOP *** 
+le kec calls 20
+PORTE-HERO folds
+YL_ML_GL_42 raises 50 to 70
+le kec raises 450 to 520 and is all-in
+YL_ML_GL_42 calls 430 and is all-in
+*** FLOP *** [4s 5c Jd]
+*** TURN *** [4s 5c Jd][5s]
+*** RIVER *** [4s 5c Jd 5s][4c]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ah 6d] (Two pairs : 5 and 4)
+le kec shows [As Qh] (Two pairs : 5 and 4)
+le kec collected 525 from side pot 1
+YL_ML_GL_42 collected 505 from main pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Board: [4s 5c Jd 5s 4c]
+Seat 1: YL_ML_GL_42 (big blind) showed [Ah 6d] and won 505 with Two pairs : 5 and 4
+Seat 2: le kec (button) showed [As Qh] and won 525 with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2586110958380253185-3-1668807234 - Holdem no limit (10/20) - 2022/11/18 21:33:54 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (505)
+Seat 2: le kec (525)
+Seat 3: PORTE-HERO (470)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+le kec posts big blind 20
+Dealt to YL_ML_GL_42 [6d 4s]
+*** PRE-FLOP *** 
+PORTE-HERO folds
+YL_ML_GL_42 folds
+le kec collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: le kec (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2586110958380253185-4-1668807246 - Holdem no limit (10/20) - 2022/11/18 21:34:06 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (495)
+Seat 2: le kec (535)
+Seat 3: PORTE-HERO (470)
+*** ANTE/BLINDS ***
+le kec posts small blind 10
+PORTE-HERO posts big blind 20
+Dealt to YL_ML_GL_42 [Qs 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+le kec calls 10
+PORTE-HERO checks
+*** FLOP *** [Qd Kc Qh]
+le kec bets 20
+PORTE-HERO folds
+le kec collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Qd Kc Qh]
+Seat 2: le kec (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2586110958380253185-5-1668807262 - Holdem no limit (10/20) - 2022/11/18 21:34:22 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (495)
+Seat 2: le kec (555)
+Seat 3: PORTE-HERO (450)
+*** ANTE/BLINDS ***
+PORTE-HERO posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [4h 9h]
+*** PRE-FLOP *** 
+le kec folds
+PORTE-HERO raises 40 to 60
+YL_ML_GL_42 calls 40
+*** FLOP *** [Ts 9s 3d]
+PORTE-HERO checks
+YL_ML_GL_42 bets 120
+PORTE-HERO folds
+YL_ML_GL_42 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Ts 9s 3d]
+Seat 1: YL_ML_GL_42 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2586110958380253185-6-1668807293 - Holdem no limit (15/30) - 2022/11/18 21:34:53 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (555)
+Seat 2: le kec (555)
+Seat 3: PORTE-HERO (390)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+le kec posts big blind 30
+Dealt to YL_ML_GL_42 [7c Ac]
+*** PRE-FLOP *** 
+PORTE-HERO folds
+YL_ML_GL_42 raises 60 to 90
+le kec calls 60
+*** FLOP *** [6s 5s 7h]
+YL_ML_GL_42 bets 144
+le kec calls 144
+*** TURN *** [6s 5s 7h][2s]
+YL_ML_GL_42 bets 321 and is all-in
+le kec folds
+YL_ML_GL_42 collected 789 from pot
+*** SUMMARY ***
+Total pot 789 | No rake
+Board: [6s 5s 7h 2s]
+Seat 1: YL_ML_GL_42 (small blind) won 789
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2586110958380253185-7-1668807314 - Holdem no limit (15/30) - 2022/11/18 21:35:14 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (789)
+Seat 2: le kec (321)
+Seat 3: PORTE-HERO (390)
+*** ANTE/BLINDS ***
+le kec posts small blind 15
+PORTE-HERO posts big blind 30
+Dealt to YL_ML_GL_42 [Kd 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 38 to 68
+le kec raises 253 to 321 and is all-in
+PORTE-HERO folds
+YL_ML_GL_42 folds
+le kec collected 419 from pot
+*** SUMMARY ***
+Total pot 419 | No rake
+Seat 2: le kec (small blind) won 419
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2586110958380253185-8-1668807326 - Holdem no limit (15/30) - 2022/11/18 21:35:26 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (721)
+Seat 2: le kec (419)
+Seat 3: PORTE-HERO (360)
+*** ANTE/BLINDS ***
+PORTE-HERO posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [2c 6h]
+*** PRE-FLOP *** 
+le kec folds
+PORTE-HERO folds
+YL_ML_GL_42 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2586110958380253185-9-1668807332 - Holdem no limit (15/30) - 2022/11/18 21:35:32 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (736)
+Seat 2: le kec (419)
+Seat 3: PORTE-HERO (345)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+le kec posts big blind 30
+Dealt to YL_ML_GL_42 [6s Qd]
+*** PRE-FLOP *** 
+PORTE-HERO folds
+YL_ML_GL_42 folds
+le kec collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: le kec (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2586110958380253185-10-1668807336 - Holdem no limit (15/30) - 2022/11/18 21:35:36 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (721)
+Seat 2: le kec (434)
+Seat 3: PORTE-HERO (345)
+*** ANTE/BLINDS ***
+le kec posts small blind 15
+PORTE-HERO posts big blind 30
+Dealt to YL_ML_GL_42 [9h 3h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+le kec calls 15
+PORTE-HERO checks
+*** FLOP *** [7d As 9s]
+le kec checks
+PORTE-HERO bets 315 and is all-in
+le kec folds
+PORTE-HERO collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [7d As 9s]
+Seat 3: PORTE-HERO (big blind) won 375
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2586110958380253185-11-1668807352 - Holdem no limit (15/30) - 2022/11/18 21:35:52 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (721)
+Seat 2: le kec (404)
+Seat 3: PORTE-HERO (375)
+*** ANTE/BLINDS ***
+PORTE-HERO posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [8h 5s]
+*** PRE-FLOP *** 
+le kec folds
+PORTE-HERO raises 30 to 60
+YL_ML_GL_42 folds
+PORTE-HERO collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: PORTE-HERO (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2586110958380253185-12-1668807358 - Holdem no limit (15/30) - 2022/11/18 21:35:58 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (691)
+Seat 2: le kec (404)
+Seat 3: PORTE-HERO (405)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+le kec posts big blind 30
+Dealt to YL_ML_GL_42 [Ac Ks]
+*** PRE-FLOP *** 
+PORTE-HERO folds
+YL_ML_GL_42 raises 60 to 90
+le kec folds
+YL_ML_GL_42 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: YL_ML_GL_42 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2586110958380253185-13-1668807366 - Holdem no limit (15/30) - 2022/11/18 21:36:06 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (721)
+Seat 2: le kec (374)
+Seat 3: PORTE-HERO (405)
+*** ANTE/BLINDS ***
+le kec posts small blind 15
+PORTE-HERO posts big blind 30
+Dealt to YL_ML_GL_42 [6s Qh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+le kec calls 15
+PORTE-HERO checks
+*** FLOP *** [Qd Qc 3d]
+le kec checks
+PORTE-HERO checks
+*** TURN *** [Qd Qc 3d][Jc]
+le kec checks
+PORTE-HERO checks
+*** RIVER *** [Qd Qc 3d Jc][4d]
+le kec checks
+PORTE-HERO checks
+*** SHOW DOWN ***
+le kec shows [6d 7s] (One pair : Queens)
+PORTE-HERO shows [Kc 7d] (One pair : Queens)
+PORTE-HERO collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Qd Qc 3d Jc 4d]
+Seat 2: le kec (small blind) showed [6d 7s] and lost with One pair : Queens
+Seat 3: PORTE-HERO (big blind) showed [Kc 7d] and won 60 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2586110958380253185-14-1668807381 - Holdem no limit (20/40) - 2022/11/18 21:36:21 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (721)
+Seat 2: le kec (344)
+Seat 3: PORTE-HERO (435)
+*** ANTE/BLINDS ***
+PORTE-HERO posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [6c 5s]
+*** PRE-FLOP *** 
+le kec raises 304 to 344 and is all-in
+PORTE-HERO folds
+YL_ML_GL_42 folds
+le kec collected 404 from pot
+*** SUMMARY ***
+Total pot 404 | No rake
+Seat 2: le kec (button) won 404
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2586110958380253185-15-1668807388 - Holdem no limit (20/40) - 2022/11/18 21:36:28 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (681)
+Seat 2: le kec (404)
+Seat 3: PORTE-HERO (415)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+le kec posts big blind 40
+Dealt to YL_ML_GL_42 [6c 7h]
+*** PRE-FLOP *** 
+PORTE-HERO folds
+YL_ML_GL_42 folds
+le kec collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: le kec (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2586110958380253185-16-1668807394 - Holdem no limit (20/40) - 2022/11/18 21:36:34 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (661)
+Seat 2: le kec (424)
+Seat 3: PORTE-HERO (415)
+*** ANTE/BLINDS ***
+le kec posts small blind 20
+PORTE-HERO posts big blind 40
+Dealt to YL_ML_GL_42 [Ad 9s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 100
+le kec raises 324 to 424 and is all-in
+PORTE-HERO folds
+YL_ML_GL_42 calls 324
+*** FLOP *** [Kh 6h 6d]
+*** TURN *** [Kh 6h 6d][4s]
+*** RIVER *** [Kh 6h 6d 4s][Qh]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ad 9s] (One pair : 6)
+le kec shows [Qs Qd] (Full of Queens and 6)
+le kec collected 888 from pot
+*** SUMMARY ***
+Total pot 888 | No rake
+Board: [Kh 6h 6d 4s Qh]
+Seat 1: YL_ML_GL_42 (button) showed [Ad 9s] and lost with One pair : 6
+Seat 2: le kec (small blind) showed [Qs Qd] and won 888 with Full of Queens and 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2586110958380253185-17-1668807412 - Holdem no limit (20/40) - 2022/11/18 21:36:52 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (237)
+Seat 2: le kec (888)
+Seat 3: PORTE-HERO (375)
+*** ANTE/BLINDS ***
+PORTE-HERO posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [5d Kc]
+*** PRE-FLOP *** 
+le kec folds
+PORTE-HERO calls 20
+YL_ML_GL_42 checks
+*** FLOP *** [6c 3c 8h]
+PORTE-HERO checks
+YL_ML_GL_42 checks
+*** TURN *** [6c 3c 8h][Th]
+PORTE-HERO checks
+YL_ML_GL_42 checks
+*** RIVER *** [6c 3c 8h Th][Qs]
+PORTE-HERO checks
+YL_ML_GL_42 checks
+*** SHOW DOWN ***
+PORTE-HERO shows [4d Jd] (High card : Queen)
+YL_ML_GL_42 shows [5d Kc] (High card : King)
+YL_ML_GL_42 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [6c 3c 8h Th Qs]
+Seat 1: YL_ML_GL_42 (big blind) showed [5d Kc] and won 80 with High card : King
+Seat 3: PORTE-HERO (small blind) showed [4d Jd] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2586110958380253185-18-1668807431 - Holdem no limit (20/40) - 2022/11/18 21:37:11 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (277)
+Seat 2: le kec (888)
+Seat 3: PORTE-HERO (335)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+le kec posts big blind 40
+Dealt to YL_ML_GL_42 [Qc 7d]
+*** PRE-FLOP *** 
+PORTE-HERO folds
+YL_ML_GL_42 raises 237 to 277 and is all-in
+le kec folds
+YL_ML_GL_42 collected 317 from pot
+*** SUMMARY ***
+Total pot 317 | No rake
+Seat 1: YL_ML_GL_42 (small blind) won 317
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2586110958380253185-19-1668807443 - Holdem no limit (20/40) - 2022/11/18 21:37:23 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (317)
+Seat 2: le kec (848)
+Seat 3: PORTE-HERO (335)
+*** ANTE/BLINDS ***
+le kec posts small blind 20
+PORTE-HERO posts big blind 40
+Dealt to YL_ML_GL_42 [As 4c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 277 to 317 and is all-in
+le kec folds
+PORTE-HERO folds
+YL_ML_GL_42 collected 377 from pot
+*** SUMMARY ***
+Total pot 377 | No rake
+Seat 1: YL_ML_GL_42 (button) won 377
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2586110958380253185-20-1668807450 - Holdem no limit (20/40) - 2022/11/18 21:37:30 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (377)
+Seat 2: le kec (828)
+Seat 3: PORTE-HERO (295)
+*** ANTE/BLINDS ***
+PORTE-HERO posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Jd 6d]
+*** PRE-FLOP *** 
+le kec folds
+PORTE-HERO folds
+YL_ML_GL_42 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2586110958380253185-21-1668807456 - Holdem no limit (20/40) - 2022/11/18 21:37:36 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (397)
+Seat 2: le kec (828)
+Seat 3: PORTE-HERO (275)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+le kec posts big blind 40
+Dealt to YL_ML_GL_42 [5c 2h]
+*** PRE-FLOP *** 
+PORTE-HERO folds
+YL_ML_GL_42 folds
+le kec collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: le kec (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2586110958380253185-22-1668807461 - Holdem no limit (20/40) - 2022/11/18 21:37:41 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (377)
+Seat 2: le kec (848)
+Seat 3: PORTE-HERO (275)
+*** ANTE/BLINDS ***
+le kec posts small blind 20
+PORTE-HERO posts big blind 40
+Dealt to YL_ML_GL_42 [7h Ah]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 100
+le kec folds
+PORTE-HERO folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: YL_ML_GL_42 (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #2586110958380253185-23-1668807468 - Holdem no limit (20/40) - 2022/11/18 21:37:48 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (437)
+Seat 2: le kec (828)
+Seat 3: PORTE-HERO (235)
+*** ANTE/BLINDS ***
+PORTE-HERO posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Ah Tc]
+*** PRE-FLOP *** 
+le kec folds
+PORTE-HERO folds
+YL_ML_GL_42 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 4 - HandId: #2586110958380253185-24-1668807474 - Holdem no limit (30/60) - 2022/11/18 21:37:54 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (457)
+Seat 2: le kec (828)
+Seat 3: PORTE-HERO (215)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+le kec posts big blind 60
+Dealt to YL_ML_GL_42 [Ts As]
+*** PRE-FLOP *** 
+PORTE-HERO raises 155 to 215 and is all-in
+YL_ML_GL_42 raises 242 to 457 and is all-in
+le kec folds
+*** FLOP *** [9h 5h 8d]
+*** TURN *** [9h 5h 8d][5s]
+*** RIVER *** [9h 5h 8d 5s][Ks]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Ts As] (One pair : 5)
+PORTE-HERO shows [8h Ah] (Two pairs : 8 and 5)
+PORTE-HERO collected 490 from main pot
+YL_ML_GL_42 collected 242 from side pot 1
+*** SUMMARY ***
+Total pot 732 | No rake
+Board: [9h 5h 8d 5s Ks]
+Seat 1: YL_ML_GL_42 (small blind) showed [Ts As] and won 242 with One pair : 5
+Seat 3: PORTE-HERO (button) showed [8h Ah] and won 490 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 4 - HandId: #2586110958380253185-25-1668807488 - Holdem no limit (30/60) - 2022/11/18 21:38:08 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (242)
+Seat 2: le kec (768)
+Seat 3: PORTE-HERO (490)
+*** ANTE/BLINDS ***
+le kec posts small blind 30
+PORTE-HERO posts big blind 60
+Dealt to YL_ML_GL_42 [Kc 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 182 to 242 and is all-in
+le kec folds
+PORTE-HERO folds
+YL_ML_GL_42 collected 332 from pot
+*** SUMMARY ***
+Total pot 332 | No rake
+Seat 1: YL_ML_GL_42 (button) won 332
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 4 - HandId: #2586110958380253185-26-1668807494 - Holdem no limit (30/60) - 2022/11/18 21:38:14 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (332)
+Seat 2: le kec (738)
+Seat 3: PORTE-HERO (430)
+*** ANTE/BLINDS ***
+PORTE-HERO posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [6c 8c]
+*** PRE-FLOP *** 
+le kec folds
+PORTE-HERO folds
+YL_ML_GL_42 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 4 - HandId: #2586110958380253185-27-1668807499 - Holdem no limit (30/60) - 2022/11/18 21:38:19 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (362)
+Seat 2: le kec (738)
+Seat 3: PORTE-HERO (400)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+le kec posts big blind 60
+Dealt to YL_ML_GL_42 [Kh Th]
+*** PRE-FLOP *** 
+PORTE-HERO folds
+YL_ML_GL_42 raises 302 to 362 and is all-in
+le kec calls 302
+*** FLOP *** [Tc Jd Td]
+*** TURN *** [Tc Jd Td][9s]
+*** RIVER *** [Tc Jd Td 9s][4h]
+*** SHOW DOWN ***
+le kec shows [2d Ks] (One pair : Tens)
+YL_ML_GL_42 shows [Kh Th] (Trips of Tens)
+YL_ML_GL_42 collected 724 from pot
+*** SUMMARY ***
+Total pot 724 | No rake
+Board: [Tc Jd Td 9s 4h]
+Seat 1: YL_ML_GL_42 (small blind) showed [Kh Th] and won 724 with Trips of Tens
+Seat 2: le kec (big blind) showed [2d Ks] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 4 - HandId: #2586110958380253185-28-1668807519 - Holdem no limit (30/60) - 2022/11/18 21:38:39 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (724)
+Seat 2: le kec (376)
+Seat 3: PORTE-HERO (400)
+*** ANTE/BLINDS ***
+le kec posts small blind 30
+PORTE-HERO posts big blind 60
+Dealt to YL_ML_GL_42 [9s Td]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 75 to 135
+le kec folds
+PORTE-HERO folds
+YL_ML_GL_42 collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Seat 1: YL_ML_GL_42 (button) won 225
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 4 - HandId: #2586110958380253185-29-1668807526 - Holdem no limit (30/60) - 2022/11/18 21:38:46 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (814)
+Seat 2: le kec (346)
+Seat 3: PORTE-HERO (340)
+*** ANTE/BLINDS ***
+PORTE-HERO posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [5s 2s]
+*** PRE-FLOP *** 
+le kec folds
+PORTE-HERO raises 280 to 340 and is all-in
+YL_ML_GL_42 folds
+PORTE-HERO collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 3: PORTE-HERO (small blind) won 400
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 4 - HandId: #2586110958380253185-30-1668807534 - Holdem no limit (30/60) - 2022/11/18 21:38:54 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (754)
+Seat 2: le kec (346)
+Seat 3: PORTE-HERO (400)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+le kec posts big blind 60
+Dealt to YL_ML_GL_42 [Js Td]
+*** PRE-FLOP *** 
+PORTE-HERO folds
+YL_ML_GL_42 raises 120 to 180
+le kec raises 166 to 346 and is all-in
+YL_ML_GL_42 calls 166
+*** FLOP *** [Qd 7h Jc]
+*** TURN *** [Qd 7h Jc][6c]
+*** RIVER *** [Qd 7h Jc 6c][9h]
+*** SHOW DOWN ***
+le kec shows [Kd 4c] (High card : King)
+YL_ML_GL_42 shows [Js Td] (One pair : Jacks)
+YL_ML_GL_42 collected 692 from pot
+*** SUMMARY ***
+Total pot 692 | No rake
+Board: [Qd 7h Jc 6c 9h]
+Seat 1: YL_ML_GL_42 (small blind) showed [Js Td] and won 692 with One pair : Jacks
+Seat 2: le kec (big blind) showed [Kd 4c] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 4 - HandId: #2586110958380253185-31-1668807553 - Holdem no limit (30/60) - 2022/11/18 21:39:13 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (1100)
+Seat 3: PORTE-HERO (400)
+*** ANTE/BLINDS ***
+PORTE-HERO posts small blind 30
+YL_ML_GL_42 posts big blind 60
+Dealt to YL_ML_GL_42 [5d Qc]
+*** PRE-FLOP *** 
+PORTE-HERO folds
+YL_ML_GL_42 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 4 - HandId: #2586110958380253185-32-1668807557 - Holdem no limit (30/60) - 2022/11/18 21:39:17 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1130)
+Seat 3: PORTE-HERO (370)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 30
+PORTE-HERO posts big blind 60
+Dealt to YL_ML_GL_42 [5s Jh]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 90 to 150
+PORTE-HERO folds
+YL_ML_GL_42 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 210
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 5 - HandId: #2586110958380253185-33-1668807564 - Holdem no limit (40/80) - 2022/11/18 21:39:24 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (1190)
+Seat 3: PORTE-HERO (310)
+*** ANTE/BLINDS ***
+PORTE-HERO posts small blind 40
+YL_ML_GL_42 posts big blind 80
+Dealt to YL_ML_GL_42 [Kd 8s]
+*** PRE-FLOP *** 
+PORTE-HERO folds
+YL_ML_GL_42 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 5 - HandId: #2586110958380253185-34-1668807568 - Holdem no limit (40/80) - 2022/11/18 21:39:28 UTC
+Table: 'Expresso(602125879)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1230)
+Seat 3: PORTE-HERO (270)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 40
+PORTE-HERO posts big blind 80
+Dealt to YL_ML_GL_42 [Qd 8d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 100 to 180
+PORTE-HERO raises 90 to 270 and is all-in
+YL_ML_GL_42 calls 90
+*** FLOP *** [Jd 7d 8s]
+*** TURN *** [Jd 7d 8s][Kd]
+*** RIVER *** [Jd 7d 8s Kd][Ad]
+*** SHOW DOWN ***
+PORTE-HERO shows [7h As] (Two pairs : Aces and 7)
+YL_ML_GL_42 shows [Qd 8d] (Flush Ace high)
+YL_ML_GL_42 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Jd 7d 8s Kd Ad]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [Qd 8d] and won 540 with Flush Ace high
+Seat 3: PORTE-HERO (big blind) showed [7h As] and lost with Two pairs : Aces and 7
+
+

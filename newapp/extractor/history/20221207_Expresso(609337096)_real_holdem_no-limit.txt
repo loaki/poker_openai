@@ -1,0 +1,204 @@
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2617082899559612417-1-1670429284 - Holdem no limit (10/20) - 2022/12/07 16:08:04 UTC
+Table: 'Expresso(609337096)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: theoooo88 (500)
+Seat 3: dopaminasd1 (500)
+*** ANTE/BLINDS ***
+theoooo88 posts small blind 10
+dopaminasd1 posts big blind 20
+Dealt to YL_ML_GL_42 [7d Tc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+theoooo88 folds
+dopaminasd1 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: dopaminasd1 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2617082899559612417-2-1670429293 - Holdem no limit (10/20) - 2022/12/07 16:08:13 UTC
+Table: 'Expresso(609337096)#0' 3-max (real money) Seat #2 is the button
+Seat 1: YL_ML_GL_42 (500)
+Seat 2: theoooo88 (490)
+Seat 3: dopaminasd1 (510)
+*** ANTE/BLINDS ***
+dopaminasd1 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Td 2h]
+*** PRE-FLOP *** 
+theoooo88 raises 20 to 40
+dopaminasd1 folds
+YL_ML_GL_42 calls 20
+*** FLOP *** [9s Tc 8s]
+YL_ML_GL_42 bets 90
+theoooo88 raises 90 to 180
+YL_ML_GL_42 raises 280 to 460 and is all-in
+theoooo88 calls 270 and is all-in
+*** TURN *** [9s Tc 8s][9h]
+*** RIVER *** [9s Tc 8s 9h][7h]
+*** SHOW DOWN ***
+theoooo88 shows [Ad Kd] (One pair : 9)
+YL_ML_GL_42 shows [Td 2h] (Two pairs : Tens and 9)
+YL_ML_GL_42 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [9s Tc 8s 9h 7h]
+Seat 1: YL_ML_GL_42 (big blind) showed [Td 2h] and won 1000 with Two pairs : Tens and 9
+Seat 2: theoooo88 (button) showed [Ad Kd] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2617082899559612417-3-1670429334 - Holdem no limit (10/20) - 2022/12/07 16:08:54 UTC
+Table: 'Expresso(609337096)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (1000)
+Seat 3: dopaminasd1 (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+dopaminasd1 posts big blind 20
+Dealt to YL_ML_GL_42 [6d 5s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+dopaminasd1 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: dopaminasd1 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #2617082899559612417-4-1670429338 - Holdem no limit (10/20) - 2022/12/07 16:08:58 UTC
+Table: 'Expresso(609337096)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (990)
+Seat 3: dopaminasd1 (510)
+*** ANTE/BLINDS ***
+dopaminasd1 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [5s 9d]
+*** PRE-FLOP *** 
+dopaminasd1 calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [7d 6s 2d]
+YL_ML_GL_42 checks
+dopaminasd1 bets 20
+YL_ML_GL_42 calls 20
+*** TURN *** [7d 6s 2d][4s]
+YL_ML_GL_42 bets 64
+dopaminasd1 calls 64
+*** RIVER *** [7d 6s 2d 4s][4c]
+YL_ML_GL_42 checks
+dopaminasd1 bets 104
+YL_ML_GL_42 folds
+dopaminasd1 collected 312 from pot
+*** SUMMARY ***
+Total pot 312 | No rake
+Board: [7d 6s 2d 4s 4c]
+Seat 3: dopaminasd1 (small blind) (button) won 312
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2617082899559612417-5-1670429370 - Holdem no limit (15/30) - 2022/12/07 16:09:30 UTC
+Table: 'Expresso(609337096)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (886)
+Seat 3: dopaminasd1 (614)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+dopaminasd1 posts big blind 30
+Dealt to YL_ML_GL_42 [Kc 9s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+dopaminasd1 calls 60
+*** FLOP *** [4c 8d Kh]
+dopaminasd1 checks
+YL_ML_GL_42 bets 144
+dopaminasd1 calls 144
+*** TURN *** [4c 8d Kh][Th]
+dopaminasd1 checks
+YL_ML_GL_42 bets 468
+dopaminasd1 calls 380 and is all-in
+*** RIVER *** [4c 8d Kh Th][Jh]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Kc 9s] (One pair : Kings)
+dopaminasd1 shows [8h 6h] (Flush King high)
+dopaminasd1 collected 1228 from main pot
+YL_ML_GL_42 collected 88 from side pot 1
+*** SUMMARY ***
+Total pot 1316 | No rake
+Board: [4c 8d Kh Th Jh]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [Kc 9s] and won 88 with One pair : Kings
+Seat 3: dopaminasd1 (big blind) showed [8h 6h] and won 1228 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2617082899559612417-6-1670429396 - Holdem no limit (15/30) - 2022/12/07 16:09:56 UTC
+Table: 'Expresso(609337096)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (272)
+Seat 3: dopaminasd1 (1228)
+*** ANTE/BLINDS ***
+dopaminasd1 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Qs Js]
+*** PRE-FLOP *** 
+dopaminasd1 calls 15
+YL_ML_GL_42 raises 242 to 272 and is all-in
+dopaminasd1 folds
+YL_ML_GL_42 collected 302 from pot
+*** SUMMARY ***
+Total pot 302 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 302
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2617082899559612417-7-1670429407 - Holdem no limit (15/30) - 2022/12/07 16:10:07 UTC
+Table: 'Expresso(609337096)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (302)
+Seat 3: dopaminasd1 (1198)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+dopaminasd1 posts big blind 30
+Dealt to YL_ML_GL_42 [Ah 7d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 272 to 302 and is all-in
+dopaminasd1 folds
+YL_ML_GL_42 collected 332 from pot
+*** SUMMARY ***
+Total pot 332 | No rake
+Seat 1: YL_ML_GL_42 (small blind) (button) won 332
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2617082899559612417-8-1670429417 - Holdem no limit (15/30) - 2022/12/07 16:10:17 UTC
+Table: 'Expresso(609337096)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YL_ML_GL_42 (332)
+Seat 3: dopaminasd1 (1168)
+*** ANTE/BLINDS ***
+dopaminasd1 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [7d Jc]
+*** PRE-FLOP *** 
+dopaminasd1 calls 15
+YL_ML_GL_42 raises 302 to 332 and is all-in
+dopaminasd1 folds
+YL_ML_GL_42 collected 362 from pot
+*** SUMMARY ***
+Total pot 362 | No rake
+Seat 1: YL_ML_GL_42 (big blind) won 362
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #2617082899559612417-9-1670429424 - Holdem no limit (15/30) - 2022/12/07 16:10:24 UTC
+Table: 'Expresso(609337096)#0' 3-max (real money) Seat #1 is the button
+Seat 1: YL_ML_GL_42 (362)
+Seat 3: dopaminasd1 (1138)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+dopaminasd1 posts big blind 30
+Dealt to YL_ML_GL_42 [Th Kc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 332 to 362 and is all-in
+dopaminasd1 raises 776 to 1138 and is all-in
+*** FLOP *** [9d 2c 4h]
+*** TURN *** [9d 2c 4h][Qc]
+*** RIVER *** [9d 2c 4h Qc][8d]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Th Kc] (High card : King)
+dopaminasd1 shows [4s 4d] (Trips of 4)
+dopaminasd1 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [9d 2c 4h Qc 8d]
+Seat 1: YL_ML_GL_42 (small blind) (button) showed [Th Kc] and lost with High card : King
+Seat 3: dopaminasd1 (big blind) showed [4s 4d] and won 1500 with Trips of 4
+
+

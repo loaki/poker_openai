@@ -1,0 +1,385 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2596193815014408193-1-1669329535 - Holdem no limit (10/20) - 2022/11/24 22:38:55 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #3 is the button
+Seat 1: kf111 (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Kentihnoo (500)
+*** ANTE/BLINDS ***
+kf111 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [3s 7d]
+*** PRE-FLOP *** 
+Kentihnoo folds
+kf111 calls 10
+YL_ML_GL_42 checks
+*** FLOP *** [9c 6h 6c]
+kf111 bets 40
+YL_ML_GL_42 folds
+kf111 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [9c 6h 6c]
+Seat 1: kf111 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2596193815014408193-2-1669329553 - Holdem no limit (10/20) - 2022/11/24 22:39:13 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kf111 (520)
+Seat 2: YL_ML_GL_42 (480)
+Seat 3: Kentihnoo (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+Kentihnoo posts big blind 20
+Dealt to YL_ML_GL_42 [5h 4h]
+*** PRE-FLOP *** 
+kf111 folds
+YL_ML_GL_42 raises 40 to 60
+Kentihnoo folds
+YL_ML_GL_42 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 2: YL_ML_GL_42 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2596193815014408193-3-1669329565 - Holdem no limit (10/20) - 2022/11/24 22:39:25 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kf111 (520)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: Kentihnoo (480)
+*** ANTE/BLINDS ***
+Kentihnoo posts small blind 10
+kf111 posts big blind 20
+Dealt to YL_ML_GL_42 [Td As]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+Kentihnoo calls 60
+kf111 folds
+*** FLOP *** [4d 3c 9h]
+Kentihnoo bets 160
+YL_ML_GL_42 raises 270 to 430 and is all-in
+Kentihnoo calls 250 and is all-in
+*** TURN *** [4d 3c 9h][2h]
+*** RIVER *** [4d 3c 9h 2h][5h]
+*** SHOW DOWN ***
+Kentihnoo shows [4s Qh] (One pair : 4)
+YL_ML_GL_42 shows [Td As] (Straight 5 high)
+YL_ML_GL_42 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [4d 3c 9h 2h 5h]
+Seat 2: YL_ML_GL_42 (button) showed [Td As] and won 1000 with Straight 5 high
+Seat 3: Kentihnoo (small blind) showed [4s Qh] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2596193815014408193-4-1669329598 - Holdem no limit (10/20) - 2022/11/24 22:39:58 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kf111 (500)
+Seat 2: YL_ML_GL_42 (1000)
+*** ANTE/BLINDS ***
+kf111 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [5c 8c]
+*** PRE-FLOP *** 
+kf111 folds
+YL_ML_GL_42 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2596193815014408193-5-1669329619 - Holdem no limit (10/20) - 2022/11/24 22:40:19 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kf111 (490)
+Seat 2: YL_ML_GL_42 (1010)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+kf111 posts big blind 20
+Dealt to YL_ML_GL_42 [Tc 4d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+kf111 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: kf111 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2596193815014408193-6-1669329630 - Holdem no limit (15/30) - 2022/11/24 22:40:30 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kf111 (500)
+Seat 2: YL_ML_GL_42 (1000)
+*** ANTE/BLINDS ***
+kf111 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [5d Kd]
+*** PRE-FLOP *** 
+kf111 raises 30 to 60
+YL_ML_GL_42 raises 940 to 1000 and is all-in
+kf111 calls 440 and is all-in
+*** FLOP *** [5c 8s 8c]
+*** TURN *** [5c 8s 8c][8h]
+*** RIVER *** [5c 8s 8c 8h][Qs]
+*** SHOW DOWN ***
+kf111 shows [Jc Jd] (Full of 8 and Jacks)
+YL_ML_GL_42 shows [5d Kd] (Full of 8 and 5)
+YL_ML_GL_42 collected 500 from side pot 1
+kf111 collected 1000 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [5c 8s 8c 8h Qs]
+Seat 1: kf111 (small blind) (button) showed [Jc Jd] and won 1000 with Full of 8 and Jacks
+Seat 2: YL_ML_GL_42 (big blind) showed [5d Kd] and won 500 with Full of 8 and 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2596193815014408193-7-1669329650 - Holdem no limit (15/30) - 2022/11/24 22:40:50 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kf111 (1000)
+Seat 2: YL_ML_GL_42 (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+kf111 posts big blind 30
+Dealt to YL_ML_GL_42 [3d 8c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+kf111 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: kf111 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2596193815014408193-8-1669329655 - Holdem no limit (15/30) - 2022/11/24 22:40:55 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kf111 (1015)
+Seat 2: YL_ML_GL_42 (485)
+*** ANTE/BLINDS ***
+kf111 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [6s 3h]
+*** PRE-FLOP *** 
+kf111 calls 15
+YL_ML_GL_42 checks
+*** FLOP *** [Ts 5c 7h]
+YL_ML_GL_42 checks
+kf111 checks
+*** TURN *** [Ts 5c 7h][Jd]
+YL_ML_GL_42 checks
+kf111 bets 60
+YL_ML_GL_42 calls 60
+*** RIVER *** [Ts 5c 7h Jd][Jh]
+YL_ML_GL_42 checks
+kf111 bets 180
+YL_ML_GL_42 folds
+kf111 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ts 5c 7h Jd Jh]
+Seat 1: kf111 (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2596193815014408193-9-1669329680 - Holdem no limit (15/30) - 2022/11/24 22:41:20 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kf111 (1105)
+Seat 2: YL_ML_GL_42 (395)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+kf111 posts big blind 30
+Dealt to YL_ML_GL_42 [Js Kc]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+kf111 folds
+YL_ML_GL_42 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: YL_ML_GL_42 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2596193815014408193-10-1669329687 - Holdem no limit (15/30) - 2022/11/24 22:41:27 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kf111 (1075)
+Seat 2: YL_ML_GL_42 (425)
+*** ANTE/BLINDS ***
+kf111 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [3d 7d]
+*** PRE-FLOP *** 
+kf111 folds
+YL_ML_GL_42 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2596193815014408193-11-1669329693 - Holdem no limit (15/30) - 2022/11/24 22:41:33 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kf111 (1060)
+Seat 2: YL_ML_GL_42 (440)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+kf111 posts big blind 30
+Dealt to YL_ML_GL_42 [5d 9d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+kf111 folds
+YL_ML_GL_42 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: YL_ML_GL_42 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2596193815014408193-12-1669329711 - Holdem no limit (20/40) - 2022/11/24 22:41:51 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kf111 (1030)
+Seat 2: YL_ML_GL_42 (470)
+*** ANTE/BLINDS ***
+kf111 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [4h 3d]
+*** PRE-FLOP *** 
+kf111 raises 80 to 120
+YL_ML_GL_42 folds
+kf111 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: kf111 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2596193815014408193-13-1669329725 - Holdem no limit (20/40) - 2022/11/24 22:42:05 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kf111 (1070)
+Seat 2: YL_ML_GL_42 (430)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+kf111 posts big blind 40
+Dealt to YL_ML_GL_42 [9s Ac]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+kf111 folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: YL_ML_GL_42 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2596193815014408193-14-1669329732 - Holdem no limit (20/40) - 2022/11/24 22:42:12 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kf111 (1030)
+Seat 2: YL_ML_GL_42 (470)
+*** ANTE/BLINDS ***
+kf111 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [3h Js]
+*** PRE-FLOP *** 
+kf111 folds
+YL_ML_GL_42 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2596193815014408193-15-1669329736 - Holdem no limit (20/40) - 2022/11/24 22:42:16 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kf111 (1010)
+Seat 2: YL_ML_GL_42 (490)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+kf111 posts big blind 40
+Dealt to YL_ML_GL_42 [2d 3h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+kf111 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: kf111 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2596193815014408193-16-1669329740 - Holdem no limit (20/40) - 2022/11/24 22:42:20 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kf111 (1030)
+Seat 2: YL_ML_GL_42 (470)
+*** ANTE/BLINDS ***
+kf111 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Ad Ah]
+*** PRE-FLOP *** 
+kf111 raises 60 to 100
+YL_ML_GL_42 raises 370 to 470 and is all-in
+kf111 folds
+YL_ML_GL_42 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 570
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2596193815014408193-17-1669329751 - Holdem no limit (20/40) - 2022/11/24 22:42:31 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kf111 (930)
+Seat 2: YL_ML_GL_42 (570)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+kf111 posts big blind 40
+Dealt to YL_ML_GL_42 [7d 2h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+kf111 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: kf111 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2596193815014408193-18-1669329755 - Holdem no limit (20/40) - 2022/11/24 22:42:35 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kf111 (950)
+Seat 2: YL_ML_GL_42 (550)
+*** ANTE/BLINDS ***
+kf111 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [Ts 7c]
+*** PRE-FLOP *** 
+kf111 folds
+YL_ML_GL_42 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2596193815014408193-19-1669329760 - Holdem no limit (20/40) - 2022/11/24 22:42:40 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kf111 (930)
+Seat 2: YL_ML_GL_42 (570)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 20
+kf111 posts big blind 40
+Dealt to YL_ML_GL_42 [Ah 5h]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 80 to 120
+kf111 folds
+YL_ML_GL_42 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: YL_ML_GL_42 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #2596193815014408193-20-1669329765 - Holdem no limit (20/40) - 2022/11/24 22:42:45 UTC
+Table: 'Expresso(604473477)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kf111 (890)
+Seat 2: YL_ML_GL_42 (610)
+*** ANTE/BLINDS ***
+kf111 posts small blind 20
+YL_ML_GL_42 posts big blind 40
+Dealt to YL_ML_GL_42 [8c 5c]
+*** PRE-FLOP *** 
+kf111 raises 80 to 120
+YL_ML_GL_42 raises 490 to 610 and is all-in
+kf111 calls 490
+*** FLOP *** [Qc 9d 3h]
+*** TURN *** [Qc 9d 3h][7h]
+*** RIVER *** [Qc 9d 3h 7h][3s]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [8c 5c] (One pair : 3)
+kf111 shows [Qs 2s] (Two pairs : Queens and 3)
+kf111 collected 1220 from pot
+*** SUMMARY ***
+Total pot 1220 | No rake
+Board: [Qc 9d 3h 7h 3s]
+Seat 1: kf111 (small blind) (button) showed [Qs 2s] and won 1220 with Two pairs : Queens and 3
+Seat 2: YL_ML_GL_42 (big blind) showed [8c 5c] and lost with One pair : 3
+
+

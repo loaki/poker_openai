@@ -1,0 +1,275 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2598724877896646657-1-1669481781 - Holdem no limit (10/20) - 2022/11/26 16:56:21 UTC
+Table: 'Expresso(605062786)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bounti23 (500)
+Seat 2: YL_ML_GL_42 (500)
+Seat 3: OKPOURLE12 (500)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+OKPOURLE12 posts big blind 20
+Dealt to YL_ML_GL_42 [Ah 9s]
+*** PRE-FLOP *** 
+bounti23 calls 20
+YL_ML_GL_42 raises 60 to 80
+OKPOURLE12 folds
+bounti23 calls 60
+*** FLOP *** [8h 7h 3c]
+YL_ML_GL_42 bets 144
+bounti23 folds
+YL_ML_GL_42 collected 324 from pot
+*** SUMMARY ***
+Total pot 324 | No rake
+Board: [8h 7h 3c]
+Seat 2: YL_ML_GL_42 (small blind) won 324
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2598724877896646657-2-1669481801 - Holdem no limit (10/20) - 2022/11/26 16:56:41 UTC
+Table: 'Expresso(605062786)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bounti23 (420)
+Seat 2: YL_ML_GL_42 (600)
+Seat 3: OKPOURLE12 (480)
+*** ANTE/BLINDS ***
+OKPOURLE12 posts small blind 10
+bounti23 posts big blind 20
+Dealt to YL_ML_GL_42 [Ad 8s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 50 to 70
+OKPOURLE12 folds
+bounti23 folds
+YL_ML_GL_42 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 2: YL_ML_GL_42 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2598724877896646657-3-1669481807 - Holdem no limit (10/20) - 2022/11/26 16:56:47 UTC
+Table: 'Expresso(605062786)#0' 3-max (real money) Seat #3 is the button
+Seat 1: bounti23 (400)
+Seat 2: YL_ML_GL_42 (630)
+Seat 3: OKPOURLE12 (470)
+*** ANTE/BLINDS ***
+bounti23 posts small blind 10
+YL_ML_GL_42 posts big blind 20
+Dealt to YL_ML_GL_42 [Jc Kc]
+*** PRE-FLOP *** 
+OKPOURLE12 folds
+bounti23 raises 40 to 60
+YL_ML_GL_42 raises 120 to 180
+bounti23 raises 220 to 400 and is all-in
+YL_ML_GL_42 calls 220
+*** FLOP *** [9h 9c 9s]
+*** TURN *** [9h 9c 9s][Ad]
+*** RIVER *** [9h 9c 9s Ad][7h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Jc Kc] (Trips of 9)
+bounti23 shows [Ts Th] (Full of 9 and Tens)
+bounti23 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [9h 9c 9s Ad 7h]
+Seat 1: bounti23 (small blind) showed [Ts Th] and won 800 with Full of 9 and Tens
+Seat 2: YL_ML_GL_42 (big blind) showed [Jc Kc] and lost with Trips of 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2598724877896646657-4-1669481833 - Holdem no limit (10/20) - 2022/11/26 16:57:13 UTC
+Table: 'Expresso(605062786)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bounti23 (800)
+Seat 2: YL_ML_GL_42 (230)
+Seat 3: OKPOURLE12 (470)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 10
+OKPOURLE12 posts big blind 20
+Dealt to YL_ML_GL_42 [Jh Tc]
+*** PRE-FLOP *** 
+bounti23 calls 20
+YL_ML_GL_42 raises 210 to 230 and is all-in
+OKPOURLE12 folds
+bounti23 folds
+YL_ML_GL_42 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 2: YL_ML_GL_42 (small blind) won 270
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #2598724877896646657-5-1669481854 - Holdem no limit (10/20) - 2022/11/26 16:57:34 UTC
+Table: 'Expresso(605062786)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bounti23 (780)
+Seat 2: YL_ML_GL_42 (270)
+Seat 3: OKPOURLE12 (450)
+*** ANTE/BLINDS ***
+OKPOURLE12 posts small blind 10
+bounti23 posts big blind 20
+Dealt to YL_ML_GL_42 [4c Td]
+*** PRE-FLOP *** 
+YL_ML_GL_42 folds
+OKPOURLE12 calls 10
+bounti23 checks
+*** FLOP *** [3d 7s 3c]
+OKPOURLE12 bets 20
+bounti23 folds
+OKPOURLE12 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3d 7s 3c]
+Seat 3: OKPOURLE12 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2598724877896646657-6-1669481871 - Holdem no limit (15/30) - 2022/11/26 16:57:51 UTC
+Table: 'Expresso(605062786)#0' 3-max (real money) Seat #3 is the button
+Seat 1: bounti23 (760)
+Seat 2: YL_ML_GL_42 (270)
+Seat 3: OKPOURLE12 (470)
+*** ANTE/BLINDS ***
+bounti23 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [As 8c]
+*** PRE-FLOP *** 
+OKPOURLE12 folds
+bounti23 calls 15
+YL_ML_GL_42 raises 240 to 270 and is all-in
+bounti23 folds
+YL_ML_GL_42 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 300
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2598724877896646657-7-1669481881 - Holdem no limit (15/30) - 2022/11/26 16:58:01 UTC
+Table: 'Expresso(605062786)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bounti23 (730)
+Seat 2: YL_ML_GL_42 (300)
+Seat 3: OKPOURLE12 (470)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+OKPOURLE12 posts big blind 30
+Dealt to YL_ML_GL_42 [6h As]
+*** PRE-FLOP *** 
+bounti23 folds
+YL_ML_GL_42 raises 270 to 300 and is all-in
+OKPOURLE12 calls 270
+*** FLOP *** [8h Tc 4h]
+*** TURN *** [8h Tc 4h][6d]
+*** RIVER *** [8h Tc 4h 6d][Jh]
+*** SHOW DOWN ***
+OKPOURLE12 shows [4s Ad] (One pair : 4)
+YL_ML_GL_42 shows [6h As] (One pair : 6)
+YL_ML_GL_42 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [8h Tc 4h 6d Jh]
+Seat 2: YL_ML_GL_42 (small blind) showed [6h As] and won 600 with One pair : 6
+Seat 3: OKPOURLE12 (big blind) showed [4s Ad] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2598724877896646657-8-1669481896 - Holdem no limit (15/30) - 2022/11/26 16:58:16 UTC
+Table: 'Expresso(605062786)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bounti23 (730)
+Seat 2: YL_ML_GL_42 (600)
+Seat 3: OKPOURLE12 (170)
+*** ANTE/BLINDS ***
+OKPOURLE12 posts small blind 15
+bounti23 posts big blind 30
+Dealt to YL_ML_GL_42 [Jh 8c]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 75 to 105
+OKPOURLE12 raises 65 to 170 and is all-in
+bounti23 folds
+YL_ML_GL_42 calls 65
+*** FLOP *** [Ks 9c 5c]
+*** TURN *** [Ks 9c 5c][4h]
+*** RIVER *** [Ks 9c 5c 4h][8h]
+*** SHOW DOWN ***
+OKPOURLE12 shows [Ah 2s] (High card : Ace)
+YL_ML_GL_42 shows [Jh 8c] (One pair : 8)
+YL_ML_GL_42 collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Board: [Ks 9c 5c 4h 8h]
+Seat 2: YL_ML_GL_42 (button) showed [Jh 8c] and won 370 with One pair : 8
+Seat 3: OKPOURLE12 (small blind) showed [Ah 2s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2598724877896646657-9-1669481913 - Holdem no limit (15/30) - 2022/11/26 16:58:33 UTC
+Table: 'Expresso(605062786)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bounti23 (700)
+Seat 2: YL_ML_GL_42 (800)
+*** ANTE/BLINDS ***
+bounti23 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Jd Td]
+*** PRE-FLOP *** 
+bounti23 folds
+YL_ML_GL_42 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: YL_ML_GL_42 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2598724877896646657-10-1669481917 - Holdem no limit (15/30) - 2022/11/26 16:58:37 UTC
+Table: 'Expresso(605062786)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bounti23 (685)
+Seat 2: YL_ML_GL_42 (815)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+bounti23 posts big blind 30
+Dealt to YL_ML_GL_42 [Kh 3s]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 60 to 90
+bounti23 folds
+YL_ML_GL_42 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: YL_ML_GL_42 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2598724877896646657-11-1669481923 - Holdem no limit (15/30) - 2022/11/26 16:58:43 UTC
+Table: 'Expresso(605062786)#0' 3-max (real money) Seat #1 is the button
+Seat 1: bounti23 (655)
+Seat 2: YL_ML_GL_42 (845)
+*** ANTE/BLINDS ***
+bounti23 posts small blind 15
+YL_ML_GL_42 posts big blind 30
+Dealt to YL_ML_GL_42 [Ad 5s]
+*** PRE-FLOP *** 
+bounti23 raises 60 to 90
+YL_ML_GL_42 raises 755 to 845 and is all-in
+bounti23 calls 565 and is all-in
+*** FLOP *** [6s 9c 2c]
+*** TURN *** [6s 9c 2c][6c]
+*** RIVER *** [6s 9c 2c 6c][3h]
+*** SHOW DOWN ***
+bounti23 shows [7s 7c] (Two pairs : 7 and 6)
+YL_ML_GL_42 shows [Ad 5s] (One pair : 6)
+YL_ML_GL_42 collected 190 from side pot 1
+bounti23 collected 1310 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [6s 9c 2c 6c 3h]
+Seat 1: bounti23 (small blind) (button) showed [7s 7c] and won 1310 with Two pairs : 7 and 6
+Seat 2: YL_ML_GL_42 (big blind) showed [Ad 5s] and won 190 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #2598724877896646657-12-1669481939 - Holdem no limit (15/30) - 2022/11/26 16:58:59 UTC
+Table: 'Expresso(605062786)#0' 3-max (real money) Seat #2 is the button
+Seat 1: bounti23 (1310)
+Seat 2: YL_ML_GL_42 (190)
+*** ANTE/BLINDS ***
+YL_ML_GL_42 posts small blind 15
+bounti23 posts big blind 30
+Dealt to YL_ML_GL_42 [Tc 9d]
+*** PRE-FLOP *** 
+YL_ML_GL_42 raises 160 to 190 and is all-in
+bounti23 calls 160
+*** FLOP *** [7c Kh 8h]
+*** TURN *** [7c Kh 8h][9s]
+*** RIVER *** [7c Kh 8h 9s][3h]
+*** SHOW DOWN ***
+YL_ML_GL_42 shows [Tc 9d] (One pair : 9)
+bounti23 shows [Kd 5h] (One pair : Kings)
+bounti23 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [7c Kh 8h 9s 3h]
+Seat 1: bounti23 (big blind) showed [Kd 5h] and won 380 with One pair : Kings
+Seat 2: YL_ML_GL_42 (small blind) (button) showed [Tc 9d] and lost with One pair : 9
+
+
