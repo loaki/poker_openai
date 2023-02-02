@@ -2,7 +2,11 @@ import tkinter as tk
 from tkinter import ttk
 import openai
 
-def set_form(root, data):
+def set_form(root, data, form_frame=None):
+    if form_frame:
+        form_frame.place_forget()
+        form_frame.destroy()
+
     form_frame = tk.LabelFrame(root, text='form')
 
     start_x = 10
@@ -189,6 +193,7 @@ def set_form(root, data):
     # answer_label.insert(tk.INSERT, 'hello')
     # answer_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
 
+    return form_frame
 
 def send(root, table_nb_player=None, position=None, nb_player=None, round=None, stack=None, pot=None, call=None, hand_v1=None, hand_s1=None, hand_v2=None, hand_s2=None, card_v1=None, card_s1=None, card_v2=None, card_s2=None, card_v3=None, card_s3=None, card_v4=None, card_s4=None, card_v5=None, card_s5=None):
     openai.api_key = OPENAI_KEY

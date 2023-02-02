@@ -17,8 +17,8 @@ def app():
     menu = tk.Menu(root)
     root.config(menu=menu)
     set_menu(root, menu)
-    set_form(root, table_data)
-    set_tables(root)
+    form_frame = set_form(root, table_data)
+    set_tables(root, form_frame)
     root.mainloop()
 
 if __name__ == '__main__':

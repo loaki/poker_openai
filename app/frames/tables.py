@@ -10,12 +10,18 @@ from frames.form import set_form
 
 load_dotenv()
 OPENAI_KEY = os.getenv('OPENAI_KEY')
+
 parser = ConfigParser()
 parser.read('config.ini')
 LOG_PATH = parser.get('path', 'log')
 HISTORY_PATH = parser.get('path', 'history')
 
-def set_tables(root):
+FORM_FRAME = None
+
+def set_tables(root, form_frame):
+    global FORM_FRAME
+    FORM_FRAME = form_frame
+
     tables_frame = tk.LabelFrame(root, text='tables')
 
     start_x = 10
@@ -109,7 +115,6 @@ def del_win(tables_frame, window_pos, window_selected):
             window_pos.pop(i)
 
 def select_win(root, tables_frame, window_pos, window_selected):
-
     win = next((w for w in window_pos if w[1] == window_selected), ('null', -1, 0))
     table_id_label = tk.Label(tables_frame, text=win[2])
     table_id_label.place(x=440, y=42)
@@ -124,4 +129,5 @@ def select_win(root, tables_frame, window_pos, window_selected):
     table_data = Table_data()
     table_data.pot = 30.2
     table_data.hand_1 = (3, 2)
-    set_form(root, table_data)
+    global FORM_FRAME
+    FORM_FRAME = set_form(root, table_data, FORM_FRAME)
