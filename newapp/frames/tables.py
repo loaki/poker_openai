@@ -9,7 +9,8 @@ FORM_FRAME = None
 
 def set_tables(root, tables, form_frame, tables_frame=None):
     global FORM_FRAME
-    FORM_FRAME = form_frame
+    if not FORM_FRAME:
+        FORM_FRAME = form_frame
 
     if tables_frame:
         tables_frame.place_forget()
@@ -29,7 +30,7 @@ def set_tables(root, tables, form_frame, tables_frame=None):
 
     table_var = tk.IntVar(value=0)
     for i, table in enumerate(tables):
-        table_drop = customtkinter.CTkRadioButton(tables_frame, text=table, variable=table_var, value=i+1, command=lambda: select_table(root, table))
+        table_drop = customtkinter.CTkRadioButton(tables_frame, text=table, variable=table_var, value=i+1, command=lambda: select_table(root, tables, table_var.get()))
         table_drop.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
         n_y+=1
 
@@ -38,8 +39,8 @@ def set_tables(root, tables, form_frame, tables_frame=None):
 
     return tables_frame
 
-def select_table(root, table):
-    print(table)
+def select_table(root, tables, value):
+    print(tables[value - 1])
     table_data = Table_data()
     table_data.stack = 201
     table_data.pot = 30.2

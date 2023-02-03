@@ -17,14 +17,10 @@ parser.read('config.ini')
 LOG_PATH = parser.get('path', 'log')
 HISTORY_PATH = parser.get('path', 'history')
 
-FORM_FRAME = None
-TABLES_FRAME = None
-
-def set_selection(root, form_frame, tables_frame, tables=[], selection_frame=None):
-    global FORM_FRAME
-    global TABLES_FRAME
-    FORM_FRAME = form_frame
-    TABLES_FRAME = form_frame
+def set_selection(root, form_frame, tables_frame, add_tables=[], del_tables=[], selection_frame=None):
+    if selection_frame:
+        selection_frame.place_forget()
+        selection_frame.destroy()
 
     start_x = 10
     start_y = 0
@@ -42,11 +38,12 @@ def set_selection(root, form_frame, tables_frame, tables=[], selection_frame=Non
     table_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     n_y+=1
 
-    add_table_list = get_all_tournaments_id(10, LOG_PATH)
     add_table_var = customtkinter.StringVar(value='')
-    add_drop = customtkinter.CTkOptionMenu(selection_frame, values=add_table_list, width=80, height=25, variable=add_table_var, command=lambda table: add_table(
+    add_drop = customtkinter.CTkOptionMenu(selection_frame, values=add_tables, width=80, height=25, variable=add_table_var, command=lambda table: add_table(
         root,
-        tables,
+        add_tables,
+        del_tables,
+        form_frame,
         selection_frame,
         tables_frame,
         table
@@ -56,9 +53,11 @@ def set_selection(root, form_frame, tables_frame, tables=[], selection_frame=Non
     n_y += 1
 
     del_table_var = customtkinter.StringVar(value='')
-    del_drop = customtkinter.CTkOptionMenu(selection_frame, values=tables, width=80, height=25, variable=del_table_var, command=lambda table: del_table(
+    del_drop = customtkinter.CTkOptionMenu(selection_frame, values=del_tables, width=80, height=25, variable=del_table_var, command=lambda table: del_table(
         root,
-        tables,
+        add_tables,
+        del_tables,
+        form_frame,
         selection_frame,
         tables_frame,
         table
@@ -81,13 +80,17 @@ def set_selection(root, form_frame, tables_frame, tables=[], selection_frame=Non
 
     reload_drop = customtkinter.CTkButton(selection_frame, text='reload', command=lambda: reload(
         root,
-        tables,
-        selection_frame
+        del_tables,
+        form_frame,
+        selection_frame,
+        tables_frame
     ))
     reload_drop.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y, width=80, height=25)
     n_y += 2
 
     selection_frame.place(x=pad_x*5+30, y=10, width=pad_x*2, height=start_y+pad_y*n_y)
+
+    return selection_frame
 
 def select_log_path():
     global LOG_PATH
@@ -107,21 +110,18 @@ def select_history_path():
     with open('config.ini', 'w') as f:
         parser.write(f)
 
-def add_table(root, tables, selection_frame, tables_frame, table):
-    global FORM_FRAME
-    tables.append(table)
-    print(tables)
-    print(table)
-    set_selection(root, FORM_FRAME, tables_frame, tables, selection_frame)
-    set_tables(root, tables, FORM_FRAME, tables_frame)
+def add_table(root, add_tables, del_tables, form_frame, selection_frame, tables_frame, table):
+    add_tables.remove(table)
+    del_tables.append(table)
+    tables_frame = set_tables(root, del_tables, form_frame, tables_frame)
+    set_selection(root, form_frame, tables_frame, add_tables, del_tables, selection_frame)
     
-def del_table(root, tables, selection_frame, tables_frame, table):
-    global FORM_FRAME
-    tables.remove(table)
-    set_selection(root, FORM_FRAME, tables_frame, tables, selection_frame)
-    set_tables(root, tables, FORM_FRAME, tables_frame)
+def del_table(root, add_tables, del_tables, form_frame, selection_frame, tables_frame, table):
+    add_tables.append(table)
+    del_tables.remove(table)
+    tables_frame = set_tables(root, del_tables, form_frame, tables_frame)
+    set_selection(root, form_frame, tables_frame, add_tables, del_tables, selection_frame)
 
-
-def reload(root, tables, selection_frame):
-    global FORM_FRAME
-    set_selection(root, FORM_FRAME, tables, selection_frame)
+def reload(root, del_tables, form_frame, selection_frame, tables_frame):
+    add_tables = list(set(get_all_tournaments_id(9, LOG_PATH)) - set(del_tables))
+    set_selection(root, form_frame, tables_frame, add_tables, del_tables, selection_frame)
