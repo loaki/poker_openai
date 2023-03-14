@@ -49,7 +49,7 @@ def set_selection(root, form_frame, tables_frame, add_tables=[], del_tables=[], 
         table
     ))
     add_drop.set('add')
-    add_drop.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y, height=25)
+    add_drop.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     n_y += 1
 
     del_table_var = customtkinter.StringVar(value='')
@@ -63,32 +63,33 @@ def set_selection(root, form_frame, tables_frame, add_tables=[], del_tables=[], 
         table
     ))
     del_drop.set('del')
-    del_drop.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y, height=25)
+    del_drop.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     n_y += 2
 
     path_label = customtkinter.CTkLabel(selection_frame, text='path config')
     path_label.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     n_y+=1
 
-    log_drop = customtkinter.CTkButton(selection_frame, text='log', command=select_log_path)
-    log_drop.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y, width=80, height=25)
+    log_drop = customtkinter.CTkButton(selection_frame, text='log', width=80, height=25, command=select_log_path)
+    log_drop.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     n_y += 1
 
-    history_drop = customtkinter.CTkButton(selection_frame, text='history', command=select_history_path)
-    history_drop.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y, width=80, height=25)
+    history_drop = customtkinter.CTkButton(selection_frame, text='history', width=80, height=25, command=select_history_path)
+    history_drop.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     n_y += 2
 
-    reload_drop = customtkinter.CTkButton(selection_frame, text='reload', command=lambda: reload(
+    reload_drop = customtkinter.CTkButton(selection_frame, text='reload', width=80, height=25, command=lambda: reload(
         root,
         del_tables,
         form_frame,
         selection_frame,
         tables_frame
     ))
-    reload_drop.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y, width=80, height=25)
+    reload_drop.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     n_y += 2
 
-    selection_frame.place(x=pad_x*5+30, y=10, width=pad_x*2, height=start_y+pad_y*n_y)
+    selection_frame.configure(width=pad_x*2, height=start_y+pad_y*n_y)
+    selection_frame.place(x=pad_x*5+30, y=10)
 
     return selection_frame
 

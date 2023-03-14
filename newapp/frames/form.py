@@ -208,10 +208,12 @@ def set_form(root, data, form_frame=None):
         card_v5_drop.get(),
         card_s5_drop.get()
     ))
-    send_btn.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y+10, width=80, height=25)
+    send_btn.configure(width=80, height=25)
+    send_btn.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y+10)
     n_y+=2
 
-    form_frame.place(x=10, y=10, width=pad_x*3, height=start_y+pad_y*n_y)
+    form_frame.configure(width=pad_x*3, height=start_y+pad_y*n_y)
+    form_frame.place(x=10, y=10)
     n_y+=1
 
     # answer_label = tk.Text(root, width=42, height= 20)

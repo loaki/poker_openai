@@ -35,7 +35,8 @@ def set_tables(root, tables, form_frame, tables_frame=None):
         n_y+=1
 
     n_y+=1
-    tables_frame.place(x=pad_x*3+20, y=10, width=pad_x*2, height=start_y+pad_y*n_y)
+    tables_frame.configure(width=pad_x*2, height=start_y+pad_y*n_y)
+    tables_frame.place(x=pad_x*3+20, y=10)
 
     return tables_frame
 
