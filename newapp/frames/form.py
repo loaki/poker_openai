@@ -212,7 +212,7 @@ def set_form(root, data, form_frame=None):
     send_btn.place(x=start_x+pad_x*1, y=start_y+pad_y*n_y+10)
     n_y+=2
 
-    form_frame.configure(width=pad_x*3, height=start_y+pad_y*n_y)
+    form_frame.configure(width=pad_x*3, height=pad_y*n_y)
     form_frame.place(x=10, y=10)
     n_y+=1
 

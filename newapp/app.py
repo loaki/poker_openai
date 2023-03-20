@@ -6,6 +6,8 @@ from extractor.extractor import get_all_tournaments_id
 from frames.form import set_form
 from frames.selection import set_selection
 from frames.tables import set_tables
+from frames.ranges import set_ranges
+from frames.stats import set_stats
 
 customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("dark-blue")  # Themes: "blue" (standard), "green", "dark-blue"
@@ -28,6 +30,8 @@ class App(customtkinter.CTk):
         tables_frame = set_tables(self, [], form_frame)
         add_tables = get_all_tournaments_id(9, LOG_PATH)
         set_selection(self, form_frame, tables_frame, add_tables)
+        set_ranges(self)
+        set_stats(self)
 
 if __name__ == '__main__':
     app = App()

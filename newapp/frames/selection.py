@@ -88,7 +88,7 @@ def set_selection(root, form_frame, tables_frame, add_tables=[], del_tables=[], 
     reload_drop.place(x=start_x+pad_x*0, y=start_y+pad_y*n_y)
     n_y += 2
 
-    selection_frame.configure(width=pad_x*2, height=start_y+pad_y*n_y)
+    selection_frame.configure(width=pad_x*2, height=pad_y*n_y)
     selection_frame.place(x=pad_x*5+30, y=10)
 
     return selection_frame
